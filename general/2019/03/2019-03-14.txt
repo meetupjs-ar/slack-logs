@@ -1,0 +1,231 @@
+09:54:29 - Francisco (@frajova):
+Buen dia!! Alguien tiene experiencia comprando bateria de laptop fuera de Argentina? Alguna web o recomendacion para hacer?
+09:58:44 - ari (@adiaz):
+yo probaria con grabr
+09:59:01 - ari (@adiaz):
+que te la traiga algun viajero
+10:00:05 - Francisco (@frajova):
+No conocia ese servicio!! Exelente!
+10:00:12 - Francisco (@frajova):
+Probaste alguna vez?
+09:54:29 - Francisco (@frajova):
+Buen dia!! Alguien tiene experiencia comprando bateria de laptop fuera de Argentina? Alguna web o recomendacion para hacer?
+09:58:44 - ari (@adiaz):
+yo probaria con grabr
+09:59:01 - ari (@adiaz):
+que te la traiga algun viajero
+10:00:05 - Francisco (@frajova):
+No conocia ese servicio!! Exelente!
+10:00:12 - Francisco (@frajova):
+Probaste alguna vez?
+10:13:44 - ari (@adiaz):
+No, pero mucha gente sí
+10:13:48 - ari (@adiaz):
+funciona bien y no es taan caro
+10:27:00 - Julio (@julito):
+Yo usé Sherpals una vez y anduvo bien
+10:27:38 - Guido Vizoso (@guido.vizoso9):
+Grabr se la banca
+10:27:54 - Guido Vizoso (@guido.vizoso9):
+Y si estas en caba tienen unas oficinas donde podes ir a buscar tu pedido si el que te lo trae se tiene que ir o querés ir a un lugar seguro
+10:29:30 - Leandro Echevarria (@echevarrialeandro):
+Datazo :smile:
+11:27:42 - Patricio Palladino (@email):
+Hola, que tal? En Nomic Labs tenemos una herramienta de desarrollo de smart contracts open source ( <https://github.com/nomiclabs/buidler> ). Desde hace unos dias estamos experimentando con Gitcoin, un sistema de bounties para colaboradores open source. Basicamente abris issues y ofreces plata para quien los resuelva. Alguien tiene experiencia ofreciendo o cobrando bounties ahi? Es la primera vez que lo usamos y nos gustaria escuchar como les fue.
+
+Y por si a alguien le interesa, estos son los bounties:
+<https://gitcoin.co/issue/nomiclabs/buidler-etherscan/1/2586> --- Paga 600usd, tiempo estimado: 2/3 dias.
+<https://gitcoin.co/issue/nomiclabs/buidler-docker-solc/1/2585> --- Paga 1000usd, tiempo estimado: 4/5 dias.
+12:00:07 - Santiago Ruffino (@santi_0898):
+Como harían para que alguien que no entiende nada de programación, se adentre para ver si le gusta o no? 
+12:00:25 - Santiago Ruffino (@santi_0898):
+Para mi, si no te llamo nunca la atención, es difícil. Pero quiero opiniones de expertos 
+12:00:49 - Sergio Daniel Xalambrí (@sergiodxa):
+le mostras un `alert("Hola nombre")` donde `nombre` es el de la persona
+12:01:00 - Julian (@jantonielli01):
+mostrale este vid y decile q su dia a dia va a ser así <https://www.youtube.com/watch?v=u8qgehH3kEQ>
+12:01:10 - Sergio Daniel Xalambrí (@sergiodxa):
+tenés que mostrarle que podés hacer con programación
+12:02:21 - Brian Hume (@brianh20):
+muy bueno ese video
+12:02:21 - Santiago Ruffino (@santi_0898):
+Algun ejemplo?
+12:02:24 - Brian Hume (@brianh20):
+programacion a 4 manos
+12:03:32 - Santiago Ruffino (@santi_0898):
+Jajaja
+12:04:02 - Santiago Ruffino (@santi_0898):
+Que coordinación para completar las palabras del otro escribiendo asi
+12:18:55 - Gonza Espeche (@espeche.g):
+jajaja morí con estos comentarios
+12:23:27 - Santiago Ruffino (@santi_0898):
+Ahora, en serio. Como meten a alguien en el mundo de los programadores?
+12:24:19 - Germán Burgardt (@germanandresburgardt):
+yo siempre les hablo de la gran demanda laboral
+12:25:39 - Martín Aimar (@maimar):
+yo lo orientaría más a la idea de que se puede resolver una gran cantidad de problemas
+12:26:21 - Julio (@julito):
+¿Por qué querés que se meta en programación?
+12:27:17 - Santiago Ruffino (@santi_0898):
+Es mi cuñado. Estaba haciendo el ingreso a medicina y no quedo. Le interesa lo que es la biotecnologia tambien, pero la mayoria son cursos caros o ya empezaron. Igual, siempre le gustaron los juegos y todo. Segun el, le interesa todo lo que es por detras un juego
+12:27:28 - Santiago Ruffino (@santi_0898):
+Yo veo dificil que le interese
+12:27:59 - Santiago Ruffino (@santi_0898):
+Pero bueno, no quiero hacerle la cruz sin intentar. El tema es que no sabe NADA. Entonces, necesitaria mostrarle algo de lo que se puede hacer, para que vea su "futuro"
+12:28:29 - Hernan Rajchert (@sherman):
+otra buena es en el inspector de chrome en una pagina de noticias mostrarle como podes cambiar el título y después mostrarle la extensión de macri gato :troll:
+12:30:50 - Gonza Espeche (@espeche.g):
+Agarralo por el lado de los juegos... mostrarle como se programa alguno particular que le guste
+12:32:11 - Santiago Ruffino (@santi_0898):
+Habia pensado eso, pero no se que onda para el dia de mañana buscar laburo de eso
+12:36:02 - Brian Hume (@brianh20):
+Si algo me enseñó acamica, es que sólo sucede solo
+12:36:48 - Gonza Espeche (@espeche.g):
+Si, igual pienso que en este caso serviría para ver si se siente cómodo mirando una pantalla creando... Después disparará para donde le guste.
+12:40:30 - Leandro Echevarria (@echevarrialeandro):
+<@U9KMYNJMV> fijate freecodecamp a ver si te convence como para sentarte con el una tarde y mostrarle cosas (ademas de los videos que pasaron recien que estan muy copados, la demanda laboral, las cosas que podes hacer con tech, o sea todo :stuck_out_tongue: )
+12:43:31 - Luis Alvarez (@luistensai):
+mostrale algún tuto/workshop de desarrollo de juegos, de ahí puede ver dos cosas, cómo se labura y qué cosas puede llegar a hacer:
+<https://www.youtube.com/watch?v=DywBqQtTHMo>
+tiene que haber algo en español, pero no busqué
+12:57:14 - Andres (@alot123):
+<https://sandymaguire.me/blog/become-a-programmer/>
+12:57:33 - Diego Ferrari (@die.a.ferrari):
+Mirá, yo conozco gente que estaba intrigada y lo que hizo fue hacer un curso introductorio de Front end. En estos casos particulares fue en Plataforma5 (lo recomiendo). Es un curso presencial corto y relativamente barato en el que te explican de 0 y mismo dándote contexto y explicando qué es internet, como funciona y bla.
+
+Conozco gente que le copó y siguió capacitándose y gente que le pareció interesante pero que no se ven haciéndolo. El curso mismo ya tiene proyectos básicos pero piolas para ir metiéndote.
+12:57:50 - Martín Valdés de León (@mvaldesdeleon):
+Yo intentaria mostrarle que cosas se pueden hacer via programar
+12:57:52 - Martín Valdés de León (@mvaldesdeleon):
+a ver si alguna le copa
+12:58:10 - Martín Valdés de León (@mvaldesdeleon):
+intentar meter a gente a programar "porque hay laburo" sin mas nada es medio cualquiera
+12:58:42 - Diego Ferrari (@die.a.ferrari):
+A mi me parece la mejor forma porque es abarcativa desde lo conceptual, específica desde la experiencia de ser programador y ves resultados.
+13:06:26 - Santiago Ruffino (@santi_0898):
+Que cosas de lo que se puede hacer mediante programacion? Porque no creo que una API sea un buen ejemplo. Jajajaja
+13:07:09 - Martín Aimar (@maimar):
+buscá algún video de sarah drasner que hace cosas divertidas con gráficos
+13:08:41 - Gonza Gluzman (@gonza):
+Las cosas tipo de robótica son las más eye-catching para lxs neófitos, creo
+13:08:58 - Gonza Gluzman (@gonza):
+Sobre todo si son jóvenes
+13:09:56 - Santiago Ruffino (@santi_0898):
+Habia pensado en mostrar un poco de Arduino
+13:10:12 - Luis Alvarez (@luistensai):
+si le gustan los juegos mostrale cosas sobre juegos :stuck_out_tongue:
+13:10:37 - gillchristian (@gillchristian):
+y despues va a laburar de frontend acomodando divs :troll:
+13:11:08 - Gonza Gluzman (@gonza):
+*desacomodando divs
+13:11:08 - Luis Alvarez (@luistensai):
+a mi me fascina eso, pero lo veo muy acotado al mercado <https://www.youtube.com/watch?v=DywBqQtTHMo>
+13:11:54 - Luis Alvarez (@luistensai):
+hace poco hubo un workshop de unreal engine y los blueprints acá en bs as, el flaco hizo un endless runner en 1:30hs, lamentablemente no encuentro el video
+13:12:09 - Luis Alvarez (@luistensai):
+por ahí está bueno que entre con algo como hobby
+13:12:39 - Luis Alvarez (@luistensai):
+encontrar algún problema que le gustaría solucionar
+13:46:54 - Silvio Messina (@smessina):
+Otra idea puede ser “enseñarle” a administrar algo de su vida de forma más ágil.
+
+Por ejemplo, que arme un excel con las facturas que paga (indirectamente aprende a estructurar datos).
+
+Luego mostrarle que en vez de un excel podría crear un “programa” donde le pida que ingrese los datos y los muestre por pantalla (ahí ya se mete en input/output) y que los guarde en un archivo X (un .txt al menos)
+
+Luego por decantación sale meterse en validaciones, tipos de datos, etc.
+
+Y luego armar una interfaz más friendly para el ingreso y visualización.
+
+En mi laburo lo hacemos en el curso de Python y con gente que realmente no sabe nada más que Word/Excel se le abre la cabeza
+14:23:23 - Santiago Ruffino (@santi_0898):
+Uh, que copado esa forma de meterse
+14:49:43 - Daniel Broder (@dabroder):
+Alto `programming 101` te mandaste <@U86A4QH8U>
+14:57:17 - Ariel Barabas (@ariel.barabas):
+si hacés eso en google, podés meter google scripts que está bárbaro
+14:57:53 - Ariel Barabas (@ariel.barabas):
+te deja interactuar con otros servicios de google, yo hice que me aparezcan los vencimientos de las cosas que cargo en el excel, en google calendar
+15:01:52 - Leandro Echevarria (@echevarrialeandro):
+Genial
+15:07:25 - Silvio Messina (@smessina):
+Jajaja no vives de las Leyes :sweat_smile:
+15:36:28 - Hernan Rajchert (@sherman):
+Me llegó un mensaje de Burger.js desde meetup y me emocioné :D… después vi que era una oferta de laburo y me deprimí :(…
+15:36:36 - Hernan Rajchert (@sherman):
+queremos cheddar! queremos cheddar!
+15:36:37 - Hernan Rajchert (@sherman):
+<http://gph.is/18I9t67>
+15:37:48 - Gonza Gluzman (@gonza):
+En este país nadie quiere laburar, vago!
+15:38:09 - Santiago Ruffino (@santi_0898):
+Todos quieren Burguer. Pero nadie quiere laburar para tener las burguers
+15:44:28 - Luis Alvarez (@luistensai):
+y las burguers? :travolta:
+15:46:05 - Hernan Rajchert (@sherman):
+<@U24KJ4JET> :phone:
+15:46:16 - gillchristian (@gillchristian):
+Que spoiled que estamos en esta industria, nos llegan ofertas de laburo y nos deprime
+15:46:21 - gillchristian (@gillchristian):
+¯\_(ツ)_/¯
+15:47:08 - Mateo Silguero (@mfsilguero):
+Jajaja mal, es tipo: uh otra vez un recruiter
+15:47:11 - Cristhian Duran (@cris):
+<@U2NNKR8G7> como era el lugar ese dijiste el otro día? que mandaste foto
+15:47:27 - Jorge Cano (@jorgeucano):
+tiro una gambeta gigante
+15:47:37 - Cristhian Duran (@cris):
+nooo, así lo pongo para el miércoles que viene
+15:48:10 - Luis Ventocilla (@lvsmix):
+ya era hora che
+15:48:15 - Cristhian Duran (@cris):
+ahora terminé de dar clases y me rompí el ligamento cruzado de la rodilla, tengo MUUUUCHO tiempo libre, así que a engordar se a dicho
+15:48:16 - Gonzalo González Mora (@gonzalogm):
+Tengo un hambre terrible y acabo de clickear la foto de Cris, grave error
+15:48:19 - Jorge Cano (@jorgeucano):
+<https://giphy.com/gifs/xTiTnkatX0sdQFYPQI/html5>
+15:49:02 - Hernan Rajchert (@sherman):
+El otro dia me pasaron esta foto… dicen las malas lenguas que es de las mejorcitas de bs
+15:49:18 - Julian (@jantonielli01):
+Nice 
+15:49:24 - Agustin Mulet (@sugusin):
+Fui hace dos semanas, 10/10 (al de villa crespo fui)
+15:49:34 - Jorge Cano (@jorgeucano):
+pareceria cerrado eso xD
+15:49:41 - Cristhian Duran (@cris):
+jajaja vamos a <#C2NLZG1K7|burgerjs> y hacemos una votación con opciones y yo armo el evento
+15:49:58 - Cristhian Duran (@cris):
+así nadie se fuma una conversación cheddarosa en general
+15:50:04 - Hernan Rajchert (@sherman):
+en construccion :P… franquicia con dos locales mas creo… pero al parecer le fue muy bien
+15:50:19 - Julian (@jantonielli01):
+Ah yo tmb pensé que había cerrado 
+15:50:20 - Hernan Rajchert (@sherman):
+y creo que el original queda en la loma del…
+15:50:23 - Julian (@jantonielli01):
+Hernán mandas mensajes confusos
+15:50:31 - Jorge Cano (@jorgeucano):
+bien
+15:50:32 - Jorge Cano (@jorgeucano):
+xD
+15:51:06 - Luis Alvarez (@luistensai):
+se llena mal la birra
+15:51:14 - Luis Alvarez (@luistensai):
+hay un blog que tira la posta de las burgers
+15:51:26 - Julian (@jantonielli01):
+El otro día conocí este lugar y es excelente Bulls BBQ smoke house
+<https://goo.gl/maps/CcYa8iCeboL2>
+15:51:41 - Camila Cepeda (@camilunghi):
+<@U24KJ4JET> te lo mandé por instagram :stuck_out_tongue:
+15:51:50 - Luis Alvarez (@luistensai):
+bah... no sé si la posta, pero tiene varios muy buenos <https://burgerfacts.com/>
+15:52:14 - Hernan Rajchert (@sherman):
+:kissing_heart:
+15:52:42 - Cristhian Duran (@cris):
+<#C2NLZG1K7|burgerjs>
+15:53:23 - Julian (@jantonielli01):
+Alguien quiere la katana
+15:59:16 - Martín Aimar (@maimar):
+Deniro son muy buenas
+15:59:41 - Martín Aimar (@maimar):
+hamburguesas de entraña

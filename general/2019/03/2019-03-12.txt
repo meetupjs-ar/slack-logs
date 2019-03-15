@@ -1,0 +1,60 @@
+13:32:45 - Jorge Cano (@jorgeucano):
+<https://twitter.com/julian_duque/status/1105506720342786048>
+13:36:04 - a0viedo (@a0viedo):
+"openjs foundation"? no había uno más feo?
+13:40:01 - Sergio Daniel Xalambrí (@sergiodxa):
+ClosedJS Foundation
+13:40:12 - Sergio Daniel Xalambrí (@sergiodxa):
+MergedJS Foundation
+13:41:48 - Juan Scolari (@juanscolari):
+FondueJS
+14:31:37 - Ata Sanchez (@as):
+LinuxJSFundation
+14:33:02 - Martín Valdés de León (@mvaldesdeleon):
+NottrademarkedbyoracleFoundation
+14:33:22 - nomopo (@nomopo):
+Buenas tardes
+15:50:06 - Mariano Ramonda (@ing.inf.mariano):
+alguien conoce algún Slack/similar con un canal como `jobs` en este?
+15:50:26 - Martín Aimar (@maimar):
+de acá?
+15:50:45 - Diego Calderón (@codekult):
+nardoz, hace mucho no entro, pero era el otro slack con actividad
+15:50:49 - Mariano Ramonda (@ing.inf.mariano):
+Arg/LatAm
+17:00:44 - Gabriel Fusca (@gfuscax):
+ahí lo pude levantar, gracias <@U06H27CM8>. Sería bueno pasar los TODOs a issues de github y los comandos al `README.md` (eso lo puedo subir rápido). Una cosa para el que lo quiera configurar el slack_channel es el ID del canal y no el nombre
+17:01:49 - a0viedo (@a0viedo):
+sí, hay un par de cosas para charlar porque pensando en el get replies la query a dynamo no es tan feliz
+17:04:02 - Gabriel Fusca (@gfuscax):
+sisi, todo se puede mejorar pero es un buen punto de partida :slightly_smiling_face:
+13:32:45 - Jorge Cano (@jorgeucano):
+<https://twitter.com/julian_duque/status/1105506720342786048>
+13:36:04 - a0viedo (@a0viedo):
+"openjs foundation"? no había uno más feo?
+13:40:01 - Sergio Daniel Xalambrí (@sergiodxa):
+ClosedJS Foundation
+13:40:12 - Sergio Daniel Xalambrí (@sergiodxa):
+MergedJS Foundation
+13:41:48 - Juan Scolari (@juanscolari):
+FondueJS
+14:31:37 - Ata Sanchez (@as):
+LinuxJSFundation
+14:33:02 - Martín Valdés de León (@mvaldesdeleon):
+NottrademarkedbyoracleFoundation
+14:33:22 - nomopo (@nomopo):
+Buenas tardes
+15:50:06 - Mariano Ramonda (@ing.inf.mariano):
+alguien conoce algún Slack/similar con un canal como `jobs` en este?
+15:50:26 - Martín Aimar (@maimar):
+de acá?
+15:50:45 - Diego Calderón (@codekult):
+nardoz, hace mucho no entro, pero era el otro slack con actividad
+15:50:49 - Mariano Ramonda (@ing.inf.mariano):
+Arg/LatAm
+17:00:44 - Gabriel Fusca (@gfuscax):
+ahí lo pude levantar, gracias <@U06H27CM8>. Sería bueno pasar los TODOs a issues de github y los comandos al `README.md` (eso lo puedo subir rápido). Una cosa para el que lo quiera configurar el slack_channel es el ID del canal y no el nombre
+17:01:49 - a0viedo (@a0viedo):
+sí, hay un par de cosas para charlar porque pensando en el get replies la query a dynamo no es tan feliz
+17:04:02 - Gabriel Fusca (@gfuscax):
+sisi, todo se puede mejorar pero es un buen punto de partida :slightly_smiling_face:

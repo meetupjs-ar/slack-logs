@@ -1,0 +1,521 @@
+14:39:32 - Julian (@jantonielli01):
+&gt;&gt;&gt; - Develop your career outside the confines of a traditional career path
+- Time for full lives outside the office, despite fascinating work
+14:39:55 - Julian (@jantonielli01):
+Dios mio, estos job posts de argentina
+14:40:04 - Julian (@jantonielli01):
+ponen cualquier mierda con tal de no ponerte cuanto pagaan
+14:40:52 - Nico (@nicokorn96):
+mientras mas chamullo baja la plata (?
+14:41:32 - Julian (@jantonielli01):
+&gt;&gt;&gt;- Is excited to work with cutting-edge technologies before they are public
+- Other valuable skills: Universal Windows Platform development, iOS/Android development, node.js, backbone.js, knockout.js, ember.js, angular, react.js, SQL Server
+14:41:57 - Leandro Echevarria (@echevarrialeandro):
+:face_vomiting:
+14:58:32 - Juan Scolari (@juanscolari):
+falto el ninja
+15:01:09 - Hernán Pelez (@hernimen):
+son los peor. "un ambiente para crecer" , " usamos las ultimas tecnologias". Sueldo ? undefined
+15:02:23 - Nico (@nicokorn96):
+hola gente, cual es el promedio que se cobra la hora de freelo? para saber mas o menos un promedio
+15:02:50 - Martín Aimar (@maimar):
+25 ponele
+15:03:19 - Juan Scolari (@juanscolari):
+“muy buena remuneracion”
+primera pregunta de la entrevista: cuanto pedis de sueldo?
+15:10:14 - Marcos Casagrande (@marcoscvp90):
+depende <@UDJJ3FTUM> yo por menos de $60 no hago nada.
+15:10:32 - Marcos Casagrande (@marcoscvp90):
+Sos senior, semi?
+15:10:51 - Nico (@nicokorn96):
+de project management (no tengo nada de exp en esa area), pero soy dev ssr
+15:11:27 - Marcos Casagrande (@marcoscvp90):
+Ah de project manager ni idea, como dev ssr, diría que 30-40$ está perfecto.
+15:12:36 - Nico (@nicokorn96):
+hablamos de usd no?
+15:13:12 - Julian (@jantonielli01):
+60 es una banda.
+15:13:30 - Marcos Casagrande (@marcoscvp90):
+Si obvio. 
+15:13:33 - Juan Scolari (@juanscolari):
+60 tambien me parece mucho
+15:13:54 - Marcos Casagrande (@marcoscvp90):
+La verdad que no, para un senior afuera es lo mínimo que podes cobrar. 50 si querés, menos de eso no. 
+15:14:32 - Marcos Casagrande (@marcoscvp90):
+Depende obviamente también de la tecnología que manejes y el trabajo a realizar. 
+15:14:38 - Gonza Gluzman (@gonza):
+Siempre que se habla de cobros me siento re perdido
+15:14:48 - Gonza Gluzman (@gonza):
+El rango va de 0 a infinito punto rojo
+15:15:03 - Julian (@jantonielli01):
+son casi 10k por mes, me sigue pareciendo mucho
+15:15:07 - Julian (@jantonielli01):
+no imposible ni nada
+15:15:12 - Julian (@jantonielli01):
+pero fuera de la norma para remoto
+15:15:24 - Julian (@jantonielli01):
+Y ni siquiera es para "afuera" es US only eso
+15:15:33 - Julian (@jantonielli01):
+En europa 60k es un muy buen sueldo
+15:15:59 - Juan Scolari (@juanscolari):
+estamos hablando del promedio, como promedio me parece alto
+15:16:01 - Marcos Casagrande (@marcoscvp90):
+No, para nada Julián. Yo tengo clientes en todo el mundo, chile, US, España, Japón, Inglaterra. Todos pagan más. 
+15:16:33 - Marcos Casagrande (@marcoscvp90):
+Pero un dev senior debería de pedir 50-60 sin problemas. 
+15:16:43 - Gonza Gluzman (@gonza):
+Si cobra así, con razón puede tener una Casagrande
+15:17:12 - dani.mata (@dani.mata):
+El freelance se suele pagar más caro que el empleado normal, porque con un empleado normal la estabilidad es un trade-off que haces por un sueldo más alto
+15:17:26 - dani.mata (@dani.mata):
+Se de consultores en ember que cobran 120usd la hora
+15:17:32 - Marcos Casagrande (@marcoscvp90):
+Lo que dice dani. Yo hablo de freelance. 
+15:17:38 - Julian (@jantonielli01):
+Sep, yo tmb
+15:17:59 - Marcos Casagrande (@marcoscvp90):
+Igual hay empresas que remoto pagan 100-150k anuales.
+15:18:14 - Marcos Casagrande (@marcoscvp90):
+Generalmente de Londres o USA. 
+15:18:20 - Marcos Casagrande (@marcoscvp90):
+Va UK.. 
+15:18:35 - Juan Scolari (@juanscolari):
+hay algunas que pagan 20-40k anuales tambien :stuck_out_tongue:
+15:18:52 - dani.mata (@dani.mata):
+Creo que remoto 100k + anuales son las menos
+15:18:59 - Marcos Casagrande (@marcoscvp90):
+Pero un senior remoto, si agarra eso, se está negreando el mismo. 
+15:19:09 - Juan Scolari (@juanscolari):
+logicamente, de acuerdo con eso
+15:19:14 - dani.mata (@dani.mata):
+Especialmente porque para la mayoría remoto === te pago menos que a los in house  
+15:19:22 - Julian (@jantonielli01):
+<https://puu.sh/CYteP/9c3cfc25f9.png>
+15:19:27 - Marcos Casagrande (@marcoscvp90):
+O sea, el mínimo es lo que te imagines. 
+15:19:48 - Marcos Casagrande (@marcoscvp90):
+Igual Julián, depende la tecnología. 
+15:20:02 - Marcos Casagrande (@marcoscvp90):
+Un PHP, la verdad creo que nunca vi más de 60-70k.
+15:20:29 - dani.mata (@dani.mata):
+Igual siempre hablando promedio, puede haber la que paga 10k como la que paga 150k todo depende, y solo porque una paga muchísimo eso no te mueve el promedio, si las demás pagan 40k lo ves asi
+15:20:33 - Marcos Casagrande (@marcoscvp90):
+Pero para mi, todo senior la hora la tiene que cobrar como freelance 50-60 para arriba. 
+15:21:09 - Julian (@jantonielli01):
+Se, ya se, pero decir que 100k es la norma cuando recien el 75 percentil en una de las ciudades mas caras de europa paga cerca de eso...
+15:21:24 - Marcos Casagrande (@marcoscvp90):
+Nunca dije que es la norma 100k.
+15:21:41 - Marcos Casagrande (@marcoscvp90):
+Dije que hay empresas que en remoto (no freelance) pagan 100k o más. 
+15:21:56 - Marcos Casagrande (@marcoscvp90):
+No confundir precio hora, con sueldo anual. 
+15:22:10 - Marcos Casagrande (@marcoscvp90):
+Un freelance generalmente no consigue 160 horas mensuales. 
+15:22:56 - Daniel Broder (@dabroder):
+en 2 días a $60 USD la hora cobra más que yo al mes en relación de dependencia... :sob:
+15:23:04 - dani.mata (@dani.mata):
+Creo que al final lo que marcos dice (y tiene razón) es que suele haber un miedo a cobrar ciertas cantidades porque lo vemos mucha plata en pesos (y lo es) pero uno no debe dejar que eso lo detenga
+15:23:11 - Juan Scolari (@juanscolari):
+no creo que alguien arrancando a ser freelance, por mas que sea senior consiga algo facil por 60 usd hora
+15:23:23 - Nico (@nicokorn96):
+jaaj estaba pensando eso
+15:23:29 - Nico (@nicokorn96):
+la pifie
+15:23:35 - dani.mata (@dani.mata):
+Especialmente porque como freelance no siempre tienes garantizadas las 160 horas así que no está de más cuidarse
+15:23:50 - Marcos Casagrande (@marcoscvp90):
+Juan, si vos sos senior de verdad (no me refiero a hice 5 años soy experto en todo), 60 USD la hora, es fácil de conseguir.
+15:24:28 - Juan Scolari (@juanscolari):
+vos decis? mejor si es asi :smile:
+15:24:28 - Marcos Casagrande (@marcoscvp90):
+Y he visto varios freelance seniors, que por miedo a que les digan que no, se bajan, pero la gente que busca senior, sabe que al menos va a pagar 50-60 la hora.
+15:24:45 - Gonza Gluzman (@gonza):
+Esos son ARS 2400 la hora aprox. Me parece un montón
+15:24:51 - Gonza Gluzman (@gonza):
+Aunque seas freelance y todo
+15:24:54 - Marcos Casagrande (@marcoscvp90):
+Ojo, en *Argentina* es practicamente imposible conseguir a 60, por eso no trabajo para Argentina.
+15:24:58 - Lucas G (@lucas.guardado):
+totalmente... soy uno de esos
+15:25:06 - Juan Scolari (@juanscolari):
+pero no lo pasemos a peso, que es otro mundo aca
+15:25:16 - Julian (@jantonielli01):
+Que se yo, tbh lo que mejor cobré fueron 45$ la hora
+15:25:18 - Juan Scolari (@juanscolari):
+bah, estamos hablando siempre de freelance para afuera no?
+15:25:20 - Lucas G (@lucas.guardado):
+y en parte es tambien porque no me se vender
+15:25:20 - Gonza Gluzman (@gonza):
+Cla, pero trabajando para afuera, desde Argentina, sos Gardel con guitarra eléctrica
+15:25:20 - Marcos Casagrande (@marcoscvp90):
+Bueno, si te parece un montón, no te digo 100 USD que es lo normal para un trabajo relacionado con blockchain.
+15:25:40 - Marcos Casagrande (@marcoscvp90):
+Y esos 100 USD en blockchain, son debajo de la media.
+15:25:56 - Julian (@jantonielli01):
+o 500-600gbp/día q es lo q estan cobrando de devops en londres lmao
+15:26:07 - Marcos Casagrande (@marcoscvp90):
+Todo depende de la tecnología que manejes y el expertise que tengas.
+15:26:37 - Marcos Casagrande (@marcoscvp90):
+Pero repito, el peor enemigo del freelance de acá, no es el mercado, sino el miedo del propio dev a cobrar lo que corresponde.
+15:26:55 - Marcos Casagrande (@marcoscvp90):
+Por qué el mercado te paga sin problemas $60/hr
+14:39:32 - Julian (@jantonielli01):
+&gt;&gt;&gt; - Develop your career outside the confines of a traditional career path
+- Time for full lives outside the office, despite fascinating work
+14:39:55 - Julian (@jantonielli01):
+Dios mio, estos job posts de argentina
+14:40:04 - Julian (@jantonielli01):
+ponen cualquier mierda con tal de no ponerte cuanto pagaan
+14:40:52 - Nico (@nicokorn96):
+mientras mas chamullo baja la plata (?
+14:41:32 - Julian (@jantonielli01):
+&gt;&gt;&gt;- Is excited to work with cutting-edge technologies before they are public
+- Other valuable skills: Universal Windows Platform development, iOS/Android development, node.js, backbone.js, knockout.js, ember.js, angular, react.js, SQL Server
+14:41:57 - Leandro Echevarria (@echevarrialeandro):
+:face_vomiting:
+14:58:32 - Juan Scolari (@juanscolari):
+falto el ninja
+15:01:09 - Hernán Pelez (@hernimen):
+son los peor. "un ambiente para crecer" , " usamos las ultimas tecnologias". Sueldo ? undefined
+15:02:23 - Nico (@nicokorn96):
+hola gente, cual es el promedio que se cobra la hora de freelo? para saber mas o menos un promedio
+15:02:50 - Martín Aimar (@maimar):
+25 ponele
+15:03:19 - Juan Scolari (@juanscolari):
+“muy buena remuneracion”
+primera pregunta de la entrevista: cuanto pedis de sueldo?
+15:10:14 - Marcos Casagrande (@marcoscvp90):
+depende <@UDJJ3FTUM> yo por menos de $60 no hago nada.
+15:10:32 - Marcos Casagrande (@marcoscvp90):
+Sos senior, semi?
+15:10:51 - Nico (@nicokorn96):
+de project management (no tengo nada de exp en esa area), pero soy dev ssr
+15:11:27 - Marcos Casagrande (@marcoscvp90):
+Ah de project manager ni idea, como dev ssr, diría que 30-40$ está perfecto.
+15:12:36 - Nico (@nicokorn96):
+hablamos de usd no?
+15:13:12 - Julian (@jantonielli01):
+60 es una banda.
+15:13:30 - Marcos Casagrande (@marcoscvp90):
+Si obvio. 
+15:13:33 - Juan Scolari (@juanscolari):
+60 tambien me parece mucho
+15:13:54 - Marcos Casagrande (@marcoscvp90):
+La verdad que no, para un senior afuera es lo mínimo que podes cobrar. 50 si querés, menos de eso no. 
+15:14:32 - Marcos Casagrande (@marcoscvp90):
+Depende obviamente también de la tecnología que manejes y el trabajo a realizar. 
+15:14:38 - Gonza Gluzman (@gonza):
+Siempre que se habla de cobros me siento re perdido
+15:14:48 - Gonza Gluzman (@gonza):
+El rango va de 0 a infinito punto rojo
+15:15:03 - Julian (@jantonielli01):
+son casi 10k por mes, me sigue pareciendo mucho
+15:15:07 - Julian (@jantonielli01):
+no imposible ni nada
+15:15:12 - Julian (@jantonielli01):
+pero fuera de la norma para remoto
+15:15:24 - Julian (@jantonielli01):
+Y ni siquiera es para "afuera" es US only eso
+15:15:33 - Julian (@jantonielli01):
+En europa 60k es un muy buen sueldo
+15:15:59 - Juan Scolari (@juanscolari):
+estamos hablando del promedio, como promedio me parece alto
+15:16:01 - Marcos Casagrande (@marcoscvp90):
+No, para nada Julián. Yo tengo clientes en todo el mundo, chile, US, España, Japón, Inglaterra. Todos pagan más. 
+15:16:33 - Marcos Casagrande (@marcoscvp90):
+Pero un dev senior debería de pedir 50-60 sin problemas. 
+15:16:43 - Gonza Gluzman (@gonza):
+Si cobra así, con razón puede tener una Casagrande
+15:17:12 - dani.mata (@dani.mata):
+El freelance se suele pagar más caro que el empleado normal, porque con un empleado normal la estabilidad es un trade-off que haces por un sueldo más alto
+15:17:26 - dani.mata (@dani.mata):
+Se de consultores en ember que cobran 120usd la hora
+15:17:32 - Marcos Casagrande (@marcoscvp90):
+Lo que dice dani. Yo hablo de freelance. 
+15:17:38 - Julian (@jantonielli01):
+Sep, yo tmb
+15:17:59 - Marcos Casagrande (@marcoscvp90):
+Igual hay empresas que remoto pagan 100-150k anuales.
+15:18:14 - Marcos Casagrande (@marcoscvp90):
+Generalmente de Londres o USA. 
+15:18:20 - Marcos Casagrande (@marcoscvp90):
+Va UK.. 
+15:18:35 - Juan Scolari (@juanscolari):
+hay algunas que pagan 20-40k anuales tambien :stuck_out_tongue:
+15:18:52 - dani.mata (@dani.mata):
+Creo que remoto 100k + anuales son las menos
+15:18:59 - Marcos Casagrande (@marcoscvp90):
+Pero un senior remoto, si agarra eso, se está negreando el mismo. 
+15:19:09 - Juan Scolari (@juanscolari):
+logicamente, de acuerdo con eso
+15:19:14 - dani.mata (@dani.mata):
+Especialmente porque para la mayoría remoto === te pago menos que a los in house  
+15:19:22 - Julian (@jantonielli01):
+<https://puu.sh/CYteP/9c3cfc25f9.png>
+15:19:27 - Marcos Casagrande (@marcoscvp90):
+O sea, el mínimo es lo que te imagines. 
+15:19:48 - Marcos Casagrande (@marcoscvp90):
+Igual Julián, depende la tecnología. 
+15:20:02 - Marcos Casagrande (@marcoscvp90):
+Un PHP, la verdad creo que nunca vi más de 60-70k.
+15:20:29 - dani.mata (@dani.mata):
+Igual siempre hablando promedio, puede haber la que paga 10k como la que paga 150k todo depende, y solo porque una paga muchísimo eso no te mueve el promedio, si las demás pagan 40k lo ves asi
+15:20:33 - Marcos Casagrande (@marcoscvp90):
+Pero para mi, todo senior la hora la tiene que cobrar como freelance 50-60 para arriba. 
+15:21:09 - Julian (@jantonielli01):
+Se, ya se, pero decir que 100k es la norma cuando recien el 75 percentil en una de las ciudades mas caras de europa paga cerca de eso...
+15:21:24 - Marcos Casagrande (@marcoscvp90):
+Nunca dije que es la norma 100k.
+15:21:41 - Marcos Casagrande (@marcoscvp90):
+Dije que hay empresas que en remoto (no freelance) pagan 100k o más. 
+15:21:56 - Marcos Casagrande (@marcoscvp90):
+No confundir precio hora, con sueldo anual. 
+15:22:10 - Marcos Casagrande (@marcoscvp90):
+Un freelance generalmente no consigue 160 horas mensuales. 
+15:22:56 - Daniel Broder (@dabroder):
+en 2 días a $60 USD la hora cobra más que yo al mes en relación de dependencia... :sob:
+15:23:04 - dani.mata (@dani.mata):
+Creo que al final lo que marcos dice (y tiene razón) es que suele haber un miedo a cobrar ciertas cantidades porque lo vemos mucha plata en pesos (y lo es) pero uno no debe dejar que eso lo detenga
+15:23:11 - Juan Scolari (@juanscolari):
+no creo que alguien arrancando a ser freelance, por mas que sea senior consiga algo facil por 60 usd hora
+15:23:23 - Nico (@nicokorn96):
+jaaj estaba pensando eso
+15:23:29 - Nico (@nicokorn96):
+la pifie
+15:23:35 - dani.mata (@dani.mata):
+Especialmente porque como freelance no siempre tienes garantizadas las 160 horas así que no está de más cuidarse
+15:23:50 - Marcos Casagrande (@marcoscvp90):
+Juan, si vos sos senior de verdad (no me refiero a hice 5 años soy experto en todo), 60 USD la hora, es fácil de conseguir.
+15:24:28 - Juan Scolari (@juanscolari):
+vos decis? mejor si es asi :smile:
+15:24:28 - Marcos Casagrande (@marcoscvp90):
+Y he visto varios freelance seniors, que por miedo a que les digan que no, se bajan, pero la gente que busca senior, sabe que al menos va a pagar 50-60 la hora.
+15:24:45 - Gonza Gluzman (@gonza):
+Esos son ARS 2400 la hora aprox. Me parece un montón
+15:24:51 - Gonza Gluzman (@gonza):
+Aunque seas freelance y todo
+15:24:54 - Marcos Casagrande (@marcoscvp90):
+Ojo, en *Argentina* es practicamente imposible conseguir a 60, por eso no trabajo para Argentina.
+15:24:58 - Lucas G (@lucas.guardado):
+totalmente... soy uno de esos
+15:25:06 - Juan Scolari (@juanscolari):
+pero no lo pasemos a peso, que es otro mundo aca
+15:25:16 - Julian (@jantonielli01):
+Que se yo, tbh lo que mejor cobré fueron 45$ la hora
+15:25:18 - Juan Scolari (@juanscolari):
+bah, estamos hablando siempre de freelance para afuera no?
+15:25:20 - Lucas G (@lucas.guardado):
+y en parte es tambien porque no me se vender
+15:25:20 - Gonza Gluzman (@gonza):
+Cla, pero trabajando para afuera, desde Argentina, sos Gardel con guitarra eléctrica
+15:25:20 - Marcos Casagrande (@marcoscvp90):
+Bueno, si te parece un montón, no te digo 100 USD que es lo normal para un trabajo relacionado con blockchain.
+15:25:40 - Marcos Casagrande (@marcoscvp90):
+Y esos 100 USD en blockchain, son debajo de la media.
+15:25:56 - Julian (@jantonielli01):
+o 500-600gbp/día q es lo q estan cobrando de devops en londres lmao
+15:26:07 - Marcos Casagrande (@marcoscvp90):
+Todo depende de la tecnología que manejes y el expertise que tengas.
+15:26:37 - Marcos Casagrande (@marcoscvp90):
+Pero repito, el peor enemigo del freelance de acá, no es el mercado, sino el miedo del propio dev a cobrar lo que corresponde.
+15:26:55 - Marcos Casagrande (@marcoscvp90):
+Por qué el mercado te paga sin problemas $60/hr
+15:27:19 - Juan Scolari (@juanscolari):
+es que pagan muy poco aca
+15:27:21 - Marcos Casagrande (@marcoscvp90):
+Si, es así.
+15:27:35 - Juan Scolari (@juanscolari):
+y desgraciadamente mucha gente de otros rubros gana menos
+15:27:43 - Julian (@jantonielli01):
+comparativamente no pagan tan mal
+15:27:45 - Marcos Casagrande (@marcoscvp90):
+Es que acá te pagan 10 veces menos que afuera, entonces es ridícula la comparación.
+15:27:48 - Juan Scolari (@juanscolari):
+y queda la sensacion esa como que uno esta en la situacion de privilegio
+15:27:49 - Julian (@jantonielli01):
+vs otros rubros
+15:28:00 - Julian (@jantonielli01):
+pero el pais está mas muerto q peron
+15:28:01 - Julian (@jantonielli01):
+:v
+15:28:21 - Marcos Casagrande (@marcoscvp90):
+No se engañen, la mayoría de empresas de sistemas laburan para afuera, cobran en USD. Pagan eso porque los devs lo permiten.
+15:28:33 - Gonzalo González Mora (@gonzalogm):
+Tal cual
+15:28:45 - Marcos Casagrande (@marcoscvp90):
+Y no digo que armemos un sindicatos de dev, pero es más que nada porque los devs no saben *cuanto* de verdad vale su hora.
+15:29:01 - Juan Scolari (@juanscolari):
+yo digo que lo armemos jaja
+15:29:04 - Marcos Casagrande (@marcoscvp90):
+Y cuando vos no sabés lo que paga el mercado, vas a salir perdiendo siempre.
+15:29:40 - Marcos Casagrande (@marcoscvp90):
+Es lo mismo que hay que saber cuadno cobrar por laburo o cuando cobrar por hora.
+15:29:46 - a0viedo (@a0viedo):
+lo que más cobré fueron 50usd la hora pero el proyecto tenía pocas horas...creo que también el precio cambia si es estable o si trabajas en diferentes proyectos
+15:29:56 - Marcos Casagrande (@marcoscvp90):
+Por qué hay tareas que llevan 1 hora, pero se pueden cobrar 500-700 usd.
+15:30:33 - a0viedo (@a0viedo):
+prefiero estar con un equipo que me parece copado en una empresa que me parece copada antes que cobrar 60usd a la mercenario por hacer lo que sea que te tiren por la cabeza
+15:30:49 - Marcos Casagrande (@marcoscvp90):
+No, ahí te equivocás, como freelance *vos* hacés lo que querés.
+15:30:54 - Marcos Casagrande (@marcoscvp90):
+Como empleado, hacés lo que tu jefe te da.
+15:31:11 - Marcos Casagrande (@marcoscvp90):
+Yo he rechazado miles de proyectos asquerosos, que pagaban 80 la hora.
+15:32:02 - a0viedo (@a0viedo):
+sigue siendo distinta la dinámica de estar con algo específico siendo freelance ante la alternativa de estar con un solo cliente
+15:32:29 - Gonzalo González Mora (@gonzalogm):
+También podés laburar para un solo cliente para afuera y cobrar mucho mejor
+15:33:48 - Marcos Casagrande (@marcoscvp90):
+También hay que ver dónde consiguen los freelance. Si vas a una plataforma como freelancer, diría que es imposible cobrar 60 usd.
+15:34:40 - a0viedo (@a0viedo):
+así sea en toptal los conocidos que tengo me dijeron que los proyectos eran bastante fuleros...que era mejor siempre pegar onda con una empresa que te parezca copada y seguir vos por tu cuenta
+15:35:19 - Marcos Casagrande (@marcoscvp90):
+A mi toptal me parece una cagada.
+15:35:28 - Gonza Gluzman (@gonza):
+Cómo conseguís freelo por la tuya?
+15:35:31 - Gonzalo González Mora (@gonzalogm):
+Cuáles usás vos, Marcos?
+15:35:31 - Juan Scolari (@juanscolari):
+saben cuanto andan cobrando en toptal?
+15:36:09 - a0viedo (@a0viedo):
+depende el proyecto entre 35 y 50usd tengo entendido
+15:36:55 - Marcos Casagrande (@marcoscvp90):
+<@UDJJ1RZT5> entré a Gigster y voy a empezar a probarla una vez resuelva un formulario de impuestos con payoneer y veré que tal. Pero estoy en Codementor y Upwork.
+15:37:19 - Marcos Casagrande (@marcoscvp90):
+Además de clientes que me buscan directamente, ya sea desde Stack Overflow o por mi página.
+15:37:51 - Marcos Casagrande (@marcoscvp90):
+Pero más o menos el 50% de mis ingresos es cliente directo, 50% Codementor.
+15:37:52 - Juan Scolari (@juanscolari):
+si? estas muy activo en stack overflow?
+15:38:20 - GAlvarado (@anzaldo.alvarado.gabr):
+mediante que plataformas o como es la onda?
+15:38:52 - Marcos Casagrande (@marcoscvp90):
+Lo uso bastante. Para ser freelance es importante tener un perfil online copado. Así que antes de renunciar le metí pilas a eso.
+15:39:09 - Marcos Casagrande (@marcoscvp90):
+<https://stackoverflow.com/users/1119863/marcos-casagrande>
+15:41:01 - Juan Scolari (@juanscolari):
+muy bien el perfil che :clapping:
+15:42:16 - Marcos Casagrande (@marcoscvp90):
+Gracias :smiley:
+15:42:33 - Marcos Casagrande (@marcoscvp90):
+Lo otro tambien importante para cobrar bien, es tener un buen nivel de inglés.
+15:43:52 - Marcos Casagrande (@marcoscvp90):
+Cliente directo o a través de Codementor/Upwork (Upwork es mucho más dificil). Les dejo mi referido en CM y si quieren ayuda me dicen
+15:44:02 - Juan Scolari (@juanscolari):
+clave el ingles
+15:44:08 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io?referral=marcoscasagrande-4ofsa8hnqn>
+15:45:22 - Juan Scolari (@juanscolari):
+gracias Marcos por las cosas que compartiste
+15:45:39 - Marcos Casagrande (@marcoscvp90):
+De nada!
+15:53:36 - Dayan Ruiz (@dayanr):
+chicos algunas otras recomendaciones que puedan pasar para ser freelance estaria bien
+15:53:55 - Dayan Ruiz (@dayanr):
+I mean, lo de stackoverflow esta bien, pero que mas, tipo linkedin, facebook?, instagram?, twitter?, github, etc
+15:54:13 - Marcos Casagrande (@marcoscvp90):
+Github y SO es lo más importante en mi opinión. 
+15:54:56 - Dayan Ruiz (@dayanr):
+conviene subir muchos proyectos a github?, tipo hiciste un tutorial de 15 horas y terminaste con algo hecho y aunque sea de trainning, conviene subirlo?
+15:54:59 - Marcos Casagrande (@marcoscvp90):
+Yo LinkedIn lo complete hace un mes recién, pero porque me tenia que registrar en una página usándolo. La verdad no me sirve de mucho, a mi, al resto no se. 
+15:55:26 - Marcos Casagrande (@marcoscvp90):
+Yo solo subiría cosas que demuestren tu nivel. En un training estás diciendo que sos junior. 
+15:55:38 - Dayan Ruiz (@dayanr):
+cierto
+15:56:01 - Marcos Casagrande (@marcoscvp90):
+A no ser que ese proyecto en github tenga años, yo no subiría algo de training. A no ser que vos seas el profesor. 
+15:56:18 - Marcos Casagrande (@marcoscvp90):
+Obviamente hablo al perfil público. 
+15:56:42 - Marcos Casagrande (@marcoscvp90):
+Hay gente que sube todo a github, pero bueno, eso depende de cada uno. 
+15:57:40 - Marcos Casagrande (@marcoscvp90):
+Lo que conviene quizás es algo de open source, PRs a librerias, o cosas grosas que hayas hecho. Eso es lo que te ayuda, lo demás no suma. 
+15:58:37 - Juan Scolari (@juanscolari):
+No para freelance pero para laburar remoto para algun cliente afuera me empezaron a llegar cuando puse el linkedin en ingles
+15:59:00 - Marcos Casagrande (@marcoscvp90):
+Si, el LinkedIn siempre en inglés. 
+15:59:09 - Marcos Casagrande (@marcoscvp90):
+Todo en inglés, sino te limitas. 
+16:00:36 - Juan Scolari (@juanscolari):
+Un blog supongo que suma tambien
+16:01:19 - Juan Scolari (@juanscolari):
+Participar en meetups y conferencias
+16:01:39 - Juan Scolari (@juanscolari):
+Ademas de acercarte a otras personas que te pueden referir
+16:02:13 - Leandro Echevarria (@echevarrialeandro):
+<@UGQTUDQSG> Te hago una consulta respecto SO, cómo es tu día a día ahí? Te metes a responder preguntas solamente o qué fin tiene usarlo regularmente (quitando la parte de cuando tenemos preguntas nosotros)?
+16:04:06 - Marcos Casagrande (@marcoscvp90):
+El fin de responder preguntas, es *aprender*. Aprendes muchísimo haciendolo. O sea lo tenes abierto, si ves algo que sabes responder, respondés, si hay algo que no sabés y te intrresa, lo buscás y aprendes o esperas que alguien responda y aprendeés. Cuanto mas conocimiento, más fácil cobrar más la hora. 
+16:05:16 - Marcos Casagrande (@marcoscvp90):
+Y además de aprender, tener alta reputación te puede dar algún plus para conseguir laburo o que una pregunta haya ayudado a un cliente y te contraten directamente (lo segundo me paso varias veces) 
+16:06:59 - Daniel Broder (@dabroder):
+Para eso uso este slack
+16:07:57 - Leandro Echevarria (@echevarrialeandro):
+Exacto la pregunta iba por el lado de la reputación, ella se gana respondiendo solamente?
+16:08:02 - Marcos Casagrande (@marcoscvp90):
+Decís por mi respuesta, o para aprender? :stuck_out_tongue: 
+16:08:09 - Leandro Echevarria (@echevarrialeandro):
+Obviamente la parte de aprender es core para conseguir mejores trabajos también
+16:09:05 - Marcos Casagrande (@marcoscvp90):
+La reputación importante se gana respondiendo. Si preguntás y tenes muchos upvotes también. Pero en mi opinión no vale tanto. Hay gente con arriba de 30k solo de preguntas populares. Pero ese flaco solo pregunta, ergo no sabe mucho :joy: 
+16:09:33 - Marcos Casagrande (@marcoscvp90):
+Cada upvote en una respuesta son +10, cada respuesta aceptada +15, cada upvote en pregunta +5
+16:11:54 - Gonza Espeche (@espeche.g):
+buen tip este Marcos... estoy en bolas en eso de estar activo en SO, y esta es una buena forma de empezar
+16:12:16 - Daniel Broder (@dabroder):
+para aprender
+16:12:31 - Daniel Broder (@dabroder):
+y para ayudar cuando se puede
+16:14:12 - Marcos Casagrande (@marcoscvp90):
+No sé si entendí mal, pero el aprendizaje que tenes en slack comparado con el que tenes en SO son muy diferentes. 
+16:14:34 - Leandro Echevarria (@echevarrialeandro):
+Nice, gracias
+16:14:54 - Marcos Casagrande (@marcoscvp90):
+Hay un daily cap, por lo cual no podes estar todo el día. 
+16:21:10 - Martín Aimar (@maimar):
+voy 111 ahí, dame unos días y te alcanzo
+16:22:40 - Gonza Espeche (@espeche.g):
+Que verde estoy en SO, tengo que empezar a levantar
+16:36:23 - Daniel Broder (@dabroder):
+puede ser, nunca usé mucho SO, salvo para buscar cositas puntuales
+16:37:09 - gillchristian (@gillchristian):
+Sabe preguntar, cosa que también suma
+16:42:28 - Wilfredo Alcala (@alcalawilfre):
+Gracias <@UGQTUDQSG>, acabo de ganar mi primer +1 a alguien que tenía este error `bash: npm: command not found`. Le dije que reinstale :trollface:
+16:43:24 - Marcos Casagrande (@marcoscvp90):
+Si, pero no tanto. No para freelance al menos. Porque si para resolver un laburo tiene que depender de otros, no a el freelance que quiero yo. 
+16:43:41 - Juan Scolari (@juanscolari):
+`reinicia la compu`
+16:44:02 - Marcos Casagrande (@marcoscvp90):
+Así funciona en muchos casos, muchos errores boludos. 
+16:44:51 - Gonzalo González Mora (@gonzalogm):
+/gif it crowd turn off
+16:44:52 - Marcos Casagrande (@marcoscvp90):
+Se aprende mucho más en SO que en este slack. Yo lo recomiendo 
+16:45:00 - Gonza Espeche (@espeche.g):
+Como recomiendan empezar a participar en proyectos Open Source?
+16:46:02 - Martín Aimar (@maimar):
+si tienen alguna comunidad está bueno participar
+16:46:18 - Sergio Daniel Xalambrí (@sergiodxa):
+busca repositorios de librerías/frameworks que uses a diario
+16:46:18 - Sergio Daniel Xalambrí (@sergiodxa):
+y ayudá a responder dudas en sus issues
+16:46:57 - Sergio Daniel Xalambrí (@sergiodxa):
+si tenés un bug no solo lo reportes, también intenta arreglarlo y enviar un PR
+16:47:45 - Marcos Casagrande (@marcoscvp90):
+Exactamente. Lo último es lo más fácil. Y ocurre bastante, al menos con libs de NPM. No solo bugs, sino features que necesitas. 
+16:47:52 - Diego Fejgelis (@dieguito):
+<https://github.com/meetupjs-ar/meetupjs-ar.github.io/issues>
+:troll:
+16:47:56 - Sergio Daniel Xalambrí (@sergiodxa):
+si tienen ejemplos podés hacer ejemplos
+16:48:36 - Marcos Casagrande (@marcoscvp90):
+También algo fácil que no requiere bug fixs, es para hacer unit tests. A casi todas las libs les hace falta. 
+16:49:59 - Gonza Espeche (@espeche.g):
+:chuckapprove:
+16:52:38 - Gonza Espeche (@espeche.g):
+Bien ahí, gracias
+16:54:52 - Daniel Broder (@dabroder):
+gracias <@UGQTUDQSG>

@@ -1,0 +1,239 @@
+05:57:48 - nomopo (@nomopo):
+buenos días, alguien me puede echar una mano?? Tengo un problema "básico" del que no puedo salir. Tengo un listado de registros con un pequeño formulario y lo que hago es que cuando onchange() ejecute una función javascript, en mi pc funciona bien, pero en el servidor me da este error: Uncaught ReferenceError: calcularSubtotal is not defined at HTMLInputElement.onchange
+05:58:02 - nomopo (@nomopo):
+gracias por adelantado
+08:22:07 - nomopo (@nomopo):
+la cosa está en porqué en mi pc en local funciona bien y cuando lo subo a producción no me va....
+08:24:39 - Leandro Echevarria (@echevarrialeandro):
+<@UGTRFGEJK> Buen dia! Esa es una consulta mas para el canal <#C06DX6V1R|preguntas-tecnicas> , ahí te van a dar una mano seguro :smile:
+08:25:10 - Mateo Silguero (@mfsilguero):
+Como estas importando el archivo ? Ves si lo carga bien ? (El js)
+08:58:11 - Pedro (@pedro461):
+Tenés dos opciones, que te pague una cuenta de usa (transferencia local) o una cuenta internacional.. en el primer caso posiblemente la primera vez tengas que firmar un formulario (que te lo da el cliente, si no te lo da es problema de él).. supuestamente vos ya firmaste el w-8ben que es para indicar que no pagas taxes por ser extranjero.. el cliente si no te hace firmar ese formulario termina pagando los impuestos él, vos no tendrías problema.. y en cuanto a las transferencias internacionales, por ejemplo que te pague un cliente de Europa en esa cuenta no pasa nada, cero problema, puede pasar unicamente que el banco no acepte transferencias de ciertos países, averigua esto antes de cerrar con un cliente de algun país que pueda estar en conflicto con USA, el resto cero drama y es mejor que usar la Payoneer
+10:34:20 - Gonza Espeche (@espeche.g):
+<https://css-tricks.com/the-great-divide/>
+11:42:28 - Brian Hume (@brianh20):
+interesante, lo lei por arriba perdon, pero creo que es evidente que depende mucho de lo que te interese y como investigues el lugar a donde vas
+12:52:33 - Brian Hume (@brianh20):
+Che esta caido monotributo en Afip
+12:52:33 - Brian Hume (@brianh20):
+?
+12:53:19 - Gonzalo González Mora (@gonzalogm):
+Sep
+12:53:28 - Martín Aimar (@maimar):
+acá pude entrar
+12:53:56 - Brian Hume (@brianh20):
+me aparece una pantalla en blanco
+05:57:48 - nomopo (@nomopo):
+buenos días, alguien me puede echar una mano?? Tengo un problema "básico" del que no puedo salir. Tengo un listado de registros con un pequeño formulario y lo que hago es que cuando onchange() ejecute una función javascript, en mi pc funciona bien, pero en el servidor me da este error: Uncaught ReferenceError: calcularSubtotal is not defined at HTMLInputElement.onchange
+05:58:02 - nomopo (@nomopo):
+gracias por adelantado
+08:22:07 - nomopo (@nomopo):
+la cosa está en porqué en mi pc en local funciona bien y cuando lo subo a producción no me va....
+08:24:39 - Leandro Echevarria (@echevarrialeandro):
+<@UGTRFGEJK> Buen dia! Esa es una consulta mas para el canal <#C06DX6V1R|preguntas-tecnicas> , ahí te van a dar una mano seguro :smile:
+08:25:10 - Mateo Silguero (@mfsilguero):
+Como estas importando el archivo ? Ves si lo carga bien ? (El js)
+08:58:11 - Pedro (@pedro461):
+Tenés dos opciones, que te pague una cuenta de usa (transferencia local) o una cuenta internacional.. en el primer caso posiblemente la primera vez tengas que firmar un formulario (que te lo da el cliente, si no te lo da es problema de él).. supuestamente vos ya firmaste el w-8ben que es para indicar que no pagas taxes por ser extranjero.. el cliente si no te hace firmar ese formulario termina pagando los impuestos él, vos no tendrías problema.. y en cuanto a las transferencias internacionales, por ejemplo que te pague un cliente de Europa en esa cuenta no pasa nada, cero problema, puede pasar unicamente que el banco no acepte transferencias de ciertos países, averigua esto antes de cerrar con un cliente de algun país que pueda estar en conflicto con USA, el resto cero drama y es mejor que usar la Payoneer
+10:34:20 - Gonza Espeche (@espeche.g):
+<https://css-tricks.com/the-great-divide/>
+11:42:28 - Brian Hume (@brianh20):
+interesante, lo lei por arriba perdon, pero creo que es evidente que depende mucho de lo que te interese y como investigues el lugar a donde vas
+12:52:33 - Brian Hume (@brianh20):
+Che esta caido monotributo en Afip
+12:52:33 - Brian Hume (@brianh20):
+?
+12:53:19 - Gonzalo González Mora (@gonzalogm):
+Sep
+12:53:28 - Martín Aimar (@maimar):
+acá pude entrar
+12:53:56 - Brian Hume (@brianh20):
+me aparece una pantalla en blanco
+12:53:59 - Martín Aimar (@maimar):
+generé volante de pago
+12:54:01 - Martín Aimar (@maimar):
+pasé json por get
+12:54:09 - Brian Hume (@brianh20):
+..?
+12:54:16 - Brian Hume (@brianh20):
+pero la seccion monotributo eh, no ala pagina en si
+12:54:23 - Martín Aimar (@maimar):
+jaja no sé apareció una url muy rara
+12:54:31 - Brian Hume (@brianh20):
+<https://monotributo.afip.gob.ar/app/default.aspx>
+12:54:48 - Martín Aimar (@maimar):
+si o sea hice todo eso
+12:55:02 - Martín Aimar (@maimar):
+puedo consultar estado de cuenta, hacer facturas
+12:55:11 - Gonzalo González Mora (@gonzalogm):
+A mi me tira en blacno tmb
+12:58:22 - Martín Aimar (@maimar):
+ese link me dio error, pero ahora estoy adentro y funciona todo
+12:58:54 - Esteban Yañez (@eyanez):
+usa IE, seguro anda…
+12:59:06 - Esteban Yañez (@eyanez):
+si lo emulas en IE9 anda mejor
+12:59:50 - Esteban Yañez (@eyanez):
+usando IE9 fue la unica forma que pude dar de alta el monotributo, me tiraba un monton de errores ¯\_(ツ)_/¯
+13:00:42 - Esteban Yañez (@eyanez):
+hasta vi un contador entrando a las developers tools para emular IE9 en la pagina de AFIP
+13:01:17 - Martín Aimar (@maimar):
+eso es amar la profesión
+13:06:36 - Juan Scolari (@juanscolari):
+con la charla del otro dia varios recapacitaron, empezaron a pagar sus impuestos y la pagina colapso <#C0PHBKNNA|forobardo>
+13:20:14 - Pato (@pato):
+que cagada
+13:20:16 - Pato (@pato):
+cuando no la
+13:48:10 - Zeroline (@jesuslozano.red):
+Hola buen día a todos, saludos desee México 
+14:16:48 - Santiago Ruffino (@santi_0898):
+<@U06H27CM8> hagan a este hombre presidente 
+14:21:32 - a0viedo (@a0viedo):
+si me votan prometo poner papas dia para el evento
+14:40:46 - Pato (@pato):
+ese es mi presidente :heart:
+15:26:52 - Santiago Ruffino (@santi_0898):
+Si no me ayudan con el pasaje para ir a una meetup, no voto a nadie. Los del interior solo sufrimos bullying
+15:35:56 - Leandro Echevarria (@echevarrialeandro):
+Hacé un fundMe que lo levantás al toque. Además dos o tres categorías te llevas de cajón :stuck_out_tongue:
+15:37:51 - a0viedo (@a0viedo):
+sin <@U9KMYNJMV> se cancelan los dev awards
+15:38:05 - Santiago Ruffino (@santi_0898):
+Mmm, creo que me da miedo preguntar que categorias ganaria yo... Jajajaja
+15:38:25 - Sebastian Waisbrot (@seppo0010):
+premio a la persona que más tuvo que viajar para ir a la entrega de premios
+15:38:55 - a0viedo (@a0viedo):
+mejor dev pulpo porque le dá las manos para todo
+15:42:07 - Leandro Echevarria (@echevarrialeandro):
+Y sin duda entra en el top 3 candidatos para el de oro
+15:43:12 - Santiago Ruffino (@santi_0898):
+Jajaja
+15:43:22 - Santiago Ruffino (@santi_0898):
+Creo que el de oro esta entre <@U0TFEHWEA> y yo ?)
+15:52:09 - Luis Ventocilla (@lvsmix):
+Yo diria revelacion de año
+15:52:11 - Luis Ventocilla (@lvsmix):
+:slightly_smiling_face:
+15:54:05 - Sergio Daniel Xalambrí (@sergiodxa):
+el FullStack del año
+15:54:35 - Juan Scolari (@juanscolari):
+El premio al mas amigo del PM
+15:58:58 - Sergio Daniel Xalambrí (@sergiodxa):
+el primero al que tiró peor producción
+15:59:37 - Leandro Echevarria (@echevarrialeandro):
+Uh ese está bueno
+15:59:55 - Gonza Gluzman (@gonza):
+El primero o el peor?
+16:00:11 - Gonza Gluzman (@gonza):
+Yo quiero el premio al más forobardero
+16:00:16 - Gonza Gluzman (@gonza):
+O al más troll
+16:00:42 - Sergio Daniel Xalambrí (@sergiodxa):
+/gif why not both?
+16:01:12 - Juan Scolari (@juanscolari):
+Esos premios mejor no
+16:01:59 - Sergio Daniel Xalambrí (@sergiodxa):
+el premio revelación debería ser para un junior que destaque mucho?
+16:03:02 - Jorge Cano (@jorgeucano):
+alguno sabe como funciona este algoritmo ?
+16:03:18 - Sergio Daniel Xalambrí (@sergiodxa):
+los que más participan en el canal capaz?
+16:03:25 - Sergio Daniel Xalambrí (@sergiodxa):
+como ves eso?
+16:03:38 - Gonza Espeche (@espeche.g):
+premio al spamero
+16:04:00 - Jorge Cano (@jorgeucano):
+click a general y te aparece, ver informacion del canal
+16:04:05 - Juan Scolari (@juanscolari):
+A la mejor propuesta de lenguaje extranjero
+16:05:07 - Sergio Daniel Xalambrí (@sergiodxa):
+debe ser los que más participan, yo aparezco en <#CAT26T01K|nextjs> y <#CFZPG29SQ|show-and-tell>
+16:05:14 - Sergio Daniel Xalambrí (@sergiodxa):
+los más forobarderos
+16:06:02 - Santiago Ruffino (@santi_0898):
+MUY merecido para <@U7MP5R4MC> el de foro bardo. Jajaja
+16:06:12 - Juan Scolari (@juanscolari):
+martin esta en el podio en todos los canales, ya vayan preparandole un par de premios
+16:06:34 - Santiago Ruffino (@santi_0898):
+El de preguntas tecnicas es el importante
+16:07:05 - Juan Scolari (@juanscolari):
+porque apareces vos, no? jaj
+16:07:07 - Sergio Daniel Xalambrí (@sergiodxa):
+los premios tiene que tener su nombre, en vez de `Martin Fierro` es `Martin Valdes de Leon`, los Martin Valdes de Leon
+16:07:33 - Leandro Echevarria (@echevarrialeandro):
+Y que dirija la ceremonia
+16:07:33 - Sergio Daniel Xalambrí (@sergiodxa):
+Santi es el segundo en preguntas técnicas
+16:07:56 - Santiago Ruffino (@santi_0898):
+Igual, es injusto. Porque yo aparezo por preguntar mucho. No por ayudar como ustedes. Jajaja
+16:07:56 - Sergio Daniel Xalambrí (@sergiodxa):
+claro, así no tenemos que darle premio de nada si el dirige :thinking_guy:
+16:08:05 - Sergio Daniel Xalambrí (@sergiodxa):
+preguntar también ayuda
+16:08:12 - Sergio Daniel Xalambrí (@sergiodxa):
+a los que tienen las mismas dudas y no se animan a preguntar
+16:08:23 - a0viedo (@a0viedo):
+lo trajimos a buenos aires y le convidamos facturas el año pasado a <@U0TFEHWEA>
+16:09:07 - Santiago Ruffino (@santi_0898):
+Podriamos hacer una encuesta Online, y hacer los "Devs Award Online"
+16:17:17 - Julian (@jantonielli01):
+Re piola, la rompí 
+17:12:24 - Brian Hume (@brianh20):
+Yo voy si no participa Mirko (?)
+17:18:40 - Gonza Espeche (@espeche.g):
+Aparentemente esta pagina libera cursos gratis desde este viernes hasta el domingo (todo el finde)
+<https://www.pluralsight.com/>
+17:19:25 - Santiago Ruffino (@santi_0898):
+Osea que tenes que pasarte el finde estudiando? Jajaja
+17:21:12 - Martín Aimar (@maimar):
+pará, vos salís los findes?
+17:21:29 - Sergio Daniel Xalambrí (@sergiodxa):
+labura de todo y hasta sale los findes
+17:21:40 - Sergio Daniel Xalambrí (@sergiodxa):
+este pibe es un groso
+17:21:42 - Santiago Ruffino (@santi_0898):
+JAJAJAJA
+17:22:13 - Santiago Ruffino (@santi_0898):
+No, tengo menos joda yo... Me la paso entrenando normalmente. Ahora, laburando en mi casa (mi casa literal, no DESDE mi casa)
+17:22:54 - Sergio Daniel Xalambrí (@sergiodxa):
+labura, sale los findes, entrena y se construye su propia casa!
+17:23:58 - Martín Aimar (@maimar):
+tremendo
+17:24:05 - Martín Aimar (@maimar):
+avisá cuando toques con tu banda que vamos
+17:24:30 - Gonzalo González Mora (@gonzalogm):
+jajajajaaj
+17:24:31 - Gonza Gluzman (@gonza):
+Toca todos los instrumentos
+17:24:42 - Gonza Gluzman (@gonza):
+Y es el público también
+17:36:41 - Santiago Ruffino (@santi_0898):
+<https://www.youtube.com/watch?v=b3-9bJmatyg>
+17:45:14 - Brian Hume (@brianh20):
+yo a ese pibe lo vi en vivo
+17:45:20 - Brian Hume (@brianh20):
+esta en el muelle de san francisco
+17:45:36 - Brian Hume (@brianh20):
+posta que es re bizarro
+17:45:38 - Brian Hume (@brianh20):
+en ese video no esta
+17:46:07 - Brian Hume (@brianh20):
+pero tiene una guitarra con un teclado que ademas tiene un mastil de bajo dado vuelta entonces toca el acorde de viola con 4 dedos y el bajo con el dedo gordo
+17:46:51 - Brian Hume (@brianh20):
+esta ahi por lo menos desde el 2016 cuando fui a apple por primera vez :slightly_smiling_face:
+17:47:02 - Brian Hume (@brianh20):
+pero tiene pinta de hacer eso desde hace bastante mas
+17:48:47 - Lucas Alejo Bellesi (@lucasbellesipocho):
+el guitarrista mas loco que vi se le deformaron (le crecieron diferentes los dedos) de las manos por tanto tocar la guitarra toda su vida
+17:50:30 - Santiago Ruffino (@santi_0898):
+Que abuso
+17:50:31 - Santiago Ruffino (@santi_0898):
+Jajaja
+17:54:57 - Lucas Alejo Bellesi (@lucasbellesipocho):
+<https://youtu.be/0IdzrjIInpU?t=250>
+18:10:32 - Martín Aimar (@maimar):
+este hace de todo también <https://www.youtube.com/watch?v=xuc9C-C6Ldw>
+21:11:41 - Jonathan Matías Santos (@jonathanmatias_santos):
+Hola, buenas noches

@@ -1,0 +1,1299 @@
+00:01:04 - Nicolás Valenzuela (@nvalgioia):
+Hice entrevista y quedé para un proyecto corto, de 2 meses con un cliente de afuera. Y me están pidiendo, por política de la empresa, que les envíe el equivalente a un Background Check pero de Argentina (el Certificado de Antecedentes Penales)
+00:02:39 - Nicolás Valenzuela (@nvalgioia):
+Ya lo solicité y tengo el pdf para enviarles. Lo que me preocupa es que en el informe te ponen bastante info sensible, como el DNI, huella digital, foto documento, fecha de nacimiento, etc
+00:03:30 - Nicolás Valenzuela (@nvalgioia):
+Soy bastante cuidadoso con la información que pongo en internet, y no me entusiasma para nada enviar a gente que no conozco mi DNI y mi huella digital
+00:03:53 - Nicolás Valenzuela (@nvalgioia):
+Cómo manejarían esto ustedes? Estoy paranoiqueando al pedo?
+00:06:22 - Pablo Miceli (@pablomiceli24):
+Creo que es normal que lo pidan los clientes de USA, a mi me lo pidieron una vez. Eso no quita que sea re choto mandar cierta info igual :confused:
+09:56:46 - Diego Harari (@diehara):
+Buenas! se que hablaron un monton. Alguno tiene estudiado con que plataforma es mas beneficioso ingresar el dinero a Arg? Paypal esta sacando entre lo que pagan y lo que recibis aprox un 15%
+09:56:50 - Diego Harari (@diehara):
+me parecio un delirio
+09:56:57 - Diego Harari (@diehara):
+pero por ahi es eso lo que se descuenta
+10:01:34 - Wilfredo Alcala (@alcalawilfre):
+Te pueden pagar en bitcoin?
+10:01:52 - Wilfredo Alcala (@alcalawilfre):
+No solo no pierdes comisión, sino que vendes con 5% de ganancias
+10:04:18 - Jorge Cano (@jorgeucano):
+yo use esto en algun momento =&gt; <https://worker.bitwage.com/login>
+10:04:49 - Jorge Cano (@jorgeucano):
+basicamente, te pagan a una cuenta de ellos… eso pasa a ser bitcoin y esas bitcoins se venden en tu pais y de ahi lo recibis en tu cuenta
+10:10:33 - Martín Aimar (@maimar):
+está como descuidada la página
+10:10:54 - Jorge Cano (@jorgeucano):
+hace 2 años y pico lo use
+10:10:55 - Jorge Cano (@jorgeucano):
+no se que onda ahora
+10:12:16 - Martin Carrera (@mcarrera):
+la web es horrible, el funcionamiento te da la sensacion de que esta atado con alambre y que hacen las transacciones a manopla pero el servicio funciona
+10:12:36 - Martín Aimar (@maimar):
+tenés un estimado de la comisión?
+10:12:55 - Martin Carrera (@mcarrera):
+hay un plan “premium” que no te cobran comision, pero perdes con la cotizacion del dolar
+10:13:04 - Martin Carrera (@mcarrera):
+xq la transferencia aca te llega en pesos
+10:14:01 - Diego Harari (@diehara):
+y payoneer?
+10:14:05 - Diego Harari (@diehara):
+o transferwise?
+10:14:50 - Martín Valdés de León (@mvaldesdeleon):
+Yo uso Transferwise. La comision es baja, la cotizacion es buena, y llega rapido.
+10:15:00 - Martín Valdés de León (@mvaldesdeleon):
+Pero se te convierte a pesos si o si. Entiendo que hay gente que no quiere esto.
+10:16:15 - Martín Valdés de León (@mvaldesdeleon):
+Recien transferi 200 eur, x ej, y tomando el cambio de BNA me estarian cobrando un 3,38% de comision.
+10:16:15 - Jorge Cano (@jorgeucano):
+bitwage tambien
+10:17:01 - Martin Carrera (@mcarrera):
+en mi laburo anterior usabamos bitex y me llegaba en USD a mi cuenta en USD de aca
+10:17:08 - Martin Carrera (@mcarrera):
+pero la comision la pagaban ellos, no se cuanto era :confused:
+10:17:26 - Martín Valdés de León (@mvaldesdeleon):
+Transferwise ahora me esta prometiendo que la guita llega en 1hs. Asi que en una hora les cuento.
+10:17:39 - Gonzalo González Mora (@gonzalogm):
+1 hora? aguantiaaaaa
+10:17:51 - Martín Valdés de León (@mvaldesdeleon):
+Es que ya la tienen. El modelo de negocio esta piola.
+10:17:54 - Gonzalo González Mora (@gonzalogm):
+De una
+10:18:05 - Santiago Ruffino (@santi_0898):
+Que lindo trabajar on-site con sueldo en pesos argentinos ?) No me tengo que preocupar de todas esas cosas
+10:26:26 - Martín Aimar (@maimar):
+existe que alguien te preste una cuenta para cobrar ahí y luego traerla para acá con transferwise?
+10:28:55 - a0viedo (@a0viedo):
+osea lavar plata?
+10:28:57 - Diego Harari (@diehara):
+gracias !
+10:28:59 - Diego Harari (@diehara):
+jjejej
+10:29:04 - Diego Harari (@diehara):
+ya estan hablando de cosas turbias
+10:29:06 - a0viedo (@a0viedo):
+transferwise está habilitado ahora para argentina
+10:30:19 - Martín Aimar (@maimar):
+si hago la factura no sería lavar, pregunto porque no tengo cuenta afuera no más
+10:30:36 - a0viedo (@a0viedo):
+transferwise te dá la cuenta
+10:30:57 - Martín Aimar (@maimar):
+pos haberlo dicho antes
+10:34:08 - a0viedo (@a0viedo):
+el modelo de negocio es bastante interesante, no son un banco pero tienen como cuentas bancarias en cada país que operan...vos le depositas en la cuenta a ellos, después la plata puede no salir del país
+10:34:23 - a0viedo (@a0viedo):
+técnicamente
+10:34:45 - a0viedo (@a0viedo):
+y le ganas al sistema que te caga con las comisiones de mierda que ofrecen los bancos
+10:36:01 - Martín Aimar (@maimar):
+qué onda eso “borderless account”
+10:37:26 - Lucas Alejo Bellesi (@lucasbellesipocho):
+y en Uruguay como es la onda? medio lo mismo te la ponen en impuestos y comisiones de bancos?
+10:37:37 - Julio (@julito):
+Por transferencia a mi cuenta del Santander me están cobrando 20usd fijo + ~1% según las cuentas que estoy sacando, pero no coincide para nada con lo que veo en la página del banco :thinking_face:
+10:37:43 - Julio (@julito):
+Así que ni idea, todo muy confuso
+10:37:49 - Julio (@julito):
+Pero más que eso no se está perdiendo en el camino
+10:37:52 - Diego Harari (@diehara):
+paypal transfiere por nubi
+10:37:55 - Diego Harari (@diehara):
+pero de paypal a nubi
+10:37:56 - Diego Harari (@diehara):
+un %
+10:38:02 - Diego Harari (@diehara):
+y de nubi a tu banco
+10:38:04 - Diego Harari (@diehara):
+otro %
+10:38:08 - Diego Harari (@diehara):
+en total da como un 15%
+10:38:31 - Diego Harari (@diehara):
+de 100 por ejemplo de quedan 85 o menos
+10:38:35 - Diego Harari (@diehara):
+y encima el que te paga por paypal
+10:38:39 - Martín Aimar (@maimar):
+los fees son por cobrar en paypal y por pasar de paypal a nubi
+10:38:40 - Diego Harari (@diehara):
+tambien le sacan a el y a vos!
+10:38:43 - Diego Harari (@diehara):
+altos chorros
+10:38:54 - Diego Harari (@diehara):
+por ejemplo a mi me pagan 30 dolares por paypal
+10:38:57 - Diego Harari (@diehara):
+me llegan 28
+10:39:01 - a0viedo (@a0viedo):
+si recibís plata en uruguay las comisiones son más o menos lo mismo que cuenta <@U0436TVR2>, después está en vos estar en regla impositivamente
+10:39:07 - Diego Harari (@diehara):
+esos 28 los transfiero a nubi, llegan 26 con algo
+10:39:08 - Diego Harari (@diehara):
+y asi
+10:39:14 - Martín Aimar (@maimar):
+claro
+10:39:16 - Diego Harari (@diehara):
+vas dejando lindos dolares por el camino
+00:01:04 - Nicolás Valenzuela (@nvalgioia):
+Hice entrevista y quedé para un proyecto corto, de 2 meses con un cliente de afuera. Y me están pidiendo, por política de la empresa, que les envíe el equivalente a un Background Check pero de Argentina (el Certificado de Antecedentes Penales)
+00:02:39 - Nicolás Valenzuela (@nvalgioia):
+Ya lo solicité y tengo el pdf para enviarles. Lo que me preocupa es que en el informe te ponen bastante info sensible, como el DNI, huella digital, foto documento, fecha de nacimiento, etc
+00:03:30 - Nicolás Valenzuela (@nvalgioia):
+Soy bastante cuidadoso con la información que pongo en internet, y no me entusiasma para nada enviar a gente que no conozco mi DNI y mi huella digital
+00:03:53 - Nicolás Valenzuela (@nvalgioia):
+Cómo manejarían esto ustedes? Estoy paranoiqueando al pedo?
+00:06:22 - Pablo Miceli (@pablomiceli24):
+Creo que es normal que lo pidan los clientes de USA, a mi me lo pidieron una vez. Eso no quita que sea re choto mandar cierta info igual :confused:
+09:56:46 - Diego Harari (@diehara):
+Buenas! se que hablaron un monton. Alguno tiene estudiado con que plataforma es mas beneficioso ingresar el dinero a Arg? Paypal esta sacando entre lo que pagan y lo que recibis aprox un 15%
+09:56:50 - Diego Harari (@diehara):
+me parecio un delirio
+09:56:57 - Diego Harari (@diehara):
+pero por ahi es eso lo que se descuenta
+10:01:34 - Wilfredo Alcala (@alcalawilfre):
+Te pueden pagar en bitcoin?
+10:01:52 - Wilfredo Alcala (@alcalawilfre):
+No solo no pierdes comisión, sino que vendes con 5% de ganancias
+10:04:18 - Jorge Cano (@jorgeucano):
+yo use esto en algun momento =&gt; <https://worker.bitwage.com/login>
+10:04:49 - Jorge Cano (@jorgeucano):
+basicamente, te pagan a una cuenta de ellos… eso pasa a ser bitcoin y esas bitcoins se venden en tu pais y de ahi lo recibis en tu cuenta
+10:10:33 - Martín Aimar (@maimar):
+está como descuidada la página
+10:10:54 - Jorge Cano (@jorgeucano):
+hace 2 años y pico lo use
+10:10:55 - Jorge Cano (@jorgeucano):
+no se que onda ahora
+10:12:16 - Martin Carrera (@mcarrera):
+la web es horrible, el funcionamiento te da la sensacion de que esta atado con alambre y que hacen las transacciones a manopla pero el servicio funciona
+10:12:36 - Martín Aimar (@maimar):
+tenés un estimado de la comisión?
+10:12:55 - Martin Carrera (@mcarrera):
+hay un plan “premium” que no te cobran comision, pero perdes con la cotizacion del dolar
+10:13:04 - Martin Carrera (@mcarrera):
+xq la transferencia aca te llega en pesos
+10:14:01 - Diego Harari (@diehara):
+y payoneer?
+10:14:05 - Diego Harari (@diehara):
+o transferwise?
+10:14:50 - Martín Valdés de León (@mvaldesdeleon):
+Yo uso Transferwise. La comision es baja, la cotizacion es buena, y llega rapido.
+10:15:00 - Martín Valdés de León (@mvaldesdeleon):
+Pero se te convierte a pesos si o si. Entiendo que hay gente que no quiere esto.
+10:16:15 - Martín Valdés de León (@mvaldesdeleon):
+Recien transferi 200 eur, x ej, y tomando el cambio de BNA me estarian cobrando un 3,38% de comision.
+10:16:15 - Jorge Cano (@jorgeucano):
+bitwage tambien
+10:17:01 - Martin Carrera (@mcarrera):
+en mi laburo anterior usabamos bitex y me llegaba en USD a mi cuenta en USD de aca
+10:17:08 - Martin Carrera (@mcarrera):
+pero la comision la pagaban ellos, no se cuanto era :confused:
+10:17:26 - Martín Valdés de León (@mvaldesdeleon):
+Transferwise ahora me esta prometiendo que la guita llega en 1hs. Asi que en una hora les cuento.
+10:17:39 - Gonzalo González Mora (@gonzalogm):
+1 hora? aguantiaaaaa
+10:17:51 - Martín Valdés de León (@mvaldesdeleon):
+Es que ya la tienen. El modelo de negocio esta piola.
+10:17:54 - Gonzalo González Mora (@gonzalogm):
+De una
+10:18:05 - Santiago Ruffino (@santi_0898):
+Que lindo trabajar on-site con sueldo en pesos argentinos ?) No me tengo que preocupar de todas esas cosas
+10:26:26 - Martín Aimar (@maimar):
+existe que alguien te preste una cuenta para cobrar ahí y luego traerla para acá con transferwise?
+10:28:55 - a0viedo (@a0viedo):
+osea lavar plata?
+10:28:57 - Diego Harari (@diehara):
+gracias !
+10:28:59 - Diego Harari (@diehara):
+jjejej
+10:29:04 - Diego Harari (@diehara):
+ya estan hablando de cosas turbias
+10:29:06 - a0viedo (@a0viedo):
+transferwise está habilitado ahora para argentina
+10:30:19 - Martín Aimar (@maimar):
+si hago la factura no sería lavar, pregunto porque no tengo cuenta afuera no más
+10:30:36 - a0viedo (@a0viedo):
+transferwise te dá la cuenta
+10:30:57 - Martín Aimar (@maimar):
+pos haberlo dicho antes
+10:34:08 - a0viedo (@a0viedo):
+el modelo de negocio es bastante interesante, no son un banco pero tienen como cuentas bancarias en cada país que operan...vos le depositas en la cuenta a ellos, después la plata puede no salir del país
+10:34:23 - a0viedo (@a0viedo):
+técnicamente
+10:34:45 - a0viedo (@a0viedo):
+y le ganas al sistema que te caga con las comisiones de mierda que ofrecen los bancos
+10:36:01 - Martín Aimar (@maimar):
+qué onda eso “borderless account”
+10:37:26 - Lucas Alejo Bellesi (@lucasbellesipocho):
+y en Uruguay como es la onda? medio lo mismo te la ponen en impuestos y comisiones de bancos?
+10:37:37 - Julio (@julito):
+Por transferencia a mi cuenta del Santander me están cobrando 20usd fijo + ~1% según las cuentas que estoy sacando, pero no coincide para nada con lo que veo en la página del banco :thinking_face:
+10:37:43 - Julio (@julito):
+Así que ni idea, todo muy confuso
+10:37:49 - Julio (@julito):
+Pero más que eso no se está perdiendo en el camino
+10:37:52 - Diego Harari (@diehara):
+paypal transfiere por nubi
+10:37:55 - Diego Harari (@diehara):
+pero de paypal a nubi
+10:37:56 - Diego Harari (@diehara):
+un %
+10:38:02 - Diego Harari (@diehara):
+y de nubi a tu banco
+10:38:04 - Diego Harari (@diehara):
+otro %
+10:38:08 - Diego Harari (@diehara):
+en total da como un 15%
+10:38:31 - Diego Harari (@diehara):
+de 100 por ejemplo de quedan 85 o menos
+10:38:35 - Diego Harari (@diehara):
+y encima el que te paga por paypal
+10:38:39 - Martín Aimar (@maimar):
+los fees son por cobrar en paypal y por pasar de paypal a nubi
+10:38:40 - Diego Harari (@diehara):
+tambien le sacan a el y a vos!
+10:38:43 - Diego Harari (@diehara):
+altos chorros
+10:38:54 - Diego Harari (@diehara):
+por ejemplo a mi me pagan 30 dolares por paypal
+10:38:57 - Diego Harari (@diehara):
+me llegan 28
+10:39:01 - a0viedo (@a0viedo):
+si recibís plata en uruguay las comisiones son más o menos lo mismo que cuenta <@U0436TVR2>, después está en vos estar en regla impositivamente
+10:39:07 - Diego Harari (@diehara):
+esos 28 los transfiero a nubi, llegan 26 con algo
+10:39:08 - Diego Harari (@diehara):
+y asi
+10:39:14 - Martín Aimar (@maimar):
+claro
+10:39:16 - Diego Harari (@diehara):
+vas dejando lindos dolares por el camino
+10:39:34 - Diego Harari (@diehara):
+fuck the system loco!
+10:39:41 - Jorge Cano (@jorgeucano):
+en realidad
+10:39:44 - Jorge Cano (@jorgeucano):
+hay que pensar desde otro punto
+10:39:50 - Jorge Cano (@jorgeucano):
+hay que cobrar pensando en los impuestos que tenes
+10:39:57 - Jorge Cano (@jorgeucano):
+asi te llega lo que vos queres que te llegue
+10:40:00 - Diego Harari (@diehara):
+aca en argentina hay que hacer rebelion impositiva es un desastre lo que te cobran de patentes, abl, etc ,etc, y mil etc
+10:40:05 - Jorge Cano (@jorgeucano):
+facturar y todo como se debe y cobrar lo que hay que cobrar
+10:40:38 - a0viedo (@a0viedo):
+paypal es lo peor en términos de comisiones...de TOS porque te pueden congelar la plata sin razón por tiempo indefinido
+10:40:50 - Martín Aimar (@maimar):
+si ya fue, si todo eso son servicios, algo va a haber que pagar
+10:41:26 - Martín Aimar (@maimar):
+si no armen un partido y ganen las elecciones
+10:41:51 - Jorge Cano (@jorgeucano):
+jajajajjaj
+10:42:11 - Jorge Cano (@jorgeucano):
+para mi la posta es =&gt; queres cobrar X y sabes que te sacan Y de impuestos =&gt; X + Y seria tu precio
+10:45:24 - a0viedo (@a0viedo):
+tenía cuenta en payoneer pero si quería recibir plata desde europa tenía que abrir otra cuenta y esperar hasta que llegue otra tarjeta
+10:46:07 - Martín Valdés de León (@mvaldesdeleon):
++1 a lo que dice Jorge.
+10:46:17 - Martín Valdés de León (@mvaldesdeleon):
+Siempre pensa lo que te queda en mano y arma tus precios en base a eso.
+10:47:31 - Hernan Rajchert (@sherman):
+A jorge le fue mal en matemática, porque el porcentaje de (x + y) va a ser distinto al y inicial :troll: 
+10:47:49 - Jorge Cano (@jorgeucano):
+me refiero
+10:47:57 - Jorge Cano (@jorgeucano):
+a que calcules en base a lo que queres tener en mano
+10:48:01 - Jorge Cano (@jorgeucano):
+es como el sueldo xD
+10:48:01 - Hernan Rajchert (@sherman):
+El concepto está muy bien, cobra pensando en los impuestos 
+10:48:16 - Jorge Cano (@jorgeucano):
+yo antes hacia malabares para poder traer dinero por el menor precio posible
+10:48:33 - Jorge Cano (@jorgeucano):
+pero me di cuenta que lo unico que hacia era regalar mi trabajo y despues sufrir para traer la guita
+10:48:50 - Martín Valdés de León (@mvaldesdeleon):
+:clap:
+10:48:52 - Jorge Cano (@jorgeucano):
+entonces, la posta es que si vas a cobrar afuera pensa que es lo mismo que cobrar aca
+10:48:59 - Martín Valdés de León (@mvaldesdeleon):
+Asumi la peor tasa, sumasela a tu precio final
+10:49:01 - Martín Valdés de León (@mvaldesdeleon):
+Y al carajo
+10:49:01 - Jorge Cano (@jorgeucano):
+aca si vas a recibir un sueldo sabes que te van a sacar X
+10:49:06 - Jorge Cano (@jorgeucano):
+entonces hace lo mismo para afuera
+10:49:23 - Santiago Ruffino (@santi_0898):
+Yo negocio mi sueldo el neto. Despues, supongo que deberia ser la misma mentalidad para facturar afuera
+10:49:36 - Santiago Ruffino (@santi_0898):
+Bah, "negocio", que palabra tan amplia...
+10:51:59 - Jorge Cano (@jorgeucano):
+en realidad no
+10:52:04 - Jorge Cano (@jorgeucano):
+vos tenes que negociar tu sueldo en bruto
+10:52:15 - Jorge Cano (@jorgeucano):
+y vos deberias saber que porcentaje de sueldo te van a sacar
+10:52:18 - Martín Valdés de León (@mvaldesdeleon):
+Claro.
+10:52:22 - Jorge Cano (@jorgeucano):
+lo mismo para afuera
+10:52:29 - Jorge Cano (@jorgeucano):
+si vas a facturar para el exterior
+10:52:36 - Jorge Cano (@jorgeucano):
+tenes que entender que porcentaje te van a sacar
+10:52:40 - Jorge Cano (@jorgeucano):
+para saber que precio hora tenes que poner
+10:53:13 - Jorge Cano (@jorgeucano):
+en un par de horas, podes entender bien los impuestos y porcentajes bancarios que tenes que pagar
+10:53:22 - Jorge Cano (@jorgeucano):
+de esa forma, no tenes que pensar en cosas “extras”
+11:02:57 - Nicolás Orchow (@nicoorchow):
+Buenas! yo laburo en Bitex y uno de los servicios que proveemos es justamente para hacer y recibir transferencias del exterior pero sobre bitcoin para bajar el costo. en gral el costo es 1% final y te llega la guita en el día, lo cual es bastante mejor que otras soluciones. lo que sí, tanto el pagador como el que recibe tiene que presentar papeles para ver que la guita es limpia. si a alguno le interesa: <https://bitex.la/home/concierge> o me dice y lo pongo en contacto con alguien del área comercial.
+11:11:53 - Martín Aimar (@maimar):
+<@U1XSDSM4H> existe estar “en blanco” laburando para el exterior o es siempre facturando?
+11:12:12 - Jorge Cano (@jorgeucano):
+normalmente es facturando
+11:12:21 - Luis Alvarez (@luistensai):
+facturar es estar en blanco...
+11:12:35 - Martín Aimar (@maimar):
+me refería a algo como la relación de dependencia
+11:12:36 - Luis Alvarez (@luistensai):
+lo que vos decís es "en blanco" es relación de dependencia creo
+11:12:38 - Jorge Cano (@jorgeucano):
+porque para estar en “blanco” relacion de dependencia, la empresa tiene que tener una sociedad en el pais donde estas vos
+11:13:21 - Jorge Cano (@jorgeucano):
+ahora, si tenes por ejemplo la ciudadania Española y trabajas para algun pais de la Union Europea, podes viajar hacer los papeles y cobrar como “persona normal” osea en relacion de dependencia
+11:15:54 - Rodrigo (@rpinco):
+y cobras en un banco de españa, calculo
+11:16:12 - Jorge Cano (@jorgeucano):
+claro, y despues deberias facturar para traer el dinero
+11:16:13 - Jorge Cano (@jorgeucano):
+:thinking_face:
+11:16:19 - Jorge Cano (@jorgeucano):
+bueno, no se bien como seria eso
+11:16:22 - Rodrigo (@rpinco):
+pero tus aportes/obrasocial y eso...es español tambien? jaja
+11:16:23 - Jorge Cano (@jorgeucano):
+en mi caso no tengo la ciudadania
+11:16:41 - Jorge Cano (@jorgeucano):
+asi que no estoy seguro como funcionaria
+11:16:44 - Martín Valdés de León (@mvaldesdeleon):
+en general en europa los aportes y prepaga te los descuentan siempre
+11:16:45 - Jorge Cano (@jorgeucano):
+pero supongo que si
+11:16:48 - Jorge Cano (@jorgeucano):
+tributarias alla y aca xD
+11:16:50 - Martín Valdés de León (@mvaldesdeleon):
+no pasa por la ciudadania o no ciudadania
+11:16:51 - Rodrigo (@rpinco):
+no creo que puedas estar en relacion de dependencia con una entidad de afuera
+11:17:04 - Jorge Cano (@jorgeucano):
+lo que yo hago en mis trabajos
+11:17:08 - Jorge Cano (@jorgeucano):
+es firmar digitalmente
+11:17:09 - Rodrigo (@rpinco):
+necesitaria tener...persona juridica? aca
+11:17:10 - Jorge Cano (@jorgeucano):
+un contrato
+11:17:23 - Jorge Cano (@jorgeucano):
+que seria lo mismo que se firma aca
+11:17:28 - Gustavo Machado (@machadogj):
+tengo entendido que hay que unicamente facturar (y pagar impuestos) en el pais de “residencia”, independientemente de las ciudadanias, visas, etc… que tengas
+11:17:52 - Jorge Cano (@jorgeucano):
+pero con la diferencia, que yo me comprometo a trabajar X horas por X dinero
+11:18:04 - Jorge Cano (@jorgeucano):
+pones cuando vas a facturar y como cuando y de que forma te van a pagar
+11:18:54 - Rodrigo (@rpinco):
+y eso tiene validez? si vos no cumplis con tu laburo, ellos ..tendrian que demandarte aca?
+11:19:16 - Jorge Cano (@jorgeucano):
+en mi caso, nunca tuve que hacer ningun tema legal porque siempre se cumplio todo de ambas partes
+11:19:28 - Jorge Cano (@jorgeucano):
+pero entiendo que pueden demandarme alla
+11:19:34 - Jorge Cano (@jorgeucano):
+un contrato es un contrato
+11:19:41 - Rodrigo (@rpinco):
+nadie alla tiene autoridad para hacerte algo aca
+11:19:47 - Rodrigo (@rpinco):
+eso...eso es casi seguro jaja
+11:20:06 - Leandro Echevarria (@echevarrialeandro):
+Dijo nadie nunca :sob:
+11:20:13 - Leandro Echevarria (@echevarrialeandro):
+Armemos SRL y freelanceamos para afuera
+11:20:14 - Rodrigo (@rpinco):
+por eso decia que el contrato en ese caso es casi una formalidad
+11:20:20 - Rodrigo (@rpinco):
+creo, la verdad no se tanto
+11:20:30 - Jorge Cano (@jorgeucano):
+para mi no
+11:20:34 - Jorge Cano (@jorgeucano):
+para mi un contrato es un contrato
+11:22:34 - a0viedo (@a0viedo):
+excepto par USA
+11:22:54 - Gabriel Dominguez (@gabidominguez):
+que no se puede romper
+11:23:30 - Gustavo Machado (@machadogj):
+a que te referis?
+11:23:53 - a0viedo (@a0viedo):
+en la práctica si vos no cumplís te echan
+11:23:56 - Julio (@julito):
+Es interesante, aunque probablemente más que una denuncia internacional les convenga mandarte a cagar y listo si no hacés tu laburo (además de que te pagan una vez que ya laburaste el mes)
+11:23:58 - Luis Alvarez (@luistensai):
+hay que ver qué dicen las leyes internacionales sobre contratos :man-shrugging:
+11:24:09 - Julio (@julito):
+No sé qué pasa si rompés un NDA o algo así
+11:24:22 - Luis Alvarez (@luistensai):
+claro jaja
+11:24:37 - a0viedo (@a0viedo):
+esto es material para aboga.dev
+11:24:49 - Luis Alvarez (@luistensai):
+estaba pensando en lo mismo jajajaja
+11:26:33 - Martín Valdés de León (@mvaldesdeleon):
+AFAIK no hay "leyes internacionales" sobre contratos
+11:26:41 - Martín Valdés de León (@mvaldesdeleon):
+en cada pais corre la legislacion local
+11:27:23 - Leandro Echevarria (@echevarrialeandro):
+En base a este tema de cobrar afuera, me surgio para hacer un thread de plataformas para freelancear, tanto individual como en equipo anotados como empresa. Lo hice en <#C06MTLZ1Q|laboral-freelo> porque me parecio adecuado. El que quiera aportar, mas que bienvenido!
+11:37:19 - a0viedo (@a0viedo):
+si sos ciudadano de los estados unidos no importa si vivís en Kosovo tenés que pagar impuestos en estados unidos
+12:12:07 - Silvio Messina (@smessina):
+Me encanta como la charla arrancó en buscar comisión más baratas y llego hasta saber que tan blanco esta lo que hacemos
+12:14:31 - Santiago Ruffino (@santi_0898):
+La magia de Slack
+12:20:00 - Silvio Messina (@smessina):
+Les comparto lo que conozco.
+
+Por un lado esta la prestación de servicios con facturación propia y otras yerbas (y cada uno que pague sus impuestos como pueda/sepa/quiera).
+
+Pero también existe la Relación de Dependencia Internacional. Los países hacen convenios entre si para repartirse los impuestos, así que el primer lugar donde consultar sería la embajada/consulado de ese país (aplica para casos de relocacion y demas).
+
+El otro caso es si la empresa tiene sede acá en Argentina pero trabajas para la casa matriz en el pais X... ahí dependerá si habrá o no cambio o no de la residencia de uno
+
+12:20:48 - Wilfredo Alcala (@alcalawilfre):
+Por suerte, los mensajes de slack se pierden
+12:25:12 - a0viedo (@a0viedo):
+llegué muy tarde para avisar que el bot guardamensajes ya está funcionando?
+12:27:00 - Silvio Messina (@smessina):
+Tiro link acá con más info oficial:
+<https://www.anses.gob.ar/prestaciones-por-convenio-internacional>
+12:31:44 - Marcos Casagrande (@marcoscvp90):
+<@UCRSAU92S> la mejor forma de entrar plata a Argentina es con Transferwise
+12:32:37 - Marcos Casagrande (@marcoscvp90):
+Yo trabajo para afuera, y la comisión que tienen de conversión USD/EUR a ARS es de 1.2% aprox, pero esa comisión se licua sola porque la tasa de cambio es mayor a la de los bancos.
+12:34:51 - Ariel Barabas (@ariel.barabas):
+me registré el otro día en transferwise y no pude ni sacar la tarjeta ni aceptar transferencias desde afuera, después de preguntar me dijeron que no estaba habilitado para arg
+12:35:20 - Ariel Barabas (@ariel.barabas):
+entonces no entendí para qué me dejaron registrarme
+12:35:23 - Marcos Casagrande (@marcoscvp90):
+Hacer transferencia en dolares no conviene nunca, porque el banco te coge, y además después tenés que convertir esos dólares a pesos a la tasa del banco que es un 1% más baja que la tasa de Transferwise.
+
+Para que te hagas una idea, actualmente es: 41.46 en TW, vs 40.7 en Galicia por ejemplo.
+12:36:25 - Marcos Casagrande (@marcoscvp90):
+En Argentina, *podés* recibir transferencias en Euros, usando IBAN, o en libras, lo que no podés es transferencia en dólares.
+12:36:42 - Ariel Barabas (@ariel.barabas):
+ahh ese era mi problema entonces?
+12:36:45 - Marcos Casagrande (@marcoscvp90):
+Para sacar la tarjeta, podés si tenés nacionalidad europea también.
+12:37:03 - Ariel Barabas (@ariel.barabas):
+entonces no puedo nada :stuck_out_tongue:
+12:37:05 - Marcos Casagrande (@marcoscvp90):
+Y si tenés nacionalidad europea, ya se van todas las restricciones, podés recibir USD/EUR etc.
+12:37:22 - Marcos Casagrande (@marcoscvp90):
+Pero como dije, con cuenta Argentina, transferencias desde Europa podés sin problema, la borderless en EUR funciona perfecto.
+12:38:00 - Marcos Casagrande (@marcoscvp90):
+y Ariel, lo que podés hacer que es lo que hago yo, es abrirte cuenta en Payoneer.
+12:38:18 - Marcos Casagrande (@marcoscvp90):
+De Payoneer te transfieren en USD, de Payoneer pasás a TW, y de TW al banco local.
+12:38:35 - Marcos Casagrande (@marcoscvp90):
+Ese es el camino con menos comisión, si no tenés nacionalidad europea.
+12:39:19 - Ariel Barabas (@ariel.barabas):
+ok, payoneer ya tengo, es buena
+12:39:31 - Ariel Barabas (@ariel.barabas):
+estaba viendo de cambiarme porque payoneer es un toque alto
+12:39:54 - Ariel Barabas (@ariel.barabas):
+yo estaba haciendo payoneer -&gt; banco local en USD
+12:40:01 - Ariel Barabas (@ariel.barabas):
+y bueno, agacharme jajaja
+12:45:10 - Marcos Casagrande (@marcoscvp90):
+No no, olvidate, nunca hagas eso.
+12:45:49 - Marcos Casagrande (@marcoscvp90):
+Lo que tenés que hacer es: Payoneer USD &gt; Payoneer EUR &gt; Compra de EUR en TW con tarjeta EUR de payoneer &gt; EUR a ARS en TW &gt; TW ARS &gt; Banco en ARS.
+12:46:07 - Marcos Casagrande (@marcoscvp90):
+Parece complejo, pero se hace en 2 patadas, y es la forma que menos comisión tenés.
+12:46:16 - Jorge Cano (@jorgeucano):
+lo que tenes que hacer es una factura legar y cobrar lo que tenes que cobrar (Subi tu valor hora)
+12:46:26 - Jorge Cano (@jorgeucano):
+la posta aca es esa
+12:46:28 - Jorge Cano (@jorgeucano):
+SUBIR EL VALOR HORA
+12:46:30 - Jorge Cano (@jorgeucano):
+:clap:
+12:46:45 - Marcos Casagrande (@marcoscvp90):
+Pero podés facturar sin problemas, yo facturo, pero factura E.
+12:47:11 - Marcos Casagrande (@marcoscvp90):
+Acá nunca van a pagar lo que se paga afuera, por eso no trabajo para Argentina.
+12:47:17 - Jorge Cano (@jorgeucano):
+tenemos que perder esa vision de “me estan cagando, voy a cagarlos” digo, los bancos son una mierda I know :smile:
+12:47:48 - Jorge Cano (@jorgeucano):
+digo no podes hacer tu cliente o payoneer =&gt; TW =&gt; tu cuenta local
+12:48:28 - Marcos Casagrande (@marcoscvp90):
+El banco te caga, no es una visión.
+12:48:41 - Marcos Casagrande (@marcoscvp90):
+Yo no cago al banco, uso otros servicios que tienen comisiones razonables.
+12:48:54 - Jorge Cano (@jorgeucano):
+el banco es una empresa y tiene su precio
+12:49:04 - Jorge Cano (@jorgeucano):
+a lo que voy yo… es que podes usar TW y todo
+12:49:06 - Marcos Casagrande (@marcoscvp90):
+Transferwise es una empresa, y tiene un precio mucho menor.
+12:49:09 - Martín Valdés de León (@mvaldesdeleon):
+TW ya me deposito. En total fueron tipo 2-3hs.
+12:49:13 - Martín Valdés de León (@mvaldesdeleon):
+notbad
+12:49:23 - Marcos Casagrande (@marcoscvp90):
+TW tarda nada, mucho menos que una transferencia internacional.
+12:49:36 - Marcos Casagrande (@marcoscvp90):
+Máximo son 24 horas, si transferís en horario no bancario.
+12:49:37 - Julio (@julito):
+Supongo que va en cada uno cuánto querés pagar por cuánta comodidad ¯\_(ツ)_/¯
+12:49:51 - Marcos Casagrande (@marcoscvp90):
+Es que es más comodo TW que el banco, no solo más barato.
+12:49:54 - Julio (@julito):
+Según entendí leyendo medio por arriba, en algunos casos lo de TW es bastante simple
+12:50:02 - Marcos Casagrande (@marcoscvp90):
+En el banco estás pagando por algo *incómodo*
+12:50:09 - Julio (@julito):
+Pero teniendo ciudadanía europea, ¿no?
+12:50:16 - Marcos Casagrande (@marcoscvp90):
+No, no hace falta ciudadanía Europea.
+12:50:18 - Julio (@julito):
+Si no entendí mal si no es el caso tenés que hacer un poco más de historia
+12:50:27 - Julio (@julito):
+O sea, esto `Payoneer USD &gt; Payoneer EUR &gt; Compra de EUR en TW con tarjeta EUR de payoneer &gt; EUR a ARS en TW &gt; TW ARS &gt; Banco en ARS`
+12:50:41 - Julio (@julito):
+Se ve más complicado que mandar una factura y que me aparezca la plata en el banco
+12:50:45 - Marcos Casagrande (@marcoscvp90):
+No no, para transferirte de TW a Argentina, no hace falta nada complicado. EL problema es si necesitás cargar plata en TW y tus clientes no son europeos.
+12:50:55 - Julio (@julito):
+Ahhhahaha ahí va
+12:51:09 - Jorge Cano (@jorgeucano):
+TW no funciona en eeuu ?
+12:51:10 - Marcos Casagrande (@marcoscvp90):
+Pero de 1000 USD, preferís tener 880, o preferís tener 980?
+12:51:26 - Marcos Casagrande (@marcoscvp90):
+Si vas por banco directo, te pasa lo primero, con TW lo segundo.
+12:51:35 - Julio (@julito):
+Che pero el banco no me saca eso ni a palo :stuck_out_tongue:
+12:51:49 - Marcos Casagrande (@marcoscvp90):
+Que no? Intentaste hacer una transferencia de 1000 USD, internacional?
+12:51:59 - Marcos Casagrande (@marcoscvp90):
+Hacé 1000 USD de payoneer a cuenta bancaria en USD acá.
+12:52:03 - Julio (@julito):
+Sep, cobro todos los meses por transferencia internacional de USA
+12:52:06 - Julio (@julito):
+Sin payoneer en el medio
+12:52:17 - Marcos Casagrande (@marcoscvp90):
+Depende el banco, el galicia me cogía 100 USD limpios.
+12:52:42 - Julio (@julito):
+Al menos Santander me está cobrando lo que pasé arriba, algo de 1% (y hay 20usd que se van en el medio pero no sé si son de Santander)
+12:52:43 - Marcos Casagrande (@marcoscvp90):
+y después cambiá esos USD a la tasa del banco, que es *menor* que la de TW.
+12:53:17 - Marcos Casagrande (@marcoscvp90):
+<@U1XSDSM4H> si funciona en USA
+12:55:24 - Jorge Cano (@jorgeucano):
+yo lo unico que digo y corto aca XD … es lo siguiente =&gt;
+12:56:17 - Julio (@julito):
+En cuanto a la tasa - lo que me funciona bien es comprar con tarjeta de crédito, que después la puedo pagar en USD al precio de venta del banco (por algún motivo), así que la tasa que me da el Santander hoy en día sería $42.6
+12:56:40 - Julio (@julito):
+No pretendo cambiarte la opinión :stuck_out_tongue: Pero no es tan malo como lo pintás tampoco
+12:56:43 - Julio (@julito):
+Cuestión de averiguar y elegir
+12:57:23 - Jorge Cano (@jorgeucano):
+Facturar y pagar los impuestos por la factura es importante (mas alla del gobierno o la mierda que quieras) … No es imposible cobrar en un cliente de afuera, sin hacer malabares … simplemente hay que ver las opciones y cuanto te sale cada opcion… y gracias a eso ahi podras entender mejor tu valor hora… porque si pensas en dinero “bolsillo”, primero tenes que entender que % dejas en cada lugar .. por lo tanto hay que averiguar y entender un poco mejor todo.. para estar seguro de que estas haciendo las cosas bien y no la estas cagando en el medio :slightly_smiling_face: … Atte niñita!
+12:58:10 - Marcos Casagrande (@marcoscvp90):
+Depende <@U0436TVR2> si tenés clientes en Europa, las comisiones son mayores.
+12:58:31 - Julio (@julito):
+Claro, por eso digo que es cuestión de averiguar
+12:58:38 - Marcos Casagrande (@marcoscvp90):
+Y depende mucho de tu banco, con TW te da igual el banco que tenés. Y cambiarte de banco solo para tener menores comisiones es malísimo.
+12:58:45 - Juan Scolari (@juanscolari):
+Si son clientes en Europa o si no pagan en dolares?
+12:59:01 - Julio (@julito):
+Solamente no quería que quede la idea de que los bancos te sacan una fortuna para el que esté viendo qué hacer
+12:59:05 - Julio (@julito):
+Dependerá  de cada caso averiguar qué onda
+12:59:16 - Marcos Casagrande (@marcoscvp90):
+Exactamente, yo tengo clientes en Canada, en Londres etc, y les resulta mucho más fácil a ellos transferirme a TW.
+12:59:36 - Marcos Casagrande (@marcoscvp90):
+Al cliente también le facilita mucho, y más si son clientes nuevos, si no tienen facilidad de pago, podés perderlo.
+12:59:54 - Juan Scolari (@juanscolari):
+Pero si son europeos y me pagan en dolares?
+13:00:41 - Marcos Casagrande (@marcoscvp90):
+hacé el cálculo, pero todas las pruebas que hice yo, con TW tuve mucho menos comisiones.
+13:01:15 - Marcos Casagrande (@marcoscvp90):
+y te ahorrás en muchos casos hablar con comercio exterior.
+13:05:02 - Marcos Casagrande (@marcoscvp90):
+y como plus, si querés hacer una transferencia al exterior, no tenés problemas.
+13:06:19 - Santiago Ruffino (@santi_0898):
+Acabo de preguntar en Brubank, y me dice que no reciben trasnferencias del exterior todavia. Estan trabajando en eso ?)
+13:06:31 - Santiago Ruffino (@santi_0898):
+Pero si se puede hacer con PayPal mediante Nubi
+13:06:39 - Santiago Ruffino (@santi_0898):
+Y de Nubi a Brubank, no tienen comision
+13:06:57 - Marcos Casagrande (@marcoscvp90):
+podés hacer lo mismo entonces de TW a Brubank.
+13:07:05 - Marcos Casagrande (@marcoscvp90):
+Lo malo de PayPal, es la comisión enorme que tiene PayPal.
+13:07:30 - Santiago Ruffino (@santi_0898):
+Claro, pero solo tendrias ESA comision. Y no un acumulativo. (Eso entiendo YO)
+13:07:32 - Marcos Casagrande (@marcoscvp90):
+Si el cliente se hace cargo de la comisión, no tenés problema, pero rara vez ocurre eso.
+13:08:03 - Marcos Casagrande (@marcoscvp90):
+La comisión de PayPal, es suficientemente grande como para descartarlo como medio de pago.
+13:08:16 - Marcos Casagrande (@marcoscvp90):
+En cuanto está ya, 5%?
+13:08:32 - Marcos Casagrande (@marcoscvp90):
+o 3% y algo fijo no?
+13:14:57 - Pedro (@pedro461):
+Payoneer es mi mejor opción y a tarjetear donde se pueda
+13:15:12 - Pedro (@pedro461):
+la otra opción, también la mejor, es ir a USA y abrirse una cuenta en algún banco de allá
+13:15:15 - Pedro (@pedro461):
+no más problemas
+13:21:13 - Julio (@julito):
+Quizás debería haber un channel para esto :thinking_face: Es un tema que sale seguido, interesante, complicado, útil de discutir e _infinitamente irrelevante_ para los que no laburan para el exterior desde Argentina
+13:22:15 - Leandro Echevarria (@echevarrialeandro):
+Pienso que incluso daria para workshops y/o charlas. De cómo empezó cada uno, qué recursos usó, problemas con los que se encontró, casos de éxito, etc etc
+13:22:17 - Silvio Messina (@smessina):
+Adhiero a lo que dice <@U1XSDSM4H>.
+
+Y hago una simple observación sin pretender mojarle la oreja a ningun@.
+
+Parto de la premisa de que a ninguno nos gusta pagar impuestos...
+
+(Más genérico, nadie gusta de pagar por algo abstracto que no te de una contraprestación directa)...
+
+Y sin desmerecer el valor monetario integral que cada uno tenga de su laburo, pero... ¿se dan cuentan que están cobrando uno de los mejores ingresos de todo el pais en cuanto a esfuerzo/ingreso?
+
+La de no pagar comisiones al pedo de intermediaríos la re entiendo... pero justamente el negocio es que cuanto más fácil te la hacen más caro té sale.
+
+A lo que voy es que estaría bueno una mirada más desde la realidad y el contexto
+13:23:29 - Juan Scolari (@juanscolari):
+en <#C54TWDKN1|experiencia-laboral>  se habla cada dos por tres
+13:26:58 - Gustavo Machado (@machadogj):
+o sea que un americano viviendo en argentina y trabajando en relacion de dependencia, ademas de todo lo que le paga al ANSES y AFIP tiene que pagar al IRS?? :scream:
+13:28:07 - Julio (@julito):
+Ah bien, mala mía :pray:
+13:31:17 - Silvio Messina (@smessina):
+Y además, me resulta culturalmente peligroso que por no querer uno involucrarse, averiguar y ver como se puede hacer todo lo más prolijo posible... se opte por hacer malabares y conjuros lógicos para escapar del cuco capitalista.
+
+Mi miedo es que se genere una cultura medio snob y por atrás haya vivos que después te la pongan más duro...
+
+Por ejemplo (y cierro con esto)... no voy a defender para nada a los bancos tradicionales, pero a los nuevos bancos digitales les re desconfío de que un día te congelen la guita o un ñato les vacie los fondos y chauchas (contra un banco tradicional será RE paja, pero a la larga ganás)
+
+Conclusión: agilización si, desinvolucramiento no
+13:33:52 - Marcos Casagrande (@marcoscvp90):
+Los bancos digitales, están regulados por las mismas entidades que los bancos físicos.
+13:34:23 - Marcos Casagrande (@marcoscvp90):
+Por lo cual, lo que decís es hablar desde la falta de conocimiento y no tener autocrítica. Corralito.
+13:35:09 - Marcos Casagrande (@marcoscvp90):
+Que cada uno haga lo que quiera al final del día, pero decir que un banco físico de Argentina es más confiable que un banco digital del exterior, es una gran mentira.
+13:40:25 - Silvio Messina (@smessina):
+Dos datos:
+1) El corralito fue una decisión política, no bancaria (en todo caso la desconfiza recae sobre el gobierno de turno)
+13:42:25 - Silvio Messina (@smessina):
+2) El corralito fue nefasto, si… pero lo gracioso es que fue una “prohibición” de sacar dinero en efectivo, pero la operaciones electrónicas contaban con más libertad (que la gente de esa epoca no se manejara con postnet y demás es otra cosa)
+13:45:32 - a0viedo (@a0viedo):
+así es
+13:46:08 - Silvio Messina (@smessina):
+No digo que sean más confiables, y no me refería a los bancos digitales del exterior (sino más bien a estos nuevos como Brubnak o Wilobank)… Están habilitados por el BCRA, si, pero no con las mismas exigencias
+13:47:16 - Marcos Casagrande (@marcoscvp90):
+No importa si fue política o bancaria, el resultado es el mismo. Confío mil veces más en un banco digital extranjero, que en un banco local, y no por el banco, sino por el gobierno.
+13:48:38 - a0viedo (@a0viedo):
+McAfee no vive hace tiempo en USA pero el otro día dijo que no presenta impuestos hace 8 años y ahora lo persigue el IRS <https://coinjournal.net/john-mcafee-claims-irs-after-him-for-cryptocurrencies/>
+13:50:30 - Silvio Messina (@smessina):
+Ok, en esa concuerdo, y ahí entonces esta la justificación del valor de las comisiones (y la triangulación que cada uno apueste a hacer)
+13:53:30 - a0viedo (@a0viedo):
+apoyo lo que dice Silvio, tampoco me gusta pagar impuestos excesivos pero estaría un poco más tranquilo sabiendo que es lo mismo para todos sin importar qué tantas vueltas le des
+13:53:35 - Marcos Casagrande (@marcoscvp90):
+Y para aclarar no es cuestion de Macri o X. Es todos los gobiernos de Argentina históricamente, el que venga seguro ocurra lo mismo.
+13:54:30 - Marcos Casagrande (@marcoscvp90):
+En un banco digital de Argentina no confiaría honestamente, sacando Mercado Pago (que no lo veo como un banco).
+14:02:34 - Silvio Messina (@smessina):
+Opino igual, no creo que Mercado Pago se meta en el negocio financiero para quemarse… al final, todo termina siendo confianza
+14:06:11 - Dario Fernando (@someunderscore_):
+a mi el santander me saca un promedio de 100USD
+14:48:05 - Gustavo Machado (@machadogj):
+No estoy muy al tanto de la vida de McAfee, pero luego de los 3 primeros parrafos, no se si usarlo de ejemplo para cuestiones impositivas :laughing:
+14:59:29 - Santiago Ruffino (@santi_0898):
+Porque los bancos digitales tienen menos exigencias? Cuales serian esas MENOS?
+15:18:20 - Silvio Messina (@smessina):
+El punto principal es que los bancos digitales, a diferencia de los tradicionales, no están del todo alcanzados por el encaje bancario que ordena el BCRA.
+
+El encaje es un % de guita liquida que deben tener SI o SI en sus sucursales o sus cuentas para hacerle frente a retiros de efectivo.
+
+Al ser “digitales” y prescindir de sucursales físicas, no están obligados ya que la guita liquida en efectivo la tendria la red de cajeros asociada a un banco tradicional.
+
+Con lo cual podria pasar que si hay algun movimiento brusco monetario, no tengan $$$ suficiente para responder a una alta demanda en el acto
+15:18:30 - Gonza Espeche (@espeche.g):
+cobrar USD en UY y meter buquebus 1 vez por mes a retirarlo juega o me quedé en el cepo?
+15:21:18 - Santiago Ruffino (@santi_0898):
+Ahhh, mira vos. Todos los dias se aprende algo nuevo. Gracias!
+15:23:38 - Gonza Espeche (@espeche.g):
+genial la charla muchachos, saqué mil capturas de todo
+15:25:06 - Leandro Echevarria (@echevarrialeandro):
+Querrías hacer una carpeta de drive para compartir? :grin:
+15:25:42 - Juan Scolari (@juanscolari):
+creo que estan haciendo un bot para que guarde estas cosas
+15:28:54 - Gabriel Fusca (@gfuscax):
+Alguno ya arranco con esto? Si necesitan me puedo sumar, me copa como side project
+15:29:14 - Mateo Silguero (@mfsilguero):
+<https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd>
+15:29:29 - Mateo Silguero (@mfsilguero):
+Buena herramienta para auditar accesibilidad
+15:29:30 - Santiago Ruffino (@santi_0898):
+<@U06H27CM8> escribio algo sobre el bot
+15:29:35 - Leandro Echevarria (@echevarrialeandro):
+<@U06H27CM8> Tenes por ahi el link a la tool que habias hecho con los precios del dolar?
+15:30:16 - Gonza Espeche (@espeche.g):
+Buena idea la del side project, me sumo
+15:31:11 - a0viedo (@a0viedo):
+ya lo estamos guardando falta el frontend para que se pueda entender
+15:31:23 - a0viedo (@a0viedo):
+en texto plano los replies descajetan todo
+15:32:07 - a0viedo (@a0viedo):
+y por supuesto está super alpha
+15:34:17 - Hernan Rajchert (@sherman):
+:raised_hands:
+15:34:31 - Gabriel Fusca (@gfuscax):
+tienen repo?
+15:34:38 - Cristhian Duran (@cris):
+hoy si puedo a la noche arrancamos el frontend <@U06H27CM8> :slightly_smiling_face: estuve viendo un poco
+15:36:24 - Hernan Rajchert (@sherman):
+veo muchos mensajes de como traer plata pero todavia no vi uno de como invertirla :P… que anda haciendo la gente? dolar, mi viejo dolar, plazos fijos? mercado pago? bitcoin? acciones? fondos de inversion?
+15:36:38 - Hernan Rajchert (@sherman):
+Alguien tiene videos/podcast copado al respecto?
+15:36:54 - Wilfredo Alcala (@alcalawilfre):
+Colaboro con el backend si hace falta
+15:37:02 - Wilfredo Alcala (@alcalawilfre):
+hay repo?
+15:37:05 - a0viedo (@a0viedo):
+<@UDKLD5LF7> todavía no lo subí, hoy lo hago
+15:37:22 - Santiago Ruffino (@santi_0898):
+Uhhhh, y si tu computadora explota antes de que subas el repo? Se pudre todo?
+15:37:29 - a0viedo (@a0viedo):
+tengo un par de TODOs
+15:37:30 - Wilfredo Alcala (@alcalawilfre):
+No hagas trading en crypto
+15:37:59 - Gabriel Montes (@gabriel):
+En Argentina? Dólar, propiedades y HODLear bitcoin. Cualquier otra cosa es timba y te puede salir muy mal.
+15:38:22 - Gabriel Montes (@gabriel):
+Eso también, pero las probabilidades son más bajas… jeje
+15:38:54 - Marcos Casagrande (@marcoscvp90):
+trading != invertir.
+15:38:57 - Gabriel Fusca (@gfuscax):
+Joya, veo en que puedo ayudar :slightly_smiling_face: <@U06H27CM8>
+15:39:04 - Silvio Messina (@smessina):
+Largo plazo en BTC, mediano plazo en USD y corto plazo FCI
+15:39:37 - Marcos Casagrande (@marcoscvp90):
+Para los que quieren invertir en acciones de afuera, etoro es una buena alternativa.
+15:40:53 - ariel diaz (@arieldiaz):
+dolar y la plata que voy a usar mercadopago :stuck_out_tongue:
+15:41:30 - Cristhian Duran (@cris):
+voy a hacer el frontend en jquery
+15:41:40 - Cristhian Duran (@cris):
+y vengan a buscarme a mi casa
+15:41:55 - Gonza Espeche (@espeche.g):
+jajajaj
+15:42:16 - a0viedo (@a0viedo):
+<https://github.com/a0viedo/dolar-historico>
+15:42:22 - Ezequiel Leites (@leites25):
+Jajaj
+15:42:41 - Gabriel Fusca (@gfuscax):
+:cry:
+15:42:46 - Leandro Echevarria (@echevarrialeandro):
+Gracias!
+15:43:12 - Leandro Echevarria (@echevarrialeandro):
+Da un canal #investments?
+15:43:22 - Leandro Echevarria (@echevarrialeandro):
+Hay mucho de que hablar y dudas al respecto, incluyendome primero en la lista :grimacing:
+15:43:51 - Hernan Rajchert (@sherman):
+bitcoin es la mayor timba que hay gabi, jaja… Subio hasta 20.000 y ahora se arrastra por los 3/4
+15:44:02 - Martin Carrera (@mcarrera):
+por eso ahora tenes que comprar
+15:44:08 - Hernan Rajchert (@sherman):
+claaaaro
+15:44:12 - Hernan Rajchert (@sherman):
+jaja
+15:44:44 - Hernan Rajchert (@sherman):
+el valor que se le asocia es bastante esfimero como para saber si vuelve a los 20.000 o si termina en un 100
+15:45:23 - Martin Carrera (@mcarrera):
+bueno, pero ahi ya depende de tu interes y confianza en la moneda y el proyecto
+15:45:35 - Martin Carrera (@mcarrera):
+si no confias, pensas que es una burbuja y se va a 0
+15:45:39 - Martin Carrera (@mcarrera):
+si confias, que se va a la luna
+15:45:42 - Martin Carrera (@mcarrera):
+:man-shrugging:
+15:46:47 - Gabriel Montes (@gabriel):
+<@U0DHEL1PC> el valor de bitcoin no es lo mismo que el precio. El valor depende de fundamentos muy duros (y fáciles de entender). Con el tiempo, el precio va a ir pareciéndose cada vez más al valor.
+15:46:53 - Hernan Rajchert (@sherman):
+yo le puse unas chirolas cuando estaba a 7000, tuve la suerte de que en un momento saque la mitad de la plata y como el exchange era una mierda me dio la plata sin descontarla :facepalm: … asi que por ese lado gane, peeeero ahora esta a 3000 asi que estaria medio empatado
+15:47:29 - Gabriel Montes (@gabriel):
+Eso es timba, no es pensar en el valor de lo que comprás.
+15:48:14 - Hernan Rajchert (@sherman):
+algo que fluctua su valor de la manera que lo hace el bitcoin, no me queda otra que pensar que es timba
+15:48:43 - Hernan Rajchert (@sherman):
+sacando el hecho que apostar al dolar tambien es timba, pero mucho mas estable… uno asume que no va a cambiar
+15:49:25 - Hernan Rajchert (@sherman):
+apostar al peso, ya sea dejandolo en mercado pago, plazo fijo o en el bolsillo tmb es timba, y una que nos tiene pegados al televisor… hoy está a 42
+15:51:00 - Gabriel Montes (@gabriel):
+Para decir si algo vale o no, tenés que entender los fundamentos. Si querés un día :beer: de por medio charlamos sobre qué le da valor a las cosas, el dinero y como bitcoin encaja en todo eso.
+15:51:40 - Gabriel Montes (@gabriel):
+Luego de pasar por ese caminito, entendí realmente el valor de bitcoin y por qué es una tecnología disruptiva que vino para quedarse, más allá del precio.
+15:51:58 - Silvio Messina (@smessina):
+¿y la :beer: la pagarán con :bitcoin: o :dollar:?
+15:52:03 - Hernan Rajchert (@sherman):
+la birra siempre es aceptada, los fundamentos del bitcoin y su valor intrinseco tambien los entiendo, despues es una lectura de la realidad, que siempre va a ser subjetiva y que podes hacer a corto, mediano o largo plazo
+15:52:58 - Gabriel Montes (@gabriel):
+La :beer: la pagamos con papelitos de colores del BCRA que no valen nada :laughing:
+15:53:28 - Hernan Rajchert (@sherman):
+hay una gran lucha, creo que eterna entre la regularización de las cosas y la desregularización de las cosas… Para ciertas cosas o en ciertos momentos queremos que esten reguladas, pero de repente no
+15:54:06 - Gabriel Montes (@gabriel):
+Eso te pasará a vos. Yo no quiero regulaciones para nada.
+15:54:10 - Gabriel Montes (@gabriel):
+Esto da para <#C0PHBKNNA|forobardo>
+15:54:36 - Hernan Rajchert (@sherman):
+tipo, yo quiero comprar un yogurt y que alguna entidad me afirme que las probabilidades que me den diharrea son bajas porque pasó por X estudios, tiene controlada cómo se maneja, etc
+15:54:44 - Hernan Rajchert (@sherman):
+la medicina, la arquitectura, lo mismo
+15:55:16 - Hernan Rajchert (@sherman):
+las regulaciones no son caprichos, es una forma que encontramos como sociedad para poner ciertos estandares de calidad
+15:55:28 - kblok (@kblok):
+El tema del bitcoin ya se parece más a herbalife que a otra cosa
+15:56:19 - kblok (@kblok):
+aunque herbalife tiene valor intrínceco, el batido
+15:56:52 - Hernan Rajchert (@sherman):
+OBVIAMENTE NO SON PERFECTAS, y te podes comer garronasos como que te clausuren el cheboli porque un dia no tenias la cantidad de personas estipuladas (conozco varios restaurantes que le pasó), o que para hacer una transferencia internacional requieras de 72hs cuando dale, estamos en el futuro…
+15:57:16 - Hernan Rajchert (@sherman):
+Pero tambien entiendo que son las cosas que tienen que pasar para reducir estas cosas
+15:57:16 - Hernan Rajchert (@sherman):
+<https://markets.businessinsider.com/currencies/news/crypto-ceo-died-with-passwords-to-137-million-but-the-money-is-gone-2019-3-1028009684>
+15:58:50 - Gabriel Montes (@gabriel):
+<@U0DHEL1PC> Podría no haber regulaciones estatales y haber empresas privadas que certifiquen los productos. La calidad de los productos estaría directamente vinculada a la credibilidad de las empresas certificadoras que no le tendrían que pifiar porque se iría todo al bombo. Podés hacer todo sin necesidad de Estado.
+15:59:16 - Hernan Rajchert (@sherman):
+yo a mercado pago lo entiendo como el medio que te permite ponerle plata a la app y pagar cervezas con los intereses :man-shrugging::skin-tone-2:
+15:59:52 - Hernan Rajchert (@sherman):
+De valor de retorno es el más rapido, pero tardan 48hs para sacar la plata de alli, al menos que la saques en cerveza, alli es inmediato
+16:00:39 - Hernan Rajchert (@sherman):
+si, yo que se… todo bien con milei pero el chabon es un pelotudo… yo prefiero que sea el estado
+16:01:21 - ariel diaz (@arieldiaz):
+tenes la tarjeta de mercadopago y podes sacar en un banelco o link
+16:01:25 - Gabriel Montes (@gabriel):
+No coincido. Milei es muy capo y te tira la posta. Si no te gusta la evidencia empírica, cosa tuya.
+16:01:38 - Gabriel Montes (@gabriel):
+Es como la ciencia: es como es te guste o no.
+16:01:39 - Gabriel Montes (@gabriel):
+:smile:
+16:02:06 - Gabriel Montes (@gabriel):
+Y si preferís el Estado, ok. Cada uno es libre de preferir lo que quiera.
+16:02:13 - Hernan Rajchert (@sherman):
+Es una cuestion filosofica… para mi el sector privado tiene como objetivo maximizar la plata, y en el medio me cago en todo… el estado debería tener como objetivo maximizar el bienestar de la gente, pero bueno, hoy está macri
+16:02:33 - Silvio Messina (@smessina):
+Me parecen que hay demasiada desigualdad en la sociedad como para dejarlo en manos de pocos que puedan y tengan como involucrarse… tarde o temprano se convierte en una aristocracia
+16:02:51 - Gabriel Montes (@gabriel):
+Pero el Estado en ningún lado hace eso, <@U0DHEL1PC>.
+16:03:05 - Gabriel Montes (@gabriel):
+Si querés Estado, ok. Atenete a las consecuencias.
+16:03:30 - Gonzalo González Mora (@gonzalogm):
+Hay algún lugar donde esté funcionando el modelo libertario?
+16:03:41 - Gabriel Montes (@gabriel):
+No. Y?
+16:03:44 - Silvio Messina (@smessina):
+puede que haya áreas (como la económica) que deberían tener menos regulación (ya que la excesiva regulación asfixia la innovación y frena los incentivos)
+16:03:52 - Hernan Rajchert (@sherman):
+es que para mi es ridiculo pensar en que no haya estado… milei te tira que para el, lo unico que deberia haber es policia… para proteger lo que el ya tiene
+16:03:55 - Luis Alvarez (@luistensai):
+Ya tenemos Estado :joy:
+16:04:26 - Gabriel Montes (@gabriel):
+Y mirá como estamos…
+16:05:34 - Gabriel Montes (@gabriel):
+Che… esto se está yendo a joraca. Sigamos en <#C0PHBKNNA|forobardo>. Posta.
+16:05:43 - Silvio Messina (@smessina):
+y hay otras áreas que mejor depositarlas en un “ente” superior colectivamente aceptado
+16:06:17 - a0viedo (@a0viedo):
+aún si quisieras pagar tu birra con bitcoin vas a tener que usar un wallet y se vuelve a centralizar lo que en la teoría suena lindo cómo algo descentralizado
+16:06:47 - Silvio Messina (@smessina):
+con gente que cree que la tierra es plana y que las vacunas causan autismo
+16:07:32 - Gabriel Montes (@gabriel):
+Dónde ves la centralización?
+16:07:53 - Marcos Casagrande (@marcoscvp90):
+<@U06H27CM8> eso no está centralizado. Es una wallet, uno es dueño de sus keys.
+16:08:07 - Gabriel Montes (@gabriel):
+Tus keys, tus bitcoins.
+16:08:11 - Marcos Casagrande (@marcoscvp90):
+Otra cosa es que uses un servicio como coinbase etc, pero *no* tenés que hacerlo.
+16:08:18 - Silvio Messina (@smessina):
+En los exchange hay +/- centralizacion
+16:08:20 - a0viedo (@a0viedo):
+y quién maneja los exchanges? la comunidad?
+16:08:27 - Marcos Casagrande (@marcoscvp90):
+pero wallet != exchange.
+16:08:38 - Marcos Casagrande (@marcoscvp90):
+Y hay exchange descentralizados.
+16:08:47 - Gabriel Montes (@gabriel):
+Igual no los necesitás.
+16:09:00 - Marcos Casagrande (@marcoscvp90):
+Es 100% p2p.
+16:09:13 - Gabriel Montes (@gabriel):
+Son necesarios para entrar y salir de un sistema centralizado que es el bancario regulado por el Estado (como le gusta a <@U0DHEL1PC>)
+16:09:15 - Silvio Messina (@smessina):
+El que esta hiper informado no… pero mi vieja necesita un Ripio
+16:09:39 - Wilfredo Alcala (@alcalawilfre):
+Los chinos
+16:09:50 - Gabriel Montes (@gabriel):
+Ok. En ese caso es un sistema híbrido. Lejos de lo ideal y del objetivo de usar criptos.
+16:10:03 - Gabriel Montes (@gabriel):
+Para pasar de un sistema centralizado a otro, bué… estás en la misma.
+16:10:36 - Gabriel Montes (@gabriel):
+O sea, quedate con la tarjeta de tu banco amigo y ya ta.
+16:11:58 - Juan Scolari (@juanscolari):
+Estamos en un proceso, no va a salir una solucion completa de una
+16:12:31 - a0viedo (@a0viedo):
+entonces podés pagar tu birra siempre y cuando sepas cómo firmar tu propio bloque...no me parece tan equitativo
+16:12:50 - Gabriel Montes (@gabriel):
+No tenés que saber nada.
+16:13:10 - Gabriel Montes (@gabriel):
+De la misma manera que no sabés como funciona por abajo una transferncia Swift o el protocolo de las tarjetas de crédito.
+16:13:15 - Gabriel Montes (@gabriel):
+Si lo sabés mejor, claro.
+16:13:29 - Gabriel Montes (@gabriel):
+Las cripto wallets están para hacer ese trabajo por vos.
+16:14:05 - Santiago Ruffino (@santi_0898):
+Me perdi en una parte de la conversacion. Porque consideramos que las wallets son centralizadas?
+16:14:27 - Gabriel Montes (@gabriel):
+No lo son.
+16:14:43 - Santiago Ruffino (@santi_0898):
+Nono, no lo son. Coincido en eso
+16:14:49 - Gabriel Montes (@gabriel):
+A menos que lo sean. Y si alguna lo fuera, no la usaría.
+16:15:10 - Gabriel Montes (@gabriel):
+Idealmente tienen que ser open source.
+16:15:21 - Gabriel Montes (@gabriel):
+Así podés ver qué coño hacen por adentro.
+16:15:34 - Gonza Gluzman (@gonza):
+Como el Estado :smile:
+16:16:24 - Gabriel Montes (@gabriel):
+Cuándo ves que coño hace el estado por adentro? Solo cuando saltan las causas judiciales!! :smile:
+16:17:02 - Gabriel Montes (@gabriel):
+Aclaro: cuándo ves qué &amp;“$% hace el Estado por adentro con *TU* plata?
+16:17:18 - Gabriel Montes (@gabriel):
+Porque si fuera plata de ellos, me importa un rábano.
+16:18:07 - Gabriel Montes (@gabriel):
+Como no te importa (o no debería importarte) qué hace el verdulero con la plata que le pagás por los paquetes de remolacha.
+16:18:51 - Gonza Gluzman (@gonza):
+Técnicamente, no es tu plata, es la plata del Estado, y están los presupuestos, que son públicos
+16:19:22 - Gabriel Montes (@gabriel):
+Ah, vivo! Y de dónde sale esa plata?
+16:19:41 - Gabriel Montes (@gabriel):
+Pista: impuestos.
+16:20:34 - Gonza Gluzman (@gonza):
+Y la plata del verdulero? También fue tuya antes de comprar remolachas
+16:20:42 - Gonza Gluzman (@gonza):
+Pista: compra-venta
+16:21:06 - Gabriel Montes (@gabriel):
+Pero vos se la diste voluntariamente a cambio de un producto o servicio. Ahora es de él.
+16:21:33 - Wilfredo Alcala (@alcalawilfre):
+Además, te obligan a usar 'su plata'
+16:21:41 - Gonza Gluzman (@gonza):
+What?
+16:21:47 - Gabriel Montes (@gabriel):
+Eso se llama “curso legal”.
+16:22:26 - Gabriel Montes (@gabriel):
+Por qué no podés usar la moneda que se te de la gana?
+16:22:26 - Gonza Gluzman (@gonza):
+Los impuestos son una forma válida de financiar al Estado
+16:22:35 - Gabriel Montes (@gabriel):
+Son una forma legal.
+16:22:47 - Gabriel Montes (@gabriel):
+Eso no significa que sea justa o legítima.
+16:23:26 - Gabriel Montes (@gabriel):
+Por qué se llaman “impuestos”? Porque van contra tu voluntad. Te los imponen.
+16:23:34 - Gabriel Montes (@gabriel):
+Si no, se llamarían “voluntarios”.
+16:23:40 - Gabriel Montes (@gabriel):
+:troll:
+16:23:42 - Gonza Gluzman (@gonza):
+Bueno, mientras estemos de acuerdo en que no es una discusión económica, sino ética, estamos bien
+16:23:51 - Hernan Rajchert (@sherman):
+alli es donde milei me cae para el orto, pensar que el estado te roba a punta de pistola porque es obligatorio pagar impuestos me parece ultra simplista
+16:24:15 - Gonza Gluzman (@gonza):
+Y en que la economía debería subordinarse a la ética, y no al revés
+16:26:14 - Silvio Messina (@smessina):
+Me recuerda mucho a la ironia del Ateo que cuando ocurre una desgracia le sale decir “dios mio”
+16:26:43 - Gabriel Montes (@gabriel):
+Cómo que no es una discusión económica? Si no entendés qué son los impuestos y cómo se financia el Estado, te falta un punto súper importante para entender economía.
+16:26:49 - Gabriel Montes (@gabriel):
+Más allá de la ética, digo.
+16:27:06 - Gonza Gluzman (@gonza):
+Pero esa no es la discusión
+16:27:25 - Gonza Gluzman (@gonza):
+La discusión no está pasando por saber *qué* son los impuestos
+16:27:31 - Gonza Gluzman (@gonza):
+Sino si son válidos o no
+16:27:43 - Gonza Gluzman (@gonza):
+(o legítimos, o justos)
+16:27:46 - Silvio Messina (@smessina):
+No creo que este mal que se financie el estado… lo que esta mal es que lo malgaste y cubra sus fallas cobrando cada vez mas
+16:28:09 - Gonza Gluzman (@gonza):
+El Estado, para existir, necesita financiarse, obviamente
+16:28:19 - Gonza Gluzman (@gonza):
+Después se puede discutir: si debe existir o no
+16:28:25 - Gabriel Montes (@gabriel):
+Claro.
+16:28:27 - Gonza Gluzman (@gonza):
+Y cuáles son las formas de financiarse
+16:28:33 - Gabriel Montes (@gabriel):
+Si existe.
+16:28:38 - Gonza Gluzman (@gonza):
+Pero todas esas son discusiones éticas
+16:28:48 - Gabriel Montes (@gabriel):
+Son económicas.
+16:28:53 - Gonza Gluzman (@gonza):
+Nope
+16:28:59 - Hernan Rajchert (@sherman):
+La postura del libertario es un pasito msa atras, ellos si ven como algo malo que haya un estado que regule cosas y que vos le pagues impuestos para que hagan funcionar la cosa
+16:29:03 - Gabriel Montes (@gabriel):
+Porque afectan tu vida económica.
+16:29:07 - Gabriel Montes (@gabriel):
+También son éticas, claro.
+16:29:13 - Hernan Rajchert (@sherman):
+y con justa razon, porque la suelen patinar
+16:29:18 - Silvio Messina (@smessina):
+Pero la vida economica no es el 100% de la vida del ser humano
+16:29:25 - Gabriel Montes (@gabriel):
+No creo que puedas separar las dos cosas.
+16:30:10 - Gabriel Montes (@gabriel):
+Pero tu ética poco me importa mientras no me jodas, digamos de manera muy simplista y muy a propósito.
+16:31:22 - Hernan Rajchert (@sherman):
+y esa es la parte simplista… no me importa y no me jodas hasta que queres usar calles, cloacas, saber que no van a dejar que te caigas muerto en la calle, educación, seguridad, etc
+16:31:33 - Silvio Messina (@smessina):
+Van de la mano porque para satisfacer las necesidades humanas se requieren de recursos, recursos que hoy se obtienen (en teoria) en una red de intercambio de recurso x recurso o esfuerzo x recurso
+16:31:52 - Gonza Gluzman (@gonza):
+Ok, sin Estado, nada me impediría agarrar un :gun: y salir a robar bitcoins
+16:32:15 - Gonza Gluzman (@gonza):
+`Transferime tus bitboins o te mato!`
+16:32:20 - Silvio Messina (@smessina):
+con una de agua la veo dificil <@U5L3AMCKT>
+16:32:26 - Silvio Messina (@smessina):
+pero suerte
+16:32:28 - Gonza Gluzman (@gonza):
+JAJAJAJAJ
+16:32:41 - Gonza Gluzman (@gonza):
+`Transferime tus bitboins o te mojo!`
+16:32:54 - Gabriel Montes (@gabriel):
+A menos que tenga mis bitcoins bien seguros y ni aunque me mates te los de.
+16:33:07 - Gabriel Montes (@gabriel):
+Ves, el Estado no es garantía.
+16:33:26 - Silvio Messina (@smessina):
+Tome, tome, llevese todo :bitcoin: :bitcoin: :bitcoin:
+16:33:28 - Hernan Rajchert (@sherman):
+y pensar que eso se puede hacer en el mundo privado como una suerte de unicornio que todo lo hace mas eficiente es muy irresponsable… si dejas al capitalismo ser, el curso natural es que gana el mas fuerte, el mas fuerte es el que tiene mas papota, y mientras mas papota tenes mas facil hacer mas papota… Si dejas el capitalismo ser, todas son multinacionales y andá a quejarte a magolla cuando no podes cambiar de servicio porque ya no hay competencia
+16:35:22 - Gabriel Montes (@gabriel):
+Eso es un argumento anticapitalista muy pobre, en el mejor de los casos.
+16:36:01 - Silvio Messina (@smessina):
+En mi opinión, termina siendo un “comunismo no estatal” porque el verdadero capitalismo no admite los monopolios ni nada que atente la libre competencia
+16:36:46 - Silvio Messina (@smessina):
+y la libre competencia es tanto ayudar al que tiene poco margen como frenar al que tiene mucho
+16:36:57 - Gabriel Montes (@gabriel):
+Es que en realidad, en un libre mercado, si hay monopolios es porque hacen bien su trabajo. Apple en US por ejemplo. Tiene + del 50% del mercado pero porque son buenos sus productos.
+16:37:42 - Hernan Rajchert (@sherman):
+los libertarios entiendo que quieren hacer que esas cosas sigan su rumbo natural, y el rumbo natural es que el que mas tiene más va a poder obtener
+16:37:43 - Gabriel Montes (@gabriel):
+Y si una empresa grande se quiere pasar de viva, siempre van a surgir oportunidades para que otras, más eficientes, tomen la posta.
+16:37:48 - Santiago Ruffino (@santi_0898):
+Muerte al monopolio.
+16:37:52 - Silvio Messina (@smessina):
+Si hacen bien su trabajo y no usan sus recursos para impedir o limitar a otros, es en buena ley
+16:38:37 - Silvio Messina (@smessina):
+Coincido, es la ley del más fuerte
+16:38:43 - Julio (@julito):
+`/leave`
+16:38:53 - Hernan Rajchert (@sherman):
+siii.. pero mas que bien su trabajo ponen bien la plata y compran a la competencia… es imposible salir a competirle a una empresa grande si no tenes un financiamiento detras
+16:39:27 - Gabriel Montes (@gabriel):
+Y si lo hicieran, la gente podría elegir otras opciones. Si no lo hacen, es que al final, no te importa que la empresa X sea turra.
+16:39:47 - Hernan Rajchert (@sherman):
+para mi el capitalismo en si fue la primera estafa piramidal, que te hace pensar que cualquiera puede pero en realidad los primeros que entraron en juego son los que se siguen haciendo cada vez mas ricos
+16:39:57 - a0viedo (@a0viedo):
+no se puede salir de <#C04346591|general>...pero se lo puede mutear
+16:40:26 - Gabriel Montes (@gabriel):
+VW perreó los datos de emisión de CO2 de sus autos en Europa. CEO preso. La gente sigue comprando VW cuando tiene muchas otras opciones? Y… si. Bueno. Jodansé entonces.
+16:41:01 - Silvio Messina (@smessina):
+en parte coincido, aunque la historia se ha dado vuelta un par de veces, cayeron gigantes y se levantaron otros (claro que esos nuevos se comportan igual que los viejos, pero con zapatillas)
+16:41:02 - Julio (@julito):
+En mi alma sé que esta conversación sigue
+16:41:05 - Julio (@julito):
+Pero vamos a intentarlo
+16:41:13 - Hernan Rajchert (@sherman):
+siii… como yo que quiero dejar a arnet porque es una mierda, hace mal su trabajo, y cuando les digo que me quiero dar de baja me ofrecen ellos mismos fibertel porque los compraron :facepalm: …. y yo me quedo acá con mi internet de mierda porque no pueden frenar el monopolio
+16:41:51 - Gabriel Montes (@gabriel):
+El monopolio lo hace el Estado, <@U0DHEL1PC>.
+16:41:57 - Gabriel Montes (@gabriel):
+Me fui!
+16:42:24 - Hernan Rajchert (@sherman):
+y al menos que seas jeff bezoz, no te conviene
+16:42:39 - Silvio Messina (@smessina):
+Tuvo linda la charla… que no se corte :wave:
+16:42:49 - Hernan Rajchert (@sherman):
+ojo, otra vez volviendo a lo anteriooooor… tambien es entender que nosotros estamos en un lugar re privilegiado
+16:43:12 - Santiago Ruffino (@santi_0898):
+Aunque fibertel y Arnet sean de los mismos dueños, es distinto el srevicio
+16:43:28 - Santiago Ruffino (@santi_0898):
+Arnet es cable telefonico. Fibertel es Fibra optica
+16:43:48 - Hernan Rajchert (@sherman):
+Yo tenia fibertel antes, me canse de ir a defensa al consumidor, de cortes, de mierdas… les terminé tirando el modem por ventanilla… literal
+16:43:59 - Santiago Ruffino (@santi_0898):
+Pero existen alternativas, pero no muy conocidas. Ejemplo, DirecTV tiene su servicio de internet satelital
+16:44:18 - Silvio Messina (@smessina):
+Sep, en otros estratos de la sociedad esto no esta ni cerca de sus preocupaciones
+16:44:23 - Santiago Ruffino (@santi_0898):
+A mi me pasa al reves. Tenia arnet que era una verga, y me pase a Fibertel
+16:44:38 - Santiago Ruffino (@santi_0898):
+En el edificio donde trabajo, no podemos tener Fibertel porque no quieren hacer el cableado del edificio
+16:44:39 - Martin Carrera (@mcarrera):
+Fiber no es fibra optica siempre eh
+16:44:47 - Martin Carrera (@mcarrera):
+de hecho diria que casi nunca / nunca
+16:45:19 - Santiago Ruffino (@santi_0898):
+Yo tengo fibra optica (creo)
+16:45:30 - Santiago Ruffino (@santi_0898):
+Si no es fibra optica, que es?
+16:45:32 - Esteban Yañez (@eyanez):
+yo tenia arnet y me llamaron para decirme que me iban a pasar a fibertel xq es lo mismo ahora…
+16:45:40 - Esteban Yañez (@eyanez):
+le di de baja y contrate claro
+16:45:42 - Wilfredo Alcala (@alcalawilfre):
+coaxial?
+16:46:39 - Martin Carrera (@mcarrera):
+yep
+16:46:59 - Martín Valdés de León (@mvaldesdeleon):
+<https://en.wikipedia.org/wiki/Cable_Internet_access>
+16:52:05 - Jorge Cano (@jorgeucano):
+Martin te estas cargando de risa vos no? 
+16:52:15 - Esteban Yañez (@eyanez):
+Claro es fibra optica :slightly_smiling_face:
+16:52:21 - Lucas Alejo Bellesi (@lucasbellesipocho):
+yo tengo fibra optica con Claro
+16:52:28 - Jorge Cano (@jorgeucano):
+Cuando estuve allá me daba vergüenza tener 100 megas en casa 
+16:52:36 - Jorge Cano (@jorgeucano):
+Es terrible lo bien que anda internet en Europa 
+16:53:04 - Esteban Yañez (@eyanez):
+la unica vez que tuve problemas con claro fue cuando no pague :stuck_out_tongue:, y tengo 30Mb + cable por 700p
+16:53:15 - Lucas Alejo Bellesi (@lucasbellesipocho):
+me dijeron que en Europa es muy dificil conseguir wi-fi gratis, es verdad o puro chamuyo?
+16:53:24 - Santiago Ruffino (@santi_0898):
+A la mierda, que buen precio
+16:53:31 - Sergio Daniel Xalambrí (@sergiodxa):
+Cuando estuve en Alemania por ZEIT por cada hora offline nos funciona a 10 minutos (a una velocidad de puta madre) el internet
+16:53:33 - Santiago Ruffino (@santi_0898):
+Fibertel sale $1200 los 25 MB. Y no te dan nada
+16:53:49 - Lucas Alejo Bellesi (@lucasbellesipocho):
+yo tengo 50mb + telefono 700pe
+16:54:23 - Lucas Alejo Bellesi (@lucasbellesipocho):
+*sin cable* aclaro
+16:54:27 - Lucas Alejo Bellesi (@lucasbellesipocho):
+no veo tele
+16:54:38 - Santiago Ruffino (@santi_0898):
+Donde estan los vendedores de Claro cuando los necesito?
+16:54:48 - Jorge Cano (@jorgeucano):
+Yo tengo el combo de telecentro 
+16:54:52 - Martín Valdés de León (@mvaldesdeleon):
+?
+16:54:55 - Jorge Cano (@jorgeucano):
+Y en esta zona anda bastante bien 
+16:55:09 - Juan Carlos Ferraris (@hi):
+Yo tengo Directv NET Fibra Optica
+16:55:12 - Juan Carlos Ferraris (@hi):
+100MB simetricos
+16:55:15 - Jorge Cano (@jorgeucano):
+Lo único que no tengo y me rompe las pelotas es IP fija 
+16:55:27 - Jorge Cano (@jorgeucano):
+Entonces cada tanto estoy pidiendo que me habiliten la nueva ip :joy: 
+16:55:43 - Gonza Gluzman (@gonza):
+Yo tengo hambre
+16:56:04 - Jorge Cano (@jorgeucano):
+Me acabo de clavar un sanguche :joy: deberías hacer lo mismo 
+16:56:14 - Gonza Gluzman (@gonza):
+jajajajaj
+16:56:35 - Martín Valdés de León (@mvaldesdeleon):
+ah, internet. aca tengo 150m business plan, por tipo 38 euros
+16:57:28 - Santiago Ruffino (@santi_0898):
+Estoy esperando que sean las 18 porque hoy hay birra en la oficina
+16:58:32 - Gonza Espeche (@espeche.g):
+acá pintó manzana
+16:59:43 - Pato (@pato):
+a eso yo llamo una Ferraris
+17:00:19 - Gabriel Montes (@gabriel):
+Acá en WW hay birra las 24hs… :smile:
+17:00:25 - Gabriel Montes (@gabriel):
+(libre)
+17:01:17 - Julian (@jantonielli01):
+<https://meetupjs.slack.com/archives/C0PHBKNNA/p1551935279405900>
+17:02:07 - Santiago Ruffino (@santi_0898):
+Raios
+17:02:57 - Gonza Espeche (@espeche.g):
+te tiró el ancho de espada Santi
+17:07:10 - Lucas Alejo Bellesi (@lucasbellesipocho):
+que opinan de skabiar mientras estas programando? yo intente encarar un proyecto y por cada feature terminado me bajaba un shot de vodka, se podria decir que "no escalaba"
+17:07:49 - Martín Valdés de León (@mvaldesdeleon):
+<https://imgs.xkcd.com/comics/ballmer_peak.png>
+17:07:55 - Hernan Rajchert (@sherman):
+un shot por feature? termino tomando una vez por semana :troll:
+17:07:57 - Gonza Gluzman (@gonza):
+Yo hice 2 entrevistas laborales escabiado, entré en ambos laburos
+17:08:29 - Gonza Gluzman (@gonza):
+(eran para programador, por las dudas)
+17:08:50 - Pato (@pato):
+yo me vuelvo abstemio <@U0DHEL1PC>
+17:09:23 - Julian (@jantonielli01):
+<https://www.youtube.com/watch?v=Vhh_GeBPOhs>
+17:10:31 - Juan Carlos Ferraris (@hi):
+cuac! jajaja
+17:10:32 - Martín Valdés de León (@mvaldesdeleon):
+Me pregunto si el chabon sera asi de verdad o si tuvo ayuda quimica...
+17:10:41 - Juan Carlos Ferraris (@hi):
+igual si es caro, como pusieron todos…
+17:10:44 - Juan Carlos Ferraris (@hi):
+pero no lo cambio por nada
+17:10:50 - Juan Carlos Ferraris (@hi):
+ni por iplan live
+17:10:53 - Juan Carlos Ferraris (@hi):
+q te da relacion 10:1
+17:11:45 - Pato (@pato):
+lo vlae, esta piola
+17:11:49 - Pato (@pato):
+pero no podia dejar pasar el chiste
+17:13:57 - Santiago Ruffino (@santi_0898):
+Un shot por feature? Estaria mas limpio que el agua mineral
+17:14:07 - Santiago Ruffino (@santi_0898):
+Mi higado valdria millones
+17:16:58 - Brian Hume (@brianh20):
+seguro estaba de pasti, mira lo chivado que esta
+17:17:02 - Brian Hume (@brianh20):
+una bien anfetosa
+17:45:42 - Co (@co):
+<https://slack.engineering/how-to-fail-at-accessibility-99bdf3504f19>
+19:39:28 - Guido Vizoso (@guido.vizoso9):
+Gente, hay algún canal de crypto vivo?
+20:04:25 - Wilfredo Alcala (@alcalawilfre):
+Si no hay, estaría bueno 
+20:11:56 - Hernan Rajchert (@sherman):
+Te cobran por mantenimiento de tarjeta?
+20:47:42 - Adrián Velasco (@adrivelasco1506):
+Me uní muy tarde a la conversación de arriba, yo estoy usando para recibir pagos (USD) Payoneer, pero también tengo una cuenta bancaria que abrí en USA. Como no sabía mucho del tema, nunca me atreví a recibir pagos en la cuenta de USA por el tema de que capaz también me podían hacer quilombos. Alguno sabe más sobre esto? No pasa naranja si mando guita directoa la cta. bancaria de allá sin usar ninguna cosa de por medio?
+21:43:55 - José Ram'rez (@jarcodallo):
+Buenas alguien conoce o sabe de un lugar donde coloquen puesto remotos al estilo de <http://relocate.me|relocate.me>
+21:44:10 - José Ram'rez (@jarcodallo):
+Pero para laurar remoto
+21:51:46 - Julian (@jantonielli01):
+<https://remoteok.io>, stack overflow jobs

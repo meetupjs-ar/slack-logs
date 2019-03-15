@@ -1,0 +1,449 @@
+04:47:47 - gillchristian (@gillchristian):
+Uhh verde, que feo, no podes cambiar el color?
+04:48:16 - gillchristian (@gillchristian):
+:lenny: 
+11:30:55 - Germán Burgardt (@germanandresburgardt):
+Tengo que usar una dependencia npm que al parecer no tiene los types, y  estoy renegando en importarla. Cual es la mejor manera de hacer el import en esos casos? Esta es la depe: <https://www.npmjs.com/package/jszip-utils>
+11:47:04 - Gustavo Machado (@machadogj):
+Otra cosa un poco menos popular que podrias usar, pero tal vez mas atinada en este caso es dictionary comprehension:
+```
+datos_lead = { key: value if value not None else False for (key, value) in data_leads.items() }
+```
+11:47:32 - Gustavo Machado (@machadogj):
+/cc <@U9KMYNJMV> :point_up:
+11:48:22 - Santiago Ruffino (@santi_0898):
+Ahora voy a leer un poco mas sobre eso
+11:48:23 - Santiago Ruffino (@santi_0898):
+Gracias!
+12:40:28 - Martín Aimar (@maimar):
+mi filesystem es case unsensitive, pero el server donde deployo es sensitive, cambié el casing en el nombre de un directorio y commiteé el cambio desde el server, pero en mi máquina me sigue trayendo problemas (no puedo stagear un archivo que está ahí adentro), cómo arreglo esto?
+12:43:40 - a0viedo (@a0viedo):
+tu filesystem es fat? podés hacer links pero sería un hack
+12:44:17 - Martín Aimar (@maimar):
+es lo que viene default con la mac, a ver cómo se llama
+12:44:34 - Martín Aimar (@maimar):
+APFS lpm
+12:45:46 - Martín Aimar (@maimar):
+ahí está, good old git rm -r --cached .
+12:47:37 - a0viedo (@a0viedo):
+nunca escuché que APFS sea case insensitive...pensé que por defecto era case sensitive
+12:48:43 - Martín Aimar (@maimar):
+la verdad ahora tengo mis dudas
+12:50:36 - Martín Aimar (@maimar):
+se ven las imágenes?
+12:51:19 - Gonzalo González Mora (@gonzalogm):
+Yup
+12:51:37 - Martín Aimar (@maimar):
+ah como slack tira ese warning no sabía qué pasaba
+13:25:51 - nomopo (@nomopo):
+buenas tardes, una preguntilla. Tengo un listado de registros con las columnas Zona, Tecnico, Descripcion, Observaciones. Alguien me puede ayudar, necesito hacer filtros por Zona o Zona + Tecnico o solor por Tecnico. Pero no se como habilitarlos, no se si se llaman filtros anidados.... Gracias por adelantado
+13:42:04 - nomopo (@nomopo):
+perdon lo he enfocado mal. Tengo un listado con Zona, Técnicos, Descripción y Observaciones y Zona y Técnicos son combos con listado de Zona y Técnicos, y quisiera que me filtrara el listado al seleccionar una zona y/o al seleccionar un técnico
+13:45:35 - Martín Aimar (@maimar):
+Pero en dónde lo tenés? 
+13:53:02 - nomopo (@nomopo):
+perdon? hago un select de una tabla y me saca unos 2000 registros, y quiero que me filtre por la zona y/o tecnico que yo selecciono.
+13:58:34 - Martín Aimar (@maimar):
+ah, necesitás saber cómo hacer la consulta a la base de datos?
+13:59:28 - nomopo (@nomopo):
+no. perdon no me explico muy bien. no se como modificar la consulta en tiempo real para que me filtre por el select del técnico o la zona
+14:00:28 - nomopo (@nomopo):
+Por ejemplo tengo:
+zona: barcelona, tarragona, madrid
+tecnico: luis, pedro, jose
+pues quiero que me filtre por barcelona y pedro
+14:06:21 - Gonzalo González Mora (@gonzalogm):
+Pero qué es, una app web? probablemente tengas que hacer una nueva consulta con esa nueva información (por ej pegarle al endpoint de búsqueda con esos nuevos parámetros) cuando cambies el valor de esos dropdowns, y cuando te devuelve la información, actualizar la UI
+14:06:44 - Esteban Yañez (@eyanez):
+claro, desde donde tenes que hacer la consulta y desde donde tenes que consumir los datos
+14:07:10 - Esteban Yañez (@eyanez):
+xq con lo de tiempo real, me hace pensar en webSockets, pero tambien hay base de datos
+14:12:39 - Martín Aimar (@maimar):
+siendo muy ortiba podría también pensar que se trata de un excel
+14:14:48 - nomopo (@nomopo):
+es una bdatos mysql
+14:23:45 - Gonza Gluzman (@gonza):
+Ok <@UGTRFGEJK>, te voy a hacer unas preguntas
+14:24:04 - nomopo (@nomopo):
+dime
+14:24:16 - Gonza Gluzman (@gonza):
+1. Cómo se comunican cliente y servidor en tu aplicación?
+14:24:49 - Gonza Gluzman (@gonza):
+Usan AJAX? Sockets? O se carga toda la página cuando se quiere enviar información al servidor?
+14:25:11 - nomopo (@nomopo):
+es un select puro y duro a mysql
+14:25:35 - Gonza Gluzman (@gonza):
+Ok
+14:26:03 - Gonza Gluzman (@gonza):
+Y esa info de mysql la mostrás directamente en la página, no?
+14:26:59 - nomopo (@nomopo):
+si
+14:28:21 - Gonza Gluzman (@gonza):
+Ok, bien
+14:28:37 - Gonza Gluzman (@gonza):
+Segunda pregunta:
+14:28:59 - Gonza Gluzman (@gonza):
+Ya hay una forma de filtrar resultados? O la querés implementar porque todavía no hay nada?
+14:29:06 - nomopo (@nomopo):
+supongo que puedo modificar esa consulta en tiempo real para que me filtre por la selección que haga de los campos select.
+14:29:11 - nomopo (@nomopo):
+Todavía no hay nada
+14:37:08 - nomopo (@nomopo):
+lo que no consigo es filtrar en tiempo real cada vez que cambio una de esas opciones.
+14:42:53 - Gonza Gluzman (@gonza):
+Sorry el cuelgue, estaba con otra cosa
+14:43:09 - Gonza Gluzman (@gonza):
+A qué le llamás “en tiempo real”?
+14:43:16 - Gonza Gluzman (@gonza):
+A que no recargue toda la página?
+14:43:50 - Gonza Gluzman (@gonza):
+O sea, hay varias formas posibles (a nivel arquitectura) de hacer una consulta a una base de datos (con o sin filtros) y mostrar los resultados en una página web
+14:44:12 - Gonza Gluzman (@gonza):
+La más sencilla y es la que vos tenés ahora es la siguiente (si no me equivoco):
+14:45:01 - nomopo (@nomopo):
+yo al hacer login me salen los 2000 registros (que ahora no están paginados). Pero necesito seleccionar la ZONA y el TECNICO del select que hay en el título de la columna. de forma que selecciono PEDRO como Técnico y que al cambiar me filtre y solo me aparezcan los de PEDRO
+14:47:01 - Gonza Gluzman (@gonza):
+```
+1. El navegador (cliente) le pide al servidor una página (por ejemplo tecnicos.php). A es petición puede agregarle filtros (por ejemplo tecnicos.php?zona=barcelona)
+2. El servidor arma una consulta SQL con los datos recibidos y hace esa consulta a la base de datos MySQL
+3. El motor de bases de datos (MySQL) le responde al servidor
+4. El servidor arma una respuesta (HTML) con esa información y se la envía al navegador (cliente)
+```
+14:47:15 - Gonza Gluzman (@gonza):
+Porfa, confirmame si tu arquitectura es así en este momento :point_up:
+14:47:17 - Esteban Yañez (@eyanez):
+si le pegas directo a la base, podrias tener la consulta `'SELECT * FROM Tabla'` en una variable y le vas haciendo append a medida que selecciona, tipo `+ 'WHERE ZONA = "Zona1"'`
+04:47:47 - gillchristian (@gillchristian):
+Uhh verde, que feo, no podes cambiar el color?
+04:48:16 - gillchristian (@gillchristian):
+:lenny: 
+11:30:55 - Germán Burgardt (@germanandresburgardt):
+Tengo que usar una dependencia npm que al parecer no tiene los types, y  estoy renegando en importarla. Cual es la mejor manera de hacer el import en esos casos? Esta es la depe: <https://www.npmjs.com/package/jszip-utils>
+11:47:04 - Gustavo Machado (@machadogj):
+Otra cosa un poco menos popular que podrias usar, pero tal vez mas atinada en este caso es dictionary comprehension:
+```
+datos_lead = { key: value if value not None else False for (key, value) in data_leads.items() }
+```
+11:47:32 - Gustavo Machado (@machadogj):
+/cc <@U9KMYNJMV> :point_up:
+11:48:22 - Santiago Ruffino (@santi_0898):
+Ahora voy a leer un poco mas sobre eso
+11:48:23 - Santiago Ruffino (@santi_0898):
+Gracias!
+12:40:28 - Martín Aimar (@maimar):
+mi filesystem es case unsensitive, pero el server donde deployo es sensitive, cambié el casing en el nombre de un directorio y commiteé el cambio desde el server, pero en mi máquina me sigue trayendo problemas (no puedo stagear un archivo que está ahí adentro), cómo arreglo esto?
+12:43:40 - a0viedo (@a0viedo):
+tu filesystem es fat? podés hacer links pero sería un hack
+12:44:17 - Martín Aimar (@maimar):
+es lo que viene default con la mac, a ver cómo se llama
+12:44:34 - Martín Aimar (@maimar):
+APFS lpm
+12:45:46 - Martín Aimar (@maimar):
+ahí está, good old git rm -r --cached .
+12:47:37 - a0viedo (@a0viedo):
+nunca escuché que APFS sea case insensitive...pensé que por defecto era case sensitive
+12:48:43 - Martín Aimar (@maimar):
+la verdad ahora tengo mis dudas
+12:50:36 - Martín Aimar (@maimar):
+se ven las imágenes?
+12:51:19 - Gonzalo González Mora (@gonzalogm):
+Yup
+12:51:37 - Martín Aimar (@maimar):
+ah como slack tira ese warning no sabía qué pasaba
+13:25:51 - nomopo (@nomopo):
+buenas tardes, una preguntilla. Tengo un listado de registros con las columnas Zona, Tecnico, Descripcion, Observaciones. Alguien me puede ayudar, necesito hacer filtros por Zona o Zona + Tecnico o solor por Tecnico. Pero no se como habilitarlos, no se si se llaman filtros anidados.... Gracias por adelantado
+13:42:04 - nomopo (@nomopo):
+perdon lo he enfocado mal. Tengo un listado con Zona, Técnicos, Descripción y Observaciones y Zona y Técnicos son combos con listado de Zona y Técnicos, y quisiera que me filtrara el listado al seleccionar una zona y/o al seleccionar un técnico
+13:45:35 - Martín Aimar (@maimar):
+Pero en dónde lo tenés? 
+13:53:02 - nomopo (@nomopo):
+perdon? hago un select de una tabla y me saca unos 2000 registros, y quiero que me filtre por la zona y/o tecnico que yo selecciono.
+13:58:34 - Martín Aimar (@maimar):
+ah, necesitás saber cómo hacer la consulta a la base de datos?
+13:59:28 - nomopo (@nomopo):
+no. perdon no me explico muy bien. no se como modificar la consulta en tiempo real para que me filtre por el select del técnico o la zona
+14:00:28 - nomopo (@nomopo):
+Por ejemplo tengo:
+zona: barcelona, tarragona, madrid
+tecnico: luis, pedro, jose
+pues quiero que me filtre por barcelona y pedro
+14:06:21 - Gonzalo González Mora (@gonzalogm):
+Pero qué es, una app web? probablemente tengas que hacer una nueva consulta con esa nueva información (por ej pegarle al endpoint de búsqueda con esos nuevos parámetros) cuando cambies el valor de esos dropdowns, y cuando te devuelve la información, actualizar la UI
+14:06:44 - Esteban Yañez (@eyanez):
+claro, desde donde tenes que hacer la consulta y desde donde tenes que consumir los datos
+14:07:10 - Esteban Yañez (@eyanez):
+xq con lo de tiempo real, me hace pensar en webSockets, pero tambien hay base de datos
+14:12:39 - Martín Aimar (@maimar):
+siendo muy ortiba podría también pensar que se trata de un excel
+14:14:48 - nomopo (@nomopo):
+es una bdatos mysql
+14:23:45 - Gonza Gluzman (@gonza):
+Ok <@UGTRFGEJK>, te voy a hacer unas preguntas
+14:24:04 - nomopo (@nomopo):
+dime
+14:24:16 - Gonza Gluzman (@gonza):
+1. Cómo se comunican cliente y servidor en tu aplicación?
+14:24:49 - Gonza Gluzman (@gonza):
+Usan AJAX? Sockets? O se carga toda la página cuando se quiere enviar información al servidor?
+14:25:11 - nomopo (@nomopo):
+es un select puro y duro a mysql
+14:25:35 - Gonza Gluzman (@gonza):
+Ok
+14:26:03 - Gonza Gluzman (@gonza):
+Y esa info de mysql la mostrás directamente en la página, no?
+14:26:59 - nomopo (@nomopo):
+si
+14:28:21 - Gonza Gluzman (@gonza):
+Ok, bien
+14:28:37 - Gonza Gluzman (@gonza):
+Segunda pregunta:
+14:28:59 - Gonza Gluzman (@gonza):
+Ya hay una forma de filtrar resultados? O la querés implementar porque todavía no hay nada?
+14:29:06 - nomopo (@nomopo):
+supongo que puedo modificar esa consulta en tiempo real para que me filtre por la selección que haga de los campos select.
+14:29:11 - nomopo (@nomopo):
+Todavía no hay nada
+14:37:08 - nomopo (@nomopo):
+lo que no consigo es filtrar en tiempo real cada vez que cambio una de esas opciones.
+14:42:53 - Gonza Gluzman (@gonza):
+Sorry el cuelgue, estaba con otra cosa
+14:43:09 - Gonza Gluzman (@gonza):
+A qué le llamás “en tiempo real”?
+14:43:16 - Gonza Gluzman (@gonza):
+A que no recargue toda la página?
+14:43:50 - Gonza Gluzman (@gonza):
+O sea, hay varias formas posibles (a nivel arquitectura) de hacer una consulta a una base de datos (con o sin filtros) y mostrar los resultados en una página web
+14:44:12 - Gonza Gluzman (@gonza):
+La más sencilla y es la que vos tenés ahora es la siguiente (si no me equivoco):
+14:45:01 - nomopo (@nomopo):
+yo al hacer login me salen los 2000 registros (que ahora no están paginados). Pero necesito seleccionar la ZONA y el TECNICO del select que hay en el título de la columna. de forma que selecciono PEDRO como Técnico y que al cambiar me filtre y solo me aparezcan los de PEDRO
+14:47:01 - Gonza Gluzman (@gonza):
+```
+1. El navegador (cliente) le pide al servidor una página (por ejemplo tecnicos.php). A es petición puede agregarle filtros (por ejemplo tecnicos.php?zona=barcelona)
+2. El servidor arma una consulta SQL con los datos recibidos y hace esa consulta a la base de datos MySQL
+3. El motor de bases de datos (MySQL) le responde al servidor
+4. El servidor arma una respuesta (HTML) con esa información y se la envía al navegador (cliente)
+```
+14:47:15 - Gonza Gluzman (@gonza):
+Porfa, confirmame si tu arquitectura es así en este momento :point_up:
+14:47:17 - Esteban Yañez (@eyanez):
+si le pegas directo a la base, podrias tener la consulta `'SELECT * FROM Tabla'` en una variable y le vas haciendo append a medida que selecciona, tipo `+ 'WHERE ZONA = "Zona1"'`
+14:48:17 - nomopo (@nomopo):
+si. pero ahora mismo sin los filtros. Tan solo con tecnicos.php a secas
+14:50:20 - nomopo (@nomopo):
+lo de las variables lo tengo claro, lo que no tengo claro es como lo recargo, como hago que me filtre. Refrescando la página con los GETS???
+14:51:02 - Gonza Gluzman (@gonza):
+Vamos por partes
+14:51:03 - Marcos Casagrande (@marcoscvp90):
+usando Ajax
+14:51:21 - Gonza Gluzman (@gonza):
+Número 1: tenés varias opciones
+14:51:38 - Gonza Gluzman (@gonza):
+Que van a impactar en el resultado final
+14:51:48 - Gonza Gluzman (@gonza):
+Pero primero lo primero
+14:52:48 - Gonza Gluzman (@gonza):
+A grandes rasgos, se me ocurren 2 opciones:
+14:53:43 - Gonza Gluzman (@gonza):
+1. Mantenés todo como está y con JavaScript vas filtrando entre los resultados que ya tenés, en el navegador
+2. Filtrás los resultados en el servidor, mandando nuevas peticiones al mismo
+14:53:56 - Gonza Gluzman (@gonza):
+Luego, tenés distintas opciones dentro de cada una de esas alternativas
+14:54:05 - Gonza Gluzman (@gonza):
+Pero veamos las consecuencias de cada caso
+14:54:52 - Gonza Gluzman (@gonza):
+En el caso 1 (filtrar en el navegador), la principal ventaja es que no deberías modificar el código que ya tenés para el servidor
+14:55:23 - Gonza Gluzman (@gonza):
+La principal desventaja es que el servidor le va a mandar al navegador TODA la información de TODOS los técnicos antes de poder siquiera ver la página
+14:55:25 - nomopo (@nomopo):
+lo facil sería hacer unas pantallas de selección y luego filtrar. Pero me interesa mas que filtre dentro del listado
+14:55:42 - Gonza Gluzman (@gonza):
+Y eso puede llegar a ser lento
+14:56:01 - Gonza Gluzman (@gonza):
+No sé si eso es un problema para tu aplicación o no
+14:56:13 - Gonza Gluzman (@gonza):
+Ahora pensemos en la segunda alternativa:
+14:57:10 - Gonza Gluzman (@gonza):
+Si filtrás desde el servidor, básicamente tenés 2 posibilidades: pedir una página completamente nueva (por ejemplo, enviando un formulario con los datos del filtrado) o bien mediante AJAX, como ya te sugirieron
+14:57:27 - Gonza Gluzman (@gonza):
+A grandes rasgos, AJAX te permite hacer peticiones sin tener que cambiar de página
+14:57:38 - Gonza Gluzman (@gonza):
+Te recomiendo que leas al respecto, primero
+14:58:21 - nomopo (@nomopo):
+ok gracias
+14:58:25 - Gonza Gluzman (@gonza):
+Luego, y esto es importante, desde el servidor *podés bien devolver los datos mezclados con el markup (HTML) o por separado*
+14:58:34 - Gonza Gluzman (@gonza):
+Te pongo ejemplos para que se entienda
+14:58:43 - Gonza Gluzman (@gonza):
+Los datos mezclados serían algo así como:
+15:00:23 - Gonza Gluzman (@gonza):
+El servidor le manda al navegador:
+
+```
+&lt;table&gt;
+&lt;tr&gt;&lt;th&gt;Nombre&lt;/th&gt;&lt;th&gt;Zona&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;José&lt;/td&gt;&lt;td&gt;Saragoza&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;María&lt;/td&gt;&lt;td&gt;Barcelona&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+```
+15:02:26 - Gonza Gluzman (@gonza):
+Ahora si mandara los datos por separados del markup, los datos los debería representar con algún formato. El más común es JSON (te recomiendo que también leas al respecto). Quedaría, por ejemplo, así:
+```
+[{"nombre": "José", "zona": "Saragoza"}, {"nombre": "María", "zona": "Barcelona"}]
+```
+15:03:05 - Gonza Gluzman (@gonza):
+En ese caso, luego deberías insertar en la página (HTML) esa información con JavaScript (desde el navegador)
+15:03:35 - Gonza Gluzman (@gonza):
+Por último, *es fundamental que entiendas qué cosas se ejecutan en el navegador, qué cosas en el servidor y qué cosas en la base de datos*
+15:04:00 - Gonza Gluzman (@gonza):
+Si estás empezando y usando PHP, probablemente tengas todo mezclado en un solo archivo, pero esa diferencia es *fundamental*
+15:10:17 - nomopo (@nomopo):
+y como lo busco ??? php ajax peticiones mysql sin cambiar de página??
+15:11:44 - Gonza Gluzman (@gonza):
+Buscá por separado
+15:12:13 - Gonza Gluzman (@gonza):
+A ver, ahí veo si te puedo pasar un par de links
+15:12:27 - nomopo (@nomopo):
+ostras muchas gracias....
+15:12:53 - Gonza Gluzman (@gonza):
+De nada
+15:13:01 - Nico (@nicokorn96):
+hola gente, tengo un back en laravel y tengo un upload de un archivo enorme de 2 gb mas o menos a s3, como me recomiendan encararlo (idealmente mi idea era encararlo con script hecho en node que me suba el archivo) pero escucho ideas
+15:15:10 - Gonzalo González Mora (@gonzalogm):
+Creo que hay formas de subir a S3 sin pasar por el back, creo que sería lo ideal eso
+15:15:42 - Gonzalo González Mora (@gonzalogm):
+O el archivo está en el back?
+15:17:20 - Gonza Gluzman (@gonza):
+Lo más difícil de encontrar tutoriales es ver qué se ejecuta en el servidor y qué en el cliente. Para eso, te recomiendo que veas el código fuente de la página de tu aplicación, desde el navegador (click derecho, ver código fuente) y lo compares con el código fuente de tu archivo `.php`
+15:17:21 - Nico (@nicokorn96):
+no, necesito que se suba directo a s3 si es qeu se puede
+15:17:35 - Gonza Gluzman (@gonza):
+Luego, quizás te sirva leer esto: <https://www.aprenderaprogramar.com/index.php?option=com_content&amp;view=article&amp;id=882:ique-es-y-para-que-sirve-ajax-ventajas-e-inconvenientes-javascript-asincrono-xml-y-json-cu01193e&amp;catid=78&amp;Itemid=206>
+15:17:47 - Martín Aimar (@maimar):
+desde una web?
+15:17:51 - Nico (@nicokorn96):
+sip
+15:17:54 - Gonza Gluzman (@gonza):
+Hay muchas páginas que explican qué es AJAX, qué es JSON, etc
+15:17:56 - Nico (@nicokorn96):
+porque me da timeout
+15:18:08 - Gonza Gluzman (@gonza):
+Yo simplemente te pasé una que encontré, pero no es la única
+15:18:14 - Nico (@nicokorn96):
+y ya configure el ngnix de todas las maneras posibles
+15:18:28 - Gonza Gluzman (@gonza):
+Por último, si podés, buscá algo sobre MySQL
+15:18:41 - Gonza Gluzman (@gonza):
+Y probá hacer consultas con el programa MySQL Workbench
+15:19:04 - Martín Valdés de León (@mvaldesdeleon):
+Podes usar la API de S3 para generar una "presigned URL"
+15:19:08 - Gonza Gluzman (@gonza):
+Así entendés qué cosas se ejecutan en el motor de base de datos (MySQL) y cuáles en el servidor (PHP)
+15:19:11 - Martín Valdés de León (@mvaldesdeleon):
+y mandarsela al front
+15:19:13 - Nico (@nicokorn96):
+como seria eso ?
+15:19:14 - Martín Valdés de León (@mvaldesdeleon):
+y el front sube ahi
+15:19:21 - Martín Aimar (@maimar):
+no deberías tener que subirlo a tu server y luego al s3
+15:19:23 - Martín Valdés de León (@mvaldesdeleon):
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html>
+15:19:51 - Nico (@nicokorn96):
+me sirve para large files?
+15:19:59 - Martín Valdés de León (@mvaldesdeleon):
+Sirve para lo que sea.
+15:20:14 - Martín Valdés de León (@mvaldesdeleon):
+Y el archivo se sube del front directo a S3, no pasa por tu back.
+15:21:00 - Nico (@nicokorn96):
+no tiene topic ni para js ni para php
+15:21:16 - Nico (@nicokorn96):
+osea tengo que usar java .net o ruby si osi?
+15:21:34 - Martín Valdés de León (@mvaldesdeleon):
+nah
+15:21:38 - Martín Valdés de León (@mvaldesdeleon):
+son solo los ejemplos q estan ahi
+15:21:48 - Martín Valdés de León (@mvaldesdeleon):
+busca la aws sdk para tu lenguaje
+15:21:59 - Nico (@nicokorn96):
+ah dale entonces lo chequeo
+15:22:10 - Martín Valdés de León (@mvaldesdeleon):
+y tu back va a tener q autenticarse ante s3
+15:22:38 - Nico (@nicokorn96):
+pero no tiene que esperar a que se suba asi me devuelve un id &gt;?
+15:22:54 - Nico (@nicokorn96):
+y asi yo guardo la url del file?
+15:23:07 - Nico (@nicokorn96):
+porque yo necesito la url a fin de cuentas
+15:23:46 - Martín Valdés de León (@mvaldesdeleon):
+la url del archivo queda definida de antemano
+15:23:53 - Martín Valdés de León (@mvaldesdeleon):
+pq para generar la presigned url necesitas bucket y key name
+15:24:07 - Martín Valdés de León (@mvaldesdeleon):
+lo unico que resta para el front es pushear el payload
+15:24:07 - Martín Aimar (@maimar):
+qué pasa si falla el upload?
+15:24:19 - Martín Valdés de León (@mvaldesdeleon):
+lo manejas dde el front
+15:24:19 - Nico (@nicokorn96):
+nunca falla porque mi back nunca falla(?
+15:24:21 - Martín Valdés de León (@mvaldesdeleon):
+que algo fallo
+15:24:26 - Martín Valdés de León (@mvaldesdeleon):
+y volves a pedirle a tu back q genere una url
+15:24:29 - Martín Valdés de León (@mvaldesdeleon):
+pq creo que son single use
+15:24:51 - Nico (@nicokorn96):
+nunca falla porque s3 no se car
+15:24:53 - Nico (@nicokorn96):
+cae
+15:24:59 - Nico (@nicokorn96):
+(?
+15:25:02 - Martín Valdés de León (@mvaldesdeleon):
+xD
+15:25:15 - Nico (@nicokorn96):
+se cayo 1 vez en 15 anios
+15:25:18 - Nico (@nicokorn96):
+alto uptime
+15:25:34 - Martín Aimar (@maimar):
+lo que puede fallar es tu conexión
+15:25:45 - Nico (@nicokorn96):
+si eso siempre
+15:25:52 - Martín Aimar (@maimar):
+más en áfrica
+15:25:58 - Nico (@nicokorn96):
+bienvenidos a ARG
+16:10:35 - Fernando Pelliccioni (@fpelliccioni):
+gente, puedo hacerles una consulta no técnica por acá? hay algún canal más adecuado? es una consulta impositiva? <#C04346591|general>  ?
+16:11:12 - Gonza Gluzman (@gonza):
+Suelen hacer esas preguntas en <#C54TWDKN1|experiencia-laboral> también
+16:13:29 - Fernando Pelliccioni (@fpelliccioni):
+Gracias, ahí entro a ese canal!
+16:14:04 - Pedro (@pedro461):
+debería haber un canal para consultas del tipo financiero/económico/impositivo no?
+16:30:27 - Pablo Cazes (@pulpopaul):
+Buenas, una pregunta. Tengo un problema para manejar entornos y me vendrian muy bien sus opiniones.
+Tengo una funcion que llama a una DB externa (con la IP). Pero en entorno dev, en lugar de apuntar a una DB local, me gustaria leer resultados de un archivo sample.json.
+La ventaja de esto vs tener una DB local es menos trabajo de setup (incluso sample.json podria estar en el repo).
+La forma que tengo de hacer esto es algo asi:
+
+´let data = (process.env.ENV == "PROD") ?
+		getDataFromDb(dbName):
+		fecthFromSampleFile(sample.json)´
+
+Sé que lo mejor es no hacer varias ramas en la ejecucion dependiendo del entorno (porque ademas, voy a tener que meter otro if para escribir datos en un output.json), y que hay mejores formas de gestionar los backing services, pero no se implementarlas. Uds como gestionan esto?
+16:32:58 - Julian (@jantonielli01):
+Manéjalo mas arriba, hacete un `const service = prod ? myDb : myStubbedService` y dsp llama los métodos de ese objeto en todo tu código 
+16:35:27 - Daniel Broder (@dabroder):
+<@U6EUNR3KJ> <https://github.com/thlorenz/proxyquire>
+16:39:48 - Pablo Cazes (@pulpopaul):
+Aja, es buena. O sea, igualmente es un if, solo que mas arriba. Y en cada metodo voy a tener que chequear el entorno, ¿no? Gracias!
+16:40:38 - Pablo Cazes (@pulpopaul):
+Gracias, lo voy a mirar!
+16:42:30 - Pablo Cazes (@pulpopaul):
+Gracias a por las respuestas. Y como se llama esto genericamente? Que palabras clave usarian para buscar tutoriales? "Backing services" y "attached resources" me resultaron mucho mejor que "mocking" hasta ahora.
+16:44:56 - Julian (@jantonielli01):
+No, cada objeto tiene directamente los métodos de la db o de tu archivo 
+16:47:57 - Daniel Broder (@dabroder):
+es para testing en realidad pero por ahí te sirve

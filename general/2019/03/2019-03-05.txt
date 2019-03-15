@@ -1,0 +1,112 @@
+09:23:02 - Martin Carrera (@mcarrera):
+las Erasmo (<https://www.erasmo.com.ar/>) se recomendaron bastante por aca
+09:43:16 - Martín Aimar (@maimar):
+Algo de discusión por acá <https://news.ycombinator.com/item?id=13444320>
+13:04:05 - Micael Robles (@micaelrobles):
+Tienen idea del rango de precios de erasmo?
+15:48:49 - Julio (@julito):
+Creo que hace poco alguien había preguntado por una y estaba algo de 40k
+15:49:33 - Julio (@julito):
+¿Tienen alguna recomendación de curso de desarrollo web para principiantes? Puede ser en inglés, idealmente gratis, definitivamente no presencial en Capital
+15:49:52 - Julio (@julito):
+Conozco muchos de nombre pero no tengo demasiadas referencias
+15:49:58 - Pato (@pato):
+mmm yo siepre recomiendo la de free code camp
+15:50:10 - Pato (@pato):
+<https://www.freecodecamp.org/>
+15:59:38 - gillchristian (@gillchristian):
+Alguno tiene Mac con touchbar y usa vim?
+16:00:13 - Julio (@julito):
+Tengo la Mac, pero vim lo uso para los mensajes de commit nomás :stuck_out_tongue:
+16:01:48 - Jorge Cano (@jorgeucano):
+uso vim super de vez en cuando
+16:01:52 - Jorge Cano (@jorgeucano):
+cual es tu problema XD ?
+16:01:59 - Jorge Cano (@jorgeucano):
+necestas los f(ponga su numero aqui) ?
+16:04:04 - Luis Alvarez (@luistensai):
+:trollface:
+16:05:22 - gillchristian (@gillchristian):
+Escuché que vim se lleva mal con el touchbar
+16:05:25 - Jorge Cano (@jorgeucano):
+el esc no es un problema … los f(1…12) si
+16:05:36 - gillchristian (@gillchristian):
+Pero por ahí es mentira
+16:05:38 - Jorge Cano (@jorgeucano):
+tampoco es problema, en realidad apretas fn y listo
+16:05:45 - Jorge Cano (@jorgeucano):
+yo la verdad que no soy un advance user de vim
+16:05:54 - gillchristian (@gillchristian):
+Ok
+16:05:57 - Jorge Cano (@jorgeucano):
+pero me funciona perfecto y mucha gente que conozco desarrolla ahi con mac with touckbar
+16:06:02 - gillchristian (@gillchristian):
+Bueno saber jaja
+16:06:13 - Jorge Cano (@jorgeucano):
+uno hasta escribio un libro de VIM XD
+16:09:42 - gillchristian (@gillchristian):
+Pffff jaja
+19:45:07 - Jose alejandro Zapata (@alejandrozapata73):
+te dejo link de uno que empezamos este lunes... arranca desde cero con javascript <http://foxit.com.ar/curso-introductorio-javascript/>
+19:46:04 - Jose alejandro Zapata (@alejandrozapata73):
+Les dejo curso para los que recien empiezan... arrancan el lunes es virtual: <http://foxit.com.ar/curso-introductorio-javascript/>
+19:49:44 - Juan Scolari (@juanscolari):
+que precio tiene?
+20:09:59 - Brian Hume (@brianh20):
+```El único requerimiento para realizar este curso es contar con manejo básico de PC y sistema operativo Windows o Linux````
+09:23:02 - Martin Carrera (@mcarrera):
+las Erasmo (<https://www.erasmo.com.ar/>) se recomendaron bastante por aca
+09:43:16 - Martín Aimar (@maimar):
+Algo de discusión por acá <https://news.ycombinator.com/item?id=13444320>
+13:04:05 - Micael Robles (@micaelrobles):
+Tienen idea del rango de precios de erasmo?
+15:48:49 - Julio (@julito):
+Creo que hace poco alguien había preguntado por una y estaba algo de 40k
+15:49:33 - Julio (@julito):
+¿Tienen alguna recomendación de curso de desarrollo web para principiantes? Puede ser en inglés, idealmente gratis, definitivamente no presencial en Capital
+15:49:52 - Julio (@julito):
+Conozco muchos de nombre pero no tengo demasiadas referencias
+15:49:58 - Pato (@pato):
+mmm yo siepre recomiendo la de free code camp
+15:50:10 - Pato (@pato):
+<https://www.freecodecamp.org/>
+15:59:38 - gillchristian (@gillchristian):
+Alguno tiene Mac con touchbar y usa vim?
+16:00:13 - Julio (@julito):
+Tengo la Mac, pero vim lo uso para los mensajes de commit nomás :stuck_out_tongue:
+16:01:48 - Jorge Cano (@jorgeucano):
+uso vim super de vez en cuando
+16:01:52 - Jorge Cano (@jorgeucano):
+cual es tu problema XD ?
+16:01:59 - Jorge Cano (@jorgeucano):
+necestas los f(ponga su numero aqui) ?
+16:04:04 - Luis Alvarez (@luistensai):
+:trollface:
+16:05:22 - gillchristian (@gillchristian):
+Escuché que vim se lleva mal con el touchbar
+16:05:25 - Jorge Cano (@jorgeucano):
+el esc no es un problema … los f(1…12) si
+16:05:36 - gillchristian (@gillchristian):
+Pero por ahí es mentira
+16:05:38 - Jorge Cano (@jorgeucano):
+tampoco es problema, en realidad apretas fn y listo
+16:05:45 - Jorge Cano (@jorgeucano):
+yo la verdad que no soy un advance user de vim
+16:05:54 - gillchristian (@gillchristian):
+Ok
+16:05:57 - Jorge Cano (@jorgeucano):
+pero me funciona perfecto y mucha gente que conozco desarrolla ahi con mac with touckbar
+16:06:02 - gillchristian (@gillchristian):
+Bueno saber jaja
+16:06:13 - Jorge Cano (@jorgeucano):
+uno hasta escribio un libro de VIM XD
+16:09:42 - gillchristian (@gillchristian):
+Pffff jaja
+19:45:07 - Jose alejandro Zapata (@alejandrozapata73):
+te dejo link de uno que empezamos este lunes... arranca desde cero con javascript <http://foxit.com.ar/curso-introductorio-javascript/>
+19:46:04 - Jose alejandro Zapata (@alejandrozapata73):
+Les dejo curso para los que recien empiezan... arrancan el lunes es virtual: <http://foxit.com.ar/curso-introductorio-javascript/>
+19:49:44 - Juan Scolari (@juanscolari):
+que precio tiene?
+20:09:59 - Brian Hume (@brianh20):
+```El único requerimiento para realizar este curso es contar con manejo básico de PC y sistema operativo Windows o Linux````

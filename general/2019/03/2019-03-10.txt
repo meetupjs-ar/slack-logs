@@ -1,0 +1,56 @@
+23:42:41 - Diego Harari (@diehara):
+Buenas! busco recomendaciones para aprender React.
+Si es udemy, especifico si alguno hizo algun curso, si es presencial que no cueste una fortuna, alguien ?
+Gracias!
+23:47:35 - Sergio Daniel Xalambrí (@sergiodxa):
+La documentación de React tiene un tutorial muy bueno, y está en español
+23:51:06 - Martín Aimar (@maimar):
+de acá tenés que poder sacar algo <https://news.ycombinator.com/item?id=19050509>
+23:51:52 - Nicolas Accetta (@nicolas.accetta):
+a mi me cabe como explica este loco
+23:51:53 - Nicolas Accetta (@nicolas.accetta):
+<https://www.udemy.com/react-the-complete-guide-incl-redux/>
+23:52:04 - Leandro Echevarria (@echevarrialeandro):
+Yo generalmente cuando veo alguna tech nueva para mi me gusta empezar con algun articulo y videos. Para react por ejemplo empecé con este curso (no te asustes que la web está en ruso :grin:) <https://coursehunters.net/course/udemy-modern-reactandredux>
+23:52:12 - Leandro Echevarria (@echevarrialeandro):
+Como dice ahi, el curso lo tenes en udemy tambien
+23:52:36 - Leandro Echevarria (@echevarrialeandro):
+Este también está copado!
+00:13:37 - Pablo Miceli (@pablomiceli24):
+yo aprendí con ese y lo super recomiendo
+15:18:48 - Santiago Ruffino (@santi_0898):
+MODO OSCURO EN SLACK PARA IOS
+15:20:33 - Gonzalo González Mora (@gonzalogm):
+Quiero en desktop :cry:
+18:53:10 - Tomás Sevillano (@tsevillano):
+en desktop lo podes hacer, podes cambiar toda la paleta de colores
+20:44:35 - Gonzalo González Mora (@gonzalogm):
+Sí, pero todo el texto del chat sigue siendo con fondo blanco, o eso tmb se puede cambiar?
+23:42:41 - Diego Harari (@diehara):
+Buenas! busco recomendaciones para aprender React.
+Si es udemy, especifico si alguno hizo algun curso, si es presencial que no cueste una fortuna, alguien ?
+Gracias!
+23:47:35 - Sergio Daniel Xalambrí (@sergiodxa):
+La documentación de React tiene un tutorial muy bueno, y está en español
+23:51:06 - Martín Aimar (@maimar):
+de acá tenés que poder sacar algo <https://news.ycombinator.com/item?id=19050509>
+23:51:52 - Nicolas Accetta (@nicolas.accetta):
+a mi me cabe como explica este loco
+23:51:53 - Nicolas Accetta (@nicolas.accetta):
+<https://www.udemy.com/react-the-complete-guide-incl-redux/>
+23:52:04 - Leandro Echevarria (@echevarrialeandro):
+Yo generalmente cuando veo alguna tech nueva para mi me gusta empezar con algun articulo y videos. Para react por ejemplo empecé con este curso (no te asustes que la web está en ruso :grin:) <https://coursehunters.net/course/udemy-modern-reactandredux>
+23:52:12 - Leandro Echevarria (@echevarrialeandro):
+Como dice ahi, el curso lo tenes en udemy tambien
+23:52:36 - Leandro Echevarria (@echevarrialeandro):
+Este también está copado!
+00:13:37 - Pablo Miceli (@pablomiceli24):
+yo aprendí con ese y lo super recomiendo
+15:18:48 - Santiago Ruffino (@santi_0898):
+MODO OSCURO EN SLACK PARA IOS
+15:20:33 - Gonzalo González Mora (@gonzalogm):
+Quiero en desktop :cry:
+18:53:10 - Tomás Sevillano (@tsevillano):
+en desktop lo podes hacer, podes cambiar toda la paleta de colores
+20:44:35 - Gonzalo González Mora (@gonzalogm):
+Sí, pero todo el texto del chat sigue siendo con fondo blanco, o eso tmb se puede cambiar?

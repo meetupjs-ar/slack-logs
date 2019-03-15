@@ -1,0 +1,254 @@
+23:53:39 - ariel diaz (@arieldiaz):
+la puchaaaaaaa jjaaja
+15:17:50 - Miranda J. Ignacio (@mirandajignacio):
+Buenas, una consulta. Cuando te cambian de seniority el aumento de sueldo es un porcentaje al que tenías o no tiene nada que ver?
+15:18:12 - Miranda J. Ignacio (@mirandajignacio):
+No estoy seguro si está pregunta iba en este channel
+15:19:53 - Diego Calderón (@codekult):
+No está atado a nada (por ej. convenio) así que pueden hacer como quieran, y va a depender del lugar y los involucrados
+15:20:17 - Diego Calderón (@codekult):
+Pero... sí lo lógico es que tambien haya un aumento de sueldo acompañando a la promoción
+15:20:44 - Diego Calderón (@codekult):
+Seguramente sea un porcentaje que tengas que negociar
+15:20:45 - Nico (@nicokorn96):
+Buenas! alguno tiene referencias de las empresas Altoros? y Workast?
+15:21:41 - Diego Calderón (@codekult):
+Tuve buenas experiencias (indirectas) de Altoros
+15:22:56 - Miranda J. Ignacio (@mirandajignacio):
+<@U045E1C4K> hay algún porcentaje recomendado o todo depende de como lo negocie ?
+15:23:57 - Diego Calderón (@codekult):
+En mi experiencia debería ser un porcentaje considerable entre el 40% y el 60%
+15:24:12 - Diego Calderón (@codekult):
+Tené cuidado de que no se mezcle con el aumento por inflación
+15:24:42 - Diego Calderón (@codekult):
+Igual depende del lugar etc...
+15:27:36 - Diego Calderón (@codekult):
+Otro punto a tener en cuenta es que el aumento de sueldo sea acorde al aumento de responsabilidades
+16:01:38 - Dario Miñones (@dminones):
+<@UDJJ3FTUM> yo trabajo en Altoros. Pregunta nomas
+16:07:28 - Miranda J. Ignacio (@mirandajignacio):
+<@U045E1C4K> Gracias!
+16:22:39 - Nico (@nicokorn96):
+Contame todo tengo entrevista para ahí 
+16:22:45 - Nico (@nicokorn96):
+Clima, sueldo 
+16:22:48 - Nico (@nicokorn96):
+Carrera 
+16:22:52 - Nico (@nicokorn96):
+Gente 
+16:23:15 - Nico (@nicokorn96):
+Jefes 
+16:23:54 - Nico (@nicokorn96):
+Es verdad que el sueldo es en usd?
+16:37:48 - Dario Miñones (@dminones):
+El sueldo es pactado el bruto en usd y se convierte con la cotizacion del mes, luego cobras en pesos. Hay una escala de sueldo por señority.
+16:38:33 - Dario Miñones (@dminones):
+Venimos 2 veces por semana a la oficina
+16:40:13 - Dario Miñones (@dminones):
+Yo la verdad que estoy contento, el clima es tranqui. Nos vemos 2 veces por semana pero te puede tocar trabajar con gente de la oficina de sante fe o con equipos remotos
+16:43:05 - Dario Miñones (@dminones):
+La gente es buena onda, medio que cada proyecto es un mundo pero a mi me vienen tocando buenos equipos la verdad.
+16:49:27 - Damian Cipolat (@damian.cipolat):
+Hola alguno tiene referencias de la empresa virtual minds?
+16:55:05 - Heber (@heber.acostalipera):
+estan en openqube nose si te sirve
+<https://openqube.io/companies/virtualmind-software-house>
+16:55:58 - Damian Cipolat (@damian.cipolat):
+si lo vi en openqube pero por ahi alguno laburaba ahi
+17:09:05 - Esteban Yañez (@eyanez):
+<@U5FTP5Z1S> laburaba ahi
+17:46:21 - Nico (@nhsz):
+<https://twitter.com/seppo0011/status/1105564901844619266>
+17:53:53 - Agustin Polo (@apolo_codes):
+muy bueno <@U5Y6ADSKY>!
+17:54:05 - Agustin Polo (@apolo_codes):
+ya estoy pidiendo un aumento
+17:55:33 - Diego Calderón (@codekult):
+Me dio un resultado bastante cercano, aunque sea no me indigno, porque no voy a decir que me pongo contento
+18:12:33 - Aldo Sorbara (@aldo1891):
+es bruto o neto?
+18:12:48 - Sergio Daniel Xalambrí (@sergiodxa):
+bruto
+18:12:54 - Aldo Sorbara (@aldo1891):
+si, ahi lei, mala mia
+18:13:32 - Nico (@nhsz):
+si eligen Visual Studio como tecnología les baja el sueldo :trollface:
+18:17:30 - Damian C (@damian.crespi):
+Me tiro casi un 50% de lo que gano:man-shrugging: 
+18:18:22 - Sergio Daniel Xalambrí (@sergiodxa):
+cuando lo hice me tiró también la mitad, tuve que poner que laburo para el extranjero para que me tire apenas un poco más de lo que gano
+18:26:58 - Wilfredo Alcala (@alcalawilfre):
+A mi igual.. Creo que esas encuestas están alteradas para empujar el mercado hacia abajo :thinking_face:
+18:27:24 - Sergio Daniel Xalambrí (@sergiodxa):
+capaz... muchos ganan bastante poco en realidad?
+18:27:48 - Sergio Daniel Xalambrí (@sergiodxa):
+me pregunto si alguien te paga más o menos por usar Atom o Sublime Text :thinking_face:
+18:30:19 - Damian C (@damian.crespi):
+Estamos overrated o la mayoría esta underrated?
+18:30:34 - Sergio Daniel Xalambrí (@sergiodxa):
+diría lo segundo
+18:30:56 - Sergio Daniel Xalambrí (@sergiodxa):
+en mi primer laburo me pagaban el mínimo, yo creo que capaz no el mínimo pero hay muchos que cobren mal
+18:31:32 - a0viedo (@a0viedo):
+si digo que uso vscode me estima 2mil pesos más
+18:31:34 - Gonzalo González Mora (@gonzalogm):
+Me parece que muchas empresas laburan con clientes de afuera cobrando un montón la hora y les pagan dos mangos (en equivalente en dólares) a sus empleados
+18:32:55 - Wilfredo Alcala (@alcalawilfre):
+Sindicato :agite:
+18:33:33 - Sergio Daniel Xalambrí (@sergiodxa):
+lo del sindicato se viene diciendo desde que empecé a programar y nunca se hizo (creo que hay uno pero ni idea que hace)
+18:35:38 - Martín Valdés de León (@mvaldesdeleon):
+el tema es que los sindicatos en argentina son una mafia, y no es que vas a armar el tuyo "y va a ser diferente a los demas"
+18:39:21 - Adrián Velasco (@adrivelasco1506):
+me tiró un sueldo estimado muy bajo al que tengo actualmente jaja, encima en bruto, osea que neto según eso debería ganar casi 20k menos
+18:57:02 - Ariel Barabas (@ariel.barabas):
+parece que terminar la facultad me daría 5mil pesos más… no vale la pena :laughing:
+18:59:00 - Marcos Chicote (@marcoschicote):
+me dio bastante preciso
+18:59:18 - Ata Sanchez (@as):
+mmmm
+18:59:27 - Ata Sanchez (@as):
+abajo por un 10% casi
+18:59:28 - Ata Sanchez (@as):
+jaja
+18:59:31 - Ata Sanchez (@as):
+habra que pedir sueldo :stuck_out_tongue:
+18:59:34 - Ata Sanchez (@as):
+aumento*
+19:03:01 - Pedro (@pedro461):
+me dio por abajo, algo hice mal jaja
+19:03:26 - Wilfredo Alcala (@alcalawilfre):
+Igual lo sindicato no era en serio.. Yo pienso que no hace falta por la cantidad de ofertas laborales que hay. El problema es que vas a tener 6 meses en cada sitio y como que no lo ven muy bien los recruiters
+20:30:34 - Marcos Casagrande (@marcoscvp90):
+Por que sos un Pichi Adri.
+20:31:07 - Marcos Casagrande (@marcoscvp90):
+Vos ya sabés lo que tenés que hacer.
+20:36:35 - Marcos Casagrande (@marcoscvp90):
+Y de paso, si alguno es bisexual, le conviene decir que es homosexual, gana más.
+23:53:39 - ariel diaz (@arieldiaz):
+la puchaaaaaaa jjaaja
+15:17:50 - Miranda J. Ignacio (@mirandajignacio):
+Buenas, una consulta. Cuando te cambian de seniority el aumento de sueldo es un porcentaje al que tenías o no tiene nada que ver?
+15:18:12 - Miranda J. Ignacio (@mirandajignacio):
+No estoy seguro si está pregunta iba en este channel
+15:19:53 - Diego Calderón (@codekult):
+No está atado a nada (por ej. convenio) así que pueden hacer como quieran, y va a depender del lugar y los involucrados
+15:20:17 - Diego Calderón (@codekult):
+Pero... sí lo lógico es que tambien haya un aumento de sueldo acompañando a la promoción
+15:20:44 - Diego Calderón (@codekult):
+Seguramente sea un porcentaje que tengas que negociar
+15:20:45 - Nico (@nicokorn96):
+Buenas! alguno tiene referencias de las empresas Altoros? y Workast?
+15:21:41 - Diego Calderón (@codekult):
+Tuve buenas experiencias (indirectas) de Altoros
+15:22:56 - Miranda J. Ignacio (@mirandajignacio):
+<@U045E1C4K> hay algún porcentaje recomendado o todo depende de como lo negocie ?
+15:23:57 - Diego Calderón (@codekult):
+En mi experiencia debería ser un porcentaje considerable entre el 40% y el 60%
+15:24:12 - Diego Calderón (@codekult):
+Tené cuidado de que no se mezcle con el aumento por inflación
+15:24:42 - Diego Calderón (@codekult):
+Igual depende del lugar etc...
+15:27:36 - Diego Calderón (@codekult):
+Otro punto a tener en cuenta es que el aumento de sueldo sea acorde al aumento de responsabilidades
+16:01:38 - Dario Miñones (@dminones):
+<@UDJJ3FTUM> yo trabajo en Altoros. Pregunta nomas
+16:07:28 - Miranda J. Ignacio (@mirandajignacio):
+<@U045E1C4K> Gracias!
+16:22:39 - Nico (@nicokorn96):
+Contame todo tengo entrevista para ahí 
+16:22:45 - Nico (@nicokorn96):
+Clima, sueldo 
+16:22:48 - Nico (@nicokorn96):
+Carrera 
+16:22:52 - Nico (@nicokorn96):
+Gente 
+16:23:15 - Nico (@nicokorn96):
+Jefes 
+16:23:54 - Nico (@nicokorn96):
+Es verdad que el sueldo es en usd?
+16:37:48 - Dario Miñones (@dminones):
+El sueldo es pactado el bruto en usd y se convierte con la cotizacion del mes, luego cobras en pesos. Hay una escala de sueldo por señority.
+16:38:33 - Dario Miñones (@dminones):
+Venimos 2 veces por semana a la oficina
+16:40:13 - Dario Miñones (@dminones):
+Yo la verdad que estoy contento, el clima es tranqui. Nos vemos 2 veces por semana pero te puede tocar trabajar con gente de la oficina de sante fe o con equipos remotos
+16:43:05 - Dario Miñones (@dminones):
+La gente es buena onda, medio que cada proyecto es un mundo pero a mi me vienen tocando buenos equipos la verdad.
+16:49:27 - Damian Cipolat (@damian.cipolat):
+Hola alguno tiene referencias de la empresa virtual minds?
+16:55:05 - Heber (@heber.acostalipera):
+estan en openqube nose si te sirve
+<https://openqube.io/companies/virtualmind-software-house>
+16:55:58 - Damian Cipolat (@damian.cipolat):
+si lo vi en openqube pero por ahi alguno laburaba ahi
+17:09:05 - Esteban Yañez (@eyanez):
+<@U5FTP5Z1S> laburaba ahi
+17:46:21 - Nico (@nhsz):
+<https://twitter.com/seppo0011/status/1105564901844619266>
+17:53:53 - Agustin Polo (@apolo_codes):
+muy bueno <@U5Y6ADSKY>!
+17:54:05 - Agustin Polo (@apolo_codes):
+ya estoy pidiendo un aumento
+17:55:33 - Diego Calderón (@codekult):
+Me dio un resultado bastante cercano, aunque sea no me indigno, porque no voy a decir que me pongo contento
+18:12:33 - Aldo Sorbara (@aldo1891):
+es bruto o neto?
+18:12:48 - Sergio Daniel Xalambrí (@sergiodxa):
+bruto
+18:12:54 - Aldo Sorbara (@aldo1891):
+si, ahi lei, mala mia
+18:13:32 - Nico (@nhsz):
+si eligen Visual Studio como tecnología les baja el sueldo :trollface:
+18:17:30 - Damian C (@damian.crespi):
+Me tiro casi un 50% de lo que gano:man-shrugging: 
+18:18:22 - Sergio Daniel Xalambrí (@sergiodxa):
+cuando lo hice me tiró también la mitad, tuve que poner que laburo para el extranjero para que me tire apenas un poco más de lo que gano
+18:26:58 - Wilfredo Alcala (@alcalawilfre):
+A mi igual.. Creo que esas encuestas están alteradas para empujar el mercado hacia abajo :thinking_face:
+18:27:24 - Sergio Daniel Xalambrí (@sergiodxa):
+capaz... muchos ganan bastante poco en realidad?
+18:27:48 - Sergio Daniel Xalambrí (@sergiodxa):
+me pregunto si alguien te paga más o menos por usar Atom o Sublime Text :thinking_face:
+18:30:19 - Damian C (@damian.crespi):
+Estamos overrated o la mayoría esta underrated?
+18:30:34 - Sergio Daniel Xalambrí (@sergiodxa):
+diría lo segundo
+18:30:56 - Sergio Daniel Xalambrí (@sergiodxa):
+en mi primer laburo me pagaban el mínimo, yo creo que capaz no el mínimo pero hay muchos que cobren mal
+18:31:32 - a0viedo (@a0viedo):
+si digo que uso vscode me estima 2mil pesos más
+18:31:34 - Gonzalo González Mora (@gonzalogm):
+Me parece que muchas empresas laburan con clientes de afuera cobrando un montón la hora y les pagan dos mangos (en equivalente en dólares) a sus empleados
+18:32:55 - Wilfredo Alcala (@alcalawilfre):
+Sindicato :agite:
+18:33:33 - Sergio Daniel Xalambrí (@sergiodxa):
+lo del sindicato se viene diciendo desde que empecé a programar y nunca se hizo (creo que hay uno pero ni idea que hace)
+18:35:38 - Martín Valdés de León (@mvaldesdeleon):
+el tema es que los sindicatos en argentina son una mafia, y no es que vas a armar el tuyo "y va a ser diferente a los demas"
+18:39:21 - Adrián Velasco (@adrivelasco1506):
+me tiró un sueldo estimado muy bajo al que tengo actualmente jaja, encima en bruto, osea que neto según eso debería ganar casi 20k menos
+18:57:02 - Ariel Barabas (@ariel.barabas):
+parece que terminar la facultad me daría 5mil pesos más… no vale la pena :laughing:
+18:59:00 - Marcos Chicote (@marcoschicote):
+me dio bastante preciso
+18:59:18 - Ata Sanchez (@as):
+mmmm
+18:59:27 - Ata Sanchez (@as):
+abajo por un 10% casi
+18:59:28 - Ata Sanchez (@as):
+jaja
+18:59:31 - Ata Sanchez (@as):
+habra que pedir sueldo :stuck_out_tongue:
+18:59:34 - Ata Sanchez (@as):
+aumento*
+19:03:01 - Pedro (@pedro461):
+me dio por abajo, algo hice mal jaja
+19:03:26 - Wilfredo Alcala (@alcalawilfre):
+Igual lo sindicato no era en serio.. Yo pienso que no hace falta por la cantidad de ofertas laborales que hay. El problema es que vas a tener 6 meses en cada sitio y como que no lo ven muy bien los recruiters
+20:30:34 - Marcos Casagrande (@marcoscvp90):
+Por que sos un Pichi Adri.
+20:31:07 - Marcos Casagrande (@marcoscvp90):
+Vos ya sabés lo que tenés que hacer.
+20:36:35 - Marcos Casagrande (@marcoscvp90):
+Y de paso, si alguno es bisexual, le conviene decir que es homosexual, gana más.

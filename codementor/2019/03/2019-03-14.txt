@@ -1,0 +1,1041 @@
+21:16:47 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>
+21:19:35 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>.
+21:20:20 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>.
+Tips sobre la plataforma, consejos para ser seleccionado, recomendarnos entre clientes, etc.
+21:24:50 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>.
+Tips sobre la plataforma, consejos para ser seleccionado, recomendarnos entre clientes, etc.
+21:27:34 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>, consejos para ser seleccionado, recomendarnos entre clientes, etc.
+
+Consejos:
+ - Completar perfil a fondo
+ - Pedir revisión
+ - Usar link de referido :slightly_smiling_face:
+21:29:20 - Julian (@jantonielli01):
+Me anoté ayer creo
+21:29:35 - Julian (@jantonielli01):
+todavía no me puse a preparar el perfil
+21:29:43 - Marcos Casagrande (@marcoscvp90):
+Buenas
+21:29:55 - Marcos Casagrande (@marcoscvp90):
+Lo importante es completar el perfil a full antes de postularse.
+21:30:05 - Marcos Casagrande (@marcoscvp90):
+Podés crear la cuenta sin postularte.
+21:30:31 - Marcos Casagrande (@marcoscvp90):
+Porque una vez te rechazan cagaste. Siempre podés postularte con otro email, pero es una paja.
+21:30:44 - Julian (@jantonielli01):
+Ah, que paj, creo que me postulé
+21:30:50 - Marcos Casagrande (@marcoscvp90):
+Cual es tu perfil?
+21:31:07 - Julian (@jantonielli01):
+Dame un toque que agarro la pc
+21:37:43 - Leandro Echevarria (@echevarrialeandro):
+Excelente iniciativa el canal
+21:39:53 - imarenco (@imarenco):
+:clapping:
+21:41:53 - José Ram'rez (@jarcodallo):
+:devil_parrot:  es como workana o toptal no me queda claro 
+21:42:09 - Marcos Casagrande (@marcoscvp90):
+Buenas, ahí estoy creando un "tutorial" así lo dejo pineado.
+21:42:16 - Marcos Casagrande (@marcoscvp90):
+Ahora lo mando, y lo empiezo a editar.
+21:42:31 - Marcos Casagrande (@marcoscvp90):
+*¿Que es CodeMentor?*
+
+Plataforma para freelancers.
+
+_Siempre que se hable de precio en esta guía será en USD_
+
+*¿Qué lo diferencia de Upwork/Freelancer etc?*
+
+- Hay que pasar un filtro, en teoría entran los "mejores". Esto permite que no esté saturada de developers y empiece un bidding war bajando el precio por hora.
+- Adeḿas de trabajos freelance, la gran novedad de la plataforma es el live help. Esta es la modalidad que más plata te permite generar, y lo que más sale. Requiere conocimiento hablado del inglés. Abarca desde mentorías, a corrección de código en vivo, code review/refactor, o simplemente hacer alguna tarea específica.
+- Los clientes saben que *mínimo* van a pagar $60/h, y no es dífícil cobrar 80-100.
+
+*¿Cómo me postulo?*
+
+- Pedir link de referido a alguien que ya sea mentor (Se puede ganar hasta $100)
+- Usar mi referido aumenta las chances de entrar, ya que soy el top spanish mentor: <https://www.codementor.io?referral=marcoscasagrande-4ofsa8hnqn>
+- Lo recomendado primero es crearse un perfil en la plataforma: Sign Up
+- Completar el perfil al máximo
+- Envíar el perfil en: "Become a mentor"
+
+*¿Me pueden rechazar?*
+- *Sí*, asegurate de completar bien el perfil.
+
+*¿De qué perfiles me puedo fijar para hacerme una idea como rellenar el mío?* _Iré agregando más_
+
+- <https://www.codementor.io/marcoscasagrande>
+- <https://www.codementor.io/juanelfers>
+- <https://www.codementor.io/gabrielbarbera>
+
+*Tips para el perfil*
+- Cuenta de Stack Overflow con buenas respuestas ayuda mucho
+- Perfil de Github con buenos proyectos, actividad en algún proyecto Open Source etc.
+- Perfil de LinkedIn (Siempre en Inglés)
+- Solo cargar skills que manejás de verdad, si hiciste una vez un proyecto en el colegio en Pascal, no cargues Pascal como experiencia.
+- Armar un blog post (24 horas después del registro _antispam_ ) ayuda muchísimo. Se puede exportar de Medium.
+
+
+*¿Cuál es el valor hora recomendado al arrancar?*
+
+- 60/hr. En CM se configura cada 15 minutos, por lo cual $15/15m.
+
+*¿Es recomendado dar los 15 primeros minutos gratis para nuevos usuarios?*
+- *NO*.
+
+*¿Que medios de pago hay?*
+
+- Los que se pueden usar desde Argentina son: *Payoneer*, *Transferwise* (en EUR) y *Paypal* (No recomendado)
+- Los que tengan cuenta de Transferwise europea, pueden hacer transferencias directamente en USD, los demás *NO* o queda en el limbo. En Payoneer todos pueden recibir USD.
+
+*¿Que hago para ser featured?*
+
+- Con meter unas 12-15 sesiones en una semana, se suele alcanzar ese estado. Lo cual te destaca en los buscadores.
+
+*¿Qué es Codementor X?*
+
+- Es la parte exclusiva de la plataforma, para trabajos freelance mayores a 4000 USD. La entrevista tiene 4 etapas, si alguno es seleccionado que me pregunte y lo ayudo.
+- Link de referido: <https://hire.codementor.io?referral=marcoscasagrande-4ofsa8hnqn>
+
+*¿Puedo vivir 100% de la plataforma o sirve como un extra?*
+
+- Se puede vivir sin problemas de la plataforma, lo normal sería ganar entre 3-7 veces tu sueldo en relación de dependencia (en Argentina), aunque puede ser un gran extra si preferís la "tranquilidad" de un trabajo fijo.
+
+*¿Cuál es la comisión de la plataforma?*
+- Hay un modelo semanal de comisión, si llegás a 12 trabajos/sesiones en la semana la comisión es de 13%, retroactiva a toda la semana.
+- 1-2 jobs: 20%
+- 3-6 jobs: 18%
+- 7-11 jobs: 15%
+- 12+ jobs: 13%
+21:44:09 - Marcos Casagrande (@marcoscvp90):
+Les dejo mi link de referido mientras, por los que se quieran registrar ya, no lo hago por esto, pero bueno siempre ayuda:
+
+<https://www.codementor.io?referral=marcoscasagrande-4ofsa8hnqn>
+21:46:26 - Leandro Echevarria (@echevarrialeandro):
+Yo en algun momento de este año lo quiero hacer. Toda info del canal me va a servir
+21:51:23 - Marcos Casagrande (@marcoscvp90):
+Ahí estoy terminando ya.
+21:59:20 - Marcos Casagrande (@marcoscvp90):
+Bueno ahí dejé varias preguntas cubiertas e información general, podemos ir completandolo a medida que surjan más, así ya queda como guía.
+22:00:04 - Marcos Casagrande (@marcoscvp90):
+Si alguno tiene alguna pregunta en particular, que me pregunte. De momento somos pocos Argentinos en la plataforma, la mayoría los metí yo. #theFlippening
+22:00:44 - Marcos Casagrande (@marcoscvp90):
+¿y el por qué lo hago? Porque me saca de quisio como explotan a los programadores en Argentina, lo viví 7 años.
+22:01:03 - Julian (@jantonielli01):
+Bueno, me creé otra cuenta con tu referral
+22:01:40 - Marcos Casagrande (@marcoscvp90):
+Gracias :slightly_smiling_face:, y lo importante completá todo bien. Si tienen perfil de stackoverflow ayuda mucho, sino subir unos buenos laburos a github también.
+22:03:44 - Martín Aimar (@maimar):
+Gracias, no me quedó claro si te hacen un test para entrar 
+22:04:00 - Marcos Casagrande (@marcoscvp90):
+No hay un test, excepto para *CodementorX*
+22:04:16 - Marcos Casagrande (@marcoscvp90):
+Lo único, evalúan tu perfil, si tu perfil es bueno, te aceptan, sino no.
+22:04:45 - Martín Aimar (@maimar):
+Se puede volver a intentar si no te aceptan? 
+22:05:37 - Marcos Casagrande (@marcoscvp90):
+Creo que con la misma cuenta, 30 días desde el rechazo, sino creandote una cuenta nueva con otro email.
+22:05:51 - Leandro Echevarria (@echevarrialeandro):
+Si no tenes cosas en github porque todo lo que hiciste siempre esta privado en bitbucket, cagaste :disappointed: ?
+22:06:03 - Leandro Echevarria (@echevarrialeandro):
+Tengo que meterle a SO
+22:06:42 - Marcos Casagrande (@marcoscvp90):
+Lean, ese era mi caso. Yo entré por SO, pero podés forkear un par de proyectos, alguna lib de NPM, o por el estilo y mandar PR de algún fix.
+22:08:00 - Marcos Casagrande (@marcoscvp90):
+Pero, LinkedIn bien completo, todo en inglés ayuda muchísimo.
+22:08:27 - Leandro Echevarria (@echevarrialeandro):
+LinkedIn tengo y está en inglés, algo es algo :stuck_out_tongue:
+22:08:40 - Leandro Echevarria (@echevarrialeandro):
+Puedo revisar github estos findes o algun finde largo y mandar prs
+22:08:53 - Julian (@jantonielli01):
+Btw, yo vengo laburando hace unos meses por upwork
+22:09:03 - Julian (@jantonielli01):
+Cual preferís?
+22:09:14 - Leandro Echevarria (@echevarrialeandro):
+Pero la mayoria de mi codigo esta en repos de bitbucket privados :disappointed:
+22:09:18 - Leandro Echevarria (@echevarrialeandro):
+Porque no codeo solo
+22:09:21 - Marcos Casagrande (@marcoscvp90):
+Upwork es una cagada inmensa al lado de Codementor.
+22:09:25 - Julian (@jantonielli01):
+Venía sacando 40$ la hora ±
+22:09:41 - Marcos Casagrande (@marcoscvp90):
+Entré en ambas a la vez, el 99% de mi "sueldo", viene de Codementor.
+22:10:16 - Marcos Casagrande (@marcoscvp90):
+En upwork hay mucha bidding war, no pagan tanto, tenés pocos "connects", es muy dificil quedar, perdés más tiempo buscando laburos, que laburando.
+22:10:36 - Julian (@jantonielli01):
+Sep, eso ultimo totalmente
+22:10:40 - Marcos Casagrande (@marcoscvp90):
+En CM prácticamente es first come first served.
+22:10:58 - Marcos Casagrande (@marcoscvp90):
+Si sos rápido apenas sale un laburo, te lo quedás.
+22:11:00 - Julian (@jantonielli01):
+atm:
+&gt;&gt;&gt;11 active candidacies
+43 submitted proposals
+22:11:03 - Julian (@jantonielli01):
+lol
+22:11:15 - Marcos Casagrande (@marcoscvp90):
+Exacto, y la *comisión* de Upwork es 20%.
+22:11:30 - Leandro Echevarria (@echevarrialeandro):
+Que atrevidos
+22:11:30 - Julian (@jantonielli01):
+pero eso es los primeros 500 pe
+22:11:33 - Marcos Casagrande (@marcoscvp90):
+En CM tiene algo proresivo semanal, que es retroactiva a la semana, que bajás hasta el 13%
+22:11:37 - Julian (@jantonielli01):
+dsp es 10%
+22:11:42 - Marcos Casagrande (@marcoscvp90):
+500 USD, con el *mismo* cliente.
+22:11:51 - Julian (@jantonielli01):
+se
+22:12:02 - Marcos Casagrande (@marcoscvp90):
+O sea, con cliente nuevo, 20% de nuevo.
+22:12:22 - Marcos Casagrande (@marcoscvp90):
+En Upwork es muy dificil cobrar más de 50 la hora (después de comisiones).
+22:12:43 - Marcos Casagrande (@marcoscvp90):
+En CM, arrancás con 60/hr - 52,2 después de comision.
+22:13:11 - Leandro Echevarria (@echevarrialeandro):
+El sueño del pibe ganar 52 usd/h
+22:13:27 - Leandro Echevarria (@echevarrialeandro):
+Redondeando para abajo, 2000ARS/h
+22:14:12 - Leandro Echevarria (@echevarrialeandro):
+Con un dia de laburo liquido el alquiler+expensas+celular
+22:14:24 - Leandro Echevarria (@echevarrialeandro):
+Es una locura verlo asi
+22:15:23 - Marcos Casagrande (@marcoscvp90):
+Es así, y ocurre.
+22:15:27 - Julian (@jantonielli01):
+Por curiosidad, vivis en arg, marcos?
+22:15:33 - Marcos Casagrande (@marcoscvp90):
+Si, en Palermo.
+22:15:43 - Marcos Casagrande (@marcoscvp90):
+Vos?
+22:15:53 - Leandro Echevarria (@echevarrialeandro):
+Casi vecinos, Villa Crespo acá
+22:15:55 - Julian (@jantonielli01):
+Sep
+22:16:05 - Julian (@jantonielli01):
+Hace unos(un?) meses me volví de francia
+22:16:18 - Gonzalo González Mora (@gonzalogm):
+Algún día quiero ganar así jaja mientras tanto a seguir aprendiendo :cry:
+22:16:38 - Leandro Echevarria (@echevarrialeandro):
+Hay que darle duro todos los dias :nerd_face:
+22:16:42 - Julian (@jantonielli01):
+fake it till you make it
+22:17:08 - Leandro Echevarria (@echevarrialeandro):
+Hay tanto interesante que mantener el foco es dificil :joy:
+22:17:09 - Marcos Casagrande (@marcoscvp90):
+Con un buen nivel de inglés, con saber HTML/CSS, podés levantar bastante por mes.
+22:17:16 - Gonzalo González Mora (@gonzalogm):
+Con laburos ponele, pero con un mentoring me cago en las patas. Yo necesito que me mentoreen :joy:
+21:16:47 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>
+21:19:35 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>.
+21:20:20 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>.
+Tips sobre la plataforma, consejos para ser seleccionado, recomendarnos entre clientes, etc.
+21:24:50 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>.
+Tips sobre la plataforma, consejos para ser seleccionado, recomendarnos entre clientes, etc.
+21:27:34 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel purpose: Todo lo relacionado a <http://CodeMentor.io|CodeMentor.io>, consejos para ser seleccionado, recomendarnos entre clientes, etc.
+
+Consejos:
+ - Completar perfil a fondo
+ - Pedir revisión
+ - Usar link de referido :slightly_smiling_face:
+21:29:20 - Julian (@jantonielli01):
+Me anoté ayer creo
+21:29:35 - Julian (@jantonielli01):
+todavía no me puse a preparar el perfil
+21:29:43 - Marcos Casagrande (@marcoscvp90):
+Buenas
+21:29:55 - Marcos Casagrande (@marcoscvp90):
+Lo importante es completar el perfil a full antes de postularse.
+21:30:05 - Marcos Casagrande (@marcoscvp90):
+Podés crear la cuenta sin postularte.
+21:30:31 - Marcos Casagrande (@marcoscvp90):
+Porque una vez te rechazan cagaste. Siempre podés postularte con otro email, pero es una paja.
+21:30:44 - Julian (@jantonielli01):
+Ah, que paj, creo que me postulé
+21:30:50 - Marcos Casagrande (@marcoscvp90):
+Cual es tu perfil?
+21:31:07 - Julian (@jantonielli01):
+Dame un toque que agarro la pc
+21:37:43 - Leandro Echevarria (@echevarrialeandro):
+Excelente iniciativa el canal
+21:39:53 - imarenco (@imarenco):
+:clapping:
+21:41:53 - José Ram'rez (@jarcodallo):
+:devil_parrot:  es como workana o toptal no me queda claro 
+21:42:09 - Marcos Casagrande (@marcoscvp90):
+Buenas, ahí estoy creando un "tutorial" así lo dejo pineado.
+21:42:16 - Marcos Casagrande (@marcoscvp90):
+Ahora lo mando, y lo empiezo a editar.
+21:42:31 - Marcos Casagrande (@marcoscvp90):
+*¿Que es CodeMentor?*
+
+Plataforma para freelancers.
+
+_Siempre que se hable de precio en esta guía será en USD_
+
+*¿Qué lo diferencia de Upwork/Freelancer etc?*
+
+- Hay que pasar un filtro, en teoría entran los "mejores". Esto permite que no esté saturada de developers y empiece un bidding war bajando el precio por hora.
+- Adeḿas de trabajos freelance, la gran novedad de la plataforma es el live help. Esta es la modalidad que más plata te permite generar, y lo que más sale. Requiere conocimiento hablado del inglés. Abarca desde mentorías, a corrección de código en vivo, code review/refactor, o simplemente hacer alguna tarea específica.
+- Los clientes saben que *mínimo* van a pagar $60/h, y no es dífícil cobrar 80-100.
+
+*¿Cómo me postulo?*
+
+- Pedir link de referido a alguien que ya sea mentor (Se puede ganar hasta $100)
+- Usar mi referido aumenta las chances de entrar, ya que soy el top spanish mentor: <https://www.codementor.io?referral=marcoscasagrande-4ofsa8hnqn>
+- Lo recomendado primero es crearse un perfil en la plataforma: Sign Up
+- Completar el perfil al máximo
+- Envíar el perfil en: "Become a mentor"
+
+*¿Me pueden rechazar?*
+- *Sí*, asegurate de completar bien el perfil.
+
+*¿De qué perfiles me puedo fijar para hacerme una idea como rellenar el mío?* _Iré agregando más_
+
+- <https://www.codementor.io/marcoscasagrande>
+- <https://www.codementor.io/juanelfers>
+- <https://www.codementor.io/gabrielbarbera>
+
+*Tips para el perfil*
+- Cuenta de Stack Overflow con buenas respuestas ayuda mucho
+- Perfil de Github con buenos proyectos, actividad en algún proyecto Open Source etc.
+- Perfil de LinkedIn (Siempre en Inglés)
+- Solo cargar skills que manejás de verdad, si hiciste una vez un proyecto en el colegio en Pascal, no cargues Pascal como experiencia.
+- Armar un blog post (24 horas después del registro _antispam_ ) ayuda muchísimo. Se puede exportar de Medium.
+
+
+*¿Cuál es el valor hora recomendado al arrancar?*
+
+- 60/hr. En CM se configura cada 15 minutos, por lo cual $15/15m.
+
+*¿Es recomendado dar los 15 primeros minutos gratis para nuevos usuarios?*
+- *NO*.
+
+*¿Que medios de pago hay?*
+
+- Los que se pueden usar desde Argentina son: *Payoneer*, *Transferwise* (en EUR) y *Paypal* (No recomendado)
+- Los que tengan cuenta de Transferwise europea, pueden hacer transferencias directamente en USD, los demás *NO* o queda en el limbo. En Payoneer todos pueden recibir USD.
+
+*¿Que hago para ser featured?*
+
+- Con meter unas 12-15 sesiones en una semana, se suele alcanzar ese estado. Lo cual te destaca en los buscadores.
+
+*¿Qué es Codementor X?*
+
+- Es la parte exclusiva de la plataforma, para trabajos freelance mayores a 4000 USD. La entrevista tiene 4 etapas, si alguno es seleccionado que me pregunte y lo ayudo.
+- Link de referido: <https://hire.codementor.io?referral=marcoscasagrande-4ofsa8hnqn>
+
+*¿Puedo vivir 100% de la plataforma o sirve como un extra?*
+
+- Se puede vivir sin problemas de la plataforma, lo normal sería ganar entre 3-7 veces tu sueldo en relación de dependencia (en Argentina), aunque puede ser un gran extra si preferís la "tranquilidad" de un trabajo fijo.
+
+*¿Cuál es la comisión de la plataforma?*
+- Hay un modelo semanal de comisión, si llegás a 12 trabajos/sesiones en la semana la comisión es de 13%, retroactiva a toda la semana.
+- 1-2 jobs: 20%
+- 3-6 jobs: 18%
+- 7-11 jobs: 15%
+- 12+ jobs: 13%
+21:44:09 - Marcos Casagrande (@marcoscvp90):
+Les dejo mi link de referido mientras, por los que se quieran registrar ya, no lo hago por esto, pero bueno siempre ayuda:
+
+<https://www.codementor.io?referral=marcoscasagrande-4ofsa8hnqn>
+21:46:26 - Leandro Echevarria (@echevarrialeandro):
+Yo en algun momento de este año lo quiero hacer. Toda info del canal me va a servir
+21:51:23 - Marcos Casagrande (@marcoscvp90):
+Ahí estoy terminando ya.
+21:59:20 - Marcos Casagrande (@marcoscvp90):
+Bueno ahí dejé varias preguntas cubiertas e información general, podemos ir completandolo a medida que surjan más, así ya queda como guía.
+22:00:04 - Marcos Casagrande (@marcoscvp90):
+Si alguno tiene alguna pregunta en particular, que me pregunte. De momento somos pocos Argentinos en la plataforma, la mayoría los metí yo. #theFlippening
+22:00:44 - Marcos Casagrande (@marcoscvp90):
+¿y el por qué lo hago? Porque me saca de quisio como explotan a los programadores en Argentina, lo viví 7 años.
+22:01:03 - Julian (@jantonielli01):
+Bueno, me creé otra cuenta con tu referral
+22:01:40 - Marcos Casagrande (@marcoscvp90):
+Gracias :slightly_smiling_face:, y lo importante completá todo bien. Si tienen perfil de stackoverflow ayuda mucho, sino subir unos buenos laburos a github también.
+22:03:44 - Martín Aimar (@maimar):
+Gracias, no me quedó claro si te hacen un test para entrar 
+22:04:00 - Marcos Casagrande (@marcoscvp90):
+No hay un test, excepto para *CodementorX*
+22:04:16 - Marcos Casagrande (@marcoscvp90):
+Lo único, evalúan tu perfil, si tu perfil es bueno, te aceptan, sino no.
+22:04:45 - Martín Aimar (@maimar):
+Se puede volver a intentar si no te aceptan? 
+22:05:37 - Marcos Casagrande (@marcoscvp90):
+Creo que con la misma cuenta, 30 días desde el rechazo, sino creandote una cuenta nueva con otro email.
+22:05:51 - Leandro Echevarria (@echevarrialeandro):
+Si no tenes cosas en github porque todo lo que hiciste siempre esta privado en bitbucket, cagaste :disappointed: ?
+22:06:03 - Leandro Echevarria (@echevarrialeandro):
+Tengo que meterle a SO
+22:06:42 - Marcos Casagrande (@marcoscvp90):
+Lean, ese era mi caso. Yo entré por SO, pero podés forkear un par de proyectos, alguna lib de NPM, o por el estilo y mandar PR de algún fix.
+22:08:00 - Marcos Casagrande (@marcoscvp90):
+Pero, LinkedIn bien completo, todo en inglés ayuda muchísimo.
+22:08:27 - Leandro Echevarria (@echevarrialeandro):
+LinkedIn tengo y está en inglés, algo es algo :stuck_out_tongue:
+22:08:40 - Leandro Echevarria (@echevarrialeandro):
+Puedo revisar github estos findes o algun finde largo y mandar prs
+22:08:53 - Julian (@jantonielli01):
+Btw, yo vengo laburando hace unos meses por upwork
+22:09:03 - Julian (@jantonielli01):
+Cual preferís?
+22:09:14 - Leandro Echevarria (@echevarrialeandro):
+Pero la mayoria de mi codigo esta en repos de bitbucket privados :disappointed:
+22:09:18 - Leandro Echevarria (@echevarrialeandro):
+Porque no codeo solo
+22:09:21 - Marcos Casagrande (@marcoscvp90):
+Upwork es una cagada inmensa al lado de Codementor.
+22:09:25 - Julian (@jantonielli01):
+Venía sacando 40$ la hora ±
+22:09:41 - Marcos Casagrande (@marcoscvp90):
+Entré en ambas a la vez, el 99% de mi "sueldo", viene de Codementor.
+22:10:16 - Marcos Casagrande (@marcoscvp90):
+En upwork hay mucha bidding war, no pagan tanto, tenés pocos "connects", es muy dificil quedar, perdés más tiempo buscando laburos, que laburando.
+22:10:36 - Julian (@jantonielli01):
+Sep, eso ultimo totalmente
+22:10:40 - Marcos Casagrande (@marcoscvp90):
+En CM prácticamente es first come first served.
+22:10:58 - Marcos Casagrande (@marcoscvp90):
+Si sos rápido apenas sale un laburo, te lo quedás.
+22:11:00 - Julian (@jantonielli01):
+atm:
+&gt;&gt;&gt;11 active candidacies
+43 submitted proposals
+22:11:03 - Julian (@jantonielli01):
+lol
+22:11:15 - Marcos Casagrande (@marcoscvp90):
+Exacto, y la *comisión* de Upwork es 20%.
+22:11:30 - Leandro Echevarria (@echevarrialeandro):
+Que atrevidos
+22:11:30 - Julian (@jantonielli01):
+pero eso es los primeros 500 pe
+22:11:33 - Marcos Casagrande (@marcoscvp90):
+En CM tiene algo proresivo semanal, que es retroactiva a la semana, que bajás hasta el 13%
+22:11:37 - Julian (@jantonielli01):
+dsp es 10%
+22:11:42 - Marcos Casagrande (@marcoscvp90):
+500 USD, con el *mismo* cliente.
+22:11:51 - Julian (@jantonielli01):
+se
+22:12:02 - Marcos Casagrande (@marcoscvp90):
+O sea, con cliente nuevo, 20% de nuevo.
+22:12:22 - Marcos Casagrande (@marcoscvp90):
+En Upwork es muy dificil cobrar más de 50 la hora (después de comisiones).
+22:12:43 - Marcos Casagrande (@marcoscvp90):
+En CM, arrancás con 60/hr - 52,2 después de comision.
+22:13:11 - Leandro Echevarria (@echevarrialeandro):
+El sueño del pibe ganar 52 usd/h
+22:13:27 - Leandro Echevarria (@echevarrialeandro):
+Redondeando para abajo, 2000ARS/h
+22:14:12 - Leandro Echevarria (@echevarrialeandro):
+Con un dia de laburo liquido el alquiler+expensas+celular
+22:14:24 - Leandro Echevarria (@echevarrialeandro):
+Es una locura verlo asi
+22:15:23 - Marcos Casagrande (@marcoscvp90):
+Es así, y ocurre.
+22:15:27 - Julian (@jantonielli01):
+Por curiosidad, vivis en arg, marcos?
+22:15:33 - Marcos Casagrande (@marcoscvp90):
+Si, en Palermo.
+22:15:43 - Marcos Casagrande (@marcoscvp90):
+Vos?
+22:15:53 - Leandro Echevarria (@echevarrialeandro):
+Casi vecinos, Villa Crespo acá
+22:15:55 - Julian (@jantonielli01):
+Sep
+22:16:05 - Julian (@jantonielli01):
+Hace unos(un?) meses me volví de francia
+22:16:18 - Gonzalo González Mora (@gonzalogm):
+Algún día quiero ganar así jaja mientras tanto a seguir aprendiendo :cry:
+22:16:38 - Leandro Echevarria (@echevarrialeandro):
+Hay que darle duro todos los dias :nerd_face:
+22:16:42 - Julian (@jantonielli01):
+fake it till you make it
+22:17:08 - Leandro Echevarria (@echevarrialeandro):
+Hay tanto interesante que mantener el foco es dificil :joy:
+22:17:09 - Marcos Casagrande (@marcoscvp90):
+Con un buen nivel de inglés, con saber HTML/CSS, podés levantar bastante por mes.
+22:17:16 - Gonzalo González Mora (@gonzalogm):
+Con laburos ponele, pero con un mentoring me cago en las patas. Yo necesito que me mentoreen :joy:
+22:17:39 - Gonzalo González Mora (@gonzalogm):
+Sí, ahora estoy ganando en dólares por suerte, hago backend Node para un startup de LA
+22:17:39 - Marcos Casagrande (@marcoscvp90):
+La mayoría no son mentoring, sino son hacer cosas o resolver un bug. En vivo.
+22:17:41 - Martín Aimar (@maimar):
+pero entrás haciendo html y css no más?
+22:17:59 - Gonzalo González Mora (@gonzalogm):
+Mientras aprendo React pq vi que hay bocha de laburo de eso (antes hacía front)
+22:18:03 - Marcos Casagrande (@marcoscvp90):
+Amigo mío, diseñador convertido a front end dev hace unos 3 años.
+22:18:05 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/gabrielbarbera>
+22:18:09 - Leandro Echevarria (@echevarrialeandro):
+En vivo le suma adrenalina (odio) jaja
+22:18:41 - Julian (@jantonielli01):
+se pueden importar los posts de medium? O los copypasteo? jaj
+22:18:55 - Marcos Casagrande (@marcoscvp90):
+A ver el tema es así, si dominás muchas cosas, tenés laburo a cagar. Acá estás solo limitado por tu conocimiento. sabiendo HTML y CSS podés ganar fácilmente 1k-2k
+22:19:04 - Marcos Casagrande (@marcoscvp90):
+En pocas horas, porque cobrás 60/h
+22:19:16 - Gonzalo González Mora (@gonzalogm):
+Claro
+22:19:17 - Martín Aimar (@maimar):
+yo necesito un mentor para mejorar mis perfiles :confused:
+22:19:26 - Leandro Echevarria (@echevarrialeandro):
+Niceee
+22:19:34 - Julian (@jantonielli01):
+te mentoreo por 60$ la hora
+22:19:42 - Marcos Casagrande (@marcoscvp90):
+A ver, con 2 monitores se resuelve todo en Stack Overflow, no hace falta saber todo, sino saber buscarlo.
+22:19:54 - Marcos Casagrande (@marcoscvp90):
+Es fundamental tener 2 monitores, eso si.
+22:20:23 - Julian (@jantonielli01):
+Por?
+22:20:26 - Martín Aimar (@maimar):
+para el vivo?
+22:21:26 - Marcos Casagrande (@marcoscvp90):
+Porque en el vivo, generalmente es por Zoom, control remoteando al cliente. Si tenés el segundo monitor libre para hacer búsquedas en google, el 50% de las sesiones las sacás así.
+22:21:42 - Martín Aimar (@maimar):
+como labura uno digamos jaja
+22:21:43 - Leandro Echevarria (@echevarrialeandro):
+Awesome tip
+22:21:49 - Leandro Echevarria (@echevarrialeandro):
+Claro, no sale de un laburo real jaja
+22:22:24 - Leandro Echevarria (@echevarrialeandro):
+Tengo que hacer memoria a los proyectos que hice en software factories, para poner los links directos
+22:22:27 - Marcos Casagrande (@marcoscvp90):
+Ojo, no es que no podes saber nada y hacer todo por google. La tenes que tener clara. Pero siempre una búsqueda te ayuda. 
+22:23:02 - Marcos Casagrande (@marcoscvp90):
+Y por eso un doble monitor ayuda bastante. Y también para pelotudear. Yo leo el diario mientras el flaco me habla. 
+22:23:12 - Gonzalo González Mora (@gonzalogm):
+jajaja
+22:23:16 - Leandro Echevarria (@echevarrialeandro):
+Trucazo
+22:23:40 - Leandro Echevarria (@echevarrialeandro):
+Clara como para decirme experto estoy lejos, pero empujo lo que haya que empujar.
+22:23:47 - Marcos Casagrande (@marcoscvp90):
+ Para los nuevos, deje pineado mucha info. 
+22:23:50 - Leandro Echevarria (@echevarrialeandro):
+Por eso con calma este año tengo ganas de subirme al freelo world
+22:24:14 - Julian (@jantonielli01):
+<@U7MP5R4MC> set the channel topic: LEER: <https://meetupjs.slack.com/archives/CGY85V6BU/p1552524151008000>
+22:26:56 - Martín Aimar (@maimar):
+actualmente estoy haciendo code reviews en mi equipo, tengo que corregir bastante y siempre entienden por qué los corrijo, pero si es por mis perfiles no entro ni a palos ahí
+22:27:02 - Martín Aimar (@maimar):
+mi cuenta de github es como un terreno baldío
+22:27:26 - Leandro Echevarria (@echevarrialeandro):
+La mia igual, tiene los puntitos verdes pero por contribuciones a repos privados la gran mayoria
+22:28:05 - Marcos Casagrande (@marcoscvp90):
+Les digo la verdad, no hace falta cuenta de github. 
+22:28:06 - Martín Aimar (@maimar):
+creo que hay manera de mostrar la data anonimizando los repos privados igual
+22:28:39 - Marcos Casagrande (@marcoscvp90):
+Uno de los perfiles que está ahi, el de Gabriel. No tiene SO ni github (vacios). Entro por el perfil rellenado de CM y LinkedIn
+22:29:23 - Marcos Casagrande (@marcoscvp90):
+Y los que usan mi referido suelen entrar. 
+22:29:45 - Marcos Casagrande (@marcoscvp90):
+Pero amigos que se postularon por su cuenta, entro 1/7
+22:29:59 - Marcos Casagrande (@marcoscvp90):
+Referidos 5/6
+22:30:01 - Leandro Echevarria (@echevarrialeandro):
+Pienso que debe ayudar mucho
+22:31:49 - Mariano Ramonda (@ing.inf.mariano):
+Hola Marcos, tengo algunas consultas para hacerte ya que te veo con tanta buena onda para explicar
+22:32:09 - Marcos Casagrande (@marcoscvp90):
+Pregunte nomas 
+22:32:46 - Mariano Ramonda (@ing.inf.mariano):
+en mi caso me parece muy interesante esto siempre y cuando sea factible hacerlo a la par de mi laburo actual
+22:33:20 - Mariano Ramonda (@ing.inf.mariano):
+cuánto crees que es el mínimo que hay que dedicarle por semana para que tu perfil se mantenga interesante
+22:33:21 - Mariano Ramonda (@ing.inf.mariano):
+?
+22:33:32 - Mariano Ramonda (@ing.inf.mariano):
+mi cuestión es el tiempo
+22:33:41 - Marcos Casagrande (@marcoscvp90):
+Mirá, Gabriel Barbera (Link que puse ahí). No renunció aún, lleva 2 meses compaginando.
+22:33:54 - Mariano Ramonda (@ing.inf.mariano):
+en varias techs me considero senior, y con inglés estoy bien para esto
+22:33:57 - Marcos Casagrande (@marcoscvp90):
+No renunció no por plata, porque ya hace más plata en CM que en su laburo, pero porque tiene una hija recién nacida, y quiere asegurarse.
+22:34:14 - Marcos Casagrande (@marcoscvp90):
+Yo arranqué 2 semanas antes de renunciar, dedicandole 4 horas diarias.
+22:34:25 - Mariano Ramonda (@ing.inf.mariano):
+yo tengo 2 hijos muy chicos y uno más en camino, estoy en esa
+22:34:29 - Marcos Casagrande (@marcoscvp90):
+En esas 4 horas, en 2 semanas, hice el doble de mi sueldo full time en relación de dependencia.
+22:34:51 - Marcos Casagrande (@marcoscvp90):
+Ahí dije, basta chicos _insert gif here_
+22:35:02 - Mariano Ramonda (@ing.inf.mariano):
+jajjaaja
+22:35:18 - Marcos Casagrande (@marcoscvp90):
+Si estás pendiente en el laburo, de alguna request que sale para pasarla a la noche o agarrar laburos freelance, no hay problema en compaginar.
+22:35:46 - Mariano Ramonda (@ing.inf.mariano):
+yo laburo remoto para SF, el horario me es super flexible
+22:35:51 - Marcos Casagrande (@marcoscvp90):
+Tengo que decir, que laburos freelance es lo que menos sale.
+22:36:12 - Marcos Casagrande (@marcoscvp90):
+Si laburás remoto, entonces hasta podés tener sesiones... Vos estás en el mejor escenario.
+22:36:22 - Mariano Ramonda (@ing.inf.mariano):
+me parece interesante por la variedad de cuestiones a resolver, un laburo fijo, para un producto único se vuelve monónoto
+22:36:49 - Marcos Casagrande (@marcoscvp90):
+Ojo, no digo que uses tiempo de tu laburo para CM (que podrías), pero podés atender sesiones, y después recuperar ese tiempo.
+22:37:37 - Mariano Ramonda (@ing.inf.mariano):
+es que siendo flexible mi horario actual, si puedo tomar sesiones en cualquier momento (menos en las 3 standups semanales, que no son nada)
+22:37:44 - Marcos Casagrande (@marcoscvp90):
+Y algo importante para todos los nuevos, al principio no te conoce nadie, entonces tenés que pelearla por todos los laburos. Hasta que tengas suficiente reputación. Ahí ya empieza otra etapa, en la cual los laburos vienen a vos.
+22:38:05 - Mariano Ramonda (@ing.inf.mariano):
+_as always_
+22:38:31 - Mariano Ramonda (@ing.inf.mariano):
+si haces agua en los laburos iniciales qué pasa?
+22:38:56 - Marcos Casagrande (@marcoscvp90):
+No te conviene tener mala reputación, así que hacés un refund, y el rating del usuario desaparece.
+22:39:13 - Gonzalo González Mora (@gonzalogm):
+Maravillosa jugada
+22:39:15 - Mariano Ramonda (@ing.inf.mariano):
+ahh es excelente
+22:39:22 - Martín Aimar (@maimar):
+posta, devolvés la plata y listo?
+22:39:27 - Mariano Ramonda (@ing.inf.mariano):
+todos contentos
+22:39:29 - Marcos Casagrande (@marcoscvp90):
+Y creeme que te conviene hacer refund, si no tenés 5 estrellas, fuiste. Incluso creo que si sos muy choto te sacan la cuenta.
+22:39:43 - Marcos Casagrande (@marcoscvp90):
+Si, una vez hacés un refund, automáticamente el review positivo o negativo desaparece.
+22:40:10 - Marcos Casagrande (@marcoscvp90):
+Y por las dudas, nunca me pusieron un review negativo solo para que le haga un refund.
+22:40:31 - Martín Aimar (@maimar):
+o sea cobrás antes de hacer el laburo?
+22:40:40 - Marcos Casagrande (@marcoscvp90):
+Los pocos refund que hice, fue porque arrancó la sesión y a los 2 minutos me di cuenta que el flaco quería otra cosa en realidad. Y es mejor cortar por los sano y no perder tiempo.
+22:41:06 - Marcos Casagrande (@marcoscvp90):
+No, cuando arranca la sesión, hay un timer. Cuando la sesión termina, se le cobra al cliente los USD correspondientes a ese timer.
+22:41:27 - Marcos Casagrande (@marcoscvp90):
+a 15/15 que es la tarifa inicial, es básicamente 1 usd el minuto, pero los primeros 1-15 minutos son 15 minutos siempre.
+22:41:45 - Marcos Casagrande (@marcoscvp90):
+Así que solucionar un punto y coma, son 15 dólares en 1 minuto (pasa bastante seguido)
+22:41:52 - Mariano Ramonda (@ing.inf.mariano):
+otra, cuánto suele durar una sesión aproooximadamente?
+22:42:07 - Martín Aimar (@maimar):
+y el tipo no puede decir que te llevó una hora pero te debería haber llevado menos?
+22:42:17 - Marcos Casagrande (@marcoscvp90):
+Depende, al principio las sesiones para mi eran de 15-30 minutos de media, ahora tengo una media de 50-70 minutos.
+22:42:33 - Marcos Casagrande (@marcoscvp90):
+Nunca me pasó Martin, porque nunca hice tiempo.
+22:43:03 - Marcos Casagrande (@marcoscvp90):
+Y tengo casi 597 sesiones, nunca tuve ningún problema.
+22:43:13 - Marcos Casagrande (@marcoscvp90):
+Solo 1 cliente hijo de puta, pero gané el reclamo.
+22:43:32 - Martín Aimar (@maimar):
+si claro, uno no va a hacer tiempo porque sí, pero alguna que otra vez pasó que tenés el bug adelante tuyo y por algún motivo no lo ves
+22:44:43 - Leandro Echevarria (@echevarrialeandro):
+Nunca nos vamos a salvar de los hdp
+22:44:53 - Leandro Echevarria (@echevarrialeandro):
+O venis re quemado
+22:45:05 - Martín Aimar (@maimar):
+pero bueno what’s the catch? es todo demasiado bueno
+22:45:19 - Julian (@jantonielli01):
+que deben rechazar manda de perfiles
+22:45:49 - Marcos Casagrande (@marcoscvp90):
+Les voy a mandar una foto, que parece surrealista, pero representa 100% lo que es la plataforma.
+22:46:17 - Marcos Casagrande (@marcoscvp90):
+Un cliente con el que más sesiones tuve, cuando aumenté mi tarifa, a el le mantuve la anterior, y me pidio por favor que se la aumente.
+22:46:25 - Leandro Echevarria (@echevarrialeandro):
+Hasta no hacer mis primeros 20 dolares ahi no voy a creer nada (?)
+22:47:04 - Marcos Casagrande (@marcoscvp90):
+Martín, no hay catch, es honestamente todo muy bueno.
+22:47:29 - Marcos Casagrande (@marcoscvp90):
+El 98% de los clientes es gente copada, dispuesta a pagar por solucionar su problema, si se lo solucionás, no importa el tiempo, va a estar contento.
+22:47:48 - Marcos Casagrande (@marcoscvp90):
+Y no dije lo mejor, te dejan *propina*
+22:48:01 - Martín Aimar (@maimar):
+solamente le conocí un sueldo así a un doctor en biotecnología que trabajaba en la industria farmacéutica clonando vacas para producir insulina
+22:48:40 - Gonzalo González Mora (@gonzalogm):
+El “catch” supongo es que entra sólo gente que la tiene clara, entonces no tenés que andar luchando con gente que te compite tirando el hourly rate para abajo y por eso se puede cobrar bien
+22:48:42 - Marcos Casagrande (@marcoscvp90):
+Si querés algo negativo, a veces laburás a las 9 de la noche, a veces a las 3 de la tarde, etc.
+22:48:58 - Marcos Casagrande (@marcoscvp90):
+Pero para mi no es negativo, porque si no laburo en todo el día, no me jode laburar a las 9.
+22:49:14 - Marcos Casagrande (@marcoscvp90):
+Así como no me importa laburar un sábado, si no laburé lunes o martes.
+22:50:02 - Marcos Casagrande (@marcoscvp90):
+y se paga todas las semanas, lo cual está bastante bien. No hay que esperar a fin de mes.
+22:50:38 - Marcos Casagrande (@marcoscvp90):
+A ver, yo sé que parece que soy un testigo de Jehová, pero es todo real.
+22:51:01 - Gabriel Dominguez (@gabidominguez):
+Marcos, cómo te encontramos en LinkedIn? Asi vemos tu perfil y podemos usarlo de referencia
+22:51:32 - Mariano Ramonda (@ing.inf.mariano):
+no es tan loco ese rate muchachos
+22:51:35 - Marcos Casagrande (@marcoscvp90):
+No sé si sirve de referencia, porque yo no envíe mi LinkedIn para entrar, y nunca le di bola.
+22:51:47 - Mariano Ramonda (@ing.inf.mariano):
+toptal por ejemplo, al cliente le cobra el doble de lo que cobra el dev
+22:51:49 - Marcos Casagrande (@marcoscvp90):
+Exacto Mariano, es normal, de hecho varios clientes pagan 100,120,150.
+22:52:00 - Mariano Ramonda (@ing.inf.mariano):
+y no es nada raro un dev cobrando U$D40 /h en toptal
+22:52:12 - Julian (@jantonielli01):
+Bueno, paso mi perfil por aca para que lo critiquen publicamente: <https://www.codementor.io/julianantonielli>
+22:52:21 - Martín Aimar (@maimar):
+en argentina claramente no es lo normal
+22:52:30 - Martín Aimar (@maimar):
+y en venezuela son varios sueldos mínimos en una hora
+22:52:36 - Marcos Casagrande (@marcoscvp90):
+De hecho la gente poné su rate cuando hace una request: 60, 80, 120, 200 hr.
+22:52:54 - Marcos Casagrande (@marcoscvp90):
+<https://www.linkedin.com/in/marcos-casagrande-90a4a748/>
+22:52:59 - Mariano Ramonda (@ing.inf.mariano):
+hay que dejar de compara con latam
+22:53:10 - Marcos Casagrande (@marcoscvp90):
+Acá lo dejo, pero es más importante mi perfil de CM, me postulé sin LinkedIn yo, y nunca lo usé.
+22:53:13 - Mariano Ramonda (@ing.inf.mariano):
+empezar a aprender los rates que se manejan _allá_
+22:53:40 - Marcos Casagrande (@marcoscvp90):
+Exacto, el sueldo base es 60, si le piden un descuento, yo directamente le digo, no. Te vas vos, tengo 5 en fila.
+22:53:49 - Gabriel Dominguez (@gabidominguez):
+Vamos directo a CM entonces, gracias!
+22:53:50 - Marcos Casagrande (@marcoscvp90):
+Y te dicen "okay, let's do it"
+22:54:29 - Marcos Casagrande (@marcoscvp90):
+Está bien, te falta completar info en los lenguajes, al menos en los que más sepas.
+22:55:11 - Julian (@jantonielli01):
+Lenguajes as in English? Eso lo puse
+22:55:20 - Julian (@jantonielli01):
+Ah, lo de expertise jaj
+22:55:21 - Marcos Casagrande (@marcoscvp90):
+No no, a las skills me refería.
+22:55:28 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/marcoscasagrande>
+22:55:41 - Marcos Casagrande (@marcoscvp90):
+Fijate en el mio, que en Node, javascript, Server tengo info agregada, eso suma mucho
+22:56:17 - Julian (@jantonielli01):
+Dale, gracias. Desp de eso decís q ya aplique?
+22:56:42 - Julian (@jantonielli01):
+uh ya son las 3 y tengo un vuelo a la mañana lmao
+22:56:45 - Marcos Casagrande (@marcoscvp90):
+Otra cosa que *suma mucho*, es si escriben un blog post ahí en su perfil de Codementor, si tienen alguno escrito en Medium o lo que sea, lo pueden cargar.
+22:56:46 - Mariano Ramonda (@ing.inf.mariano):
+bueno, cuando encuentre la manera de hacerme el tiempo arranco
+22:57:33 - Mariano Ramonda (@ing.inf.mariano):
+alta incorporación a este Slack vos <@UGQTUDQSG>! :clap:
+22:57:47 - Mariano Ramonda (@ing.inf.mariano):
+entiendo el espíritu que te mueve
+22:58:04 - Julian (@jantonielli01):
+2 cosas btw de los posts
+- No les deja postear si su cuenta tiene menos de 24hs (no tira un error ni nada la verga, tuev q verlo por consola)
+- Si cargas las cosas de medium revisalo un toque antes porque la manquea todo ocn el formato
+22:58:18 - Mariano Ramonda (@ing.inf.mariano):
+estoy mentoreando a un amigo, no veo la hora de que arranque a laburar y haga un carrerón como estoy seguro que va a hacer
+22:59:10 - Marcos Casagrande (@marcoscvp90):
+Mil gracias Mariano! No lo conocía la verdad, mucho stack overflow, poco lo demás :joy:
+23:00:12 - Julian (@jantonielli01):
+vi que te gustan cosas de ethereum y eso
+23:00:18 - Julian (@jantonielli01):
+conoces a los pibes de voltaire?
+23:00:28 - Mariano Ramonda (@ing.inf.mariano):
+se puede saber cómo llegaste acá?
+23:01:21 - Marcos Casagrande (@marcoscvp90):
+Honestamente no, no conozco a nadie acá de Blockchain.
+23:01:42 - Marcos Casagrande (@marcoscvp90):
+Pero meto bastantes laburos con Ethereum, sobretodo integraciones hacia Smart Contracts y Web3
+23:02:00 - Marcos Casagrande (@marcoscvp90):
+No sale mucho en CM de eso, pero lo que sale la mayoría me escribe a mi, ya que en el listado de mentors, somos 2 gatos locos.
+23:02:27 - Marcos Casagrande (@marcoscvp90):
+Si, después de eso mandate. Si tenías un blog post listo para publicar, vale la pena esperar al anti spam ese de 24 horas.
+23:03:40 - Mariano Ramonda (@ing.inf.mariano):
+un detalle, este Slack es free tier, o sea, todo esto se va a autodestruir en 5 minutos (alguna vez, dentro de no mucho)
+23:03:46 - Marcos Casagrande (@marcoscvp90):
+Creo que por Burger.js, iba a ir a un meetup, pero me enfermé y no fui y vi el slack.
+23:04:01 - Julian (@jantonielli01):
+Ah, está piola, hay 2 startups bastante conocidas, <https://zeppelin.solutions/> y <https://decentraland.org/>
+23:04:01 - Marcos Casagrande (@marcoscvp90):
+El Pinned, me imagino que no no?
+23:04:15 - Julian (@jantonielli01):
+los primeros son re grosos en auditorias de smart contracts y los otros levantaron 25M lol
+23:04:29 - Gonzalo González Mora (@gonzalogm):
+El pinned no se pierde
+23:04:31 - Marcos Casagrande (@marcoscvp90):
+Si, decentraland la conocía, de hecho tuve que hacer un desarrollo en esa plataforma.
+23:04:41 - Marcos Casagrande (@marcoscvp90):
+_pin all the things_
+23:05:13 - Julian (@jantonielli01):
+de ultima metelo en un gist
+23:05:16 - Julian (@jantonielli01):
+y listo
+23:05:25 - Julian (@jantonielli01):
+De one brotha
+23:05:31 - Marcos Casagrande (@marcoscvp90):
+Igual toda la info importante la metí en el pinned
+23:06:21 - Julian (@jantonielli01):
+bueno me fui a dormir; saludos muchachos
+23:06:27 - Marcos Casagrande (@marcoscvp90):
+Saludos
+23:06:48 - Mariano Ramonda (@ing.inf.mariano):
+ya me estoy creando el perfil jaja
+23:06:52 - Mariano Ramonda (@ing.inf.mariano):
+me embalaste
+23:06:58 - Marcos Casagrande (@marcoscvp90):
+jajaja, la verdad es un viaje de ida.
+23:07:11 - Mariano Ramonda (@ing.inf.mariano):
+el rate de 80/100 es lo interesante
+23:07:22 - Mariano Ramonda (@ing.inf.mariano):
+no digo que 60 no
+23:07:32 - Marcos Casagrande (@marcoscvp90):
+Si, al principio no lo recomiendo, pero a partir de las 200 sesiones, nadie lo mira 2 veces.
+23:07:42 - Marcos Casagrande (@marcoscvp90):
+Yo no perdí ningún cliente de 60 &gt; 80.
+23:07:42 - Mariano Ramonda (@ing.inf.mariano):
+pero 80/100 habilita otras cuestiones
+23:07:55 - Mariano Ramonda (@ing.inf.mariano):
+ni hablar que hay que empezar tranqui
+23:07:57 - Marcos Casagrande (@marcoscvp90):
+y dato interesante, se puede poner rate privado por cliente.
+23:08:05 - Marcos Casagrande (@marcoscvp90):
+ENtonces yo tengo un par de clientes en 100-120.
+23:08:12 - Marcos Casagrande (@marcoscvp90):
+Porque yo sé que ellos pagan hasta 160.
+23:08:23 - Mariano Ramonda (@ing.inf.mariano):
+como en todo laburo siempre hay que entender que hay un tiempo inicial para acomodarse en todos los sentidos
+23:08:52 - Mariano Ramonda (@ing.inf.mariano):
+por lo que veo en tu linked estas desde agosto del año pasado
+23:08:57 - Marcos Casagrande (@marcoscvp90):
+Claro, igual 60 de rate inicial, es alto rate inicial, cualquier que salga de un laburo en relación de dependencia, es 5-10 veces su rate actual.
+23:09:17 - Marcos Casagrande (@marcoscvp90):
+En noviembre me aumenté la tarifa.
+23:09:31 - Mariano Ramonda (@ing.inf.mariano):
+jajaj no perdes el tiempo, esa es la actitud
+23:10:38 - Marcos Casagrande (@marcoscvp90):
+Los que arrancan al principio, pueden setearse 10/15 (40/hr) para sumar laburos, pero la verdad no hace falta.
+23:10:56 - Marcos Casagrande (@marcoscvp90):
+Ya que el cliente, como budget mínimo puede crear a partir de 60/hr
+23:11:12 - Mariano Ramonda (@ing.inf.mariano):
+ahh mirá, podes bajar de los 60/h entonces
+23:11:19 - Mariano Ramonda (@ing.inf.mariano):
+no habilita eso a una rate war?
+23:11:22 - a0viedo (@a0viedo):
+ya estamos guardando canales del slack pero es on-demand...voy a agregar este a la lista
+23:12:01 - Marcos Casagrande (@marcoscvp90):
+No, porque todos los que están acá, quieren ganar más, y nunca perdí un laburo contra alguien de 40.
+23:12:14 - Marcos Casagrande (@marcoscvp90):
+La gente prefiere pagar más por buena calidad. Por eso me gusta CM.
+23:13:15 - Marcos Casagrande (@marcoscvp90):
+El 60% de la plataforma o más tiene 60/hr, y la verdad cuando aumenté, no perdí flujo de trabajo, lo cual indica que no hay mucha necesidad de cobrar 40/hr. Ganarás algún cliente, pero seguro que perdés otros.
+23:15:27 - Mariano Ramonda (@ing.inf.mariano):
+claro, esa es la filosofía de CM
+23:18:10 - Martín Aimar (@maimar):
+me pasó como a julián, me tira `reason: "user can't publish article unless signup more than 24 hours"` en la consola pero cero feedback en el sitio
+23:18:27 - Marcos Casagrande (@marcoscvp90):
+Es un sitio para developers :joy:
+23:18:39 - Marcos Casagrande (@marcoscvp90):
+La verdad la interfaz, se puede mejorar, ese sería el lado negativo de la plataforma.
+23:18:45 - Martín Aimar (@maimar):
+brb les voy a ofrecer mentorship
+23:21:15 - Martín Aimar (@maimar):
+me mata que me tiró http error status 409
+23:21:17 - Martín Aimar (@maimar):
+se nota que son devs
+23:21:54 - Marcos Casagrande (@marcoscvp90):
+:joy:  rara vez se suele ver implementado el 409
+23:33:17 - Mariano Ramonda (@ing.inf.mariano):
+para cerrar, qué tipo de gente acude a CM cómo clientes?
+23:33:26 - Leandro Echevarria (@echevarrialeandro):
+Jajaj yo lo tengo en una de las apps del laburo, cuando hay data repetida y no se puede crear un recurso nuevo
+23:34:44 - Marcos Casagrande (@marcoscvp90):
+Hay bastantes estudiantes, mucho "emprendedor" que está desarrollando su app él (Sin mucho conocimiento, y pide ayuda), o dueños de empresas que no tienen departamento de software.
+23:35:29 - Marcos Casagrande (@marcoscvp90):
+Y después están varios mal llamados desarrolladores freelance (muchos indios) que le venden cosas a sus clientes que no saben hacer, y vos las arreglás.
+23:36:11 - Marcos Casagrande (@marcoscvp90):
+Y por último, devs que la empresa les da una cuenta para resolver asuntos del día a día, o code review etc.
+23:38:49 - Mariano Ramonda (@ing.inf.mariano):
+makes sense
+23:39:07 - Mariano Ramonda (@ing.inf.mariano):
+gracias, me voy al sobre, la seguimos pronto!
+23:48:38 - Martín Aimar (@maimar):
+<https://www.codementor.io/martnaimar>
+23:48:41 - Martín Aimar (@maimar):
+no me carguen loco
+23:50:26 - Marcos Casagrande (@marcoscvp90):
+Te recomiendo cargar PHP como skill, ḿas que Laravel 5.
+23:50:37 - Marcos Casagrande (@marcoscvp90):
+Y adentro de PHP, Laravel 5, CodeIgniter como tags.
+23:52:52 - Martín Aimar (@maimar):
+copado, así puedo poner más cosas
+23:53:06 - Marcos Casagrande (@marcoscvp90):
+Y después si no me equivoco, hay un tag, de `HTML/CSS`
+23:53:16 - Marcos Casagrande (@marcoscvp90):
+en lugar de HTML5, y meté HTML5 como tag adentro de este.
+23:53:25 - Martín Aimar (@maimar):
+voy a poner hasta jquery
+23:53:39 - Marcos Casagrande (@marcoscvp90):
+Obviamente sabiendo vue.js, sabés Javascript.
+23:54:01 - Marcos Casagrande (@marcoscvp90):
+Así que diría que cargues javascript también, en Vue.js lo podés dejar afuera de Javascript como destacado.
+23:54:10 - Marcos Casagrande (@marcoscvp90):
+Y jQuery lo metería adentro de Javascript.
+23:54:29 - Marcos Casagrande (@marcoscvp90):
+Btw, hay *bastante* laburo de Vue.js
+23:55:21 - Martín Aimar (@maimar):
+se nota que es una buena plataforma
+00:03:02 - Marcos Casagrande (@marcoscvp90):
+Y ya que estamos, si alguno la tiene clara con Angular 6, tengo un cliente que está buscando para hacer unos ajustes a un dashboard.
+00:04:25 - Martín Aimar (@maimar):
+bueno quería usar este tiempo antes de irme a dormir parar hacer un freelo pero estuve haciendo el perfil :face_with_hand_over_mouth:
+00:04:27 - Martín Aimar (@maimar):
+gracias Marcos
+00:04:41 - Marcos Casagrande (@marcoscvp90):
+De nada!
+00:05:06 - Martín Aimar (@maimar):
+no vi, hay un botón para enviar esto después?
+00:05:24 - Marcos Casagrande (@marcoscvp90):
+Hay un botón en el home, que dice: "Become a mentor" o algo así.
+00:06:16 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/mentor/apply>
+00:07:06 - Martín Aimar (@maimar):
+ahh debe ser que no hice la sesión de prueba quizás
+00:07:36 - Marcos Casagrande (@marcoscvp90):
+No, no creo. Eso es onda tutorial cuando creas tu perfil, no es necesario.
+00:08:32 - Martín Aimar (@maimar):
+estoy muy quemado igual y como que en seis horas me tengo que despertar
+00:08:43 - Martín Aimar (@maimar):
+voy a seguirla mañana
+08:39:51 - Rodrigo Ali (@rodrigojali):
+Faaaaaaaaaaaaa 9 años de experiencia. Estoy tan lejos jajaja, en un momento pensé hacerme un perfil hasta que vi la experiencia que tienen y se me pasó jajaja.
+08:44:50 - Martín Aimar (@maimar):
+uso la compu desde muy chico, más o menos a los 25 me hinché los huevos de mi laburo de oficina y me puse a freelancear, sabía programar pero no sabía nada de web en ese momento
+09:00:04 - Marcos Casagrande (@marcoscvp90):
+No have falta tener tantos años de experiencia. Si te fijás en el perfil de Gabriel, el lleva 3-4 años programando, era diseñador gráfico. Definitivamente no es la plataforma para un junior. Pero un buen semi no tendría problemas. 
+11:55:51 - Gabriel Fusca (@gfuscax):
+<@UGQTUDQSG> gracias por la predisposición y los tips que vas tirando. Estoy generando mi perfil para ver si puedo dedicar algunas horas a laburar freelance. Les paso mi perfil para que puedan chusmearlo y me tiren algunos tips para poder mejorarlo antes de mandarlo
+<https://www.codementor.io/gabrielfusca>
+11:56:28 - Julian (@jantonielli01):
+Tenes un par de typos en la bio
+11:56:51 - Gabriel Fusca (@gfuscax):
+Intente linkear el perfil de linkedin pero no aparece
+11:56:59 - Gabriel Fusca (@gfuscax):
+Gracias <@U7MP5R4MC> lo reviso
+11:57:15 - Martín Aimar (@maimar):
+a mi me pasó lo mismo con lo de linkedin
+12:01:21 - Marcos Casagrande (@marcoscvp90):
+De nada <@UDKLD5LF7> termino una call y te comento. El tema del referido es importante para entrar, por si no lo usaste.
+12:01:44 - Marcos Casagrande (@marcoscvp90):
+Creo que LinkedIn se vincula solo, si usás el oAuth the LinkedIn
+12:01:56 - Gabriel Fusca (@gfuscax):
+sisi tranca, creo haber apretado en el link de referido que mandaste
+12:02:12 - Marcos Casagrande (@marcoscvp90):
+Sino tenés que ir a tu perfil, darle "Edit"
+12:02:24 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/7BCbpks.png>
+12:02:28 - Marcos Casagrande (@marcoscvp90):
+Y te sale algo así, ahí lo vinculás.
+12:03:07 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/cWzLUrs.png>
+12:03:09 - Marcos Casagrande (@marcoscvp90):
+ese "edit"
+12:03:50 - Gabriel Fusca (@gfuscax):
+sisi le di pero no termina de vincular linkedin
+12:04:49 - Marcos Casagrande (@marcoscvp90):
+Como ves, yo no lo tengo vinculado, así que más que esto no puedo ayudarte.
+12:06:35 - Gabriel Fusca (@gfuscax):
+claro
+12:07:12 - Gabriel Fusca (@gfuscax):
+puse el link en la bio
+12:07:15 - Gabriel Fusca (@gfuscax):
+:troll:
+12:28:22 - Julian (@jantonielli01):
+bueno ahí apliqué
+12:28:43 - Julian (@jantonielli01):
+no encuentro donde ver mi application status
+12:29:02 - Marcos Casagrande (@marcoscvp90):
+no hay application status
+12:29:06 - Marcos Casagrande (@marcoscvp90):
+te llega un mail o no te llega.
+12:29:25 - Julian (@jantonielli01):
+huh
+12:29:29 - Gonzalo González Mora (@gonzalogm):
+Cómo es el tema, vos te ofrecés a los laburos y tmb te pueden invitar?
+12:29:33 - Julian (@jantonielli01):
+es medio verga la pagina
+12:30:37 - Martín Aimar (@maimar):
+yo no encontré dónde aplicar si no es por el link que pasó Marcos, quizás esto no es para mi :disappointed:
+12:32:50 - Marcos Casagrande (@marcoscvp90):
+Si, en ese sentido es una cagada, le falta un poco de UX
+12:33:15 - Marcos Casagrande (@marcoscvp90):
+Pero como es algo que solo se hace una vez, da igual
+12:34:14 - Julian (@jantonielli01):
+Cuanto tardan +/- en contestar?
+12:35:39 - Marcos Casagrande (@marcoscvp90):
+suele ser 1 semana.
+12:36:54 - Marcos Casagrande (@marcoscvp90):
+Estuvieron de vacaciones hace 1 semana, así que quizás tienen un backlog
+12:37:07 - Martín Aimar (@maimar):
+son un par de flacos?
+12:42:52 - Leandro Echevarria (@echevarrialeandro):
+Dictadura(?
+12:53:09 - Luis Alvarez (@luistensai):
+yo quiero que un amigo también arranque a laburar de desarrollador, hicimos la escuela técnica y él era muy bueno en los talleres, pero nunca se dedicó a esto por inseguridad/miedo.
+lo mandé a leer algunos tutos de js/css y html, pero no sé cómo hacer que consiga sus primeros pasos como freelancer
+estoy pensando armar un par de blog posts al respecto, se te ocurre además de cosas de js, css, html, sql y git básicas podría llegar a poner?
+12:55:30 - Marcos Casagrande (@marcoscvp90):
+No son un par. Pero no son más de 10.
+13:00:46 - Marcos Casagrande (@marcoscvp90):
+Hay un listado de requests de los usuarios (mentees) te postulas/mensaje al flaco. Y si esta de acuerdo arrancan una sesión/laburo freelance. También hay un buscador de mentors y cuando tenes reputación te escriben directamente. 
+13:09:23 - Luis Alvarez (@luistensai):
+es excelente la información que compartís, muchas gracias Marcos!
+las demandas suelen ser aleatorias? digo, sobre cualquier tecnología/stack? algún tip para enfocarnos en alguna en particular?
+13:12:38 - Gonza Espeche (@espeche.g):
+Gran canal Marcos, gracias por la iniciativa y toda la data que nos compartís :clap:.
+Cual pensas que serían los requerimientos mínimos recomendables que uno debería tener para postularse? Con 1 año de experiencia en Javascript y a fuerza de refunds se puede ir armando un profile respetable?
+13:26:22 - Marcos Casagrande (@marcoscvp90):
+De nada a ambos. Respecto a tecnologías, lo que más sale es Python/Java/Javascript (sin ningún orden en particular) y después mucho de PHP/HTML/CSS. Lo típico. Obviamente yo no veo las requests que no están en mis skills, así que sobre otros lenguajes no puedo decirte si salen mucho o no. 
+13:27:56 - Marcos Casagrande (@marcoscvp90):
+Y sobre la experiencia, depende de cada uno. Hay gente que en un año es muy capaz y otros no tanto. Yo creo que es más para semiseniors/seniors. Ya que el junior no le va a salir rentable. Y si solo haces refunds, yo diría que te sacan de la plataforma. 
+13:28:53 - Marcos Casagrande (@marcoscvp90):
+Si es un junior que sobre un tema particular puede responder y ayudar bastante y solo se enfoca en eso, si podría ir armando el perfil, suponiendo que consiga entrar. Pero a no ser que mientas con un año de experiencia no creo que te acepten. 
+13:29:11 - Gonzalo González Mora (@gonzalogm):
+Genial, gracias!
+13:30:41 - Marcos Casagrande (@marcoscvp90):
+Es una obviedad lo que voy a decir, pero los seniors de verdad le van a sacar mucho jugo sin problemas. Los semis tendrán que remarla un poco más y el junior no debería estar en la plataforma. Ya que por lo general son devs juniors los que buscan ayuda en la plataforma y esperan ayuda de un senior o semi. 
+13:33:16 - Gonza Espeche (@espeche.g):
+Claro. Está perfecto el filtro que hacen, si no a la larga terminan siendo igual que las otras plataformas de freelance.
+13:34:58 - Marcos Casagrande (@marcoscvp90):
+Si alguno es Junior acá, el consejo que le doy, es que haga un intensivo un año entero respirando código y aprendiendo inglés. Con 2 años de experiencia en una tecnología si sos capaz no tendrías problemas. 
+13:36:16 - Marcos Casagrande (@marcoscvp90):
+Y que se centre en algo, que no intente aprender diez mil cosas en un año. Dominando una tecnología muy bien, tenes trabajo de sobra en CM. Ya sea Node.js, React, Vue, Python o lo que sea. 
+13:43:58 - Luis Alvarez (@luistensai):
+genio! gracias!
+15:01:23 - Martín Aimar (@maimar):
+hice login con google y ahora no puedo cambiar el username porque no tengo password -_-
+15:09:05 - Marcos Casagrande (@marcoscvp90):
+hmm, "forgot password"
+15:12:43 - Martín Aimar (@maimar):
+funcionó -___-
+15:13:14 - Martín Aimar (@maimar):
+sólo me queda poder linkear linkedin
+16:42:23 - German Gonzalez (@gercho):
+parece que esta bugeado setear Linkedin
+16:45:16 - Julian (@jantonielli01):
+Yo le di 5 veces y anduvo 
+16:57:44 - Marcos Casagrande (@marcoscvp90):
+"a mi me funciona" dicen los devs de CM
+17:24:39 - Ale Miralles (@amiralles):
+Un genio <@UGQTUDQSG>!!! No se si voy a probar la plataforma, pero tu aporte es inmenso! Muchas Gracias! Keep'n rocking!
+18:04:49 - Marcos Casagrande (@marcoscvp90):
+De nada <@U28KZ0BR9>! A ver si entran varios
+19:10:51 - Gabriel Fusca (@gfuscax):
+che consulta: para aplicar te pide tarjeta?
+19:12:25 - Marcos Casagrande (@marcoscvp90):
+No, no pide nada, como mentor no necesitás tener datos de pago.
+19:12:56 - Gabriel Fusca (@gfuscax):
+oka, era para ver si estaba en la opción correcta. Ahí vi el botón de Apply :stuck_out_tongue:

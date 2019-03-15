@@ -1,0 +1,128 @@
+23:30:56 - a0viedo (@a0viedo):
+perdón gente por colgar para subir el repo, estuve arreglando un par de cosas...me falta el readme para explicar todos los componentes que tiene pero ya agregué unos TODOs <https://github.com/a0viedo/slackper>
+23:32:22 - a0viedo (@a0viedo):
+<@UDKLD5LF7> <@UD91GB4AV> cualquier cosa si lo quieren deployar para pruebas y necesitan un ejemplo me avisan
+23:33:51 - Santiago Ruffino (@santi_0898):
+El fondo del texto no se puede
+00:34:07 - Tomás Sevillano (@tsevillano):
+Nunca me había fijado en esa 
+09:37:16 - Jimena (@jimena):
+no estoy entendiendo la parte europea, asumo que es porque TW es europeo no? Yo no tengo ciudadanía y mi cliente está en USA. No tengo tw aún, debería creármela…. tampoco se si mi cliente tiene tw.
+09:41:26 - Gabriel Fusca (@gfuscax):
+Joya gracias <@U06H27CM8>
+09:55:53 - Francisco (@frajova):
+Buenos dias!! un amigo esta intentando entrar al grupo y no lo deja ni siquiera registrarse, yo no recuerdo como entre. Es con invitacion???
+09:56:10 - Gonzalo González Mora (@gonzalogm):
+<http://slack.meetupjs.com.ar|slack.meetupjs.com.ar>
+09:56:39 - Francisco (@frajova):
+Gracias Gonza, dice que le pide user y pass y no le da bola
+09:57:33 - Gonzalo González Mora (@gonzalogm):
+Se tiene que registrar ahí primero, una vez que crea el user y pass para este Slack, ahí se va a poder logear
+09:58:05 - Francisco (@frajova):
+Genialidad!! Gracias querido!!
+10:23:40 - Luciano Rojas (@rojasluciano):
+Hola gente, gracias por la invitacion
+10:27:01 - Gonza Espeche (@espeche.g):
+tremendo <@U06H27CM8>, gracias
+10:43:19 - Wilfredo Alcala (@alcalawilfre):
+<@U06H27CM8> yo no sabía como levantarlo con sqs y le puse serverless offline y un event http.. Se puede? necesita algo por body? porque me da un error de undefined en backup-channel linea 21 `const triggerMessage = JSON.parse(event.Records[0].body);`
+10:49:28 - a0viedo (@a0viedo):
+para correrlo local podés hacer ```node $(which npx) sls invoke local -f backup-channel -s meetupjs-experiencia-laboral -d '{ "Records": [{"body": "{\"latest\": 1551754800, \"startOfDay\": 1551668400}"}]  }'```
+10:50:00 - a0viedo (@a0viedo):
+para debuggear ```node --inspect $(which npx) sls invoke local -f backup-channel -s meetupjs-experiencia-laboral -d '{ "Records": [{"body": "{\"latest\": 1551754800, \"startOfDay\": 1551668400}"}]  }'```
+10:51:04 - a0viedo (@a0viedo):
+pero vas a necesitar el token de slack para traer la data
+11:10:11 - Wilfredo Alcala (@alcalawilfre):
+Gracias!!.. cualquier user sirve para el token no? Digo no hace falta ser admin?
+11:33:48 - a0viedo (@a0viedo):
+no estoy seguro, creeria que si?
+11:33:59 - a0viedo (@a0viedo):
+fijate si generando uno te permite sino te mando uno
+11:49:51 - Florencia Bravo (@flor907):
+Chicas! No se olviden que este sábado tenemos el workshop en Vue: <https://www.meetup.com/es-ES/VueVixens/events/259037623/>
+11:58:54 - Marcos Casagrande (@marcoscvp90):
+La parte de ciudadanía es porque TW no tiene restricciones en Europa, pero si tiene algunas en Argentina.
+12:08:31 - Jimena (@jimena):
+ok..voy a investigar mas. Muchas gracias!!!!
+12:19:39 - Wilfredo Alcala (@alcalawilfre):
+Solo chicas? yo también quiero ser freelancer :disappointed:
+12:23:37 - Agustin Polo (@apolo_codes):
+podes ir a uno de los tantos meetups que existen de tecnologia en BA
+14:45:22 - Esteban Yañez (@eyanez):
+es para los que se identifiquen con el genero femenino en realidad, y estoy de acuerdo con polo que hay un monton que hacen lo mismo
+14:51:07 - Marcos Casagrande (@marcoscvp90):
+Lo otro también que puede hacer, tu cliente es enviarte pesos directamente desde TW, el depositando USD. Lo malo de eso es que toma el cambio al momento de que te hagan el pago, no manejás vos cuando hacerlo.
+14:52:06 - Jimena (@jimena):
+nahh.. ni a ganchos jaj prefiero que me depo en dolares y luego veo como hago
+15:09:54 - Marcos Casagrande (@marcoscvp90):
+Para mi nunca fue una opción, pero bueno, está ahí.
+15:14:42 - Jimena (@jimena):
+bueno genial.. ahora solo me resta averiguar si mi cli me tiene q pagar directo en tw o por payoneer :slightly_smiling_face:
+16:25:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola
+20:10:32 - Gabriel Montes (@gabriel):
+Están en su derecho de discriminar a los hombres :man-shrugging::skin-tone-3:
+23:30:56 - a0viedo (@a0viedo):
+perdón gente por colgar para subir el repo, estuve arreglando un par de cosas...me falta el readme para explicar todos los componentes que tiene pero ya agregué unos TODOs <https://github.com/a0viedo/slackper>
+23:32:22 - a0viedo (@a0viedo):
+<@UDKLD5LF7> <@UD91GB4AV> cualquier cosa si lo quieren deployar para pruebas y necesitan un ejemplo me avisan
+23:33:51 - Santiago Ruffino (@santi_0898):
+El fondo del texto no se puede
+00:34:07 - Tomás Sevillano (@tsevillano):
+Nunca me había fijado en esa 
+09:37:16 - Jimena (@jimena):
+no estoy entendiendo la parte europea, asumo que es porque TW es europeo no? Yo no tengo ciudadanía y mi cliente está en USA. No tengo tw aún, debería creármela…. tampoco se si mi cliente tiene tw.
+09:41:26 - Gabriel Fusca (@gfuscax):
+Joya gracias <@U06H27CM8>
+09:55:53 - Francisco (@frajova):
+Buenos dias!! un amigo esta intentando entrar al grupo y no lo deja ni siquiera registrarse, yo no recuerdo como entre. Es con invitacion???
+09:56:10 - Gonzalo González Mora (@gonzalogm):
+<http://slack.meetupjs.com.ar|slack.meetupjs.com.ar>
+09:56:39 - Francisco (@frajova):
+Gracias Gonza, dice que le pide user y pass y no le da bola
+09:57:33 - Gonzalo González Mora (@gonzalogm):
+Se tiene que registrar ahí primero, una vez que crea el user y pass para este Slack, ahí se va a poder logear
+09:58:05 - Francisco (@frajova):
+Genialidad!! Gracias querido!!
+10:23:40 - Luciano Rojas (@rojasluciano):
+Hola gente, gracias por la invitacion
+10:27:01 - Gonza Espeche (@espeche.g):
+tremendo <@U06H27CM8>, gracias
+10:43:19 - Wilfredo Alcala (@alcalawilfre):
+<@U06H27CM8> yo no sabía como levantarlo con sqs y le puse serverless offline y un event http.. Se puede? necesita algo por body? porque me da un error de undefined en backup-channel linea 21 `const triggerMessage = JSON.parse(event.Records[0].body);`
+10:49:28 - a0viedo (@a0viedo):
+para correrlo local podés hacer ```node $(which npx) sls invoke local -f backup-channel -s meetupjs-experiencia-laboral -d '{ "Records": [{"body": "{\"latest\": 1551754800, \"startOfDay\": 1551668400}"}]  }'```
+10:50:00 - a0viedo (@a0viedo):
+para debuggear ```node --inspect $(which npx) sls invoke local -f backup-channel -s meetupjs-experiencia-laboral -d '{ "Records": [{"body": "{\"latest\": 1551754800, \"startOfDay\": 1551668400}"}]  }'```
+10:51:04 - a0viedo (@a0viedo):
+pero vas a necesitar el token de slack para traer la data
+11:10:11 - Wilfredo Alcala (@alcalawilfre):
+Gracias!!.. cualquier user sirve para el token no? Digo no hace falta ser admin?
+11:33:48 - a0viedo (@a0viedo):
+no estoy seguro, creeria que si?
+11:33:59 - a0viedo (@a0viedo):
+fijate si generando uno te permite sino te mando uno
+11:49:51 - Florencia Bravo (@flor907):
+Chicas! No se olviden que este sábado tenemos el workshop en Vue: <https://www.meetup.com/es-ES/VueVixens/events/259037623/>
+11:58:54 - Marcos Casagrande (@marcoscvp90):
+La parte de ciudadanía es porque TW no tiene restricciones en Europa, pero si tiene algunas en Argentina.
+12:08:31 - Jimena (@jimena):
+ok..voy a investigar mas. Muchas gracias!!!!
+12:19:39 - Wilfredo Alcala (@alcalawilfre):
+Solo chicas? yo también quiero ser freelancer :disappointed:
+12:23:37 - Agustin Polo (@apolo_codes):
+podes ir a uno de los tantos meetups que existen de tecnologia en BA
+14:45:22 - Esteban Yañez (@eyanez):
+es para los que se identifiquen con el genero femenino en realidad, y estoy de acuerdo con polo que hay un monton que hacen lo mismo
+14:51:07 - Marcos Casagrande (@marcoscvp90):
+Lo otro también que puede hacer, tu cliente es enviarte pesos directamente desde TW, el depositando USD. Lo malo de eso es que toma el cambio al momento de que te hagan el pago, no manejás vos cuando hacerlo.
+14:52:06 - Jimena (@jimena):
+nahh.. ni a ganchos jaj prefiero que me depo en dolares y luego veo como hago
+15:09:54 - Marcos Casagrande (@marcoscvp90):
+Para mi nunca fue una opción, pero bueno, está ahí.
+15:14:42 - Jimena (@jimena):
+bueno genial.. ahora solo me resta averiguar si mi cli me tiene q pagar directo en tw o por payoneer :slightly_smiling_face:
+16:25:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola
+20:10:32 - Gabriel Montes (@gabriel):
+Están en su derecho de discriminar a los hombres :man-shrugging::skin-tone-3:

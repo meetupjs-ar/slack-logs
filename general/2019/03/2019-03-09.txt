@@ -1,0 +1,48 @@
+13:23:04 - Jimena (@jimena):
+Me pasó esto. Entonces lo mejor sería que mi cliente de usa me deposite en tw y de ahí yo envío a mi cuenta del banco en arg en $ ? 
+13:50:21 - Marcos Casagrande (@marcoscvp90):
+Exacto, eso sería lo ideal. Acá habrá 2 temas. Si tenés ciudadanía Europea y tu cuenta de TW es Europea, tu cliente te puede transferir en USD directos a TW. Sino, te va a tener que transferir a tu cuenta de EUR en TW. Acá dependerá si el cliente tiene o no transferwise, si tiene TW esto sería transparente para el casi.
+
+Sino, lo que podés hacer es, tu cliente de USA te paga en Payoneer, y de Payoneer pasás a TW EUR, y de ahí a pesos, de ahí al galicia.
+23:42:41 - Diego Harari (@diehara):
+Buenas! busco recomendaciones para aprender React.
+Si es udemy, especifico si alguno hizo algun curso, si es presencial que no cueste una fortuna, alguien ?
+Gracias!
+23:47:35 - Sergio Daniel Xalambrí (@sergiodxa):
+La documentación de React tiene un tutorial muy bueno, y está en español
+23:51:06 - Martín Aimar (@maimar):
+de acá tenés que poder sacar algo <https://news.ycombinator.com/item?id=19050509>
+23:51:52 - Nicolas Accetta (@nicolas.accetta):
+a mi me cabe como explica este loco
+23:51:53 - Nicolas Accetta (@nicolas.accetta):
+<https://www.udemy.com/react-the-complete-guide-incl-redux/>
+23:52:04 - Leandro Echevarria (@echevarrialeandro):
+Yo generalmente cuando veo alguna tech nueva para mi me gusta empezar con algun articulo y videos. Para react por ejemplo empecé con este curso (no te asustes que la web está en ruso :grin:) <https://coursehunters.net/course/udemy-modern-reactandredux>
+23:52:12 - Leandro Echevarria (@echevarrialeandro):
+Como dice ahi, el curso lo tenes en udemy tambien
+23:52:36 - Leandro Echevarria (@echevarrialeandro):
+Este también está copado!
+13:23:04 - Jimena (@jimena):
+Me pasó esto. Entonces lo mejor sería que mi cliente de usa me deposite en tw y de ahí yo envío a mi cuenta del banco en arg en $ ? 
+13:50:21 - Marcos Casagrande (@marcoscvp90):
+Exacto, eso sería lo ideal. Acá habrá 2 temas. Si tenés ciudadanía Europea y tu cuenta de TW es Europea, tu cliente te puede transferir en USD directos a TW. Sino, te va a tener que transferir a tu cuenta de EUR en TW. Acá dependerá si el cliente tiene o no transferwise, si tiene TW esto sería transparente para el casi.
+
+Sino, lo que podés hacer es, tu cliente de USA te paga en Payoneer, y de Payoneer pasás a TW EUR, y de ahí a pesos, de ahí al galicia.
+23:42:41 - Diego Harari (@diehara):
+Buenas! busco recomendaciones para aprender React.
+Si es udemy, especifico si alguno hizo algun curso, si es presencial que no cueste una fortuna, alguien ?
+Gracias!
+23:47:35 - Sergio Daniel Xalambrí (@sergiodxa):
+La documentación de React tiene un tutorial muy bueno, y está en español
+23:51:06 - Martín Aimar (@maimar):
+de acá tenés que poder sacar algo <https://news.ycombinator.com/item?id=19050509>
+23:51:52 - Nicolas Accetta (@nicolas.accetta):
+a mi me cabe como explica este loco
+23:51:53 - Nicolas Accetta (@nicolas.accetta):
+<https://www.udemy.com/react-the-complete-guide-incl-redux/>
+23:52:04 - Leandro Echevarria (@echevarrialeandro):
+Yo generalmente cuando veo alguna tech nueva para mi me gusta empezar con algun articulo y videos. Para react por ejemplo empecé con este curso (no te asustes que la web está en ruso :grin:) <https://coursehunters.net/course/udemy-modern-reactandredux>
+23:52:12 - Leandro Echevarria (@echevarrialeandro):
+Como dice ahi, el curso lo tenes en udemy tambien
+23:52:36 - Leandro Echevarria (@echevarrialeandro):
+Este también está copado!

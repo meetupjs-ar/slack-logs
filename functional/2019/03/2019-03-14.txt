@@ -1,0 +1,354 @@
+23:01:27 - Julian (@jantonielli01):
+por si les sirve, este es el link "secreto" q nos dieron para entradas del año q viene de la js kongress <https://ti.to/munich-dev-events/js-kongress-2020/>
+05:44:07 - Martín Valdés de León (@mvaldesdeleon):
+<https://i.imgur.com/Gx8HjeN.jpg>
+07:36:24 - Juan Bono (@juanbono):
+`fmap f tree` vs `f tree`
+08:22:49 - Martín Valdés de León (@mvaldesdeleon):
+q paja, la ultima version de chrome q instale tiene un bug
+08:23:11 - Martín Valdés de León (@mvaldesdeleon):
+cuando abro gmail y cierro rapido y me tira el popup de "tus cambios no seran guardados"
+08:23:18 - Martín Valdés de León (@mvaldesdeleon):
+hay una chance tipo 1/10 de que se freezee todo el browser
+08:23:33 - Martín Valdés de León (@mvaldesdeleon):
+solo cuando abri/cierro rapid
+08:57:50 - Juan Bono (@juanbono):
+Ouch, una mala semana para la tecnología jajaja 
+09:08:10 - Julian (@jantonielli01):
+Ah 
+09:08:13 - Julian (@jantonielli01):
+Me pasa lo mismo 
+09:08:19 - Julian (@jantonielli01):
+Pensé q era mi pc lol
+10:33:35 - Martín Valdés de León (@mvaldesdeleon):
+minga
+10:33:43 - Martín Valdés de León (@mvaldesdeleon):
+Es Chrome que chotea
+10:55:09 - Julian (@jantonielli01):
+Bueno, ya estoy en el aeropuerto 
+10:55:22 - Julian (@jantonielli01):
+De vuelta a peronia 
+11:01:20 - Leandro Echevarria (@echevarrialeandro):
+Te esperamos acá con motochorros y facazos gratis
+11:01:21 - Leandro Echevarria (@echevarrialeandro):
+Buen viaje
+11:11:45 - Julian (@jantonielli01):
+Gracias papá 
+11:12:01 - Julian (@jantonielli01):
+Ahora tengo escala en Londres y dsp salgo para arg 
+11:14:18 - Leandro Echevarria (@echevarrialeandro):
+Que paja
+11:14:24 - Leandro Echevarria (@echevarrialeandro):
+Nos vemos en alguna meetup por aca :smile:
+15:45:58 - Julian (@jantonielli01):
+Bueno llegué a Londres
+15:47:13 - Gonza Gluzman (@gonza):
+Traenos fish &amp; chips (?)
+15:48:14 - Julian (@jantonielli01):
+Jajaj no me gusta el pescado 
+15:48:28 - Julian (@jantonielli01):
+Quería llevarme unos pretzels :pretzel: pero no tenía lugar 
+15:48:38 - Martín Valdés de León (@mvaldesdeleon):
+aprende a hacer la masa esa
+15:48:44 - Gonza Gluzman (@gonza):
+Mejor traenos libras esterlinas, ahora que lo pienso
+15:48:55 - Martín Valdés de León (@mvaldesdeleon):
+<https://en.wikipedia.org/wiki/Lye_roll>
+15:49:21 - gillchristian (@gillchristian):
+Haces escala nomás o te quedas un toque?
+15:49:28 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.youtube.com/watch?v=YSAqTdc-Y2g>
+15:49:39 - Gonza Gluzman (@gonza):
+* scala
+15:49:40 - Martín Valdés de León (@mvaldesdeleon):
+hasta tiene cancion oficial (?)
+15:50:29 - gillchristian (@gillchristian):
+Lo pensé mientras escribía jaja
+15:50:41 - Julian (@jantonielli01):
+Escala nomas 
+15:50:45 - Julian (@jantonielli01):
+Ya de vuelta a casa
+15:51:54 - Juan Bono (@juanbono):
+Jajajaj 
+15:53:51 - Julian (@jantonielli01):
+Tiene menos ux gatwick 
+15:54:21 - Julian (@jantonielli01):
+Para irte a la otra terminal tenes que ir a la loma del culo para LLAMAR POR TELÉFONO y pedir que te manden un bondi 
+15:54:25 - Martín Valdés de León (@mvaldesdeleon):
+gatwick suena a un cli tool
+15:54:43 - Martín Valdés de León (@mvaldesdeleon):
+wat
+15:55:56 - gillchristian (@gillchristian):
+Ya tenemos el nombre, ahora hay que hacer algo
+15:56:28 - Martín Valdés de León (@mvaldesdeleon):
+gatsby + quick = gatwick
+15:56:37 - Martín Valdés de León (@mvaldesdeleon):
+the static site generator that FLIES
+15:57:49 - Julian (@jantonielli01):
+Gracias por los dos números 
+15:58:04 - Martín Valdés de León (@mvaldesdeleon):
+:joy:
+15:58:10 - Martín Valdés de León (@mvaldesdeleon):
+encima a las 14 ya te bajan la persiana
+15:58:11 - Julian (@jantonielli01):
+Voy a ir yo solo lmao
+15:58:13 - Martín Valdés de León (@mvaldesdeleon):
+jatejoder
+15:58:57 - Martín Valdés de León (@mvaldesdeleon):
+seguro tenes que estamparte el pasaporte vos mismo
+15:59:04 - Martín Valdés de León (@mvaldesdeleon):
+y autorevisar tu valija
+16:05:41 - gillchristian (@gillchristian):
+Blazing fast
+16:11:52 - Juan Bono (@juanbono):
+Jajajajajaja rellenar un formulario poniendo que está todo ok (?
+16:13:17 - gillchristian (@gillchristian):
+No era que eran ordenados los ingleses? :thinking_face: 
+16:15:23 - Julian (@jantonielli01):
+Jajajaj 
+16:16:53 - Julio (@julito):
+Estás pensando en los alemanes
+16:20:43 - Luis Alvarez (@luistensai):
+son ordenados, nadie dijo eficientes
+19:10:29 - Juan Bono (@juanbono):
+<https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript>
+19:11:17 - Juan Bono (@juanbono):
+Hoy publicaron esa lib :O
+20:39:39 - Daniel Broder (@dabroder):
+Existe esto <https://wende.github.io/elchemy/>, pero creo que transpila ELM a Elixir
+23:01:27 - Julian (@jantonielli01):
+por si les sirve, este es el link "secreto" q nos dieron para entradas del año q viene de la js kongress <https://ti.to/munich-dev-events/js-kongress-2020/>
+05:44:07 - Martín Valdés de León (@mvaldesdeleon):
+<https://i.imgur.com/Gx8HjeN.jpg>
+07:36:24 - Juan Bono (@juanbono):
+`fmap f tree` vs `f tree`
+08:22:49 - Martín Valdés de León (@mvaldesdeleon):
+q paja, la ultima version de chrome q instale tiene un bug
+08:23:11 - Martín Valdés de León (@mvaldesdeleon):
+cuando abro gmail y cierro rapido y me tira el popup de "tus cambios no seran guardados"
+08:23:18 - Martín Valdés de León (@mvaldesdeleon):
+hay una chance tipo 1/10 de que se freezee todo el browser
+08:23:33 - Martín Valdés de León (@mvaldesdeleon):
+solo cuando abri/cierro rapid
+08:57:50 - Juan Bono (@juanbono):
+Ouch, una mala semana para la tecnología jajaja 
+09:08:10 - Julian (@jantonielli01):
+Ah 
+09:08:13 - Julian (@jantonielli01):
+Me pasa lo mismo 
+09:08:19 - Julian (@jantonielli01):
+Pensé q era mi pc lol
+10:33:35 - Martín Valdés de León (@mvaldesdeleon):
+minga
+10:33:43 - Martín Valdés de León (@mvaldesdeleon):
+Es Chrome que chotea
+10:55:09 - Julian (@jantonielli01):
+Bueno, ya estoy en el aeropuerto 
+10:55:22 - Julian (@jantonielli01):
+De vuelta a peronia 
+11:01:20 - Leandro Echevarria (@echevarrialeandro):
+Te esperamos acá con motochorros y facazos gratis
+11:01:21 - Leandro Echevarria (@echevarrialeandro):
+Buen viaje
+11:11:45 - Julian (@jantonielli01):
+Gracias papá 
+11:12:01 - Julian (@jantonielli01):
+Ahora tengo escala en Londres y dsp salgo para arg 
+11:14:18 - Leandro Echevarria (@echevarrialeandro):
+Que paja
+11:14:24 - Leandro Echevarria (@echevarrialeandro):
+Nos vemos en alguna meetup por aca :smile:
+15:45:58 - Julian (@jantonielli01):
+Bueno llegué a Londres
+15:47:13 - Gonza Gluzman (@gonza):
+Traenos fish &amp; chips (?)
+15:48:14 - Julian (@jantonielli01):
+Jajaj no me gusta el pescado 
+15:48:28 - Julian (@jantonielli01):
+Quería llevarme unos pretzels :pretzel: pero no tenía lugar 
+15:48:38 - Martín Valdés de León (@mvaldesdeleon):
+aprende a hacer la masa esa
+15:48:44 - Gonza Gluzman (@gonza):
+Mejor traenos libras esterlinas, ahora que lo pienso
+15:48:55 - Martín Valdés de León (@mvaldesdeleon):
+<https://en.wikipedia.org/wiki/Lye_roll>
+15:49:21 - gillchristian (@gillchristian):
+Haces escala nomás o te quedas un toque?
+15:49:28 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.youtube.com/watch?v=YSAqTdc-Y2g>
+15:49:39 - Gonza Gluzman (@gonza):
+* scala
+15:49:40 - Martín Valdés de León (@mvaldesdeleon):
+hasta tiene cancion oficial (?)
+15:50:29 - gillchristian (@gillchristian):
+Lo pensé mientras escribía jaja
+15:50:41 - Julian (@jantonielli01):
+Escala nomas 
+15:50:45 - Julian (@jantonielli01):
+Ya de vuelta a casa
+15:51:54 - Juan Bono (@juanbono):
+Jajajaj 
+15:53:51 - Julian (@jantonielli01):
+Tiene menos ux gatwick 
+15:54:21 - Julian (@jantonielli01):
+Para irte a la otra terminal tenes que ir a la loma del culo para LLAMAR POR TELÉFONO y pedir que te manden un bondi 
+15:54:25 - Martín Valdés de León (@mvaldesdeleon):
+gatwick suena a un cli tool
+15:54:43 - Martín Valdés de León (@mvaldesdeleon):
+wat
+15:55:56 - gillchristian (@gillchristian):
+Ya tenemos el nombre, ahora hay que hacer algo
+15:56:28 - Martín Valdés de León (@mvaldesdeleon):
+gatsby + quick = gatwick
+15:56:37 - Martín Valdés de León (@mvaldesdeleon):
+the static site generator that FLIES
+15:57:49 - Julian (@jantonielli01):
+Gracias por los dos números 
+15:58:04 - Martín Valdés de León (@mvaldesdeleon):
+:joy:
+15:58:10 - Martín Valdés de León (@mvaldesdeleon):
+encima a las 14 ya te bajan la persiana
+15:58:11 - Julian (@jantonielli01):
+Voy a ir yo solo lmao
+15:58:13 - Martín Valdés de León (@mvaldesdeleon):
+jatejoder
+15:58:57 - Martín Valdés de León (@mvaldesdeleon):
+seguro tenes que estamparte el pasaporte vos mismo
+15:59:04 - Martín Valdés de León (@mvaldesdeleon):
+y autorevisar tu valija
+16:05:41 - gillchristian (@gillchristian):
+Blazing fast
+16:11:52 - Juan Bono (@juanbono):
+Jajajajajaja rellenar un formulario poniendo que está todo ok (?
+16:13:17 - gillchristian (@gillchristian):
+No era que eran ordenados los ingleses? :thinking_face: 
+16:15:23 - Julian (@jantonielli01):
+Jajajaj 
+16:16:53 - Julio (@julito):
+Estás pensando en los alemanes
+16:20:43 - Luis Alvarez (@luistensai):
+son ordenados, nadie dijo eficientes
+19:10:29 - Juan Bono (@juanbono):
+<https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript>
+19:11:17 - Juan Bono (@juanbono):
+Hoy publicaron esa lib :O
+20:39:39 - Daniel Broder (@dabroder):
+Existe esto <https://wende.github.io/elchemy/>, pero creo que transpila ELM a Elixir
+23:01:27 - Julian (@jantonielli01):
+por si les sirve, este es el link "secreto" q nos dieron para entradas del año q viene de la js kongress <https://ti.to/munich-dev-events/js-kongress-2020/>
+05:44:07 - Martín Valdés de León (@mvaldesdeleon):
+<https://i.imgur.com/Gx8HjeN.jpg>
+07:36:24 - Juan Bono (@juanbono):
+`fmap f tree` vs `f tree`
+08:22:49 - Martín Valdés de León (@mvaldesdeleon):
+q paja, la ultima version de chrome q instale tiene un bug
+08:23:11 - Martín Valdés de León (@mvaldesdeleon):
+cuando abro gmail y cierro rapido y me tira el popup de "tus cambios no seran guardados"
+08:23:18 - Martín Valdés de León (@mvaldesdeleon):
+hay una chance tipo 1/10 de que se freezee todo el browser
+08:23:33 - Martín Valdés de León (@mvaldesdeleon):
+solo cuando abri/cierro rapid
+08:57:50 - Juan Bono (@juanbono):
+Ouch, una mala semana para la tecnología jajaja 
+09:08:10 - Julian (@jantonielli01):
+Ah 
+09:08:13 - Julian (@jantonielli01):
+Me pasa lo mismo 
+09:08:19 - Julian (@jantonielli01):
+Pensé q era mi pc lol
+10:33:35 - Martín Valdés de León (@mvaldesdeleon):
+minga
+10:33:43 - Martín Valdés de León (@mvaldesdeleon):
+Es Chrome que chotea
+10:55:09 - Julian (@jantonielli01):
+Bueno, ya estoy en el aeropuerto 
+10:55:22 - Julian (@jantonielli01):
+De vuelta a peronia 
+11:01:20 - Leandro Echevarria (@echevarrialeandro):
+Te esperamos acá con motochorros y facazos gratis
+11:01:21 - Leandro Echevarria (@echevarrialeandro):
+Buen viaje
+11:11:45 - Julian (@jantonielli01):
+Gracias papá 
+11:12:01 - Julian (@jantonielli01):
+Ahora tengo escala en Londres y dsp salgo para arg 
+11:14:18 - Leandro Echevarria (@echevarrialeandro):
+Que paja
+11:14:24 - Leandro Echevarria (@echevarrialeandro):
+Nos vemos en alguna meetup por aca :smile:
+15:45:58 - Julian (@jantonielli01):
+Bueno llegué a Londres
+15:47:13 - Gonza Gluzman (@gonza):
+Traenos fish &amp; chips (?)
+15:48:14 - Julian (@jantonielli01):
+Jajaj no me gusta el pescado 
+15:48:28 - Julian (@jantonielli01):
+Quería llevarme unos pretzels :pretzel: pero no tenía lugar 
+15:48:38 - Martín Valdés de León (@mvaldesdeleon):
+aprende a hacer la masa esa
+15:48:44 - Gonza Gluzman (@gonza):
+Mejor traenos libras esterlinas, ahora que lo pienso
+15:48:55 - Martín Valdés de León (@mvaldesdeleon):
+<https://en.wikipedia.org/wiki/Lye_roll>
+15:49:21 - gillchristian (@gillchristian):
+Haces escala nomás o te quedas un toque?
+15:49:28 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.youtube.com/watch?v=YSAqTdc-Y2g>
+15:49:39 - Gonza Gluzman (@gonza):
+* scala
+15:49:40 - Martín Valdés de León (@mvaldesdeleon):
+hasta tiene cancion oficial (?)
+15:50:29 - gillchristian (@gillchristian):
+Lo pensé mientras escribía jaja
+15:50:41 - Julian (@jantonielli01):
+Escala nomas 
+15:50:45 - Julian (@jantonielli01):
+Ya de vuelta a casa
+15:51:54 - Juan Bono (@juanbono):
+Jajajaj 
+15:53:51 - Julian (@jantonielli01):
+Tiene menos ux gatwick 
+15:54:21 - Julian (@jantonielli01):
+Para irte a la otra terminal tenes que ir a la loma del culo para LLAMAR POR TELÉFONO y pedir que te manden un bondi 
+15:54:25 - Martín Valdés de León (@mvaldesdeleon):
+gatwick suena a un cli tool
+15:54:43 - Martín Valdés de León (@mvaldesdeleon):
+wat
+15:55:56 - gillchristian (@gillchristian):
+Ya tenemos el nombre, ahora hay que hacer algo
+15:56:28 - Martín Valdés de León (@mvaldesdeleon):
+gatsby + quick = gatwick
+15:56:37 - Martín Valdés de León (@mvaldesdeleon):
+the static site generator that FLIES
+15:57:49 - Julian (@jantonielli01):
+Gracias por los dos números 
+15:58:04 - Martín Valdés de León (@mvaldesdeleon):
+:joy:
+15:58:10 - Martín Valdés de León (@mvaldesdeleon):
+encima a las 14 ya te bajan la persiana
+15:58:11 - Julian (@jantonielli01):
+Voy a ir yo solo lmao
+15:58:13 - Martín Valdés de León (@mvaldesdeleon):
+jatejoder
+15:58:57 - Martín Valdés de León (@mvaldesdeleon):
+seguro tenes que estamparte el pasaporte vos mismo
+15:59:04 - Martín Valdés de León (@mvaldesdeleon):
+y autorevisar tu valija
+16:05:41 - gillchristian (@gillchristian):
+Blazing fast
+16:11:52 - Juan Bono (@juanbono):
+Jajajajajaja rellenar un formulario poniendo que está todo ok (?
+16:13:17 - gillchristian (@gillchristian):
+No era que eran ordenados los ingleses? :thinking_face: 
+16:15:23 - Julian (@jantonielli01):
+Jajajaj 
+16:16:53 - Julio (@julito):
+Estás pensando en los alemanes
+16:20:43 - Luis Alvarez (@luistensai):
+son ordenados, nadie dijo eficientes
+19:10:29 - Juan Bono (@juanbono):
+<https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript>
+19:11:17 - Juan Bono (@juanbono):
+Hoy publicaron esa lib :O
+20:39:39 - Daniel Broder (@dabroder):
+Existe esto <https://wende.github.io/elchemy/>, pero creo que transpila ELM a Elixir

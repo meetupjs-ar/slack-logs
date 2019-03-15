@@ -1,0 +1,322 @@
+11:05:45 - Martín Aimar (@maimar):
+tengo esto `axios.patch().then().catch()` cómo hago para encadenar otro request luego del .then y poder catchear cada uno por separado?
+11:10:19 - Martín Valdés de León (@mvaldesdeleon):
+en ese caso en particular `axios.patch().then().catch().then().catch()`
+11:10:34 - Martín Valdés de León (@mvaldesdeleon):
+con el caveat de que el primer catch se dispara tanto para axios.patch como para el primer then
+11:10:54 - Martín Valdés de León (@mvaldesdeleon):
+y asumiendo que los catch no rethrowean
+11:11:07 - Martín Valdés de León (@mvaldesdeleon):
+caso contrario tenes que anidar funciones
+11:11:16 - Martín Aimar (@maimar):
+claro quería evitar anidar
+11:11:42 - Martín Valdés de León (@mvaldesdeleon):
+async/await existe tb
+11:11:43 - Marcos Casagrande (@marcoscvp90):
+Podés usar `async/await` para facilitarte todo.
+11:11:47 - Martín Valdés de León (@mvaldesdeleon):
+y suele dar sintaxis mas linda
+11:11:47 - Martín Valdés de León (@mvaldesdeleon):
+:stuck_out_tongue:
+11:11:53 - Marcos Casagrande (@marcoscvp90):
+jajaja
+11:11:57 - Martín Aimar (@maimar):
+:facepalm:
+11:12:16 - Martín Aimar (@maimar):
+casi que lo había olvidado
+11:13:21 - Martín Aimar (@maimar):
+existe algún transpiler online para ver cómo quedaría?
+11:13:55 - Marcos Casagrande (@marcoscvp90):
+<https://babeljs.io/repl>
+11:14:21 - Martín Aimar (@maimar):
+groso
+11:24:28 - Martín Valdés de León (@mvaldesdeleon):
+siempre podes ponerte a flashearla y armar cosas ad-hoc tipo
+11:25:19 - Martín Valdés de León (@mvaldesdeleon):
+`tagged` queda como ejercicio para el lector
+11:26:24 - Martín Aimar (@maimar):
+jaja es una buena idea para algún proyecto open source
+11:27:35 - Gonza Gluzman (@gonza):
+Eso va bastante en línea con lo que hacíamos con ts-task con <@U0DHEL1PC>
+11:55:14 - Mariano Argañaras (@arga.mariano):
+Nunca me termino de quedar claro el uso de `Symbol` en es6
+11:57:01 - Daniel Broder (@dabroder):
+_my 2 cents_ al ejemplo de <@U0TFEHWEA> y que es un golazo (y me sirvio en algún momento que consulté por acá) cuando tienen muchas llamadas asyncs es el detalle de "formatear" el error en los catchs intermedios y recién en el último catch hacer algo con esos errores
+12:33:16 - Julian (@jantonielli01):
+Lo usas simplemente como strings, pero sin miedo de que se solape con otros
+12:50:44 - Mariano Argañaras (@arga.mariano):
+en que sentido el "sin miedo de que solape con otros"?
+12:50:47 - Leandro Echevarria (@echevarrialeandro):
+Nos dejo con la intriga de tagged :stuck_out_tongue:
+12:50:55 - Mariano Argañaras (@arga.mariano):
+para keys de objetos o algo de eso?
+12:53:28 - Gonza Gluzman (@gonza):
+Debería devolver una función que reciba el error, chequee y que chequee si ese error tiene una propiedad `[_tag]` cuyo valor coincida con alguno de los keys del mapa que se pasó por parámetro. Si coincide, devulve el resultado de ejecutar ese callback con ese error. Sino, hace un nuevo `throw` del error recibido
+13:02:09 - Gonza Gluzman (@gonza):
+Pongo una posible implementación (no testeada) en thread, por si algunx prefiere no verla, como ejercicio
+13:02:25 - Gonza Gluzman (@gonza):
+```
+const tagged = (callbacks) =&gt;
+    (err) =&gt; {
+        const callback = callbacks[err[_tag]];
+
+        if (callback) {
+            return callback(err);
+        }
+        throw err;
+    }
+;
+```
+13:04:12 - Gustavo Machado (@machadogj):
+:+1: pero tenes una mezcla de `err` y `error` en tu posible solucion :point_up:
+13:04:49 - Gonza Gluzman (@gonza):
+Jajjaj
+13:04:52 - Gonza Gluzman (@gonza):
+Dije “no testeada”
+13:05:25 - Gonza Gluzman (@gonza):
+Fix merged
+13:05:58 - Gonza Gluzman (@gonza):
+Bien el ojo atento
+13:29:47 - Martín Valdés de León (@mvaldesdeleon):
+es como una forma loca de crear "unique keys"
+13:30:01 - Martín Valdés de León (@mvaldesdeleon):
+ponele que en lugar de usar symbol usaba `'tag'` a secas
+13:30:19 - Martín Valdés de León (@mvaldesdeleon):
+ahora `error` NUNCA puede usar la propiedad `tag`, o se va a pisar con mi `tag` de la anotacion
+13:30:39 - Martín Valdés de León (@mvaldesdeleon):
+Esto es un detalle de mi implementacion, pero me veo obligado a documentarlo y hacerlo publico porque los clientes pueden interferir con el.
+13:31:46 - Martín Valdés de León (@mvaldesdeleon):
+`Symbol('foo') === Symbol('foo')` es `false` :stuck_out_tongue:
+13:32:13 - Martín Valdés de León (@mvaldesdeleon):
+Salvo que les de una referencia a mi instancia privada de `Symbol('foo')`, nunca se va a pisar
+13:32:37 - Martín Valdés de León (@mvaldesdeleon):
+(y bueno, podes enumerar symbols y demas, pero ya es algo deliberadamente con el objetivo de joder con mis internals, asi que alla vos...)
+14:00:17 - Mariano Argañaras (@arga.mariano):
+Entiendo, gracias por la explicacion
+17:14:09 - Santiago Ruffino (@santi_0898):
+Pregunto aca porque nadie me da bola en el channel de Python. Tengo el siguiente de codigo ```nombre = datos_lead.get(NOMBRE_LEAD)
+    if nombre is None:
+        nombre = False```
+17:14:51 - Santiago Ruffino (@santi_0898):
+Agarra un json, busca la key, y guarda el valor en la variable. Si no tiene todo ese IF, me guarda un NONE cuando no encuentra la key
+17:15:10 - Santiago Ruffino (@santi_0898):
+Y necesito que me guarde False. Alguien sabe que puedo hacer para hacer un poco mas prolijo el codigo en esa parte?
+17:15:52 - Santiago Ruffino (@santi_0898):
+Ese IF, reemplaza el NONE por un False. Pero tengo 10 keys, entonces todo eso se me van 30 lineas de codigo
+17:16:17 - Martín Aimar (@maimar):
+hay operador ternario en python?
+17:16:29 - Julian (@jantonielli01):
+Hacete un array de keys y mapealo con eso
+17:22:41 - Martín Valdés de León (@mvaldesdeleon):
+Hay if expressions
+17:22:48 - Martín Valdés de León (@mvaldesdeleon):
+`val = foo if cond else bar`
+17:24:36 - Martín Aimar (@maimar):
+eso sería if cond val = foo else val = bar?
+17:24:52 - Martín Valdés de León (@mvaldesdeleon):
+sep
+17:24:57 - Martín Valdés de León (@mvaldesdeleon):
+y es lazy como esperarias
+17:25:08 - Martín Valdés de León (@mvaldesdeleon):
+primero evalua cond, y solo si es true evalua foo, y solo si es false evalua bar
+17:25:34 - Santiago Ruffino (@santi_0898):
+Lo que vos decis seria iniciar todas las variables en False?
+17:28:08 - Martín Valdés de León (@mvaldesdeleon):
+Armate una funcion que haga eso.
+17:29:42 - Martín Valdés de León (@mvaldesdeleon):
+```
+def getWithDefault(jsondict, key, default=False):
+   value = jsondict.get(key)
+   return value if value is not None else default
+```
+17:29:53 - Martín Valdés de León (@mvaldesdeleon):
+(o algo asi)
+17:30:06 - Santiago Ruffino (@santi_0898):
+Claro
+17:30:13 - Santiago Ruffino (@santi_0898):
+No habia pensado lo de la funcion
+17:30:16 - Santiago Ruffino (@santi_0898):
+Voy a implementar eso
+17:30:17 - Santiago Ruffino (@santi_0898):
+Gracias!
+17:30:30 - Martín Valdés de León (@mvaldesdeleon):
+dps lo que dice Julian es que podes ahorrarte llamar a mano a la funcion 10 veces
+17:30:46 - Martín Valdés de León (@mvaldesdeleon):
+usando map, o en el caso de python podrias usar list comprehensions directamente
+17:30:54 - Martín Valdés de León (@mvaldesdeleon):
+si ya tenes una list de las keys
+17:32:13 - Martín Valdés de León (@mvaldesdeleon):
+`values = [getWithDefault(dict, key) for key in keys]`
+18:37:12 - Wilfredo Alcala (@alcalawilfre):
+Saludos.. Quiero descargar una versión lightweight de ubuntu.. Vi que había Lubuntu, Xubuntu y Ubunut Mate.. No sé cual seleccionar.. Alguien que las haya usado y me de su punto de vista?
+19:07:44 - Juan Bono (@juanbono):
+Para mí xubuntu es la posta (bah en realidad XFCE, no xubuntu)
+19:09:16 - Juan Bono (@juanbono):
+Porque es liviano como Lubuntu pero más usable y lindo visualmente
+20:32:30 - Daniel Broder (@dabroder):
+yo uso lubuntu, pero hace poquito (en la versión 18.10) pasaron el escritorio de LXDE a LXQT y algunas cositas están medio verde.
+20:36:28 - Juan Bono (@juanbono):
+Ahhh que loco, voy a tener que bajarla y probar. Yo la usé hace unos 2 o 3 años cuando aún era LXDE
+20:38:58 - Daniel Broder (@dabroder):
+se ve más linda :sunglasses: pero tiene varios detalles de pintura todavía :white_frowning_face:
+11:05:45 - Martín Aimar (@maimar):
+tengo esto `axios.patch().then().catch()` cómo hago para encadenar otro request luego del .then y poder catchear cada uno por separado?
+11:10:19 - Martín Valdés de León (@mvaldesdeleon):
+en ese caso en particular `axios.patch().then().catch().then().catch()`
+11:10:34 - Martín Valdés de León (@mvaldesdeleon):
+con el caveat de que el primer catch se dispara tanto para axios.patch como para el primer then
+11:10:54 - Martín Valdés de León (@mvaldesdeleon):
+y asumiendo que los catch no rethrowean
+11:11:07 - Martín Valdés de León (@mvaldesdeleon):
+caso contrario tenes que anidar funciones
+11:11:16 - Martín Aimar (@maimar):
+claro quería evitar anidar
+11:11:42 - Martín Valdés de León (@mvaldesdeleon):
+async/await existe tb
+11:11:43 - Marcos Casagrande (@marcoscvp90):
+Podés usar `async/await` para facilitarte todo.
+11:11:47 - Martín Valdés de León (@mvaldesdeleon):
+y suele dar sintaxis mas linda
+11:11:47 - Martín Valdés de León (@mvaldesdeleon):
+:stuck_out_tongue:
+11:11:53 - Marcos Casagrande (@marcoscvp90):
+jajaja
+11:11:57 - Martín Aimar (@maimar):
+:facepalm:
+11:12:16 - Martín Aimar (@maimar):
+casi que lo había olvidado
+11:13:21 - Martín Aimar (@maimar):
+existe algún transpiler online para ver cómo quedaría?
+11:13:55 - Marcos Casagrande (@marcoscvp90):
+<https://babeljs.io/repl>
+11:14:21 - Martín Aimar (@maimar):
+groso
+11:24:28 - Martín Valdés de León (@mvaldesdeleon):
+siempre podes ponerte a flashearla y armar cosas ad-hoc tipo
+11:25:19 - Martín Valdés de León (@mvaldesdeleon):
+`tagged` queda como ejercicio para el lector
+11:26:24 - Martín Aimar (@maimar):
+jaja es una buena idea para algún proyecto open source
+11:27:35 - Gonza Gluzman (@gonza):
+Eso va bastante en línea con lo que hacíamos con ts-task con <@U0DHEL1PC>
+11:55:14 - Mariano Argañaras (@arga.mariano):
+Nunca me termino de quedar claro el uso de `Symbol` en es6
+11:57:01 - Daniel Broder (@dabroder):
+_my 2 cents_ al ejemplo de <@U0TFEHWEA> y que es un golazo (y me sirvio en algún momento que consulté por acá) cuando tienen muchas llamadas asyncs es el detalle de "formatear" el error en los catchs intermedios y recién en el último catch hacer algo con esos errores
+12:33:16 - Julian (@jantonielli01):
+Lo usas simplemente como strings, pero sin miedo de que se solape con otros
+12:50:44 - Mariano Argañaras (@arga.mariano):
+en que sentido el "sin miedo de que solape con otros"?
+12:50:47 - Leandro Echevarria (@echevarrialeandro):
+Nos dejo con la intriga de tagged :stuck_out_tongue:
+12:50:55 - Mariano Argañaras (@arga.mariano):
+para keys de objetos o algo de eso?
+12:53:28 - Gonza Gluzman (@gonza):
+Debería devolver una función que reciba el error, chequee y que chequee si ese error tiene una propiedad `[_tag]` cuyo valor coincida con alguno de los keys del mapa que se pasó por parámetro. Si coincide, devulve el resultado de ejecutar ese callback con ese error. Sino, hace un nuevo `throw` del error recibido
+13:02:09 - Gonza Gluzman (@gonza):
+Pongo una posible implementación (no testeada) en thread, por si algunx prefiere no verla, como ejercicio
+13:02:25 - Gonza Gluzman (@gonza):
+```
+const tagged = (callbacks) =&gt;
+    (err) =&gt; {
+        const callback = callbacks[err[_tag]];
+
+        if (callback) {
+            return callback(err);
+        }
+        throw err;
+    }
+;
+```
+13:04:12 - Gustavo Machado (@machadogj):
+:+1: pero tenes una mezcla de `err` y `error` en tu posible solucion :point_up:
+13:04:49 - Gonza Gluzman (@gonza):
+Jajjaj
+13:04:52 - Gonza Gluzman (@gonza):
+Dije “no testeada”
+13:05:25 - Gonza Gluzman (@gonza):
+Fix merged
+13:05:58 - Gonza Gluzman (@gonza):
+Bien el ojo atento
+13:29:47 - Martín Valdés de León (@mvaldesdeleon):
+es como una forma loca de crear "unique keys"
+13:30:01 - Martín Valdés de León (@mvaldesdeleon):
+ponele que en lugar de usar symbol usaba `'tag'` a secas
+13:30:19 - Martín Valdés de León (@mvaldesdeleon):
+ahora `error` NUNCA puede usar la propiedad `tag`, o se va a pisar con mi `tag` de la anotacion
+13:30:39 - Martín Valdés de León (@mvaldesdeleon):
+Esto es un detalle de mi implementacion, pero me veo obligado a documentarlo y hacerlo publico porque los clientes pueden interferir con el.
+13:31:46 - Martín Valdés de León (@mvaldesdeleon):
+`Symbol('foo') === Symbol('foo')` es `false` :stuck_out_tongue:
+13:32:13 - Martín Valdés de León (@mvaldesdeleon):
+Salvo que les de una referencia a mi instancia privada de `Symbol('foo')`, nunca se va a pisar
+13:32:37 - Martín Valdés de León (@mvaldesdeleon):
+(y bueno, podes enumerar symbols y demas, pero ya es algo deliberadamente con el objetivo de joder con mis internals, asi que alla vos...)
+14:00:17 - Mariano Argañaras (@arga.mariano):
+Entiendo, gracias por la explicacion
+17:14:09 - Santiago Ruffino (@santi_0898):
+Pregunto aca porque nadie me da bola en el channel de Python. Tengo el siguiente de codigo ```nombre = datos_lead.get(NOMBRE_LEAD)
+    if nombre is None:
+        nombre = False```
+17:14:51 - Santiago Ruffino (@santi_0898):
+Agarra un json, busca la key, y guarda el valor en la variable. Si no tiene todo ese IF, me guarda un NONE cuando no encuentra la key
+17:15:10 - Santiago Ruffino (@santi_0898):
+Y necesito que me guarde False. Alguien sabe que puedo hacer para hacer un poco mas prolijo el codigo en esa parte?
+17:15:52 - Santiago Ruffino (@santi_0898):
+Ese IF, reemplaza el NONE por un False. Pero tengo 10 keys, entonces todo eso se me van 30 lineas de codigo
+17:16:17 - Martín Aimar (@maimar):
+hay operador ternario en python?
+17:16:29 - Julian (@jantonielli01):
+Hacete un array de keys y mapealo con eso
+17:22:41 - Martín Valdés de León (@mvaldesdeleon):
+Hay if expressions
+17:22:48 - Martín Valdés de León (@mvaldesdeleon):
+`val = foo if cond else bar`
+17:24:36 - Martín Aimar (@maimar):
+eso sería if cond val = foo else val = bar?
+17:24:52 - Martín Valdés de León (@mvaldesdeleon):
+sep
+17:24:57 - Martín Valdés de León (@mvaldesdeleon):
+y es lazy como esperarias
+17:25:08 - Martín Valdés de León (@mvaldesdeleon):
+primero evalua cond, y solo si es true evalua foo, y solo si es false evalua bar
+17:25:34 - Santiago Ruffino (@santi_0898):
+Lo que vos decis seria iniciar todas las variables en False?
+17:28:08 - Martín Valdés de León (@mvaldesdeleon):
+Armate una funcion que haga eso.
+17:29:42 - Martín Valdés de León (@mvaldesdeleon):
+```
+def getWithDefault(jsondict, key, default=False):
+   value = jsondict.get(key)
+   return value if value is not None else default
+```
+17:29:53 - Martín Valdés de León (@mvaldesdeleon):
+(o algo asi)
+17:30:06 - Santiago Ruffino (@santi_0898):
+Claro
+17:30:13 - Santiago Ruffino (@santi_0898):
+No habia pensado lo de la funcion
+17:30:16 - Santiago Ruffino (@santi_0898):
+Voy a implementar eso
+17:30:17 - Santiago Ruffino (@santi_0898):
+Gracias!
+17:30:30 - Martín Valdés de León (@mvaldesdeleon):
+dps lo que dice Julian es que podes ahorrarte llamar a mano a la funcion 10 veces
+17:30:46 - Martín Valdés de León (@mvaldesdeleon):
+usando map, o en el caso de python podrias usar list comprehensions directamente
+17:30:54 - Martín Valdés de León (@mvaldesdeleon):
+si ya tenes una list de las keys
+17:32:13 - Martín Valdés de León (@mvaldesdeleon):
+`values = [getWithDefault(dict, key) for key in keys]`
+18:37:12 - Wilfredo Alcala (@alcalawilfre):
+Saludos.. Quiero descargar una versión lightweight de ubuntu.. Vi que había Lubuntu, Xubuntu y Ubunut Mate.. No sé cual seleccionar.. Alguien que las haya usado y me de su punto de vista?
+19:07:44 - Juan Bono (@juanbono):
+Para mí xubuntu es la posta (bah en realidad XFCE, no xubuntu)
+19:09:16 - Juan Bono (@juanbono):
+Porque es liviano como Lubuntu pero más usable y lindo visualmente
+20:32:30 - Daniel Broder (@dabroder):
+yo uso lubuntu, pero hace poquito (en la versión 18.10) pasaron el escritorio de LXDE a LXQT y algunas cositas están medio verde.
+20:36:28 - Juan Bono (@juanbono):
+Ahhh que loco, voy a tener que bajarla y probar. Yo la usé hace unos 2 o 3 años cuando aún era LXDE
+20:38:58 - Daniel Broder (@dabroder):
+se ve más linda :sunglasses: pero tiene varios detalles de pintura todavía :white_frowning_face:

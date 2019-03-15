@@ -1,0 +1,382 @@
+11:27:54 - Luis Alvarez (@luistensai):
+<@U873ZQTEG> yo estoy contratado cobrando por upwork, so far so good
+11:28:36 - Luis Alvarez (@luistensai):
+pero eso es más que nada por mi cliente
+11:28:44 - Luis Alvarez (@luistensai):
+lo importante no es la plataforma sino el cliente
+11:28:56 - Leandro Echevarria (@echevarrialeandro):
+Anotada! Gracias por el dato
+11:29:11 - Leandro Echevarria (@echevarrialeandro):
+Ah eso si mas vale, yo me referia mas a plataformas donde conseguir los freelos/proyectos
+11:29:25 - Leandro Echevarria (@echevarrialeandro):
+Después con cada cliente se verá como cobrar y demás yerbas asumo
+11:29:39 - Luis Alvarez (@luistensai):
+lo malo de upwork son los tiempos
+11:29:51 - Luis Alvarez (@luistensai):
+hasta que cobrás un laburo pueden pasar varios días
+11:30:24 - Leandro Echevarria (@echevarrialeandro):
+Movido desde <#C06MTLZ1Q|laboral-freelo>
+11:30:31 - Gonza Onisimchuk (@gonzaonisimchuk):
+<@U09SB6K5H> algún consejo para conseguir algo en upwork? estuve tirando algunas propuestas pero no me están dando mucha bola
+11:32:42 - Luis Alvarez (@luistensai):
+la verdad no sé muy bien, yo tuve la suerte de que un amigo me refirió este cliente y ya llevo un par de años laburando para el mismo...
+lo que muchos recomiendan en sí es tener un buen profile y cosas para mostrar...
+por linkedin también se consiguen ofertas de laburo remoto, es cuestión de tener paciencia y perseverancia...
+13:25:39 - Marcos Casagrande (@marcoscvp90):
+<@U873ZQTEG> yo laburo en Codementor, en mi opinión 10 mil veces mejor que upwork.
+13:25:45 - Marcos Casagrande (@marcoscvp90):
+(Estoy en ambas).
+13:26:04 - Leandro Echevarria (@echevarrialeandro):
+Anotada también :smile:
+13:26:38 - Marcos Casagrande (@marcoscvp90):
+Te voy a dejar mi referral, no tenés que usarlo, pero allá voy :slightly_smiling_face:
+13:26:43 - Leandro Echevarria (@echevarrialeandro):
+En el corto plazo la idea es empezar a apuntar para afuera. Toda la data sirve para investigar y sacarme lo burro
+13:26:44 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io?referral=marcoscasagrande-4ofsa8hnqn>
+13:27:24 - Marcos Casagrande (@marcoscvp90):
+Lo importante de Codementor, es armar un buen perfil, porque *no todos* entran, no es libre, tienen un filtro, por eso lo hace una plataforma superior a Upwork.
+13:27:40 - Marcos Casagrande (@marcoscvp90):
+En Upwork hay demasiada competencia desleal se podría decir, como ocurre en freelancer, etc.
+13:28:33 - Leandro Echevarria (@echevarrialeandro):
+El perfil serio es la primer presentación, crucial. Voy a mirar mas adelante esos temas asi cuando decidamos una/varias plataformas para entrar lo hagamos lo más completo y profesional posible
+13:29:06 - Marcos Casagrande (@marcoscvp90):
+Te dejo el mío, para que te hagas una idea más o menos de lo que tenés que completar: <https://www.codementor.io/marcoscasagrande>
+13:29:22 - Leandro Echevarria (@echevarrialeandro):
+Genial, muy muy útil!
+13:29:33 - Leandro Echevarria (@echevarrialeandro):
+Podes entrar como team en codementor?
+13:29:40 - Marcos Casagrande (@marcoscvp90):
+No, es individual.
+13:30:19 - Marcos Casagrande (@marcoscvp90):
+La gran diferencia de Upwork y Codementor, que Codementor además de trabajo en vivo, tiene live sessions. Ahí es dónde le sacás el jugo.
+13:30:43 - Leandro Echevarria (@echevarrialeandro):
+Haces de mentor en esas live?
+13:31:40 - Marcos Casagrande (@marcoscvp90):
+Un poco si, pero son los menos, la mayoría es live coding, resolver bugs, o simplemente codear algo en la compu del cliente.
+13:31:47 - Nico (@nicokorn96):
+Como funciona?
+13:34:16 - Leandro Echevarria (@echevarrialeandro):
+Ya se siente la presión
+13:35:00 - Leandro Echevarria (@echevarrialeandro):
+Gracias por la data, me estoy anotando las plataformas que fueron sugiriendo, más adelante cuando vaya apuntando a eso veo con cual empiezo. Me anoté para pedirte el referido si voy por codementor :wink:
+13:35:39 - Marcos Casagrande (@marcoscvp90):
+Genial, gracias. Cualquier cosa pregnutame, ya metí varios Argentinos ahí, y les cambió la vida.
+13:35:43 - Leandro Echevarria (@echevarrialeandro):
+En principio serán freelos, hasta no tener una base sólida online o clientes estables afuera ni loco dejo el laburo. Un cagazo enorme
+13:35:45 - Marcos Casagrande (@marcoscvp90):
+La plataforma en si?
+13:35:47 - Leandro Echevarria (@echevarrialeandro):
+Dale, chas gracias :smile:!
+13:35:58 - Leandro Echevarria (@echevarrialeandro):
+si puedo evitar los live coding mejor, me hacen mal jaja
+13:37:26 - Nico (@nicokorn96):
+si
+13:43:40 - Marcos Casagrande (@marcoscvp90):
+Es una plataforma para trabajos freelance o sesiones en vivo (En inglés el 99%). Las sesiones son desde hacer un deploy, resolver un bug, explicar un pedazo de código, o codear algo de cero. Se cobran por minuto. El precio base de todos los devs es de 60 dólares por hora, lo cual hace que nadie te haga undercut. Obviamente podés aumentarte la tarifa sin problemas.
+13:44:52 - Marcos Casagrande (@marcoscvp90):
+Como en toda plataforma, al principio cuesta un poco más hasta que te tengas cierta reputación, después hay muchísimo trabajo. Y con esas tarifas, en 30-40 horas ya hacés el doble que en un laburo normal en relación de dependencia en Argentina.
+13:45:22 - Marcos Casagrande (@marcoscvp90):
+Dónde la mayoría ganan 1000-1200 USD = 20 horas en Codementor.
+14:01:21 - Juan Scolari (@juanscolari):
+pregunta, iva e iibb (en caba) estan exentos para exportacion de servicios?
+14:03:52 - Silvio Messina (@smessina):
+IVA si, IIBB no, salvo que:
+- Estés radicado en el Polo Tecnológico de Parque Patricios, ó…
+- Estés exento por tener titulo de grado cuya carrera oficial sea &gt; 4 años de duración
+14:05:30 - Juan Scolari (@juanscolari):
+porque estaba viendo esto
+<https://www.agip.gob.ar/normativa/resoluciones/2010/agip/res-288-agip-2010>
+14:05:53 - Juan Scolari (@juanscolari):
+…dispone la exención en el Impuesto sobre los Ingresos Brutos para “los ingresos obtenidos por la exportación de servicios que se efectivicen en el exterior”
+14:06:03 - Juan Scolari (@juanscolari):
+y me entro la duda
+14:06:04 - Marcos Casagrande (@marcoscvp90):
+No hay que pagar IIBB en CABA, para *exportación*
+14:06:33 - Marcos Casagrande (@marcoscvp90):
+Es solo para factura E
+14:06:43 - Juan Scolari (@juanscolari):
+joya
+14:06:57 - Marcos Casagrande (@marcoscvp90):
+_no soy contador_, pero eso me dijo el mío.
+14:07:00 - Juan Scolari (@juanscolari):
+y de la retencion para exportacion de servicios que iban a aplicar este año saben algo? o en que quedo?
+14:07:07 - Marcos Casagrande (@marcoscvp90):
+Si, me cogieron fuerte.
+14:07:17 - Juan Scolari (@juanscolari):
+obvio, todas estas cosas con contador, pero para tener una idea
+14:07:46 - Marcos Casagrande (@marcoscvp90):
+Los monotributistas, estamos excentos por la definición, pero tenés que registrarte como pyme, sino te cobran el impuesto, ridículo como todo en este país.
+14:08:07 - Marcos Casagrande (@marcoscvp90):
+Entonces el mes pasado me empomaron 7 lucas.
+14:08:38 - Marcos Casagrande (@marcoscvp90):
+O sea, en algo que estás excento, teńes que decir: "Estoy excento" sino te cobran.
+14:08:39 - Juan Scolari (@juanscolari):
+pero de retencion o por convertirte en ‘pyme’
+14:08:52 - Juan Scolari (@juanscolari):
+por declararte exento?
+14:09:04 - Marcos Casagrande (@marcoscvp90):
+Te dejo la nota: <https://www.cronista.com/economiapolitica/Monotributo-hay-que-inscribirse-como-pyme--para-exencion-en-exportacion-de-servicios-20190128-0024.html>
+14:09:23 - Silvio Messina (@smessina):
+Tenes razón <@UGQTUDQSG>, solo pagar IIBB si tmb facturás acá
+14:10:07 - Marcos Casagrande (@marcoscvp90):
+Así que el primer mes, el 95% de los monotributistas que exportabamos servicios, nos mataron.
+14:10:17 - Juan Scolari (@juanscolari):
+joya, no conocia el registro ese de “Mipymes”
+14:10:23 - Marcos Casagrande (@marcoscvp90):
+Nadie, ese era el chiste.
+14:10:42 - Silvio Messina (@smessina):
+Con el certificado de MiPyME se lo mandas al banco para que no te hagan retenciones
+14:11:56 - Ezequiel Leites (@leites25):
+:ok_hand: me guardo esto, estoy proximo a tener que laburar como monotributista para afuera y estoy practicamente en 0 en temas de impuestos que deberia estar exento y demas.
+14:11:56 - Juan Scolari (@juanscolari):
+y para los que estan en el regimen general saben?
+14:12:04 - Silvio Messina (@smessina):
+tambien aplica
+14:12:31 - Juan Scolari (@juanscolari):
+y uno se podria inscribir a este regimen o es solo para monotributistas?
+14:12:43 - Silvio Messina (@smessina):
+es para todos
+14:13:28 - Silvio Messina (@smessina):
+<https://pymes.afip.gob.ar/estiloAFIP/PYMES/default.asp>
+14:13:57 - Silvio Messina (@smessina):
+Si estas en el Regimen General tenes otros “beneficios” si haces tmb operaciones locales
+14:14:08 - Juan Scolari (@juanscolari):
+me quede leyendo eso justo jaj
+14:14:22 - Silvio Messina (@smessina):
+(IVA a 90 dias, deduccion a Imp a las Ganancias, etc)
+14:15:05 - Juan Scolari (@juanscolari):
+joya, alguna deduccion extra a ganancias se podra hacer?
+14:16:40 - Silvio Messina (@smessina):
+El impuesto al Cheque
+14:17:56 - Silvio Messina (@smessina):
+y capacitaciones en instituciones UCAP
+14:19:00 - Juan Scolari (@juanscolari):
+joya
+14:19:16 - Juan Scolari (@juanscolari):
+gracias por todas las respuestas!
+14:19:39 - Juan Scolari (@juanscolari):
+las tomo con el disclaimer de &lt;consultar con contador&gt;
+14:22:44 - Marcos Casagrande (@marcoscvp90):
+Si, antes de facturar, asegurate de todo eso, el resto aprendimos a base del bolsillo. _El estado siempre que pueda, te va a cagar_
+14:24:26 - Ezequiel Leites (@leites25):
+Si, consulté con la contadora y aparentemente es solo ingresos brutos y monotributo siempre y cuando no me pase del monto de la categoria y dentro de todo estoy conforme con el monto a pagar, pero no quiero encontrarme con nada raro despues
+14:25:35 - Marcos Casagrande (@marcoscvp90):
+Si vas a laburar para afuera, y estás en caba, *no pagás ingresos brutos*
+14:26:00 - Ezequiel Leites (@leites25):
+Resido en CABA pero tengo domicilio legal en GBA
+14:26:49 - Marcos Casagrande (@marcoscvp90):
+Las 3 cosas que tenés que asegurarte con tu contador/a es:
+- Que puedas hacer factura E
+- Que te anote como Pyme, como dice en ese link
+- Que te asegure que no pagues ingresos brutos, porque con factura E estás excento. Yo tuve un problema con Arba que me retiraba plata, tuve que hacer la queja.
+14:27:24 - Marcos Casagrande (@marcoscvp90):
+Estoy 95% seguro, que en GBA tampoco pagás ingresos brutos, yo hice la queja en Arba, pero para hacerlo más fácil cambié el domicilio a CABA.
+14:27:48 - Marcos Casagrande (@marcoscvp90):
+Así que estnado en GBA, asegurate que tu contador/a haga los trámites necesarios para que ARBA no meta mano en tu cuenta bancaria.
+14:57:03 - Martin Carrera (@mcarrera):
+en GBA SI se pagan ingresos brutos siendo monotributista y haciendo factura E
+14:58:02 - Martin Carrera (@mcarrera):
+y como dice <@UGQTUDQSG> NO TE OLVIDES DE REGISTRARTE COMO PYME sino te va a kber 4 pesos por dolar facturado
+15:01:34 - Gonza Espeche (@espeche.g):
+que dolor de huevos tener que cranear todas estas puntas para poder laburar tranquilo
+15:19:49 - Silvio Messina (@smessina):
+para un trabajador o un profesional independiente si… pero para el empresario (bueno, malo o garca) es el dia a dia
+17:29:29 - Octavio Coria (@chapotronic):
+Upwork me resultó muy bien. Mantengo el mismo cliente desde hace 8 años. Por otro lado puede ser una selva llena de trabajo precario y clientes inescrupulosos.
+17:34:52 - Octavio Coria (@chapotronic):
+Comparto mi perfil por si sirve de referencia. Agradecería ver tb el de ustedes.
+<https://www.upwork.com/freelancers/~01d53d26c0e313f450>
+Bue, lo de USD70 por hora es un anhelo, y tb para que no me denseen con proyectos que no me interesan.
+El resto de la info es posta.
+11:27:54 - Luis Alvarez (@luistensai):
+<@U873ZQTEG> yo estoy contratado cobrando por upwork, so far so good
+11:28:36 - Luis Alvarez (@luistensai):
+pero eso es más que nada por mi cliente
+11:28:44 - Luis Alvarez (@luistensai):
+lo importante no es la plataforma sino el cliente
+11:28:56 - Leandro Echevarria (@echevarrialeandro):
+Anotada! Gracias por el dato
+11:29:11 - Leandro Echevarria (@echevarrialeandro):
+Ah eso si mas vale, yo me referia mas a plataformas donde conseguir los freelos/proyectos
+11:29:25 - Leandro Echevarria (@echevarrialeandro):
+Después con cada cliente se verá como cobrar y demás yerbas asumo
+11:29:39 - Luis Alvarez (@luistensai):
+lo malo de upwork son los tiempos
+11:29:51 - Luis Alvarez (@luistensai):
+hasta que cobrás un laburo pueden pasar varios días
+11:30:24 - Leandro Echevarria (@echevarrialeandro):
+Movido desde <#C06MTLZ1Q|laboral-freelo>
+11:30:31 - Gonza Onisimchuk (@gonzaonisimchuk):
+<@U09SB6K5H> algún consejo para conseguir algo en upwork? estuve tirando algunas propuestas pero no me están dando mucha bola
+11:32:42 - Luis Alvarez (@luistensai):
+la verdad no sé muy bien, yo tuve la suerte de que un amigo me refirió este cliente y ya llevo un par de años laburando para el mismo...
+lo que muchos recomiendan en sí es tener un buen profile y cosas para mostrar...
+por linkedin también se consiguen ofertas de laburo remoto, es cuestión de tener paciencia y perseverancia...
+13:25:39 - Marcos Casagrande (@marcoscvp90):
+<@U873ZQTEG> yo laburo en Codementor, en mi opinión 10 mil veces mejor que upwork.
+13:25:45 - Marcos Casagrande (@marcoscvp90):
+(Estoy en ambas).
+13:26:04 - Leandro Echevarria (@echevarrialeandro):
+Anotada también :smile:
+13:26:38 - Marcos Casagrande (@marcoscvp90):
+Te voy a dejar mi referral, no tenés que usarlo, pero allá voy :slightly_smiling_face:
+13:26:43 - Leandro Echevarria (@echevarrialeandro):
+En el corto plazo la idea es empezar a apuntar para afuera. Toda la data sirve para investigar y sacarme lo burro
+13:26:44 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io?referral=marcoscasagrande-4ofsa8hnqn>
+13:27:24 - Marcos Casagrande (@marcoscvp90):
+Lo importante de Codementor, es armar un buen perfil, porque *no todos* entran, no es libre, tienen un filtro, por eso lo hace una plataforma superior a Upwork.
+13:27:40 - Marcos Casagrande (@marcoscvp90):
+En Upwork hay demasiada competencia desleal se podría decir, como ocurre en freelancer, etc.
+13:28:33 - Leandro Echevarria (@echevarrialeandro):
+El perfil serio es la primer presentación, crucial. Voy a mirar mas adelante esos temas asi cuando decidamos una/varias plataformas para entrar lo hagamos lo más completo y profesional posible
+13:29:06 - Marcos Casagrande (@marcoscvp90):
+Te dejo el mío, para que te hagas una idea más o menos de lo que tenés que completar: <https://www.codementor.io/marcoscasagrande>
+13:29:22 - Leandro Echevarria (@echevarrialeandro):
+Genial, muy muy útil!
+13:29:33 - Leandro Echevarria (@echevarrialeandro):
+Podes entrar como team en codementor?
+13:29:40 - Marcos Casagrande (@marcoscvp90):
+No, es individual.
+13:30:19 - Marcos Casagrande (@marcoscvp90):
+La gran diferencia de Upwork y Codementor, que Codementor además de trabajo en vivo, tiene live sessions. Ahí es dónde le sacás el jugo.
+13:30:43 - Leandro Echevarria (@echevarrialeandro):
+Haces de mentor en esas live?
+13:31:40 - Marcos Casagrande (@marcoscvp90):
+Un poco si, pero son los menos, la mayoría es live coding, resolver bugs, o simplemente codear algo en la compu del cliente.
+13:31:47 - Nico (@nicokorn96):
+Como funciona?
+13:34:16 - Leandro Echevarria (@echevarrialeandro):
+Ya se siente la presión
+13:35:00 - Leandro Echevarria (@echevarrialeandro):
+Gracias por la data, me estoy anotando las plataformas que fueron sugiriendo, más adelante cuando vaya apuntando a eso veo con cual empiezo. Me anoté para pedirte el referido si voy por codementor :wink:
+13:35:39 - Marcos Casagrande (@marcoscvp90):
+Genial, gracias. Cualquier cosa pregnutame, ya metí varios Argentinos ahí, y les cambió la vida.
+13:35:43 - Leandro Echevarria (@echevarrialeandro):
+En principio serán freelos, hasta no tener una base sólida online o clientes estables afuera ni loco dejo el laburo. Un cagazo enorme
+13:35:45 - Marcos Casagrande (@marcoscvp90):
+La plataforma en si?
+13:35:47 - Leandro Echevarria (@echevarrialeandro):
+Dale, chas gracias :smile:!
+13:35:58 - Leandro Echevarria (@echevarrialeandro):
+si puedo evitar los live coding mejor, me hacen mal jaja
+13:37:26 - Nico (@nicokorn96):
+si
+13:43:40 - Marcos Casagrande (@marcoscvp90):
+Es una plataforma para trabajos freelance o sesiones en vivo (En inglés el 99%). Las sesiones son desde hacer un deploy, resolver un bug, explicar un pedazo de código, o codear algo de cero. Se cobran por minuto. El precio base de todos los devs es de 60 dólares por hora, lo cual hace que nadie te haga undercut. Obviamente podés aumentarte la tarifa sin problemas.
+13:44:52 - Marcos Casagrande (@marcoscvp90):
+Como en toda plataforma, al principio cuesta un poco más hasta que te tengas cierta reputación, después hay muchísimo trabajo. Y con esas tarifas, en 30-40 horas ya hacés el doble que en un laburo normal en relación de dependencia en Argentina.
+13:45:22 - Marcos Casagrande (@marcoscvp90):
+Dónde la mayoría ganan 1000-1200 USD = 20 horas en Codementor.
+14:01:21 - Juan Scolari (@juanscolari):
+pregunta, iva e iibb (en caba) estan exentos para exportacion de servicios?
+14:03:52 - Silvio Messina (@smessina):
+IVA si, IIBB no, salvo que:
+- Estés radicado en el Polo Tecnológico de Parque Patricios, ó…
+- Estés exento por tener titulo de grado cuya carrera oficial sea &gt; 4 años de duración
+14:05:30 - Juan Scolari (@juanscolari):
+porque estaba viendo esto
+<https://www.agip.gob.ar/normativa/resoluciones/2010/agip/res-288-agip-2010>
+14:05:53 - Juan Scolari (@juanscolari):
+…dispone la exención en el Impuesto sobre los Ingresos Brutos para “los ingresos obtenidos por la exportación de servicios que se efectivicen en el exterior”
+14:06:03 - Juan Scolari (@juanscolari):
+y me entro la duda
+14:06:04 - Marcos Casagrande (@marcoscvp90):
+No hay que pagar IIBB en CABA, para *exportación*
+14:06:33 - Marcos Casagrande (@marcoscvp90):
+Es solo para factura E
+14:06:43 - Juan Scolari (@juanscolari):
+joya
+14:06:57 - Marcos Casagrande (@marcoscvp90):
+_no soy contador_, pero eso me dijo el mío.
+14:07:00 - Juan Scolari (@juanscolari):
+y de la retencion para exportacion de servicios que iban a aplicar este año saben algo? o en que quedo?
+14:07:07 - Marcos Casagrande (@marcoscvp90):
+Si, me cogieron fuerte.
+14:07:17 - Juan Scolari (@juanscolari):
+obvio, todas estas cosas con contador, pero para tener una idea
+14:07:46 - Marcos Casagrande (@marcoscvp90):
+Los monotributistas, estamos excentos por la definición, pero tenés que registrarte como pyme, sino te cobran el impuesto, ridículo como todo en este país.
+14:08:07 - Marcos Casagrande (@marcoscvp90):
+Entonces el mes pasado me empomaron 7 lucas.
+14:08:38 - Marcos Casagrande (@marcoscvp90):
+O sea, en algo que estás excento, teńes que decir: "Estoy excento" sino te cobran.
+14:08:39 - Juan Scolari (@juanscolari):
+pero de retencion o por convertirte en ‘pyme’
+14:08:52 - Juan Scolari (@juanscolari):
+por declararte exento?
+14:09:04 - Marcos Casagrande (@marcoscvp90):
+Te dejo la nota: <https://www.cronista.com/economiapolitica/Monotributo-hay-que-inscribirse-como-pyme--para-exencion-en-exportacion-de-servicios-20190128-0024.html>
+14:09:23 - Silvio Messina (@smessina):
+Tenes razón <@UGQTUDQSG>, solo pagar IIBB si tmb facturás acá
+14:10:07 - Marcos Casagrande (@marcoscvp90):
+Así que el primer mes, el 95% de los monotributistas que exportabamos servicios, nos mataron.
+14:10:17 - Juan Scolari (@juanscolari):
+joya, no conocia el registro ese de “Mipymes”
+14:10:23 - Marcos Casagrande (@marcoscvp90):
+Nadie, ese era el chiste.
+14:10:42 - Silvio Messina (@smessina):
+Con el certificado de MiPyME se lo mandas al banco para que no te hagan retenciones
+14:11:56 - Ezequiel Leites (@leites25):
+:ok_hand: me guardo esto, estoy proximo a tener que laburar como monotributista para afuera y estoy practicamente en 0 en temas de impuestos que deberia estar exento y demas.
+14:11:56 - Juan Scolari (@juanscolari):
+y para los que estan en el regimen general saben?
+14:12:04 - Silvio Messina (@smessina):
+tambien aplica
+14:12:31 - Juan Scolari (@juanscolari):
+y uno se podria inscribir a este regimen o es solo para monotributistas?
+14:12:43 - Silvio Messina (@smessina):
+es para todos
+14:13:28 - Silvio Messina (@smessina):
+<https://pymes.afip.gob.ar/estiloAFIP/PYMES/default.asp>
+14:13:57 - Silvio Messina (@smessina):
+Si estas en el Regimen General tenes otros “beneficios” si haces tmb operaciones locales
+14:14:08 - Juan Scolari (@juanscolari):
+me quede leyendo eso justo jaj
+14:14:22 - Silvio Messina (@smessina):
+(IVA a 90 dias, deduccion a Imp a las Ganancias, etc)
+14:15:05 - Juan Scolari (@juanscolari):
+joya, alguna deduccion extra a ganancias se podra hacer?
+14:16:40 - Silvio Messina (@smessina):
+El impuesto al Cheque
+14:17:56 - Silvio Messina (@smessina):
+y capacitaciones en instituciones UCAP
+14:19:00 - Juan Scolari (@juanscolari):
+joya
+14:19:16 - Juan Scolari (@juanscolari):
+gracias por todas las respuestas!
+14:19:39 - Juan Scolari (@juanscolari):
+las tomo con el disclaimer de &lt;consultar con contador&gt;
+14:22:44 - Marcos Casagrande (@marcoscvp90):
+Si, antes de facturar, asegurate de todo eso, el resto aprendimos a base del bolsillo. _El estado siempre que pueda, te va a cagar_
+14:24:26 - Ezequiel Leites (@leites25):
+Si, consulté con la contadora y aparentemente es solo ingresos brutos y monotributo siempre y cuando no me pase del monto de la categoria y dentro de todo estoy conforme con el monto a pagar, pero no quiero encontrarme con nada raro despues
+14:25:35 - Marcos Casagrande (@marcoscvp90):
+Si vas a laburar para afuera, y estás en caba, *no pagás ingresos brutos*
+14:26:00 - Ezequiel Leites (@leites25):
+Resido en CABA pero tengo domicilio legal en GBA
+14:26:49 - Marcos Casagrande (@marcoscvp90):
+Las 3 cosas que tenés que asegurarte con tu contador/a es:
+- Que puedas hacer factura E
+- Que te anote como Pyme, como dice en ese link
+- Que te asegure que no pagues ingresos brutos, porque con factura E estás excento. Yo tuve un problema con Arba que me retiraba plata, tuve que hacer la queja.
+14:27:24 - Marcos Casagrande (@marcoscvp90):
+Estoy 95% seguro, que en GBA tampoco pagás ingresos brutos, yo hice la queja en Arba, pero para hacerlo más fácil cambié el domicilio a CABA.
+14:27:48 - Marcos Casagrande (@marcoscvp90):
+Así que estnado en GBA, asegurate que tu contador/a haga los trámites necesarios para que ARBA no meta mano en tu cuenta bancaria.
+14:57:03 - Martin Carrera (@mcarrera):
+en GBA SI se pagan ingresos brutos siendo monotributista y haciendo factura E
+14:58:02 - Martin Carrera (@mcarrera):
+y como dice <@UGQTUDQSG> NO TE OLVIDES DE REGISTRARTE COMO PYME sino te va a kber 4 pesos por dolar facturado
+15:01:34 - Gonza Espeche (@espeche.g):
+que dolor de huevos tener que cranear todas estas puntas para poder laburar tranquilo
+15:19:49 - Silvio Messina (@smessina):
+para un trabajador o un profesional independiente si… pero para el empresario (bueno, malo o garca) es el dia a dia
+17:29:29 - Octavio Coria (@chapotronic):
+Upwork me resultó muy bien. Mantengo el mismo cliente desde hace 8 años. Por otro lado puede ser una selva llena de trabajo precario y clientes inescrupulosos.
+17:34:52 - Octavio Coria (@chapotronic):
+Comparto mi perfil por si sirve de referencia. Agradecería ver tb el de ustedes.
+<https://www.upwork.com/freelancers/~01d53d26c0e313f450>
+Bue, lo de USD70 por hora es un anhelo, y tb para que no me denseen con proyectos que no me interesan.
+El resto de la info es posta.

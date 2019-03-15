@@ -1,0 +1,180 @@
+09:01:53 - Fran Sosa (@watafaka):
+Freecodecamp
+10:23:03 - Brian Hume (@brianh20):
+nada que ver con JS
+un cliente me pide un una api con Laravel
+si alguien tiene un video/doc/tutorial que haya visto y este piola se agradece
+10:25:44 - Santiago Ruffino (@santi_0898):
+Haciendo Copy Paste, <https://www.ecodeup.com/como-crear-un-servicio-web-api-rest-con-laravel-5-5-y-consumirlo-desde-android/>
+10:26:48 - Martín Aimar (@maimar):
+sólo chequeá los docs de laravel, es extremadamente sencillo
+10:27:18 - Santiago Ruffino (@santi_0898):
+<https://styde.net/api-rest-con-laravel-5-1-primeros-pasos/>
+10:41:20 - Gonza Gluzman (@gonza):
+Laravel es muuuuy “framework” (sí, lo estoy usando como adjetivo)
+10:41:39 - Gonza Gluzman (@gonza):
+Lo que te recomiendo es que todo lo que intentes hacer, primero busques cómo hacerlo “a la laravel”
+10:41:50 - Gonza Gluzman (@gonza):
+Porque seguro que ya pensaron una forma de hacerlo
+10:42:01 - Gonza Gluzman (@gonza):
+E ir “por el costado” termina siendo un quilombo
+10:42:19 - Gonza Gluzman (@gonza):
+Ésa es la gran ventaja y la gran desventaja de los frameworks
+10:42:31 - Gonza Gluzman (@gonza):
+Es muy straightforward para lo que ya pensaron
+10:42:43 - Gonza Gluzman (@gonza):
+Y muy complicado para el caso de uso que *no* pensaron
+10:42:48 - Martín Aimar (@maimar):
+si prácticamente ya resolvieron todo
+10:45:07 - Martín Aimar (@maimar):
+y el orm es impecable
+10:48:15 - Brian Hume (@brianh20):
+si si, justamente quiero saber com ose hace
+10:48:21 - Brian Hume (@brianh20):
+porque vi tutoriales y pude hacer un minimo crud
+10:48:28 - Brian Hume (@brianh20):
+pero ninguno aborda el tema de las relaciones
+10:48:33 - Brian Hume (@brianh20):
+one to many, etc y como se busca con el orm
+10:48:42 - Brian Hume (@brianh20):
+ninguno =&gt; de los que vi
+10:50:11 - Martín Aimar (@maimar):
+chequeate los docs, vas a encontrar todo ahí
+10:50:43 - Martín Aimar (@maimar):
+lo más recomendable es que respetes las naming conventions así no te volvés loco con los nombres de los campos
+10:53:23 - Federico Finos (@federico.finos):
+<https://lumen.laravel.com/>
+10:54:22 - Martín Aimar (@maimar):
+huirle a eso como a la peste
+10:59:17 - Brian Hume (@brianh20):
+jajajaja
+11:01:07 - Brian Hume (@brianh20):
+alguien mas se desperto hoy y tenia el chrome en modo noctuerno en mac?
+11:15:55 - Gonzalo González Mora (@gonzalogm):
+Qué onda, cómo se ve? Yo ya tenía un theme dark
+11:21:08 - Brian Hume (@brianh20):
+yo no lo puse
+11:21:44 - Martín Aimar (@maimar):
+cómo joden con el dark theme
+11:22:11 - Gonzalo González Mora (@gonzalogm):
+Aguanten los dark theme jaja
+11:23:03 - Martín Aimar (@maimar):
+<https://youtu.be/rDMI1dpNfdw?t=353>
+11:25:35 - Gonzalo González Mora (@gonzalogm):
+Tiene sentido, habrá que probar
+11:26:03 - Julio (@julito):
+Estuve usando light themes por un tiempo pero al final lo que me hizo cambiar es aburrimiento :stuck_out_tongue:
+11:26:14 - Gonzalo González Mora (@gonzalogm):
+Yo de noche igual siempre uso f.lux así que mucho no me jode
+11:33:56 - Martín Aimar (@maimar):
+el dark mode de chrome parece como si estuviera siempre en incognito
+11:42:03 - Pablo Enrici (@pablen):
+es idéntico, no? no veo cambios en el diseño entre el dark mode y el modo incognito
+11:43:11 - Gonza Gluzman (@gonza):
+Peligro
+11:43:13 - Gonza Gluzman (@gonza):
+Jajajjaj
+11:46:29 - Martín Aimar (@maimar):
+yo lo veo igual, lo único para diferenciarlo es que dice incognito a la derecha de la barra de dirección
+12:31:36 - Julian (@jantonielli01):
+El mejor dark theme es (Mac) `System Config -&gt; Accessibility -&gt; Invert colors`
+20:23:57 - Mati Dastugue (@matiasdastugue):
+Consulta : Alguno que tenga 2FA en GitHub y perdió acceso a los tokens y códigos de recuperó pudo volver a loguearse? Gracias !
+20:28:00 - Sergio Daniel Xalambrí (@sergiodxa):
+La idea es que no puedas 
+20:28:18 - Sergio Daniel Xalambrí (@sergiodxa):
+Pero podrías intentar hablar con soporte
+20:28:41 - Sergio Daniel Xalambrí (@sergiodxa):
+Capaz puedas de alguna forma verificar tu identidad y que te recuperen el acceso 
+20:33:33 - Mati Dastugue (@matiasdastugue):
+Encontré una forma de obtener el token usando fb si la tenes vinculado con github pero queda como pendiente y te dice que avises a soporte para que lo confirmen, pero mande hoy a la mañana y todavía sin respuesta 
+09:01:53 - Fran Sosa (@watafaka):
+Freecodecamp
+10:23:03 - Brian Hume (@brianh20):
+nada que ver con JS
+un cliente me pide un una api con Laravel
+si alguien tiene un video/doc/tutorial que haya visto y este piola se agradece
+10:25:44 - Santiago Ruffino (@santi_0898):
+Haciendo Copy Paste, <https://www.ecodeup.com/como-crear-un-servicio-web-api-rest-con-laravel-5-5-y-consumirlo-desde-android/>
+10:26:48 - Martín Aimar (@maimar):
+sólo chequeá los docs de laravel, es extremadamente sencillo
+10:27:18 - Santiago Ruffino (@santi_0898):
+<https://styde.net/api-rest-con-laravel-5-1-primeros-pasos/>
+10:41:20 - Gonza Gluzman (@gonza):
+Laravel es muuuuy “framework” (sí, lo estoy usando como adjetivo)
+10:41:39 - Gonza Gluzman (@gonza):
+Lo que te recomiendo es que todo lo que intentes hacer, primero busques cómo hacerlo “a la laravel”
+10:41:50 - Gonza Gluzman (@gonza):
+Porque seguro que ya pensaron una forma de hacerlo
+10:42:01 - Gonza Gluzman (@gonza):
+E ir “por el costado” termina siendo un quilombo
+10:42:19 - Gonza Gluzman (@gonza):
+Ésa es la gran ventaja y la gran desventaja de los frameworks
+10:42:31 - Gonza Gluzman (@gonza):
+Es muy straightforward para lo que ya pensaron
+10:42:43 - Gonza Gluzman (@gonza):
+Y muy complicado para el caso de uso que *no* pensaron
+10:42:48 - Martín Aimar (@maimar):
+si prácticamente ya resolvieron todo
+10:45:07 - Martín Aimar (@maimar):
+y el orm es impecable
+10:48:15 - Brian Hume (@brianh20):
+si si, justamente quiero saber com ose hace
+10:48:21 - Brian Hume (@brianh20):
+porque vi tutoriales y pude hacer un minimo crud
+10:48:28 - Brian Hume (@brianh20):
+pero ninguno aborda el tema de las relaciones
+10:48:33 - Brian Hume (@brianh20):
+one to many, etc y como se busca con el orm
+10:48:42 - Brian Hume (@brianh20):
+ninguno =&gt; de los que vi
+10:50:11 - Martín Aimar (@maimar):
+chequeate los docs, vas a encontrar todo ahí
+10:50:43 - Martín Aimar (@maimar):
+lo más recomendable es que respetes las naming conventions así no te volvés loco con los nombres de los campos
+10:53:23 - Federico Finos (@federico.finos):
+<https://lumen.laravel.com/>
+10:54:22 - Martín Aimar (@maimar):
+huirle a eso como a la peste
+10:59:17 - Brian Hume (@brianh20):
+jajajaja
+11:01:07 - Brian Hume (@brianh20):
+alguien mas se desperto hoy y tenia el chrome en modo noctuerno en mac?
+11:15:55 - Gonzalo González Mora (@gonzalogm):
+Qué onda, cómo se ve? Yo ya tenía un theme dark
+11:21:08 - Brian Hume (@brianh20):
+yo no lo puse
+11:21:44 - Martín Aimar (@maimar):
+cómo joden con el dark theme
+11:22:11 - Gonzalo González Mora (@gonzalogm):
+Aguanten los dark theme jaja
+11:23:03 - Martín Aimar (@maimar):
+<https://youtu.be/rDMI1dpNfdw?t=353>
+11:25:35 - Gonzalo González Mora (@gonzalogm):
+Tiene sentido, habrá que probar
+11:26:03 - Julio (@julito):
+Estuve usando light themes por un tiempo pero al final lo que me hizo cambiar es aburrimiento :stuck_out_tongue:
+11:26:14 - Gonzalo González Mora (@gonzalogm):
+Yo de noche igual siempre uso f.lux así que mucho no me jode
+11:33:56 - Martín Aimar (@maimar):
+el dark mode de chrome parece como si estuviera siempre en incognito
+11:42:03 - Pablo Enrici (@pablen):
+es idéntico, no? no veo cambios en el diseño entre el dark mode y el modo incognito
+11:43:11 - Gonza Gluzman (@gonza):
+Peligro
+11:43:13 - Gonza Gluzman (@gonza):
+Jajajjaj
+11:46:29 - Martín Aimar (@maimar):
+yo lo veo igual, lo único para diferenciarlo es que dice incognito a la derecha de la barra de dirección
+12:31:36 - Julian (@jantonielli01):
+El mejor dark theme es (Mac) `System Config -&gt; Accessibility -&gt; Invert colors`
+20:23:57 - Mati Dastugue (@matiasdastugue):
+Consulta : Alguno que tenga 2FA en GitHub y perdió acceso a los tokens y códigos de recuperó pudo volver a loguearse? Gracias !
+20:28:00 - Sergio Daniel Xalambrí (@sergiodxa):
+La idea es que no puedas 
+20:28:18 - Sergio Daniel Xalambrí (@sergiodxa):
+Pero podrías intentar hablar con soporte
+20:28:41 - Sergio Daniel Xalambrí (@sergiodxa):
+Capaz puedas de alguna forma verificar tu identidad y que te recuperen el acceso 
+20:33:33 - Mati Dastugue (@matiasdastugue):
+Encontré una forma de obtener el token usando fb si la tenes vinculado con github pero queda como pendiente y te dice que avises a soporte para que lo confirmen, pero mande hoy a la mañana y todavía sin respuesta 

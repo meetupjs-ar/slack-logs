@@ -1,0 +1,419 @@
+11:49:24 - Gustavo Machado (@machadogj):
+buenas! tengo un archivo muy grande que quiero partir en varios archivos (streams en realidad) mas pequeños cada X lineas para luego subirlos a s3… alguien sabe como encararlo?
+11:50:00 - Gustavo Martín Herrera (@martinherrera.g96):
+Hola gente, pregunta, tengo un array de strings separadas por comas, hay alguna función en js que les saque las comas y luego guarde en otro array sin ellas, o alguna forma de hacerlo? 
+11:50:49 - Pedro (@pedro461):
+no se entiende la pregunta… como sería tu array? [‘string’,‘string’]
+11:51:59 - Gustavo Machado (@machadogj):
+No dije nada, esto es exactamente lo que necesito:
+<https://github.com/substack/fixed-size-stream-splitter> :clap:
+11:52:09 - Martín Valdés de León (@mvaldesdeleon):
+<http://man7.org/linux/man-pages/man1/split.1.html>
+11:52:26 - Martín Valdés de León (@mvaldesdeleon):
+si no necesitas hacerlo desde node, TIL hay un unix command q hace eso
+11:53:52 - Gustavo Machado (@machadogj):
+gracias!
+en rigor, con ese module :point_up: me ahorro tener que escribir el archivo grande… puedo hacerlo directamente sobre los objetos que me van llegando :raised_hands:
+11:54:24 - Martín Valdés de León (@mvaldesdeleon):
+claro
+11:55:00 - Martín Valdés de León (@mvaldesdeleon):
+igual estimo que con pipes podrias hacer lo mismo
+11:55:09 - Martín Valdés de León (@mvaldesdeleon):
+`curl <http://large.file> | split -l 500`
+11:57:49 - Gustavo Martín Herrera (@martinherrera.g96):
+<@UGLH5CM8B> necesito usar los vamos de "sel"
+11:59:20 - Nico (@nicokorn96):
+eso es php o estoy mal de la vista?
+12:00:11 - Gustavo Machado (@machadogj):
+termine haciendo esto:
+```
+  const result = fs
+    .createReadStream(filePath, { flags: "r", encoding: "utf-8" })
+    .pipe(split(lineMapper))
+    .pipe(
+      splitter(10000, stream =&gt; {
+        s3.upload({
+          Bucket: Bucket,
+          Key: Key,
+          Body: stream.pipe(stringify())
+        });
+      })
+    )
+```
+leo un archivo muy grande, le aplico cierta transformacion a cada linea, lo spliteo cada 10 mil lineas, y guardo cada linea como JSON separado por \n
+:scream:
+TIL streams
+12:00:59 - Pedro (@pedro461):
+mmm pero esto es javascript, no php o lo que eso sea :slightly_smiling_face:
+12:01:43 - Martín Aimar (@maimar):
+no se entiende la pregunta..
+12:02:13 - Santiago Ruffino (@santi_0898):
+Vos tenes un array que es ["Hola", "Mundo"]. Y cual tiene que ser la salida?
+12:02:46 - Ricardo Schifini (@rschifini):
+Por las `=&gt;` parece php
+12:02:47 - Nico (@nicokorn96):
+<@UGLH5CM8B> pense que era php jaaja
+12:02:58 - Nico (@nicokorn96):
+por las arrow
+12:03:11 - Ricardo Schifini (@rschifini):
+Un diccionario
+12:03:12 - Nico (@nicokorn96):
+viejas epocas
+12:03:28 - Martín Valdés de León (@mvaldesdeleon):
+:tada:
+12:04:54 - Ricardo Schifini (@rschifini):
+Pero faltan comas entre los distintos elementos
+12:08:23 - Ricardo Schifini (@rschifini):
+Tratando de interpretar la preguna de otra forma... La key "sel" tiene el valor "0,2".  Si la idea es separar este string en un array que contenga ["0", "2"] entonces hace:
+```"0,2".split(",")```
+12:09:08 - Santiago Ruffino (@santi_0898):
+Yo entendi que la idea es guardar "02"
+12:09:16 - Santiago Ruffino (@santi_0898):
+O puede ser "0 2"
+12:09:30 - Ricardo Schifini (@rschifini):
+Esto da:
+`["0", "2"]`
+12:10:52 - Ricardo Schifini (@rschifini):
+Si el resultado deseado es "02" hace:
+```"0,2".replace(",", "")```
+12:11:36 - Ricardo Schifini (@rschifini):
+O si se desea "0 2" (con un espacio), hace:
+```"0,2".replace(",", " ")```
+12:11:44 - Nico (@nicokorn96):
+creo que el que hizo la pregunta deberia aclarar un poco denuevo jaaja
+12:13:29 - Ricardo Schifini (@rschifini):
+Coincido.  Estaria bueno que de cual es el input ("0,2") y que salida quiere ("02")
+12:13:58 - Gustavo Machado (@machadogj):
+para estos casos donde no hay muchas dependencias, creo que habria que sugerir el uso de herramientas del tipo de codepen… :thinking_face:
+12:15:57 - Ricardo Schifini (@rschifini):
+O jsFiddle
+12:16:42 - Pedro (@pedro461):
+no manejo php
+12:17:06 - Martín Aimar (@maimar):
+en php es explode
+14:00:04 - Brian Hume (@brianh20):
+Replace solo te reemplaza la primer instancia 
+14:00:12 - Brian Hume (@brianh20):
+Tenes que usar regexp sino 
+14:38:51 - nomopo (@nomopo):
+buenas tardes. Soy novatillo en js y necesitaría un poco de ayuda. La cosa está en que tengo un listado de registros de los cuales debo elegir unos de forma manual y que al darle al botón de Liquidar me haga una función, pero el problema que tengo es que me sale este error: TypeError: numero is null, donde número es el checkbox que hace que si = true se liquide. Por favor, ya no se que más probar, he realizado mil modificaciones y entre ellas el crear una función de Eventos de por medio, pero tampoco me funciona. Adjunto el código.
+14:51:25 - Nico (@nicokorn96):
+lo tenes en frances la consola ?
+14:57:14 - Martín Aimar (@maimar):
+perdón pero es una bocha de código, podés poner sólo el handler del click del botón de liquidar?
+14:58:51 - Gonzalo González Mora (@gonzalogm):
+Parece catalán
+15:04:27 - nomopo (@nomopo):
+este es el problema de heredar un proyecto..... jajajaja
+11:49:24 - Gustavo Machado (@machadogj):
+buenas! tengo un archivo muy grande que quiero partir en varios archivos (streams en realidad) mas pequeños cada X lineas para luego subirlos a s3… alguien sabe como encararlo?
+11:50:00 - Gustavo Martín Herrera (@martinherrera.g96):
+Hola gente, pregunta, tengo un array de strings separadas por comas, hay alguna función en js que les saque las comas y luego guarde en otro array sin ellas, o alguna forma de hacerlo? 
+11:50:49 - Pedro (@pedro461):
+no se entiende la pregunta… como sería tu array? [‘string’,‘string’]
+11:51:59 - Gustavo Machado (@machadogj):
+No dije nada, esto es exactamente lo que necesito:
+<https://github.com/substack/fixed-size-stream-splitter> :clap:
+11:52:09 - Martín Valdés de León (@mvaldesdeleon):
+<http://man7.org/linux/man-pages/man1/split.1.html>
+11:52:26 - Martín Valdés de León (@mvaldesdeleon):
+si no necesitas hacerlo desde node, TIL hay un unix command q hace eso
+11:53:52 - Gustavo Machado (@machadogj):
+gracias!
+en rigor, con ese module :point_up: me ahorro tener que escribir el archivo grande… puedo hacerlo directamente sobre los objetos que me van llegando :raised_hands:
+11:54:24 - Martín Valdés de León (@mvaldesdeleon):
+claro
+11:55:00 - Martín Valdés de León (@mvaldesdeleon):
+igual estimo que con pipes podrias hacer lo mismo
+11:55:09 - Martín Valdés de León (@mvaldesdeleon):
+`curl <http://large.file> | split -l 500`
+11:57:49 - Gustavo Martín Herrera (@martinherrera.g96):
+<@UGLH5CM8B> necesito usar los vamos de "sel"
+11:59:20 - Nico (@nicokorn96):
+eso es php o estoy mal de la vista?
+12:00:11 - Gustavo Machado (@machadogj):
+termine haciendo esto:
+```
+  const result = fs
+    .createReadStream(filePath, { flags: "r", encoding: "utf-8" })
+    .pipe(split(lineMapper))
+    .pipe(
+      splitter(10000, stream =&gt; {
+        s3.upload({
+          Bucket: Bucket,
+          Key: Key,
+          Body: stream.pipe(stringify())
+        });
+      })
+    )
+```
+leo un archivo muy grande, le aplico cierta transformacion a cada linea, lo spliteo cada 10 mil lineas, y guardo cada linea como JSON separado por \n
+:scream:
+TIL streams
+12:00:59 - Pedro (@pedro461):
+mmm pero esto es javascript, no php o lo que eso sea :slightly_smiling_face:
+12:01:43 - Martín Aimar (@maimar):
+no se entiende la pregunta..
+12:02:13 - Santiago Ruffino (@santi_0898):
+Vos tenes un array que es ["Hola", "Mundo"]. Y cual tiene que ser la salida?
+12:02:46 - Ricardo Schifini (@rschifini):
+Por las `=&gt;` parece php
+12:02:47 - Nico (@nicokorn96):
+<@UGLH5CM8B> pense que era php jaaja
+12:02:58 - Nico (@nicokorn96):
+por las arrow
+12:03:11 - Ricardo Schifini (@rschifini):
+Un diccionario
+12:03:12 - Nico (@nicokorn96):
+viejas epocas
+12:03:28 - Martín Valdés de León (@mvaldesdeleon):
+:tada:
+12:04:54 - Ricardo Schifini (@rschifini):
+Pero faltan comas entre los distintos elementos
+12:08:23 - Ricardo Schifini (@rschifini):
+Tratando de interpretar la preguna de otra forma... La key "sel" tiene el valor "0,2".  Si la idea es separar este string en un array que contenga ["0", "2"] entonces hace:
+```"0,2".split(",")```
+12:09:08 - Santiago Ruffino (@santi_0898):
+Yo entendi que la idea es guardar "02"
+12:09:16 - Santiago Ruffino (@santi_0898):
+O puede ser "0 2"
+12:09:30 - Ricardo Schifini (@rschifini):
+Esto da:
+`["0", "2"]`
+12:10:52 - Ricardo Schifini (@rschifini):
+Si el resultado deseado es "02" hace:
+```"0,2".replace(",", "")```
+12:11:36 - Ricardo Schifini (@rschifini):
+O si se desea "0 2" (con un espacio), hace:
+```"0,2".replace(",", " ")```
+12:11:44 - Nico (@nicokorn96):
+creo que el que hizo la pregunta deberia aclarar un poco denuevo jaaja
+12:13:29 - Ricardo Schifini (@rschifini):
+Coincido.  Estaria bueno que de cual es el input ("0,2") y que salida quiere ("02")
+12:13:58 - Gustavo Machado (@machadogj):
+para estos casos donde no hay muchas dependencias, creo que habria que sugerir el uso de herramientas del tipo de codepen… :thinking_face:
+12:15:57 - Ricardo Schifini (@rschifini):
+O jsFiddle
+12:16:42 - Pedro (@pedro461):
+no manejo php
+12:17:06 - Martín Aimar (@maimar):
+en php es explode
+14:00:04 - Brian Hume (@brianh20):
+Replace solo te reemplaza la primer instancia 
+14:00:12 - Brian Hume (@brianh20):
+Tenes que usar regexp sino 
+14:38:51 - nomopo (@nomopo):
+buenas tardes. Soy novatillo en js y necesitaría un poco de ayuda. La cosa está en que tengo un listado de registros de los cuales debo elegir unos de forma manual y que al darle al botón de Liquidar me haga una función, pero el problema que tengo es que me sale este error: TypeError: numero is null, donde número es el checkbox que hace que si = true se liquide. Por favor, ya no se que más probar, he realizado mil modificaciones y entre ellas el crear una función de Eventos de por medio, pero tampoco me funciona. Adjunto el código.
+14:51:25 - Nico (@nicokorn96):
+lo tenes en frances la consola ?
+14:57:14 - Martín Aimar (@maimar):
+perdón pero es una bocha de código, podés poner sólo el handler del click del botón de liquidar?
+14:58:51 - Gonzalo González Mora (@gonzalogm):
+Parece catalán
+15:04:27 - nomopo (@nomopo):
+este es el problema de heredar un proyecto..... jajajaja
+15:05:38 - Nico (@nicokorn96):
+porque esta hecho en php?
+15:06:28 - nomopo (@nomopo):
+porque está heredado y por ahora "funcionaba".
+15:06:38 - Nico (@nicokorn96):
+sabes que por cada linea escrita en php matas un arbol?
+15:06:47 - nomopo (@nomopo):
+la idea es cambiarlo todo a laravel + vue o angular
+15:07:06 - Nico (@nicokorn96):
+buen ahi safa mas
+15:07:18 - Gonzalo González Mora (@gonzalogm):
+Leave PHP alone!
+15:07:21 - Nico (@nicokorn96):
+es como ponerle desodorante desp de ir a cagar
+15:07:26 - Nico (@nicokorn96):
+para disimular
+15:07:35 - Martín Aimar (@maimar):
+para ser justo se puede escribir código así de feo en cualquier lenguaje
+15:07:39 - Nico (@nicokorn96):
+perdon me sale del alma
+15:07:40 - nomopo (@nomopo):
+jajajaj tu con que lo harías??
+15:07:44 - Nico (@nicokorn96):
+soy ex php igual
+15:07:51 - Nico (@nicokorn96):
+pero no vuelvo ni en pedo
+15:08:04 - Nico (@nicokorn96):
+angular/vue y node
+15:08:43 - nomopo (@nomopo):
+ahhh pues eso, la idea es dar el salto pero por ahora tengo que tapar agujeros como sea, para dejarlo funcional y poder hace el cambio sin problemas ni presiones
+15:09:06 - Nico (@nicokorn96):
+laravel y vue estan muy buenos porque la nueva version de laravel ya incorpora vue facil de usar
+15:09:45 - Martín Aimar (@maimar):
+maso, no es para tanto eso
+15:09:54 - nomopo (@nomopo):
+encima todas las modificaciones que haga tengo que reflejarlas en el historico de la base de datos,,,,, esto es una putxxxx
+15:10:09 - Nico (@nicokorn96):
+buen pero es el sacrificio que hay que hacer
+15:10:23 - Nico (@nicokorn96):
+yo tambien me toco migrar un sistema enorme en php nativo a laravel
+15:10:31 - Nico (@nicokorn96):
+me volvi loco
+15:10:37 - Nico (@nicokorn96):
+pero se puede
+15:11:05 - nomopo (@nomopo):
+pues si... aunque ahora el problema que tengo es este, no consigo validar los checkbox de liquidar, los que se ven en la foto entre el botón azul y verde
+15:11:12 - Juan Scolari (@juanscolari):
+puede ser porque el id en el html esta en minuscula y en la funcion lo llamas en mayuscula?
+15:11:39 - nomopo (@nomopo):
+ahhh y no te lo piderdas que parte del código lo tienen en ASP. classic y sql server...
+15:12:16 - Nico (@nicokorn96):
+eso
+15:12:16 - Juan Scolari (@juanscolari):
+ah, no, lei mal
+15:13:05 - Juan Scolari (@juanscolari):
+me lo confundi con el form, pero capaz viene por algun lado parecido
+15:13:20 - Nico (@nicokorn96):
+cai en la misma jaajaa
+15:14:10 - Nico (@nicokorn96):
+sql server no es tan grave porque con laravel creo que acepta sql server. pero asp el viejo ufff nose si lento pero menos mantenible
+15:15:06 - nomopo (@nomopo):
+como digo me da error TypeError: numero is null.
+15:15:24 - Juan Scolari (@juanscolari):
+que viene de aca: `var numero = document.getElementById('LIQUIDAR'+i);`
+15:15:26 - Martín Aimar (@maimar):
+si tirás `document.getElementById('LIQUIDAR'+i);` en la consola para algunos valores de i
+15:15:31 - Martín Aimar (@maimar):
+qué pasa?
+15:16:39 - nomopo (@nomopo):
+document.getElementById('LIQUIDAR0');
+&lt;input id="LIQUIDAR0" type="checkbox" name="LIQUIDAR0" value="12207"&gt;
+15:16:55 - Juan Scolari (@juanscolari):
+cuantos LIQUIDAR tenes?
+15:17:01 - Juan Scolari (@juanscolari):
+capaz se pasa del indice el for
+15:17:18 - Juan Scolari (@juanscolari):
+y quiere hacer LIQUIDAR99 y ese elemento no existe
+15:17:21 - Daniel Broder (@dabroder):
+<@UGTRFGEJK> yo intentaría separar `javascript` de `PHP`
+15:17:29 - Silvio Messina (@smessina):
+falta el .value
+15:17:36 - nomopo (@nomopo):
+si. si eso lo tengo separado
+15:17:42 - Silvio Messina (@smessina):
+var numero = document.getElementById(‘LIQUIDAR’+i).value;
+15:17:46 - nomopo (@nomopo):
+pero no aqui
+15:17:52 - Nico (@nicokorn96):
+falta el .value
+15:18:36 - nomopo (@nomopo):
+no. lo que quiero es que si es checked == true me haga el IF y me escriba en var txt
+15:19:20 - Martín Aimar (@maimar):
+mandale console.log a limite
+15:19:46 - nomopo (@nomopo):
+document.getElementById('ID0').value
+"12207"
+15:22:24 - nomopo (@nomopo):
+ahora tengo limite = 5 al igual que el número de registros del select...
+15:24:10 - Martín Aimar (@maimar):
+console.log(i) adentro del for
+15:25:37 - nomopo (@nomopo):
+no me hace nada
+15:26:03 - nomopo (@nomopo):
+for(i = 0; i &lt; 5; i++){
+		var numero = document.getElementById('LIQUIDAR'+i);
+		var valor = document.getElementById('ID'+i);
+		if(numero.checked == true){
+			txt = txt + "ID = " + (valor.value) + " OR ";
+		}		
+	}
+15:27:22 - Martín Aimar (@maimar):
+no entra al for?
+15:27:37 - Silvio Messina (@smessina):
+hay 2 opciones…
+1) El indice del for se esta pasando un valor más que que la cantidad de los document.getElementById(‘LIQUIDAR’+i);
+2) Hay menos elementos LIQUIDARX que document.getElementById(‘LIQUIDAR’+i);
+15:27:39 - nomopo (@nomopo):
+en consola veo que me sale este error El objeto Components está en desuso
+15:28:22 - Martín Aimar (@maimar):
+wtf
+15:28:56 - Santiago Ruffino (@santi_0898):
+Pero entra al for?
+15:29:01 - Santiago Ruffino (@santi_0898):
+Esa es la primera pregunta
+15:29:37 - nomopo (@nomopo):
+parece ser que ahora no....
+15:29:39 - nomopo (@nomopo):
+AAAAAAAAAAAHHH
+15:30:38 - nomopo (@nomopo):
+y seguro que es una chorrada, pero no la consigo ver...
+15:31:40 - Martín Aimar (@maimar):
+fijate cómo es ese js ahí en la consola, en sources
+15:31:57 - Martín Aimar (@maimar):
+que seguro es un campo minado después de que le pasó php por arriba
+15:46:20 - nomopo (@nomopo):
+ahora he deshabilitado el php, y le digo simplemente que me lo ejecute, pero aún así ni entra en el bucle...
+15:47:50 - nomopo (@nomopo):
+en el botón que sería mejor onclick o onchange???
+15:48:44 - nomopo (@nomopo):
+jod.... ahora ya me va. Perdonad todos tenía puesto onchange en vez de onclick... mil gracias...
+15:50:11 - Martín Aimar (@maimar):
+:joy:
+15:50:37 - nomopo (@nomopo):
+de verdad que no lo veía, estaba desesperado.... jajajaja
+15:52:12 - nomopo (@nomopo):
+Me he sentido asi!!!!!!!!!
+15:55:47 - Santiago Ruffino (@santi_0898):
+Jajaja
+15:56:06 - Santiago Ruffino (@santi_0898):
+No pasa nada, en algun momento,  todos estamos con las neuronas quemadas y cesgados del problema
+15:56:23 - Santiago Ruffino (@santi_0898):
+Yo muchas veces quiser hacer un `print` de una variable que jamas habia declarado :smile:
+15:57:34 - Santiago Ruffino (@santi_0898):
+Conocen alguna herramienta para hacer diagramas de flujo con hiperviculos y esas cosas? Busco algo un poquito mas PRO que un Powerpoint
+15:57:55 - Martín Aimar (@maimar):
+lucidchart
+15:58:05 - Santiago Ruffino (@santi_0898):
+Osea, tengo todo un dashboard diseñado en una pizarra. Quiero pasarlo a mi computadora, pero poder "simular" el flujo que tendria con los clicks y eso
+16:01:17 - Juan Scolari (@juanscolari):
+Tipo InVision o Marvel?
+16:01:40 - Martín Aimar (@maimar):
+como adobe xd?
+16:02:47 - Santiago Ruffino (@santi_0898):
+InVision y Marvel no los conozco, ahora veo que onda
+16:02:58 - Santiago Ruffino (@santi_0898):
+Y si, tambien puede ser Adobe. Pero es un poco mas pro que lo que necesito
+16:03:01 - Santiago Ruffino (@santi_0898):
+Aparte, tengo Ubuntu :smile:
+16:03:34 - Juan Scolari (@juanscolari):
+creo que tienen su version free esos dos
+16:03:58 - Diego Calderón (@codekult):
++1 InVision
+16:04:03 - Juan Scolari (@juanscolari):
+vos ya tenes las pantallas?
+16:05:41 - Santiago Ruffino (@santi_0898):
+Esto se considera pantallas?
+16:05:57 - Martín Aimar (@maimar):
+en general podés encontrar alternativas para todo en <http://www.producthunt.com|www.producthunt.com>
+16:06:23 - Juan Scolari (@juanscolari):
+si es para diagramas lucid charts +1 como dijo martin
+16:08:41 - Juan Scolari (@juanscolari):
+si queres hacer un diseño rapido podes hacerte un wireframing de las pantallas en papel
+no me acuerdo el nombre pero hay algunas apps que te dejan sacarle fotos a los wireframes y hacerles “links” de forma sencilla para simular como si fuese una app
+16:09:22 - Santiago Ruffino (@santi_0898):
+Estaba buscando eso mismo. Vi un par de veces en Instagram publicidades, pero ahora no encuentro ninguna
+16:11:05 - Juan Scolari (@juanscolari):
+algo como esto? <https://prottapp.com/>
+16:11:50 - Juan Scolari (@juanscolari):
+no era este, pero parece que hace lo mismo
+16:13:16 - Santiago Ruffino (@santi_0898):
+Creo que si era ese
+16:13:17 - Santiago Ruffino (@santi_0898):
+Jajaja
+16:13:19 - Santiago Ruffino (@santi_0898):
+Voy a ver que onda
+16:14:30 - Santiago Ruffino (@santi_0898):
+Ahora me hago developer Full Stack con Master en UI
+16:14:32 - Santiago Ruffino (@santi_0898):
+?)
+16:16:35 - Juan Scolari (@juanscolari):
+Master of the Universe
+16:16:51 - Juan Scolari (@juanscolari):
+Era esa la del video de instagram?
+16:18:58 - Santiago Ruffino (@santi_0898):
+Me parece que si

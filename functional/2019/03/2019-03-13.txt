@@ -1,0 +1,104 @@
+01:54:35 - Martín Valdés de León (@mvaldesdeleon):
++1 a leerse los docs oficiales de ambas tools y ya
+01:55:27 - Martín Valdés de León (@mvaldesdeleon):
+hpack esta documentado bastante como el orto, asi que tenes que tener idea de cabal antes
+10:26:19 - gillchristian (@gillchristian):
+<http://www.radicle.xyz/>
+10:26:22 - gillchristian (@gillchristian):
+Hecho en Haskell
+14:07:37 - Juan Bono (@juanbono):
+Muy interesante eso <@U581FJZCM>! 
+14:07:41 - Juan Bono (@juanbono):
+ <http://meetu.ps/e/Gw0bH/vslXN/d>
+14:11:21 - Gonza Gluzman (@gonza):
+Mepa a mí, o alguien también lee `herbalife` como mensaje subliminal en ese logo?
+14:11:33 - Hernan Rajchert (@sherman):
+jajaja
+14:11:55 - Gonza Gluzman (@gonza):
+`ERL BA LFE`
+14:12:49 - Juan Bono (@juanbono):
+Jajajaj `ERL BA LFE: be your own boss`
+15:45:17 - gillchristian (@gillchristian):
+Se ve piola si
+17:24:04 - Julian (@jantonielli01):
+Me acorde algo de la conf
+17:24:16 - Julian (@jantonielli01):
+Una piba hablo de su infra y stack en jira 
+17:24:28 - Julian (@jantonielli01):
+Y contaba como ahora codeaban re piola y todo estaba bien 
+17:25:11 - Julian (@jantonielli01):
+Tenía ganas de preguntarle porque andaba tan lenta la app para todo pero no hubieron preguntas :sleeping:
+17:45:01 - Juan Bono (@juanbono):
+Jajajaja era un arma de doble filo
+18:03:35 - Ainu (@ajchambeaud):
+Codear LFE es uno de los gustos que aun no pude darme
+18:04:21 - Ainu (@ajchambeaud):
+Es lo mas fringe de la industria
+18:11:50 - Julian (@jantonielli01):
+A ver qué es eso 
+18:12:00 - Julian (@jantonielli01):
+Ah nice, no conocía 
+18:12:08 - Julian (@jantonielli01):
+Aunque en general se nada de erlang
+18:14:37 - Juan Bono (@juanbono):
+yo solo se que es un lisp jaja pero no lo use nunca, no se si sigue desarrollandose. Como que los mas posta corriendo en la VM son erlang y elixir
+19:21:50 - Ainu (@ajchambeaud):
+A mi me parece interesante porque para disfrutarlo tenes que manejar bien Erlang y Lisp, dos desafíos en si mismos jaja
+19:22:18 - Ainu (@ajchambeaud):
+Es un lindo proyecto para estar unos meses sin laburar :stuck_out_tongue:
+20:40:29 - Juan Bono (@juanbono):
+Estaría bueno ver un ML sobre la BeamVM también jajaja. O que mejoren un toque la performance dialyzer (el "type checker")
+23:01:27 - Julian (@jantonielli01):
+por si les sirve, este es el link "secreto" q nos dieron para entradas del año q viene de la js kongress <https://ti.to/munich-dev-events/js-kongress-2020/>
+01:54:35 - Martín Valdés de León (@mvaldesdeleon):
++1 a leerse los docs oficiales de ambas tools y ya
+01:55:27 - Martín Valdés de León (@mvaldesdeleon):
+hpack esta documentado bastante como el orto, asi que tenes que tener idea de cabal antes
+10:26:19 - gillchristian (@gillchristian):
+<http://www.radicle.xyz/>
+10:26:22 - gillchristian (@gillchristian):
+Hecho en Haskell
+14:07:37 - Juan Bono (@juanbono):
+Muy interesante eso <@U581FJZCM>! 
+14:07:41 - Juan Bono (@juanbono):
+ <http://meetu.ps/e/Gw0bH/vslXN/d>
+14:11:21 - Gonza Gluzman (@gonza):
+Mepa a mí, o alguien también lee `herbalife` como mensaje subliminal en ese logo?
+14:11:33 - Hernan Rajchert (@sherman):
+jajaja
+14:11:55 - Gonza Gluzman (@gonza):
+`ERL BA LFE`
+14:12:49 - Juan Bono (@juanbono):
+Jajajaj `ERL BA LFE: be your own boss`
+15:45:17 - gillchristian (@gillchristian):
+Se ve piola si
+17:24:04 - Julian (@jantonielli01):
+Me acorde algo de la conf
+17:24:16 - Julian (@jantonielli01):
+Una piba hablo de su infra y stack en jira 
+17:24:28 - Julian (@jantonielli01):
+Y contaba como ahora codeaban re piola y todo estaba bien 
+17:25:11 - Julian (@jantonielli01):
+Tenía ganas de preguntarle porque andaba tan lenta la app para todo pero no hubieron preguntas :sleeping:
+17:45:01 - Juan Bono (@juanbono):
+Jajajaja era un arma de doble filo
+18:03:35 - Ainu (@ajchambeaud):
+Codear LFE es uno de los gustos que aun no pude darme
+18:04:21 - Ainu (@ajchambeaud):
+Es lo mas fringe de la industria
+18:11:50 - Julian (@jantonielli01):
+A ver qué es eso 
+18:12:00 - Julian (@jantonielli01):
+Ah nice, no conocía 
+18:12:08 - Julian (@jantonielli01):
+Aunque en general se nada de erlang
+18:14:37 - Juan Bono (@juanbono):
+yo solo se que es un lisp jaja pero no lo use nunca, no se si sigue desarrollandose. Como que los mas posta corriendo en la VM son erlang y elixir
+19:21:50 - Ainu (@ajchambeaud):
+A mi me parece interesante porque para disfrutarlo tenes que manejar bien Erlang y Lisp, dos desafíos en si mismos jaja
+19:22:18 - Ainu (@ajchambeaud):
+Es un lindo proyecto para estar unos meses sin laburar :stuck_out_tongue:
+20:40:29 - Juan Bono (@juanbono):
+Estaría bueno ver un ML sobre la BeamVM también jajaja. O que mejoren un toque la performance dialyzer (el "type checker")
+23:01:27 - Julian (@jantonielli01):
+por si les sirve, este es el link "secreto" q nos dieron para entradas del año q viene de la js kongress <https://ti.to/munich-dev-events/js-kongress-2020/>
