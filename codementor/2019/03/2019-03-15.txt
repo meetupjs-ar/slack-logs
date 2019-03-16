@@ -1,0 +1,114 @@
+23:06:23 - Marcos Casagrande (@marcoscvp90):
+Ale, ahi vi tu perfil, vi que escribís posts en medium, antes de postularte, si copiás y pegás uno de esos posts en CM (creo que se puede exportar), te agarran seguro.
+09:03:27 - Martín Aimar (@maimar):
+bien! ahora tira 500 al querer vincular la cuenta de linkedin
+09:03:33 - Martín Aimar (@maimar):
+el primer paso es reconocer el problema (?)
+09:11:17 - Marcos Casagrande (@marcoscvp90):
+Poco a poco, mañana ya lo tenés. Igual he de decir que la parte importante funciona bastante bien. Pero si quieren mandar el issue en <mailto:support@codementor.io|support@codementor.io> suelen responder bastante rápido. 
+09:11:53 - Martín Aimar (@maimar):
+si no tengo mucho apuro así que mientras tanto voy tuneando otras cosas
+13:49:12 - Julian (@jantonielli01):
+bueno encontre el application status
+13:54:24 - Marcos Casagrande (@marcoscvp90):
+Bastante bien, no me acordaba que existía.
+13:54:37 - Marcos Casagrande (@marcoscvp90):
+Yo estimo que para martes/miércoles de la semana que viene deberías tener una respuesta.
+13:54:59 - Marcos Casagrande (@marcoscvp90):
+Mis últimos 2 amigos que mandaron, hará 1 mes, a los 3 días le respondieron a ambos
+13:55:04 - Marcos Casagrande (@marcoscvp90):
+_hábiles_
+20:21:04 - Micael Robles (@micaelrobles):
+Buenas! me inspiraron y me estoy creando el perfil ahora mismo jajaja
+20:21:10 - Micael Robles (@micaelrobles):
+Cuanto duran las sesiones mas o menos?
+20:23:23 - Adrián Velasco (@adrivelasco1506):
+Lo que te lleve resolver el problema, pueden ser 15min como 8hs, lo va a decir el usuario que pidió ayuda
+20:23:27 - Adrián Velasco (@adrivelasco1506):
+Decidir*
+20:26:40 - Marcos Casagrande (@marcoscvp90):
+Micael, depende mucho el problema, ponele hay *muchas* sesiones que son boludeces que se resuelven en menos de 15 minutos, y después hay muchas que son programar un módulo entero, y quizás lleva 1-2 horas.
+20:27:11 - Marcos Casagrande (@marcoscvp90):
+Después voy a hacer un scraper y te saco la estadística de mis sesiones, tengo 600 y pico ahora mismo, para que te hagas una de lo que pueden durar.
+20:28:20 - Marcos Casagrande (@marcoscvp90):
+Lo que si ocurre, es que cuando llevás un tiempo en la plataforma, vas teniendo clientes regulares que suelen querer sesiones largas para hacer pair programming. Esta semana de las 20 sesiones que hice, 17 fueron de 1-2 horas, y 3 menores a 20 minutos.
+20:29:04 - Marcos Casagrande (@marcoscvp90):
+Pero la ḿas larga que tuve yo fueron 3 horas, la más corta 1 minuto. (Que fueron 30 segundos y hablé 2 boludeces con el flaco)
+20:30:15 - Micael Robles (@micaelrobles):
+genial
+20:30:30 - Micael Robles (@micaelrobles):
+paso mi perfil, si se copan pasen feedback :stuck_out_tongue:
+<https://www.codementor.io/micaelrobles>
+20:30:46 - Micael Robles (@micaelrobles):
+en proyectos puse cosas que hice en relacion de dependencia para agencias, no se que tan legal es eso
+20:31:22 - Marcos Casagrande (@marcoscvp90):
+Me parece perfecto, no estás dando el código. Respecto al perfil, te faltaría completar el "about"
+20:32:06 - Marcos Casagrande (@marcoscvp90):
+El resto bien porque tenés descripciones en todas las tags, lo que te recomiendo, teniendo en cuenta que tenés pocos años de experiencia, mentí un poco y sumate +1 en algunos.
+20:32:25 - Marcos Casagrande (@marcoscvp90):
+No es que este a favor de mentir, pero si después te la bancás en la plataforma, es una mentira piadosa.
+20:33:14 - Micael Robles (@micaelrobles):
+jajaja listo!!
+20:33:26 - Micael Robles (@micaelrobles):
+pense que habia escrito el about pero era el application :facepalm:
+20:33:41 - Micael Robles (@micaelrobles):
+ahora lo tengo que reescribir jajaja
+20:33:52 - Marcos Casagrande (@marcoscvp90):
+No pierda tiempo entonces si ya mandaste el apply
+23:06:23 - Marcos Casagrande (@marcoscvp90):
+Ale, ahi vi tu perfil, vi que escribís posts en medium, antes de postularte, si copiás y pegás uno de esos posts en CM (creo que se puede exportar), te agarran seguro.
+09:03:27 - Martín Aimar (@maimar):
+bien! ahora tira 500 al querer vincular la cuenta de linkedin
+09:03:33 - Martín Aimar (@maimar):
+el primer paso es reconocer el problema (?)
+09:11:17 - Marcos Casagrande (@marcoscvp90):
+Poco a poco, mañana ya lo tenés. Igual he de decir que la parte importante funciona bastante bien. Pero si quieren mandar el issue en <mailto:support@codementor.io|support@codementor.io> suelen responder bastante rápido. 
+09:11:53 - Martín Aimar (@maimar):
+si no tengo mucho apuro así que mientras tanto voy tuneando otras cosas
+13:49:12 - Julian (@jantonielli01):
+bueno encontre el application status
+13:54:24 - Marcos Casagrande (@marcoscvp90):
+Bastante bien, no me acordaba que existía.
+13:54:37 - Marcos Casagrande (@marcoscvp90):
+Yo estimo que para martes/miércoles de la semana que viene deberías tener una respuesta.
+13:54:59 - Marcos Casagrande (@marcoscvp90):
+Mis últimos 2 amigos que mandaron, hará 1 mes, a los 3 días le respondieron a ambos
+13:55:04 - Marcos Casagrande (@marcoscvp90):
+_hábiles_
+20:21:04 - Micael Robles (@micaelrobles):
+Buenas! me inspiraron y me estoy creando el perfil ahora mismo jajaja
+20:21:10 - Micael Robles (@micaelrobles):
+Cuanto duran las sesiones mas o menos?
+20:23:23 - Adrián Velasco (@adrivelasco1506):
+Lo que te lleve resolver el problema, pueden ser 15min como 8hs, lo va a decir el usuario que pidió ayuda
+20:23:27 - Adrián Velasco (@adrivelasco1506):
+Decidir*
+20:26:40 - Marcos Casagrande (@marcoscvp90):
+Micael, depende mucho el problema, ponele hay *muchas* sesiones que son boludeces que se resuelven en menos de 15 minutos, y después hay muchas que son programar un módulo entero, y quizás lleva 1-2 horas.
+20:27:11 - Marcos Casagrande (@marcoscvp90):
+Después voy a hacer un scraper y te saco la estadística de mis sesiones, tengo 600 y pico ahora mismo, para que te hagas una de lo que pueden durar.
+20:28:20 - Marcos Casagrande (@marcoscvp90):
+Lo que si ocurre, es que cuando llevás un tiempo en la plataforma, vas teniendo clientes regulares que suelen querer sesiones largas para hacer pair programming. Esta semana de las 20 sesiones que hice, 17 fueron de 1-2 horas, y 3 menores a 20 minutos.
+20:29:04 - Marcos Casagrande (@marcoscvp90):
+Pero la ḿas larga que tuve yo fueron 3 horas, la más corta 1 minuto. (Que fueron 30 segundos y hablé 2 boludeces con el flaco)
+20:30:15 - Micael Robles (@micaelrobles):
+genial
+20:30:30 - Micael Robles (@micaelrobles):
+paso mi perfil, si se copan pasen feedback :stuck_out_tongue:
+<https://www.codementor.io/micaelrobles>
+20:30:46 - Micael Robles (@micaelrobles):
+en proyectos puse cosas que hice en relacion de dependencia para agencias, no se que tan legal es eso
+20:31:22 - Marcos Casagrande (@marcoscvp90):
+Me parece perfecto, no estás dando el código. Respecto al perfil, te faltaría completar el "about"
+20:32:06 - Marcos Casagrande (@marcoscvp90):
+El resto bien porque tenés descripciones en todas las tags, lo que te recomiendo, teniendo en cuenta que tenés pocos años de experiencia, mentí un poco y sumate +1 en algunos.
+20:32:25 - Marcos Casagrande (@marcoscvp90):
+No es que este a favor de mentir, pero si después te la bancás en la plataforma, es una mentira piadosa.
+20:33:14 - Micael Robles (@micaelrobles):
+jajaja listo!!
+20:33:26 - Micael Robles (@micaelrobles):
+pense que habia escrito el about pero era el application :facepalm:
+20:33:41 - Micael Robles (@micaelrobles):
+ahora lo tengo que reescribir jajaja
+20:33:52 - Marcos Casagrande (@marcoscvp90):
+No pierda tiempo entonces si ya mandaste el apply
