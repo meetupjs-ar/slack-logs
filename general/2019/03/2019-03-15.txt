@@ -1,0 +1,978 @@
+23:55:37 - Sebastian P (@seba23393):
+Hola hay un solo canal?
+23:58:08 - Martín Aimar (@maimar):
+hay una banda
+00:07:35 - Sebastian P (@seba23393):
+<@UC1QYJACE> y donde esta el de functional? me aparece solo general
+00:09:43 - Martín Aimar (@maimar):
+si hacés clic ahí en canales los podés navegar
+00:11:01 - Sebastian P (@seba23393):
+si toque en añadir pense que añadir era otra cosa
+10:24:22 - Gustavo Machado (@machadogj):
+No sabia que spectrum era OSS :scream:
+<https://github.com/withspectrum/spectrum>
+13:30:51 - Brian Hume (@brianh20):
+Hola! Alguno tuvo que poner videoconferencia en su web/app?
+13:31:29 - Martín Valdés de León (@mvaldesdeleon):
+Yo no pero un amigo aca armo una app de videoconferencia con webrtc
+13:31:46 - Martín Valdés de León (@mvaldesdeleon):
+Creo que no tuvo grandes problemas.
+13:31:56 - Brian Hume (@brianh20):
+copado
+13:32:01 - Brian Hume (@brianh20):
+alguna otra tech para revisar?
+13:32:14 - Brian Hume (@brianh20):
+o servicios externos onda "twilio" pero para video conf?
+13:32:15 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunto a ver si hay alguna cosa de la cual estar atento o que.
+13:32:24 - Brian Hume (@brianh20):
+Gracias <@U0TFEHWEA>!
+13:32:40 - Brian Hume (@brianh20):
+no se desvelen que seguro con el presupuesto de diseño se cae solo
+13:32:51 - Brian Hume (@brianh20):
+pero lo que peudan aportar para investigar se agradece
+13:32:52 - Julian (@jantonielli01):
+<#C06DX6V1R|preguntas-tecnicas>
+13:33:05 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunte si hay algun detalle o giladas asi para tener en cuenta, o si todo anda "as advertised"
+14:01:00 - Dario Miñones (@dminones):
+Buenas! Esta semana haciendo una pantalla me di cuenta que me estaba repitiendo en mostrar dialogos de error. Despues de pensar y probar algunas opciones me parecio la oportunidad perfecta para usar lo que mostro <@U0TFEHWEA> en su charala en la nodeconf
+14:02:21 - Dario Miñones (@dminones):
+Me encanto el resultado, hacia tiempo que queria usar proxy para algo!!
+14:02:34 - Martín Valdés de León (@mvaldesdeleon):
+:heart:
+14:03:02 - Dario Miñones (@dminones):
+Plus se puede usar con hooks (?)
+
+```
+export const useWrappedApi = () =&gt; {
+  const store = GDStore.useStore()
+  return wrapper(API, store)
+}
+```
+14:12:36 - a0viedo (@a0viedo):
+hace rato lo venía mencionando pero no había compartido link a los logs porque estaban en proceso de ser migrados, faltaban corregir algunos bugs...podemos decir que ahora ya no se pierden los mensajes (de una lista predeterminada de canales) y todos los días los estamos backupeando, pueden usar la funcionalidad de GitHub para buscar texto acá: <https://github.com/meetupjs-ar/slack-logs>
+el código es open source (<https://github.com/a0viedo/slackper>) y hay algunos TODOs en el backend que si quieren ayudar pueden escribirme a mi o mandar PR
+14:13:04 - Gonzalo González Mora (@gonzalogm):
+:clap:
+14:13:18 - a0viedo (@a0viedo):
+si quieren agregar canales a la lista predeterminada también ahora es el momento de mencionarlo
+14:17:33 - a0viedo (@a0viedo):
+si conocen otras comunidades que también quieran guardar su historial de slack que escriban y les puedo dar una mano en configurarlo
+14:23:40 - Rodrigo Ali (@rodrigojali):
+Este fue uno de los principales pilares por los que yo elegí el cambio de rubro. Hubieron otros en la decisión, pero este fue uno de los principales.
+
+Y después me empezó a gustar.
+
+No todo es amor a primera vista.
+14:26:55 - Julian (@jantonielli01):
+una preg medio offtopic, como hiciste el diagrama ese? está re pió
+14:27:01 - Daniel Broder (@dabroder):
+<#C04P0S1KF|node>
+14:33:14 - Cristhian Duran (@cris):
+crack <@U06H27CM8>
+14:33:39 - Cristhian Duran (@cris):
+con que te podemos pagar este desarrollo?
+14:33:50 - Cristhian Duran (@cris):
+aceptás pan de queso de la estación?
+14:35:22 - a0viedo (@a0viedo):
+<@U7MP5R4MC> <https://cloudcraft.co/>
+14:36:13 - a0viedo (@a0viedo):
+te permite poner budgets, exportar a terraform y la mar en coche
+14:37:54 - Julian (@jantonielli01):
+Re piola, gracias papá 
+14:38:58 - Martín Valdés de León (@mvaldesdeleon):
+```
+Firewalls can be a bitch
+Also Look at Janus from atlassian
+You can Tunnel webrtc through Port 443 to get around it
+Also
+Android to iOS can be very fucky because iOS enfoerces h264 which alot of Android devices can't Software decode in Chrome
+Also Turn servers
+
+Instead of using Peer 2 Peer
+You can use a Turn Server as relay
+
+If p2p does Not work
+```
+14:39:09 - Martín Valdés de León (@mvaldesdeleon):
+esos serian los pointers
+14:39:54 - Martín Valdés de León (@mvaldesdeleon):
+Buen punto.
+14:43:02 - a0viedo (@a0viedo):
+te paso mi CBU <@U24KJ4JET>
+14:43:28 - Cristhian Duran (@cris):
+jajaja patreon o nada
+14:45:28 - Co (@co):
+¿Aceptas mercado pago?
+14:47:56 - Martín Valdés de León (@mvaldesdeleon):
+```
+Check Out Janusgw  and kurento/coturn regarding Turn servers
+Also
+Even If you use p2p without Turn
+You need a Stun Server and some Code to Organize the Handshake
+Google webrtc hacks ( i think)
+```
+14:50:44 - Santiago Ruffino (@santi_0898):
+Btc 
+14:52:31 - Juan Scolari (@juanscolari):
+aceptas canje? tengo un windows xp con licencia original
+14:54:06 - Mateo Silguero (@mfsilguero):
+Donde estan los todo's ale ?
+14:56:07 - Guido Vizoso (@guido.vizoso9):
+Alguno vio esto? <https://developers.google.com/web/updates/2019/03/kv-storage>
+14:56:38 - a0viedo (@a0viedo):
+cd de Windows ME mano mano
+14:57:39 - a0viedo (@a0viedo):
+no abrí issues todavía pero los ves en el código <https://github.com/a0viedo/slackper/search?q=TODO&amp;unscoped_q=TODO>
+15:00:38 - Ariel Ruiz (@soloarielruiz):
+Buenas tardes gente!
+15:02:05 - Ariel Ruiz (@soloarielruiz):
+alguien ha usado la API de Paypal? tengo una duda puntual y quisiera saber si es viable de hacerse
+15:12:51 - Sergio Daniel Xalambrí (@sergiodxa):
+vi el post, está interesante lo de que haya módulos nativos, hacer el fallback es horrible igual, mucho código
+16:40:18 - carloscrovara (@carloscrovara):
+<https://twitter.com/byteconf/status/1106619404706594816?s=12>
+16:49:33 - Santiago Ruffino (@santi_0898):
+Tuve que usar `git reset --hard origin/master` y mi corazon se detuvo por un buen rato
+16:51:36 - Julio (@julito):
+Admito alguna vez haber clonado un repo todo de nuevo por las dudas :stuck_out_tongue:
+16:52:12 - Sergio Daniel Xalambrí (@sergiodxa):
+quién no?
+16:52:19 - Sergio Daniel Xalambrí (@sergiodxa):
+la cagas, borras todo y clonas de nuevo
+16:52:33 - Sergio Daniel Xalambrí (@sergiodxa):
+/gif un clásico
+16:53:09 - Juan Scolari (@juanscolari):
+secreto en la codebase
+16:53:32 - Luis Alvarez (@luistensai):
+```mv my_project my_project_backup
+git clone my_project
+cp my_project_backup/archivos_modificados.* my_project```
+16:54:31 - Santiago Ruffino (@santi_0898):
+Jajaja
+16:54:52 - Santiago Ruffino (@santi_0898):
+YO tenia todo bien, pero lo pise porque ya habia hecho mal el primer push
+16:54:55 - Santiago Ruffino (@santi_0898):
+Pero bueno, ya fue
+17:35:27 - Brian Hume (@brianh20):
+Recien lo veo! Muchas gracias!
+17:36:19 - Brian Hume (@brianh20):
+Suena duro
+18:24:48 - Martín Valdés de León (@mvaldesdeleon):
+Suena a que lo tenes que facturar caro.
+23:55:37 - Sebastian P (@seba23393):
+Hola hay un solo canal?
+23:58:08 - Martín Aimar (@maimar):
+hay una banda
+00:07:35 - Sebastian P (@seba23393):
+<@UC1QYJACE> y donde esta el de functional? me aparece solo general
+00:09:43 - Martín Aimar (@maimar):
+si hacés clic ahí en canales los podés navegar
+00:11:01 - Sebastian P (@seba23393):
+si toque en añadir pense que añadir era otra cosa
+10:24:22 - Gustavo Machado (@machadogj):
+No sabia que spectrum era OSS :scream:
+<https://github.com/withspectrum/spectrum>
+13:30:51 - Brian Hume (@brianh20):
+Hola! Alguno tuvo que poner videoconferencia en su web/app?
+13:31:29 - Martín Valdés de León (@mvaldesdeleon):
+Yo no pero un amigo aca armo una app de videoconferencia con webrtc
+13:31:46 - Martín Valdés de León (@mvaldesdeleon):
+Creo que no tuvo grandes problemas.
+13:31:56 - Brian Hume (@brianh20):
+copado
+13:32:01 - Brian Hume (@brianh20):
+alguna otra tech para revisar?
+13:32:14 - Brian Hume (@brianh20):
+o servicios externos onda "twilio" pero para video conf?
+13:32:15 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunto a ver si hay alguna cosa de la cual estar atento o que.
+13:32:24 - Brian Hume (@brianh20):
+Gracias <@U0TFEHWEA>!
+13:32:40 - Brian Hume (@brianh20):
+no se desvelen que seguro con el presupuesto de diseño se cae solo
+13:32:51 - Brian Hume (@brianh20):
+pero lo que peudan aportar para investigar se agradece
+13:32:52 - Julian (@jantonielli01):
+<#C06DX6V1R|preguntas-tecnicas>
+13:33:05 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunte si hay algun detalle o giladas asi para tener en cuenta, o si todo anda "as advertised"
+14:01:00 - Dario Miñones (@dminones):
+Buenas! Esta semana haciendo una pantalla me di cuenta que me estaba repitiendo en mostrar dialogos de error. Despues de pensar y probar algunas opciones me parecio la oportunidad perfecta para usar lo que mostro <@U0TFEHWEA> en su charala en la nodeconf
+14:02:21 - Dario Miñones (@dminones):
+Me encanto el resultado, hacia tiempo que queria usar proxy para algo!!
+14:02:34 - Martín Valdés de León (@mvaldesdeleon):
+:heart:
+14:03:02 - Dario Miñones (@dminones):
+Plus se puede usar con hooks (?)
+
+```
+export const useWrappedApi = () =&gt; {
+  const store = GDStore.useStore()
+  return wrapper(API, store)
+}
+```
+14:12:36 - a0viedo (@a0viedo):
+hace rato lo venía mencionando pero no había compartido link a los logs porque estaban en proceso de ser migrados, faltaban corregir algunos bugs...podemos decir que ahora ya no se pierden los mensajes (de una lista predeterminada de canales) y todos los días los estamos backupeando, pueden usar la funcionalidad de GitHub para buscar texto acá: <https://github.com/meetupjs-ar/slack-logs>
+el código es open source (<https://github.com/a0viedo/slackper>) y hay algunos TODOs en el backend que si quieren ayudar pueden escribirme a mi o mandar PR
+14:13:04 - Gonzalo González Mora (@gonzalogm):
+:clap:
+14:13:18 - a0viedo (@a0viedo):
+si quieren agregar canales a la lista predeterminada también ahora es el momento de mencionarlo
+14:17:33 - a0viedo (@a0viedo):
+si conocen otras comunidades que también quieran guardar su historial de slack que escriban y les puedo dar una mano en configurarlo
+14:23:40 - Rodrigo Ali (@rodrigojali):
+Este fue uno de los principales pilares por los que yo elegí el cambio de rubro. Hubieron otros en la decisión, pero este fue uno de los principales.
+
+Y después me empezó a gustar.
+
+No todo es amor a primera vista.
+14:26:55 - Julian (@jantonielli01):
+una preg medio offtopic, como hiciste el diagrama ese? está re pió
+14:27:01 - Daniel Broder (@dabroder):
+<#C04P0S1KF|node>
+14:33:14 - Cristhian Duran (@cris):
+crack <@U06H27CM8>
+14:33:39 - Cristhian Duran (@cris):
+con que te podemos pagar este desarrollo?
+14:33:50 - Cristhian Duran (@cris):
+aceptás pan de queso de la estación?
+14:35:22 - a0viedo (@a0viedo):
+<@U7MP5R4MC> <https://cloudcraft.co/>
+14:36:13 - a0viedo (@a0viedo):
+te permite poner budgets, exportar a terraform y la mar en coche
+14:37:54 - Julian (@jantonielli01):
+Re piola, gracias papá 
+14:38:58 - Martín Valdés de León (@mvaldesdeleon):
+```
+Firewalls can be a bitch
+Also Look at Janus from atlassian
+You can Tunnel webrtc through Port 443 to get around it
+Also
+Android to iOS can be very fucky because iOS enfoerces h264 which alot of Android devices can't Software decode in Chrome
+Also Turn servers
+
+Instead of using Peer 2 Peer
+You can use a Turn Server as relay
+
+If p2p does Not work
+```
+14:39:09 - Martín Valdés de León (@mvaldesdeleon):
+esos serian los pointers
+14:39:54 - Martín Valdés de León (@mvaldesdeleon):
+Buen punto.
+14:43:02 - a0viedo (@a0viedo):
+te paso mi CBU <@U24KJ4JET>
+14:43:28 - Cristhian Duran (@cris):
+jajaja patreon o nada
+14:45:28 - Co (@co):
+¿Aceptas mercado pago?
+14:47:56 - Martín Valdés de León (@mvaldesdeleon):
+```
+Check Out Janusgw  and kurento/coturn regarding Turn servers
+Also
+Even If you use p2p without Turn
+You need a Stun Server and some Code to Organize the Handshake
+Google webrtc hacks ( i think)
+```
+14:50:44 - Santiago Ruffino (@santi_0898):
+Btc 
+14:52:31 - Juan Scolari (@juanscolari):
+aceptas canje? tengo un windows xp con licencia original
+14:54:06 - Mateo Silguero (@mfsilguero):
+Donde estan los todo's ale ?
+14:56:07 - Guido Vizoso (@guido.vizoso9):
+Alguno vio esto? <https://developers.google.com/web/updates/2019/03/kv-storage>
+14:56:38 - a0viedo (@a0viedo):
+cd de Windows ME mano mano
+14:57:39 - a0viedo (@a0viedo):
+no abrí issues todavía pero los ves en el código <https://github.com/a0viedo/slackper/search?q=TODO&amp;unscoped_q=TODO>
+15:00:38 - Ariel Ruiz (@soloarielruiz):
+Buenas tardes gente!
+15:02:05 - Ariel Ruiz (@soloarielruiz):
+alguien ha usado la API de Paypal? tengo una duda puntual y quisiera saber si es viable de hacerse
+15:12:51 - Sergio Daniel Xalambrí (@sergiodxa):
+vi el post, está interesante lo de que haya módulos nativos, hacer el fallback es horrible igual, mucho código
+16:40:18 - carloscrovara (@carloscrovara):
+<https://twitter.com/byteconf/status/1106619404706594816?s=12>
+16:49:33 - Santiago Ruffino (@santi_0898):
+Tuve que usar `git reset --hard origin/master` y mi corazon se detuvo por un buen rato
+16:51:36 - Julio (@julito):
+Admito alguna vez haber clonado un repo todo de nuevo por las dudas :stuck_out_tongue:
+16:52:12 - Sergio Daniel Xalambrí (@sergiodxa):
+quién no?
+16:52:19 - Sergio Daniel Xalambrí (@sergiodxa):
+la cagas, borras todo y clonas de nuevo
+16:52:33 - Sergio Daniel Xalambrí (@sergiodxa):
+/gif un clásico
+16:53:09 - Juan Scolari (@juanscolari):
+secreto en la codebase
+16:53:32 - Luis Alvarez (@luistensai):
+```mv my_project my_project_backup
+git clone my_project
+cp my_project_backup/archivos_modificados.* my_project```
+16:54:31 - Santiago Ruffino (@santi_0898):
+Jajaja
+16:54:52 - Santiago Ruffino (@santi_0898):
+YO tenia todo bien, pero lo pise porque ya habia hecho mal el primer push
+16:54:55 - Santiago Ruffino (@santi_0898):
+Pero bueno, ya fue
+17:35:27 - Brian Hume (@brianh20):
+Recien lo veo! Muchas gracias!
+17:36:19 - Brian Hume (@brianh20):
+Suena duro
+18:24:48 - Martín Valdés de León (@mvaldesdeleon):
+Suena a que lo tenes que facturar caro.
+23:55:37 - Sebastian P (@seba23393):
+Hola hay un solo canal?
+23:58:08 - Martín Aimar (@maimar):
+hay una banda
+00:07:35 - Sebastian P (@seba23393):
+<@UC1QYJACE> y donde esta el de functional? me aparece solo general
+00:09:43 - Martín Aimar (@maimar):
+si hacés clic ahí en canales los podés navegar
+00:11:01 - Sebastian P (@seba23393):
+si toque en añadir pense que añadir era otra cosa
+10:24:22 - Gustavo Machado (@machadogj):
+No sabia que spectrum era OSS :scream:
+<https://github.com/withspectrum/spectrum>
+13:30:51 - Brian Hume (@brianh20):
+Hola! Alguno tuvo que poner videoconferencia en su web/app?
+13:31:29 - Martín Valdés de León (@mvaldesdeleon):
+Yo no pero un amigo aca armo una app de videoconferencia con webrtc
+13:31:46 - Martín Valdés de León (@mvaldesdeleon):
+Creo que no tuvo grandes problemas.
+13:31:56 - Brian Hume (@brianh20):
+copado
+13:32:01 - Brian Hume (@brianh20):
+alguna otra tech para revisar?
+13:32:14 - Brian Hume (@brianh20):
+o servicios externos onda "twilio" pero para video conf?
+13:32:15 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunto a ver si hay alguna cosa de la cual estar atento o que.
+13:32:24 - Brian Hume (@brianh20):
+Gracias <@U0TFEHWEA>!
+13:32:40 - Brian Hume (@brianh20):
+no se desvelen que seguro con el presupuesto de diseño se cae solo
+13:32:51 - Brian Hume (@brianh20):
+pero lo que peudan aportar para investigar se agradece
+13:32:52 - Julian (@jantonielli01):
+<#C06DX6V1R|preguntas-tecnicas>
+13:33:05 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunte si hay algun detalle o giladas asi para tener en cuenta, o si todo anda "as advertised"
+14:01:00 - Dario Miñones (@dminones):
+Buenas! Esta semana haciendo una pantalla me di cuenta que me estaba repitiendo en mostrar dialogos de error. Despues de pensar y probar algunas opciones me parecio la oportunidad perfecta para usar lo que mostro <@U0TFEHWEA> en su charala en la nodeconf
+14:02:21 - Dario Miñones (@dminones):
+Me encanto el resultado, hacia tiempo que queria usar proxy para algo!!
+14:02:34 - Martín Valdés de León (@mvaldesdeleon):
+:heart:
+14:03:02 - Dario Miñones (@dminones):
+Plus se puede usar con hooks (?)
+
+```
+export const useWrappedApi = () =&gt; {
+  const store = GDStore.useStore()
+  return wrapper(API, store)
+}
+```
+14:12:36 - a0viedo (@a0viedo):
+hace rato lo venía mencionando pero no había compartido link a los logs porque estaban en proceso de ser migrados, faltaban corregir algunos bugs...podemos decir que ahora ya no se pierden los mensajes (de una lista predeterminada de canales) y todos los días los estamos backupeando, pueden usar la funcionalidad de GitHub para buscar texto acá: <https://github.com/meetupjs-ar/slack-logs>
+el código es open source (<https://github.com/a0viedo/slackper>) y hay algunos TODOs en el backend que si quieren ayudar pueden escribirme a mi o mandar PR
+14:13:04 - Gonzalo González Mora (@gonzalogm):
+:clap:
+14:13:18 - a0viedo (@a0viedo):
+si quieren agregar canales a la lista predeterminada también ahora es el momento de mencionarlo
+14:17:33 - a0viedo (@a0viedo):
+si conocen otras comunidades que también quieran guardar su historial de slack que escriban y les puedo dar una mano en configurarlo
+14:23:40 - Rodrigo Ali (@rodrigojali):
+Este fue uno de los principales pilares por los que yo elegí el cambio de rubro. Hubieron otros en la decisión, pero este fue uno de los principales.
+
+Y después me empezó a gustar.
+
+No todo es amor a primera vista.
+14:26:55 - Julian (@jantonielli01):
+una preg medio offtopic, como hiciste el diagrama ese? está re pió
+14:27:01 - Daniel Broder (@dabroder):
+<#C04P0S1KF|node>
+14:33:14 - Cristhian Duran (@cris):
+crack <@U06H27CM8>
+14:33:39 - Cristhian Duran (@cris):
+con que te podemos pagar este desarrollo?
+14:33:50 - Cristhian Duran (@cris):
+aceptás pan de queso de la estación?
+14:35:22 - a0viedo (@a0viedo):
+<@U7MP5R4MC> <https://cloudcraft.co/>
+14:36:13 - a0viedo (@a0viedo):
+te permite poner budgets, exportar a terraform y la mar en coche
+14:37:54 - Julian (@jantonielli01):
+Re piola, gracias papá 
+14:38:58 - Martín Valdés de León (@mvaldesdeleon):
+```
+Firewalls can be a bitch
+Also Look at Janus from atlassian
+You can Tunnel webrtc through Port 443 to get around it
+Also
+Android to iOS can be very fucky because iOS enfoerces h264 which alot of Android devices can't Software decode in Chrome
+Also Turn servers
+
+Instead of using Peer 2 Peer
+You can use a Turn Server as relay
+
+If p2p does Not work
+```
+14:39:09 - Martín Valdés de León (@mvaldesdeleon):
+esos serian los pointers
+14:39:54 - Martín Valdés de León (@mvaldesdeleon):
+Buen punto.
+14:43:02 - a0viedo (@a0viedo):
+te paso mi CBU <@U24KJ4JET>
+14:43:28 - Cristhian Duran (@cris):
+jajaja patreon o nada
+14:45:28 - Co (@co):
+¿Aceptas mercado pago?
+14:47:56 - Martín Valdés de León (@mvaldesdeleon):
+```
+Check Out Janusgw  and kurento/coturn regarding Turn servers
+Also
+Even If you use p2p without Turn
+You need a Stun Server and some Code to Organize the Handshake
+Google webrtc hacks ( i think)
+```
+14:50:44 - Santiago Ruffino (@santi_0898):
+Btc 
+14:52:31 - Juan Scolari (@juanscolari):
+aceptas canje? tengo un windows xp con licencia original
+14:54:06 - Mateo Silguero (@mfsilguero):
+Donde estan los todo's ale ?
+14:56:07 - Guido Vizoso (@guido.vizoso9):
+Alguno vio esto? <https://developers.google.com/web/updates/2019/03/kv-storage>
+14:56:38 - a0viedo (@a0viedo):
+cd de Windows ME mano mano
+14:57:39 - a0viedo (@a0viedo):
+no abrí issues todavía pero los ves en el código <https://github.com/a0viedo/slackper/search?q=TODO&amp;unscoped_q=TODO>
+15:00:38 - Ariel Ruiz (@soloarielruiz):
+Buenas tardes gente!
+15:02:05 - Ariel Ruiz (@soloarielruiz):
+alguien ha usado la API de Paypal? tengo una duda puntual y quisiera saber si es viable de hacerse
+15:12:51 - Sergio Daniel Xalambrí (@sergiodxa):
+vi el post, está interesante lo de que haya módulos nativos, hacer el fallback es horrible igual, mucho código
+16:40:18 - carloscrovara (@carloscrovara):
+<https://twitter.com/byteconf/status/1106619404706594816?s=12>
+16:49:33 - Santiago Ruffino (@santi_0898):
+Tuve que usar `git reset --hard origin/master` y mi corazon se detuvo por un buen rato
+16:51:36 - Julio (@julito):
+Admito alguna vez haber clonado un repo todo de nuevo por las dudas :stuck_out_tongue:
+16:52:12 - Sergio Daniel Xalambrí (@sergiodxa):
+quién no?
+16:52:19 - Sergio Daniel Xalambrí (@sergiodxa):
+la cagas, borras todo y clonas de nuevo
+16:52:33 - Sergio Daniel Xalambrí (@sergiodxa):
+/gif un clásico
+16:53:09 - Juan Scolari (@juanscolari):
+secreto en la codebase
+16:53:32 - Luis Alvarez (@luistensai):
+```mv my_project my_project_backup
+git clone my_project
+cp my_project_backup/archivos_modificados.* my_project```
+16:54:31 - Santiago Ruffino (@santi_0898):
+Jajaja
+16:54:52 - Santiago Ruffino (@santi_0898):
+YO tenia todo bien, pero lo pise porque ya habia hecho mal el primer push
+16:54:55 - Santiago Ruffino (@santi_0898):
+Pero bueno, ya fue
+17:35:27 - Brian Hume (@brianh20):
+Recien lo veo! Muchas gracias!
+17:36:19 - Brian Hume (@brianh20):
+Suena duro
+18:24:48 - Martín Valdés de León (@mvaldesdeleon):
+Suena a que lo tenes que facturar caro.
+23:55:37 - Sebastian P (@seba23393):
+Hola hay un solo canal?
+23:58:08 - Martín Aimar (@maimar):
+hay una banda
+00:07:35 - Sebastian P (@seba23393):
+<@UC1QYJACE> y donde esta el de functional? me aparece solo general
+00:09:43 - Martín Aimar (@maimar):
+si hacés clic ahí en canales los podés navegar
+00:11:01 - Sebastian P (@seba23393):
+si toque en añadir pense que añadir era otra cosa
+10:24:22 - Gustavo Machado (@machadogj):
+No sabia que spectrum era OSS :scream:
+<https://github.com/withspectrum/spectrum>
+13:30:51 - Brian Hume (@brianh20):
+Hola! Alguno tuvo que poner videoconferencia en su web/app?
+13:31:29 - Martín Valdés de León (@mvaldesdeleon):
+Yo no pero un amigo aca armo una app de videoconferencia con webrtc
+13:31:46 - Martín Valdés de León (@mvaldesdeleon):
+Creo que no tuvo grandes problemas.
+13:31:56 - Brian Hume (@brianh20):
+copado
+13:32:01 - Brian Hume (@brianh20):
+alguna otra tech para revisar?
+13:32:14 - Brian Hume (@brianh20):
+o servicios externos onda "twilio" pero para video conf?
+13:32:15 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunto a ver si hay alguna cosa de la cual estar atento o que.
+13:32:24 - Brian Hume (@brianh20):
+Gracias <@U0TFEHWEA>!
+13:32:40 - Brian Hume (@brianh20):
+no se desvelen que seguro con el presupuesto de diseño se cae solo
+13:32:51 - Brian Hume (@brianh20):
+pero lo que peudan aportar para investigar se agradece
+13:32:52 - Julian (@jantonielli01):
+<#C06DX6V1R|preguntas-tecnicas>
+13:33:05 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunte si hay algun detalle o giladas asi para tener en cuenta, o si todo anda "as advertised"
+14:01:00 - Dario Miñones (@dminones):
+Buenas! Esta semana haciendo una pantalla me di cuenta que me estaba repitiendo en mostrar dialogos de error. Despues de pensar y probar algunas opciones me parecio la oportunidad perfecta para usar lo que mostro <@U0TFEHWEA> en su charala en la nodeconf
+14:02:21 - Dario Miñones (@dminones):
+Me encanto el resultado, hacia tiempo que queria usar proxy para algo!!
+14:02:34 - Martín Valdés de León (@mvaldesdeleon):
+:heart:
+14:03:02 - Dario Miñones (@dminones):
+Plus se puede usar con hooks (?)
+
+```
+export const useWrappedApi = () =&gt; {
+  const store = GDStore.useStore()
+  return wrapper(API, store)
+}
+```
+14:12:36 - a0viedo (@a0viedo):
+hace rato lo venía mencionando pero no había compartido link a los logs porque estaban en proceso de ser migrados, faltaban corregir algunos bugs...podemos decir que ahora ya no se pierden los mensajes (de una lista predeterminada de canales) y todos los días los estamos backupeando, pueden usar la funcionalidad de GitHub para buscar texto acá: <https://github.com/meetupjs-ar/slack-logs>
+el código es open source (<https://github.com/a0viedo/slackper>) y hay algunos TODOs en el backend que si quieren ayudar pueden escribirme a mi o mandar PR
+14:13:04 - Gonzalo González Mora (@gonzalogm):
+:clap:
+14:13:18 - a0viedo (@a0viedo):
+si quieren agregar canales a la lista predeterminada también ahora es el momento de mencionarlo
+14:17:33 - a0viedo (@a0viedo):
+si conocen otras comunidades que también quieran guardar su historial de slack que escriban y les puedo dar una mano en configurarlo
+14:23:40 - Rodrigo Ali (@rodrigojali):
+Este fue uno de los principales pilares por los que yo elegí el cambio de rubro. Hubieron otros en la decisión, pero este fue uno de los principales.
+
+Y después me empezó a gustar.
+
+No todo es amor a primera vista.
+14:26:55 - Julian (@jantonielli01):
+una preg medio offtopic, como hiciste el diagrama ese? está re pió
+14:27:01 - Daniel Broder (@dabroder):
+<#C04P0S1KF|node>
+14:33:14 - Cristhian Duran (@cris):
+crack <@U06H27CM8>
+14:33:39 - Cristhian Duran (@cris):
+con que te podemos pagar este desarrollo?
+14:33:50 - Cristhian Duran (@cris):
+aceptás pan de queso de la estación?
+14:35:22 - a0viedo (@a0viedo):
+<@U7MP5R4MC> <https://cloudcraft.co/>
+14:36:13 - a0viedo (@a0viedo):
+te permite poner budgets, exportar a terraform y la mar en coche
+14:37:54 - Julian (@jantonielli01):
+Re piola, gracias papá 
+14:38:58 - Martín Valdés de León (@mvaldesdeleon):
+```
+Firewalls can be a bitch
+Also Look at Janus from atlassian
+You can Tunnel webrtc through Port 443 to get around it
+Also
+Android to iOS can be very fucky because iOS enfoerces h264 which alot of Android devices can't Software decode in Chrome
+Also Turn servers
+
+Instead of using Peer 2 Peer
+You can use a Turn Server as relay
+
+If p2p does Not work
+```
+14:39:09 - Martín Valdés de León (@mvaldesdeleon):
+esos serian los pointers
+14:39:54 - Martín Valdés de León (@mvaldesdeleon):
+Buen punto.
+14:43:02 - a0viedo (@a0viedo):
+te paso mi CBU <@U24KJ4JET>
+14:43:28 - Cristhian Duran (@cris):
+jajaja patreon o nada
+14:45:28 - Co (@co):
+¿Aceptas mercado pago?
+14:47:56 - Martín Valdés de León (@mvaldesdeleon):
+```
+Check Out Janusgw  and kurento/coturn regarding Turn servers
+Also
+Even If you use p2p without Turn
+You need a Stun Server and some Code to Organize the Handshake
+Google webrtc hacks ( i think)
+```
+14:50:44 - Santiago Ruffino (@santi_0898):
+Btc 
+14:52:31 - Juan Scolari (@juanscolari):
+aceptas canje? tengo un windows xp con licencia original
+14:54:06 - Mateo Silguero (@mfsilguero):
+Donde estan los todo's ale ?
+14:56:07 - Guido Vizoso (@guido.vizoso9):
+Alguno vio esto? <https://developers.google.com/web/updates/2019/03/kv-storage>
+14:56:38 - a0viedo (@a0viedo):
+cd de Windows ME mano mano
+14:57:39 - a0viedo (@a0viedo):
+no abrí issues todavía pero los ves en el código <https://github.com/a0viedo/slackper/search?q=TODO&amp;unscoped_q=TODO>
+15:00:38 - Ariel Ruiz (@soloarielruiz):
+Buenas tardes gente!
+15:02:05 - Ariel Ruiz (@soloarielruiz):
+alguien ha usado la API de Paypal? tengo una duda puntual y quisiera saber si es viable de hacerse
+15:12:51 - Sergio Daniel Xalambrí (@sergiodxa):
+vi el post, está interesante lo de que haya módulos nativos, hacer el fallback es horrible igual, mucho código
+16:40:18 - carloscrovara (@carloscrovara):
+<https://twitter.com/byteconf/status/1106619404706594816?s=12>
+16:49:33 - Santiago Ruffino (@santi_0898):
+Tuve que usar `git reset --hard origin/master` y mi corazon se detuvo por un buen rato
+16:51:36 - Julio (@julito):
+Admito alguna vez haber clonado un repo todo de nuevo por las dudas :stuck_out_tongue:
+16:52:12 - Sergio Daniel Xalambrí (@sergiodxa):
+quién no?
+16:52:19 - Sergio Daniel Xalambrí (@sergiodxa):
+la cagas, borras todo y clonas de nuevo
+16:52:33 - Sergio Daniel Xalambrí (@sergiodxa):
+/gif un clásico
+16:53:09 - Juan Scolari (@juanscolari):
+secreto en la codebase
+16:53:32 - Luis Alvarez (@luistensai):
+```mv my_project my_project_backup
+git clone my_project
+cp my_project_backup/archivos_modificados.* my_project```
+16:54:31 - Santiago Ruffino (@santi_0898):
+Jajaja
+16:54:52 - Santiago Ruffino (@santi_0898):
+YO tenia todo bien, pero lo pise porque ya habia hecho mal el primer push
+16:54:55 - Santiago Ruffino (@santi_0898):
+Pero bueno, ya fue
+17:35:27 - Brian Hume (@brianh20):
+Recien lo veo! Muchas gracias!
+17:36:19 - Brian Hume (@brianh20):
+Suena duro
+18:24:48 - Martín Valdés de León (@mvaldesdeleon):
+Suena a que lo tenes que facturar caro.
+23:55:37 - Sebastian P (@seba23393):
+Hola hay un solo canal?
+23:58:08 - Martín Aimar (@maimar):
+hay una banda
+00:07:35 - Sebastian P (@seba23393):
+<@UC1QYJACE> y donde esta el de functional? me aparece solo general
+00:09:43 - Martín Aimar (@maimar):
+si hacés clic ahí en canales los podés navegar
+00:11:01 - Sebastian P (@seba23393):
+si toque en añadir pense que añadir era otra cosa
+10:24:22 - Gustavo Machado (@machadogj):
+No sabia que spectrum era OSS :scream:
+<https://github.com/withspectrum/spectrum>
+13:30:51 - Brian Hume (@brianh20):
+Hola! Alguno tuvo que poner videoconferencia en su web/app?
+13:31:29 - Martín Valdés de León (@mvaldesdeleon):
+Yo no pero un amigo aca armo una app de videoconferencia con webrtc
+13:31:46 - Martín Valdés de León (@mvaldesdeleon):
+Creo que no tuvo grandes problemas.
+13:31:56 - Brian Hume (@brianh20):
+copado
+13:32:01 - Brian Hume (@brianh20):
+alguna otra tech para revisar?
+13:32:14 - Brian Hume (@brianh20):
+o servicios externos onda "twilio" pero para video conf?
+13:32:15 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunto a ver si hay alguna cosa de la cual estar atento o que.
+13:32:24 - Brian Hume (@brianh20):
+Gracias <@U0TFEHWEA>!
+13:32:40 - Brian Hume (@brianh20):
+no se desvelen que seguro con el presupuesto de diseño se cae solo
+13:32:51 - Brian Hume (@brianh20):
+pero lo que peudan aportar para investigar se agradece
+13:32:52 - Julian (@jantonielli01):
+<#C06DX6V1R|preguntas-tecnicas>
+13:33:05 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunte si hay algun detalle o giladas asi para tener en cuenta, o si todo anda "as advertised"
+14:01:00 - Dario Miñones (@dminones):
+Buenas! Esta semana haciendo una pantalla me di cuenta que me estaba repitiendo en mostrar dialogos de error. Despues de pensar y probar algunas opciones me parecio la oportunidad perfecta para usar lo que mostro <@U0TFEHWEA> en su charala en la nodeconf
+14:02:21 - Dario Miñones (@dminones):
+Me encanto el resultado, hacia tiempo que queria usar proxy para algo!!
+14:02:34 - Martín Valdés de León (@mvaldesdeleon):
+:heart:
+14:03:02 - Dario Miñones (@dminones):
+Plus se puede usar con hooks (?)
+
+```
+export const useWrappedApi = () =&gt; {
+  const store = GDStore.useStore()
+  return wrapper(API, store)
+}
+```
+14:12:36 - a0viedo (@a0viedo):
+hace rato lo venía mencionando pero no había compartido link a los logs porque estaban en proceso de ser migrados, faltaban corregir algunos bugs...podemos decir que ahora ya no se pierden los mensajes (de una lista predeterminada de canales) y todos los días los estamos backupeando, pueden usar la funcionalidad de GitHub para buscar texto acá: <https://github.com/meetupjs-ar/slack-logs>
+el código es open source (<https://github.com/a0viedo/slackper>) y hay algunos TODOs en el backend que si quieren ayudar pueden escribirme a mi o mandar PR
+14:13:04 - Gonzalo González Mora (@gonzalogm):
+:clap:
+14:13:18 - a0viedo (@a0viedo):
+si quieren agregar canales a la lista predeterminada también ahora es el momento de mencionarlo
+14:17:33 - a0viedo (@a0viedo):
+si conocen otras comunidades que también quieran guardar su historial de slack que escriban y les puedo dar una mano en configurarlo
+14:23:40 - Rodrigo Ali (@rodrigojali):
+Este fue uno de los principales pilares por los que yo elegí el cambio de rubro. Hubieron otros en la decisión, pero este fue uno de los principales.
+
+Y después me empezó a gustar.
+
+No todo es amor a primera vista.
+14:26:55 - Julian (@jantonielli01):
+una preg medio offtopic, como hiciste el diagrama ese? está re pió
+14:27:01 - Daniel Broder (@dabroder):
+<#C04P0S1KF|node>
+14:33:14 - Cristhian Duran (@cris):
+crack <@U06H27CM8>
+14:33:39 - Cristhian Duran (@cris):
+con que te podemos pagar este desarrollo?
+14:33:50 - Cristhian Duran (@cris):
+aceptás pan de queso de la estación?
+14:35:22 - a0viedo (@a0viedo):
+<@U7MP5R4MC> <https://cloudcraft.co/>
+14:36:13 - a0viedo (@a0viedo):
+te permite poner budgets, exportar a terraform y la mar en coche
+14:37:54 - Julian (@jantonielli01):
+Re piola, gracias papá 
+14:38:58 - Martín Valdés de León (@mvaldesdeleon):
+```
+Firewalls can be a bitch
+Also Look at Janus from atlassian
+You can Tunnel webrtc through Port 443 to get around it
+Also
+Android to iOS can be very fucky because iOS enfoerces h264 which alot of Android devices can't Software decode in Chrome
+Also Turn servers
+
+Instead of using Peer 2 Peer
+You can use a Turn Server as relay
+
+If p2p does Not work
+```
+14:39:09 - Martín Valdés de León (@mvaldesdeleon):
+esos serian los pointers
+14:39:54 - Martín Valdés de León (@mvaldesdeleon):
+Buen punto.
+14:43:02 - a0viedo (@a0viedo):
+te paso mi CBU <@U24KJ4JET>
+14:43:28 - Cristhian Duran (@cris):
+jajaja patreon o nada
+14:45:28 - Co (@co):
+¿Aceptas mercado pago?
+14:47:56 - Martín Valdés de León (@mvaldesdeleon):
+```
+Check Out Janusgw  and kurento/coturn regarding Turn servers
+Also
+Even If you use p2p without Turn
+You need a Stun Server and some Code to Organize the Handshake
+Google webrtc hacks ( i think)
+```
+14:50:44 - Santiago Ruffino (@santi_0898):
+Btc 
+14:52:31 - Juan Scolari (@juanscolari):
+aceptas canje? tengo un windows xp con licencia original
+14:54:06 - Mateo Silguero (@mfsilguero):
+Donde estan los todo's ale ?
+14:56:07 - Guido Vizoso (@guido.vizoso9):
+Alguno vio esto? <https://developers.google.com/web/updates/2019/03/kv-storage>
+14:56:38 - a0viedo (@a0viedo):
+cd de Windows ME mano mano
+14:57:39 - a0viedo (@a0viedo):
+no abrí issues todavía pero los ves en el código <https://github.com/a0viedo/slackper/search?q=TODO&amp;unscoped_q=TODO>
+15:00:38 - Ariel Ruiz (@soloarielruiz):
+Buenas tardes gente!
+15:02:05 - Ariel Ruiz (@soloarielruiz):
+alguien ha usado la API de Paypal? tengo una duda puntual y quisiera saber si es viable de hacerse
+15:12:51 - Sergio Daniel Xalambrí (@sergiodxa):
+vi el post, está interesante lo de que haya módulos nativos, hacer el fallback es horrible igual, mucho código
+16:40:18 - carloscrovara (@carloscrovara):
+<https://twitter.com/byteconf/status/1106619404706594816?s=12>
+16:49:33 - Santiago Ruffino (@santi_0898):
+Tuve que usar `git reset --hard origin/master` y mi corazon se detuvo por un buen rato
+16:51:36 - Julio (@julito):
+Admito alguna vez haber clonado un repo todo de nuevo por las dudas :stuck_out_tongue:
+16:52:12 - Sergio Daniel Xalambrí (@sergiodxa):
+quién no?
+16:52:19 - Sergio Daniel Xalambrí (@sergiodxa):
+la cagas, borras todo y clonas de nuevo
+16:52:33 - Sergio Daniel Xalambrí (@sergiodxa):
+/gif un clásico
+16:53:09 - Juan Scolari (@juanscolari):
+secreto en la codebase
+16:53:32 - Luis Alvarez (@luistensai):
+```mv my_project my_project_backup
+git clone my_project
+cp my_project_backup/archivos_modificados.* my_project```
+16:54:31 - Santiago Ruffino (@santi_0898):
+Jajaja
+16:54:52 - Santiago Ruffino (@santi_0898):
+YO tenia todo bien, pero lo pise porque ya habia hecho mal el primer push
+16:54:55 - Santiago Ruffino (@santi_0898):
+Pero bueno, ya fue
+17:35:27 - Brian Hume (@brianh20):
+Recien lo veo! Muchas gracias!
+17:36:19 - Brian Hume (@brianh20):
+Suena duro
+18:24:48 - Martín Valdés de León (@mvaldesdeleon):
+Suena a que lo tenes que facturar caro.
+23:55:37 - Sebastian P (@seba23393):
+Hola hay un solo canal?
+23:58:08 - Martín Aimar (@maimar):
+hay una banda
+00:07:35 - Sebastian P (@seba23393):
+<@UC1QYJACE> y donde esta el de functional? me aparece solo general
+00:09:43 - Martín Aimar (@maimar):
+si hacés clic ahí en canales los podés navegar
+00:11:01 - Sebastian P (@seba23393):
+si toque en añadir pense que añadir era otra cosa
+10:24:22 - Gustavo Machado (@machadogj):
+No sabia que spectrum era OSS :scream:
+<https://github.com/withspectrum/spectrum>
+13:30:51 - Brian Hume (@brianh20):
+Hola! Alguno tuvo que poner videoconferencia en su web/app?
+13:31:29 - Martín Valdés de León (@mvaldesdeleon):
+Yo no pero un amigo aca armo una app de videoconferencia con webrtc
+13:31:46 - Martín Valdés de León (@mvaldesdeleon):
+Creo que no tuvo grandes problemas.
+13:31:56 - Brian Hume (@brianh20):
+copado
+13:32:01 - Brian Hume (@brianh20):
+alguna otra tech para revisar?
+13:32:14 - Brian Hume (@brianh20):
+o servicios externos onda "twilio" pero para video conf?
+13:32:15 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunto a ver si hay alguna cosa de la cual estar atento o que.
+13:32:24 - Brian Hume (@brianh20):
+Gracias <@U0TFEHWEA>!
+13:32:40 - Brian Hume (@brianh20):
+no se desvelen que seguro con el presupuesto de diseño se cae solo
+13:32:51 - Brian Hume (@brianh20):
+pero lo que peudan aportar para investigar se agradece
+13:32:52 - Julian (@jantonielli01):
+<#C06DX6V1R|preguntas-tecnicas>
+13:33:05 - Martín Valdés de León (@mvaldesdeleon):
+Ahi le pregunte si hay algun detalle o giladas asi para tener en cuenta, o si todo anda "as advertised"
+14:01:00 - Dario Miñones (@dminones):
+Buenas! Esta semana haciendo una pantalla me di cuenta que me estaba repitiendo en mostrar dialogos de error. Despues de pensar y probar algunas opciones me parecio la oportunidad perfecta para usar lo que mostro <@U0TFEHWEA> en su charala en la nodeconf
+14:02:21 - Dario Miñones (@dminones):
+Me encanto el resultado, hacia tiempo que queria usar proxy para algo!!
+14:02:34 - Martín Valdés de León (@mvaldesdeleon):
+:heart:
+14:03:02 - Dario Miñones (@dminones):
+Plus se puede usar con hooks (?)
+
+```
+export const useWrappedApi = () =&gt; {
+  const store = GDStore.useStore()
+  return wrapper(API, store)
+}
+```
+14:12:36 - a0viedo (@a0viedo):
+hace rato lo venía mencionando pero no había compartido link a los logs porque estaban en proceso de ser migrados, faltaban corregir algunos bugs...podemos decir que ahora ya no se pierden los mensajes (de una lista predeterminada de canales) y todos los días los estamos backupeando, pueden usar la funcionalidad de GitHub para buscar texto acá: <https://github.com/meetupjs-ar/slack-logs>
+el código es open source (<https://github.com/a0viedo/slackper>) y hay algunos TODOs en el backend que si quieren ayudar pueden escribirme a mi o mandar PR
+14:13:04 - Gonzalo González Mora (@gonzalogm):
+:clap:
+14:13:18 - a0viedo (@a0viedo):
+si quieren agregar canales a la lista predeterminada también ahora es el momento de mencionarlo
+14:17:33 - a0viedo (@a0viedo):
+si conocen otras comunidades que también quieran guardar su historial de slack que escriban y les puedo dar una mano en configurarlo
+14:23:40 - Rodrigo Ali (@rodrigojali):
+Este fue uno de los principales pilares por los que yo elegí el cambio de rubro. Hubieron otros en la decisión, pero este fue uno de los principales.
+
+Y después me empezó a gustar.
+
+No todo es amor a primera vista.
+14:26:55 - Julian (@jantonielli01):
+una preg medio offtopic, como hiciste el diagrama ese? está re pió
+14:27:01 - Daniel Broder (@dabroder):
+<#C04P0S1KF|node>
+14:33:14 - Cristhian Duran (@cris):
+crack <@U06H27CM8>
+14:33:39 - Cristhian Duran (@cris):
+con que te podemos pagar este desarrollo?
+14:33:50 - Cristhian Duran (@cris):
+aceptás pan de queso de la estación?
+14:35:22 - a0viedo (@a0viedo):
+<@U7MP5R4MC> <https://cloudcraft.co/>
+14:36:13 - a0viedo (@a0viedo):
+te permite poner budgets, exportar a terraform y la mar en coche
+14:37:54 - Julian (@jantonielli01):
+Re piola, gracias papá 
+14:38:58 - Martín Valdés de León (@mvaldesdeleon):
+```
+Firewalls can be a bitch
+Also Look at Janus from atlassian
+You can Tunnel webrtc through Port 443 to get around it
+Also
+Android to iOS can be very fucky because iOS enfoerces h264 which alot of Android devices can't Software decode in Chrome
+Also Turn servers
+
+Instead of using Peer 2 Peer
+You can use a Turn Server as relay
+
+If p2p does Not work
+```
+14:39:09 - Martín Valdés de León (@mvaldesdeleon):
+esos serian los pointers
+14:39:54 - Martín Valdés de León (@mvaldesdeleon):
+Buen punto.
+14:43:02 - a0viedo (@a0viedo):
+te paso mi CBU <@U24KJ4JET>
+14:43:28 - Cristhian Duran (@cris):
+jajaja patreon o nada
+14:45:28 - Co (@co):
+¿Aceptas mercado pago?
+14:47:56 - Martín Valdés de León (@mvaldesdeleon):
+```
+Check Out Janusgw  and kurento/coturn regarding Turn servers
+Also
+Even If you use p2p without Turn
+You need a Stun Server and some Code to Organize the Handshake
+Google webrtc hacks ( i think)
+```
+14:50:44 - Santiago Ruffino (@santi_0898):
+Btc 
+14:52:31 - Juan Scolari (@juanscolari):
+aceptas canje? tengo un windows xp con licencia original
+14:54:06 - Mateo Silguero (@mfsilguero):
+Donde estan los todo's ale ?
+14:56:07 - Guido Vizoso (@guido.vizoso9):
+Alguno vio esto? <https://developers.google.com/web/updates/2019/03/kv-storage>
+14:56:38 - a0viedo (@a0viedo):
+cd de Windows ME mano mano
+14:57:39 - a0viedo (@a0viedo):
+no abrí issues todavía pero los ves en el código <https://github.com/a0viedo/slackper/search?q=TODO&amp;unscoped_q=TODO>
+15:00:38 - Ariel Ruiz (@soloarielruiz):
+Buenas tardes gente!
+15:02:05 - Ariel Ruiz (@soloarielruiz):
+alguien ha usado la API de Paypal? tengo una duda puntual y quisiera saber si es viable de hacerse
+15:12:51 - Sergio Daniel Xalambrí (@sergiodxa):
+vi el post, está interesante lo de que haya módulos nativos, hacer el fallback es horrible igual, mucho código
+16:40:18 - carloscrovara (@carloscrovara):
+<https://twitter.com/byteconf/status/1106619404706594816?s=12>
+16:49:33 - Santiago Ruffino (@santi_0898):
+Tuve que usar `git reset --hard origin/master` y mi corazon se detuvo por un buen rato
+16:51:36 - Julio (@julito):
+Admito alguna vez haber clonado un repo todo de nuevo por las dudas :stuck_out_tongue:
+16:52:12 - Sergio Daniel Xalambrí (@sergiodxa):
+quién no?
+16:52:19 - Sergio Daniel Xalambrí (@sergiodxa):
+la cagas, borras todo y clonas de nuevo
+16:52:33 - Sergio Daniel Xalambrí (@sergiodxa):
+/gif un clásico
+16:53:09 - Juan Scolari (@juanscolari):
+secreto en la codebase
+16:53:32 - Luis Alvarez (@luistensai):
+```mv my_project my_project_backup
+git clone my_project
+cp my_project_backup/archivos_modificados.* my_project```
+16:54:31 - Santiago Ruffino (@santi_0898):
+Jajaja
+16:54:52 - Santiago Ruffino (@santi_0898):
+YO tenia todo bien, pero lo pise porque ya habia hecho mal el primer push
+16:54:55 - Santiago Ruffino (@santi_0898):
+Pero bueno, ya fue
+17:35:27 - Brian Hume (@brianh20):
+Recien lo veo! Muchas gracias!
+17:36:19 - Brian Hume (@brianh20):
+Suena duro
+18:24:48 - Martín Valdés de León (@mvaldesdeleon):
+Suena a que lo tenes que facturar caro.
