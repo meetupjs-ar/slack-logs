@@ -1,0 +1,762 @@
+21:44:03 - gillchristian (@gillchristian):
+Uhh que bueno!
+21:44:20 - gillchristian (@gillchristian):
+Muy interesante la idea
+22:35:18 - Juan Bono (@juanbono):
+Si jajaja, hay que ver cómo evoluciona, al principio me pareció medio bizarro pero dicen que tiene buena performance
+00:12:37 - Sebastian P (@seba23393):
+hola aca es para consultar haskell?
+01:29:21 - Gonza Gluzman (@gonza):
+Sí
+01:29:38 - Gonza Gluzman (@gonza):
+Al menos es el espacio más indicado para eso, dentro de *este* slack
+04:20:26 - gillchristian (@gillchristian):
+Si, especialmente para cosa como el editor de imágenes ese
+04:21:10 - gillchristian (@gillchristian):
+Me suena que en mobile con slow 3G puede ser un _recipe for disaster_
+04:21:22 - gillchristian (@gillchristian):
+Para cosas tan interactivas
+04:21:47 - gillchristian (@gillchristian):
+Ahora forms, un blog, etc va bien creo
+06:03:55 - Martín Valdés de León (@mvaldesdeleon):
+<https://runtimeverification.com/blog/code-smell-boolean-blindness/>
+06:25:36 - gillchristian (@gillchristian):
+Muy bueno
+07:17:02 - gillchristian (@gillchristian):
+<https://dev.to/gcanti/getting-started-with-fp-ts-semigroup-2mf7>
+07:17:16 - gillchristian (@gillchristian):
+Esta a full Giulio :smirk:
+07:30:50 - Julian (@jantonielli01):
+Llegue :sleeping:
+08:32:39 - Julian (@jantonielli01):
+Esta bueno ese post de Boolean blindness 
+08:33:03 - Julian (@jantonielli01):
+Lo único que le critico es que hable de monads al pedo,  cómo le pusieron en el comment 
+08:33:13 - Julian (@jantonielli01):
+Y además que haskell tiene nombres de mierda
+08:33:40 - Julian (@jantonielli01):
+`mapMaybe` vs `filterMap` en elm 
+08:34:00 - Martín Valdés de León (@mvaldesdeleon):
+_historical reasons_
+08:35:14 - Julian (@jantonielli01):
+Shit reasons 
+08:35:38 - Julian (@jantonielli01):
+Tmb odio las funciones `bool, maybe, either` 
+08:35:54 - Julian (@jantonielli01):
+Que solo hacen pattern matching, al pedo 
+08:36:04 - Martín Valdés de León (@mvaldesdeleon):
+son folds
+08:36:08 - Martín Valdés de León (@mvaldesdeleon):
+no se si tienen un nombre especial
+08:38:38 - Julian (@jantonielli01):
+Elimination rules para el tipo X se suelen llamar 
+08:56:12 - gillchristian (@gillchristian):
+Si, re al pedo ese comment al final
+09:25:41 - Julian (@jantonielli01):
+1:30hs Ezeiza -&gt; Palermo; que paja
+09:30:03 - Martín Valdés de León (@mvaldesdeleon):
+la unica cosa positiva del transporte en arg vs rest of the world es que el taxi esta regalado
+09:30:26 - Martín Valdés de León (@mvaldesdeleon):
+la ultima vez q hice cuentas habia un reeee sweet spot donde podes vivir a taxi y te sale menos que tener/mantener un auto
+09:31:50 - Julian (@jantonielli01):
+Me cobraron 1100pe 
+09:32:15 - Julian (@jantonielli01):
+Como 28usd
+09:32:54 - Julian (@jantonielli01):
+En Europa me solía salir ~12 eur ir desde la ciudad al aeropuerto 
+09:33:05 - Julian (@jantonielli01):
+Pero bueno allá casi todas tienen un tren decente 
+09:33:11 - Martín Valdés de León (@mvaldesdeleon):
+El tren dde donde estoy hasta frankfurt airport son 27 eur
+09:33:18 - Julian (@jantonielli01):
+Re caro 
+09:33:32 - Martín Valdés de León (@mvaldesdeleon):
+~1hs
+09:33:34 - Julian (@jantonielli01):
+Debes estar en la loma del culo jajja 
+09:33:37 - Martín Valdés de León (@mvaldesdeleon):
+nah
+09:33:37 - Julian (@jantonielli01):
+Ah mira 
+09:33:42 - Martín Valdés de León (@mvaldesdeleon):
+tren no es cheapo aca
+09:33:45 - Martín Valdés de León (@mvaldesdeleon):
+bus es cheapo
+09:34:03 - Julian (@jantonielli01):
+Me salió 11 en Múnich, en paris 10 
+09:34:23 - Martín Valdés de León (@mvaldesdeleon):
+bus sale menos de 10eur
+09:35:07 - Martín Valdés de León (@mvaldesdeleon):
+tren de frankfurt al aeropuerto ahi si es menos de 10
+09:35:47 - Julian (@jantonielli01):
+Nice 
+09:36:02 - Julian (@jantonielli01):
+Yo capaz me termino comprando una moto o algo así 
+09:36:14 - Julian (@jantonielli01):
+No me gustan mucho pero tengo los huevos llenos con el transporte acá
+09:36:28 - Martín Valdés de León (@mvaldesdeleon):
+un amigo se compro uno de esos monopatines electricos
+09:36:36 - Martín Valdés de León (@mvaldesdeleon):
+ahi en arg
+09:36:42 - Martín Valdés de León (@mvaldesdeleon):
+por ahora esta feliz
+09:37:10 - Julian (@jantonielli01):
+Se, esa también la pensé 
+09:37:20 - Julian (@jantonielli01):
+En paris usaba siempre los q alquilas con la app jaja 
+09:37:55 - Julian (@jantonielli01):
+En EU son baratines, 300-400$ 
+09:37:59 - Gonzalo González Mora (@gonzalogm):
+Qué onda eso? Tiene que ser uno 4x4 con los pozos jaja
+09:38:02 - Julian (@jantonielli01):
+Acá obviamente están el 3ple
+09:51:19 - gillchristian (@gillchristian):
+Se, los trenes son caros. De acá podes pagar 9€ a Bruselas (~3hs) el bus y 12-16€ a Ámsterdam el tren (~1hr15 - 45min)
+09:54:44 - Martín Valdés de León (@mvaldesdeleon):
+Tren esta mas cerca de Avion
+09:55:00 - Martín Valdés de León (@mvaldesdeleon):
+Pero la verdad, prefiero toda la vida tren para cosas de tipo &lt;8hs
+09:55:09 - Martín Valdés de León (@mvaldesdeleon):
+Viajar en avion es una paja.
+09:55:31 - Martín Valdés de León (@mvaldesdeleon):
+ir a la estacion de mi ciudad, subirme, sentarme, y bajarme en otro pais es la gloria
+09:55:54 - Martín Valdés de León (@mvaldesdeleon):
+ademas el tren te deja exactamente donde queres ir
+09:55:59 - Martín Valdés de León (@mvaldesdeleon):
+el aeropuerto siempre esta el otro lado
+09:58:54 - Julian (@jantonielli01):
+Se posta 
+09:59:28 - Julian (@jantonielli01):
+En el de anoche por suerte estuvo re vacío 
+09:59:36 - Julian (@jantonielli01):
+Tenía toda la fila así que me acosté y nos vimo
+09:59:56 - Julian (@jantonielli01):
+Pero mi vuelo era tan pobre que no daban comida 
+10:08:52 - Martín Valdés de León (@mvaldesdeleon):
+Q onda, te bookearon el vuelo ellos?
+10:11:03 - Julian (@jantonielli01):
+No, yo
+10:11:10 - Julian (@jantonielli01):
+pero tenía max budget de 900€
+10:16:09 - Martín Valdés de León (@mvaldesdeleon):
+Bien.
+10:16:23 - Martín Valdés de León (@mvaldesdeleon):
+Para la nodeconf fue similar, pero puse algo mas de mi bolsillo para tener un vuelo razonable.
+10:18:10 - Julian (@jantonielli01):
+yo tambien igual
+10:18:19 - Julian (@jantonielli01):
+osea para esta fecha no tenía ningún vuelo por esa plata
+10:18:36 - Julian (@jantonielli01):
+no le puse mcho, como 100usd, pero bueno
+10:19:52 - Julian (@jantonielli01):
+pero bueno, no me puedo quejar jajaj
+10:20:24 - Martín Valdés de León (@mvaldesdeleon):
+sisi
+10:20:26 - Martín Valdés de León (@mvaldesdeleon):
+same
+10:21:05 - Martín Valdés de León (@mvaldesdeleon):
+para cuando me avisaron ya era muy sobre la fecha. en general el vuelo directo dde frankfurt via lufthansa lo sacas sin dramas por menos de 1k
+10:21:07 - Martín Valdés de León (@mvaldesdeleon):
+pero estaba 1k5
+10:21:44 - Julian (@jantonielli01):
+y cuanto te cubrían?
+10:22:50 - gillchristian (@gillchristian):
+1k5 ida y vuelta a bs as ?
+10:23:04 - Martín Valdés de León (@mvaldesdeleon):
+1100 usd
+10:23:11 - Julian (@jantonielli01):
+se, re caro
+10:23:12 - gillchristian (@gillchristian):
+mi esposa se fue esta semana por 550€ ida y vuelta desde amsterdam
+10:23:18 - Julian (@jantonielli01):
+fa, re baratin
+10:23:19 - Martín Valdés de León (@mvaldesdeleon):
+se, pero como dije, en general sale facil menos de 1000
+10:23:36 - Martín Valdés de León (@mvaldesdeleon):
+para la nodeconf hize FRA-AMS-EZE y me salio como 1 luca
+10:23:45 - gillchristian (@gillchristian):
+pero bien low cost, 10kg la valija, no se si daban algo de comida, etc
+10:23:48 - Julian (@jantonielli01):
+El año pasado me pagaron un viaje a seattle y lo sacaron re sobre la fecha, 2800usd
+21:44:03 - gillchristian (@gillchristian):
+Uhh que bueno!
+21:44:20 - gillchristian (@gillchristian):
+Muy interesante la idea
+22:35:18 - Juan Bono (@juanbono):
+Si jajaja, hay que ver cómo evoluciona, al principio me pareció medio bizarro pero dicen que tiene buena performance
+00:12:37 - Sebastian P (@seba23393):
+hola aca es para consultar haskell?
+01:29:21 - Gonza Gluzman (@gonza):
+Sí
+01:29:38 - Gonza Gluzman (@gonza):
+Al menos es el espacio más indicado para eso, dentro de *este* slack
+04:20:26 - gillchristian (@gillchristian):
+Si, especialmente para cosa como el editor de imágenes ese
+04:21:10 - gillchristian (@gillchristian):
+Me suena que en mobile con slow 3G puede ser un _recipe for disaster_
+04:21:22 - gillchristian (@gillchristian):
+Para cosas tan interactivas
+04:21:47 - gillchristian (@gillchristian):
+Ahora forms, un blog, etc va bien creo
+06:03:55 - Martín Valdés de León (@mvaldesdeleon):
+<https://runtimeverification.com/blog/code-smell-boolean-blindness/>
+06:25:36 - gillchristian (@gillchristian):
+Muy bueno
+07:17:02 - gillchristian (@gillchristian):
+<https://dev.to/gcanti/getting-started-with-fp-ts-semigroup-2mf7>
+07:17:16 - gillchristian (@gillchristian):
+Esta a full Giulio :smirk:
+07:30:50 - Julian (@jantonielli01):
+Llegue :sleeping:
+08:32:39 - Julian (@jantonielli01):
+Esta bueno ese post de Boolean blindness 
+08:33:03 - Julian (@jantonielli01):
+Lo único que le critico es que hable de monads al pedo,  cómo le pusieron en el comment 
+08:33:13 - Julian (@jantonielli01):
+Y además que haskell tiene nombres de mierda
+08:33:40 - Julian (@jantonielli01):
+`mapMaybe` vs `filterMap` en elm 
+08:34:00 - Martín Valdés de León (@mvaldesdeleon):
+_historical reasons_
+08:35:14 - Julian (@jantonielli01):
+Shit reasons 
+08:35:38 - Julian (@jantonielli01):
+Tmb odio las funciones `bool, maybe, either` 
+08:35:54 - Julian (@jantonielli01):
+Que solo hacen pattern matching, al pedo 
+08:36:04 - Martín Valdés de León (@mvaldesdeleon):
+son folds
+08:36:08 - Martín Valdés de León (@mvaldesdeleon):
+no se si tienen un nombre especial
+08:38:38 - Julian (@jantonielli01):
+Elimination rules para el tipo X se suelen llamar 
+08:56:12 - gillchristian (@gillchristian):
+Si, re al pedo ese comment al final
+09:25:41 - Julian (@jantonielli01):
+1:30hs Ezeiza -&gt; Palermo; que paja
+09:30:03 - Martín Valdés de León (@mvaldesdeleon):
+la unica cosa positiva del transporte en arg vs rest of the world es que el taxi esta regalado
+09:30:26 - Martín Valdés de León (@mvaldesdeleon):
+la ultima vez q hice cuentas habia un reeee sweet spot donde podes vivir a taxi y te sale menos que tener/mantener un auto
+09:31:50 - Julian (@jantonielli01):
+Me cobraron 1100pe 
+09:32:15 - Julian (@jantonielli01):
+Como 28usd
+09:32:54 - Julian (@jantonielli01):
+En Europa me solía salir ~12 eur ir desde la ciudad al aeropuerto 
+09:33:05 - Julian (@jantonielli01):
+Pero bueno allá casi todas tienen un tren decente 
+09:33:11 - Martín Valdés de León (@mvaldesdeleon):
+El tren dde donde estoy hasta frankfurt airport son 27 eur
+09:33:18 - Julian (@jantonielli01):
+Re caro 
+09:33:32 - Martín Valdés de León (@mvaldesdeleon):
+~1hs
+09:33:34 - Julian (@jantonielli01):
+Debes estar en la loma del culo jajja 
+09:33:37 - Martín Valdés de León (@mvaldesdeleon):
+nah
+09:33:37 - Julian (@jantonielli01):
+Ah mira 
+09:33:42 - Martín Valdés de León (@mvaldesdeleon):
+tren no es cheapo aca
+09:33:45 - Martín Valdés de León (@mvaldesdeleon):
+bus es cheapo
+09:34:03 - Julian (@jantonielli01):
+Me salió 11 en Múnich, en paris 10 
+09:34:23 - Martín Valdés de León (@mvaldesdeleon):
+bus sale menos de 10eur
+09:35:07 - Martín Valdés de León (@mvaldesdeleon):
+tren de frankfurt al aeropuerto ahi si es menos de 10
+09:35:47 - Julian (@jantonielli01):
+Nice 
+09:36:02 - Julian (@jantonielli01):
+Yo capaz me termino comprando una moto o algo así 
+09:36:14 - Julian (@jantonielli01):
+No me gustan mucho pero tengo los huevos llenos con el transporte acá
+09:36:28 - Martín Valdés de León (@mvaldesdeleon):
+un amigo se compro uno de esos monopatines electricos
+09:36:36 - Martín Valdés de León (@mvaldesdeleon):
+ahi en arg
+09:36:42 - Martín Valdés de León (@mvaldesdeleon):
+por ahora esta feliz
+09:37:10 - Julian (@jantonielli01):
+Se, esa también la pensé 
+09:37:20 - Julian (@jantonielli01):
+En paris usaba siempre los q alquilas con la app jaja 
+09:37:55 - Julian (@jantonielli01):
+En EU son baratines, 300-400$ 
+09:37:59 - Gonzalo González Mora (@gonzalogm):
+Qué onda eso? Tiene que ser uno 4x4 con los pozos jaja
+09:38:02 - Julian (@jantonielli01):
+Acá obviamente están el 3ple
+09:51:19 - gillchristian (@gillchristian):
+Se, los trenes son caros. De acá podes pagar 9€ a Bruselas (~3hs) el bus y 12-16€ a Ámsterdam el tren (~1hr15 - 45min)
+09:54:44 - Martín Valdés de León (@mvaldesdeleon):
+Tren esta mas cerca de Avion
+09:55:00 - Martín Valdés de León (@mvaldesdeleon):
+Pero la verdad, prefiero toda la vida tren para cosas de tipo &lt;8hs
+09:55:09 - Martín Valdés de León (@mvaldesdeleon):
+Viajar en avion es una paja.
+09:55:31 - Martín Valdés de León (@mvaldesdeleon):
+ir a la estacion de mi ciudad, subirme, sentarme, y bajarme en otro pais es la gloria
+09:55:54 - Martín Valdés de León (@mvaldesdeleon):
+ademas el tren te deja exactamente donde queres ir
+09:55:59 - Martín Valdés de León (@mvaldesdeleon):
+el aeropuerto siempre esta el otro lado
+09:58:54 - Julian (@jantonielli01):
+Se posta 
+09:59:28 - Julian (@jantonielli01):
+En el de anoche por suerte estuvo re vacío 
+09:59:36 - Julian (@jantonielli01):
+Tenía toda la fila así que me acosté y nos vimo
+09:59:56 - Julian (@jantonielli01):
+Pero mi vuelo era tan pobre que no daban comida 
+10:08:52 - Martín Valdés de León (@mvaldesdeleon):
+Q onda, te bookearon el vuelo ellos?
+10:11:03 - Julian (@jantonielli01):
+No, yo
+10:11:10 - Julian (@jantonielli01):
+pero tenía max budget de 900€
+10:16:09 - Martín Valdés de León (@mvaldesdeleon):
+Bien.
+10:16:23 - Martín Valdés de León (@mvaldesdeleon):
+Para la nodeconf fue similar, pero puse algo mas de mi bolsillo para tener un vuelo razonable.
+10:18:10 - Julian (@jantonielli01):
+yo tambien igual
+10:18:19 - Julian (@jantonielli01):
+osea para esta fecha no tenía ningún vuelo por esa plata
+10:18:36 - Julian (@jantonielli01):
+no le puse mcho, como 100usd, pero bueno
+10:19:52 - Julian (@jantonielli01):
+pero bueno, no me puedo quejar jajaj
+10:20:24 - Martín Valdés de León (@mvaldesdeleon):
+sisi
+10:20:26 - Martín Valdés de León (@mvaldesdeleon):
+same
+10:21:05 - Martín Valdés de León (@mvaldesdeleon):
+para cuando me avisaron ya era muy sobre la fecha. en general el vuelo directo dde frankfurt via lufthansa lo sacas sin dramas por menos de 1k
+10:21:07 - Martín Valdés de León (@mvaldesdeleon):
+pero estaba 1k5
+10:21:44 - Julian (@jantonielli01):
+y cuanto te cubrían?
+10:22:50 - gillchristian (@gillchristian):
+1k5 ida y vuelta a bs as ?
+10:23:04 - Martín Valdés de León (@mvaldesdeleon):
+1100 usd
+10:23:11 - Julian (@jantonielli01):
+se, re caro
+10:23:12 - gillchristian (@gillchristian):
+mi esposa se fue esta semana por 550€ ida y vuelta desde amsterdam
+10:23:18 - Julian (@jantonielli01):
+fa, re baratin
+10:23:19 - Martín Valdés de León (@mvaldesdeleon):
+se, pero como dije, en general sale facil menos de 1000
+10:23:36 - Martín Valdés de León (@mvaldesdeleon):
+para la nodeconf hize FRA-AMS-EZE y me salio como 1 luca
+10:23:45 - gillchristian (@gillchristian):
+pero bien low cost, 10kg la valija, no se si daban algo de comida, etc
+10:23:48 - Julian (@jantonielli01):
+El año pasado me pagaron un viaje a seattle y lo sacaron re sobre la fecha, 2800usd
+10:23:57 - Martín Valdés de León (@mvaldesdeleon):
+cla, en mi caso vuelo normal via KLM
+10:24:00 - Martín Valdés de León (@mvaldesdeleon):
+con equipaje
+10:24:30 - Martín Valdés de León (@mvaldesdeleon):
+siempre q viajo me toca llevar bocha de ropa y esas cosas
+10:27:12 - gillchristian (@gillchristian):
+claro
+10:27:18 - gillchristian (@gillchristian):
+KLM esta buena pero es un toque mas cara
+10:28:51 - Luis Alvarez (@luistensai):
+#first-world-problems :parrot_cop:
+10:40:23 - Julian (@jantonielli01):
+post
+11:08:17 - Daniel Broder (@dabroder):
+La sintaxis parece los archivos `.vue`  :troll:
+11:52:40 - Martín Valdés de León (@mvaldesdeleon):
+Bueh, tengo el contrato.
+11:52:48 - Martín Valdés de León (@mvaldesdeleon):
+This is it.
+11:53:02 - Martín Valdés de León (@mvaldesdeleon):
+La proxima semana doy el notice aca.
+11:53:09 - Gonza Gluzman (@gonza):
+VAMOOOOO!!
+11:53:13 - Gonza Gluzman (@gonza):
+Congrats!
+11:53:36 - Martin Bavio (@mbavio):
+felicitaciones <@U0TFEHWEA>!
+11:53:58 - Leandro Echevarria (@echevarrialeandro):
+Excelenteeeee genio animal :fiestaparrot:
+11:54:08 - Leandro Echevarria (@echevarrialeandro):
+Todas las felicicitaciones :clap::skin-tone-4:
+11:54:37 - Leandro Echevarria (@echevarrialeandro):
+Merecido es poco :metal:
+11:57:08 - Gonzalo González Mora (@gonzalogm):
+Qué buenoooo :clap: Felicitaciones! :slightly_smiling_face:
+12:06:26 - Martín Valdés de León (@mvaldesdeleon):
+Ahora tengo q leerme las business ethic rules
+12:06:32 - Martín Valdés de León (@mvaldesdeleon):
+y todo una serie de reglamentaciones sobre insider trading
+12:06:34 - Martín Valdés de León (@mvaldesdeleon):
+q paja XD
+12:10:38 - Martín Valdés de León (@mvaldesdeleon):
+&gt;Amazon Discount Code
+&gt;Amazon offers a 10% discount up to a €100 per year on Amazon merchandise to employees in Germany. Find more information on Germany’s Inside Amazon Benefit page.
+12:10:48 - Martín Valdés de León (@mvaldesdeleon):
+te dan hasta 100 eur/yr de descuento en amazon
+12:10:48 - Martín Valdés de León (@mvaldesdeleon):
+pssss
+12:11:12 - Leandro Echevarria (@echevarrialeandro):
+Trucazo
+12:11:25 - Leandro Echevarria (@echevarrialeandro):
+:rat:
+12:59:29 - Martin Bavio (@mbavio):
+release the gift cards, <@U0TFEHWEA>
+13:01:05 - Gonza Onisimchuk (@gonzaonisimchuk):
+felicitaciones!!
+13:01:14 - Gonza Onisimchuk (@gonzaonisimchuk):
+espero tu blog martín !
+13:19:59 - Martín Valdés de León (@mvaldesdeleon):
+Ok, mi jefe esta de vacaciones la proxima semana, asi que me cago, voy a intentar tener una call ahora.
+13:34:14 - Martín Valdés de León (@mvaldesdeleon):
+&gt; someone mentioned something called `safeHead` to me, but I can't find much documentation on it
+
+uno intenta no hacer chistes desubicados pero con una funcion como `safeHead` ....
+13:34:36 - Martín Valdés de León (@mvaldesdeleon):
+(FPslack)
+13:36:53 - gillchristian (@gillchristian):
+Jajajajajajajajaja
+13:42:27 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+felicitaciones de nuevo <@U0TFEHWEA>! ahora con contrato en mano
+13:43:51 - Hernan Rajchert (@sherman):
+Che y vas a laburar remoto? te tenes que mudar?
+13:48:09 - Julian (@jantonielli01):
+100€ de descuento por año
+13:48:10 - Julian (@jantonielli01):
+que ratas jaja
+13:51:35 - Martín Valdés de León (@mvaldesdeleon):
+Home office.
+13:51:52 - Martín Valdés de León (@mvaldesdeleon):
+Y como es home office oficial, me dan un extra de 60euros/mes para que me pague la luz/internet/calefaccion xD
+13:52:03 - Julian (@jantonielli01):
+Que cheto
+13:52:18 - Martin Bavio (@mbavio):
+cuando sea grande, quiero ser como <@U0TFEHWEA>
+13:52:36 - Martin Bavio (@mbavio):
+tremendos perks
+13:52:53 - Julian (@jantonielli01):
+Bueno a mi me rechazaron de un laburo que aplique 
+13:52:55 - Martin Bavio (@mbavio):
+debe haber 5 personas remotas oficiales de Amazon en todo el mundo
+13:53:26 - Julian (@jantonielli01):
+Pero por lo menos hoy me mandaron de un haskell gig así que meh 
+13:54:35 - Martín Valdés de León (@mvaldesdeleon):
+Calculo que para SDEs es mas jodido
+13:59:15 - Martin Bavio (@mbavio):
+Si, totalmente.
+14:25:07 - Julian (@jantonielli01):
+huh, esta piola el proyecto que me mandaron
+14:25:11 - Julian (@jantonielli01):
+es laburar en esto <http://hackage.haskell.org/package/homplexity>
+14:25:35 - Julian (@jantonielli01):
+me mandó una tareita boluda para juzgarme
+14:39:38 - Martín Valdés de León (@mvaldesdeleon):
+Ace it!
+14:40:46 - Julian (@jantonielli01):
+Veremos cómo sale!
+14:40:54 - Julian (@jantonielli01):
+Es integrar eso con code climate 
+14:41:12 - Julian (@jantonielli01):
+Tipo que en code climate puedas agregar eso a tu proyecto 
+14:41:33 - Julian (@jantonielli01):
+Espero que no me putee que estoy refactoreando un toque de código feo jaja
+14:41:59 - Martín Valdés de León (@mvaldesdeleon):
+Mi recomendacion, hace eso "por separado"
+14:42:10 - Martín Valdés de León (@mvaldesdeleon):
+por un lado escribi la feature "respetando el codigo existente" y su estilo y demas
+14:42:18 - Martín Valdés de León (@mvaldesdeleon):
+y dps en otro branch mandate el refactor
+14:58:31 - Julian (@jantonielli01):
+Si, creo que tenes razón 
+14:58:54 - Julian (@jantonielli01):
+Más que nada estaba cambiando que tiene todos los imports unqualified y me tomo 2 horas ver de donde salía cada cosa jaja
+15:11:52 - Julian (@jantonielli01):
+Recién me hablo uno para un laburo de elm que parecía copado 
+15:12:20 - Julian (@jantonielli01):
+Estoy medio cansado de codear pero bueh
+15:16:22 - Hernan Rajchert (@sherman):
+yo quiero dejar el word y volver a codear jaja
+15:18:11 - Julian (@jantonielli01):
+Jajaj the grass is always greener...
+15:22:17 - Hernan Rajchert (@sherman):
+la idea es un rato y un rato… cosa de no aburrirte mucho con el mismo tipo de trabajo
+15:24:48 - Julian (@jantonielli01):
+Vos ahora no estás codeando nada?
+15:28:54 - Martín Valdés de León (@mvaldesdeleon):
+Yo voy a dejar de codear por primera vez ever desde que arranque :S
+15:29:45 - Martín Valdés de León (@mvaldesdeleon):
+Recien me termine de fumar el contrato, a ver que dice sobre codear en tu tiempo libre. TL;DR, en la medida que codees fuera de working hours, sin usar conocimiento del laburo, sin usar hardware del laburo, y sin relacion a tu funcion en el laburo, tenes que primero mostrarselo a amazon
+15:29:59 - Martín Valdés de León (@mvaldesdeleon):
+y ellos tienen first dibs para licenciarlo
+15:30:35 - Martín Valdés de León (@mvaldesdeleon):
+y tb como es work from home, tienen derecho a mandar a un chabon a "inspeccionar mi work space" para ver que respete las regulaciones
+15:30:39 - Martín Valdés de León (@mvaldesdeleon):
+previo avisarme 5 dias antes
+15:30:59 - Julio (@julito):
+wow
+15:31:18 - Julio (@julito):
+¿Qué tanto de eso serán formalidades burocráticas/legales?
+15:31:35 - Leandro Echevarria (@echevarrialeandro):
+Todo lo que codees en tu casa tienen que verlo ellos???? Por mas que sea fuera de horario laboral???
+15:31:49 - Martín Valdés de León (@mvaldesdeleon):
+Tenes que mostrarselos para que decidan si les interesa licenciarlo
+15:32:15 - Julian (@jantonielli01):
+<@U873ZQTEG> es bastante común eso sadly 
+15:33:07 - Leandro Echevarria (@echevarrialeandro):
+Holy shit, no tenia ni idea de eso o.O
+15:33:07 - Hernan Rajchert (@sherman):
+por el laburo no… consultorias
+15:33:10 - gillchristian (@gillchristian):
+Uhh qué jodido
+15:33:17 - Martín Valdés de León (@mvaldesdeleon):
+Igual le voy a preguntar a mi jefe cuando arranque que onda tipo hacer advent of code en github y esas cosas
+15:33:21 - Leandro Echevarria (@echevarrialeandro):
+Licenciarlo como que es de ellos? O como que no infringe nada y podes hacer la que se te cante con eso?
+15:33:25 - Hernan Rajchert (@sherman):
+Todo lo que programo es para proyectos personales o compartidos con <@U5L3AMCKT>
+15:33:28 - Martín Valdés de León (@mvaldesdeleon):
+si tengo q ser 100% prolijo con eso o que
+15:33:38 - Julian (@jantonielli01):
+Suele ser como que es de ellos 
+15:33:52 - Julian (@jantonielli01):
+En muchos laburos el default es que tu código es de la empresa
+15:33:54 - Hernan Rajchert (@sherman):
+y encima al estar escribiendo blog, tampoco programo tanto :facepalm:
+15:33:59 - Martín Valdés de León (@mvaldesdeleon):
+_Creo_ que te pagan
+15:34:03 - Hernan Rajchert (@sherman):
+pero quien me quita lo bailado
+15:34:04 - Gonza Gluzman (@gonza):
+:partyparrot:
+15:34:07 - Martín Valdés de León (@mvaldesdeleon):
+simplemente se reservan el derecho a ser los primeros en comprarlo
+15:34:41 - Leandro Echevarria (@echevarrialeandro):
+Pero fuera de working ours es como que :fearful: (en caso que les pertenezca directamente a ellos), ahora, si como dice Martín es para ser los primeros en comprarlo creo que está bueno
+15:34:44 - Leandro Echevarria (@echevarrialeandro):
+Al menos en parte
+15:34:47 - Martín Valdés de León (@mvaldesdeleon):
+(con exclusividad, of course)
+15:34:52 - Julian (@jantonielli01):
+Yo estoy buscando colaboradores para escribir un compilador en idris, guiño guiño 
+15:35:01 - Hernan Rajchert (@sherman):
+jaja
+15:35:22 - Hernan Rajchert (@sherman):
+depende de que… me gustaría hacer un pequeño compilador/entorno a la excel
+15:35:33 - Leandro Echevarria (@echevarrialeandro):
+Porque si es de ellos sin importar nada más es como cortar las piernas, dejen codear al prójimo :joy:
+15:35:33 - Hernan Rajchert (@sherman):
+bah, una mezcla entre excel y algun entorno funcional normal
+15:35:34 - gillchristian (@gillchristian):
+Ser los primeros en comprarlo y ponerle el precio que ellos quieren digamos
+15:36:10 - Julian (@jantonielli01):
+Quiero hacer un lenguaje como idris, con tipos dependientes, pero como dsl à la Elm 
+15:36:16 - Julio (@julito):
+Esa parte ponele, pero si lo seguís al pie de la letra entiendo que no deberías poder poner tu código en Github
+15:36:25 - Julio (@julito):
+Si es que ellos tienen que «verlo» primero
+15:36:27 - Julian (@jantonielli01):
+Y con algunas features más experimentales
+15:36:36 - Julio (@julito):
+Imagino que debe ser más una formalidad legal que otra cosa, pero ni idea
+15:37:09 - Martín Valdés de León (@mvaldesdeleon):
+Estimo que todo dependera de lo que pongas.
+15:37:10 - Julio (@julito):
+Igual que «sin usar conocimiento del laburo» debe ser la forma legal de decir «no nos robes el negocio»
+15:37:16 - Martín Valdés de León (@mvaldesdeleon):
+En la medida en que no hagas pelotudeces no creo que te rompan.
+15:37:20 - Julio (@julito):
+Cla
+15:37:24 - Martín Valdés de León (@mvaldesdeleon):
+Pero veremos.
+15:37:25 - Hernan Rajchert (@sherman):
+puede tener alguna relación… para hacer rangos seguros los dependent types supongo que te pueden ayudar… y de por si tenia ganas de que sea todo muy elm-ish
+15:37:39 - Julian (@jantonielli01):
+El otro día vi un lenguaje estilo Excel basado en f#, dsp me fijo si encuentro la charla 
+15:38:32 - Julian (@jantonielli01):
+Bueno cuando vos nos digas compramos stock 
+15:38:40 - Martín Valdés de León (@mvaldesdeleon):
+xD
+15:38:46 - Martín Valdés de León (@mvaldesdeleon):
+tengo q leer la mierda de etica aun
+15:39:04 - Julian (@jantonielli01):
+Jajaj 
+15:39:14 - Julian (@jantonielli01):
+Btw, te dan stock de bono? 
+15:39:35 - Julian (@jantonielli01):
+Creo q en MS te dan el equivalente de $2k de acciones por año 
+15:42:15 - Martín Valdés de León (@mvaldesdeleon):
+Sobre bonus-bonus, onda performance related y demas, hay un parrafo en el contrato que "me van a informar" cual es el plan y cuales son mis targets (?)
+15:42:37 - Martín Valdés de León (@mvaldesdeleon):
+dps la oferta en si es base, signup y stock
+15:43:09 - Martín Valdés de León (@mvaldesdeleon):
+X cantidad de stock q vestea 5% a los 12 meses, 15% a los otros 12 y dps 20% cada 6
+15:43:09 - Julian (@jantonielli01):
+Huh, nice 
+15:43:39 - Julian (@jantonielli01):
+En 4 años sos rico 
+15:43:57 - Martín Valdés de León (@mvaldesdeleon):
+no rico, pero te ahorraste un billete
+15:44:56 - Julio (@julito):
+Ahora que salió el tema - ¿tienen alguna referencia para leer cómo funciona el tema de stocks?
+15:44:59 - Leandro Echevarria (@echevarrialeandro):
+No son billetes ARS, eso es lo que interesa :stuck_out_tongue:
+15:45:09 - Martín Valdés de León (@mvaldesdeleon):
+como funciona en q sentido?
+15:45:50 - Julian (@jantonielli01):
+Hay videitos en YouTube copados 
+15:45:55 - Julian (@jantonielli01):
+Si buscas what is stock
+15:45:56 - Julio (@julito):
+Estoy tan en blanco que ni siquiera sé hacer la pregunta :thinking_face: Pero ponele, por un lado, no entendí nada de lo que dijiste de x% cada tantos meses
+15:46:05 - Martín Valdés de León (@mvaldesdeleon):
+ah, eso es como te dan los stock
+15:46:10 - Julio (@julito):
+Por otro lado me dieron equity en mi contrato actual y no tengo ni idea qué hacer con eso ni cuándo ni con qué se come :stuck_out_tongue:
+15:46:15 - Martín Valdés de León (@mvaldesdeleon):
+ponele que la oferta son 100 acciones
+15:46:18 - Martín Valdés de León (@mvaldesdeleon):
+recien a los 12 meses me dan 5
+15:46:22 - Martín Valdés de León (@mvaldesdeleon):
+a los otros 12 me dan 15
+15:46:23 - Martín Valdés de León (@mvaldesdeleon):
+etc
+15:46:28 - Martín Valdés de León (@mvaldesdeleon):
+no es que me dan todo de entrada ahora
+15:46:32 - Martín Valdés de León (@mvaldesdeleon):
+ni en cuotas proporcionales
+15:46:59 - Julio (@julito):
+Bien, y vos después eso lo manejás como querés digamos (i.e. venderlo)
+15:47:27 - Diego Calderón (@codekult):
+A veces te dan todo de una pero no podés venderlas en x tiempo
+15:47:33 - Martín Valdés de León (@mvaldesdeleon):
+tengo q leer el manual de etica, pq quiza hay alguna clausula de insider trading o similar
+15:47:34 - Julian (@jantonielli01):
+Depende, en algunos lugares podes venderlas desp de algún tiempo 
+15:47:37 - Martín Valdés de León (@mvaldesdeleon):
+claro
+15:47:39 - Martín Valdés de León (@mvaldesdeleon):
+si sos un CEO x ej
+15:47:42 - Martín Valdés de León (@mvaldesdeleon):
+no podes vender todo y rajarte
+15:47:49 - Martín Valdés de León (@mvaldesdeleon):
+_coff coff_ ENRON _coff coff_
+15:47:59 - Martín Valdés de León (@mvaldesdeleon):
+pq sabes q se va el precio al carajo en un par de meses
+15:48:04 - Julio (@julito):
+Jajaja
+15:48:05 - Julio (@julito):
+Claro
+15:48:07 - Julio (@julito):
+Tiene sentido
+15:48:28 - Martín Valdés de León (@mvaldesdeleon):
+dps cuando tenes acciones, podes venderlas, o quedartelas
+15:48:36 - Martín Valdés de León (@mvaldesdeleon):
+en gral acciones pagan dividendos si a la empresa le va bien
+15:48:39 - Martín Valdés de León (@mvaldesdeleon):
+y te dan voting rights
+15:48:54 - Julian (@jantonielli01):
+Después te pueden dar stock “options” que es que te dan derecho de comprar acciones 
+15:49:12 - Julian (@jantonielli01):
+Que mucha gente confunde con stock, en los job postings 
+15:49:30 - Martín Valdés de León (@mvaldesdeleon):
+options es un derivado. la idea en general es que options lo que compras es "el derecho a una operacion futura a un precio pre-acordado"
+15:49:37 - Martín Valdés de León (@mvaldesdeleon):
+y hay de compra y de venta
+15:49:49 - Martín Valdés de León (@mvaldesdeleon):
+ponele que te dan stock options por 100 acciones a 1 peso
+15:49:54 - Martín Valdés de León (@mvaldesdeleon):
+y la empresa va publica
+15:49:57 - Martín Valdés de León (@mvaldesdeleon):
+y la accion termina en 5 pesos
+15:50:02 - Martín Valdés de León (@mvaldesdeleon):
+bueno, vos podes comprar 100 a 1
+15:50:08 - Martín Valdés de León (@mvaldesdeleon):
+y si vendes al toque, te hiciste 4$ por accion
+15:50:15 - Martín Valdés de León (@mvaldesdeleon):
+ahora, si la accion vale 0.1
+15:50:15 - Julio (@julito):
+Se, en mi caso en particular es eso, pero igual entender un poco la otra parte me da contexto
+15:50:21 - Martín Valdés de León (@mvaldesdeleon):
+te mete los stock options en el culo
+15:50:26 - Martín Valdés de León (@mvaldesdeleon):
+para que vas a comprar a 1 lo que sale 0.1?
+15:50:32 - Martín Valdés de León (@mvaldesdeleon):
+no ejecutas la opcion de compra y expira y ya
+15:51:01 - Martín Valdés de León (@mvaldesdeleon):
+esto para opcion de compra.
+
+con opcion de venta podes shortear, y apostar a que algo va a bajar de valor.
+15:51:10 - Julian (@jantonielli01):
+Hay muuuchas variaciones de options tmb, en especial en us 
+15:51:29 - Julian (@jantonielli01):
+Así que siempre te conviene entender bien que te están ofreciendo 
+15:51:52 - Julio (@julito):
+Mi criterio en su momento fue que me cierre la guita y después vemos qué onda esas options
+15:51:59 - Julio (@julito):
+Por eso tampoco me calenté mucho en averiguar inmediatamente
+15:52:26 - Hernan Rajchert (@sherman):
+<#C54TWDKN1|experiencia-laboral> :cop:
+15:52:44 - Martín Valdés de León (@mvaldesdeleon):
+esto es experiencia-lambdoral
+15:53:13 - Julio (@julito):
+Sorry, desvirtué la conversación del precio de taxis y trenes
+15:53:14 - Julio (@julito):
+:troll:
+15:54:21 - Julian (@jantonielli01):
+Jajaj que gato 
+15:58:43 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.microsoft.com/en-us/research/uploads/prod/2019/03/ho-haskell.pdf>
+15:58:44 - Martín Valdés de León (@mvaldesdeleon):
+unread
+16:26:13 - Julian (@jantonielli01):
+forwardeando cosas de fp slack jaj
+16:32:10 - Martín Valdés de León (@mvaldesdeleon):
+nah, rt de kmett
+18:20:50 - Lucas Alejo Bellesi (@lucasbellesipocho):
+¿Qué cosas por lo general se desarrollan en Haskell? //Disculpen por la pregunta de noob
+18:23:44 - Julian (@jantonielli01):
+Servers (apis y eso), compiladores (haskell, Elm, purescript, idris) 
+18:23:57 - Julian (@jantonielli01):
+Mucho relacionado a blockchain 
+18:24:33 - Julian (@jantonielli01):
+Un par de empresas lo usan para hacer mobile y frontend web, pero bastante pocas 
+18:27:19 - Julian (@jantonielli01):
+Btw no es necesario que te disculpes, cualquier pregunta suma 
+18:38:37 - Juan Bono (@juanbono):
+Trabajos prácticos de la facultad (?)
+18:44:37 - Leandro Echevarria (@echevarrialeandro):
+&gt; Servers (apis y eso)
+:drooling_face:
+18:46:45 - Julian (@jantonielli01):
+Como digo typesafe en español?
+18:52:39 - Juan Bono (@juanbono):
+También hay varias herramientas CLI copadas que usan Haskell como pandoc, shellcheck, bench
+18:53:00 - Juan Bono (@juanbono):
+No sé si tiene traducción :( 
+19:21:11 - gillchristian (@gillchristian):
+Seguridad de tipos? Tipado seguro?
+19:21:25 - gillchristian (@gillchristian):
+Me quedo con typesafe
+19:56:55 - Julian (@jantonielli01):
+que paja, este proyecto usa stack
+19:57:08 - Julian (@jantonielli01):
+Seguridad por tipos? No se jaja
+19:58:05 - Juan Bono (@juanbono):
+Esta piola el código/proyecto?
+19:59:38 - Julian (@jantonielli01):
+Parece estar piola, la verdad que lo que estoy haciendo es bastante boludo
+19:59:44 - Julian (@jantonielli01):
+porque es tocar la parte tranqui de la CLI
+19:59:54 - Julian (@jantonielli01):
+No me puse a ver la parte del analizador de código
