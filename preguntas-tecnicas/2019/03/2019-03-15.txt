@@ -1,0 +1,186 @@
+11:01:22 - Gustavo Machado (@machadogj):
+de curioso nomas, que DB seria? (mongo, postgres, mysql…)
+11:25:41 - Santiago Ruffino (@santi_0898):
+Hola! Alguien que haya trabajado con Dialogflow? Tengo que hacer una integracion con un endpoint, y necesito que el endpoint lleve la respuesta al chat.
+11:30:40 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> alto ninja sos
+11:32:05 - Leandro Echevarria (@echevarrialeandro):
+Lo queremos todos en nuestros equipos
+11:32:50 - Nico (@nicokorn96):
+pasanos tu cv ya
+11:33:23 - Martin Bavio (@mbavio):
+el chabon prepara cafe organico colombiano con una mano mientras con la otra resuelve la caida de dos servers en distintos cloud providers
+11:34:54 - Nico (@nicokorn96):
+y mientras integra 2 apis que no se te olvide
+11:35:20 - Leandro Echevarria (@echevarrialeandro):
+Y pushea un hotfix derecho a master
+11:35:35 - Martin Bavio (@mbavio):
+YOLO Ruffino
+11:35:43 - Martín Aimar (@maimar):
+santi deploya a producción los viernes
+11:36:40 - Santiago Ruffino (@santi_0898):
+Jajaja
+11:36:50 - Marcos Casagrande (@marcoscvp90):
+<@U9KMYNJMV> yo desarrollo y doy capacitaciones de Dialogflow
+11:37:28 - Santiago Ruffino (@santi_0898):
+Joya! Ahora te escribo por privado
+11:37:37 - Martín Valdés de León (@mvaldesdeleon):
+"Santi, se cayo prod"
+_sigh_ ahi lo reviso
+`vim <scp://foo@prod/path/to/app.js>`
+11:39:11 - Martín Aimar (@maimar):
+jajaja
+11:39:13 - Daniel Broder (@dabroder):
+<@U9KMYNJMV> le arregló el bug a los Boeing 737 MAX en pleno vuelo
+11:39:35 - Santiago Ruffino (@santi_0898):
+Los tipos dijeron "NECESITO arreglar el avion" y apareci magicamente
+11:41:45 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> capacito a los hermanos wright
+11:42:19 - Diego Calderón (@codekult):
+les endereza la punta volando cual Superman
+12:59:28 - Frank Condezo (@davis.con.fab):
+Hola gente, como evito que una imagen se descargue, con que `status` o `content` porque no me muestra en mi html y cuando accedo a la ruta se descarga automáticamente
+13:00:19 - Hernán Pelez (@hernimen):
+Buenas alguno que use jenkins? creen que un curso del 2013 este "muy viejo" ?
+13:00:48 - Martín Valdés de León (@mvaldesdeleon):
+Fijate cuando sacaron "pipelines"
+13:00:55 - Martín Valdés de León (@mvaldesdeleon):
+Pq vas a querer aprender eso
+13:01:01 - Martín Valdés de León (@mvaldesdeleon):
+declarative pipelines
+13:01:23 - Hernán Pelez (@hernimen):
+ok genial
+13:01:24 - Hernán Pelez (@hernimen):
+muchas gracias
+13:55:05 - Pedro (@pedro461):
+pregunta: un cliente me pide meter un iframe, pero no quiere que la url del iframe este visible…
+13:55:43 - Pedro (@pedro461):
+se podrá usar un proxy o algo que retorne solo el html resultante del iframe?? la veo complicada… o tal vez hashear la url o algo que se les ocurrra?
+13:58:39 - Pedro (@pedro461):
+el problema es que la url tiene data sensible (ids)
+13:59:04 - Gustavo Machado (@machadogj):
+con un proxy deberia ser posible
+13:59:33 - Gustavo Machado (@machadogj):
+( /cc <@UGLH5CM8B> )
+14:00:13 - Gustavo Machado (@machadogj):
+estas construyendo la url del iframe desde el servidor?
+14:01:20 - Marcos Casagrande (@marcoscvp90):
+Pedro, construyendo la URL desde el servidor como dice Gustavo, siempre y cuando el iframe le pegue a un server controlado por ustedes, generan un link único, onda <http://bit.ly|bit.ly> por ID y listo.
+14:01:28 - Marcos Casagrande (@marcoscvp90):
+O si son más paranoicos, URLs de un solo uso.
+14:01:28 - Gustavo Machado (@machadogj):
+el unico temita pueden llegar a ser las cookies :thinking_face:
+14:03:35 - Gustavo Machado (@machadogj):
+si en el sitio hay algo que le pegue al dominio original (ie: que en el codigo tenga `fetch('<https://foo.com>')`) que dependa de cookies, el browser no las va a enviar por ser que esas cookies van a estar asociadas a tu dominio proxy-ador
+14:04:21 - Marcos Casagrande (@marcoscvp90):
+Si es un subdomain no habría drama
+14:09:03 - Gustavo Machado (@machadogj):
+si es un subdomain de tu domain… si tu pagina esta en `<http://bar.com|bar.com>` el src de tu iframe es `<http://bar.com/lalala|bar.com/lalala>` (que muestra una pagina hosteada en <http://foo.com|foo.com>) y en el codigo de la pagina que esta dentro del iframe tiene `fetch('<https://foo.com/api/users/me>)` entonces la cookie no va a llegar
+14:13:58 - Marcos Casagrande (@marcoscvp90):
+obviamente me refiero si el iframe está en un subdomain del dominio principal. Que sea el que haga de proxy.
+14:26:32 - Pedro (@pedro461):
+gracias voy a probar lo que dicen
+17:57:33 - Dayan Ruiz (@dayanr):
+jelou, a alguien le dio este error alguna vez? <http://ASP.NET|ASP.NET> + redis
+```Error Message: Timeout performing GET <mailto:session_user@gmail.com|session_user@gmail.com>, inst: 1, mgr: Inactive, err: never, queue: 5, qu: 0, qs: 5, qc: 0, wr: 0, wq: 0, in: 990, ar: 0, clientName: RD0003FF459F5D, serverEndpoint: Unspecified/caivr1.redis.cache.windows.net:6380, keyHashSlot: 14356, IOCP: (Busy=0,Free=1000,Min=2,Max=1000), WORKER: (Busy=10,Free=8181,Min=2,Max=8191) (Please take a look at this article for some common client-side issues that can cause timeouts: <http://stackexchange.github.io/StackExchange.Redis/Timeouts>)```
+18:16:48 - Martín Aimar (@maimar):
+jamás
+19:01:57 - a0viedo (@a0viedo):
+pensé que ya te tiraba el link a stackoverflow...iba a decir unos adelantados
+19:29:19 - Julian (@jantonielli01):
+sobre lo del iframe, vengo a ser el forro, pero es medio una villereada que manden data sensible así
+19:29:28 - Julian (@jantonielli01):
+podrían mandarla encriptada al menos
+11:01:22 - Gustavo Machado (@machadogj):
+de curioso nomas, que DB seria? (mongo, postgres, mysql…)
+11:25:41 - Santiago Ruffino (@santi_0898):
+Hola! Alguien que haya trabajado con Dialogflow? Tengo que hacer una integracion con un endpoint, y necesito que el endpoint lleve la respuesta al chat.
+11:30:40 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> alto ninja sos
+11:32:05 - Leandro Echevarria (@echevarrialeandro):
+Lo queremos todos en nuestros equipos
+11:32:50 - Nico (@nicokorn96):
+pasanos tu cv ya
+11:33:23 - Martin Bavio (@mbavio):
+el chabon prepara cafe organico colombiano con una mano mientras con la otra resuelve la caida de dos servers en distintos cloud providers
+11:34:54 - Nico (@nicokorn96):
+y mientras integra 2 apis que no se te olvide
+11:35:20 - Leandro Echevarria (@echevarrialeandro):
+Y pushea un hotfix derecho a master
+11:35:35 - Martin Bavio (@mbavio):
+YOLO Ruffino
+11:35:43 - Martín Aimar (@maimar):
+santi deploya a producción los viernes
+11:36:40 - Santiago Ruffino (@santi_0898):
+Jajaja
+11:36:50 - Marcos Casagrande (@marcoscvp90):
+<@U9KMYNJMV> yo desarrollo y doy capacitaciones de Dialogflow
+11:37:28 - Santiago Ruffino (@santi_0898):
+Joya! Ahora te escribo por privado
+11:37:37 - Martín Valdés de León (@mvaldesdeleon):
+"Santi, se cayo prod"
+_sigh_ ahi lo reviso
+`vim <scp://foo@prod/path/to/app.js>`
+11:39:11 - Martín Aimar (@maimar):
+jajaja
+11:39:13 - Daniel Broder (@dabroder):
+<@U9KMYNJMV> le arregló el bug a los Boeing 737 MAX en pleno vuelo
+11:39:35 - Santiago Ruffino (@santi_0898):
+Los tipos dijeron "NECESITO arreglar el avion" y apareci magicamente
+11:41:45 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> capacito a los hermanos wright
+11:42:19 - Diego Calderón (@codekult):
+les endereza la punta volando cual Superman
+12:59:28 - Frank Condezo (@davis.con.fab):
+Hola gente, como evito que una imagen se descargue, con que `status` o `content` porque no me muestra en mi html y cuando accedo a la ruta se descarga automáticamente
+13:00:19 - Hernán Pelez (@hernimen):
+Buenas alguno que use jenkins? creen que un curso del 2013 este "muy viejo" ?
+13:00:48 - Martín Valdés de León (@mvaldesdeleon):
+Fijate cuando sacaron "pipelines"
+13:00:55 - Martín Valdés de León (@mvaldesdeleon):
+Pq vas a querer aprender eso
+13:01:01 - Martín Valdés de León (@mvaldesdeleon):
+declarative pipelines
+13:01:23 - Hernán Pelez (@hernimen):
+ok genial
+13:01:24 - Hernán Pelez (@hernimen):
+muchas gracias
+13:55:05 - Pedro (@pedro461):
+pregunta: un cliente me pide meter un iframe, pero no quiere que la url del iframe este visible…
+13:55:43 - Pedro (@pedro461):
+se podrá usar un proxy o algo que retorne solo el html resultante del iframe?? la veo complicada… o tal vez hashear la url o algo que se les ocurrra?
+13:58:39 - Pedro (@pedro461):
+el problema es que la url tiene data sensible (ids)
+13:59:04 - Gustavo Machado (@machadogj):
+con un proxy deberia ser posible
+13:59:33 - Gustavo Machado (@machadogj):
+( /cc <@UGLH5CM8B> )
+14:00:13 - Gustavo Machado (@machadogj):
+estas construyendo la url del iframe desde el servidor?
+14:01:20 - Marcos Casagrande (@marcoscvp90):
+Pedro, construyendo la URL desde el servidor como dice Gustavo, siempre y cuando el iframe le pegue a un server controlado por ustedes, generan un link único, onda <http://bit.ly|bit.ly> por ID y listo.
+14:01:28 - Marcos Casagrande (@marcoscvp90):
+O si son más paranoicos, URLs de un solo uso.
+14:01:28 - Gustavo Machado (@machadogj):
+el unico temita pueden llegar a ser las cookies :thinking_face:
+14:03:35 - Gustavo Machado (@machadogj):
+si en el sitio hay algo que le pegue al dominio original (ie: que en el codigo tenga `fetch('<https://foo.com>')`) que dependa de cookies, el browser no las va a enviar por ser que esas cookies van a estar asociadas a tu dominio proxy-ador
+14:04:21 - Marcos Casagrande (@marcoscvp90):
+Si es un subdomain no habría drama
+14:09:03 - Gustavo Machado (@machadogj):
+si es un subdomain de tu domain… si tu pagina esta en `<http://bar.com|bar.com>` el src de tu iframe es `<http://bar.com/lalala|bar.com/lalala>` (que muestra una pagina hosteada en <http://foo.com|foo.com>) y en el codigo de la pagina que esta dentro del iframe tiene `fetch('<https://foo.com/api/users/me>)` entonces la cookie no va a llegar
+14:13:58 - Marcos Casagrande (@marcoscvp90):
+obviamente me refiero si el iframe está en un subdomain del dominio principal. Que sea el que haga de proxy.
+14:26:32 - Pedro (@pedro461):
+gracias voy a probar lo que dicen
+17:57:33 - Dayan Ruiz (@dayanr):
+jelou, a alguien le dio este error alguna vez? <http://ASP.NET|ASP.NET> + redis
+```Error Message: Timeout performing GET <mailto:session_user@gmail.com|session_user@gmail.com>, inst: 1, mgr: Inactive, err: never, queue: 5, qu: 0, qs: 5, qc: 0, wr: 0, wq: 0, in: 990, ar: 0, clientName: RD0003FF459F5D, serverEndpoint: Unspecified/caivr1.redis.cache.windows.net:6380, keyHashSlot: 14356, IOCP: (Busy=0,Free=1000,Min=2,Max=1000), WORKER: (Busy=10,Free=8181,Min=2,Max=8191) (Please take a look at this article for some common client-side issues that can cause timeouts: <http://stackexchange.github.io/StackExchange.Redis/Timeouts>)```
+18:16:48 - Martín Aimar (@maimar):
+jamás
+19:01:57 - a0viedo (@a0viedo):
+pensé que ya te tiraba el link a stackoverflow...iba a decir unos adelantados
+19:29:19 - Julian (@jantonielli01):
+sobre lo del iframe, vengo a ser el forro, pero es medio una villereada que manden data sensible así
+19:29:28 - Julian (@jantonielli01):
+podrían mandarla encriptada al menos
