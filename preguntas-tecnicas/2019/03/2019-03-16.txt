@@ -1,0 +1,78 @@
+12:59:10 - Diego Marmol (@dmmarmol):
+Hola gente, como estan?. Si este no es el channel correcto para hacer esta consulta por favor avisen:
+&gt; Estoy tratando de usar *heroku* por primera vez para deployar una mini app creada con `create-react-app` a la cual le agregue Typescript. Luego de pushear mi branch a Heroku y de que el build pase como corresponde :heavy_check_mark:   cuando quiero acceder a mi app veo errores de compilacion de Typescript como por ejemplo, que me hace el paquete de `@types/react` en mi `package.json` cuando en verdad si esta pero dentro de las `devDependencies`.
+&gt; Previo a este error tuve un problema con la dependencia `node-sass` que tambien tenia dentro de `devDependencies` y que resolvi al moverla a `dependencies`.
+
+Parece haber un tema con las `devDependencies` al momento del build en heroku pero imagino que mover todas los paquetes a dentro de `dependencies` no debe ser la solucion. Alguien que haya experimentado un problema similar o tenga experiencia deployando con Typescript en Heroku me podra iluminar?
+13:15:08 - Hernan Rajchert (@sherman):
+Mi heroku esta medio verde, pero si no instala las devDependencies, entonces fijate que el comando que tira heroku (asumo npm run start) no haga nada que dependa de ellas, osea, tendrias que tal vez subir el proyecto compilado
+13:34:53 - Martín Valdés de León (@mvaldesdeleon):
+hace poco alguien habia tenido un problema similar
+13:35:06 - Martín Valdés de León (@mvaldesdeleon):
+TL;DR heroku setea NODE_ENV a production by default
+13:35:11 - Martín Valdés de León (@mvaldesdeleon):
+asi que nunca instala las devDependencies
+13:35:15 - Martín Valdés de León (@mvaldesdeleon):
+salvo que vos explicitamente lo cambies
+13:35:28 - Martín Valdés de León (@mvaldesdeleon):
+<https://devcenter.heroku.com/changelog-items/688>
+13:48:02 - Diego Marmol (@dmmarmol):
+Interesante, voy a probar algun workaround. Lei por ahi en stackoverflow que algunos lo solucionaron poniendo `NODE_ENV` como `development` pero se me hace un hack muy turbio jaja
+13:48:11 - Diego Marmol (@dmmarmol):
+Gracias!
+13:50:12 - Martín Valdés de León (@mvaldesdeleon):
+Lo "correcto" seria que para deployar a heroku o similar no uses node como web-server. Hace un build de tu app, agarra los archivos html/css/js estaticos, y ponelos en un webserver tipo nginx.
+13:50:22 - Martín Valdés de León (@mvaldesdeleon):
+Esto suponiendo que queres un deploy "de produccion"
+13:50:45 - Martín Valdés de León (@mvaldesdeleon):
+Pero si la idea es tener algo de desarrollo online para compartir, setear NODE_ENV a development es razonable.
+14:44:35 - Dario Miñones (@dminones):
+Segun esto heroku instala las devDependencies y las usa para el build pero luego las saca.
+<https://devcenter.heroku.com/articles/nodejs-support#package-installation>
+19:09:13 - Diego Marmol (@dmmarmol):
+Lo que no entiendo es, si instala las devDependencies durante el build y luego las quita, el bundle final no deberia tener ningun problema pero asi y todo crashea. Al final resolvi el tema flexibilizando una regla de typescript (Permitiendo que haya algunos parametros sin tipos definidos). Es medio fulero, pero para lo que estoy haciendo me sirve :slightly_smiling_face:
+19:11:12 - Martín Valdés de León (@mvaldesdeleon):
+Por lo que decis, pareceria que durante el build no estas compilando el TypeScript, sino que lo estas sirviendo "en vivo"
+19:11:28 - Martín Valdés de León (@mvaldesdeleon):
+Usando el servidor de CRA que es de desarrollo
+19:39:07 - Diego Marmol (@dmmarmol):
+mmm claro. Lo mejor seria hacer el build y deployar esos archivos estaticos
+12:59:10 - Diego Marmol (@dmmarmol):
+Hola gente, como estan?. Si este no es el channel correcto para hacer esta consulta por favor avisen:
+&gt; Estoy tratando de usar *heroku* por primera vez para deployar una mini app creada con `create-react-app` a la cual le agregue Typescript. Luego de pushear mi branch a Heroku y de que el build pase como corresponde :heavy_check_mark:   cuando quiero acceder a mi app veo errores de compilacion de Typescript como por ejemplo, que me hace el paquete de `@types/react` en mi `package.json` cuando en verdad si esta pero dentro de las `devDependencies`.
+&gt; Previo a este error tuve un problema con la dependencia `node-sass` que tambien tenia dentro de `devDependencies` y que resolvi al moverla a `dependencies`.
+
+Parece haber un tema con las `devDependencies` al momento del build en heroku pero imagino que mover todas los paquetes a dentro de `dependencies` no debe ser la solucion. Alguien que haya experimentado un problema similar o tenga experiencia deployando con Typescript en Heroku me podra iluminar?
+13:15:08 - Hernan Rajchert (@sherman):
+Mi heroku esta medio verde, pero si no instala las devDependencies, entonces fijate que el comando que tira heroku (asumo npm run start) no haga nada que dependa de ellas, osea, tendrias que tal vez subir el proyecto compilado
+13:34:53 - Martín Valdés de León (@mvaldesdeleon):
+hace poco alguien habia tenido un problema similar
+13:35:06 - Martín Valdés de León (@mvaldesdeleon):
+TL;DR heroku setea NODE_ENV a production by default
+13:35:11 - Martín Valdés de León (@mvaldesdeleon):
+asi que nunca instala las devDependencies
+13:35:15 - Martín Valdés de León (@mvaldesdeleon):
+salvo que vos explicitamente lo cambies
+13:35:28 - Martín Valdés de León (@mvaldesdeleon):
+<https://devcenter.heroku.com/changelog-items/688>
+13:48:02 - Diego Marmol (@dmmarmol):
+Interesante, voy a probar algun workaround. Lei por ahi en stackoverflow que algunos lo solucionaron poniendo `NODE_ENV` como `development` pero se me hace un hack muy turbio jaja
+13:48:11 - Diego Marmol (@dmmarmol):
+Gracias!
+13:50:12 - Martín Valdés de León (@mvaldesdeleon):
+Lo "correcto" seria que para deployar a heroku o similar no uses node como web-server. Hace un build de tu app, agarra los archivos html/css/js estaticos, y ponelos en un webserver tipo nginx.
+13:50:22 - Martín Valdés de León (@mvaldesdeleon):
+Esto suponiendo que queres un deploy "de produccion"
+13:50:45 - Martín Valdés de León (@mvaldesdeleon):
+Pero si la idea es tener algo de desarrollo online para compartir, setear NODE_ENV a development es razonable.
+14:44:35 - Dario Miñones (@dminones):
+Segun esto heroku instala las devDependencies y las usa para el build pero luego las saca.
+<https://devcenter.heroku.com/articles/nodejs-support#package-installation>
+19:09:13 - Diego Marmol (@dmmarmol):
+Lo que no entiendo es, si instala las devDependencies durante el build y luego las quita, el bundle final no deberia tener ningun problema pero asi y todo crashea. Al final resolvi el tema flexibilizando una regla de typescript (Permitiendo que haya algunos parametros sin tipos definidos). Es medio fulero, pero para lo que estoy haciendo me sirve :slightly_smiling_face:
+19:11:12 - Martín Valdés de León (@mvaldesdeleon):
+Por lo que decis, pareceria que durante el build no estas compilando el TypeScript, sino que lo estas sirviendo "en vivo"
+19:11:28 - Martín Valdés de León (@mvaldesdeleon):
+Usando el servidor de CRA que es de desarrollo
+19:39:07 - Diego Marmol (@dmmarmol):
+mmm claro. Lo mejor seria hacer el build y deployar esos archivos estaticos
