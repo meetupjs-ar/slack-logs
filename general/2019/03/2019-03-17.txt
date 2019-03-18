@@ -1,0 +1,184 @@
+22:10:04 - Ezequiel Leites (@leites25):
+Consulta, hace unas semanas me entraron en la cuenta de netflix y me la borraron, y me vienen llegando seguido acceso a cuentas estilo, epic games, ubisoft, etc y hace poco quisieron entrar en la de iCloud. Uso un par de contraseñas que repito en varios lados, calculo que se habra filtrado data y bueno, asi que pensaba tomarme un poco mas en serio el tema de las contraseñas. Como manejan ustedes esto? Entiendo que hay como sistemas para alojar contraseñas y cosas por el estilo puede ser?
+22:11:36 - Gonzalo González Mora (@gonzalogm):
+Sep, 1Password, Lastpass, etc. generás passwords random para todos los sitios y las guardás ahí
+22:11:38 - Leandro Echevarria (@echevarrialeandro):
+1password es uno de esos sistemas
+22:11:45 - Leandro Echevarria (@echevarrialeandro):
+Eso, lo dijo Gonza
+22:11:58 - Gonzalo González Mora (@gonzalogm):
+y tenés extensiones para browsers, celu, etc. para completarlas
+22:12:16 - Leandro Echevarria (@echevarrialeandro):
+keychain en mac tambien esta si no estoy errado
+22:12:46 - Gonzalo González Mora (@gonzalogm):
+Asegurate de ponerle una muy buena constraseña a la master password (con la que entrás a Lastpass/1password/etc)
+22:13:19 - Patricio Palladino (@email):
+En mi experiencia con laspass y 1password, es mucho mejor la UX de 1password
+22:37:49 - Mateo Silguero (@mfsilguero):
+Ademas de un password manager, activate 2fa si la pagina te deja. Asi por mas que tengan tu contraseña, no van a poder entrar porque necesitan un codigo
+22:38:44 - a0viedo (@a0viedo):
+lo que dice mate, 2FA te asegura que por más que se leakee tu contraseña que no puedan ingresar de todas formas
+22:38:52 - Gonzalo González Mora (@gonzalogm):
+De una
+22:40:22 - a0viedo (@a0viedo):
+en lo posible una opción que no sea por SMS
+22:50:50 - Juan Bono (@juanbono):
+<https://fossbytes.com/the-linux-foundation-openjs-foundation-javascript/>
+22:54:44 - Ezequiel Leites (@leites25):
+Uh solte el celu y re colgue jaja.. Si, en todos los lugares que puedo tengo 2FA
+22:55:03 - Ezequiel Leites (@leites25):
+Pero voy a ver de empezar a implementar eso de 1Password
+23:12:53 - Nico (@nicokorn96):
+Y si no es por SMS cual seria la recomendable?
+10:35:55 - Sergio Daniel Xalambrí (@sergiodxa):
+Una app, como authy 
+13:11:14 - Santiago Ruffino (@santi_0898):
+En iOS (No se si en otros OS tambien), cada vez que tenes que crear una contraseña, te genera sola una clave segura, que es un string aleatorio con numeros y letras, y la guarda en tu cuenta de iCloud. Entonces, es como 1Password. Capaz que te sirve
+13:26:01 - Micael Robles (@micaelrobles):
+Yo estoy usando bitwarden, esta bueno porque es open source y más barato que 1password
+13:26:03 - a0viedo (@a0viedo):
+authenticator de google
+13:26:29 - Micael Robles (@micaelrobles):
+En realidad es gratis pero pagas si querés un par de features más que no son para nada necesarias
+13:28:01 - Martín Aimar (@maimar):
+acá hablaron bastante del tema <https://twitter.com/levelsio/status/912445210436804609>
+13:32:20 - a0viedo (@a0viedo):
+muchos hablan bien de keepass pero sincronizar entre diferentes dispositivos es un dolor de cabeza
+13:35:33 - Martín Aimar (@maimar):
+btw dónde guardan los recovery codes de sus 2fa?
+13:37:44 - Micael Robles (@micaelrobles):
+me anoté el de mi password manager en un post-it
+13:37:49 - Micael Robles (@micaelrobles):
+y los del resto los tengo en mi password manager
+13:47:19 - Ezequiel Leites (@leites25):
+Sin ir mas lejos, hoy a la mañana se me bloqueo twitter por un acceso desconocido.
+13:48:03 - Ezequiel Leites (@leites25):
+Hay algun lugar para saber si tu mail esta comprometido para ciertos sitios?
+13:48:30 - a0viedo (@a0viedo):
+<https://haveibeenpwned.com/>
+13:49:16 - a0viedo (@a0viedo):
+creo que estuvieron haciendo una integración entre esa base y 1password para que te avise de alguna forma
+13:51:37 - a0viedo (@a0viedo):
+por cierto, no pongan nunca sus contraseñas reales en los sitios "chEquea Aquí si tU contrAseÑa es sEgura"
+13:57:58 - Santiago Ruffino (@santi_0898):
+Hace un tiempo salieron a decir que esa pagina tampoco era confiable
+14:14:07 - a0viedo (@a0viedo):
+es un proyecto de alguien respetado en el ambiente infosec (<https://twitter.com/troyhunt>)...no digo que hay que confiar en todo el mundo pero al menos es de público conocimiento quién lo hizo y por qué
+14:14:49 - Martín Valdés de León (@mvaldesdeleon):
+al margen de que "mi direccion de mail" es un dato re publico
+14:27:16 - Micael Robles (@micaelrobles):
+bitwarden te dice que contraseñas tuyas fueron expuestas alguna vez
+15:06:43 - Pedro (@pedro461):
+Probe 1password y lastpass y me quedo con lastpass
+18:15:09 - Nico (@nicokorn96):
+que me recomiendan ? 1 password? google authenticator? authy?  (ya de base yo tengo el 2fa activado en gmail, outlook) pero digo para estar mas prevenido
+18:15:27 - Nico (@nicokorn96):
+o el keychain de apple que se yo
+18:31:42 - Sergio Daniel Xalambrí (@sergiodxa):
+1password y authy/google authenticator hacen cosas diferentes
+18:31:57 - Sergio Daniel Xalambrí (@sergiodxa):
+1password es para guardar tus contraseñas y generar contraseñas random
+18:32:09 - Sergio Daniel Xalambrí (@sergiodxa):
+authy y google authenticator son apps para 2FA
+18:32:24 - Sergio Daniel Xalambrí (@sergiodxa):
+usa 1password y 2FA a la vez
+18:34:00 - Nico (@nicokorn96):
+es de pago 1passsword :disappointed:
+18:34:23 - Sergio Daniel Xalambrí (@sergiodxa):
+vale más tu seguridad
+18:34:35 - Sergio Daniel Xalambrí (@sergiodxa):
+lastpass es similar a 1password y tiene una opción gratis creo
+19:56:59 - Nico (@nicokorn96):
+le voy a echar un vistazo
+22:10:04 - Ezequiel Leites (@leites25):
+Consulta, hace unas semanas me entraron en la cuenta de netflix y me la borraron, y me vienen llegando seguido acceso a cuentas estilo, epic games, ubisoft, etc y hace poco quisieron entrar en la de iCloud. Uso un par de contraseñas que repito en varios lados, calculo que se habra filtrado data y bueno, asi que pensaba tomarme un poco mas en serio el tema de las contraseñas. Como manejan ustedes esto? Entiendo que hay como sistemas para alojar contraseñas y cosas por el estilo puede ser?
+22:11:36 - Gonzalo González Mora (@gonzalogm):
+Sep, 1Password, Lastpass, etc. generás passwords random para todos los sitios y las guardás ahí
+22:11:38 - Leandro Echevarria (@echevarrialeandro):
+1password es uno de esos sistemas
+22:11:45 - Leandro Echevarria (@echevarrialeandro):
+Eso, lo dijo Gonza
+22:11:58 - Gonzalo González Mora (@gonzalogm):
+y tenés extensiones para browsers, celu, etc. para completarlas
+22:12:16 - Leandro Echevarria (@echevarrialeandro):
+keychain en mac tambien esta si no estoy errado
+22:12:46 - Gonzalo González Mora (@gonzalogm):
+Asegurate de ponerle una muy buena constraseña a la master password (con la que entrás a Lastpass/1password/etc)
+22:13:19 - Patricio Palladino (@email):
+En mi experiencia con laspass y 1password, es mucho mejor la UX de 1password
+22:37:49 - Mateo Silguero (@mfsilguero):
+Ademas de un password manager, activate 2fa si la pagina te deja. Asi por mas que tengan tu contraseña, no van a poder entrar porque necesitan un codigo
+22:38:44 - a0viedo (@a0viedo):
+lo que dice mate, 2FA te asegura que por más que se leakee tu contraseña que no puedan ingresar de todas formas
+22:38:52 - Gonzalo González Mora (@gonzalogm):
+De una
+22:40:22 - a0viedo (@a0viedo):
+en lo posible una opción que no sea por SMS
+22:50:50 - Juan Bono (@juanbono):
+<https://fossbytes.com/the-linux-foundation-openjs-foundation-javascript/>
+22:54:44 - Ezequiel Leites (@leites25):
+Uh solte el celu y re colgue jaja.. Si, en todos los lugares que puedo tengo 2FA
+22:55:03 - Ezequiel Leites (@leites25):
+Pero voy a ver de empezar a implementar eso de 1Password
+23:12:53 - Nico (@nicokorn96):
+Y si no es por SMS cual seria la recomendable?
+10:35:55 - Sergio Daniel Xalambrí (@sergiodxa):
+Una app, como authy 
+13:11:14 - Santiago Ruffino (@santi_0898):
+En iOS (No se si en otros OS tambien), cada vez que tenes que crear una contraseña, te genera sola una clave segura, que es un string aleatorio con numeros y letras, y la guarda en tu cuenta de iCloud. Entonces, es como 1Password. Capaz que te sirve
+13:26:01 - Micael Robles (@micaelrobles):
+Yo estoy usando bitwarden, esta bueno porque es open source y más barato que 1password
+13:26:03 - a0viedo (@a0viedo):
+authenticator de google
+13:26:29 - Micael Robles (@micaelrobles):
+En realidad es gratis pero pagas si querés un par de features más que no son para nada necesarias
+13:28:01 - Martín Aimar (@maimar):
+acá hablaron bastante del tema <https://twitter.com/levelsio/status/912445210436804609>
+13:32:20 - a0viedo (@a0viedo):
+muchos hablan bien de keepass pero sincronizar entre diferentes dispositivos es un dolor de cabeza
+13:35:33 - Martín Aimar (@maimar):
+btw dónde guardan los recovery codes de sus 2fa?
+13:37:44 - Micael Robles (@micaelrobles):
+me anoté el de mi password manager en un post-it
+13:37:49 - Micael Robles (@micaelrobles):
+y los del resto los tengo en mi password manager
+13:47:19 - Ezequiel Leites (@leites25):
+Sin ir mas lejos, hoy a la mañana se me bloqueo twitter por un acceso desconocido.
+13:48:03 - Ezequiel Leites (@leites25):
+Hay algun lugar para saber si tu mail esta comprometido para ciertos sitios?
+13:48:30 - a0viedo (@a0viedo):
+<https://haveibeenpwned.com/>
+13:49:16 - a0viedo (@a0viedo):
+creo que estuvieron haciendo una integración entre esa base y 1password para que te avise de alguna forma
+13:51:37 - a0viedo (@a0viedo):
+por cierto, no pongan nunca sus contraseñas reales en los sitios "chEquea Aquí si tU contrAseÑa es sEgura"
+13:57:58 - Santiago Ruffino (@santi_0898):
+Hace un tiempo salieron a decir que esa pagina tampoco era confiable
+14:14:07 - a0viedo (@a0viedo):
+es un proyecto de alguien respetado en el ambiente infosec (<https://twitter.com/troyhunt>)...no digo que hay que confiar en todo el mundo pero al menos es de público conocimiento quién lo hizo y por qué
+14:14:49 - Martín Valdés de León (@mvaldesdeleon):
+al margen de que "mi direccion de mail" es un dato re publico
+14:27:16 - Micael Robles (@micaelrobles):
+bitwarden te dice que contraseñas tuyas fueron expuestas alguna vez
+15:06:43 - Pedro (@pedro461):
+Probe 1password y lastpass y me quedo con lastpass
+18:15:09 - Nico (@nicokorn96):
+que me recomiendan ? 1 password? google authenticator? authy?  (ya de base yo tengo el 2fa activado en gmail, outlook) pero digo para estar mas prevenido
+18:15:27 - Nico (@nicokorn96):
+o el keychain de apple que se yo
+18:31:42 - Sergio Daniel Xalambrí (@sergiodxa):
+1password y authy/google authenticator hacen cosas diferentes
+18:31:57 - Sergio Daniel Xalambrí (@sergiodxa):
+1password es para guardar tus contraseñas y generar contraseñas random
+18:32:09 - Sergio Daniel Xalambrí (@sergiodxa):
+authy y google authenticator son apps para 2FA
+18:32:24 - Sergio Daniel Xalambrí (@sergiodxa):
+usa 1password y 2FA a la vez
+18:34:00 - Nico (@nicokorn96):
+es de pago 1passsword :disappointed:
+18:34:23 - Sergio Daniel Xalambrí (@sergiodxa):
+vale más tu seguridad
+18:34:35 - Sergio Daniel Xalambrí (@sergiodxa):
+lastpass es similar a 1password y tiene una opción gratis creo
+19:56:59 - Nico (@nicokorn96):
+le voy a echar un vistazo
