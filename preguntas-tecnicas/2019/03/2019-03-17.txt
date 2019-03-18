@@ -1,0 +1,8 @@
+19:36:21 - Leandro Echevarria (@echevarrialeandro):
+Alguien experimentó problemas en este componente de react native para Andoid? (mas alla de los glitches que te dice ahi que hay que hacer para que funcione) <https://github.com/react-native-community/react-native-blur>
+19:50:57 - Leandro Echevarria (@echevarrialeandro):
+En iOS anda perfecto
+19:36:21 - Leandro Echevarria (@echevarrialeandro):
+Alguien experimentó problemas en este componente de react native para Andoid? (mas alla de los glitches que te dice ahi que hay que hacer para que funcione) <https://github.com/react-native-community/react-native-blur>
+19:50:57 - Leandro Echevarria (@echevarrialeandro):
+En iOS anda perfecto
