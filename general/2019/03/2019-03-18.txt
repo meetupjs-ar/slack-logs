@@ -1,0 +1,640 @@
+08:59:45 - Luis Ventocilla (@lvsmix):
+Buen dia alguno le paso? De como hacer para que te aprueben el perfil en upwork
+08:59:55 - Luis Ventocilla (@lvsmix):
+Lei que hay que agregar test y github
+09:00:09 - Luis Ventocilla (@lvsmix):
+pero si tienen algunos tips para que me puedan pasaar, bienvenido
+08:59:45 - Luis Ventocilla (@lvsmix):
+Buen dia alguno le paso? De como hacer para que te aprueben el perfil en upwork
+08:59:55 - Luis Ventocilla (@lvsmix):
+Lei que hay que agregar test y github
+09:00:09 - Luis Ventocilla (@lvsmix):
+pero si tienen algunos tips para que me puedan pasaar, bienvenido
+09:48:09 - Guido Vizoso (@guido.vizoso9):
+Me pareció un buen punto de partida
+10:15:30 - Brian Hume (@brianh20):
+Si, por eso creo que te dije antes, suena a que igual con el presupuesto de diseño no van a avanzar, imaginate esto
+10:15:47 - Brian Hume (@brianh20):
+Encima para que despues vengan a decirme 'mi tia en Windows 95 no lo ve andando'
+10:38:47 - Diego Harari (@diehara):
+es un bardo que te acepten , yo entre pero por ahora no consegui ningun contract
+10:38:58 - Nicolas Accetta (@nicolas.accetta):
+che estoy arrancando con vim, que distribucion me recomendarian instalar para que no este pelado? tipo spf13 o spacevim y esos
+10:45:12 - Marcos Casagrande (@marcoscvp90):
+Lo malo de Upwork Luis, es que perdés más tiempo intentando agarrar un laburo, que haciendo laburos, por lo cual no es muy rentable. Y como dice Diego, es muy difícil que te agarren en un laburo, porque son bids ocultas. Entonces o te vendés muy barato, o alguien más se vende muy barato. En cualquiera de los 2 casos salís perdiendo.
+10:45:53 - Marcos Casagrande (@marcoscvp90):
+y tenés un límite de postulación mensual, que son unos 30 laburos (60 connects).
+10:46:19 - Marcos Casagrande (@marcoscvp90):
+Y la verdad, en 1-2 días te gastás los 60 connects.
+10:58:57 - Marcos Casagrande (@marcoscvp90):
+Y muchos laburos piden tener tantos laburos hechos, tanta reputación etc. La única seria perder plata al principio, haciendo las cosas regaladas. 
+11:05:09 - Nicolas Accetta (@nicolas.accetta):
+che marcos en codementor se puede laburar como equipo?
+11:15:06 - Marcos Casagrande (@marcoscvp90):
+No, es individual. Pero vi un par de perfil de algunas personas que tienen gente a cargo para agarrar laburos. 
+11:19:59 - Nicolas Accetta (@nicolas.accetta):
+ok ahi va
+11:20:07 - Nicolas Accetta (@nicolas.accetta):
+gracias
+11:51:39 - Luis Ventocilla (@lvsmix):
+<@UCRSAU92S> <@UGQTUDQSG> muchas gracias por sus respuestas. Probare codementor a ver que onda.
+11:53:01 - Marcos Casagrande (@marcoscvp90):
+De nada!, podés probar Fiverr también, pero es lo mismo, mucha competencia "desleal". Y sino entrar a alguna red onda Gigster o Toptal.
+15:13:13 - Diego Marmol (@dmmarmol):
+Buenas gente, cómo estan? Saben de alguna certificación de Frontend que tenga cierta importancia a la hora de citarla en el CV?
+15:13:55 - Sergio Daniel Xalambrí (@sergiodxa):
+creería que ninguna
+15:15:48 - Hernan Rajchert (@sherman):
+No creo que tampoco se mire tanto las certificaciones… es mas exp laboral que otra cosa
+15:16:27 - Sergio Daniel Xalambrí (@sergiodxa):
+:point_up: proyectos
+15:16:50 - Sergio Daniel Xalambrí (@sergiodxa):
+yo ayudé varias veces en entrevistas en mi laburo y nunca vi certificaciones
+15:19:31 - Hernan Rajchert (@sherman):
+yo cuando tuve que contratar tampoco
+15:20:33 - Sergio Daniel Xalambrí (@sergiodxa):
+cuando postulé a mi primer trabajo puse mis certificados de Platzi y la empresa ni idea de que era Platzi
+15:20:43 - Diego Marmol (@dmmarmol):
+Coincido a pleno. Pero bueno, quizas había una muy buena que no estaba encontrando
+15:20:51 - Sergio Daniel Xalambrí (@sergiodxa):
+en general los certificados sirven si la empresa los avala
+15:21:16 - Sergio Daniel Xalambrí (@sergiodxa):
+onda si el que te contrata es fan de Platzi le va a dar pelota, si es fan de W3Schools (nadie, nunca) te va a validar esos certificados
+15:21:26 - Diego Marmol (@dmmarmol):
+jajajaja claro
+15:22:04 - Jonatan del Valle (@jonidelv):
+los certificados de Udacity estan buenas, son como "nanodegrees"
+15:22:05 - Jonatan del Valle (@jonidelv):
+<https://www.udacity.com/school-of-programming>
+15:23:05 - Jonatan del Valle (@jonidelv):
+las certificaciones estan en partnership con empresas grandes como google, aws, github etc
+15:24:21 - Hernan Rajchert (@sherman):
+si, pero como contratador meepa que: exp mata facu, facu mata certs
+15:25:03 - Jonatan del Valle (@jonidelv):
+sin dudas, pero si no tenes facu y poca exp
+15:25:24 - Hernan Rajchert (@sherman):
+haria lo que dice sergio de hacer o participar en proyectos OSS
+15:25:48 - Hernan Rajchert (@sherman):
+o ayudaria en comunidades, terminas teniendo mucha más exposición que lo que te da un certificado
+15:26:16 - Julian (@jantonielli01):
++1 a hacer proyectos 
+15:26:19 - Julian (@jantonielli01):
+-1 a oss
+15:26:36 - Jonatan del Valle (@jonidelv):
+para participar en proyectos OSS tenes que saber
+15:26:48 - Diego Marmol (@dmmarmol):
+Perdón, con "proyectos OSS" te referis a Open Source?
+15:27:04 - Julian (@jantonielli01):
+Si
+15:27:57 - Hernan Rajchert (@sherman):
+siempre se puede empezar haciendo documentación y pequeños bug fixes… en general los proyectos grandes tienen tags con “good first PR”
+15:28:15 - Gonza Gluzman (@gonza):
+Me sobra una `S`
+15:28:32 - Hernan Rajchert (@sherman):
+Open Source Salamin
+15:29:07 - Leandro Echevarria (@echevarrialeandro):
+Cual es tu posicion respecto a ese -1 a oss? :open_mouth:
+15:30:31 - Martín Valdés de León (@mvaldesdeleon):
+en general los certificados son al re pedo
+15:30:45 - Martín Valdés de León (@mvaldesdeleon):
+yo tengo 2 comments
+15:31:33 - Martín Valdés de León (@mvaldesdeleon):
+1. nunca te pagues un certificado. si en el laburo te ofrecen entonces ok. pero antes intenta ir a alguna conf piola y que te paguen eso instead.
+2. para conseguir laburo es super irrelevante. unicamente si hay  una posicion fija para llenar, y varios candidatos, y son todos identicos SALVO uno con certs, ahi podria desempatar. pero eso practicamente no va a suceder nunca.
+15:32:03 - Gonza Gluzman (@gonza):
+Para mí la posta es ir con la actitud de `no necesito papeles que me avalen, porque yo sé y soy bueno y te lo demuestro acá mismo`
+15:32:21 - Gonza Gluzman (@gonza):
+Bueno, y después estar a la altura
+15:32:31 - Gonza Gluzman (@gonza):
+Ojo, no digo ser fanfarrón tampoco
+15:32:46 - Martín Valdés de León (@mvaldesdeleon):
+el requerimiento de gente certificada, if anything, va a venir de algun cliente grande que no puede simplemente "confiar en tu empresa"
+15:32:52 - Martín Valdés de León (@mvaldesdeleon):
+en cuyo caso, la empresa te paga el certificado
+15:32:58 - Martín Valdés de León (@mvaldesdeleon):
+pq es para que ellos puedan conseguir un nuevo cliente
+15:34:02 - Nico (@nicokorn96):
+yo estoy haciendo el curso de aws certified developer por amor al arte
+15:36:16 - Sergio Daniel Xalambrí (@sergiodxa):
+Open Source Software
+15:36:31 - Gonza Gluzman (@gonza):
+Gracias! :raised_hands:
+15:38:20 - Sergio Daniel Xalambrí (@sergiodxa):
+los aws certified son propios de AWS no?
+15:42:33 - Diego Marmol (@dmmarmol):
+Me gustó lo de "exp mata facu, facu mata certs".  Lo creen así? también creen que esa visión se aplica fuera del país?
+15:43:18 - Sergio Daniel Xalambrí (@sergiodxa):
+sí :+1:
+15:43:37 - Sergio Daniel Xalambrí (@sergiodxa):
+trabajé para empresas de USA y a ninguna le importó que no tenga ni certificaciones ni facu
+15:43:42 - Sergio Daniel Xalambrí (@sergiodxa):
+solo se fijaron en mi experiencia
+15:45:02 - Jorge Cano (@jorgeucano):
+a mi nadie me pidio algo de la facultad
+15:45:05 - Jorge Cano (@jorgeucano):
+fuera de argentina
+15:45:08 - Marcos Casagrande (@marcoscvp90):
+Si tenes X años de experiencia demostrada y tenes los conocimientos, a nadie le importa el título. Como dijo Martín, solo en caso de "empate" 
+15:45:17 - Jorge Cano (@jorgeucano):
+de hecho es facil
+15:45:19 - Jorge Cano (@jorgeucano):
+tienen tu email
+15:45:26 - Jorge Cano (@jorgeucano):
+tienen que buscar un poquito y van a conseguir tu github
+15:45:35 - Jorge Cano (@jorgeucano):
+si tenes cosas ahi las van a ver
+15:45:36 - Jorge Cano (@jorgeucano):
+y demas
+15:47:00 - Martín Valdés de León (@mvaldesdeleon):
+nadie se va a privar de contratar a alguien que saben que es groso y buen fit solo porque le falte un diploma
+15:47:02 - Martín Valdés de León (@mvaldesdeleon):
+o un certificado
+15:47:24 - Martín Valdés de León (@mvaldesdeleon):
+medio que hoy por hoy mientras no estes en una terrorist watch list
+15:47:26 - Martín Valdés de León (@mvaldesdeleon):
+sale con fritas
+15:48:25 - Gonza Gluzman (@gonza):
+Me dan ganas de invitar a mi vieja a este slack para que lea estas cosas
+15:48:37 - Jorge Cano (@jorgeucano):
+jajajaja yo a mi abuela
+15:48:39 - Martín Valdés de León (@mvaldesdeleon):
+igual ojo, eso no quiere decir que la facultad sea inutil.
+15:48:39 - Jorge Cano (@jorgeucano):
+todavia no lo entendio
+15:48:44 - Jorge Cano (@jorgeucano):
+nono obvio que no
+15:48:46 - Martín Valdés de León (@mvaldesdeleon):
+yo estoy super feliz de haber terminado y no colgado por la mitad
+15:48:53 - Jorge Cano (@jorgeucano):
+la facultad te da un monton de entendimientos que sirven
+15:48:54 - Martín Valdés de León (@mvaldesdeleon):
+pero no es el papel que me va a conseguir laburos
+15:48:55 - Martín Valdés de León (@mvaldesdeleon):
+es otra cosa
+15:49:08 - Martín Valdés de León (@mvaldesdeleon):
+tambien es cerrar/concluir etapas y eso
+15:51:41 - Sergio Daniel Xalambrí (@sergiodxa):
+lo que más lamento de no ir a la universidad es el conocimiento teórico que si no te toca aprender a las patadas cuando lo necesites
+15:52:02 - Sergio Daniel Xalambrí (@sergiodxa):
+e igual lamento es exagerando
+15:56:18 - Wilfredo Alcala (@alcalawilfre):
+igual no te perdiste de mucho, salvo que trabajes en un proyecto que requiera full estadísticas y matemática compleja
+15:56:51 - Wilfredo Alcala (@alcalawilfre):
+Yo hasta ahora de lo que vi solo he usado programación orientada a objetos :sweat_smile:
+15:57:15 - Sergio Daniel Xalambrí (@sergiodxa):
+yo tuve que aprender POO a la fuerza, leyendo la doc de PHP
+15:57:59 - Sergio Daniel Xalambrí (@sergiodxa):
+a día de hoy mi novia me sigue explicando cosas de POO, porque después casi nunca use clases
+15:58:20 - Santiago Ruffino (@santi_0898):
+Hice dos años de Ing en sistemas, y solo me quedaron dos cosas.
+1) Python
+2) Pensamiento logico. Para poder ver un problema, buscar la solucion, e implementarlo
+15:59:06 - Wilfredo Alcala (@alcalawilfre):
+Yo odiaba la universidad, no volvería a estudiar. Me enseñaban cosas obsoletas y de una forma que no tenía sentido.. Además me hacían programar en papel hdpts
+16:00:07 - Julio (@julito):
+Lo que más podría usar hoy en día es estadística y era pésima en mi facu, no me quedó nada :disappointed:
+16:00:51 - Johanna (@johannasabsantos):
+hola! Soy nueva en el grupo :slightly_smiling_face: este año empiezo la carrera y me la estan re bajando
+16:00:52 - Johanna (@johannasabsantos):
+jajaja
+16:01:13 - Julio (@julito):
+Nooo jaja, lo que dijeron más arriba también es cierto
+16:01:18 - Marcos Casagrande (@marcoscvp90):
+O subiendo. No necesitas una carrera para ganar plata. Jaja
+16:01:19 - Julio (@julito):
+De que da una muy buena base en un montón de cosas
+16:02:20 - Sergio Daniel Xalambrí (@sergiodxa):
+a mi novia le hicieron hacer recursion con SQL, hablando de cosas sin sentido
+16:02:48 - Julio (@julito):
+Algo que siento también es que si cursara hoy en día, hay muchas materias a las que le podría sacar más provecho
+16:02:53 - Julio (@julito):
+Las más organizacionales por ejemplo
+16:03:06 - Julio (@julito):
+Que en su momento me faltaba el contexto para entender bien de qué me estaban hablando
+16:03:38 - Johanna (@johannasabsantos):
+igual es cierto lo que dicen
+16:03:59 - Johanna (@johannasabsantos):
+yo creo que la quiero hacer mas por mi, por tener esos conocimientos que por laburo en si
+16:05:36 - Wilfredo Alcala (@alcalawilfre):
+Jaja una vez en una entrevista me hicieron programar en papel un factorial recursivo, luego me di cuenta que era una empresa aburrida 
+16:08:00 - Patricio Palladino (@email):
+Todo depende que te interese <@UH2FRJ87L>, no dejes que te la bajen de una :slightly_smiling_face: Yo estudie ciencias de la computación en exactas, me dedico a cosas de crypto/blockchain, y me SUPER sirven las cosas que vi
+16:08:22 - Patricio Palladino (@email):
+Ahora, pasé por 3 carreras hasta encontrar una que me gustaba
+16:09:52 - Diego Harari (@diehara):
+Para mi en este rubro la facultad te da otras cosas. Podes tener un doctorado pero si hace tres años no te actualizas te oxidas y eso al mercado no le sirve a mi entender
+16:10:08 - Diego Harari (@diehara):
+bah debe suceder en muchos rubros
+16:10:16 - Diego Harari (@diehara):
+medicina etc
+16:10:44 - Gonza Gluzman (@gonza):
+<@UH2FRJ87L>, a qué universidad pensás ir?
+16:14:04 - Hernan Rajchert (@sherman):
+ojo, dije que exp mata facu, pero estoy muy contento de poder haberla hecho y me dio un montón de herramientas que si sólo hubiese hecho práctica laboral, probablemente nunca hubiese hecho
+16:14:39 - Johanna (@johannasabsantos):
+Eu voy a empezar ciencias de la computacion en Exactas tambien! Me parece hermosa y vengo de cambiarme de otra carrera que nada que ver asi que nada, tengo muchas ganas y si, soy consciente de todo lo que conlleva estudiar ahi jaja
+16:15:00 - Johanna (@johannasabsantos):
+claro, tal cual
+16:15:14 - Johanna (@johannasabsantos):
+exactas, ciencias de la computacion :slightly_smiling_face:
+16:15:43 - Johanna (@johannasabsantos):
+bueno gracias por aclarar porque me estaban asustando (?) jajaja
+16:16:09 - Gonza Gluzman (@gonza):
+Ah, ahí no conozco mucho así que no puedo recomendarte. Conozco de la UTN principalmente. Igual, hay varios por acá que seguro fueron a Cs. de la Computación
+16:18:21 - Johanna (@johannasabsantos):
+Ahh si si, seguro que hay varios, igual como fue tu cursada en UTN? Era mi otra opcion
+16:19:21 - Wilfredo Alcala (@alcalawilfre):
+Igual si lo que quieres es aprender, capaz aprendes más rápido en platzi.. Pero como te dijeron, es depende de lo que quieras.. Además el título a veces sirve como pasaporte si quieres irte a otro lado, algunos países lo piden para la visa de trabajo 
+16:19:50 - Jorge Cano (@jorgeucano):
+igual platzi es totalmente distinto a la facultad
+16:19:55 - Jorge Cano (@jorgeucano):
+cursos !== facultad
+16:20:00 - Diego Marmol (@dmmarmol):
+Quizas no te pidieron nada, pero lo hayan visto en tu CV
+16:20:39 - Santiago Ruffino (@santi_0898):
+La facultad son clases. Un curso es un curso
+16:20:44 - Santiago Ruffino (@santi_0898):
+Es distinto
+16:20:45 - Jorge Cano (@jorgeucano):
+no envie cv XD
+16:20:55 - Santiago Ruffino (@santi_0898):
+En la facultad trabajas un aspecto mucho mas amplio, o eso siento yo
+16:20:56 - Diego Marmol (@dmmarmol):
+jajaja digo pero te habran googleado :stuck_out_tongue:
+16:21:17 - Diego Marmol (@dmmarmol):
+Estoy exactamente igual que vos
+16:21:31 - Jorge Cano (@jorgeucano):
+claro
+16:24:19 - Johanna (@johannasabsantos):
+Mi idea es irme a trabajar afuera y en algunos paises piden el titulo por el tema de la visa de trabajo
+16:24:33 - Diego Marmol (@dmmarmol):
+Haciendo una búsqueda muy por encima en internet sobre laburos afuera, percibí eso que decis, muchos te lo piden. Sin embargo por suerte no todos :pray:
+16:24:38 - Johanna (@johannasabsantos):
+pero nada, no es mi principal motivo para recibirme
+16:25:05 - Johanna (@johannasabsantos):
+es mas como un objetivo personal
+16:25:14 - Wilfredo Alcala (@alcalawilfre):
+Ese si fue el primer movito mío :joy: 
+16:25:37 - Johanna (@johannasabsantos):
+jajaja y que onda?
+16:26:11 - Wilfredo Alcala (@alcalawilfre):
+Me vine a Argentina y hasta ahora no me ha servido de nada :sweat_smile:
+16:41:57 - Luis Ventocilla (@lvsmix):
+Yo creo que la facultad te da formacion para el estudio, pero si reconozco que la facultad en vez de incluir, excluye y creo que en algunos casos se deberia como amoldar a los tiempos que la que muchos trabajan e ir a cursar es un bajon. En cambio en mi caso educacion remota (onda platzi) me sirvio mucho. Pero entiendo tambien que depende de la persona.
+16:43:33 - Santiago Ruffino (@santi_0898):
+Mi consejo? Estudia en la facultad, esta LEJOS de ser un desperdicio. Pero por tu cuenta, anda aplicando ese conocimiento en proyectos propios. Porque lo que enseñan, normalmente no coincide con lo que te piden en el mundo laboral. Busca el equilibrio entre las dos cosas, y vas a notar el potencial
+16:45:11 - Diego Harari (@diehara):
+pot ejemplo se que oop se ve en 6 meses y con java
+16:45:27 - Diego Harari (@diehara):
+eso en un curso por ahi lo ves dos o 3 semanas
+16:45:38 - Diego Harari (@diehara):
+y despues indagas vos si queres mejorsr
+16:45:40 - Diego Harari (@diehara):
+rar
+16:46:31 - Julio (@julito):
+Lo que tiene ciencias de la computación es que no sé qué tan fácil será aprender la parte algorítmica y matemática a fuerza de cursos, ahí me parece que garpa muchísimo la facu (en mi caso al menos)
+16:47:14 - Johanna (@johannasabsantos):
+Si si, tal cual, esa mi idea, muchas gracias!
+16:48:26 - Johanna (@johannasabsantos):
+yo realmente para ciencias de la computacion prefiero ir a la facultad pero no tengo tanta experiencia en la carrera asi que que hablen otros/as jaja
+16:49:20 - Julio (@julito):
+Escuché muy buenas cosas de esa carrera en exactas :slightly_smiling_face:
+16:50:18 - Gonza Gluzman (@gonza):
+El problema de la facultad es en general que las carreras no terminan de corresponderse con los contenidos y habilidades que necesitamos en la industria (hablo de nuestra industria únicamente)
+16:50:55 - Gonza Gluzman (@gonza):
+Por eso, muchas veces aprendés cosas útiles para laburar, PERO a un costo muy elevado y terminás sin cubrir todo lo necesario
+17:01:15 - Nicolas Taboada (@ntaboada93):
+como me abrio la cabeza paradigmas y diseño (en la utn por si las dudas) a mi me re sirivio.
+17:01:41 - Nicolas Taboada (@ntaboada93):
+Pero si, en definitiva la facultad no es excluyente para conseguir laburo
+17:02:05 - Gonza Gluzman (@gonza):
+Seeeeh, completamente. Fui ayudante en PdeP 4 años por ese mismo motivo
+17:09:40 - Brian Hume (@brianh20):
+yo estudie administracino de empresas y no se ni donde esta mi titulo
+17:09:44 - Rodrigo Ali (@rodrigojali):
+Es que la universidad es una herramienta. Y como toda herramienta, sirve a un propósito. No todos vamos a encontrarle la misma utilidad. Después está la discusión de si se enseña bien/mal o si toda la curricula sirve/no-sirve.
+
+Yo hice la facu (UTN Cordoba) y la terminé dejando por motivos totalmente personales, y ~10 años después decidí hacer un cambio de carrera laboral y JUSTO se dio que fue como desarrollador... qué sé yo. Me alegra que en este rubro no sea NECESARIO, y que haya flexibilidad y capacidad autodidacta.
+17:11:06 - Rodrigo Ali (@rodrigojali):
+Alguien en este slack, no me acuerdo ni quién ni en qué channel, dijo algo que me caló muy hondo:
+
+"La experiencia llega sola".
+
+Y me caló re hondo porque como yo hice el cambio de rubro a los 29 años, me puse mucha presión para "recuperar" todo el tiempo que "perdi" al no haberlo hecho antes. Ahora me lo tomo con soda y estoy mucho mejor, más tranquilo :stuck_out_tongue:
+17:11:27 - Brian Hume (@brianh20):
+Igual para mi las personas se separan entre las que piensan que cualquier cosa es 'al pedo' y no es 'al pedo.
+
+Porque es la actitud respecto de la cosa y no respecto de la actitud.
+
+A mi me costo un huevo hacer la carrera, quizas no en los contenidos... pero si en constancia y al dia de hoy puede venir cualquiera (por lo general no tienen titulo de nada ) y decirme que fui 'al pedo' y yo.. bueno, tratare de ver si tienen la constancia que lleva sacar algo adelante que necesite persistencia.
+17:12:09 - Rodrigo Ali (@rodrigojali):
+Es que no es al pedo. Como decís vos, pueden haber mil cosas atrás de una acción más allá del objetivo obvio.
+17:12:23 - Rodrigo Ali (@rodrigojali):
+Yo no siento que haber hecho 3 años en la UTN hubiera sido al pedo.
+17:12:37 - Brian Hume (@brianh20):
+Yo creo que en este rubro se peca mucho de "no se necesita un titulo si sos bueno" sabiendo que no solo hay mas demanda que oferta sino que ademas, no hay manera de medir a priori si "sos bueno"
+
+Con lo cual, cualquiera que tiene trabajo piensa que es bueno
+17:12:55 - Brian Hume (@brianh20):
+Y despues me cruzo con los codigos de personas de empresas que "contratan el 1%"
+17:13:01 - Brian Hume (@brianh20):
+y te das cuenta cual es la verdad
+17:13:10 - Brian Hume (@brianh20):
+Y LO DIGO MIRANDOME AL ESPEJO
+17:13:12 - Brian Hume (@brianh20):
+jajaja
+17:13:56 - Marcos Casagrande (@marcoscvp90):
+Para mi depende de las personas, para algunos es una pérdida de tiempo, en el tiempo que hacen la carrera aprenden más por su cuenta. Para otros necesitan de la Facultad para aprender. Lo importante al final es el conocimiento adquirido, que puede llegar desde cualquier lugar y forma en esta profesión. Al final del día, lo único que importa es si sabés o no sabés, como hayas aprendido es irrelevante para el trabajo.
+17:14:09 - Brian Hume (@brianh20):
+El otro dia, si a alguien le interesa, la llamaron a una persona muy cercana para cierta posicion algo 'jerarquica' en BairesDEV
+17:14:18 - Martín Valdés de León (@mvaldesdeleon):
+Yo separaria un poco "la universidad" de "la carrera" (en el rubro).
+17:14:24 - Brian Hume (@brianh20):
+Le dije, porque tenia la confianza, que pregunte a que se referian con el "top 1%"
+17:14:25 - Martín Valdés de León (@mvaldesdeleon):
+Entre esas dos cosas generalmente no hay relacion.
+17:14:29 - Brian Hume (@brianh20):
+el director de marketing le contesto
+17:14:36 - Brian Hume (@brianh20):
+a alguien le interesa cual fue su criterio?
+17:14:43 - Luis Alvarez (@luistensai):
+y hay otros que aún haciendo la carrera ni así aprenden :stuck_out_tongue:
+17:14:47 - Brian Hume (@brianh20):
+tal cual!
+17:14:48 - Martín Valdés de León (@mvaldesdeleon):
+Y muchos de los graduados del rubro que conozco, son graduados de otra cosa.
+17:14:50 - Martín Valdés de León (@mvaldesdeleon):
+Como yo.
+17:14:57 - Julian (@jantonielli01):
+Yo soy muy escéptico de la importancia de “sentar el culo y estudiar/tener constancia”, etc 
+17:15:07 - Brian Hume (@brianh20):
+ah si? y como aprendiste desarrollo?
+17:15:08 - Brian Hume (@brianh20):
+jajajaja
+17:15:19 - Brian Hume (@brianh20):
+o laburas en la compu parado? :stuck_out_tongue:
+17:15:24 - Julian (@jantonielli01):
+Todos lo dicen como verdad inquebrantable pero es inmedible 
+17:15:51 - Brian Hume (@brianh20):
+es facil desestimar el esfuerzo del otro
+porque el camino es uno
+y no el del otro (? me pase de filosofico)
+17:16:35 - Santiago Ruffino (@santi_0898):
+Brayan, larga el faso
+17:16:42 - Julian (@jantonielli01):
+No lo desestimo, digo que es imposible de refutar 
+17:16:43 - Rodrigo Ali (@rodrigojali):
+Contá <@U5SA8HM7W>
+
+Yo considero que pasar por una institución educativa tiene mucho más atrás que solo el conocimiento académico. Yo valoro muchísimo la gente que conocí, el networking que terminé haciendo y el cómo hablar con la gente y el sacarme la ansiedad social, conocer gente fuera de mis circulos, y juntarme con esa gente que a su vez se juntaba con otra gente que nada que ver con mi palo.
+17:17:21 - Marcos Casagrande (@marcoscvp90):
+Lo que es innegable, es que las facultades no están actualizadas, por eso se dice que es "al pedo"
+17:17:41 - Marcos Casagrande (@marcoscvp90):
+Cuando yo arranqué la carrera, enseñaban Pascal. Yo quería hacer web. Tuve que aprender todo solo.
+17:18:08 - Martín Valdés de León (@mvaldesdeleon):
+Eso es lo bueno de estudiar CS vs otra cosa mas supuestamente orientada a la salida laboral.
+17:18:09 - Brian Hume (@brianh20):
+La respuesta fue "que tengan 8 años de experiencia y sepan hablar ingles bien"
+
+asique ya sabes, el 1% del talento incluye saber ingles aparentemtne
+17:18:17 - Julian (@jantonielli01):
+Depende también, imho que te den un curso de Java/rails/node/whatever es al pedo
+17:18:18 - Martín Valdés de León (@mvaldesdeleon):
+Dijkstra nunca pasa de moda (?)
+17:18:47 - Julian (@jantonielli01):
+Para eso tenes los docs más que una clase :v
+17:18:56 - Julian (@jantonielli01):
+My point actually 
+17:19:01 - Martin Carrera (@mcarrera):
+el problema es que x la burocracia que implica actualizar un plan de estudios, significa que los planes de las carreras nunca esten actualizados
+17:19:08 - Martin Carrera (@mcarrera):
+al menos a “lo ultimo”
+17:19:25 - Brian Hume (@brianh20):
+Le terminaron contando: ```ahora no conseguimos tanta gente con buen ingles... entonces bajamos las expectativas
+y a diferencia de hace un tiempo que la idea era hacer 100% staff aug y que nuestros empleados trabajen en el cliente - estamos empezando a poner pms porque es mas facil conseguir y es mas rentable a la hora de vender un proyecto, contratando personas con menos nivel de ingles, pagando sueldos menores y colocando mas recursos en el cliente```
+17:19:47 - Julian (@jantonielli01):
+Hint: no tenes que actualizar (mucho) un plan de estudio si tu contenido no expira 
+17:20:00 - Brian Hume (@brianh20):
+cambiaron el slogan? no :stuck_out_tongue:
+17:20:18 - Brian Hume (@brianh20):
+y podria seguir contando... pero en fin.. para que sepan, lo que pasa por detras
+17:20:38 - Martin Carrera (@mcarrera):
+<@U7MP5R4MC> eso hace la UBA x lo menos, te da contenidos del año del culo y no le interesa actualizar el plan de estudios :stuck_out_tongue_winking_eye:
+17:20:40 - Brian Hume (@brianh20):
+igual que se yo, en el fondo es un negocio  no?
+17:22:11 - Julian (@jantonielli01):
+No digo eso, digo que enseñar react o cosas así en una facultad es al pedo 
+17:22:29 - Martin Carrera (@mcarrera):
+si pero no pasa todo x la ultima tecnologia de front
+17:22:34 - Julian (@jantonielli01):
+Ya se 
+17:22:40 - Julian (@jantonielli01):
+Era un ejemplo....
+17:22:53 - Martin Carrera (@mcarrera):
+si, te entiendo
+17:23:05 - Julian (@jantonielli01):
+Las cosas no cambian hace 60 años en computación 
+17:23:10 - Julian (@jantonielli01):
+Los servers funcionan igual 
+17:23:13 - Julian (@jantonielli01):
+Las redes tmb 
+17:23:21 - Julian (@jantonielli01):
+Las bases de datos también 
+17:23:33 - Martín Valdés de León (@mvaldesdeleon):
+_pero http3_
+17:23:36 - Julian (@jantonielli01):
+Enseña eso, no un lenguaje de moda 
+17:24:12 - Julian (@jantonielli01):
+Te debería chupar un huevo q te enseñen con spring 1.0 si lo usan para mostrarte concurrencia, conexiones, etc 
+17:24:16 - Luis Ventocilla (@lvsmix):
+si pero no pasa todo x la ultima tecnologia de front --&gt; Pero enseñar IBM Mainframe en Assembler es necesario en estos tiempos?
+17:24:18 - Martín Valdés de León (@mvaldesdeleon):
+true dat
+17:24:33 - Martín Valdés de León (@mvaldesdeleon):
+pero ahi hay mucho que falla en manejar expectativas
+17:24:36 - Julian (@jantonielli01):
+Sino, anda a un bootcamp 
+17:24:41 - Martín Valdés de León (@mvaldesdeleon):
+estudiantes que se creen que en la carrera "van a aprender a trabajar"
+17:24:43 - Martín Valdés de León (@mvaldesdeleon):
+de devs
+17:24:55 - Martín Valdés de León (@mvaldesdeleon):
+cuando no y nunca fue ese el objetivo
+17:24:58 - Julian (@jantonielli01):
+No por bardear ni nada, sino porque eso se asemejaría más a lo que queres
+17:25:31 - Martín Valdés de León (@mvaldesdeleon):
+igual tambien, no se quien puede mirar un compromiso a futuro de tipo 5 años y pensar que eso es "el camino rapido al exito"
+17:26:16 - Julian (@jantonielli01):
+Y bue, muchos de nuestros viejos pensaban eso 
+17:26:36 - Julian (@jantonielli01):
+Muchos somos la primera/segunda generación que estudia en arg tmb 
+17:26:49 - Martín Valdés de León (@mvaldesdeleon):
+Sep
+17:27:08 - Julian (@jantonielli01):
+C’est la vie 
+17:32:19 - Rodrigo Ali (@rodrigojali):
+Yo lo que sí te banco es que enseñen paradigmas y tal. Te re banco que enseñes OOP, te re banco que enseñes funcional, y así.
+17:32:39 - Rodrigo Ali (@rodrigojali):
+Entre más general lo que aprendas y mejor lo aprendas, mejor cimiento vas a tener para aprender las implementaciones de eso.
+17:36:35 - Lucas Alejo Bellesi (@lucasbellesipocho):
+Yo estudio la tecnicatura en sistemas y realmente la prefiero por su enfoque práctico, que sé yo a mi me parece que hacerle programar a uno assembly en papel no le va a servir de nada(cosas que me contaron de CS de la UBA)
+17:36:57 - Martín Valdés de León (@mvaldesdeleon):
+Despues esta el otro lado de que hacer una carrera te obliga a tener que aprender a organizar tu vida un poco
+17:37:11 - Martín Valdés de León (@mvaldesdeleon):
+al menos en una universidad publica donde a nadie le importa un carajo lo que haces o no
+17:37:27 - Martín Valdés de León (@mvaldesdeleon):
+(en el sentido de que ningun profe te va a pregntar porque estas faltando a clases y demas, te van a reprobar y ya)
+17:37:37 - Juan Scolari (@juanscolari):
+Arranque en su momento a estudiar ing informatica en la uba porque uno “tenia que tener un titulo” para trabajar profesionalmente (o eso me inculco el entorno). Como era todo nuevo me parecia desafiante, nuevo y divertido. Con el tiempo me empezo a parecer que el contenido no tenia nada que ver con lo que pasaba en el mundo “laboral” o era totalmente anacronico y me embolaba. Para mi hay problemas puntuales con la confeccion de las carreras y la forma en que se enseña, que no se adapta a los tiempos actuales. Con el tema de la burocracia se hace dificil. Estudiar en la universidad lleva otro esfuerzo que un curso, en el caso de mi ex-carrera me parece un esfuerzo mal encaminado, esperemos se encamine
+17:39:20 - Juan Scolari (@juanscolari):
+por otro lado me hablaron muy bien de cs de la computacion en la uba
+17:40:48 - Julian (@jantonielli01):
+En el Itba la carrera zafa en contenido, pero es una mierda en ratio overall/cuota
+17:41:57 - Luis Alvarez (@luistensai):
+otro aspecto por el cual creo que las universidades no actualizan sus planes de estudio, o incluso contenidos en las materias es el anacronismo de l@s profesor@s/jef@s de catedra, etc...
+algun@s están clavados ahí sin que nadie l@s reemplace, entonces ni se molestan en mejorar la cátedra... en la UTN FRBA en los últimos tiempos se vio un par de cambios surgidos luego de que los mismos alumnos empezaran a meter ruido...
+17:42:37 - Lucas Alejo Bellesi (@lucasbellesipocho):
+Eso es lo malo que le veo a la UBA todo teoría, la ING de la UNLAM me parece la mejor seguida de la UTN
+17:43:42 - Martín Valdés de León (@mvaldesdeleon):
+En ese sentido estimo que CS debe estar mas piola porque es de la FCEyN
+17:43:54 - Martín Valdés de León (@mvaldesdeleon):
+Somos como un mundito aparte dentro de lo que es la UBA
+17:45:41 - Juan Scolari (@juanscolari):
+es rara la uba, tiene en la facultad de ingenieria las dos carreras, Ingenieria en informatica y Licenciatura en Analisis de Sistemas
+17:47:12 - Gonza Gluzman (@gonza):
+Hace unos años leí un libro que me cambió completamente la forma de pensar la academia y la ciencia: `Ciencia incierta`, de Mario Heller
+17:47:16 - Gonza Gluzman (@gonza):
+Lo recomiendo
+17:47:27 - Juan Bono (@juanbono):
+Buen dato!
+17:55:07 - Patricio Palladino (@email):
+disculpá, estaba en una reunion
+17:55:15 - Patricio Palladino (@email):
+buena onda que arranques en exactas
+17:55:25 - Patricio Palladino (@email):
+esta lleno de gente que primero paso por otra carrera
+17:55:36 - Patricio Palladino (@email):
+yo hice 2 años de ing electronica, uno de informatica, y dsp me pase a computacion
+17:55:59 - Patricio Palladino (@email):
+como lei que decias, yo tmb estudié por el conocimiento, y no por querer tener un titulo
+17:56:13 - Patricio Palladino (@email):
+aunque si tu plan es laburar afuera el titulo es importante, al menos el intermedio
+17:56:54 - Juan Bono (@juanbono):
+Además de la burocracia sumale que se crean y mueren un montón de tecnologías y conceptos muy muy rápido jajaja. Mucho más rápido de lo que quizá se tarda en organizar un plan de estudios. Estaría bueno que las materias se centren en los conocimientos no perecederos pero creo que no es algo trivial, porque es casi predecir el futuro jajaja.
+17:57:00 - Patricio Palladino (@email):
+hay muchas cosas copadas con estudiar computacion en exactas, cualquier cosa que quieras saber me podes preguntar
+17:57:39 - Martín Valdés de León (@mvaldesdeleon):
+O arma carreras que se basan exclusivamente en cosas antiquisimas, tipo Matematicas.
+18:00:23 - Juan Scolari (@juanscolari):
+los sistemas sin sentido de correlatividades
+18:00:40 - Gonza Gluzman (@gonza):
+Según Platón, el conocimiento debería ser no perecedero
+18:01:31 - Gonza Gluzman (@gonza):
+No se podría conocer algo que cambia todo el tiempo, porque eso no sería verdadero conocimiento (en cuanto tenés una noción de la cosa, la cosa cambió)
+18:01:48 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.youtube.com/watch?v=LFjcMPvINug>
+18:04:59 - Juan Scolari (@juanscolari):
+La formacion universitaria como la conocemos hoy me parece un sistema en camino a ser obsoleto
+18:05:35 - Juan Scolari (@juanscolari):
+En los proximos años tiene que haber una revolucion al respecto
+18:05:58 - Martín Valdés de León (@mvaldesdeleon):
+Hoy en dia hay muchisimo que es "memorizar mierda para el parcial/final"
+18:06:07 - Martín Valdés de León (@mvaldesdeleon):
+que posta es ridiculo en la era de la informacion
+18:06:29 - Juan Scolari (@juanscolari):
+Mas en materias que tienen que “leer” mucho
+18:06:52 - Juan Bono (@juanbono):
+El otro día me quedé pensando porque vi que estaban separando libros viejos de  la biblioteca del laboratorio de sistemas en la facultad, voy a ver qué onda los libros y había muchos que hablaban de CORBA, visual basic (anterior a .NET), SOAP, manuales de usuario de Windows NT, Flash, entre otras. Y era bocha de material, pero de eso cuánto te sirve si los lees ahora? jajaja
+18:07:31 - Martin Carrera (@mcarrera):
+la facultad te enseña a aprobar examenes
+18:08:00 - Martin Carrera (@mcarrera):
+despues, en el camino podes aprender otras cosas
+18:08:23 - Brian Hume (@brianh20):
+y... no se, yo aprendi con un libro de C++ y uno de Visal Basic 6 y mucho de lo que aprendi entonces, se replica en otros lenguajes ahora... de manera mucho mas compleja / menos explicita
+18:08:40 - Juan Scolari (@juanscolari):
+hay mucho camino para pulir en el tema de educacion
+18:08:45 - Brian Hume (@brianh20):
+y las nuevas generaciones en lugar de pensar en esas cosas
+miran un video de un pibe de 15 años que hace un uber en youtube y 'saben programar'
+18:08:56 - Brian Hume (@brianh20):
+o sea, los extremos nunca son buenos
+18:09:15 - Brian Hume (@brianh20):
+Ahora, levante la mano el que dimensiona las variables! (?)
+18:10:45 - Juan Scolari (@juanscolari):
+es que la facultad te impone un sistema que año a año va quedando mas obsoleto, no se puede pretender que la gente aprenda de la misma forma que hace 500 años, tampoco que hace 100
+18:11:45 - Brian Hume (@brianh20):
+Entiendo y en parte compart, y en parte no.
+Creo que un poco depende del tipo de contenido/conocimiento.
+18:11:56 - Brian Hume (@brianh20):
+no veo ningun motivo para cambiar la catedra de Finanzas por ejemplo de la carrera de administracion
+18:12:16 - Brian Hume (@brianh20):
+y no veo tampoco la necesidad de buscar los estilos 'nuevos' de enseñanza para algo que tranquilamente se puede impartir a 60 tipos al mismo tiempo
+18:13:00 - Brian Hume (@brianh20):
+por otro lado, al estructuracion de contenido a veces tambien ahce agua cuando queres cambiar el modelo
+
+yo doy el curso online de acamica y tener que tratar a cada uno por separado, cubriendo todo, y sin instancias de examen/bochazo... perjudica a todos en mi opinion
+18:14:06 - Juan Scolari (@juanscolari):
+no estoy diciendo reemplazar la facultad con cursos
+18:14:29 - Brian Hume (@brianh20):
+lo se, solo ampliaba un poco el espectro de "si no es esto, que seria lo otro" obvio que en el abanico hay mas
+18:15:40 - Juan Scolari (@juanscolari):
+que seria lo otro es parte de lo que hay que construir, pero te tiro alguna cosa que me hace ruido. el modelo de evaluar con un tiempo determinado sin poder consultar ningun tipo de fuente mas que tu memoria
+18:16:19 - Juan Scolari (@juanscolari):
+la evaluacion numerica del 1 al 10
+18:16:28 - Brian Hume (@brianh20):
+Entiendo, se pueden argumentar cosas a favor y en contra de eso
+18:16:35 - Brian Hume (@brianh20):
+de ambas cosas
+18:16:40 - Juan Scolari (@juanscolari):
+el tener que tomar apunte de las clases y que no este el material de antemano
+18:16:57 - Martín Valdés de León (@mvaldesdeleon):
+Esas cosas de a poco cambian.
+18:17:07 - Brian Hume (@brianh20):
+Van mucho por caso
+18:17:14 - Martín Valdés de León (@mvaldesdeleon):
+Para cuando yo estudie todos los profesores ponian las filminas/slides a disposicion antes de la clase
+18:17:19 - Brian Hume (@brianh20):
+a vos te gustaria qu eun medico en urgencias te diga 'ahora te atiendo, para que lo busco' ?
+18:17:20 - Martín Valdés de León (@mvaldesdeleon):
+Para que nadie tenga que andar copiando.
+18:17:35 - Martín Valdés de León (@mvaldesdeleon):
+Then again, habia profesores que seguian usando literalmente filminas
+18:17:38 - Martín Valdés de León (@mvaldesdeleon):
+con overhead projector
+18:18:27 - Brian Hume (@brianh20):
+sobre las notas, podrias decir que 'es una evaluacion subjetiva sobre un momento determinado sobre un contenido determinado' .. pero al final de cuetnas, no se pueden recibir todos por haber asistido. es muy millenial eso
+18:18:28 - Brian Hume (@brianh20):
+jajaja
+18:18:33 - Juan Scolari (@juanscolari):
+un medico que lo estudio y lo aprobo hace diez años no tiene por que acordarse. yo de la facultad me he olvidado de millones de cosas. el metodo no garantiza que permanezca en la memoria
+18:18:59 - Brian Hume (@brianh20):
+Claro, pero volvemos sobre lo mismo, los extremos son malos y no hay una solucion universal
+18:19:10 - Brian Hume (@brianh20):
+Al final de cuentas se tienen que estructurar limites y criterios
+18:19:31 - Brian Hume (@brianh20):
+nos fuimos un poco por las ramas, te podria contestar lo mismo sobre cuando te piden un code challenge, o live coding en una entrevista
+18:19:43 - Juan Scolari (@juanscolari):
+nunca va a haber solucion, pero hay que trabajar para aggiornar la educacion a los tiempos de hoy
+18:21:02 - Brian Hume (@brianh20):
+Ahora, lo que si veo perjuicioso, es que volviendo a la carrera/profesion/como-le-digan de desarrollo que hacemos los que estamos aca
+
+es que no solo no se aplican muchas de esas 'barreras'
+
+y por todos lados hay gente haciendo agua porque igual faltan programadores en todos lados
+18:21:49 - Brian Hume (@brianh20):
+terminamos siendo, como suele suceder, el otro lado de la balanza
+
+donde tenes tipos con un historial academico y experiencia que no consiguen laburo
+aca consigue laburo 'cualquiera' si insiste suficiente tiempo
+18:22:46 - Juan Scolari (@juanscolari):
+es que estamos reemplazando los trabajos de muchas personas, abogados, contadores, editores, medicos
+18:22:50 - Juan Scolari (@juanscolari):
+al automatizarlos
+18:23:02 - Juan Scolari (@juanscolari):
+“reemplazando”
+18:24:26 - Brian Hume (@brianh20):
+Si, mas ironico aun, (y algo nefasto?) que sin otra validacion que 'nos metieron en un proyecto de tal cliente' terminemos """"reemplazando"""" a un contador que tiene experiencia y firma
+18:24:44 - Brian Hume (@brianh20):
+pero bueno, es el laburo de todos reinventarse dentro de su rubro para mantenerse vivo, hoy mas que nunca
+18:24:46 - Brian Hume (@brianh20):
+.
