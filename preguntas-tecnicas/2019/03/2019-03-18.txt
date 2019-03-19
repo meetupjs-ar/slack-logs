@@ -1,0 +1,138 @@
+19:00:51 - Gonza Onisimchuk (@gonzaonisimchuk):
+hola, estamos trabajando en un sistema con ts, mongo y graphql principalmente ... cómo nos recomiendan mantener la consistencia del tipo de datos datetime entre las distintas herramientas? alguna sugerencia ?
+19:03:27 - Martín Valdés de León (@mvaldesdeleon):
+no seria especifico a ninguna de las tools pero en mi experiencia la mejor forma de mandar datetimes sin que haya bardos es usando unix timestamps
+19:03:29 - Martín Valdés de León (@mvaldesdeleon):
+en utc
+19:07:59 - Gonza Onisimchuk (@gonzaonisimchuk):
+estuvimos revisando isodates, pero nunca lo usamos en un proyecto productivo ... sabes si tiene alguna desventaja isodates contra unix timestamps?
+19:08:12 - Luis Alvarez (@luistensai):
+ts y mongo soportan Date
+19:09:21 - Luis Alvarez (@luistensai):
+<https://graphql.org/learn/schema/#scalar-types>
+19:10:26 - Luis Alvarez (@luistensai):
+tendrías que hacer que graphql serialice el field como Date antes de guardarlo y lo podés deserealizar como gustes para mandarlo a la vista supongo
+19:10:46 - Martín Valdés de León (@mvaldesdeleon):
+el tema de isodate es que puede tener cualquier timezone
+19:10:49 - Luis Alvarez (@luistensai):
+yo te recomiendo que en la bbdd guardes Dates, sino después tenés un paso más que a mi punto de vista es innecesario y puede llevar a errores
+19:10:51 - Martín Valdés de León (@mvaldesdeleon):
+asi que tenes que parsearla bien y estar atento
+19:11:26 - Martín Valdés de León (@mvaldesdeleon):
+y despues bueno, que es un string pero describe un date
+19:11:43 - Martín Valdés de León (@mvaldesdeleon):
+con timestamps basicamente es "segundos desde el epoch" (o millis si te gusta millis) y el tipo es integer
+19:11:47 - Martín Valdés de León (@mvaldesdeleon):
+lo cual tiene sentido
+19:12:13 - Martín Valdés de León (@mvaldesdeleon):
+que dps eso lo muestres como "28 de julio de 2018" es un detalle de la vista, digamos
+19:13:08 - Gustavo Machado (@machadogj):
+para mi `new Date().getTime()` ftw… :thinking_face:
+19:14:08 - Pablo Scandalo (@pscandalo):
+Tengo entendido que se puede definir un tipo escalar Custom en Graphql.. pero nunca lo hice .. <https://www.apollographql.com/docs/graphql-tools/scalars.html> En el link hay específicamente un tipo Date de ejemplo. Alguien tiene experiencia en esto?? 
+19:14:21 - Gustavo Machado (@machadogj):
+es mas molesto en los listados queries, pero suele ser menos error prone me pa…
+19:14:24 - Gustavo Machado (@machadogj):
+si no, ISO
+19:14:58 - Luis Alvarez (@luistensai):
+el ISO date se guarda con el timezone, si no tiene se asume UTC
+si dice "Z" al final, es utc, no creo que sea problema mayor el timezone...
+para mi el problema viene cuando tenés que buscar por fechas o comparar... comparar strings no es lo mismo que comparar números, timestamps o Dates (internamente mongodb sabe comparar dates y creo que lo hace más rápido que strings)
+19:15:37 - Martín Valdés de León (@mvaldesdeleon):
+Internamente Date va a ser un timestamp
+19:15:57 - Martín Valdés de León (@mvaldesdeleon):
+y comparar un numero (8 bytes) va a ser mas rapido que comparar un string de mas de 8 caracteres
+19:17:55 - Santiago Vazquez (@santi):
+para mi es ISO ftw. human readable + lo lees con cualquier lib de fechas o tool
+19:18:02 - Luis Alvarez (@luistensai):
+sí, sumado a que por ahí tenés cosas que no matchean si tenés distintos timezones
+"2018-03-18T00:00:00.000Z" es igual a "2018-03-18T03:00:00.000-03:00", pero por ahí si los comparás en mongo no son lo mismo
+19:18:28 - Luis Alvarez (@luistensai):
+mongodb guarda siempre en UTC, no guarda el timezone si usás Date
+19:19:41 - Martín Valdés de León (@mvaldesdeleon):
+es que repito, al final del dia lo que se va a guardar VA a ser un timestamp :stuck_out_tongue:
+19:19:45 - Luis Alvarez (@luistensai):
+así que tenés que tener en cuenta eso, al momento de mostrarlo, tenés que formatearlo y mostrarlo en el timezone del usuario
+19:19:48 - Martín Valdés de León (@mvaldesdeleon):
+que te lo muetren formateado como fecha es un detalle
+19:27:05 - Gonza Onisimchuk (@gonzaonisimchuk):
+el problema que se me ocurre con timestamps es que a la hora de revisar algún log no se podría identificar facilmente el dato a nivel de request por ejemplo ... puede ser? o no me estoy dando cuenta de algo?
+19:28:22 - Martín Valdés de León (@mvaldesdeleon):
+A la hora de generar un log o algo que esperas que sea interpretado por humanos vas a formatear el timestamp de otra manera.
+19:28:34 - Martín Valdés de León (@mvaldesdeleon):
+Lo mismo si tenes que mostrar una fecha en el front.
+19:40:57 - Gonza Onisimchuk (@gonzaonisimchuk):
+queda claro ... estaba pensando a otro nivel donde quisiera registrar la request sin algún procesamiento previo ... pero analizando posibles casos de uso, por ahora no lo veo necesario
+19:40:58 - Gonza Onisimchuk (@gonzaonisimchuk):
+gracias!
+19:42:58 - Martín Valdés de León (@mvaldesdeleon):
+De nada!
+19:00:51 - Gonza Onisimchuk (@gonzaonisimchuk):
+hola, estamos trabajando en un sistema con ts, mongo y graphql principalmente ... cómo nos recomiendan mantener la consistencia del tipo de datos datetime entre las distintas herramientas? alguna sugerencia ?
+19:03:27 - Martín Valdés de León (@mvaldesdeleon):
+no seria especifico a ninguna de las tools pero en mi experiencia la mejor forma de mandar datetimes sin que haya bardos es usando unix timestamps
+19:03:29 - Martín Valdés de León (@mvaldesdeleon):
+en utc
+19:07:59 - Gonza Onisimchuk (@gonzaonisimchuk):
+estuvimos revisando isodates, pero nunca lo usamos en un proyecto productivo ... sabes si tiene alguna desventaja isodates contra unix timestamps?
+19:08:12 - Luis Alvarez (@luistensai):
+ts y mongo soportan Date
+19:09:21 - Luis Alvarez (@luistensai):
+<https://graphql.org/learn/schema/#scalar-types>
+19:10:26 - Luis Alvarez (@luistensai):
+tendrías que hacer que graphql serialice el field como Date antes de guardarlo y lo podés deserealizar como gustes para mandarlo a la vista supongo
+19:10:46 - Martín Valdés de León (@mvaldesdeleon):
+el tema de isodate es que puede tener cualquier timezone
+19:10:49 - Luis Alvarez (@luistensai):
+yo te recomiendo que en la bbdd guardes Dates, sino después tenés un paso más que a mi punto de vista es innecesario y puede llevar a errores
+19:10:51 - Martín Valdés de León (@mvaldesdeleon):
+asi que tenes que parsearla bien y estar atento
+19:11:26 - Martín Valdés de León (@mvaldesdeleon):
+y despues bueno, que es un string pero describe un date
+19:11:43 - Martín Valdés de León (@mvaldesdeleon):
+con timestamps basicamente es "segundos desde el epoch" (o millis si te gusta millis) y el tipo es integer
+19:11:47 - Martín Valdés de León (@mvaldesdeleon):
+lo cual tiene sentido
+19:12:13 - Martín Valdés de León (@mvaldesdeleon):
+que dps eso lo muestres como "28 de julio de 2018" es un detalle de la vista, digamos
+19:13:08 - Gustavo Machado (@machadogj):
+para mi `new Date().getTime()` ftw… :thinking_face:
+19:14:08 - Pablo Scandalo (@pscandalo):
+Tengo entendido que se puede definir un tipo escalar Custom en Graphql.. pero nunca lo hice .. <https://www.apollographql.com/docs/graphql-tools/scalars.html> En el link hay específicamente un tipo Date de ejemplo. Alguien tiene experiencia en esto?? 
+19:14:21 - Gustavo Machado (@machadogj):
+es mas molesto en los listados queries, pero suele ser menos error prone me pa…
+19:14:24 - Gustavo Machado (@machadogj):
+si no, ISO
+19:14:58 - Luis Alvarez (@luistensai):
+el ISO date se guarda con el timezone, si no tiene se asume UTC
+si dice "Z" al final, es utc, no creo que sea problema mayor el timezone...
+para mi el problema viene cuando tenés que buscar por fechas o comparar... comparar strings no es lo mismo que comparar números, timestamps o Dates (internamente mongodb sabe comparar dates y creo que lo hace más rápido que strings)
+19:15:37 - Martín Valdés de León (@mvaldesdeleon):
+Internamente Date va a ser un timestamp
+19:15:57 - Martín Valdés de León (@mvaldesdeleon):
+y comparar un numero (8 bytes) va a ser mas rapido que comparar un string de mas de 8 caracteres
+19:17:55 - Santiago Vazquez (@santi):
+para mi es ISO ftw. human readable + lo lees con cualquier lib de fechas o tool
+19:18:02 - Luis Alvarez (@luistensai):
+sí, sumado a que por ahí tenés cosas que no matchean si tenés distintos timezones
+"2018-03-18T00:00:00.000Z" es igual a "2018-03-18T03:00:00.000-03:00", pero por ahí si los comparás en mongo no son lo mismo
+19:18:28 - Luis Alvarez (@luistensai):
+mongodb guarda siempre en UTC, no guarda el timezone si usás Date
+19:19:41 - Martín Valdés de León (@mvaldesdeleon):
+es que repito, al final del dia lo que se va a guardar VA a ser un timestamp :stuck_out_tongue:
+19:19:45 - Luis Alvarez (@luistensai):
+así que tenés que tener en cuenta eso, al momento de mostrarlo, tenés que formatearlo y mostrarlo en el timezone del usuario
+19:19:48 - Martín Valdés de León (@mvaldesdeleon):
+que te lo muetren formateado como fecha es un detalle
+19:27:05 - Gonza Onisimchuk (@gonzaonisimchuk):
+el problema que se me ocurre con timestamps es que a la hora de revisar algún log no se podría identificar facilmente el dato a nivel de request por ejemplo ... puede ser? o no me estoy dando cuenta de algo?
+19:28:22 - Martín Valdés de León (@mvaldesdeleon):
+A la hora de generar un log o algo que esperas que sea interpretado por humanos vas a formatear el timestamp de otra manera.
+19:28:34 - Martín Valdés de León (@mvaldesdeleon):
+Lo mismo si tenes que mostrar una fecha en el front.
+19:40:57 - Gonza Onisimchuk (@gonzaonisimchuk):
+queda claro ... estaba pensando a otro nivel donde quisiera registrar la request sin algún procesamiento previo ... pero analizando posibles casos de uso, por ahora no lo veo necesario
+19:40:58 - Gonza Onisimchuk (@gonzaonisimchuk):
+gracias!
+19:42:58 - Martín Valdés de León (@mvaldesdeleon):
+De nada!
