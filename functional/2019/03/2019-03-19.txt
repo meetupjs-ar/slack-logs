@@ -1,0 +1,456 @@
+05:31:19 - Martín Valdés de León (@mvaldesdeleon):
+Algo que me pone muy contento del pibe este Elm en el laburo, es que se da cuenta de cosas que estaria piola hacer. Hace unas semanas empezo a laburar en una forma de agregar typings a nuestra libreria de RPC dinamico con ES6 Proxies, que era algo que tenia pendiente hace bocha.
+05:31:24 - Martín Valdés de León (@mvaldesdeleon):
+Y es bastante challenging.
+05:31:56 - Martín Valdés de León (@mvaldesdeleon):
+pq necesito que "proyect a" sepa los types de "proyect b", sin tener una node dependency directa.
+05:32:42 - Martín Valdés de León (@mvaldesdeleon):
+Lo que hicimos fue agregar un paso mas en el pipeline de CI para que cuando buildea un proyecto, extraiga los tipos y losmande a un repositorio de tipos
+05:32:45 - Martín Valdés de León (@mvaldesdeleon):
+para todos los proyects
+05:33:14 - Martín Valdés de León (@mvaldesdeleon):
+y dps dde "proyect a" corres un comando y te buildea localmente el d.ts para RPC, en funcion de lo que le decis que te gustaria llamar
+05:33:21 - Martín Valdés de León (@mvaldesdeleon):
+pero sin tener que instalar la dependencia
+05:35:49 - Martín Valdés de León (@mvaldesdeleon):
+tengo que hablarle antes de irme y llenarle la cabeza de que no se deje pelotudear
+05:35:54 - Martín Valdés de León (@mvaldesdeleon):
+pq tiene muchisisisimo potencial
+09:21:09 - Hernan Rajchert (@sherman):
+<https://twitter.com/mwotton/status/1107655666049658881?s=21>
+09:29:07 - Martín Valdés de León (@mvaldesdeleon):
+quiero una remera con un dibujo de tipo unos manifestantes
+09:29:10 - Martín Valdés de León (@mvaldesdeleon):
+con carteles de "Free Monad!"
+09:29:15 - Martín Valdés de León (@mvaldesdeleon):
+como si fuese una persona presa o algo
+10:52:05 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+no instalas una dependencia, pero tenes un paso en el build que depende de traer data de otro repo.
+
+Se me ocurre, no seria mas consistente tener una devDependency mas en un registro privado? tu propio @types?
+10:57:03 - Martín Valdés de León (@mvaldesdeleon):
+Claro, hoy en dia hacemos algo parecido a tener nuestro propio types
+10:57:11 - Martín Valdés de León (@mvaldesdeleon):
+pero totalmente por afuera de lo que seria package.json/npm
+10:57:51 - Martín Valdés de León (@mvaldesdeleon):
+el tema es que en nuestro caso, el codigo de "projectB" nunca existe en "projectA"
+10:57:56 - Martín Valdés de León (@mvaldesdeleon):
+ni qiuiera en node_modules
+10:58:00 - Martín Valdés de León (@mvaldesdeleon):
+porque son microservicios distintos
+10:58:31 - Martín Valdés de León (@mvaldesdeleon):
+No es un paso en el build. Es un paso que corres cuando haces local dev
+10:58:35 - Martín Valdés de León (@mvaldesdeleon):
+Y solo te trae los typings
+11:01:20 - Martín Valdés de León (@mvaldesdeleon):
+Pero eventualmente se podria usar algo tipo types, con el caveat de tener un repo por microservice solo para types
+11:01:34 - Martín Valdés de León (@mvaldesdeleon):
+y tener que asegurarte que el build job del microservice X hace un npm publish en el types repo
+11:01:42 - Martín Valdés de León (@mvaldesdeleon):
+porque cada service tiene multiples versiones, y cada version tiene sus typings
+11:03:16 - Gonza Gluzman (@gonza):
+<@U0DHEL1PC>, esto te suena que sería un caso para lo que veníamos haciendo?
+11:08:27 - Hernan Rajchert (@sherman):
+Totalmente... sacando que nos cuesta reunirnos para avanzarlo :face_palm: 
+11:09:03 - Martín Valdés de León (@mvaldesdeleon):
+El centro de la cuestion es que para hacer RPC entre microservicios usamos un ES6 proxy como mostre en la nodeconf
+11:09:15 - Martín Valdés de León (@mvaldesdeleon):
+entonces los servicios realmente no dependen entre si, todos dependen del proxy
+11:09:35 - Martín Valdés de León (@mvaldesdeleon):
+y el proxy te deja hacer `PROXY.serviceX.methodQ(1,2,3)` y detras de escena eso se transforma en un request http y bla
+11:10:05 - Martín Valdés de León (@mvaldesdeleon):
+y lo que estamos haciendo ahora es agregarle los typings a `PROXY` en funcion de tus "microservice dependencies"
+11:50:46 - Leandro Echevarria (@echevarrialeandro):
+Me gustó esto
+12:22:21 - gillchristian (@gillchristian):
+No se dice algo asi sin explicar que es :wink:
+12:36:59 - Hernan Rajchert (@sherman):
+ya lo pusimos un par de veces… lo de swagger + TS
+12:37:13 - Hernan Rajchert (@sherman):
+pero avanza poco :point_right::point_left:
+14:03:31 - gillchristian (@gillchristian):
+ahhhhh never mind
+14:03:55 - gillchristian (@gillchristian):
+pense que era algo bien puntual de esto de types entre proyectos
+14:20:41 - Julian (@jantonielli01):
+<https://twitter.com/Iceland_jack/status/1108007271425024001>
+14:23:20 - Julian (@jantonielli01):
+q paja, empece a seguir a varios haskellers y ahora me spammean el feed con retweets de la biblia
+14:26:44 - Julian (@jantonielli01):
+&gt;&gt;&gt; Various numeric types are all converted to a number, rounded down if you are converting into an integer (so "-1.2" gets decoded as −2). Beware that if you are parsing an Integer, someone can write 1e1000000000000 in JSON and your program will eat all your memory.
+14:26:46 - Julian (@jantonielli01):
+Lol
+14:32:15 - Hernan Rajchert (@sherman):
+no entiendo igual porque terminé leyendo el “manifesto” del chabon…
+15:35:57 - Martín Valdés de León (@mvaldesdeleon):
+jaj, me acaba de caer la ficha de todo el HD-mental que voy a liberar cuando finalmente termine mi contrato actual
+15:36:17 - Martín Valdés de León (@mvaldesdeleon):
+todo el conocimiento especifico del codigo/proyectos que ahora pasa a ser 100% inutil
+16:02:43 - gillchristian (@gillchristian):
+ ¯\_(ツ)_/¯
+16:02:55 - gillchristian (@gillchristian):
+7 años estuviste, no ?
+16:15:01 - Gonza Gluzman (@gonza):
+En donde estoy hay MUCHO de eso
+16:15:26 - Gonza Gluzman (@gonza):
+Es horrible, cuando entrás no entendés nada
+16:45:10 - Martín Valdés de León (@mvaldesdeleon):
+Seh, 7.
+16:46:27 - Martín Valdés de León (@mvaldesdeleon):
+Lo que es un garron... le conte a mi jefe actual y jefe anterior (me cambiaron de departamento hace poquito), y los dos shock, como puede ser.
+Le conte a algunos coworkers, y todos "duh... me preguntaba por que no te fuiste antes".
+16:46:36 - Martín Valdés de León (@mvaldesdeleon):
+No puedo creer que haya semejante nivel de desconexion o negacion.
+16:46:51 - Julian (@jantonielli01):
+jajajaj
+16:47:09 - Julian (@jantonielli01):
+y estaban decepcionados o algo?
+16:47:15 - Martín Valdés de León (@mvaldesdeleon):
+Nah.
+16:47:26 - Martín Valdés de León (@mvaldesdeleon):
+Es muy facil vender que "es una oportunidad que no puedo dejar pasar"
+16:47:28 - Martín Valdés de León (@mvaldesdeleon):
+porque lo es.
+16:47:42 - Martín Valdés de León (@mvaldesdeleon):
+Seria distinto si me estuviera yendo a una empresa random a hacer lo mismo.
+16:48:16 - Gonzalo González Mora (@gonzalogm):
+Por qué creés que se da esa desconexión?
+16:48:49 - Martín Valdés de León (@mvaldesdeleon):
+Ni idea.
+16:49:27 - Martín Valdés de León (@mvaldesdeleon):
+Quiza tambien viven en una burbuja y los estan explotando a mis jefes tambien y no lo saben.
+16:49:34 - Gonzalo González Mora (@gonzalogm):
+Claro
+16:49:43 - Martín Valdés de León (@mvaldesdeleon):
+O son concientes que no pueden hacer nada para cambiar las condiciones y prefieren mejor ni preguntar.
+16:49:50 - Martín Valdés de León (@mvaldesdeleon):
+Pero te estoy inventando teorias.
+16:50:33 - Gonzalo González Mora (@gonzalogm):
+jaja claro
+05:31:19 - Martín Valdés de León (@mvaldesdeleon):
+Algo que me pone muy contento del pibe este Elm en el laburo, es que se da cuenta de cosas que estaria piola hacer. Hace unas semanas empezo a laburar en una forma de agregar typings a nuestra libreria de RPC dinamico con ES6 Proxies, que era algo que tenia pendiente hace bocha.
+05:31:24 - Martín Valdés de León (@mvaldesdeleon):
+Y es bastante challenging.
+05:31:56 - Martín Valdés de León (@mvaldesdeleon):
+pq necesito que "proyect a" sepa los types de "proyect b", sin tener una node dependency directa.
+05:32:42 - Martín Valdés de León (@mvaldesdeleon):
+Lo que hicimos fue agregar un paso mas en el pipeline de CI para que cuando buildea un proyecto, extraiga los tipos y losmande a un repositorio de tipos
+05:32:45 - Martín Valdés de León (@mvaldesdeleon):
+para todos los proyects
+05:33:14 - Martín Valdés de León (@mvaldesdeleon):
+y dps dde "proyect a" corres un comando y te buildea localmente el d.ts para RPC, en funcion de lo que le decis que te gustaria llamar
+05:33:21 - Martín Valdés de León (@mvaldesdeleon):
+pero sin tener que instalar la dependencia
+05:35:49 - Martín Valdés de León (@mvaldesdeleon):
+tengo que hablarle antes de irme y llenarle la cabeza de que no se deje pelotudear
+05:35:54 - Martín Valdés de León (@mvaldesdeleon):
+pq tiene muchisisisimo potencial
+09:21:09 - Hernan Rajchert (@sherman):
+<https://twitter.com/mwotton/status/1107655666049658881?s=21>
+09:29:07 - Martín Valdés de León (@mvaldesdeleon):
+quiero una remera con un dibujo de tipo unos manifestantes
+09:29:10 - Martín Valdés de León (@mvaldesdeleon):
+con carteles de "Free Monad!"
+09:29:15 - Martín Valdés de León (@mvaldesdeleon):
+como si fuese una persona presa o algo
+10:52:05 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+no instalas una dependencia, pero tenes un paso en el build que depende de traer data de otro repo.
+
+Se me ocurre, no seria mas consistente tener una devDependency mas en un registro privado? tu propio @types?
+10:57:03 - Martín Valdés de León (@mvaldesdeleon):
+Claro, hoy en dia hacemos algo parecido a tener nuestro propio types
+10:57:11 - Martín Valdés de León (@mvaldesdeleon):
+pero totalmente por afuera de lo que seria package.json/npm
+10:57:51 - Martín Valdés de León (@mvaldesdeleon):
+el tema es que en nuestro caso, el codigo de "projectB" nunca existe en "projectA"
+10:57:56 - Martín Valdés de León (@mvaldesdeleon):
+ni qiuiera en node_modules
+10:58:00 - Martín Valdés de León (@mvaldesdeleon):
+porque son microservicios distintos
+10:58:31 - Martín Valdés de León (@mvaldesdeleon):
+No es un paso en el build. Es un paso que corres cuando haces local dev
+10:58:35 - Martín Valdés de León (@mvaldesdeleon):
+Y solo te trae los typings
+11:01:20 - Martín Valdés de León (@mvaldesdeleon):
+Pero eventualmente se podria usar algo tipo types, con el caveat de tener un repo por microservice solo para types
+11:01:34 - Martín Valdés de León (@mvaldesdeleon):
+y tener que asegurarte que el build job del microservice X hace un npm publish en el types repo
+11:01:42 - Martín Valdés de León (@mvaldesdeleon):
+porque cada service tiene multiples versiones, y cada version tiene sus typings
+11:03:16 - Gonza Gluzman (@gonza):
+<@U0DHEL1PC>, esto te suena que sería un caso para lo que veníamos haciendo?
+11:08:27 - Hernan Rajchert (@sherman):
+Totalmente... sacando que nos cuesta reunirnos para avanzarlo :face_palm: 
+11:09:03 - Martín Valdés de León (@mvaldesdeleon):
+El centro de la cuestion es que para hacer RPC entre microservicios usamos un ES6 proxy como mostre en la nodeconf
+11:09:15 - Martín Valdés de León (@mvaldesdeleon):
+entonces los servicios realmente no dependen entre si, todos dependen del proxy
+11:09:35 - Martín Valdés de León (@mvaldesdeleon):
+y el proxy te deja hacer `PROXY.serviceX.methodQ(1,2,3)` y detras de escena eso se transforma en un request http y bla
+11:10:05 - Martín Valdés de León (@mvaldesdeleon):
+y lo que estamos haciendo ahora es agregarle los typings a `PROXY` en funcion de tus "microservice dependencies"
+11:50:46 - Leandro Echevarria (@echevarrialeandro):
+Me gustó esto
+12:22:21 - gillchristian (@gillchristian):
+No se dice algo asi sin explicar que es :wink:
+12:36:59 - Hernan Rajchert (@sherman):
+ya lo pusimos un par de veces… lo de swagger + TS
+12:37:13 - Hernan Rajchert (@sherman):
+pero avanza poco :point_right::point_left:
+14:03:31 - gillchristian (@gillchristian):
+ahhhhh never mind
+14:03:55 - gillchristian (@gillchristian):
+pense que era algo bien puntual de esto de types entre proyectos
+14:20:41 - Julian (@jantonielli01):
+<https://twitter.com/Iceland_jack/status/1108007271425024001>
+14:23:20 - Julian (@jantonielli01):
+q paja, empece a seguir a varios haskellers y ahora me spammean el feed con retweets de la biblia
+14:26:44 - Julian (@jantonielli01):
+&gt;&gt;&gt; Various numeric types are all converted to a number, rounded down if you are converting into an integer (so "-1.2" gets decoded as −2). Beware that if you are parsing an Integer, someone can write 1e1000000000000 in JSON and your program will eat all your memory.
+14:26:46 - Julian (@jantonielli01):
+Lol
+14:32:15 - Hernan Rajchert (@sherman):
+no entiendo igual porque terminé leyendo el “manifesto” del chabon…
+15:35:57 - Martín Valdés de León (@mvaldesdeleon):
+jaj, me acaba de caer la ficha de todo el HD-mental que voy a liberar cuando finalmente termine mi contrato actual
+15:36:17 - Martín Valdés de León (@mvaldesdeleon):
+todo el conocimiento especifico del codigo/proyectos que ahora pasa a ser 100% inutil
+16:02:43 - gillchristian (@gillchristian):
+ ¯\_(ツ)_/¯
+16:02:55 - gillchristian (@gillchristian):
+7 años estuviste, no ?
+16:15:01 - Gonza Gluzman (@gonza):
+En donde estoy hay MUCHO de eso
+16:15:26 - Gonza Gluzman (@gonza):
+Es horrible, cuando entrás no entendés nada
+16:45:10 - Martín Valdés de León (@mvaldesdeleon):
+Seh, 7.
+16:46:27 - Martín Valdés de León (@mvaldesdeleon):
+Lo que es un garron... le conte a mi jefe actual y jefe anterior (me cambiaron de departamento hace poquito), y los dos shock, como puede ser.
+Le conte a algunos coworkers, y todos "duh... me preguntaba por que no te fuiste antes".
+16:46:36 - Martín Valdés de León (@mvaldesdeleon):
+No puedo creer que haya semejante nivel de desconexion o negacion.
+16:46:51 - Julian (@jantonielli01):
+jajajaj
+16:47:09 - Julian (@jantonielli01):
+y estaban decepcionados o algo?
+16:47:15 - Martín Valdés de León (@mvaldesdeleon):
+Nah.
+16:47:26 - Martín Valdés de León (@mvaldesdeleon):
+Es muy facil vender que "es una oportunidad que no puedo dejar pasar"
+16:47:28 - Martín Valdés de León (@mvaldesdeleon):
+porque lo es.
+16:47:42 - Martín Valdés de León (@mvaldesdeleon):
+Seria distinto si me estuviera yendo a una empresa random a hacer lo mismo.
+16:48:16 - Gonzalo González Mora (@gonzalogm):
+Por qué creés que se da esa desconexión?
+16:48:49 - Martín Valdés de León (@mvaldesdeleon):
+Ni idea.
+16:49:27 - Martín Valdés de León (@mvaldesdeleon):
+Quiza tambien viven en una burbuja y los estan explotando a mis jefes tambien y no lo saben.
+16:49:34 - Gonzalo González Mora (@gonzalogm):
+Claro
+16:49:43 - Martín Valdés de León (@mvaldesdeleon):
+O son concientes que no pueden hacer nada para cambiar las condiciones y prefieren mejor ni preguntar.
+16:49:50 - Martín Valdés de León (@mvaldesdeleon):
+Pero te estoy inventando teorias.
+16:50:33 - Gonzalo González Mora (@gonzalogm):
+jaja claro
+16:50:36 - Gonzalo González Mora (@gonzalogm):
+Eso te iba a preguntar, cada tanto tenías charlas donde te pregunten cuál es tu status?
+16:52:43 - Martín Valdés de León (@mvaldesdeleon):
+Si, pero hoy pensaba, lo que me tendrian que haber preguntado, y lo que yo preguntaria el dia que me toque ser jefe, es "Como podemos ayudarte a avanzar y crecer profesionalmente, durante los proximos 5 años? Que necesitas de nosotros? Oportunidades en otras tecnologias? Mas responsabilidades? Que te ayudemos a dar charlas?"
+16:53:14 - Martín Valdés de León (@mvaldesdeleon):
+Y ser honestos cuando no se pueden cumplir las expectativas y ayudar a pasar a la siguiente etapa en otra empresa.
+16:53:23 - Gonzalo González Mora (@gonzalogm):
+Exacto
+16:53:45 - Gonzalo González Mora (@gonzalogm):
+Porque con toda la oferta laboral que hay, evitar esa charla es aún peor me parece
+16:54:06 - Gonzalo González Mora (@gonzalogm):
+(sabiendo que pueden llegar hasta X nivel)
+16:54:36 - Julian (@jantonielli01):
+Recién vi esto <https://cachix.org/#home>
+16:54:40 - Julian (@jantonielli01):
+esta piola
+16:56:04 - Leandro Echevarria (@echevarrialeandro):
+Hoy no hay una meetup de Nix en el Rlyeh hacklab justo?
+16:56:08 - Leandro Echevarria (@echevarrialeandro):
+Si no vi mal
+16:57:39 - Martín Valdés de León (@mvaldesdeleon):
+<https://twitter.com/rlyehlab/status/1108023793321209862>
+16:57:40 - Martín Valdés de León (@mvaldesdeleon):
+Nim
+16:57:53 - Julian (@jantonielli01):
+No los conocía a esos
+16:57:59 - Martín Valdés de León (@mvaldesdeleon):
+Same.
+16:58:00 - Leandro Echevarria (@echevarrialeandro):
+Le erré por una :joy:
+16:58:38 - Julian (@jantonielli01):
+hmm <https://nim-lang.org/>
+16:58:42 - Julian (@jantonielli01):
+se ve aburrido
+16:59:00 - Martín Valdés de León (@mvaldesdeleon):
+Para mi siempre garpa ir a meetups de lenguajes random y ver a alguien hablar y mostrar cosas
+16:59:06 - Martín Valdés de León (@mvaldesdeleon):
+mejor q formar opinion en base a un blogpost
+17:00:07 - Leandro Echevarria (@echevarrialeandro):
+Nunca se sabe donde vas a encontrar el proximo lenguaje (?
+17:00:26 - Leandro Echevarria (@echevarrialeandro):
+Hace rato quiero caer a ese hacklab y por A o por B nunca puedo :facepalm:
+17:00:42 - Leandro Echevarria (@echevarrialeandro):
+No está abierto todos los días
+17:01:05 - Julian (@jantonielli01):
+Se, I guess <@U0TFEHWEA>, a priori me parecio un crystal más
+17:01:19 - Julian (@jantonielli01):
+La mayoria de los lenguajes son aburridos
+17:01:29 - Martín Valdés de León (@mvaldesdeleon):
+Al menos los aburridos.
+17:01:38 - Julian (@jantonielli01):
+: p
+17:02:20 - Martín Valdés de León (@mvaldesdeleon):
+seria una idea piola para un libro
+17:02:26 - Martín Valdés de León (@mvaldesdeleon):
+un "muestrario de lenguajes"
+17:02:27 - Julian (@jantonielli01):
+pero bueno, no tengo q ser tan bobo de blubearme (<http://wiki.c2.com/?BlubParadox>)
+17:02:29 - Martín Valdés de León (@mvaldesdeleon):
+como para hojear en el baño
+17:02:35 - Martín Valdés de León (@mvaldesdeleon):
+1 pagina por lenguaje
+17:02:38 - Martín Valdés de León (@mvaldesdeleon):
+o 2
+17:02:41 - Martín Valdés de León (@mvaldesdeleon):
+describiendote las main features
+17:02:47 - Martín Valdés de León (@mvaldesdeleon):
+mostrandote un par de snippets
+17:02:56 - Julian (@jantonielli01):
+Creo que en la UTN tienen una matería así
+17:03:23 - Julian (@jantonielli01):
+Aunque no sé, se me hace que para peekear tu curiosidad, necesitas bastante más tiempo
+17:03:49 - Leandro Echevarria (@echevarrialeandro):
+Ni que fuera una pintureria para elegir tan al tiro :joy:
+17:04:06 - Martín Valdés de León (@mvaldesdeleon):
+si, por eso dije que el target es "libro que hojeas mientras cagas"
+17:04:12 - Martín Valdés de León (@mvaldesdeleon):
+:stuck_out_tongue:
+17:04:20 - Julian (@jantonielli01):
+Dsp de haber aprendido C/Lisp/Haskell/(Ruby|SmallTalk|cualquier otro oop) no se cuanto más hay en la vida real
+17:04:37 - Julian (@jantonielli01):
+Me falta rust y darle más bola a prolog
+17:04:39 - Martín Valdés de León (@mvaldesdeleon):
+Hay cosas divertidas
+17:04:44 - Martín Valdés de León (@mvaldesdeleon):
+tipo APL
+17:05:29 - Martín Valdés de León (@mvaldesdeleon):
+pero aun a la lista que pusiste, tenes q sumar cosas
+17:05:49 - Martín Valdés de León (@mvaldesdeleon):
+Pascal, Python, Go, Java, asm, Logo...
+17:06:08 - Julian (@jantonielli01):
+Nombre los que considero "big 4"
+17:06:08 - Leandro Echevarria (@echevarrialeandro):
+Jajajajaj excelente el target
+17:06:09 - Martín Valdés de León (@mvaldesdeleon):
+Yo creo que podes armar una lista de 50.
+17:06:18 - Martín Valdés de León (@mvaldesdeleon):
+dignos de ser mencionados
+17:06:21 - Julian (@jantonielli01):
+Los demás tienen minimas diferencias derivadas
+17:06:44 - Julian (@jantonielli01):
+Creo que aprendiendo esos 4 + asm (aunque c es basic sugar sobre asm), no hay tantas ideas más
+17:06:50 - Martín Valdés de León (@mvaldesdeleon):
+todos tienen cosas interesantes para mencionar
+17:06:53 - Julian (@jantonielli01):
+*Al menos en los de la industría*
+17:07:40 - Martín Valdés de León (@mvaldesdeleon):
+Pascal por ejemplo tiene `:=` como assignment operator.
+17:07:44 - Martín Valdés de León (@mvaldesdeleon):
+porque `=` es para comparar
+17:07:54 - Martín Valdés de León (@mvaldesdeleon):
+como personas sensatas
+17:08:19 - Julian (@jantonielli01):
+Meh
+17:08:28 - Hernan Rajchert (@sherman):
+Pascal fue mi primer lenguaje, me encataba eso del `:=`
+17:08:41 - Martín Valdés de León (@mvaldesdeleon):
+ok, no te voy a mandar la copia gratis Julian.
+17:09:33 - Hernan Rajchert (@sherman):
+en la secundaria me habia hecho un tetris usando el modo gráfico… no sabia usar ni punteros ni arrays, asi que para ver si tenia una pieza abajo me fijaba el color de la pantalla
+17:10:01 - Julian (@jantonielli01):
+aajaja
+17:10:21 - Martín Valdés de León (@mvaldesdeleon):
+esta bien, es como hacer zbuffering
+17:10:22 - Julian (@jantonielli01):
+yo hacía niveles en el starcraft con el editor de mapas
+17:10:42 - Julian (@jantonielli01):
+estaba piola porque tenía su propio lenguaje + un coso para codear en gui
+17:11:10 - Martín Valdés de León (@mvaldesdeleon):
+mis mayores logros del secundario fueron armar librerias de C para usar el mouse, para usar mode 13h y para usar vesa
+17:11:12 - Julian (@jantonielli01):
+Lo gracioso era que si usabas el editor GUI, no tenías variables locales
+17:11:15 - Martín Valdés de León (@mvaldesdeleon):
+wrappeando snippets de asm
+17:11:37 - Julian (@jantonielli01):
+Entonces si codeabas un skill, solo lo podía usar un jugador a la vez porque sino se rompía jajaj
+17:11:46 - Martín Valdés de León (@mvaldesdeleon):
+tb me arme una libreria para leer bitmaps, y combinando todo habia programado algunas demos con sprites y demas
+17:14:30 - Leandro Echevarria (@echevarrialeandro):
+sc2 :heart:
+17:15:01 - Julian (@jantonielli01):
+ah, manqueé
+17:15:17 - Julian (@jantonielli01):
+era el sc1, brood war
+17:16:01 - Julian (@jantonielli01):
+estos buenos errores
+17:21:34 - Leandro Echevarria (@echevarrialeandro):
+Para que los leas en el baño
+17:22:03 - Julian (@jantonielli01):
+_"Con nix las cosas simplemente funcionan"_
+17:27:41 - Hernan Rajchert (@sherman):
+TODO el software está roto :man-shrugging::skin-tone-2:
+17:28:04 - Julian (@jantonielli01):
+no el que yo escribo
+17:28:09 - Hernan Rajchert (@sherman):
+<https://www.youtube.com/watch?v=0riSpvps4mA>
+17:28:31 - Hernan Rajchert (@sherman):
+veni, traelo, yo te lo rompo :troll:
+17:28:34 - Julian (@jantonielli01):
+_mentía más que macri_
+18:23:57 - Juan Bono (@juanbono):
+Te faltó Erlang/elixir o pony
+18:25:07 - Juan Bono (@juanbono):
+Mozart/Oz parece copado también para ver qué onda
+18:36:02 - Juan Bono (@juanbono):
+Awantiii
+19:17:09 - Martín Valdés de León (@mvaldesdeleon):
+ok, nada que ver con nada, pero me acabo de hacer una taza de te, y la taza esta emitiendo un sonido
+19:17:12 - Martín Valdés de León (@mvaldesdeleon):
+tipo "trtrtrtrtrtrtrtrt"
+19:17:17 - Martín Valdés de León (@mvaldesdeleon):
+no tengo la mas puta idea que puede ser
+19:19:24 - Martín Valdés de León (@mvaldesdeleon):
+tipo un redoble, con ~8 clicks por segundo
+19:20:30 - Juan Bono (@juanbono):
+Jajaja capaz antes estaba muy fría y ahora con el calor se está cortando
+19:21:01 - Martín Valdés de León (@mvaldesdeleon):
+a medida que se enfria el te la frecuencia baja
+19:21:07 - Martín Valdés de León (@mvaldesdeleon):
+ahora es ~4 clicks por segundo
+19:25:03 - Gonza Gluzman (@gonza):
+Eso pasa por tomar té
+19:25:10 - Gonza Gluzman (@gonza):
+No al té, sí a las drogas
+19:35:59 - Juan Bono (@juanbono):
+Todas la tazas están rotas
+20:09:30 - gillchristian (@gillchristian):
+Vos nos tenés que decir
+20:09:35 - gillchristian (@gillchristian):
+Sos el ingeniero químico
+20:09:39 - gillchristian (@gillchristian):
+¯\_(ツ)_/¯
+20:10:29 - Martín Valdés de León (@mvaldesdeleon):
+Licenciado
+20:10:34 - Martín Valdés de León (@mvaldesdeleon):
+:stuck_out_tongue:
+20:13:17 - gillchristian (@gillchristian):
+Close enough
