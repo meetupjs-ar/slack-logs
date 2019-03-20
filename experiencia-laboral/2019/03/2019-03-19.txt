@@ -1,0 +1,1270 @@
+10:19:49 - Santiago Ruffino (@santi_0898):
+Hola pipol. Como andan? Lo tiro por aca porque no tengo idea de donde escribirlo. Quiero empezar a meterme en los laburitos de freelance, para ganar exp y para poder empezar a manejar mis tiempos. Hace tiempo ando pensando en dar un salto en el trabajo, pero la falta de exp me juega muy en contra. Asi que pense en ponerlo aca en el Slack este, y si alguno necesita una mano extra para un proyecto, lo podemos hablar. No espero hacerme millonario, asi que la idea es cobrar poco asi puedo ir arrancando. Espero sus propuestas laborales ?)
+10:20:46 - Martín Valdés de León (@mvaldesdeleon):
+Santi, por todo lo que contas que haces diria que es imposible que la falta de experiencia te juegue en contra.
+10:20:53 - Martín Valdés de León (@mvaldesdeleon):
+Animate y mandate.
+10:22:15 - Santiago Ruffino (@santi_0898):
+Gracias Martin! El problema es que hago poco de mucho. Y aca en la empresa sirve. Pero en otro lado, no mucho
+10:22:48 - Santiago Ruffino (@santi_0898):
+Cuando me hacen 2 preguntas tecnicas de algun lenguaje, me caga.
+10:23:13 - Gonza Gluzman (@gonza):
+Estás seguro?
+10:23:18 - Gonza Gluzman (@gonza):
+Hiciste la prueba?
+10:23:33 - Gonza Gluzman (@gonza):
+Para los freelance CREO que muchas veces no hay prueba técnica
+10:23:44 - Gonza Gluzman (@gonza):
+Depende cómo sea el contacto, supongo
+10:23:45 - Martín Valdés de León (@mvaldesdeleon):
+Lo que te falte lo vas a aprender haciendo los proyectos.
+10:23:50 - Santiago Ruffino (@santi_0898):
+Tuve dos entrevistas, y me fue maomeno en la parte tecnica.
+10:24:08 - Gonza Gluzman (@gonza):
+Bueno, entonces sabés en dónde ajustar
+10:24:11 - Santiago Ruffino (@santi_0898):
+Para lo freelance, recien estoy empezando. Todavia no agarre nada asi que no puedo hablar mucho por ese lado
+10:24:11 - Gonza Gluzman (@gonza):
+De todos modos:
+10:24:23 - Santiago Ruffino (@santi_0898):
+Igual, aunque trabajo con muchas cosas, recien tengo 1 año como dev
+10:24:33 - Gonza Gluzman (@gonza):
+las entrevistas técnicas varían MUCHÍSIMO de un lugar a otro
+10:24:40 - Aldo Sorbara (@aldo1891):
+Las entrevistas son practica, cuantos mas hagas mejor lo vas a hacer
+10:24:49 - Gonza Gluzman (@gonza):
+Hay criterios distintos para decir qué está bueno y qué no
+10:25:13 - Rodrigo Ali (@rodrigojali):
+Jajajaja, estoy más o menos en el mismo punto que Santi. Yo por ahora me lo estoy tomando con calma pero creo que a mediados de año voy a empezar una especie de búsqueda pasiva de side-proyects chicos para Freelo.
+10:25:39 - Rodrigo Ali (@rodrigojali):
+Porque considero que es mucho de lo que dicen los chicos, está en mandarse la cosa. Si tenés inglés y ya laburaste durante un tiempo, el resto es aprender las cosas que te hagan falta para sacar andando el proyecto.
+10:25:56 - Rodrigo Ali (@rodrigojali):
+Como Freelo a los chabones en general les va a importar más que saques andando lo que te piden y no tanto cómo lo hiciste.
+10:25:57 - Aldo Sorbara (@aldo1891):
+Me paso muchas veces de irme mal en una entrevista tecnica y despues otro compañero que hacia exactamente lo mismo que yo entró, solo por tener mas exp en hacer entrevistas. Creo que es algo que, estes o no buscando laburo, es bueno hacer cada tanto (tener entrevistas)
+10:28:02 - Santiago Ruffino (@santi_0898):
+Es la idea. Nunca tuve entrevistas laborales, entonces quiero ganas un poco de exp ahi
+10:28:05 - Rodrigo Ali (@rodrigojali):
+Y justamente como a la mayoría no les importa cómo lo hagas mientras lo hagas rápido y más o menos bonito, es que pega TANTO Wordpress.
+10:29:24 - Santiago Ruffino (@santi_0898):
+Jajaja
+10:29:54 - Santiago Ruffino (@santi_0898):
+Yo voy a empezar un par de proyectos personales, para ganar experiencia. Pero bueno, si alguno tiene ALGO, y cree que le puedo servir, me gustaria laburar en un proyecto "real"
+10:30:19 - Martín Valdés de León (@mvaldesdeleon):
+En mi ultima tanda de busqueda laboral, la primer empresa me rechazo sin siquiera llamarme por telefono. Despues un par mas me bocharon en el tecnico, y eventualmente consegui una oferta.
+10:30:26 - Martín Valdés de León (@mvaldesdeleon):
+Es practica.
+10:31:42 - Santiago Ruffino (@santi_0898):
+Totalmente, Y ver que tanto te podes vender
+10:31:46 - Santiago Ruffino (@santi_0898):
+Para que la empresa diga "Wow, lo quiero"
+10:32:04 - Jorge Cano (@jorgeucano):
+para mi al que te entreviste le tenes que decir
+10:32:19 - Jorge Cano (@jorgeucano):
+mira, mas alla de como me vaya, quiero que sepas que estuve en el utlimo año haciendo todo esto
+10:32:23 - Jorge Cano (@jorgeucano):
+y le tiras la catarata de cosas
+10:32:43 - Jorge Cano (@jorgeucano):
+es importante para algunos team tener alguien que puede cambiar de posicion rapido por algun motivo expecifico
+10:34:18 - Silvio Messina (@smessina):
+o simplemente decir: Hola, soy <@U9KMYNJMV>... tal vez me recuerden en participaciones como en el Slack de Meetup.js
+10:35:54 - Jorge Cano (@jorgeucano):
+como referencia de anteriores laburos pone =&gt; <https://slack.meetupjs.com.ar/>
+10:45:01 - Santiago Ruffino (@santi_0898):
+Ustedes son la mejor referencia que tengo. Jajaja
+10:54:51 - Pedro (@pedro461):
+<@U9KMYNJMV> pasame tu cv, o linkedIn.. siempre tengo laburo para dar
+10:59:38 - Gabriel Fusca (@gfuscax):
+Lo mismo <@U9KMYNJMV> pasame tu cv o linkedin
+11:00:56 - Santiago Ruffino (@santi_0898):
+<https://www.linkedin.com/in/santiago-javier-ruffino/>
+11:01:09 - Santiago Ruffino (@santi_0898):
+Mi CV esta en proceso de actualizacion. Hoy o mañana lo voy a terminar
+11:01:32 - Rodrigo Ali (@rodrigojali):
+Yo no entiendo el punto de pedir CV cuando tenés linkedin, la verda.
+11:01:38 - Rodrigo Ali (@rodrigojali):
+Pero quién soy para juzgar.
+11:02:21 - Gabriel Fusca (@gfuscax):
+Si, con tener info actualizada alcanza
+11:02:25 - Rodrigo Ali (@rodrigojali):
+Claro.
+11:02:51 - Rodrigo Ali (@rodrigojali):
+Más viendo lo que le pasó al otro loco cuando le vieron la foto del CV jajajaja que contó el desplante que le hizo el recruiter rockstar ese.
+11:03:09 - Santiago Ruffino (@santi_0898):
+Yo puse una foto linda por las dudas ?)
+11:03:21 - Rodrigo Ali (@rodrigojali):
+Vos *SOS* lindo
+11:08:13 - Pedro (@pedro461):
+con el linkedIn me conformo, pero muchas veces el cliente quiere igual el CV, por eso lo pido
+11:08:58 - Pedro (@pedro461):
+igual <@U9KMYNJMV> como que no me dice que tecnologías manejas el linkedIn jaja
+11:09:10 - Gonza Gluzman (@gonza):
+Maneja todas
+11:10:50 - Gonzalo González Mora (@gonzalogm):
+Te mandé request. De una, para freelance sirve bocha poder adaptarte tan rápido a diferentes cosas
+11:14:52 - Santiago Ruffino (@santi_0898):
+Si, voy a actualizar un poco mas el perfil
+11:14:53 - Santiago Ruffino (@santi_0898):
+Jajaja
+11:18:09 - Diego Harari (@diehara):
+Me sumo a las consultas. En mi caso estoy cambiando de rumbo laboral. Sin experiencia como dev pero si con mucha xp de entregas deadlines trabajo en equipo( laburo en tv arra de post ) Eso suma al pedir remuneracion ? O sos un jr mas como si tuviese 20 años? Tambien tengo ingles advanced 
+11:20:19 - Rodrigo Ali (@rodrigojali):
+Lo relevante es la experiencia laboral en el campo. Podés tener 30 años laburando en una fábrica de montaje como delivery manager, pero si aplicás para dev sin experiencia previa como dev, vas a ser un Jr.
+11:21:54 - Juan Scolari (@juanscolari):
+Igualmente el camino para alguien que ya tiene trabajando varios años es mas corto que para alguien con 18 años
+11:22:34 - Juan Scolari (@juanscolari):
+Parte del salto de jr a lo siguiente tiene mucho que ver con cosas que no son solo codear
+11:22:39 - Diego Harari (@diehara):
+Y el ingles suma para incorporarte o para pedir mayor remuneracion?
+11:22:44 - Diego Harari (@diehara):
+Claro eso lo se
+11:22:48 - Gonzalo González Mora (@gonzalogm):
+Sí, obvio que suma
+11:23:15 - Gonzalo González Mora (@gonzalogm):
+Te permite laburar en empresas que trabajan con clientes de afuera y que pueden pagar más
+11:23:17 - Juan Scolari (@juanscolari):
+Te abre las posibilidades para laburar para afuera
+11:23:17 - Rodrigo Ali (@rodrigojali):
+Creo que suma para incorporarte, no creo que sume para pedir más plata. Pero no sé.
+11:23:30 - Diego Harari (@diehara):
+claro
+11:23:34 - Rodrigo Ali (@rodrigojali):
+Claro, te abre puerta a mejores laburos.
+11:23:41 - Gonzalo González Mora (@gonzalogm):
+A futuro te permite palanquear con que podés laburar para afuera y negociar mejor sueld oa pesar de que sigas en uan empresa de a´ca
+11:23:41 - Juan Scolari (@juanscolari):
+Podes aplicar a mejores laburos
+10:19:49 - Santiago Ruffino (@santi_0898):
+Hola pipol. Como andan? Lo tiro por aca porque no tengo idea de donde escribirlo. Quiero empezar a meterme en los laburitos de freelance, para ganar exp y para poder empezar a manejar mis tiempos. Hace tiempo ando pensando en dar un salto en el trabajo, pero la falta de exp me juega muy en contra. Asi que pense en ponerlo aca en el Slack este, y si alguno necesita una mano extra para un proyecto, lo podemos hablar. No espero hacerme millonario, asi que la idea es cobrar poco asi puedo ir arrancando. Espero sus propuestas laborales ?)
+10:20:46 - Martín Valdés de León (@mvaldesdeleon):
+Santi, por todo lo que contas que haces diria que es imposible que la falta de experiencia te juegue en contra.
+10:20:53 - Martín Valdés de León (@mvaldesdeleon):
+Animate y mandate.
+10:22:15 - Santiago Ruffino (@santi_0898):
+Gracias Martin! El problema es que hago poco de mucho. Y aca en la empresa sirve. Pero en otro lado, no mucho
+10:22:48 - Santiago Ruffino (@santi_0898):
+Cuando me hacen 2 preguntas tecnicas de algun lenguaje, me caga.
+10:23:13 - Gonza Gluzman (@gonza):
+Estás seguro?
+10:23:18 - Gonza Gluzman (@gonza):
+Hiciste la prueba?
+10:23:33 - Gonza Gluzman (@gonza):
+Para los freelance CREO que muchas veces no hay prueba técnica
+10:23:44 - Gonza Gluzman (@gonza):
+Depende cómo sea el contacto, supongo
+10:23:45 - Martín Valdés de León (@mvaldesdeleon):
+Lo que te falte lo vas a aprender haciendo los proyectos.
+10:23:50 - Santiago Ruffino (@santi_0898):
+Tuve dos entrevistas, y me fue maomeno en la parte tecnica.
+10:24:08 - Gonza Gluzman (@gonza):
+Bueno, entonces sabés en dónde ajustar
+10:24:11 - Santiago Ruffino (@santi_0898):
+Para lo freelance, recien estoy empezando. Todavia no agarre nada asi que no puedo hablar mucho por ese lado
+10:24:11 - Gonza Gluzman (@gonza):
+De todos modos:
+10:24:23 - Santiago Ruffino (@santi_0898):
+Igual, aunque trabajo con muchas cosas, recien tengo 1 año como dev
+10:24:33 - Gonza Gluzman (@gonza):
+las entrevistas técnicas varían MUCHÍSIMO de un lugar a otro
+10:24:40 - Aldo Sorbara (@aldo1891):
+Las entrevistas son practica, cuantos mas hagas mejor lo vas a hacer
+10:24:49 - Gonza Gluzman (@gonza):
+Hay criterios distintos para decir qué está bueno y qué no
+10:25:13 - Rodrigo Ali (@rodrigojali):
+Jajajaja, estoy más o menos en el mismo punto que Santi. Yo por ahora me lo estoy tomando con calma pero creo que a mediados de año voy a empezar una especie de búsqueda pasiva de side-proyects chicos para Freelo.
+10:25:39 - Rodrigo Ali (@rodrigojali):
+Porque considero que es mucho de lo que dicen los chicos, está en mandarse la cosa. Si tenés inglés y ya laburaste durante un tiempo, el resto es aprender las cosas que te hagan falta para sacar andando el proyecto.
+10:25:56 - Rodrigo Ali (@rodrigojali):
+Como Freelo a los chabones en general les va a importar más que saques andando lo que te piden y no tanto cómo lo hiciste.
+10:25:57 - Aldo Sorbara (@aldo1891):
+Me paso muchas veces de irme mal en una entrevista tecnica y despues otro compañero que hacia exactamente lo mismo que yo entró, solo por tener mas exp en hacer entrevistas. Creo que es algo que, estes o no buscando laburo, es bueno hacer cada tanto (tener entrevistas)
+10:28:02 - Santiago Ruffino (@santi_0898):
+Es la idea. Nunca tuve entrevistas laborales, entonces quiero ganas un poco de exp ahi
+10:28:05 - Rodrigo Ali (@rodrigojali):
+Y justamente como a la mayoría no les importa cómo lo hagas mientras lo hagas rápido y más o menos bonito, es que pega TANTO Wordpress.
+10:29:24 - Santiago Ruffino (@santi_0898):
+Jajaja
+10:29:54 - Santiago Ruffino (@santi_0898):
+Yo voy a empezar un par de proyectos personales, para ganar experiencia. Pero bueno, si alguno tiene ALGO, y cree que le puedo servir, me gustaria laburar en un proyecto "real"
+10:30:19 - Martín Valdés de León (@mvaldesdeleon):
+En mi ultima tanda de busqueda laboral, la primer empresa me rechazo sin siquiera llamarme por telefono. Despues un par mas me bocharon en el tecnico, y eventualmente consegui una oferta.
+10:30:26 - Martín Valdés de León (@mvaldesdeleon):
+Es practica.
+10:31:42 - Santiago Ruffino (@santi_0898):
+Totalmente, Y ver que tanto te podes vender
+10:31:46 - Santiago Ruffino (@santi_0898):
+Para que la empresa diga "Wow, lo quiero"
+10:32:04 - Jorge Cano (@jorgeucano):
+para mi al que te entreviste le tenes que decir
+10:32:19 - Jorge Cano (@jorgeucano):
+mira, mas alla de como me vaya, quiero que sepas que estuve en el utlimo año haciendo todo esto
+10:32:23 - Jorge Cano (@jorgeucano):
+y le tiras la catarata de cosas
+10:32:43 - Jorge Cano (@jorgeucano):
+es importante para algunos team tener alguien que puede cambiar de posicion rapido por algun motivo expecifico
+10:34:18 - Silvio Messina (@smessina):
+o simplemente decir: Hola, soy <@U9KMYNJMV>... tal vez me recuerden en participaciones como en el Slack de Meetup.js
+10:35:54 - Jorge Cano (@jorgeucano):
+como referencia de anteriores laburos pone =&gt; <https://slack.meetupjs.com.ar/>
+10:45:01 - Santiago Ruffino (@santi_0898):
+Ustedes son la mejor referencia que tengo. Jajaja
+10:54:51 - Pedro (@pedro461):
+<@U9KMYNJMV> pasame tu cv, o linkedIn.. siempre tengo laburo para dar
+10:59:38 - Gabriel Fusca (@gfuscax):
+Lo mismo <@U9KMYNJMV> pasame tu cv o linkedin
+11:00:56 - Santiago Ruffino (@santi_0898):
+<https://www.linkedin.com/in/santiago-javier-ruffino/>
+11:01:09 - Santiago Ruffino (@santi_0898):
+Mi CV esta en proceso de actualizacion. Hoy o mañana lo voy a terminar
+11:01:32 - Rodrigo Ali (@rodrigojali):
+Yo no entiendo el punto de pedir CV cuando tenés linkedin, la verda.
+11:01:38 - Rodrigo Ali (@rodrigojali):
+Pero quién soy para juzgar.
+11:02:21 - Gabriel Fusca (@gfuscax):
+Si, con tener info actualizada alcanza
+11:02:25 - Rodrigo Ali (@rodrigojali):
+Claro.
+11:02:51 - Rodrigo Ali (@rodrigojali):
+Más viendo lo que le pasó al otro loco cuando le vieron la foto del CV jajajaja que contó el desplante que le hizo el recruiter rockstar ese.
+11:03:09 - Santiago Ruffino (@santi_0898):
+Yo puse una foto linda por las dudas ?)
+11:03:21 - Rodrigo Ali (@rodrigojali):
+Vos *SOS* lindo
+11:08:13 - Pedro (@pedro461):
+con el linkedIn me conformo, pero muchas veces el cliente quiere igual el CV, por eso lo pido
+11:08:58 - Pedro (@pedro461):
+igual <@U9KMYNJMV> como que no me dice que tecnologías manejas el linkedIn jaja
+11:09:10 - Gonza Gluzman (@gonza):
+Maneja todas
+11:10:50 - Gonzalo González Mora (@gonzalogm):
+Te mandé request. De una, para freelance sirve bocha poder adaptarte tan rápido a diferentes cosas
+11:14:52 - Santiago Ruffino (@santi_0898):
+Si, voy a actualizar un poco mas el perfil
+11:14:53 - Santiago Ruffino (@santi_0898):
+Jajaja
+11:18:09 - Diego Harari (@diehara):
+Me sumo a las consultas. En mi caso estoy cambiando de rumbo laboral. Sin experiencia como dev pero si con mucha xp de entregas deadlines trabajo en equipo( laburo en tv arra de post ) Eso suma al pedir remuneracion ? O sos un jr mas como si tuviese 20 años? Tambien tengo ingles advanced 
+11:20:19 - Rodrigo Ali (@rodrigojali):
+Lo relevante es la experiencia laboral en el campo. Podés tener 30 años laburando en una fábrica de montaje como delivery manager, pero si aplicás para dev sin experiencia previa como dev, vas a ser un Jr.
+11:21:54 - Juan Scolari (@juanscolari):
+Igualmente el camino para alguien que ya tiene trabajando varios años es mas corto que para alguien con 18 años
+11:22:34 - Juan Scolari (@juanscolari):
+Parte del salto de jr a lo siguiente tiene mucho que ver con cosas que no son solo codear
+11:22:39 - Diego Harari (@diehara):
+Y el ingles suma para incorporarte o para pedir mayor remuneracion?
+11:22:44 - Diego Harari (@diehara):
+Claro eso lo se
+11:22:48 - Gonzalo González Mora (@gonzalogm):
+Sí, obvio que suma
+11:23:15 - Gonzalo González Mora (@gonzalogm):
+Te permite laburar en empresas que trabajan con clientes de afuera y que pueden pagar más
+11:23:17 - Juan Scolari (@juanscolari):
+Te abre las posibilidades para laburar para afuera
+11:23:17 - Rodrigo Ali (@rodrigojali):
+Creo que suma para incorporarte, no creo que sume para pedir más plata. Pero no sé.
+11:23:30 - Diego Harari (@diehara):
+claro
+11:23:34 - Rodrigo Ali (@rodrigojali):
+Claro, te abre puerta a mejores laburos.
+11:23:41 - Gonzalo González Mora (@gonzalogm):
+A futuro te permite palanquear con que podés laburar para afuera y negociar mejor sueld oa pesar de que sigas en uan empresa de a´ca
+11:23:41 - Juan Scolari (@juanscolari):
+Podes aplicar a mejores laburos
+11:23:50 - Diego Harari (@diehara):
+se podra llegar a ponele 40 en mano? 
+11:23:55 - Diego Harari (@diehara):
+45?
+11:24:02 - Diego Harari (@diehara):
+o es un delirio como jr
+11:24:03 - Rodrigo Ali (@rodrigojali):
+En Baires sí.
+11:24:37 - Diego Harari (@diehara):
+seria un bruto de 65/60 algo asi
+11:24:47 - Juan Scolari (@juanscolari):
+Eso es algo que me preguntaban varios amigos
+Tienen idea cuanto puede ganar alguien que recien arranca como dev?
+11:24:53 - Diego Harari (@diehara):
+xq me consultaron un par de recruiters pero no tenia idea
+11:26:15 - Gonzalo González Mora (@gonzalogm):
+La verdad nos é bien
+11:26:22 - Gonzalo González Mora (@gonzalogm):
+Está esta encuesta, tho
+11:26:22 - Gonzalo González Mora (@gonzalogm):
+<https://openqube.io/encuesta-sueldos-2019.01>
+11:26:24 - Rodrigo Ali (@rodrigojali):
+<@U6U3183U6> depende mucho de la provincia. Buenos Aires tiene sueldos muy diferentes a otras provincias. En Córdoba más o menos es 30k/45k/60k neto para Jr/Ssr/Sr. En Buenos Aires es un toque más. También depende de la empresa.
+11:26:39 - Rodrigo Ali (@rodrigojali):
+Y obviamente va a haber gente que cobre más y que cobre menos que eso.
+11:26:47 - Juan Scolari (@juanscolari):
+En Bs As seria
+11:26:57 - Martin Carrera (@mcarrera):
+un jr 45k neto es mucho
+11:27:16 - Rodrigo Ali (@rodrigojali):
+Sí pero está dentro de la banda salarial de un Jr en Baires 45k neto.
+11:27:21 - Martin Carrera (@mcarrera):
+no
+11:27:25 - Rodrigo Ali (@rodrigojali):
+Yo soy Jr y cobro eso.
+11:27:27 - Aldo Sorbara (@aldo1891):
+no me parece tan loco 45k para un jr
+11:27:28 - Rodrigo Ali (@rodrigojali):
+ASí que si.
+11:27:32 - Juan Scolari (@juanscolari):
+Claro, tampoco digo el Jr crack que las sabe todas, sino uno que arranca y tiene ganas de seguir aprendiendo
+11:27:32 - Martin Carrera (@mcarrera):
+:open_mouth:
+11:27:44 - Diego Harari (@diehara):
+claro
+11:27:45 - Martin Carrera (@mcarrera):
+bueno pero no es lo normal
+11:27:52 - Martin Carrera (@mcarrera):
+diria que es mas usual un jr que este cerca de los 30k netos
+11:28:00 - Martin Carrera (@mcarrera):
+que 45k netos
+11:28:04 - Rodrigo Ali (@rodrigojali):
+No, no es normal, pero está en la banda. Por eso digo que 40k un Jr en Baires no me parece TAN loco. Está por encima de la media seguro :stuck_out_tongue:
+11:28:09 - Santiago Ruffino (@santi_0898):
+A mi me parece una locura 45K para un Jr. Pero bueno, los respeto ?)
+11:28:12 - Juan Scolari (@juanscolari):
+entre 30k-45k tal vez?
+11:28:12 - Diego Harari (@diehara):
+yo apunto a meterle muuucho js react ingles y tratatr de apuntar a eso
+11:28:40 - Rodrigo Ali (@rodrigojali):
+La banda de un Jr anda por 27k~45k aprox, por lo que he hablado con gente.
+11:28:45 - Aldo Sorbara (@aldo1891):
+30/50, los jrs son los que mas sufren con el tema del "negreo"
+11:28:51 - Aldo Sorbara (@aldo1891):
+si, masomenos eso
+11:29:04 - Juan Scolari (@juanscolari):
+27k la cota inferior?
+11:29:08 - Rodrigo Ali (@rodrigojali):
+Seh, pasa que también se desdibuja mucho el "Tr" del "Jr"
+11:29:21 - Rodrigo Ali (@rodrigojali):
+Es como que a todo lo que no sea Ssr le dicen Jr
+11:29:42 - Juan Scolari (@juanscolari):
+Es que si buscas de Tr no encontras nada
+11:29:59 - Rodrigo Ali (@rodrigojali):
+Entonces el pibe que recién sale de un bootcamp y nunca tiró una linea en su vida o laburó en IT está en la misma banda que el chabon que tiene capaz que 1 año o 2 laburando
+11:30:14 - Aldo Sorbara (@aldo1891):
+en MercadoLibre agregaron lo que se llamaba "analista" y era alguien que sabia mas que un Jr pero menos que un Ssr, entonces usaban el Jr para los recien ingresados de escuelitas, etc
+11:30:16 - Rodrigo Ali (@rodrigojali):
+A los que recién salen de Bootcamp ponele les pagan (en Cordoba) ~21k
+11:30:46 - Juan Scolari (@juanscolari):
+En bs as un poquito mas entonces capaz?
+11:30:56 - Rodrigo Ali (@rodrigojali):
+Siempre hablando del general, del promedio y en base a lo que yo conozco. Totalmente biased lo mio.
+11:30:58 - Juan Scolari (@juanscolari):
+Alguien que sale de un bootcamp en bs as
+11:31:18 - Rodrigo Ali (@rodrigojali):
+En Baires no lo tengo tan claro, pero sé que se paga un toque más que en Córdoba ponele.
+11:31:23 - Juan Scolari (@juanscolari):
+Biased o no, me sirve para tener idea
+11:32:14 - Gonzalo González Mora (@gonzalogm):
+En general en BsAs es un poco más que en el resto del país, sí
+11:32:20 - Gonzalo González Mora (@gonzalogm):
+pq el costo de vida es mayor me parece
+11:33:46 - Juan Scolari (@juanscolari):
+y de empresas que tomen gente que recien sale un bootcamp saben?
+11:33:54 - Juan Scolari (@juanscolari):
+mercadolibre escuche, puede ser?
+11:34:32 - Germán Burgardt (@germanandresburgardt):
+en globant está el junior advance que es mas o menos lo mismo
+11:34:39 - Iván (@ivanmeyer1991):
+en cordoba rosario baires son sueldos mas altos
+11:34:42 - Rodrigo Ali (@rodrigojali):
+Las grandes suelen tener "escuelitas" o "bootcamps". MercadoLibre, Vates, Harriague, Globant, Despegar.
+11:35:15 - Iván (@ivanmeyer1991):
+Donde estoy yo( santa fe) los jr estan en 27 o 28 el mas alto capaz
+11:35:33 - Santiago Ruffino (@santi_0898):
+Aguante Vates. Ahi fue mi primer CV. Jajaja
+11:35:41 - Diego Harari (@diehara):
+Si tendria que haber una distincion por ahi sos jr pero tenes 5/10 proyectos safables en github o por ahi hiciste fizz buzz y ya
+11:37:15 - Aldo Sorbara (@aldo1891):
+si, de su escuelita y por fuera tambien
+11:37:27 - Juan Scolari (@juanscolari):
+que seria la escuelita?
+11:38:36 - Lucas Alejo Bellesi (@lucasbellesipocho):
+En MercadoLibre tenés ITAcademy y ITAccelerator, este último busca que tengas algo de experiencia previa en lo posible
+11:39:31 - Aldo Sorbara (@aldo1891):
+aplicas a una escuelita de Mercadolibre, si quedas, entras a una capacitacion de unos meses donde ven varias tecnologias y te pagan las horas de estudio (part time). Despues si andas bien ingresas a Mercadolibre en un area que aplique a tu perfil, Busca en google, Mercadolibre ITAcademy / ITAccelerator
+11:39:35 - Diego Harari (@diehara):
+y posiciones front piden saber algo de back?
+11:39:39 - Diego Harari (@diehara):
+node etc
+11:40:15 - Juan Scolari (@juanscolari):
+joya, ahi estaba viendo, gracias!
+11:40:24 - Aldo Sorbara (@aldo1891):
+Depende mucho del stack de la empresa, en algunos lados los front hacen solo "react/angular" y en otros tambien tocan node
+11:40:39 - Juan Scolari (@juanscolari):
+hay muchisima oferta de front sin nada de back
+11:41:22 - Juan Scolari (@juanscolari):
+aunque en muchas pongan que suma saber de back
+11:42:34 - Rodrigo Ali (@rodrigojali):
+En Globant se llaman "Bootcamps" y "Talent Day". El bootcamp es una escuelita onda "from zero to hero" y el talent day es "veni, te hacemos pruebas tecnicas, y si pasas te hacemos una oferta", bastante corta la cosa.
+
+En MeLi está lo que dijeron arriba.
+
+En Despegar está "Jovenes de alto vuelo", que es muy parecido a lo de MeLi.
+11:54:59 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola! Recién arranco acá.
+Tengo conocimientos en html5 y css3, estoy edtudiando javascript. Soy de Rosario. Me dedico a otra cosa completamente distinta, pero quiero invertir algo de tiempo en esto. Me comentaron q hay mucho laburo de frontend.
+Y quisiera saber qué conocimientos mínimos se piden para arrancar como trainee o junior en una empresa como para poder poner algún renglón en el cv :grin:
+11:55:41 - Marcos Casagrande (@marcoscvp90):
+En que empresa?
+12:07:32 - Juan Scolari (@juanscolari):
+si podes arrancar a ver de que se trata algun framework como react suma bastante
+12:07:52 - Juan Scolari (@juanscolari):
+aunque puede ser dificil al principio
+12:17:59 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias! Y tenés idea de la carga horaria promedio y lo q pagan aprox?
+12:20:57 - Rodrigo Ali (@rodrigojali):
+La carga horaria normal es full-time 9 horas (de 9:00 a 18:00) que es el "horario de oficina" en Argentina.
+
+La remuneración depende de la provincia, la empresa, la seniority, y el rol.
+12:21:48 - Rodrigo Ali (@rodrigojali):
+En base a lo que yo conozco, el promedio ronda los 23~35k en mano para un Jr, dependiendo de nuevo de todo lo que dije arriba.
+12:22:11 - Diego Harari (@diehara):
+te diria que aprendas bien un lenguaje javascript php python
+12:22:16 - Diego Harari (@diehara):
+y despues de vaaaarios meses
+12:22:21 - Diego Harari (@diehara):
+arranques con un framework
+12:22:22 - Rodrigo Ali (@rodrigojali):
+Despegar en Córdoba.
+12:22:37 - Diego Harari (@diehara):
+sino es como manejar automatico y nunca pasar por el manual
+12:22:44 - Diego Harari (@diehara):
+mi perspectiva humilde
+12:24:13 - Juan Scolari (@juanscolari):
+yo tire por tirar, diego puede estar muy en lo cierto :stuck_out_tongue:
+12:29:12 - Rodrigo Ali (@rodrigojali):
+Va a depender. Si tu idea es arrancar como Jr y conseguir un laburo rápido, lo que contratan la mayoría de las empresas son "framework programmer" y no devs en sí. O sea, esperan que sepas hacer cositas en un framework puntual y ya.
+
+Todo depende de lo que busques... para mi lo que dice Diego tiene mucho sentido si querés ser más versátil y adaptarte mejor a los cambios de framework o de tecnologías que te puedan caer, pero para conseguir laburo rápido te va a tomar más tiempo ese camino.
+12:36:48 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial. No tengo apuro. Mi idea es ir formandome. Prefiero el camino largo
+12:38:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Sin mucha experiencia en empresas es posible agarrar laburos freelance (al menos chiquitos)?
+
+Y otra pregunta, para un portfolio qué tipo de proyectos valen la pena publicar?
+12:41:02 - Nico (@nicokorn96):
+cuando te mandan mail para una entrevista *grupal*, se ignora automaticamente no ?
+12:41:14 - Nico (@nicokorn96):
+se elimina automaticamente el mail?
+12:45:04 - Germán Burgardt (@germanandresburgardt):
+what no sabía esa
+12:45:29 - Marcos Casagrande (@marcoscvp90):
+Bastante bien Despegar, voy a pasar la data a amigos juniors.
+12:45:30 - Nico (@nicokorn96):
+me siento de primer grado cuando me dicen entrevista grupal
+12:52:38 - Martín Valdés de León (@mvaldesdeleon):
+Depende de lo que quieran decir.
+12:52:45 - Martín Valdés de León (@mvaldesdeleon):
+Multiples candidatos en un mismo room: WTF?
+12:52:53 - Martín Valdés de León (@mvaldesdeleon):
+Multiples interviewers en un mismo room: Algunas empresas hacen eso.
+12:53:24 - Nico (@nicokorn96):
+multiples candidatos
+12:53:29 - Nico (@nicokorn96):
+tipo sala de 1er grado
+12:53:32 - Martín Valdés de León (@mvaldesdeleon):
+Seh, bye bye.
+12:53:32 - Nico (@nicokorn96):
+no me jodan
+12:54:04 - Nico (@nicokorn96):
+le di oportunidad igual, le dije nos vemos en otro horario
+12:54:18 - Nico (@nicokorn96):
+y no
+12:54:30 - Nico (@nicokorn96):
+me dice"esos son los horarios de entrevistas"
+12:54:39 - Nico (@nicokorn96):
+chau
+12:55:19 - Nico (@nicokorn96):
+el que encuentre un recruiter bueno que avise
+13:05:29 - Johanna (@johannasabsantos):
+justo me llamaron para una entrevista grupal para entrar con trainee (soy QA y quiero pasarme a dev)
+13:05:46 - Johanna (@johannasabsantos):
+y me dijeron que dura 3 hs la entrevista
+13:05:56 - Johanna (@johannasabsantos):
+y fue como what
+13:06:16 - Johanna (@johannasabsantos):
+ahora que excusa invento para ir en mi laburo jajaja dije que no porque no podia
+13:06:24 - Johanna (@johannasabsantos):
+no se si es normal que dure tanto igual
+13:07:33 - Gonza Espeche (@espeche.g):
+"bueno gracias por venir, vamos a poner la peli Titanic y al final la discutimos entre todos"
+13:07:45 - Johanna (@johannasabsantos):
+como trainee* btw si tienen consejos de como hacer para pasarme se los agradezco
+13:08:08 - Johanna (@johannasabsantos):
+ajajajaja es que seguro que SI
+13:20:35 - Julian (@jantonielli01):
+No me parece una locura la duración 
+13:20:43 - Julian (@jantonielli01):
+Pero es raro para un puesto de trainee 
+13:22:14 - Marcos Casagrande (@marcoscvp90):
+Supongo que dura 3 horas porque te hacen una pruebita ahí. Es raro que sea presencial, generalmente te la mandan para hacer en tu tiempo libre.
+13:22:40 - Esteban Yañez (@eyanez):
+conozco una empresa que para trainee te hacen una pruebita de logica escrita, dura bastante esa prueba
+13:25:15 - Nico (@nicokorn96):
+nose me mandaron un mail de Lagash, muchos talvez la conoceran, ademas la mina me respondio re cortante
+13:25:55 - Nico (@nicokorn96):
+no puedo dejar mi trabajo para ir 3 horas a una entrevista
+13:26:12 - Nico (@nicokorn96):
+ya mi epoca epoca de entrevistas grupales creo que paso jaaja
+13:30:10 - Martín Valdés de León (@mvaldesdeleon):
+Lo de dejar el trabajo es medio relativo. En general podes pedirte una mañana o  una tarde para ir al medico o hacer tramites o motivos personales.
+13:30:33 - Martín Valdés de León (@mvaldesdeleon):
+Para mi ultima entrevista me tome el dia entero x ej.
+13:30:43 - Martín Valdés de León (@mvaldesdeleon):
+Pero tiene que ser una propuesta que lo amerite.
+13:31:31 - Johanna (@johannasabsantos):
+era para esa empresa tambien!
+13:31:47 - Santiago Ruffino (@santi_0898):
+A mi me entrevistaron en media hora. Si bien era lo que duraba segun la chica de RRHH, le dije que si era mas que eso me iba a tener que ir porque tenia que volver a trabajar
+13:31:57 - Norman Perrin (@norman):
+Cuando empecé a laburar hice entrevista grupal para entrar a una escuelita. Solo contamos lo que hacíamos, no es que hablamos de sueldos ni nada.
+Entramos todos los que fuimos y la escuelita me ayudó un montón.
+Digamos que estas cosas cuestan plata y la escuelita era gratis.
+No lo veo mal si en la entrevista no se hablan de sueldos y esas cosas, que sea grupal.
+13:32:41 - Gonza Gluzman (@gonza):
+Y por qué sería malo hablar de sueldos en una entrevista grupal?
+13:33:00 - Santiago Ruffino (@santi_0898):
+Me imagino una entrevista grupal donde hablan de sueldo y estan tipo "El sueldo arranca en 20K, quien baja mas?". Y ahi empiezan "Yo laburo por 18", "Yo por 17" y asi
+13:33:04 - Gonza Gluzman (@gonza):
+Creo que esa costumbre de no hablar de nuestros sueldos termina perjudicándonos a la larga
+13:33:17 - Santiago Ruffino (@santi_0898):
+Jajajaja
+13:33:20 - Martín Valdés de León (@mvaldesdeleon):
+pq seguro alguno se tira abajo y los tira a todos abajo
+13:33:23 - Johanna (@johannasabsantos):
+jajajaa iban bajando
+13:33:52 - Johanna (@johannasabsantos):
+Si lo mio tambien era de Lagash y fue muy amable la mina
+13:33:57 - Gonza Gluzman (@gonza):
+Gente, se supone que estamos en un laburo en donde hay muchos puestos por cubrir
+13:34:28 - Esteban Yañez (@eyanez):
+no era para lagash university? es tipo escuelita que hacen, yo trabaje ahi, y la entrevista fue corta (salvo que hayan cambiado)
+13:34:31 - Johanna (@johannasabsantos):
+cuanto esta ganando un trainee? Como para saber
+13:35:39 - Johanna (@johannasabsantos):
+igual lo de Lagash era una capacitacion de 2 meses y el año pasado pagaban 5k
+13:35:55 - Gonza Gluzman (@gonza):
+5k ARS?
+13:36:02 - Johanna (@johannasabsantos):
+si
+13:36:04 - Johanna (@johannasabsantos):
+:anguished:
+13:36:07 - Gonza Gluzman (@gonza):
+Cuánto tiempo?
+13:36:09 - Nico (@nicokorn96):
+ke ?
+13:36:11 - Johanna (@johannasabsantos):
+por dos meses
+13:36:14 - Johanna (@johannasabsantos):
+me dijeron
+13:36:19 - Leandro Echevarria (@echevarrialeandro):
+Cuanto tiempo diario
+13:36:20 - Johanna (@johannasabsantos):
+y despues si todo iba bien quedabas
+13:36:23 - Gonza Gluzman (@gonza):
+Digo, qué carga horaria
+13:36:24 - Johanna (@johannasabsantos):
+de 9 a 13
+13:36:31 - Johanna (@johannasabsantos):
+de lunes a viernes
+13:36:32 - Nico (@nicokorn96):
+yo no se ni para que me llamaron igual
+13:36:32 - Gonza Gluzman (@gonza):
+Es una miseria
+13:36:37 - Nico (@nicokorn96):
+yo ya tengo experiencia
+13:36:38 - Johanna (@johannasabsantos):
+si
+13:36:47 - Nico (@nicokorn96):
+les ocupo espacio alpedo para otra persona
+13:36:52 - Gonza Gluzman (@gonza):
+Hay que hackearlos, para que aprendan
+13:36:58 - Johanna (@johannasabsantos):
+yo no tengo experiencia en desarrollo pero igual...
+13:37:14 - Johanna (@johannasabsantos):
+se aprovechan de que a los testers nos pagan miseria xd
+13:37:15 - Santiago Ruffino (@santi_0898):
+Deberiamos hacer una DB de empresas que paguen poco, y spamear abuso con las encuenstas de sysarmy
+13:37:22 - Johanna (@johannasabsantos):
+ree
+13:37:48 - Santiago Ruffino (@santi_0898):
+/gif hacker
+13:38:00 - Federico Wilhelem (@federico.wn):
+si bien es más tiempo que en otros lugares, hay escuelitas que ni las pagan. En acc por ejemplo.
+13:38:24 - Nico (@nicokorn96):
+yes sir
+13:38:31 - Johanna (@johannasabsantos):
+si igual mi primer pensamiento fue "bueno, al menos pagan"
+13:39:18 - Gonza Gluzman (@gonza):
+Bueno, *NO*
+13:39:21 - Gonza Gluzman (@gonza):
+Es tu tiempo
+13:39:28 - Gonza Gluzman (@gonza):
+Por qué no habrían de pagarte?
+13:41:15 - Santiago Ruffino (@santi_0898):
+Se atajan con las pasantias
+13:41:43 - Nico (@nicokorn96):
+es mejor laburar freelance en esos casos
+13:41:49 - Nico (@nicokorn96):
+para mi que se yo
+13:42:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Tengo 10 años de experiencia en un rubro donde te obligan a laburar como monotributista y te negrean de no creer... te hacen pagarte las capacitaciones y hasta laburar ad honorem... no se dejen pisotear
+13:44:14 - Johanna (@johannasabsantos):
+bueno true pero hay empresas tan negreras que te hacen pensar que te estan haciendo un favor al pagarte lol
+13:44:44 - Johanna (@johannasabsantos):
+si yo me quiero meter en esa, no se bien como
+13:45:11 - Gonza Gluzman (@gonza):
+Sí, lo sé. Pero si no regalamos nuestro tiempo y nuestro trabajo, nos vamos a beneficiar todos
+14:16:24 - Rodrigo Ali (@rodrigojali):
+Se supone que estamos en un rubro de información y en vez de facilitar y compartir, la gente oculta. Como dice Gonza, a la larga yo también creo que nos termina perjudicando a todos. Hay mucho tabú alrededor de los numeros del sueldo.
+14:21:33 - ari (@adiaz):
+yo estoy en 21 como dev jr
+14:21:43 - ari (@adiaz):
+:tired_face:
+14:24:04 - Rodrigo Ali (@rodrigojali):
+Hacé entrevistas, for fun, y fijate qué te ofrecen.
+14:35:17 - Esteban Yañez (@eyanez):
+ojo que lo de lagash es escuelita, son 2 meses de capacitacion que te pagan 5k
+14:37:08 - Esteban Yañez (@eyanez):
+claramente no es para cualquiera y al menos en su momento tenia un limite de edad de 24 años
+14:37:31 - Esteban Yañez (@eyanez):
+para los que buscaban su primer trabajo en sistemas no estaba para nada mal, despues te contratan con un sueldo acorde
+14:44:42 - Germán Burgardt (@germanandresburgardt):
+un amigo entró a una pasantia 4hs por día, lo capacitan y le pagan 12k. Me parece copado
+14:45:14 - Julian (@jantonielli01):
+Neto o bruto? 
+14:46:15 - ari (@adiaz):
+Netos, son 6 horas 15800
+14:47:08 - Dayan Ruiz (@dayanr):
+el tema de decir lo que cobras yo lo veo mas por el lado de los recruiters
+14:47:15 - Dayan Ruiz (@dayanr):
+si se enteran tienen ventaja sobre ti
+14:47:30 - Dayan Ruiz (@dayanr):
+saben cuanto mas tienen que pagarte para que te vayas, y quizas podias haberle sacado mas plata
+14:47:43 - Dayan Ruiz (@dayanr):
+por eso cuando me preguntan cuanto cobro le subo bastante mas
+14:48:52 - Gonza Gluzman (@gonza):
+La cosa sería contarnos entre nosotros los devs, no contarles a los empleadores
+14:48:58 - Gonza Gluzman (@gonza):
+Bah, o a todos
+14:49:10 - Gonza Gluzman (@gonza):
+Pero no ocultarnos los números entre nosotros
+14:49:14 - Gonza Gluzman (@gonza):
+Que es lo que se suele hacer
+14:50:09 - Marcos Casagrande (@marcoscvp90):
+Lo último se hace, porque los empleadores quieren que se haga, porque les conviene. Es "tabú" por eso. Si todos dijésemos cuanto cobramos, los sueldos serían más altos.
+14:50:23 - Marcos Casagrande (@marcoscvp90):
+En mi ex empresa, te decían: "No digas cuanto ganás"
+14:50:51 - Gonzalo González Mora (@gonzalogm):
+Yup, tal cual, en la mía pasa igual
+14:51:15 - Nico (@nicokorn96):
+a mi me chupa un huevo si alguien me pregunta cuanto gano yo lo digo
+14:51:20 - Nico (@nicokorn96):
+no me averguenza
+14:51:21 - Julian (@jantonielli01):
+Lol que cancer 
+14:51:40 - Nico (@nicokorn96):
+los NDA no me importan
+14:51:44 - Nico (@nicokorn96):
+son puras figuritas
+14:52:08 - Nico (@nicokorn96):
+al empleador tampoco le importaa el NDA
+14:52:10 - Marcos Casagrande (@marcoscvp90):
+Obviamente, a mi tampoco, pero la gente por algún motivo le parece tabú, como que se avergüenza al hablar de eso, que está mal visto. Y está mal visto por eso.
+14:52:31 - Nico (@nicokorn96):
+estamos mal acostumbrados (?
+14:52:33 - Marcos Casagrande (@marcoscvp90):
+El otro día vi un video sobre esto justamente.
+14:52:39 - Marcos Casagrande (@marcoscvp90):
+<https://www.youtube.com/watch?v=7xH7eGFuSYI>
+14:53:44 - Marcos Casagrande (@marcoscvp90):
+Aplica 100% a Argentina.
+14:54:04 - Nico (@nicokorn96):
+excelente
+14:55:19 - Dayan Ruiz (@dayanr):
+eso de decir el sueldo, no siempre funciona, saber cuanto gana el que se sienta al lado tuyo puede ser MUY contraproducente
+14:55:22 - Dayan Ruiz (@dayanr):
+te puede incluso desmotivar
+14:55:32 - Marcos Casagrande (@marcoscvp90):
+Como te puede desmotivar?
+14:55:37 - Rodrigo Ali (@rodrigojali):
+No debería entrar dentro del NDA el sueldo que cobrás. Bah, no me parece.
+14:55:44 - Marcos Casagrande (@marcoscvp90):
+Te da bronca a lo sumo, y buscás un nuevo sueldo, o buscás un aumento.
+14:55:48 - Dayan Ruiz (@dayanr):
+imaginate que te hayan fichado como senior y lleves 5 años en una empresa, y te enteres que contrataron a uno que tiene menos xp que tu por mucha mas plata, como te sentirias
+14:56:06 - Marcos Casagrande (@marcoscvp90):
+Rompo todo, y le digo: Dame el doble que este salame, o me voy.
+14:56:08 - Rodrigo Ali (@rodrigojali):
+Y, sentiría que mi empleador me puede dar más plata.
+14:56:11 - Rodrigo Ali (@rodrigojali):
+Y le pediría más plata.
+14:56:31 - Marcos Casagrande (@marcoscvp90):
+Exactamente, primero te diste cuenta que es un garca. Segundo gracias a *saber* el sueldo, vas a ganar más plata.
+14:56:40 - Julian (@jantonielli01):
+Otra es que mucha gente infla su sueldo al decirlo 
+14:56:45 - Marcos Casagrande (@marcoscvp90):
+Sino supieses el sueldo del otro, ibas a estar cobrando menos, y *nunca* darte cuenta.
+14:56:53 - Rodrigo Ali (@rodrigojali):
+Y si no me la da, me iría a un lugar que me de esa plata. Porque quiere decir que o lo sobrevaloran al otro, o me infravaloran a mi. Suponiendo que somos muy similares.
+14:57:07 - Ezequiel Leites (@leites25):
+Igual arranquemos que desde el vamos, el 80% de los empleadores son garcas en ese sentido
+14:57:11 - Julian (@jantonielli01):
+Las encuestas a veces terminan dando cualquier cosa porque la gente tiene miedo de cobrar menos de la media 
+14:57:17 - Dayan Ruiz (@dayanr):
+no se eh, en la teoria funciona re bien, pero si no puedes cambiarte por X motivo, esta de menos
+14:57:31 - Rodrigo Ali (@rodrigojali):
+En este rubro no aplica para mi.
+14:57:37 - Marcos Casagrande (@marcoscvp90):
+Ezequiel, lo son. Pero al no saber el sueldo de tus compañeros, les das más poder.
+14:57:40 - Rodrigo Ali (@rodrigojali):
+Tenes que estar muy muy jugado para no conseguir otra cosa.
+14:57:42 - Dayan Ruiz (@dayanr):
+tengo un amigo que estuvo dos años en una empresa y le sentaron un loco al lado con menos xp, y el tuvo que enseñarlo por casi un año y cobraba mas que él el loco
+14:58:03 - Marcos Casagrande (@marcoscvp90):
+De que trabajaba?.
+14:58:22 - Ezequiel Leites (@leites25):
+Obvio, yo en mi caso siempre dije mi sueldo a mis compañeros, mas que nada porque sabia que los estaban cagando de arriba a abajo
+14:58:28 - Dayan Ruiz (@dayanr):
+developer haciendo plugin de aem o algo asi
+14:58:30 - Marcos Casagrande (@marcoscvp90):
+A mi me pasó eso Dayan, contrataron a una empresa terciarizada, que cobraba más que yo, y yo capacitaba a la empresa. Que hice?, me fui, ahora gano 5 veces más.
+14:58:43 - Rodrigo Ali (@rodrigojali):
+Yo siempre que cambié de trabajo (en este y otros rubros) lo primero que hice fue a hablar con mi empelador y decirle "che mira, quiero hablar con vos, la verdad que me gustaria ganar más plata, ¿como podemos hacer?" Y si no me daban lo que quería, buscaba otro que si me lo diera y punto.
+14:58:59 - Ezequiel Leites (@leites25):
+Despues, se fueron un par por no querer aumentarles y en vez de hablar con los que quedaban, salieron a buscar roles mucho mas superiores y con un numero tecnicamente impagable para la empresa
+14:59:05 - Ezequiel Leites (@leites25):
+Me di media vuelta y me fui
+14:59:14 - Rodrigo Ali (@rodrigojali):
+Claro.
+14:59:16 - Marcos Casagrande (@marcoscvp90):
+Vivir en la ignorancia hace que te caguen.
+14:59:29 - Rodrigo Ali (@rodrigojali):
+A ver, está bien, es el negocio de la empresa. Todos buscan ganar más guita, la empresa y el empleado.
+14:59:38 - Rodrigo Ali (@rodrigojali):
+Si no hay un acuerdo, una de las partes se tiene que abrir.
+14:59:59 - Rodrigo Ali (@rodrigojali):
+Para mi el tema es llegar a ese punto de quiebre, si no se llega, entonces no tiene sentido irse, por más que "te estén cagando"
+15:00:12 - Rodrigo Ali (@rodrigojali):
+Si estás cómodo por X motivos, joya. Si empezás a sentir que no estás cómodo, no te quedes.
+15:01:04 - Nico (@nicokorn96):
+y bueno viste que sho gano 10000000 usd por hora
+15:01:20 - Dayan Ruiz (@dayanr):
+jajajajaja
+15:01:50 - Dayan Ruiz (@dayanr):
+no se, yo soy partidario de compartir cuanto gano entre amistades, pero no de andarlo publicando, hay gente que se lo toma a mal saber que esta ganando menos que tu
+15:02:03 - Rodrigo Ali (@rodrigojali):
+Problema de ellos..
+15:02:04 - Marcos Casagrande (@marcoscvp90):
+No sé en que empresa, los sueldos son públicos directamente.
+15:02:12 - Marcos Casagrande (@marcoscvp90):
+y los aumentos los dan los empleados
+15:02:19 - Rodrigo Ali (@rodrigojali):
+El peligro que le veo a decir abiertamente cuánto ganás, es que alguien te quiera ajustar.
+15:02:20 - Gonzalo González Mora (@gonzalogm):
+En sistemas hay tanta demanda que es raro que no puedas cambiarte de laburo, o decir que te ofrecen X en otra empresa y negociar con eso
+15:02:24 - Ezequiel Leites (@leites25):
+A mi un par de empresas me han dicho que tienen transparencia con eso
+15:02:26 - Marcos Casagrande (@marcoscvp90):
+Obviamente no funciona en muchos lados, pero es interesante.
+15:02:44 - Dayan Ruiz (@dayanr):
+igual cuando dicen de publicarlo entiendo que no sea ponerlo en linkedin
+15:02:54 - Dayan Ruiz (@dayanr):
+simplemente comentarlo entre amigos y conocidos
+15:02:58 - Gonza Gluzman (@gonza):
+9e9 USD
+15:03:08 - Marcos Casagrande (@marcoscvp90):
+No voy a anunciarle a los chorros, gano X.
+15:03:15 - Marcos Casagrande (@marcoscvp90):
+Pero compañeros de laburo, amigos etc, no debería ser tabú
+15:03:33 - Ezequiel Leites (@leites25):
+El problema normalmente es con compañeros de laburo creo
+15:03:48 - Marcos Casagrande (@marcoscvp90):
+Claro, a tus jefes le da igual que le cuentes a amigos. No les afecta
+15:05:36 - Martin Gonzalez (@martin2786):
+Yo trabaje en Spark Digital, una empresa que tiene sede en tandil y tiene una politica de sueldos transparentes, para la misma posicion todos ganan lo mismo. Me resulto interesante y una buena practica la verdad.
+15:05:39 - Julian (@jantonielli01):
+Decís esta <https://manas.tech/>, <@UGQTUDQSG> ?
+15:05:49 - Dayan Ruiz (@dayanr):
+volviendo al tema de las entrevistas, yo fui a una, que me pedian disponibilidad horaria de 8hs, era ir a la oficina y pasarme el dia entero resolviendo cosas, ahora que lo pienso, fui tremendo imbecil por ir
+15:06:27 - Marcos Casagrande (@marcoscvp90):
+Yo no estoy de acuerdo que todos en la misma posición ganen lo mismo, pero mientras los sueldos sean transparentes no está mal.
+15:06:43 - Dayan Ruiz (@dayanr):
+yo tampoco, porque no todos rinden lo mismo ni laburan la misma cantidad de rato
+15:06:57 - Gonzalo González Mora (@gonzalogm):
+Y cada proyecto es diferente tmb
+15:07:00 - Martin Gonzalez (@martin2786):
+habia bandas dentro de la misma posicion, a lo que voy es que si vos sos senior banda 3, ganas lo mismo que todos los senior banda 3, no hay uno que gane mas porque al entrar negocio mas plata
+15:07:50 - Marcos Casagrande (@marcoscvp90):
+No sé si era eso, pero veo que hacen lo mismo o algo muy parecido. Cuando lo leí en su momento eran varias empresas lo que lo implementaban.
+15:08:00 - Martin Gonzalez (@martin2786):
+no entiendo la parte de que no todos rinden lo mismo, vos decis que si hay dos senior y uno hace mas user stories que el otro en el mismo tiempo tiene que ganar mas?
+15:08:28 - Gonzalo González Mora (@gonzalogm):
+No sé, para mi si vos les generás más revenue deberías cobrar más
+15:08:31 - Martin Gonzalez (@martin2786):
+el seniority va por otro lado, no es una competencia
+15:08:32 - Marcos Casagrande (@marcoscvp90):
+No es cuestión de user stories. Sino de productividad y conocimientos. A no ser que tengan muchísimas bandas salariales, alguno sale perjudicado.
+15:08:39 - Dayan Ruiz (@dayanr):
+te lo pongo asi, yo aca en mi empresa tengo un play 4, y nos dejan jugar en horario laboral, hay locos que juegan 10 juegos al dia y hay locos que juegan solo 1
+15:08:59 - Dayan Ruiz (@dayanr):
+exactamente esto
+15:09:16 - Marcos Casagrande (@marcoscvp90):
+Eso no es lo que digo yo. Porque si el que juega 10, termina todo en tiempo y forma.
+15:09:32 - Dayan Ruiz (@dayanr):
+eso es relativo
+15:09:35 - Dayan Ruiz (@dayanr):
+muy relativo
+15:09:39 - Dayan Ruiz (@dayanr):
+diria einstein
+15:09:51 - Marcos Casagrande (@marcoscvp90):
+Sino, que hay ciertos casos, que siempre uno es el que te saca las papas del fuego, por más que tengan la misma seniority que otro, uno debería ganar más.
+15:10:50 - Martin Gonzalez (@martin2786):
+esta claro que nunca vas a tener 2 senior iguales porque las personas no somos exactamente iguales, ahora, que uno te saque las papas del fuego y el otro no, no quiere decir que a uno tengas que pagarle mas
+15:10:58 - Martin Gonzalez (@martin2786):
+el otro sera mejor en otro aspecto
+15:11:34 - Marcos Casagrande (@marcoscvp90):
+En mi opinión, si alguien te saca las papas del fuego siempre, tiene que cobrar más, porque es el que te genera más plata o te hace perder menos.
+15:11:39 - Martin Gonzalez (@martin2786):
+no podemos ponernos a competir asi,  qeu si yo se esto y el otro no entonces me tienen que pagar mas, eso es justamente lo que esta mal y por lo que la gente no se dice cual es el salario de cada uno, al instante empiezan las comparaciones
+15:11:50 - Marcos Casagrande (@marcoscvp90):
+Si la papa del fuego es la diferencia entre perder un cliente o no. Definitivamente tiene que cobrar más.
+15:12:20 - Marcos Casagrande (@marcoscvp90):
+Por qué no podemos competir? No hay que ser socialista, hay gente mejor o peor que el resto, afortunadamente no somos todos iguales.
+15:12:29 - Julian (@jantonielli01):
+No van a llegar a mucho consenso though 
+15:12:33 - Marcos Casagrande (@marcoscvp90):
+A mi no me importa si alguien que es mejor que yo cobra más, yo intentaré alcanzarlo, mejorando mi nivel.
+15:12:33 - Dayan Ruiz (@dayanr):
+comparto
+15:12:47 - Martin Gonzalez (@martin2786):
+si perdes un cliente porque un dev no te saco las papas del fuego, el problema en realidad es otro, nunca deberias llegar a que tu cliente dependa de que un dev saque algo de la galera
+15:13:08 - Julian (@jantonielli01):
+Todos deberían leer esto <https://workplace.stackexchange.com/questions/79774/i-automated-my-job-and-the-company-doesnt-know-what-do-i-do-now>
+15:13:15 - Julian (@jantonielli01):
+Tenes argumentos de todos lados 
+15:14:50 - Martín Valdés de León (@mvaldesdeleon):
+Manas tech es eso
+15:15:04 - Martin Gonzalez (@martin2786):
+es un tema dificil para ponerse de acuerdo, esta bueno que haya diferentes opiniones.
+15:15:06 - Rodrigo Ali (@rodrigojali):
+Ahi me pongo a leerlo, gracias Juli
+15:15:35 - Rodrigo Ali (@rodrigojali):
+Creo que todos podemos estar de acuerdo en que queremos que nuestra hora sea lo más profitable posible para hacer con nuestro tiempo lo que nos pinte. Si querés laburar 4 horas por día y eso te permite vivir, genial.
+15:15:47 - Rodrigo Ali (@rodrigojali):
+Si querés quemarte 12 horas por día y amasar mucha guita porque X, genial.
+15:16:11 - Rodrigo Ali (@rodrigojali):
+Mi objetivo es tender a laburar menos horas sin perder mi estilo de vida, y eventualmente (con algo de suerte) "retirarme" a una "edad temprana"
+15:16:23 - Rodrigo Ali (@rodrigojali):
+45~55, ese es mi objetivo.
+15:18:28 - Martín Valdés de León (@mvaldesdeleon):
+En general nadie te va a pagar en funcion de "lo que haces" o "cuan importante sos para la empresa". En ese sentido la meritoracia es el peor verso que nos vendieron a todos.
+15:19:07 - Martín Valdés de León (@mvaldesdeleon):
+Si tu idea es maximizar tus ingresos, no pasa por adquirir habilidades tenicas, sino por aprender a negociar tu salario.
+15:19:32 - Martín Valdés de León (@mvaldesdeleon):
+Y en muchos casos eso implica cosas que muchos no estan dispuestos a hacer, como buscar laburo constantemente, cambiar con frecuencia, repartir ultimatums, etc.
+15:20:22 - Martín Valdés de León (@mvaldesdeleon):
+Desde la otra optica, si vos sos un "jefe", y queres asegurarte que tus empleados no se vayan a buscar laburo a otro lado, tenes que siempre revisar el mercado y pagar encima de la media.
+15:20:34 - Martín Valdés de León (@mvaldesdeleon):
+NINGUN empleado deberia tener que pedirle que le pagues lo que se merece, ever.
+15:21:28 - Martín Valdés de León (@mvaldesdeleon):
+Me paso cuando recien entre a mi empresa, bajo otro leadership. Les pedi ponele 7 y me dijeron "te vamos a pagar 10 porque eso es lo que se paga este trabajo en el mercado"
+15:21:30 - Rodrigo Ali (@rodrigojali):
+`Debería`
+15:21:54 - Rodrigo Ali (@rodrigojali):
+Uh qué bien eso. Bueno, eso me pasó las veces que cambié de laburo. Pedía X y me daban X+n
+15:22:00 - Martín Valdés de León (@mvaldesdeleon):
+Cuando la mentadidad promedio es pagarte lo menos que saben que te pueden pagar y ya.
+15:22:16 - Ezequiel Leites (@leites25):
+Claro, como cuando le decis, quiero ganar entre 70 y 80 y te ofrecen 70
+15:22:26 - Rodrigo Ali (@rodrigojali):
+Después me terminaba yendo porque #Argentina y nada, te quedás atrás de la inflación, entonces los aumentos son para competir contra la inflación y no contra tu crecimiento real en el trabajo.
+15:22:31 - Ezequiel Leites (@leites25):
+Pudiendo ofrecerte no sé 72 y decir eso mismo, para tu expertise estamos pagando eso
+15:22:53 - Ezequiel Leites (@leites25):
+Intentar competir con la inflacion
+15:23:03 - Martín Valdés de León (@mvaldesdeleon):
+No se, yo lo escucho de compañeros que los cagan en los ajustes salariales
+15:23:18 - Martín Valdés de León (@mvaldesdeleon):
+Onda, piden 8% les dan 4%
+15:23:34 - Martín Valdés de León (@mvaldesdeleon):
+Dale, te sale TAN barato mantener a esa persona feliz
+15:23:37 - Martín Valdés de León (@mvaldesdeleon):
+por  un par de lucas mas al año
+15:23:41 - Martín Valdés de León (@mvaldesdeleon):
+es estupido no hacerlo no se
+15:24:05 - Martín Valdés de León (@mvaldesdeleon):
+Te juro que no entiendo como se lo justifican internamente.
+15:24:23 - Rodrigo Ali (@rodrigojali):
+Es lo que me pregunté el 60% de mi estadía en Globant.
+15:24:33 - Julian (@jantonielli01):
+Yo tengo amigos que me cuentan esas cosas siempre 
+15:24:41 - Julian (@jantonielli01):
+6% de aumento 
+15:24:50 - Rodrigo Ali (@rodrigojali):
+Pero bueno, tienen una maquinaria de recruiting brutal, entonces medio que les chupa un huevo que te vayas o que estés feliz con la plata, te vas y consiguen otro.
+15:24:56 - Julian (@jantonielli01):
+Siempre les digo que cambien de laburo y consiguen mínimo 30% jaj
+15:24:59 - Martín Valdés de León (@mvaldesdeleon):
+De todas las razones posibles para perder un buen empleado, "ahorrar un par de lucas mas por año" debe ser el top de la estupidez
+15:25:27 - Martín Valdés de León (@mvaldesdeleon):
+Ademas, esta lo que nadie se entera, que es que ese empleado nunca recomienda tu empresa a ninguno de sus conocidos.
+15:26:02 - Martín Valdés de León (@mvaldesdeleon):
+Por el contrario, si pagas bien, no necesitas recruiters.
+15:26:08 - Martín Valdés de León (@mvaldesdeleon):
+Vamos a traer a nuestros conocidos con gusto.
+15:26:11 - Rodrigo Ali (@rodrigojali):
+Eso, gracias por el fix :stuck_out_tongue:
+15:27:01 - Rodrigo Ali (@rodrigojali):
+Para mi lo heavy es que se te termina yendo gente que tiene el know-how
+15:27:25 - Rodrigo Ali (@rodrigojali):
+Entonces la podés romper técnicamente, pero si no conocés el negocio, vas a demorar en ponerte al día. Eso no te pasa con el que ya tenés.
+15:29:43 - Martín Valdés de León (@mvaldesdeleon):
+Si, son dos grandes temas... por un lado lo que es el "Costo de reposicion" de un empleado. En general es como minimo 20% del salario anual.
+15:29:56 - Martín Valdés de León (@mvaldesdeleon):
+Y para empleados de mucha seniority es mas bien 100% del salario anual.
+15:30:18 - Martín Valdés de León (@mvaldesdeleon):
+Y despues que no solo perdes conocimiento tecnico, perdes conocimiento institucional/organizacional.
+15:30:26 - Nico (@nicokorn96):
+ajjaajaajaaaa
+15:30:36 - Martín Valdés de León (@mvaldesdeleon):
+La cultura de la empresa ES la gente de la empresa, y cuando la gente que esta hace mucho tiempo se va, la cultura se va tambien.
+15:30:55 - Marcos Casagrande (@marcoscvp90):
+Hay muchas veces que no lo reponen el empleado, no por que no haga falta, sino porque perdieron algo muy dificil de encontrar por no pagar unos mango más.
+15:30:59 - Martín Valdés de León (@mvaldesdeleon):
+La gente nueva no sabe como eran las cosas antes, no tiene el contexto de por que las cosas se hacen hoy como se hacen.
+15:31:17 - Martín Valdés de León (@mvaldesdeleon):
+No saben "que se probo y no funciono"
+15:31:24 - Sergio Daniel Xalambrí (@sergiodxa):
+también historia del código
+15:31:30 - Sergio Daniel Xalambrí (@sergiodxa):
+porqué hicieron X en Y lugar
+15:31:37 - Sergio Daniel Xalambrí (@sergiodxa):
+si el código no está bien documentado
+15:31:42 - Sergio Daniel Xalambrí (@sergiodxa):
+(lo normal en general)
+15:31:44 - Rodrigo Ali (@rodrigojali):
+O la gran "nah ni idea, pero hablá con tal, sé que estuvo viendo eso"
+15:31:44 - Sergio Daniel Xalambrí (@sergiodxa):
+te jodiste
+15:31:53 - Rodrigo Ali (@rodrigojali):
+El saber con quién hablar muchas veces es CLAVE
+15:31:54 - Sergio Daniel Xalambrí (@sergiodxa):
+y decís WTF a todo
+15:32:04 - Martín Valdés de León (@mvaldesdeleon):
+Tal cual Rodrigo.
+15:32:51 - Sergio Daniel Xalambrí (@sergiodxa):
+en Platzi perdieron a su primer dev, fui con quién el frontend de sus clases en vivo, nunca más lo han tocado, esa cosa es gigante
+15:33:10 - Santiago Ruffino (@santi_0898):
+Yo cuando entre a la empresa tuve contacto con el pibe que les hizo las cosas por dos semanas. Despues, no me contesto mas y me las tuve que arreglar solo
+15:34:07 - Sergio Daniel Xalambrí (@sergiodxa):
+es que tampoco vas a estar toda la vida respondiendo preguntas de tu ex laburo
+15:34:08 - Dayan Ruiz (@dayanr):
+igual todos esos escenarios ideales de me voy si no me pagas depende de tu nivel de expertise
+15:34:11 - Sergio Daniel Xalambrí (@sergiodxa):
+un par de semanas y fue
+15:35:42 - Rodrigo Ali (@rodrigojali):
+Es que no... vos no decís eso para mi Dayan, para mi decís la primera vez "che me gustaría un aumento porque quiero cobrar X", si te dicen que no o te peinan, la segunda vez que caes es con un "che, en tal lado me pagan X, ¿podes mejorar la oferta o me voy?"
+15:35:57 - Marcos Casagrande (@marcoscvp90):
+Yo apenas me fui, no respondí preguntas. Ya deja de ser tu problema.
+15:36:01 - Rodrigo Ali (@rodrigojali):
+Bah, al menos A mi no se me cruza por la cabeza la idea de irme sin algo abajo del brazo.
+15:37:00 - Martin Carrera (@mcarrera):
+por que harias esa pregunta la 2da vez?
+15:37:08 - Sergio Daniel Xalambrí (@sergiodxa):
+<@UGQTUDQSG> eso creo que depende de cada uno
+15:37:10 - Martin Carrera (@mcarrera):
+“che, en tal lado me pagan X, nos re vimos”
+15:37:24 - Marcos Casagrande (@marcoscvp90):
+Siempre y cuando te hayas ido porque no te querían pagar bien, o te negreaban.
+15:37:25 - Martín Valdés de León (@mvaldesdeleon):
+En general mi recomendacion es, sin dejarse pelotudear, no andar quemando puentes.
+15:37:26 - Sergio Daniel Xalambrí (@sergiodxa):
+onda si te vas pero tenés amigos que siguen en la empresa capaz les respondés preguntas de lo que te acuerdes
+15:37:32 - Rodrigo Ali (@rodrigojali):
+Porque no sé si alguna vez tuvieron contacto con gente de management, pero la gente con la que hablé me dijo básicamente que a vos te dan un budget de 100% plata, y de ese porcentaje tenés "habilitado" destinar X% para aumentos, Y% para retención, Z% para otras cosas, y así.
+15:37:33 - Martín Valdés de León (@mvaldesdeleon):
+El mundo es muy chico. El rubro es aun mas chico.
+15:37:40 - Martín Valdés de León (@mvaldesdeleon):
+Y si empezas a escalar en seniority, es AUN mas chico.
+15:37:54 - Sergio Daniel Xalambrí (@sergiodxa):
+tampoco vas a ser un garca que se va y deja todo en llamas y no es capaz de responder una pregunta simple de algún empleado
+15:37:59 - Rodrigo Ali (@rodrigojali):
+Para mi lo que dice Martin tiene mucho peso
+15:38:01 - Martín Valdés de León (@mvaldesdeleon):
+Obviamente eso no quiere decir que vayas a arreglarles un bug en prod si ya renunciaste
+15:38:03 - Marcos Casagrande (@marcoscvp90):
+Yo tengo amigos ahí <@U09KF2RPU> pero fui claro, si quieren que resuelva dudas, les hago una factura.
+15:38:11 - Martín Valdés de León (@mvaldesdeleon):
+pero personalmente no me borraria solo porque "legalmente puedo".
+15:38:21 - Rodrigo Ali (@rodrigojali):
+Eso de no quemar puentes a mi me resulta clave. Y de hecho me consiguió laburos.
+15:38:22 - Marcos Casagrande (@marcoscvp90):
+A mis amigos no les hago el favor, el favor se lo hacés a la empresa.
+15:38:35 - Marcos Casagrande (@marcoscvp90):
+Si al que le sirve que les arregle el bug es a la empresa, que negrea a mis amigos.
+15:38:42 - Martín Valdés de León (@mvaldesdeleon):
+BTW: Todas las empresas grandes REALMENTE chequean las referencias.
+15:38:48 - Martín Valdés de León (@mvaldesdeleon):
+Van a llamar a tus laburos de la ultima decada.
+15:38:51 - Martín Valdés de León (@mvaldesdeleon):
+Y hacer preguntas.
+15:38:58 - Julian (@jantonielli01):
+Lo decís por experiencia? : p
+15:39:04 - Martín Valdés de León (@mvaldesdeleon):
+Sep.
+15:39:12 - Martín Valdés de León (@mvaldesdeleon):
+Un amigo q esta en G me confirmo lo mismo.
+15:39:23 - Marcos Casagrande (@marcoscvp90):
+Obviamente si la empresa fuese copada, y no fue un tema de sueldos etc, no habría drama. Pero en la mayoría de los casos la gente se va porque no está a gusto. Si es lo último, no voy a darles el gusto de solucionarles cosas una vez me fui.
+15:39:27 - Martín Valdés de León (@mvaldesdeleon):
+Hasta llamaron a la facultad a hacer preguntas.
+15:39:46 - Julian (@jantonielli01):
+Que hincha pelotas
+15:40:10 - Rodrigo Ali (@rodrigojali):
+Y está bien, son posturas, para mi tenés que hacer lo que al final del día haga que NO te comas el bocho.
+15:40:12 - Sergio Daniel Xalambrí (@sergiodxa):
+es que todo depende de los terminos en los que te vas
+15:40:16 - Marcos Casagrande (@marcoscvp90):
+Obviamente gratis no laburo, si quieren mi expertise, hay que pagarlo.
+15:40:32 - Rodrigo Ali (@rodrigojali):
+En mi caso depende más de lo que a mi me deja más tranquilo y no tanto de los términos.
+15:40:34 - Marcos Casagrande (@marcoscvp90):
+Aunque termines mal o bien, pensar que alguien te tiene que ayudar gratis, es no valorar su tiempo.
+15:40:38 - Sergio Daniel Xalambrí (@sergiodxa):
+si te vas porque te super cagan no vas a querer responderles nada
+15:40:53 - Sergio Daniel Xalambrí (@sergiodxa):
+pero si te vas porque te interesó más otro laburo y todo bien con la empresa es diferente
+15:41:12 - Martín Valdés de León (@mvaldesdeleon):
+Por eso dije lo de no dejarse boludear. LABURAR gratis obvio que no.
+15:41:39 - Marcos Casagrande (@marcoscvp90):
+O sea, yo les pasé un presupuesto cuando quisieron ayuda, no lo aceptaron.
+15:41:45 - Martín Valdés de León (@mvaldesdeleon):
+Pero si te llaman y te dicen "che te acordas en q archivo estaba tal cosa", no les voy a decir "No me acuerdo pero si me das un par de Benjamines capaz se me refrezca la memoria"
+15:41:53 - Marcos Casagrande (@marcoscvp90):
+O sea, querían mi ayuda GRATIS, seguir cagandome :joy:
+15:42:06 - Sergio Daniel Xalambrí (@sergiodxa):
+ojo que llamas ayuda?
+15:42:18 - Marcos Casagrande (@marcoscvp90):
+1 hora de laburo
+15:42:21 - Sergio Daniel Xalambrí (@sergiodxa):
+porque el ejemplo de Martín me parece que si les cobras sos un forro
+15:42:27 - Sergio Daniel Xalambrí (@sergiodxa):
+ahora si quieren que les hagas código
+15:42:28 - Sergio Daniel Xalambrí (@sergiodxa):
+es otra cosa
+15:42:30 - Martín Valdés de León (@mvaldesdeleon):
+No, LABURAR, onda escribir codigo, pija.
+15:42:34 - Martín Valdés de León (@mvaldesdeleon):
+Eso es consultoria.
+15:42:41 - Martín Valdés de León (@mvaldesdeleon):
+Ahi si, factura o nada.
+15:42:41 - Marcos Casagrande (@marcoscvp90):
+La consultoría se cobra.
+15:42:42 - Sergio Daniel Xalambrí (@sergiodxa):
+si quieren código que paguen 100%
+15:43:05 - Sergio Daniel Xalambrí (@sergiodxa):
+si te dicen "te acordas en que archivo estaba X? no lo encuentro"
+15:43:12 - Marcos Casagrande (@marcoscvp90):
+Yo estoy a favor de cobrar todo, yo si el cliente me hace preguntas en el chat, se lo cobro.
+15:43:15 - Rodrigo Ali (@rodrigojali):
+Me cae bien Marcos, es un mercenario como yo jaajaja
+15:43:18 - Sergio Daniel Xalambrí (@sergiodxa):
+es un "no lo siento" o "si estaba en bla.js" y ya fue
+15:43:46 - Julian (@jantonielli01):
+No sentís el archivo? :thinking_face:
+15:43:53 - Rodrigo Ali (@rodrigojali):
+AJAJAJAJA
+15:44:02 - Rodrigo Ali (@rodrigojali):
+Hey, tecnopatía, altísimo poder para un dev.
+15:44:03 - Santiago Ruffino (@santi_0898):
+Ya aprendi que a Marcos no le puedo preguntar nada. Despues me cae una intimacion judicial. Jajaja
+15:44:13 - Leandro Echevarria (@echevarrialeandro):
+Al veraz de una
+15:44:53 - Marcos Casagrande (@marcoscvp90):
+A ver son cosas diferentes, si alguien me pregunta como hacer esto o aquello en un ambito no laboral respondo. Pero si alguien quiere lucrar con mi conocimiento, se lo tengo que cobrar.
+15:44:53 - Santiago Ruffino (@santi_0898):
+Y ahi le pregunto a Silvio, y Silvio me cobra, y hago una deuda de la puta madre dentro del Slack
+15:45:11 - Santiago Ruffino (@santi_0898):
+Nah, obvio. Todo bien Marcos. Una cosa es ayudar, otra cosa es HACER por el otro
+15:45:15 - Carlos Manotas (@carlosmanotas):
+en donde me he ido he dejado amistad, asi que siempre conteste en la medida de lo posible
+15:46:06 - Marcos Casagrande (@marcoscvp90):
+Yo tengo bocha de amigos, vienen a casa cada 2 findes a comer asado, y los capacito gratis todos los martes. Pero preguntas laborales no les respondo.
+15:47:01 - Marcos Casagrande (@marcoscvp90):
+Acá hay que separar quién hace la pregunta, si la pregunta es consecuencia de que vos te fuiste y ellos no tienen el conocimiento, es problema de ellos por dejarte ir. Si un amigo tuyo te pregunta algo no relacionado con tu laburo puntual en la empresa, yo lo respondo.
+15:47:57 - Silvio Messina (@smessina):
+Ja jajajja <@U9KMYNJMV> tranqui que tenés saldo a favor conmigo, sale defensa Pro Bono
+15:48:08 - Johanna (@johannasabsantos):
+Si, tenes razon
+15:49:35 - Carlos Manotas (@carlosmanotas):
+yo he contado con mucha gente en mis inicio que me ayudaron y contestaron a mis preguntas, y de una forma u otra me ayudaban a lucrarme porque esas preguntas eran para resolver parte de mi trabajo, hoy si puedo hago lo mismo con cualquiera que me pregunte algo que yo sepa, lo ayudo se lucre o no
+15:49:45 - Johanna (@johannasabsantos):
+copado, a que empresa?
+15:50:08 - Rodrigo Ali (@rodrigojali):
+Lo que dice Marcos pasa por otro lado mepa
+15:50:19 - Rodrigo Ali (@rodrigojali):
+Por "hacer el laburo de otro por él"
+15:52:09 - Sergio Daniel Xalambrí (@sergiodxa):
+creo que pasa más por que si la pregunta es abiertamente de laburo
+15:53:45 - Rodrigo Ali (@rodrigojali):
+Claro. Si es abiertamente del laburo del que se fue y por falta del know-how que dejaron ir.
+15:56:40 - Germán Burgardt (@germanandresburgardt):
+msgroup, una empresa de seguros
+15:57:38 - Dayan Ruiz (@dayanr):
+todo depende de los terminos en los que te hayas ido, si te fuiste porque te negreaban, y encima te piden ayuda, supongo que estan dispuestos a recibir cualquier tipo de contestacion
+15:57:47 - Dayan Ruiz (@dayanr):
+pero yo para ser diplomatico le tiraria un rate per hour
+16:19:09 - Lucas Alejo Bellesi (@lucasbellesipocho):
+aca dejo un link del sindicato union informatica con los pisos salariales que ellos consideran <https://unioninformatica.org/institucional/convenio-colectivo-de-trabajo/?fbclid=IwAR27AA8J9ezAxdsEJEmjPGjzscbY564HMjRTz6mEjG0vaqSo16xS5gL90MU#EscalaSalarial>
+16:20:43 - Gonza Gluzman (@gonza):
+Hay muchísima menos diferencia de remuneración por seniority según ese convenio que en la realidad, mepa
+16:21:19 - Lucas Alejo Bellesi (@lucasbellesipocho):
+si posta que si ni me di cuenta jajaja
+16:25:44 - Hernan Rajchert (@sherman):
+PARA PARA PARA… vos me estas diciendo que la diferencia entre un jr y un sr es de 5mil pe?
+16:25:51 - Hernan Rajchert (@sherman):
+/gif no lo se rick
+16:26:15 - Marcos Casagrande (@marcoscvp90):
+Dice año 2016 eso igual.
+16:28:21 - Marcos Casagrande (@marcoscvp90):
+A mi el link ese me muestra todo 2016 :thinking_face:
+16:30:22 - Lucas Alejo Bellesi (@lucasbellesipocho):
+me parece que un sindicato no sirve para tanto al final :disappointed:
+16:30:24 - Silvio Messina (@smessina):
+Acá esta el actualizado a Enero 2019
+16:30:28 - Silvio Messina (@smessina):
+<https://unioninformatica.org/wp-content/uploads/2019/01/CCT-Escala_Salarial-UI_ACTA-PARITARIAS_2018_TERCERA_PARTE.pdf>
+16:30:30 - Rodrigo Ali (@rodrigojali):
+A mi también me figura con 2019
+16:30:45 - Marcos Casagrande (@marcoscvp90):
+Ahí si Silvio.
+16:31:28 - Marcos Casagrande (@marcoscvp90):
+32 Lucas un senior (web)... Eso lo hicieron las empresas del sector :joy:
+16:33:45 - Hernan Rajchert (@sherman):
+y los sindicatos sirven mas que nada para ayudar a los empleados que tienen más riesgo y que la forma de ayudarse es unirse… nosotros tenemos un trabajo de privilegio, ese tipo de convenios en nuestro caso le sirve a los empleadores :stuck_out_tongue:
+16:33:58 - Leandro Echevarria (@echevarrialeandro):
+JAJAJJAJAJAJA Es un chasco eso, no puede ser verdad
+16:34:35 - Fran Sosa (@watafaka):
+igual estoy conforme con mi sueldo.. pero a verrrrrr
+16:35:03 - Esteban Yañez (@eyanez):
+no al sindicato!! :agite:
+16:35:35 - Silvio Messina (@smessina):
+En la parte de abajo estan los "adicionales" que te ponderán para arriba
+16:35:51 - imarenco (@imarenco):
+siempre el sindicato beneficiando al empleado :trollface:
+16:36:17 - Gonzalo González Mora (@gonzalogm):
+Son re bajos, pero igual aclara que son los mínimos
+16:36:36 - Silvio Messina (@smessina):
+esta bueno al menos esta referencia: Salario mínimo de convenio *$ 23.562,50*
+16:36:37 - Marcos Casagrande (@marcoscvp90):
+Si, pero es re bajo para mínimo, al menos para un senior. Para mi un senior no debería estar cobrando abajo de 40 (y ya me parece bajo)
+16:36:44 - Marcos Casagrande (@marcoscvp90):
+y encima me imagino que son *brutos*, lo cual es más triste aún
+16:36:54 - Gonzalo González Mora (@gonzalogm):
+Sip
+16:36:54 - Silvio Messina (@smessina):
+o sea que nadie en IT deberia ganar menos que eso
+16:37:02 - Gonzalo González Mora (@gonzalogm):
+Malísimas las escalas
+16:37:16 - Gonzalo González Mora (@gonzalogm):
+La única que podés rescatar (ponele) es la de junior
+16:40:38 - Aldo Sorbara (@aldo1891):
+para cuando "Union MeetupJS informatica" ?
+16:40:55 - Rodrigo Ali (@rodrigojali):
+El comienzo del fin jajaja
+16:41:47 - Juan Scolari (@juanscolari):
+Para mi en los primeros pasos conviene estar rodeado de un equipo y sacarle el maximo jugo antes que freelance
+16:41:51 - Santiago Ruffino (@santi_0898):
+Alguien noto que un Community Manager gana lo mismo que alguien de I+D?
+16:42:32 - Santiago Ruffino (@santi_0898):
+Y mas que Soporte Tecnico, mesa de ayuda, Data Entry, y mas que QA
+16:42:35 - Juan Scolari (@juanscolari):
+Tambien te va a costar mas conseguir freelance (aunque si tenes algun conocido que necesite algo te podes mandar a hacerlo)
+16:43:53 - Juan Scolari (@juanscolari):
+Para un portfolio algo que puedas mostrar las habilidades que tenes, mejor meterle mucho a pocos proyectos que un poco a varios que son parecidos
+16:44:02 - Rodrigo Ali (@rodrigojali):
+Pienso lo mismo que Juan, para mi el paso por empresas grandes es (en la gran mayoría de los casos) obligatorio. Te nutre muchísimo en muchos niveles.
+16:47:20 - Juan Scolari (@juanscolari):
+A los QA se les paga muy poco
+16:47:37 - Rodrigo Ali (@rodrigojali):
+Si. Salvo que hagas automation.
+16:48:32 - Juan Scolari (@juanscolari):
+Es raro cuando tenes escalas tan desbalanceadas en un mismo equipo
+16:49:01 - Fran Sosa (@watafaka):
+deberia estar sacando 9 lucas más, ni que programara tan bien :rolling_on_the_floor_laughing:
+16:49:30 - Juan Scolari (@juanscolari):
+Es como dijo Martin, que tan bien negocio uno el sueldo mas que como programa jaj
+16:52:38 - Roberto Ruiz (@robmrui):
+tambien puede ser directamente proporcional al humo :smile:, yo por ejemplo tengo menos venta que un nokia 1100 hoy jajaja
+16:55:26 - Aldo Sorbara (@aldo1891):
+Nokia 1100, celular irrompible, gran linterna, tiene el juego de la viborita que es un vicio, la bateria te dura dias. tenes señal hasta abajo de un tunel
+16:55:54 - Rodrigo Ali (@rodrigojali):
+Dejé de leer en "viborita". Contratado.
+16:56:44 - Roberto Ruiz (@robmrui):
+Mal, me parte el alma no poder usarlos hoy. A veces me pudre si decidir entre iOS, Android y las marcas de smartphones. Antes era un Nokia o Motorola, y punto.
+17:13:28 - Fran Sosa (@watafaka):
+seguramente, yo entré como jr, pero deberia ser trainee, hace 7 meses que estoy en el sector.
+17:16:25 - Juan Scolari (@juanscolari):
+negociaste bien
+17:19:06 - Fran Sosa (@watafaka):
+Debi parecer una chimenea de tanto humo jajaj
+17:19:38 - Fran Sosa (@watafaka):
+Cuestión, estan mas o menos acorde ustedes con la tabla esa?
+17:23:49 - Rodrigo Ali (@rodrigojali):
+No.
+17:24:06 - Agustin Mulet (@sugusin):
+Ah comparado esos números yo soy il gran caruso :caruso:
+17:24:24 - Martín Valdés de León (@mvaldesdeleon):
+Igual fijense q al fondo de la tabla hay algunas pautas para subir la base.
+17:24:34 - Martín Valdés de León (@mvaldesdeleon):
+En funcion de idiomas, titulo, antiguedad, responsabilidades.
+17:25:08 - Rodrigo Ali (@rodrigojali):
+Sí pero no suman mucho
+17:25:16 - Rodrigo Ali (@rodrigojali):
+Hice hace un rato los números y no te levanta tanto.
+17:25:39 - Rodrigo Ali (@rodrigojali):
+NO vas a pasar, ponele en web dev Sr de 39k bruto a 60k bruto con los adicionales.
+17:25:47 - Rodrigo Ali (@rodrigojali):
+(en febrero)
+17:26:32 - Ezequiel Leites (@leites25):
+Quizas hay un bug en la formula del Excel :thinking_face:
+17:27:05 - Marcelo Sebastián Fernández Sábato (@msfs_junin):
+No se como es el caso puntual de la union informatica, pero en mi caso estoy suscrito a otro gremio por convenio colectivo y si bien, el basico es bajo, cobramos casi lo mismo de basico en otro item que se llama adicional basico sobre convenio y con eso mas o menos quedamos en valores de mercado
+17:27:06 - Martín Valdés de León (@mvaldesdeleon):
+Podes eh.
+17:27:25 - Martín Valdés de León (@mvaldesdeleon):
+Es 20% por team lead, 8% por saber ingles, 12% por tener titulo, sumale 10 años de experiencia y tenes un adicional de 50%
+17:27:28 - Martín Valdés de León (@mvaldesdeleon):
+que es para pasar de 40 a 60
+17:27:38 - Martín Valdés de León (@mvaldesdeleon):
+(igual es una mierda la tabla pero digo)
+17:28:09 - Ezequiel Leites (@leites25):
+Y vivir a minimo 50km de la oficina
+17:29:21 - Rodrigo Ali (@rodrigojali):
+Claro jajaja, pero con 10 años de experiencia y siendo TL con titulo e inglés, cobrando 60k bruto :stuck_out_tongue:
+17:29:32 - Rodrigo Ali (@rodrigojali):
+Es como decis vos, una mierda esa banda salarial
+17:29:53 - Rodrigo Ali (@rodrigojali):
+Ni hablar si conseguis laburo remoto para afuera, ahi se va todo al pingo
+17:30:57 - Gonza Espeche (@espeche.g):
+esa tabla es re fisura... hay una enorme brecha entre laburar para empresa local que una extranjera
+17:31:42 - Julian (@jantonielli01):
+no me sorprendería igual q la mayoría cobre cerca de eso though
+17:32:27 - Silvio Messina (@smessina):
+Si, se llama "impuestos"
+17:35:49 - Gonza Espeche (@espeche.g):
+:dart:
+18:17:41 - Gonza Gluzman (@gonza):
+Vo’ decís? Para mí que se llama devaluación
+18:22:40 - Silvio Messina (@smessina):
+Impuestanflacion
+18:24:24 - Gonza Gluzman (@gonza):
+El salario bruto afuera sigue siendo infinito más alto que el bruto local
+18:24:34 - Gonza Gluzman (@gonza):
+:face_with_rolling_eyes:
