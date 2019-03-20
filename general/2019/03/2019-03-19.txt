@@ -1,0 +1,400 @@
+23:48:19 - German Gonzalez (@gercho):
+Alguien leyó o recomienda estos dos libros?
+23:48:21 - German Gonzalez (@gercho):
+<https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?keywords=Clean+code&amp;qid=1552963555&amp;s=gateway&amp;sr=8-1>
+23:48:23 - German Gonzalez (@gercho):
+<https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?keywords=Clean+code&amp;qid=1552963555&amp;s=gateway&amp;sr=8-3>
+08:25:43 - Gabriel Fusca (@gfuscax):
+Hola, vengo a opinar :stuck_out_tongue:
+
+Hace ya varios años que me recibí de Ing. Informático. Como muchos arranqué con Pascal, aunque me dolían los ojos con el azul de fondo y las letras amarillas :cry:
+
+Soy docente desde el 2011. En mi caso, me encuentro dando una materia que es exclusivamente de programación y actualizamos constantemente las tecnologías y el contenido de la materia, sin perder de vista que no sirve sólo dar X tecnología. Por ej, el TP de la materia incluye armar una app mobile con un server en NodeJS (Mongo o similar), un backoffice en React/Angular y la utilización de varios cloud services (firebase, heroku, etc).
+
+Hay varios docentes que van actualizando el contenido y herramientas aunque el plan de estudio siga siendo el mismo desde hace 20 años. Esto desde hace algunos años que se viene trabajando para la actualización de planes y contenido.
+
+Coincido en algunos puntos que mencionan; los planes/contenido/duración de la carrera no se ajusta a las necesidades del mercado ni a la velocidad con que evolucionan las tecnologías y a la disponibilidad de material disponible en internet.
+
+Más teniendo en cuenta que, en el caso de la UBA, es realmente muy complicado poder trabajar y recibirse al mismo tiempo (lo hice pero demoré bastante más). Este punto realmente desanima mucho a poder terminar la carrera teniendo en cuenta la oferta laboral.
+
+Hoy en día, con el contenido disponible en internet uno puede aprender de forma autodidacta y desempeñarse en nuestra área. Trabajé con muy buenos profesionales que aprendieron por su cuenta y que estaban a la misma altura que alguien que hizo una carrera universitaria. También conozco gente que se recibió y realmente no sabe como desempeñarse en nuestro rubro (no sé a qué fueron a la Facultad). Ejemplos hay para todos los casos.
+
+Por otro lado creo que la Facultad te dá algunas herramientas, que si uno tiene la posibilidad de aprovecharlas, realmente es un valor agregado con respecto a una formación que uno puede hacer por su cuenta. Brinda una buena base que es independiente del paradigma o tecnología. En mi caso, la Facultad me dió herramientas para poder desempeñarme en diferentes ambientes, incluso poder trabajar en investigación, haciendo ciencia desde nuestro rubro, incluso en diferentes roles, no sólo como desarrollador. Esto no quiere decir que veo la Matrix y soy mejor que la gente sin un título, solo que es una forma diferente de aprender y que si uno puede aprovecharla creo que realmente vale la pena.
+
+Si bien, como mencione antes, trabaje y conocí a personas realmente buenas que no estudiaron por su cuenta, en el average, noto bastante diferencia entre alguien que aprendió X cosa y alguien que tuvo una formación más general y extensa independiente de X y que puede comprender X/Y con herramientas más generalistas.
+
+Nuevamente esto es una apreciación personal.
+08:41:37 - Marcelo Sebastián Fernández Sábato (@msfs_junin):
+Hola German yo lei los 2 libros, clean code es excelente, te hace notar muchas cosas que a veces en haras de ponernos a codear, no tenemos en cuenta, como por ejemplo, algo muy simple
+que el codigo que escribimos lo vamos a pasar leyendo mucho mas tiempo del que tardemos en escribirlo y por ello debemos prestar atencion a como lo hacemos. O aun peor, lo va a leer alguien mas, dentro de meses o años
+y no nos va a tener al lado para preguntarnos. Te da lineamientos para aplicar buenas practicas al desarrollo de codigo, despues en la segunda parte te da ejemplos sobre como aplicar estas cuestiones y una tercera parte donde te presenta tecnicas para detectar codigo "no limpio", que puede mejorarse.
+
+El segundo, no me gusto tanto, si bien es un libro interesante para leer ya que Uncle Bob es uno de los grandes referentes y tiene una experiencia que muy pocos tienen, esperaba otra cosa. Hay muchas cosas que las venia leyendo en su blog. Supongo que eso tiene mas que ver conmigo que con el libro, cuando lei Clean Code, no tenia ni la menor idea de los conceptos sobre los que versaba entonces fue un "deslumbramiento" en cambio con Clean Architecture me agarro en otra época, con algo mas de experiencia. Ademas, este último no tiene casos tan concretos, presenta cuestiones y definiciones mas de alto nivel, esta bueno porque te hace repensar y plantearte algunas cosas, pero me quedo sabor a poco, me arrepentí de comprarlo en papel.
+
+De todas maneras si no leiste ninguno de los 2, creo que es mejor iniciar por el primero, al menos a mi me aporto mucho en su momento y es un libro super ameno de leer. Además, creo que leerlos en orden inverso es mas complicado, si no estoy confundido en algunas partes de Clean Architecture repite algunos conceptos de Clean Code, pero muy por encima. Por último, una nota al pie, estan los 2 en castellano, aunque creo que en esta profesion hay que estar aceitado con el inglés.
+
+Bueno, esos son mis 2 centavos, saludos!
+08:59:56 - Jonas Millan (@millan.jonas.1994):
+Hola gente 
+09:00:02 - Jonas Millan (@millan.jonas.1994):
+Dejo este bundle por aca
+09:00:05 - Jonas Millan (@millan.jonas.1994):
+<https://www.humblebundle.com/books/web-programming-oreilly-books>
+09:00:11 - Jonas Millan (@millan.jonas.1994):
+Para quien le interese
+09:06:18 - Jorge Cano (@jorgeucano):
+feliz cumpleaños al genio de <@U0H8NNQBF>
+09:25:43 - German Gonzalez (@gercho):
+Muchas gracias, buena data!
+09:25:51 - Nico (@nicokorn96):
+yes sir
+09:56:17 - Luis Ventocilla (@lvsmix):
+Feliz cumple Arepologo querido cc <@U0H8NNQBF>
+09:56:26 - Luis Ventocilla (@lvsmix):
+A ver cuando pinta unas arepas
+09:56:27 - Luis Ventocilla (@lvsmix):
+?
+09:56:31 - Luis Ventocilla (@lvsmix):
+Un abrazo
+11:07:39 - Aldo Sorbara (@aldo1891):
+Acá trajo cachitos venezolanos asi que ahora si puedo decir:  Feliz cumple <@U0H8NNQBF>!!!
+11:15:05 - Santiago Ruffino (@santi_0898):
+Arepas :drooling_face:
+11:43:17 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola! Tengo conocimientos de html5 y css3. Hace poco q estoy estudiando js. Quisiera saber algunas cosas:
+
+Cuáles son los conocimientos mínimos que hay q tener para arrancar como trainee o junior en alguna empresa?
+
+Cuántas horas diarias/semanales se requieren de trabajo en esas empresas?
+
+Cuánto pagan aproximadamente en Argentina?
+11:44:37 - Juan Scolari (@juanscolari):
+En <#C54TWDKN1|experiencia-laboral> estamos hablando de varias de esas cosas
+11:50:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!!
+12:31:57 - Andrés Villanueva (@pana):
+Gracias mi pan!
+12:32:14 - Andrés Villanueva (@pana):
+Gracias Luisito! Hahahaha, Evangelizador de la Arepa, no se te olvide…
+12:32:20 - Andrés Villanueva (@pana):
+Hahahahahaha!!!
+14:14:47 - Luis Ventocilla (@lvsmix):
+Jajaja. Dale avisa cuando salimos a degustar una!!
+14:16:51 - Cristhian Duran (@cris):
+<https://www.meetup.com/es-ES/burgerjs/events/259897068>
+14:17:12 - Cristhian Duran (@cris):
+por si hay alguien que no esté en <#C2NLZG1K7|burgerjs> y le interesa venir, ahí tienen el evento
+14:17:28 - Julian (@jantonielli01):
+ah pero yo queria panchos
+14:17:45 - Carlos Manotas (@carlosmanotas):
+la ultima vez me comi uno
+14:18:14 - Sergio Daniel Xalambrí (@sergiodxa):
+Panchos.js
+14:18:20 - Cristhian Duran (@cris):
+decí que no te vi cuando lo compraste Manotas, sino expulsado
+14:18:44 - Sergio Daniel Xalambrí (@sergiodxa):
+no hay Pizza.js?
+14:18:57 - José Ram'rez (@jarcodallo):
+<@U24KJ4JET> esta vez si hay stikers? :stuck_out_tongue:
+14:19:00 - Carlos Manotas (@carlosmanotas):
+era vegano el pancho y dije como mas jodo esto
+14:19:23 - Cristhian Duran (@cris):
+si, esta vez si!, ya están en mi mochila!
+14:19:44 - José Ram'rez (@jarcodallo):
+:eyesbleed:
+14:21:07 - Sergio Daniel Xalambrí (@sergiodxa):
+al sticker de la constante le falta un `.reduce('\n\)`
+14:21:19 - Sergio Daniel Xalambrí (@sergiodxa):
+para que queden los ingredientes uno arriba de otro :stuck_out_tongue:
+14:21:33 - Cristhian Duran (@cris):
+los stickers de `const :hamburger: = ...` no son gratis, se dan a cambio de otro sticker O DESPUÉS DE CANTAR EL ESTRIBILLO DEL TORERO DE CHAYANNE para las y los asistentes.
+14:21:54 - Julian (@jantonielli01):
+vos queres la chancha y los 20
+14:22:28 - Julian (@jantonielli01):
+utilizando las frases de los campesinos <@U0TFEHWEA> <@U0DHEL1PC> y co
+14:24:12 - Cristhian Duran (@cris):
+NERD
+14:24:52 - Gonza Gluzman (@gonza):
+A mí me gustan los alcahuciles
+14:25:03 - Gonza Gluzman (@gonza):
+Voy a organizar un alcahucil.js
+14:25:13 - Hernan Rajchert (@sherman):
+:pig:
+14:25:29 - Rodrigo Ali (@rodrigojali):
+Si a vos te gustan los dos panes arriba y la lechuga abajo del todo, nadie te juzga.
+
+Yo prefiero que me des el array y lo armo a mi manera :stuck_out_tongue:
+14:39:14 - Sergio Daniel Xalambrí (@sergiodxa):
+hay que cambiar los emojis para que sean pan, queso, carne, pan (la lechuga la podemos dejar afuera :stuck_out_tongue: )
+14:47:07 - Gonzalo González Mora (@gonzalogm):
+En Rosario tenemos que organizar #gatopanjs
+14:50:49 - Miguel Guanique (@guaniqueseguias):
+Buenas tardes, un gusto estar aca y formar parte de esta comunidad!
+15:10:46 - Luis Ventocilla (@lvsmix):
+<@U0H8NNQBF> para cuando una  arepajs??
+15:12:55 - Hernan Rajchert (@sherman):
+Para los amantes de las arepas, el otro dia fui a un lugar muy bueno
+15:13:49 - Luis Ventocilla (@lvsmix):
+Te va una si canto Leña para el carbon? <https://www.youtube.com/watch?v=T6swULa9X1U>
+15:14:08 - Hernan Rajchert (@sherman):
+<https://www.google.com/maps/place/Buenas+Arepas+-+Barichara/@-34.5595352,-58.4596585,19z/data=!4m8!1m2!2m1!1sarepa!3m4!1s0x0:0xeef17a89efa3feda!8m2!3d-34.5594877!4d-58.4597008>
+15:14:09 - Julian (@jantonielli01):
+Un asadojs primero, estamos en argentina after all 
+15:14:23 - Hernan Rajchert (@sherman):
+ya hubo!
+15:14:34 - Luis Ventocilla (@lvsmix):
+locrojs
+15:14:36 - Hernan Rajchert (@sherman):
+organizado por un brazilero… true story :troll:
+15:15:13 - Julian (@jantonielli01):
+Que feo el locro 
+15:15:18 - Julian (@jantonielli01):
+Ah, no es <#C0PHBKNNA|forobardo> 
+15:15:23 - Luis Ventocilla (@lvsmix):
+jajaja
+15:15:34 - Julian (@jantonielli01):
+No importa igual si es verdad
+15:16:02 - Hernan Rajchert (@sherman):
+<https://www.youtube.com/watch?v=oNcSvOPfVXM>
+15:16:10 - Hernan Rajchert (@sherman):
+ud se tiene que arrepentir!
+15:26:11 - Santiago Ruffino (@santi_0898):
+Si me mandan los stickers, les grabo la cancion completa
+17:30:26 - Julian (@jantonielli01):
+19:30 el burgerjs??
+17:30:54 - Julian (@jantonielli01):
+un latte con hamburguesa para la merienda
+17:31:33 - Cristhian Duran (@cris):
+si no estamos para las 20 ocupando las mesas las perdemos, por eso la hora
+17:31:52 - Cristhian Duran (@cris):
+llegamos 19:30, pedimos una bebida y 20:15 arrancamos a pedir morfi
+17:31:57 - Martin Carrera (@mcarrera):
+19:30 metes birra y tipo 20:30 ~ 21 metes hamburguesa
+17:31:58 - Rodrigo Ali (@rodrigojali):
+Acá en Córdoba se hace a las 19:30
+17:31:59 - Cristhian Duran (@cris):
+no es una locura tampoco :eyes:
+17:32:05 - Rodrigo Ali (@rodrigojali):
+Digo, 19:00
+17:33:16 - Brian Hume (@brianh20):
+para cuando llegue van a hablar todos en typescript
+17:41:20 - Carlos Manotas (@carlosmanotas):
+estas onfire <@U0DHEL1PC> hoy
+17:44:04 - Santiago Ruffino (@santi_0898):
+Alguien no tiene ganas de laburar. Jajaja
+17:44:32 - Gonza Espeche (@espeche.g):
+se le cayó la VPN
+17:45:56 - Santiago Ruffino (@santi_0898):
+No te juzgo Sherman. Estoy igual
+17:47:35 - Rodrigo Ali (@rodrigojali):
+¿De vos tenía que pasar un CV hoy? :stuck_out_tongue:
+17:50:36 - Santiago Ruffino (@santi_0898):
+No... Era mi alter ego
+17:51:34 - Rodrigo Ali (@rodrigojali):
+Ahora la agarro a Sofi y le advierto de un tal Santiago Ruffino
+17:54:20 - Santiago Ruffino (@santi_0898):
+Jajaja, ya tengo las neuronas quemadas. Hoy volvio mi "supervisor" de vacaciones, y la verdad, no pude sentarme mas de 15 minutos a tirar codigo tranquilo. Siempre ALGO me cortaba. Ahora me vine a la oficina de al lado que estoy solo, pero mi cabeza ya esta ida
+17:54:46 - Rodrigo Ali (@rodrigojali):
+El año está perdido.
+18:03:16 - Santiago Ruffino (@santi_0898):
+La semana por lo menos
+23:48:19 - German Gonzalez (@gercho):
+Alguien leyó o recomienda estos dos libros?
+23:48:21 - German Gonzalez (@gercho):
+<https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?keywords=Clean+code&amp;qid=1552963555&amp;s=gateway&amp;sr=8-1>
+23:48:23 - German Gonzalez (@gercho):
+<https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_3?keywords=Clean+code&amp;qid=1552963555&amp;s=gateway&amp;sr=8-3>
+08:25:43 - Gabriel Fusca (@gfuscax):
+Hola, vengo a opinar :stuck_out_tongue:
+
+Hace ya varios años que me recibí de Ing. Informático. Como muchos arranqué con Pascal, aunque me dolían los ojos con el azul de fondo y las letras amarillas :cry:
+
+Soy docente desde el 2011. En mi caso, me encuentro dando una materia que es exclusivamente de programación y actualizamos constantemente las tecnologías y el contenido de la materia, sin perder de vista que no sirve sólo dar X tecnología. Por ej, el TP de la materia incluye armar una app mobile con un server en NodeJS (Mongo o similar), un backoffice en React/Angular y la utilización de varios cloud services (firebase, heroku, etc).
+
+Hay varios docentes que van actualizando el contenido y herramientas aunque el plan de estudio siga siendo el mismo desde hace 20 años. Esto desde hace algunos años que se viene trabajando para la actualización de planes y contenido.
+
+Coincido en algunos puntos que mencionan; los planes/contenido/duración de la carrera no se ajusta a las necesidades del mercado ni a la velocidad con que evolucionan las tecnologías y a la disponibilidad de material disponible en internet.
+
+Más teniendo en cuenta que, en el caso de la UBA, es realmente muy complicado poder trabajar y recibirse al mismo tiempo (lo hice pero demoré bastante más). Este punto realmente desanima mucho a poder terminar la carrera teniendo en cuenta la oferta laboral.
+
+Hoy en día, con el contenido disponible en internet uno puede aprender de forma autodidacta y desempeñarse en nuestra área. Trabajé con muy buenos profesionales que aprendieron por su cuenta y que estaban a la misma altura que alguien que hizo una carrera universitaria. También conozco gente que se recibió y realmente no sabe como desempeñarse en nuestro rubro (no sé a qué fueron a la Facultad). Ejemplos hay para todos los casos.
+
+Por otro lado creo que la Facultad te dá algunas herramientas, que si uno tiene la posibilidad de aprovecharlas, realmente es un valor agregado con respecto a una formación que uno puede hacer por su cuenta. Brinda una buena base que es independiente del paradigma o tecnología. En mi caso, la Facultad me dió herramientas para poder desempeñarme en diferentes ambientes, incluso poder trabajar en investigación, haciendo ciencia desde nuestro rubro, incluso en diferentes roles, no sólo como desarrollador. Esto no quiere decir que veo la Matrix y soy mejor que la gente sin un título, solo que es una forma diferente de aprender y que si uno puede aprovecharla creo que realmente vale la pena.
+
+Si bien, como mencione antes, trabaje y conocí a personas realmente buenas que no estudiaron por su cuenta, en el average, noto bastante diferencia entre alguien que aprendió X cosa y alguien que tuvo una formación más general y extensa independiente de X y que puede comprender X/Y con herramientas más generalistas.
+
+Nuevamente esto es una apreciación personal.
+08:41:37 - Marcelo Sebastián Fernández Sábato (@msfs_junin):
+Hola German yo lei los 2 libros, clean code es excelente, te hace notar muchas cosas que a veces en haras de ponernos a codear, no tenemos en cuenta, como por ejemplo, algo muy simple
+que el codigo que escribimos lo vamos a pasar leyendo mucho mas tiempo del que tardemos en escribirlo y por ello debemos prestar atencion a como lo hacemos. O aun peor, lo va a leer alguien mas, dentro de meses o años
+y no nos va a tener al lado para preguntarnos. Te da lineamientos para aplicar buenas practicas al desarrollo de codigo, despues en la segunda parte te da ejemplos sobre como aplicar estas cuestiones y una tercera parte donde te presenta tecnicas para detectar codigo "no limpio", que puede mejorarse.
+
+El segundo, no me gusto tanto, si bien es un libro interesante para leer ya que Uncle Bob es uno de los grandes referentes y tiene una experiencia que muy pocos tienen, esperaba otra cosa. Hay muchas cosas que las venia leyendo en su blog. Supongo que eso tiene mas que ver conmigo que con el libro, cuando lei Clean Code, no tenia ni la menor idea de los conceptos sobre los que versaba entonces fue un "deslumbramiento" en cambio con Clean Architecture me agarro en otra época, con algo mas de experiencia. Ademas, este último no tiene casos tan concretos, presenta cuestiones y definiciones mas de alto nivel, esta bueno porque te hace repensar y plantearte algunas cosas, pero me quedo sabor a poco, me arrepentí de comprarlo en papel.
+
+De todas maneras si no leiste ninguno de los 2, creo que es mejor iniciar por el primero, al menos a mi me aporto mucho en su momento y es un libro super ameno de leer. Además, creo que leerlos en orden inverso es mas complicado, si no estoy confundido en algunas partes de Clean Architecture repite algunos conceptos de Clean Code, pero muy por encima. Por último, una nota al pie, estan los 2 en castellano, aunque creo que en esta profesion hay que estar aceitado con el inglés.
+
+Bueno, esos son mis 2 centavos, saludos!
+08:59:56 - Jonas Millan (@millan.jonas.1994):
+Hola gente 
+09:00:02 - Jonas Millan (@millan.jonas.1994):
+Dejo este bundle por aca
+09:00:05 - Jonas Millan (@millan.jonas.1994):
+<https://www.humblebundle.com/books/web-programming-oreilly-books>
+09:00:11 - Jonas Millan (@millan.jonas.1994):
+Para quien le interese
+09:06:18 - Jorge Cano (@jorgeucano):
+feliz cumpleaños al genio de <@U0H8NNQBF>
+09:25:43 - German Gonzalez (@gercho):
+Muchas gracias, buena data!
+09:25:51 - Nico (@nicokorn96):
+yes sir
+09:56:17 - Luis Ventocilla (@lvsmix):
+Feliz cumple Arepologo querido cc <@U0H8NNQBF>
+09:56:26 - Luis Ventocilla (@lvsmix):
+A ver cuando pinta unas arepas
+09:56:27 - Luis Ventocilla (@lvsmix):
+?
+09:56:31 - Luis Ventocilla (@lvsmix):
+Un abrazo
+11:07:39 - Aldo Sorbara (@aldo1891):
+Acá trajo cachitos venezolanos asi que ahora si puedo decir:  Feliz cumple <@U0H8NNQBF>!!!
+11:15:05 - Santiago Ruffino (@santi_0898):
+Arepas :drooling_face:
+11:43:17 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola! Tengo conocimientos de html5 y css3. Hace poco q estoy estudiando js. Quisiera saber algunas cosas:
+
+Cuáles son los conocimientos mínimos que hay q tener para arrancar como trainee o junior en alguna empresa?
+
+Cuántas horas diarias/semanales se requieren de trabajo en esas empresas?
+
+Cuánto pagan aproximadamente en Argentina?
+11:44:37 - Juan Scolari (@juanscolari):
+En <#C54TWDKN1|experiencia-laboral> estamos hablando de varias de esas cosas
+11:50:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!!
+12:31:57 - Andrés Villanueva (@pana):
+Gracias mi pan!
+12:32:14 - Andrés Villanueva (@pana):
+Gracias Luisito! Hahahaha, Evangelizador de la Arepa, no se te olvide…
+12:32:20 - Andrés Villanueva (@pana):
+Hahahahahaha!!!
+14:14:47 - Luis Ventocilla (@lvsmix):
+Jajaja. Dale avisa cuando salimos a degustar una!!
+14:16:51 - Cristhian Duran (@cris):
+<https://www.meetup.com/es-ES/burgerjs/events/259897068>
+14:17:12 - Cristhian Duran (@cris):
+por si hay alguien que no esté en <#C2NLZG1K7|burgerjs> y le interesa venir, ahí tienen el evento
+14:17:28 - Julian (@jantonielli01):
+ah pero yo queria panchos
+14:17:45 - Carlos Manotas (@carlosmanotas):
+la ultima vez me comi uno
+14:18:14 - Sergio Daniel Xalambrí (@sergiodxa):
+Panchos.js
+14:18:20 - Cristhian Duran (@cris):
+decí que no te vi cuando lo compraste Manotas, sino expulsado
+14:18:44 - Sergio Daniel Xalambrí (@sergiodxa):
+no hay Pizza.js?
+14:18:57 - José Ram'rez (@jarcodallo):
+<@U24KJ4JET> esta vez si hay stikers? :stuck_out_tongue:
+14:19:00 - Carlos Manotas (@carlosmanotas):
+era vegano el pancho y dije como mas jodo esto
+14:19:23 - Cristhian Duran (@cris):
+si, esta vez si!, ya están en mi mochila!
+14:19:44 - José Ram'rez (@jarcodallo):
+:eyesbleed:
+14:21:07 - Sergio Daniel Xalambrí (@sergiodxa):
+al sticker de la constante le falta un `.reduce('\n\)`
+14:21:19 - Sergio Daniel Xalambrí (@sergiodxa):
+para que queden los ingredientes uno arriba de otro :stuck_out_tongue:
+14:21:33 - Cristhian Duran (@cris):
+los stickers de `const :hamburger: = ...` no son gratis, se dan a cambio de otro sticker O DESPUÉS DE CANTAR EL ESTRIBILLO DEL TORERO DE CHAYANNE para las y los asistentes.
+14:21:54 - Julian (@jantonielli01):
+vos queres la chancha y los 20
+14:22:28 - Julian (@jantonielli01):
+utilizando las frases de los campesinos <@U0TFEHWEA> <@U0DHEL1PC> y co
+14:24:12 - Cristhian Duran (@cris):
+NERD
+14:24:52 - Gonza Gluzman (@gonza):
+A mí me gustan los alcahuciles
+14:25:03 - Gonza Gluzman (@gonza):
+Voy a organizar un alcahucil.js
+14:25:13 - Hernan Rajchert (@sherman):
+:pig:
+14:25:29 - Rodrigo Ali (@rodrigojali):
+Si a vos te gustan los dos panes arriba y la lechuga abajo del todo, nadie te juzga.
+
+Yo prefiero que me des el array y lo armo a mi manera :stuck_out_tongue:
+14:39:14 - Sergio Daniel Xalambrí (@sergiodxa):
+hay que cambiar los emojis para que sean pan, queso, carne, pan (la lechuga la podemos dejar afuera :stuck_out_tongue: )
+14:47:07 - Gonzalo González Mora (@gonzalogm):
+En Rosario tenemos que organizar #gatopanjs
+14:50:49 - Miguel Guanique (@guaniqueseguias):
+Buenas tardes, un gusto estar aca y formar parte de esta comunidad!
+15:10:46 - Luis Ventocilla (@lvsmix):
+<@U0H8NNQBF> para cuando una  arepajs??
+15:12:55 - Hernan Rajchert (@sherman):
+Para los amantes de las arepas, el otro dia fui a un lugar muy bueno
+15:13:49 - Luis Ventocilla (@lvsmix):
+Te va una si canto Leña para el carbon? <https://www.youtube.com/watch?v=T6swULa9X1U>
+15:14:08 - Hernan Rajchert (@sherman):
+<https://www.google.com/maps/place/Buenas+Arepas+-+Barichara/@-34.5595352,-58.4596585,19z/data=!4m8!1m2!2m1!1sarepa!3m4!1s0x0:0xeef17a89efa3feda!8m2!3d-34.5594877!4d-58.4597008>
+15:14:09 - Julian (@jantonielli01):
+Un asadojs primero, estamos en argentina after all 
+15:14:23 - Hernan Rajchert (@sherman):
+ya hubo!
+15:14:34 - Luis Ventocilla (@lvsmix):
+locrojs
+15:14:36 - Hernan Rajchert (@sherman):
+organizado por un brazilero… true story :troll:
+15:15:13 - Julian (@jantonielli01):
+Que feo el locro 
+15:15:18 - Julian (@jantonielli01):
+Ah, no es <#C0PHBKNNA|forobardo> 
+15:15:23 - Luis Ventocilla (@lvsmix):
+jajaja
+15:15:34 - Julian (@jantonielli01):
+No importa igual si es verdad
+15:16:02 - Hernan Rajchert (@sherman):
+<https://www.youtube.com/watch?v=oNcSvOPfVXM>
+15:16:10 - Hernan Rajchert (@sherman):
+ud se tiene que arrepentir!
+15:26:11 - Santiago Ruffino (@santi_0898):
+Si me mandan los stickers, les grabo la cancion completa
+17:30:26 - Julian (@jantonielli01):
+19:30 el burgerjs??
+17:30:54 - Julian (@jantonielli01):
+un latte con hamburguesa para la merienda
+17:31:33 - Cristhian Duran (@cris):
+si no estamos para las 20 ocupando las mesas las perdemos, por eso la hora
+17:31:52 - Cristhian Duran (@cris):
+llegamos 19:30, pedimos una bebida y 20:15 arrancamos a pedir morfi
+17:31:57 - Martin Carrera (@mcarrera):
+19:30 metes birra y tipo 20:30 ~ 21 metes hamburguesa
+17:31:58 - Rodrigo Ali (@rodrigojali):
+Acá en Córdoba se hace a las 19:30
+17:31:59 - Cristhian Duran (@cris):
+no es una locura tampoco :eyes:
+17:32:05 - Rodrigo Ali (@rodrigojali):
+Digo, 19:00
+17:33:16 - Brian Hume (@brianh20):
+para cuando llegue van a hablar todos en typescript
+17:41:20 - Carlos Manotas (@carlosmanotas):
+estas onfire <@U0DHEL1PC> hoy
+17:44:04 - Santiago Ruffino (@santi_0898):
+Alguien no tiene ganas de laburar. Jajaja
+17:44:32 - Gonza Espeche (@espeche.g):
+se le cayó la VPN
+17:45:56 - Santiago Ruffino (@santi_0898):
+No te juzgo Sherman. Estoy igual
+17:47:35 - Rodrigo Ali (@rodrigojali):
+¿De vos tenía que pasar un CV hoy? :stuck_out_tongue:
+17:50:36 - Santiago Ruffino (@santi_0898):
+No... Era mi alter ego
+17:51:34 - Rodrigo Ali (@rodrigojali):
+Ahora la agarro a Sofi y le advierto de un tal Santiago Ruffino
+17:54:20 - Santiago Ruffino (@santi_0898):
+Jajaja, ya tengo las neuronas quemadas. Hoy volvio mi "supervisor" de vacaciones, y la verdad, no pude sentarme mas de 15 minutos a tirar codigo tranquilo. Siempre ALGO me cortaba. Ahora me vine a la oficina de al lado que estoy solo, pero mi cabeza ya esta ida
+17:54:46 - Rodrigo Ali (@rodrigojali):
+El año está perdido.
+18:03:16 - Santiago Ruffino (@santi_0898):
+La semana por lo menos
