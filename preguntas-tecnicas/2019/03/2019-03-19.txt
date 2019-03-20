@@ -1,0 +1,222 @@
+06:58:28 - nomopo (@nomopo):
+buenas.. una pregunta tengo un formulario que envio por js:
+07:00:02 - nomopo (@nomopo):
+pero el problema es que cuando me lo ha validado y quiero volver a la página principal sin filtros no me funciona. Tengo que refrescar con F5, porque si pongo heaer("Location: xxxx.php") me repite los menús. Y el refresh no me funciona.
+07:01:07 - Jorge Cano (@jorgeucano):
+el problema es que estas refrescando una parte sola :thinking_face:
+07:01:21 - Jorge Cano (@jorgeucano):
+la llamada ajax lo que hace es hacerlo async
+07:01:31 - Jorge Cano (@jorgeucano):
+lo que devuelve lo estas metiendo en #liq
+07:01:56 - Jorge Cano (@jorgeucano):
+vos queres que se cargue todo de nuevo o que refresque la pagina?
+07:03:02 - nomopo (@nomopo):
+si
+07:03:05 - Jorge Cano (@jorgeucano):
+esto te esta devolviendo la pagina entera =&gt; actLiqui.php
+07:03:18 - Jorge Cano (@jorgeucano):
+en todo caso, si lo queres dejar “asi”
+07:03:25 - Jorge Cano (@jorgeucano):
+$(‘#liq’).html(html); esto deberias cambiar
+07:05:38 - nomopo (@nomopo):
+no perdona. esto me lleva al archivo actLiqui.php que contiene las sentencias SQL y cuando lo procesa el php me vuelve a la página liquidaciones.php pero necesito que me refresque
+07:05:46 - Jorge Cano (@jorgeucano):
+si
+07:05:48 - Jorge Cano (@jorgeucano):
+yo haria esto
+07:05:50 - nomopo (@nomopo):
+para que lo procesado no me aparezca
+07:05:53 - Jorge Cano (@jorgeucano):
+en este caso en tu success
+07:05:55 - Jorge Cano (@jorgeucano):
+ejecuta =&gt; `location.reload();`
+07:06:09 - Jorge Cano (@jorgeucano):
+osea cambia la linea 22 por esto
+07:08:13 - nomopo (@nomopo):
+ostras gracias... eso mismo...
+07:09:01 - Jorge Cano (@jorgeucano):
+como simple consejo.. podrias hacer un php nuevo que en vez de devolverte el html haga solo las sentencias y devuelva un “ok” o “true” y de ahi puedas recargar
+07:10:02 - nomopo (@nomopo):
+si. si la idea es esa, simplificarlo, aunque esto falla por todos los lados. Es el problema de heredar proyectos que se han hecho con el ASS!!!
+07:10:16 - Jorge Cano (@jorgeucano):
+jajajaj bueno
+07:10:17 - Jorge Cano (@jorgeucano):
+cosas que pasan
+07:10:29 - nomopo (@nomopo):
+la idea es que cuando esté todo operativo y sin prisas cambiarlo todo a laravel y vue o angular.
+07:10:37 - Jorge Cano (@jorgeucano):
+genial !!!
+07:10:38 - Jorge Cano (@jorgeucano):
+suerte con eso
+11:32:07 - Juan Stiza (@juanstiza):
+Por casualidad alguien está usando Elasticsearch en Node? (con Typescript tal vez?)
+11:32:39 - Juan Stiza (@juanstiza):
+No se si meterme con la libreria low-level o la high-level, que aún está en beta
+11:58:04 - Pablo Ariel Bilevich (@pablobvch):
+Buenas gente, Como estan? Necesito modificar un modulo existente para que realice un fetch y reciba como argumento un id. Se puede hacer un  export con argumentos? Paso a explicar con este ejemplo: ```const fetchAll = () =&gt;
+  fetch(`<http://localhost/api/warnings/>`, {
+    method: "get",
+    headers: {
+      "content-type": "application/json",
+      Authorization: `bearer ${bearer}`
+    }
+  })
+    .then(responseToJson)
+    .then(result =&gt; result);
+
+export type {Warning};
+export {fetchAll};``` en este caso tengo que modificar firma de fetchAll para que sea fetchById y que reciba el id como parametro. Gracias, saludos!
+12:03:50 - Aldo Sorbara (@aldo1891):
+asi ?
+12:04:04 - Aldo Sorbara (@aldo1891):
+<@U0H4KEQ6L>
+12:04:53 - Pablo Ariel Bilevich (@pablobvch):
+Iba por ahi, no estaba seguro, ahora lo pruebo.
+12:05:00 - Pablo Ariel Bilevich (@pablobvch):
+<@UEP9Q4TUP> gracias!
+12:21:39 - Guido Vizoso (@guido.vizoso9):
+```
+const fetchById = (id = 'defaultValue') =&gt;
+// o if(!id) return new Error
+  fetch(`<http://localhost/api/warnings/${id}>`, {
+    method: "get",
+    headers: {
+      "content-type": "application/json",
+      Authorization: `bearer ${bearer}`
+    }
+  })
+    .then(responseToJson)
+    .then(result =&gt; result);
+
+export type {Warning};
+export {fetchById};
+```
+
+Yo le agregaría un valor por default o algo que permita que no pinche si no tiene argumentis
+13:05:38 - Pablo Ariel Bilevich (@pablobvch):
+gracias <@UAEGQF6F8>
+18:12:08 - Germán Burgardt (@germanandresburgardt):
+Buenas gente! Alguno sabe alguna manera rápida de tabular todo un project en vs code con 4 spaces?
+18:16:42 - Julian (@jantonielli01):
+<https://prettier.io/docs/en/cli.html>
+18:16:48 - Julian (@jantonielli01):
+El ejemplo tiene lo que querés
+18:16:54 - Julian (@jantonielli01):
+Vas a querer configurarlo un toq
+18:38:00 - Marcos Casagrande (@marcoscvp90):
+Si solo querés tabular con 4 spaces y nada más, es mejor `eslint` y configurar solo esa regla, y tirás: `eslint . --fix`
+18:38:18 - Marcos Casagrande (@marcoscvp90):
+Porque prettier te va a meter casi todas sus reglas, que a mi personalmente no me gustan.
+18:38:35 - Marcos Casagrande (@marcoscvp90):
+<https://eslint.org/docs/rules/indent>
+06:58:28 - nomopo (@nomopo):
+buenas.. una pregunta tengo un formulario que envio por js:
+07:00:02 - nomopo (@nomopo):
+pero el problema es que cuando me lo ha validado y quiero volver a la página principal sin filtros no me funciona. Tengo que refrescar con F5, porque si pongo heaer("Location: xxxx.php") me repite los menús. Y el refresh no me funciona.
+07:01:07 - Jorge Cano (@jorgeucano):
+el problema es que estas refrescando una parte sola :thinking_face:
+07:01:21 - Jorge Cano (@jorgeucano):
+la llamada ajax lo que hace es hacerlo async
+07:01:31 - Jorge Cano (@jorgeucano):
+lo que devuelve lo estas metiendo en #liq
+07:01:56 - Jorge Cano (@jorgeucano):
+vos queres que se cargue todo de nuevo o que refresque la pagina?
+07:03:02 - nomopo (@nomopo):
+si
+07:03:05 - Jorge Cano (@jorgeucano):
+esto te esta devolviendo la pagina entera =&gt; actLiqui.php
+07:03:18 - Jorge Cano (@jorgeucano):
+en todo caso, si lo queres dejar “asi”
+07:03:25 - Jorge Cano (@jorgeucano):
+$(‘#liq’).html(html); esto deberias cambiar
+07:05:38 - nomopo (@nomopo):
+no perdona. esto me lleva al archivo actLiqui.php que contiene las sentencias SQL y cuando lo procesa el php me vuelve a la página liquidaciones.php pero necesito que me refresque
+07:05:46 - Jorge Cano (@jorgeucano):
+si
+07:05:48 - Jorge Cano (@jorgeucano):
+yo haria esto
+07:05:50 - nomopo (@nomopo):
+para que lo procesado no me aparezca
+07:05:53 - Jorge Cano (@jorgeucano):
+en este caso en tu success
+07:05:55 - Jorge Cano (@jorgeucano):
+ejecuta =&gt; `location.reload();`
+07:06:09 - Jorge Cano (@jorgeucano):
+osea cambia la linea 22 por esto
+07:08:13 - nomopo (@nomopo):
+ostras gracias... eso mismo...
+07:09:01 - Jorge Cano (@jorgeucano):
+como simple consejo.. podrias hacer un php nuevo que en vez de devolverte el html haga solo las sentencias y devuelva un “ok” o “true” y de ahi puedas recargar
+07:10:02 - nomopo (@nomopo):
+si. si la idea es esa, simplificarlo, aunque esto falla por todos los lados. Es el problema de heredar proyectos que se han hecho con el ASS!!!
+07:10:16 - Jorge Cano (@jorgeucano):
+jajajaj bueno
+07:10:17 - Jorge Cano (@jorgeucano):
+cosas que pasan
+07:10:29 - nomopo (@nomopo):
+la idea es que cuando esté todo operativo y sin prisas cambiarlo todo a laravel y vue o angular.
+07:10:37 - Jorge Cano (@jorgeucano):
+genial !!!
+07:10:38 - Jorge Cano (@jorgeucano):
+suerte con eso
+11:32:07 - Juan Stiza (@juanstiza):
+Por casualidad alguien está usando Elasticsearch en Node? (con Typescript tal vez?)
+11:32:39 - Juan Stiza (@juanstiza):
+No se si meterme con la libreria low-level o la high-level, que aún está en beta
+11:58:04 - Pablo Ariel Bilevich (@pablobvch):
+Buenas gente, Como estan? Necesito modificar un modulo existente para que realice un fetch y reciba como argumento un id. Se puede hacer un  export con argumentos? Paso a explicar con este ejemplo: ```const fetchAll = () =&gt;
+  fetch(`<http://localhost/api/warnings/>`, {
+    method: "get",
+    headers: {
+      "content-type": "application/json",
+      Authorization: `bearer ${bearer}`
+    }
+  })
+    .then(responseToJson)
+    .then(result =&gt; result);
+
+export type {Warning};
+export {fetchAll};``` en este caso tengo que modificar firma de fetchAll para que sea fetchById y que reciba el id como parametro. Gracias, saludos!
+12:03:50 - Aldo Sorbara (@aldo1891):
+asi ?
+12:04:04 - Aldo Sorbara (@aldo1891):
+<@U0H4KEQ6L>
+12:04:53 - Pablo Ariel Bilevich (@pablobvch):
+Iba por ahi, no estaba seguro, ahora lo pruebo.
+12:05:00 - Pablo Ariel Bilevich (@pablobvch):
+<@UEP9Q4TUP> gracias!
+12:21:39 - Guido Vizoso (@guido.vizoso9):
+```
+const fetchById = (id = 'defaultValue') =&gt;
+// o if(!id) return new Error
+  fetch(`<http://localhost/api/warnings/${id}>`, {
+    method: "get",
+    headers: {
+      "content-type": "application/json",
+      Authorization: `bearer ${bearer}`
+    }
+  })
+    .then(responseToJson)
+    .then(result =&gt; result);
+
+export type {Warning};
+export {fetchById};
+```
+
+Yo le agregaría un valor por default o algo que permita que no pinche si no tiene argumentis
+13:05:38 - Pablo Ariel Bilevich (@pablobvch):
+gracias <@UAEGQF6F8>
+18:12:08 - Germán Burgardt (@germanandresburgardt):
+Buenas gente! Alguno sabe alguna manera rápida de tabular todo un project en vs code con 4 spaces?
+18:16:42 - Julian (@jantonielli01):
+<https://prettier.io/docs/en/cli.html>
+18:16:48 - Julian (@jantonielli01):
+El ejemplo tiene lo que querés
+18:16:54 - Julian (@jantonielli01):
+Vas a querer configurarlo un toq
+18:38:00 - Marcos Casagrande (@marcoscvp90):
+Si solo querés tabular con 4 spaces y nada más, es mejor `eslint` y configurar solo esa regla, y tirás: `eslint . --fix`
+18:38:18 - Marcos Casagrande (@marcoscvp90):
+Porque prettier te va a meter casi todas sus reglas, que a mi personalmente no me gustan.
+18:38:35 - Marcos Casagrande (@marcoscvp90):
+<https://eslint.org/docs/rules/indent>
