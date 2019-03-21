@@ -1,0 +1,420 @@
+10:36:46 - Nico (@nicokorn96):
+buenas gente, alguno sabe como puedo hacer un select en mongo con mongoose de varios modelos?
+10:37:16 - Gonzalo González Mora (@gonzalogm):
+A qué te referís con un select de varios modelos?
+10:37:38 - Gonzalo González Mora (@gonzalogm):
+podés dar un ejemplo?
+10:37:53 - Nico (@nicokorn96):
+tengo 2 modelos
+10:38:01 - Nico (@nicokorn96):
+user y project
+10:38:11 - Nico (@nicokorn96):
+quiero traerlos en la misma query
+10:38:19 - Nico (@nicokorn96):
+no relacionarlos
+10:38:29 - Nico (@nicokorn96):
+pero que me vengan en la misma query
+10:38:45 - Gonzalo González Mora (@gonzalogm):
+Hasta donde sé no se puede, tendrías que hacer 2 queries
+10:39:09 - Gonzalo González Mora (@gonzalogm):
+podés paralelizarlas igual
+10:39:14 - Nico (@nicokorn96):
+porque estoy buscando y buscando no encuentro nada
+10:39:20 - Martín Valdés de León (@mvaldesdeleon):
+no hay joins en mongo
+10:39:28 - Nico (@nicokorn96):
+osea mi unica solucion es un user.find
+10:39:30 - Martín Valdés de León (@mvaldesdeleon):
+si necesitas joins hay otros patterns que se usan
+10:39:33 - Nico (@nicokorn96):
+y project.find
+10:39:40 - Nico (@nicokorn96):
+nono join no
+10:39:41 - Martín Valdés de León (@mvaldesdeleon):
+podes hacer dos finds, podes usar subdocuments
+10:39:46 - Nico (@nicokorn96):
+por separado son
+10:39:57 - Nico (@nicokorn96):
+no tiene relacion uno con otro
+10:39:59 - Martín Valdés de León (@mvaldesdeleon):
+entonces van a ser 2 find distintos
+10:40:03 - Nico (@nicokorn96):
+es para hacer una especie de reporte
+10:40:09 - Nico (@nicokorn96):
+pero nose porque la tienen con mongo
+10:40:18 - Nico (@nicokorn96):
+estan usando mongo como una relacional
+10:40:21 - Gonzalo González Mora (@gonzalogm):
+Uf, ojo con eso
+10:40:23 - Nico (@nicokorn96):
+si
+10:40:28 - Nico (@nicokorn96):
+estan re locos jaja
+10:40:28 - Gonzalo González Mora (@gonzalogm):
+Los reportes con mongos de data relacional son un parto MAL
+10:40:33 - Gonzalo González Mora (@gonzalogm):
+con el tiempo se hace una babosa terrible
+10:40:45 - Gonzalo González Mora (@gonzalogm):
+Te digo pq me pasó exactamente lo mismo
+10:40:48 - Nico (@nicokorn96):
+si ni me lo digas
+10:40:58 - Gonzalo González Mora (@gonzalogm):
+y ahora dsp de 3 años se arrepienten de no haber usado SQL
+10:41:02 - Nico (@nicokorn96):
+antes tenian un elasticsearch mas alpedo que bocina de avion
+10:41:16 - Nico (@nicokorn96):
+de intermediario entre mongo y el backend
+10:41:34 - Nico (@nicokorn96):
+lo saque el elastic y ahora quiero hacer quierys directo a la db
+10:41:43 - Nico (@nicokorn96):
+con mongoose
+10:45:52 - Leandro Echevarria (@echevarrialeandro):
+<@UDJJ3FTUM> No estoy seguro si es lo que necesitas, pero capaz que con aggregation + facet puedas hacer las "dos queries en una":
+```
+   * <https://docs.mongodb.com/manual/aggregation/>
+   * <https://docs.mongodb.com/manual/reference/operator/aggregation/facet/>
+   * <https://docs.mongodb.com/manual/reference/operator/aggregation/project/>
+```
+10:46:18 - Nico (@nicokorn96):
+me lo pongo a mirar gracias!
+10:46:33 - Leandro Echevarria (@echevarrialeandro):
+Cualquier cosa avisame que te muestro el ejemplo en donde usé esos features
+10:46:44 - Nico (@nicokorn96):
+dale :wink:
+10:48:10 - Gonzalo González Mora (@gonzalogm):
+Ahh mirá vos, no sabía eso, buen dato
+10:36:46 - Nico (@nicokorn96):
+buenas gente, alguno sabe como puedo hacer un select en mongo con mongoose de varios modelos?
+10:37:16 - Gonzalo González Mora (@gonzalogm):
+A qué te referís con un select de varios modelos?
+10:37:38 - Gonzalo González Mora (@gonzalogm):
+podés dar un ejemplo?
+10:37:53 - Nico (@nicokorn96):
+tengo 2 modelos
+10:38:01 - Nico (@nicokorn96):
+user y project
+10:38:11 - Nico (@nicokorn96):
+quiero traerlos en la misma query
+10:38:19 - Nico (@nicokorn96):
+no relacionarlos
+10:38:29 - Nico (@nicokorn96):
+pero que me vengan en la misma query
+10:38:45 - Gonzalo González Mora (@gonzalogm):
+Hasta donde sé no se puede, tendrías que hacer 2 queries
+10:39:09 - Gonzalo González Mora (@gonzalogm):
+podés paralelizarlas igual
+10:39:14 - Nico (@nicokorn96):
+porque estoy buscando y buscando no encuentro nada
+10:39:20 - Martín Valdés de León (@mvaldesdeleon):
+no hay joins en mongo
+10:39:28 - Nico (@nicokorn96):
+osea mi unica solucion es un user.find
+10:39:30 - Martín Valdés de León (@mvaldesdeleon):
+si necesitas joins hay otros patterns que se usan
+10:39:33 - Nico (@nicokorn96):
+y project.find
+10:39:40 - Nico (@nicokorn96):
+nono join no
+10:39:41 - Martín Valdés de León (@mvaldesdeleon):
+podes hacer dos finds, podes usar subdocuments
+10:39:46 - Nico (@nicokorn96):
+por separado son
+10:39:57 - Nico (@nicokorn96):
+no tiene relacion uno con otro
+10:39:59 - Martín Valdés de León (@mvaldesdeleon):
+entonces van a ser 2 find distintos
+10:40:03 - Nico (@nicokorn96):
+es para hacer una especie de reporte
+10:40:09 - Nico (@nicokorn96):
+pero nose porque la tienen con mongo
+10:40:18 - Nico (@nicokorn96):
+estan usando mongo como una relacional
+10:40:21 - Gonzalo González Mora (@gonzalogm):
+Uf, ojo con eso
+10:40:23 - Nico (@nicokorn96):
+si
+10:40:28 - Nico (@nicokorn96):
+estan re locos jaja
+10:40:28 - Gonzalo González Mora (@gonzalogm):
+Los reportes con mongos de data relacional son un parto MAL
+10:40:33 - Gonzalo González Mora (@gonzalogm):
+con el tiempo se hace una babosa terrible
+10:40:45 - Gonzalo González Mora (@gonzalogm):
+Te digo pq me pasó exactamente lo mismo
+10:40:48 - Nico (@nicokorn96):
+si ni me lo digas
+10:40:58 - Gonzalo González Mora (@gonzalogm):
+y ahora dsp de 3 años se arrepienten de no haber usado SQL
+10:41:02 - Nico (@nicokorn96):
+antes tenian un elasticsearch mas alpedo que bocina de avion
+10:41:16 - Nico (@nicokorn96):
+de intermediario entre mongo y el backend
+10:41:34 - Nico (@nicokorn96):
+lo saque el elastic y ahora quiero hacer quierys directo a la db
+10:41:43 - Nico (@nicokorn96):
+con mongoose
+10:45:52 - Leandro Echevarria (@echevarrialeandro):
+<@UDJJ3FTUM> No estoy seguro si es lo que necesitas, pero capaz que con aggregation + facet puedas hacer las "dos queries en una":
+```
+   * <https://docs.mongodb.com/manual/aggregation/>
+   * <https://docs.mongodb.com/manual/reference/operator/aggregation/facet/>
+   * <https://docs.mongodb.com/manual/reference/operator/aggregation/project/>
+```
+10:46:18 - Nico (@nicokorn96):
+me lo pongo a mirar gracias!
+10:46:33 - Leandro Echevarria (@echevarrialeandro):
+Cualquier cosa avisame que te muestro el ejemplo en donde usé esos features
+10:46:44 - Nico (@nicokorn96):
+dale :wink:
+10:48:10 - Gonzalo González Mora (@gonzalogm):
+Ahh mirá vos, no sabía eso, buen dato
+10:50:49 - Leandro Echevarria (@echevarrialeandro):
+En una query acá usé esos + group + unwind
+10:51:02 - Leandro Echevarria (@echevarrialeandro):
+Esta muy copado todo eso que tiene mongo, es interesante
+10:51:39 - Nico (@nicokorn96):
+yo lo use una vez los facets pero creo para elastic
+10:51:44 - Nico (@nicokorn96):
+si no mal recuerdo
+11:03:55 - Pablo Cazes (@pulpopaul):
+Gente, como andan? Tengo un problema con una conexion desde node a sql server.
+El ejemplo que da la doc el package deja la conexión abierta, y el script sigue corriendo.
+Alguien ya tuvo ese problema:
+<https://stackoverflow.com/questions/45681727/close-mssql-connection-using-mssql-in-node-js>
+Esta es la respuesta que me parece correcta. El codigo funciona bien:
+```
+const DB = require("mssql")
+const config = require("./config.json")
+DB.connect(config)
+   .then((conn) =&gt; 
+      conn.query("SELECT * FROM table1")
+         .then((v) =&gt; console.log(v))
+         .then(() =&gt; conn.close())
+   )
+```
+Mi pregunta es, ¿esta bien anidar las promises? ¿Piensan que es buena práctica?
+11:05:16 - Leandro Echevarria (@echevarrialeandro):
+Deja la conn abierta para usarla en toda la instancia del server. CREO que nunca lo hice abriendo y cerrando cada vez que necesitaba hacer queries :face_with_monocle:. Me interesa leer experiencias al respecto
+11:06:00 - Sergio Daniel Xalambrí (@sergiodxa):
+creería que lo más normal es abrir un pool de conexiones y simplemente ir usándolas
+11:06:25 - Sergio Daniel Xalambrí (@sergiodxa):
+cerrar y abrir en cada request puede ser lento y además si recibís muchos requests juntos vas a tener muchas conexiones abiertas a tu DB
+11:06:36 - Sergio Daniel Xalambrí (@sergiodxa):
+con un pool definís que vas a usar ponele 10 conexiones y listo, nunca usas más
+11:07:12 - a0viedo (@a0viedo):
+si es un script la deberías cerrar cuando ya estás seguro que terminaste de ejecutar lo que querías
+11:07:13 - Sergio Daniel Xalambrí (@sergiodxa):
+incluso en serverless he visto que se hace la conexión fuera de la función del request para poder reusarla en varios request mientras el lambda esté warm
+11:07:26 - Pablo Cazes (@pulpopaul):
+En mi caso, necesito hacer esta sola query. Es un cron que hace esta query, procesa datos y se cierra.
+11:08:09 - Leandro Echevarria (@echevarrialeandro):
+Entonces como dice <@U06H27CM8>, en mi opinión es correcto lo que hacés
+11:09:02 - Pablo Cazes (@pulpopaul):
+Mi caso es muy parecido a lo que comenta Sergio. Es una google cloud function.
+11:10:28 - Pablo Cazes (@pulpopaul):
+OK Leandro, gracias por la respuesta. Pero mi pregunta además es si está bien anidar las promises, o si tendría que reescribir ese código
+11:12:48 - Leandro Echevarria (@echevarrialeandro):
+Yo me tiro más por el lado de un script. Cloud functions no tengo experiencia manejando, ahí prefiero dejarle la vía libre a alguien que las haya usado cuando menos
+11:15:03 - a0viedo (@a0viedo):
+con respecto a anidar promesas creo que si se puede evitar anidarlas el código se vuelve más legible y más fácil de seguir mentalmente
+11:15:36 - Martín Valdés de León (@mvaldesdeleon):
+async await es tu amigo para desanidar promesas
+11:15:39 - Martín Valdés de León (@mvaldesdeleon):
+eso, o crear funciones.
+11:20:25 - Pablo Cazes (@pulpopaul):
+OK. Muchas gracias por las respuestas!
+11:47:26 - Martín Aimar (@maimar):
+cómo es un ejemplo? porque lo que pienso ahora es que se anidan los try catch
+11:53:15 - Marcos Casagrande (@marcoscvp90):
+Pablo, en ese script falta cerrar la conexión en caso de que falle la query. Depende la versión de Node que estés usando, podés cerrarla en `.finally`.  Sino vas a tener que cerrarla en el  `.catch` también.
+12:20:48 - Pablo Cazes (@pulpopaul):
+Gracias Marcos por el comentario! Voy a cerrar la conexion en el finally.
+12:23:09 - Pablo Cazes (@pulpopaul):
+El ejemplo de las promises anidadas lo puse mas arriba. Lo saqué de una respuesta de stackoverflow, y si, tambien me hizo ruido.
+12:25:20 - Martín Aimar (@maimar):
+sí me refiero a como desanidar promesas con async await porque se me ocurre que sería try { try {} catch {} } catch {} o algo así
+12:28:00 - Gustavo Machado (@machadogj):
+este comentario me genero una duda:
+&gt; incluso en serverless he visto que se hace la conexión fuera de la función del request para poder reusarla en varios request mientras el lambda esté warm
+como afecta esto de dejar la conexion abierta mientras el lambda este warm en el pricing? alguien sabe?
+12:29:36 - Gustavo Machado (@machadogj):
+donde corta el pricing de lambda? cuando llamaste al `callback` o cuando termino gracefully o por timeout el proceso?
+12:32:02 - Marcos Casagrande (@marcoscvp90):
+No necesitas, podes hacer que haga bubble up el error, o que vaya al único catch. Y manejar el error en ese. 
+12:32:21 - Marcos Casagrande (@marcoscvp90):
+De la misma manera que lo haces chaineando las promises, con un single catch al final. 
+12:34:17 - Martín Aimar (@maimar):
+ahh entiendo, y en el catch ves qué excepción tenés
+12:37:36 - Marcos Casagrande (@marcoscvp90):
+Exactamente. Ahí si necesitas manejar diferentes errores podes hacerlo ahí. 
+12:39:10 - a0viedo (@a0viedo):
+corta cuando llames al callback, cuando haces exit del proceso o cuando lo maten por timeout - lo que pase primero de esos 3
+12:42:25 - Nico (@nicokorn96):
+osea no tenes que cerrar la conexion ?
+12:42:39 - Nico (@nicokorn96):
+en el caso de por ej abrir una conexion a dynamo por ej
+12:44:41 - Gustavo Machado (@machadogj):
+&gt; lo que pase primero de esos 3
+:clap: :clap: :clap:
+(o sea que estoy cerrando conexiones al recontra pedo en mis funciones :disappointed:)
+12:44:48 - a0viedo (@a0viedo):
+lo que hagas en memoria se congela para después ser resumido
+12:46:32 - a0viedo (@a0viedo):
+en lambda específicamente tenés `callbackWaitsForEmptyEventLoop` pero no sé cuál es el equivalente para google cloud functions
+12:53:56 - a0viedo (@a0viedo):
+acá se refieren a lo que definís afuera del handler como global scope pero no dicen nada de cerrar conexiones <https://cloud.google.com/functions/docs/concepts/exec#function_scope_versus_global_scope>
+16:22:49 - eafelix (@eafelix):
+skynet its connected (?)
+16:23:12 - Santiago Ruffino (@santi_0898):
+Hola! Tengo una lista con los datos `["A", "B", "C", "D", "E"]`. Necesito ir tomando los valores de a pares. Ejemplo:
+```
+inicio = lista[0]
+final = lista[1]
+```
+16:23:31 - Santiago Ruffino (@santi_0898):
+Despues, tiene que ser ```inicio = lista[1]
+final = lista[2]```
+16:23:40 - Santiago Ruffino (@santi_0898):
+Y asi hasta que termine la lista
+16:23:53 - Santiago Ruffino (@santi_0898):
+No me interesa como seria en lenguaje, porque lo hago en Python. Pero la logica me esta matando
+16:25:46 - Julian (@jantonielli01):
+Agarra el arrays dos veces, a uno sacale el primer elemento: `a1 = [1, 2, 3]; a2 = [2, 3]`
+16:26:11 - Julian (@jantonielli01):
+Hacete una función que los "zippee": `b = [ [1, 2], [2, 3] ]`
+16:26:23 - Julian (@jantonielli01):
+Y despues recorrerlo como queres es hacer un `map/forEach/reduce/whatever`
+16:26:41 - Julian (@jantonielli01):
+Tenés que fijarte nomás que haces con el ultimo elemento q te queda sin par
+16:27:33 - Sergio Daniel Xalambrí (@sergiodxa):
+podés poner un null
+16:27:37 - Leandro Echevarria (@echevarrialeandro):
+for + slice? Guardando los resultados del slice en algun lado.
+16:27:45 - Leandro Echevarria (@echevarrialeandro):
+Aunque me gusta mas el approach de Julián
+16:28:03 - Julian (@jantonielli01):
+Se, puede hacer muchas cosas con el último, depende de la business logic though
+16:28:48 - Martín Aimar (@maimar):
+algo con arr.map((val, arr, ind) =&gt; [arr[ind], arr[ind+1]]) salvando el último que cae afuera
+16:29:51 - Diego Calderón (@codekult):
+<@U7MP5R4MC> Cuál es la ventaja de ese approach por sobre un solo `map`?
+16:30:07 - Diego Calderón (@codekult):
+... como dice Martín
+16:31:12 - Julian (@jantonielli01):
+Es como se me ocurrió, y me parece ligeramente más clara que tener accesos por indice en un map
+16:31:14 - Gustavo Machado (@machadogj):
+creo que queres esto:
+`[(list[i], list[i+1]) for i in range(0, len(list)-1)]`
+16:31:44 - Martín Aimar (@maimar):
+si no garpa mucho hacer arr[ind] pero es más corto
+16:31:52 - Gustavo Machado (@machadogj):
+```
+&gt;&gt;&gt; list = [1, 2 , 3, 4, 5]
+&gt;&gt;&gt; [(list[i], list[i+1]) for i in range(0, length-1)]
+[(1, 2), (2, 3), (3, 4), (4, 5)]
+```
+16:31:55 - Diego Calderón (@codekult):
+El 1er val ya te viene en el map
+16:32:08 - Martín Aimar (@maimar):
+cierto
+16:32:10 - Diego Calderón (@codekult):
+`xs =&gt; xs.map((x, i) =&gt; [ x, xs[i + 1] ])`
+16:32:25 - Julian (@jantonielli01):
+Sep
+16:32:44 - Julian (@jantonielli01):
+No me gusta esa asimetría de que uno te viene y el otro lo accedes a manopla
+16:32:47 - Gustavo Machado (@machadogj):
+en python tiraria error acceder a un array por indice si no existe :disappointed:
+16:32:49 - Julian (@jantonielli01):
+pero es subjetivo
+16:32:57 - Diego Calderón (@codekult):
+A mí tmb me jode el toc
+16:33:01 - Santiago Ruffino (@santi_0898):
+Estoy tratando de transcribirlo en Python
+16:33:02 - Santiago Ruffino (@santi_0898):
+Jajaja
+16:33:17 - Santiago Ruffino (@santi_0898):
+Esta es una de las cosas que vi la primera semana de programacion, pero mi cabeza no lo retuvo
+16:33:30 - Santiago Ruffino (@santi_0898):
+Encima no se como buscarlo en google como para ver un ejemplo y listo
+16:33:33 - Martín Aimar (@maimar):
+y un viejo for?
+16:33:41 - Gustavo Machado (@machadogj):
+<@U9KMYNJMV> yo te lo pase en python :point_up:
+16:34:01 - Gustavo Machado (@machadogj):
+<@U9KMYNJMV> fijate si es esto lo que queres
+16:34:16 - Diego Calderón (@codekult):
+How you dare :joy:
+16:36:06 - Julian (@jantonielli01):
+Yo te lo paso en haskell :stuck_out_tongue::
+```
+myFunc f arr = map f (zip arr (drop 1 arr))
+
+myFunc (\(first, second) -&gt; first + second + 10) [3, 4, 5]
+=&gt; [17, 19]
+```
+16:36:28 - Santiago Ruffino (@santi_0898):
+Lo estoy probando :+1::skin-tone-2:
+16:39:10 - Santiago Ruffino (@santi_0898):
+Muestra los valores bien! Ahora... Como los voy guardando?
+16:40:15 - Gustavo Machado (@machadogj):
+no se a que te referis. donde los queres guardar?
+16:40:48 - Santiago Ruffino (@santi_0898):
+Necesito guardar el par de fechas, porque con esos dos datos, necesito llamar a una funcion
+16:44:32 - Gustavo Machado (@machadogj):
+lo que te devuelve ese codigo es una lista con tuplas, en esas tuplas tenes cada uno de los valores… si necesitas unicamente llamar a una function, podrias hacer algo asi:
+```
+&gt;&gt;&gt; my_values = [(list[i], list[i+1]) for i in range(0, length-1)]
+&gt;&gt;&gt; for (a, b) in my_values:
+...   print(a, b)
+```
+(donde `print` lo reemplazarias por tu funcion)
+17:25:42 - Diego Harari (@diehara):
+Buenas! saben si pudo hostear una github pages con un repo que tiene el index.html en una sub-folder y no suelto en el root?
+17:29:10 - Santiago Ruffino (@santi_0898):
+Copy paste
+17:29:11 - Santiago Ruffino (@santi_0898):
+<https://stackoverflow.com/questions/36782467/set-subdirectory-as-website-root-on-github-pages>
+17:37:11 - Martín Aimar (@maimar):
+alguna manera piola de remover claves con valores falsy de un objeto?
+17:39:28 - Rodrigo Ali (@rodrigojali):
+Se me ocurre un object.keys().forEach()
+17:39:40 - Martín Aimar (@maimar):
+vale lodash
+17:39:44 - Martín Valdés de León (@mvaldesdeleon):
+`const removeFalsy = obj =&gt; Object.entries(obj).reduce((obj, [key, value]) =&gt; value ? {...obj, [key]: value} : obj, {});`
+17:39:55 - Martín Valdés de León (@mvaldesdeleon):
+podes hacerlo mutar si queres mas performance
+17:41:48 - Rodrigo Ali (@rodrigojali):
+Yo pensaba más algo en este plan:
+```
+let sacarFalsy = (carlitos) =&gt; {
+  let aux = {};
+  Object.keys(carlitos).forEach((prop) =&gt; {
+    if (carlitos[prop]) aux[prop] = carlitos[prop]; 
+  });
+  return aux;
+};
+```
+17:42:19 - Federico Finos (@federico.finos):
+<https://lodash.com/docs/4.17.11#pickBy>
+17:42:43 - Martín Aimar (@maimar):
+esaaa pickBy
+17:42:56 - Martín Valdés de León (@mvaldesdeleon):
+pickBy va a andar de una  pq el predicado default es identity
+17:43:04 - Martín Aimar (@maimar):
+that exactly
+17:47:24 - Gonza Gluzman (@gonza):
+poor carlitos
+17:52:02 - Rodrigo Ali (@rodrigojali):
+Carlitos, alto placeholder en mis snippets, siempre.
+18:09:50 - Gustavo Machado (@machadogj):
+`Object.keys(obj).forEach(key =&gt; !obj[key] &amp;&amp; (delete obj[key]));` <@UC1QYJACE>
+18:10:15 - Martín Aimar (@maimar):
+bien
+18:10:36 - Martín Aimar (@maimar):
+justo antes había tirado esta para otra cosa
+18:10:39 - Martín Aimar (@maimar):
+`for (let [key, value] of Object.entries(error.response.data.errors)) {`
+18:10:56 - Martín Aimar (@maimar):
+pero me fui con lodash para lo otro igual
