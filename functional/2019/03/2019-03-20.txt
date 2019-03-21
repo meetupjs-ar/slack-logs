@@ -1,0 +1,132 @@
+21:18:59 - Juan Bono (@juanbono):
+<https://twitter.com/mononcqc/status/1108022700092604416?s=20> lol perdon por el spam pero recién vi eso en Twitter y me pareció apropiado
+21:20:16 - Juan Bono (@juanbono):
+Un coffee table book de lenguajes jajaja
+05:49:17 - Martín Valdés de León (@mvaldesdeleon):
+seh
+17:50:38 - Hernan Rajchert (@sherman):
+Encuesta de performance :D… a priori, que version de qsort dicen que es más rápido y por cuanto?
+17:54:51 - Gonza Gluzman (@gonza):
+La segunda, por lejos
+17:55:01 - Gonza Gluzman (@gonza):
+Fue muy a priori mi opinión igual
+17:55:06 - Gonza Gluzman (@gonza):
+Ni leí el código
+17:55:09 - Gonza Gluzman (@gonza):
+:troll:
+17:59:25 - Juan Bono (@juanbono):
+Voto por la segunda también, yo sí leí el código, pero no lo entendí (?)
+18:01:02 - Juan Bono (@juanbono):
+Jajajaja la verdad no sé, porque la segunda se ve mucho más low level pero tiene muchas llamadas a sort parece
+18:01:57 - Julian (@jantonielli01):
+se ven feas las dos
+18:01:57 - Hernan Rajchert (@sherman):
+Quien da mas, quien da mas
+18:01:59 - Julian (@jantonielli01):
+jajja
+18:02:39 - Hernan Rajchert (@sherman):
+Deciselo a Jose Q Sort
+18:04:34 - Julian (@jantonielli01):
+y bueno, tirá la respuesta gato
+18:05:08 - Juan Bono (@juanbono):
+Jajaja el tema es que está tramposo el juego (?
+18:05:15 - Hernan Rajchert (@sherman):
+Mira el algoritmo en YouTube 
+18:05:24 - Hernan Rajchert (@sherman):
+No es trivial
+18:05:31 - Juan Bono (@juanbono):
+Porque al principio pensé que era la segunda de una, pero no sé cómo impactará ese sort adentro del while
+18:05:35 - Julian (@jantonielli01):
+igual ambos deberían ser lentos porq copías el array
+18:05:59 - Hernan Rajchert (@sherman):
+En el segundo copio el array una vez
+18:06:10 - Julian (@jantonielli01):
+sep
+18:06:19 - Hernan Rajchert (@sherman):
+En el primero hay muchas copias intermedias
+18:06:56 - Hernan Rajchert (@sherman):
+Para numeros grandes el primero es mucho mas rapido :man-shrugging::skin-tone-2:
+18:11:23 - Hernan Rajchert (@sherman):
+Tengo que ponerme a hacer profiling todavia (no estoy en la compu), pero si tuviese que adivinar diria que es el costo de js
+18:11:45 - Hernan Rajchert (@sherman):
+Porque filter esta implementado en C
+18:12:06 - Hernan Rajchert (@sherman):
+Eso o cometí un error grosero que todavía no encontré 
+18:15:42 - Hernan Rajchert (@sherman):
+Alguno va al burguerjs?
+18:20:00 - Julian (@jantonielli01):
+Yo capaz 
+18:20:05 - Julian (@jantonielli01):
+Pero llegaría dsp de las 21
+18:20:07 - Julian (@jantonielli01):
+Vos?
+19:17:44 - Hernan Rajchert (@sherman):
+Alli estoy yendo
+19:21:45 - Julian (@jantonielli01):
+Que cheto 
+21:18:59 - Juan Bono (@juanbono):
+<https://twitter.com/mononcqc/status/1108022700092604416?s=20> lol perdon por el spam pero recién vi eso en Twitter y me pareció apropiado
+21:20:16 - Juan Bono (@juanbono):
+Un coffee table book de lenguajes jajaja
+05:49:17 - Martín Valdés de León (@mvaldesdeleon):
+seh
+17:50:38 - Hernan Rajchert (@sherman):
+Encuesta de performance :D… a priori, que version de qsort dicen que es más rápido y por cuanto?
+17:54:51 - Gonza Gluzman (@gonza):
+La segunda, por lejos
+17:55:01 - Gonza Gluzman (@gonza):
+Fue muy a priori mi opinión igual
+17:55:06 - Gonza Gluzman (@gonza):
+Ni leí el código
+17:55:09 - Gonza Gluzman (@gonza):
+:troll:
+17:59:25 - Juan Bono (@juanbono):
+Voto por la segunda también, yo sí leí el código, pero no lo entendí (?)
+18:01:02 - Juan Bono (@juanbono):
+Jajajaja la verdad no sé, porque la segunda se ve mucho más low level pero tiene muchas llamadas a sort parece
+18:01:57 - Julian (@jantonielli01):
+se ven feas las dos
+18:01:57 - Hernan Rajchert (@sherman):
+Quien da mas, quien da mas
+18:01:59 - Julian (@jantonielli01):
+jajja
+18:02:39 - Hernan Rajchert (@sherman):
+Deciselo a Jose Q Sort
+18:04:34 - Julian (@jantonielli01):
+y bueno, tirá la respuesta gato
+18:05:08 - Juan Bono (@juanbono):
+Jajaja el tema es que está tramposo el juego (?
+18:05:15 - Hernan Rajchert (@sherman):
+Mira el algoritmo en YouTube 
+18:05:24 - Hernan Rajchert (@sherman):
+No es trivial
+18:05:31 - Juan Bono (@juanbono):
+Porque al principio pensé que era la segunda de una, pero no sé cómo impactará ese sort adentro del while
+18:05:35 - Julian (@jantonielli01):
+igual ambos deberían ser lentos porq copías el array
+18:05:59 - Hernan Rajchert (@sherman):
+En el segundo copio el array una vez
+18:06:10 - Julian (@jantonielli01):
+sep
+18:06:19 - Hernan Rajchert (@sherman):
+En el primero hay muchas copias intermedias
+18:06:56 - Hernan Rajchert (@sherman):
+Para numeros grandes el primero es mucho mas rapido :man-shrugging::skin-tone-2:
+18:11:23 - Hernan Rajchert (@sherman):
+Tengo que ponerme a hacer profiling todavia (no estoy en la compu), pero si tuviese que adivinar diria que es el costo de js
+18:11:45 - Hernan Rajchert (@sherman):
+Porque filter esta implementado en C
+18:12:06 - Hernan Rajchert (@sherman):
+Eso o cometí un error grosero que todavía no encontré 
+18:15:42 - Hernan Rajchert (@sherman):
+Alguno va al burguerjs?
+18:20:00 - Julian (@jantonielli01):
+Yo capaz 
+18:20:05 - Julian (@jantonielli01):
+Pero llegaría dsp de las 21
+18:20:07 - Julian (@jantonielli01):
+Vos?
+19:17:44 - Hernan Rajchert (@sherman):
+Alli estoy yendo
+19:21:45 - Julian (@jantonielli01):
+Que cheto 
