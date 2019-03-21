@@ -1,0 +1,346 @@
+10:49:19 - Martín Aimar (@maimar):
+gente una pregunta, con la cuenta personal de transferwise ya debería poder recibir plata?
+10:51:04 - a0viedo (@a0viedo):
+si es en pesos tengo entendido que si
+10:51:58 - Martín Aimar (@maimar):
+no estoy encontrando qué datos debería darle a mi empleador
+11:00:58 - Ezequiel Leites (@leites25):
+Duda que me surge de todo esto que hablan de metodos de pago, porque no hacer que depositen la cuenta directo en la cuenta de banco de cada uno? O hay alguna traba con eso?
+11:01:15 - Gonzalo González Mora (@gonzalogm):
+Te cobran más comisión a veces
+11:04:40 - Martín Aimar (@maimar):
+imposible, una vez me transfirieron 500 usd y me llegaron 414
+11:04:45 - Martín Aimar (@maimar):
+nunca más lo volví a intentar
+11:05:29 - Micael Robles (@micaelrobles):
+a mi el banco me saca 120 usd :sweat:
+11:05:34 - Micael Robles (@micaelrobles):
+estoy viendo que alternativa me conviene
+11:06:04 - Martín Aimar (@maimar):
+todo conduce a transferwise, todavía no me verifican la cuenta :disappointed:
+11:06:36 - Micael Robles (@micaelrobles):
+cuando me hice una cuenta me la verificaron bastante rapido
+11:06:40 - Micael Robles (@micaelrobles):
+hace cuanto estas esperando?
+11:07:27 - Martín Aimar (@maimar):
+viernes pasado creo
+11:12:31 - Diego Calderón (@codekult):
+Buenas, alguno tiene recomendaciones/experiencias de coworking en BsAs? Estoy buscando para un período de 2 meses nada más
+11:12:52 - Diego Calderón (@codekult):
+Preferiblemente zona Belgrano/Nuñez/Coghlan
+11:13:37 - Diego Calderón (@codekult):
+Estuve viendo precios y están todos más o menos en el mismo rango, así que el factor decisivo sería la recomendación, tipo para saber si suelen estar llenos, etc
+11:36:50 - Norman Perrin (@norman):
+<@UC1QYJACE> te puedo decir que yo con cuenta personal pude recibir dólares. La persona que me hizo la transferencia lo hizo desde otra cuenta de TW.
+11:36:54 - Marcos Casagrande (@marcoscvp90):
+De donde es tu empleador? 
+11:37:31 - Martín Aimar (@maimar):
+sabés que no encuentro la data, ya agregué los balances en pesos y en dólares pero no encuentro datos de las cuentas
+11:37:45 - Martín Aimar (@maimar):
+de estados unidos
+11:38:25 - Norman Perrin (@norman):
+Creo que con el mail ya te podía encontrar... no me acuerdo.
+11:38:28 - Marcos Casagrande (@marcoscvp90):
+No existe datos de transferencia en pesos directo, te pueden transferir pesos si el que hace el pago usa transferwise, pero te entra a tu cuenta bancaria. 
+11:39:05 - Martín Aimar (@maimar):
+mejor, prefiero en dólares
+11:39:12 - Marcos Casagrande (@marcoscvp90):
+Los datos en dolares para la borderless la tenes solo con cuenta europea (quizas de USA también) pero todos tienen datos de cuenta en EUR. 
+11:39:44 - Marcos Casagrande (@marcoscvp90):
+O sea si te transfieren dolares a Eur, no tendrás problemas en tener esos euros en TW, en la borderless account. 
+11:42:53 - Marcos Casagrande (@marcoscvp90):
+Va a tener que crearse usuario en TW para depositarte, pero creo que no podrá enviarte USD, el enviará USD, pero a vos te llegan EUR u otra moneda. No sé si lo cambiaron, pero antes era así para Argentina. 
+11:43:12 - Marcos Casagrande (@marcoscvp90):
+Sino estando en USA, te puede pagar por payoneer sin problemas. 
+11:54:36 - Martín Aimar (@maimar):
+bueno, sé que a otra gente ya le paga con TW así que por ahí calculo que todo bien
+11:54:55 - Martín Aimar (@maimar):
+payoneer tengo pero se me venció la tarjeta y me mandaron la renovación pero obviamente quedó en el limbo
+11:55:27 - Martín Aimar (@maimar):
+pero entonces si me abro el balance en ARS en TW él me paga USD y yo recibo ARS, es así?
+11:55:34 - Marcos Casagrande (@marcoscvp90):
+A mi me pagan, pero tengo la cuenta europea, entonces no sé si es lo mismo, porque yo tengo balances y datos en USD.
+11:55:53 - Marcos Casagrande (@marcoscvp90):
+O sea, pagar te va a poder pagar, el tema es que estoy muy seguro que con cuenta Argentina, no podés recibir USD a la borderless.
+11:56:39 - Marcos Casagrande (@marcoscvp90):
+Solo podés recibir balances a las borderless que tengan datos de transferencia. Y las divisas que tienen datos en la borderless para Argentina son: EUR, GBP y creo que dólar australiano.
+11:57:30 - Marcos Casagrande (@marcoscvp90):
+Si el te paga en USD y dice que vos recibas en ARS, como no tenés datos de cuenta en ARS en la borderless, TW te va a pedir que metas tu cuenta bancaria local para recibir el pago. Entonces iría directo a tu banco.
+11:57:59 - Marcos Casagrande (@marcoscvp90):
+Lo mejor que podés hacer si el no puede hacer USD &gt; USD, es que haga USD &gt; EUR (abrite el balance en EUR)
+11:58:48 - Marcos Casagrande (@marcoscvp90):
+Entre tener euros o USD para mi no hay diferencia. Y te permite tener esos EUR en la borderless de TW, y eso lo convertis vos a ARS cuando quieras, cuando el cambio convenga o cuando necesités la plata.
+12:00:50 - Martín Aimar (@maimar):
+ahh ahí empiezo a entender, agregué el balance en EUR y ahora veo que tengo balances con y sin datos bancarios locales
+10:49:19 - Martín Aimar (@maimar):
+gente una pregunta, con la cuenta personal de transferwise ya debería poder recibir plata?
+10:51:04 - a0viedo (@a0viedo):
+si es en pesos tengo entendido que si
+10:51:58 - Martín Aimar (@maimar):
+no estoy encontrando qué datos debería darle a mi empleador
+11:00:58 - Ezequiel Leites (@leites25):
+Duda que me surge de todo esto que hablan de metodos de pago, porque no hacer que depositen la cuenta directo en la cuenta de banco de cada uno? O hay alguna traba con eso?
+11:01:15 - Gonzalo González Mora (@gonzalogm):
+Te cobran más comisión a veces
+11:04:40 - Martín Aimar (@maimar):
+imposible, una vez me transfirieron 500 usd y me llegaron 414
+11:04:45 - Martín Aimar (@maimar):
+nunca más lo volví a intentar
+11:05:29 - Micael Robles (@micaelrobles):
+a mi el banco me saca 120 usd :sweat:
+11:05:34 - Micael Robles (@micaelrobles):
+estoy viendo que alternativa me conviene
+11:06:04 - Martín Aimar (@maimar):
+todo conduce a transferwise, todavía no me verifican la cuenta :disappointed:
+11:06:36 - Micael Robles (@micaelrobles):
+cuando me hice una cuenta me la verificaron bastante rapido
+11:06:40 - Micael Robles (@micaelrobles):
+hace cuanto estas esperando?
+11:07:27 - Martín Aimar (@maimar):
+viernes pasado creo
+11:12:31 - Diego Calderón (@codekult):
+Buenas, alguno tiene recomendaciones/experiencias de coworking en BsAs? Estoy buscando para un período de 2 meses nada más
+11:12:52 - Diego Calderón (@codekult):
+Preferiblemente zona Belgrano/Nuñez/Coghlan
+11:13:37 - Diego Calderón (@codekult):
+Estuve viendo precios y están todos más o menos en el mismo rango, así que el factor decisivo sería la recomendación, tipo para saber si suelen estar llenos, etc
+11:36:50 - Norman Perrin (@norman):
+<@UC1QYJACE> te puedo decir que yo con cuenta personal pude recibir dólares. La persona que me hizo la transferencia lo hizo desde otra cuenta de TW.
+11:36:54 - Marcos Casagrande (@marcoscvp90):
+De donde es tu empleador? 
+11:37:31 - Martín Aimar (@maimar):
+sabés que no encuentro la data, ya agregué los balances en pesos y en dólares pero no encuentro datos de las cuentas
+11:37:45 - Martín Aimar (@maimar):
+de estados unidos
+11:38:25 - Norman Perrin (@norman):
+Creo que con el mail ya te podía encontrar... no me acuerdo.
+11:38:28 - Marcos Casagrande (@marcoscvp90):
+No existe datos de transferencia en pesos directo, te pueden transferir pesos si el que hace el pago usa transferwise, pero te entra a tu cuenta bancaria. 
+11:39:05 - Martín Aimar (@maimar):
+mejor, prefiero en dólares
+11:39:12 - Marcos Casagrande (@marcoscvp90):
+Los datos en dolares para la borderless la tenes solo con cuenta europea (quizas de USA también) pero todos tienen datos de cuenta en EUR. 
+11:39:44 - Marcos Casagrande (@marcoscvp90):
+O sea si te transfieren dolares a Eur, no tendrás problemas en tener esos euros en TW, en la borderless account. 
+11:42:53 - Marcos Casagrande (@marcoscvp90):
+Va a tener que crearse usuario en TW para depositarte, pero creo que no podrá enviarte USD, el enviará USD, pero a vos te llegan EUR u otra moneda. No sé si lo cambiaron, pero antes era así para Argentina. 
+11:43:12 - Marcos Casagrande (@marcoscvp90):
+Sino estando en USA, te puede pagar por payoneer sin problemas. 
+11:54:36 - Martín Aimar (@maimar):
+bueno, sé que a otra gente ya le paga con TW así que por ahí calculo que todo bien
+11:54:55 - Martín Aimar (@maimar):
+payoneer tengo pero se me venció la tarjeta y me mandaron la renovación pero obviamente quedó en el limbo
+11:55:27 - Martín Aimar (@maimar):
+pero entonces si me abro el balance en ARS en TW él me paga USD y yo recibo ARS, es así?
+11:55:34 - Marcos Casagrande (@marcoscvp90):
+A mi me pagan, pero tengo la cuenta europea, entonces no sé si es lo mismo, porque yo tengo balances y datos en USD.
+11:55:53 - Marcos Casagrande (@marcoscvp90):
+O sea, pagar te va a poder pagar, el tema es que estoy muy seguro que con cuenta Argentina, no podés recibir USD a la borderless.
+11:56:39 - Marcos Casagrande (@marcoscvp90):
+Solo podés recibir balances a las borderless que tengan datos de transferencia. Y las divisas que tienen datos en la borderless para Argentina son: EUR, GBP y creo que dólar australiano.
+11:57:30 - Marcos Casagrande (@marcoscvp90):
+Si el te paga en USD y dice que vos recibas en ARS, como no tenés datos de cuenta en ARS en la borderless, TW te va a pedir que metas tu cuenta bancaria local para recibir el pago. Entonces iría directo a tu banco.
+11:57:59 - Marcos Casagrande (@marcoscvp90):
+Lo mejor que podés hacer si el no puede hacer USD &gt; USD, es que haga USD &gt; EUR (abrite el balance en EUR)
+11:58:48 - Marcos Casagrande (@marcoscvp90):
+Entre tener euros o USD para mi no hay diferencia. Y te permite tener esos EUR en la borderless de TW, y eso lo convertis vos a ARS cuando quieras, cuando el cambio convenga o cuando necesités la plata.
+12:00:50 - Martín Aimar (@maimar):
+ahh ahí empiezo a entender, agregué el balance en EUR y ahora veo que tengo balances con y sin datos bancarios locales
+12:01:54 - Marcos Casagrande (@marcoscvp90):
+exactamente. cuando tiene datos locales, significa que te pueden hacer transferencia directamente ahí, sin usar TW, o que si te transfieren desde TW podés meterlos en ese borderless.
+12:02:23 - Marcos Casagrande (@marcoscvp90):
+Cuando tenés una borderless sin datos locales, solo podés depositar plata ahí, cambiando *vos* desde una borderless con datos locales a una sin.
+12:02:46 - Martín Aimar (@maimar):
+bien, o por ejemplo si me transfieren de otra cuenta de TW, es así?
+12:02:49 - Marcos Casagrande (@marcoscvp90):
+O sea, vos podés convertir EUR a ARS y esos ARS no van al banco, sino a tu borderless. Después de la borderless de ARS, los envías al banco cuando vos querés.
+12:03:31 - Marcos Casagrande (@marcoscvp90):
+Hasta dónde tenía entendido, el envío de plata entre usuarios, o sea borderless a borderless no está más disponible.
+12:04:11 - Marcos Casagrande (@marcoscvp90):
+Básicamente, la única forma que vos tengas ARS en el balance borderless de TW, es convirtiendo a ARS desde otra moneda que tengas en la borderless, y estoy 99% seguro de esto.
+12:10:31 - German Gonzalez (@gercho):
+Yo laburo en el WeWork de Vte. Lopez (no es acorde a la zona que pusiste pero tampoco tan lejos) y la verdad que es un 10. Hay gente pero no está explotado como el de Retiro ponele. Lo recomiendo
+12:15:09 - Diego Calderón (@codekult):
+WeWork es el único que me pareció un poco caro en comparación a los demás, si no entendí mal viendo su web, está el doble aprox. que cualquier otro
+12:17:52 - Diego Calderón (@codekult):
+A mí me interesa algún plan tipo flex/hot desk, tampoco voy a estar todo el día (6 hs como mucho) y es por 2 meses
+12:28:12 - Martín Aimar (@maimar):
+y si el tipo hace una transferencia de su cuenta a la de TW en EUR la recibo sin comisiones?
+12:50:10 - Marcos Casagrande (@marcoscvp90):
+si es de su cuenta bancaria y la manda a tu borderless, no hay comisión.
+12:52:06 - Marcos Casagrande (@marcoscvp90):
+Es una transferencia con IBAN, si no la hace así, y hace transferencia internacional, aplican comisiones de transferencias interacionales.
+12:52:33 - Marcos Casagrande (@marcoscvp90):
+Pero de cuenta bancaria europea a TW Borderless EUR no hay comisión.
+12:55:32 - Diego Ferrari (@die.a.ferrari):
+Yo estuve bastante tiempo en La Maquinita (Cabildo y Juramento) y está re bien.
+14:55:41 - gillchristian (@gillchristian):
+<https://twitter.com/ohmicabra/status/1108398304797360134?s=20>
+14:55:58 - gillchristian (@gillchristian):
+Siendo que este channel es el de <#C0PHBKNNA|forobardo> laboral lo comparto acá
+14:56:25 - Martín Valdés de León (@mvaldesdeleon):
+estem, no es la de acamica esa?
+14:56:29 - Martín Valdés de León (@mvaldesdeleon):
+que estaba puesta asi en joda?
+14:57:09 - Gonza Gluzman (@gonza):
+Sep
+14:57:18 - Martin Carrera (@mcarrera):
+alguien necesita un detector de sarcasmo
+14:57:26 - Martín Valdés de León (@mvaldesdeleon):
+<https://acamica.bamboohr.com/jobs/view.php?id=1>
+14:57:38 - Martín Valdés de León (@mvaldesdeleon):
+si, es esa xD
+14:58:18 - Diego Calderón (@codekult):
+<https://twitter.com/dan_abramov/status/1108412863809495040>
+14:58:42 - Diego Calderón (@codekult):
+Miralo a Dan publicitando el job posting :clap::skin-tone-4:
+14:58:48 - Martín Aimar (@maimar):
+jajaj whoosh
+14:59:29 - Luis Ventocilla (@lvsmix):
+escalo muy alto ese post
+15:02:28 - gillchristian (@gillchristian):
+Jajajajajajajajaja
+15:02:38 - gillchristian (@gillchristian):
+Yo no había visto el original
+15:02:46 - gillchristian (@gillchristian):
+Me imaginé igual que venía por ahí
+15:03:06 - gillchristian (@gillchristian):
+Pero eso no generaría <#C0PHBKNNA|forobardo> :speak_no_evil: 
+15:03:34 - Juan Scolari (@juanscolari):
+<https://twitter.com/dan_abramov/status/1108422541264207872>
+15:03:54 - Gonza Espeche (@espeche.g):
+esto se descontroló
+15:04:35 - Juan Scolari (@juanscolari):
+Yo creo que es un buen momento para decirle a Dan que de algun curso de Acamica
+15:07:44 - Luis Ventocilla (@lvsmix):
+Va a salir en el diario peor que el changarin!!
+15:09:10 - Juan Scolari (@juanscolari):
+Que lo lleven al bailando despues
+15:10:13 - Luis Ventocilla (@lvsmix):
+0800 - Dan
+15:11:53 - Rodrigo Ali (@rodrigojali):
+Seh, era de Acamica o algo parecido.
+15:14:39 - Rodrigo Ali (@rodrigojali):
+Dan no chequea las fuentes, #seSupo
+15:14:52 - Luis Ventocilla (@lvsmix):
+es de acamica y esta todavia
+15:17:08 - Julian (@jantonielli01):
+Igual no parece un chiste
+15:17:12 - Julian (@jantonielli01):
+malisimo
+15:17:17 - Agustin Polo (@apolo_codes):
+me hizo acordar a esta estrategia de BK <https://www.socialsamosa.com/2019/02/burger-king-influencer-marketing-casey-neistat/>
+15:17:29 - Agustin Polo (@apolo_codes):
+se, no veo el hint de sarcasmo en la propuesta
+15:17:51 - Sergio Daniel Xalambrí (@sergiodxa):
+les faltó un (?)
+15:18:12 - Diego Calderón (@codekult):
+:wink:
+15:18:15 - Julian (@jantonielli01):
+les falto un `borrar esa huevada` antes de mandarlo
+15:18:18 - Gonza Espeche (@espeche.g):
+jajajaja
+15:18:40 - Sergio Daniel Xalambrí (@sergiodxa):
+`// FIXME`
+15:19:06 - Gonza Espeche (@espeche.g):
+muy jugado el chiste, pero buen, terminó en Dan así que caso cerrado?
+15:19:11 - Agustin Polo (@apolo_codes):
+es que el comment debe estar en el md que mandaron pero no se renderizo(?
+15:19:13 - Martín Valdés de León (@mvaldesdeleon):
+<https://en.wikipedia.org/wiki/Poe%27s_law>
+15:20:15 - Julian (@jantonielli01):
+sherman va a ver esto y se le va a safar un tornillo
+15:20:18 - Julian (@jantonielli01):
+<https://www.youtube.com/watch?v=2EPi86K8B98>
+15:23:37 - Santiago Ruffino (@santi_0898):
+Oh my God, yo fui el que se lo puso en el Slack. Jajaja
+15:28:00 - Santiago Ruffino (@santi_0898):
+Yo no lo entendi como sarcasmo en su momento. Jajaja
+15:28:13 - Camila Cepeda (@camilunghi):
+acá yo como opinologa (?) vengo a decir que vi gente bardeando recruiters por ese item de la búsqueda y ahi tienen la demostración de que al final ponen "chistes" en lugares donde no van y eso a veces genera confusión en la gente
+15:28:23 - Santiago Ruffino (@santi_0898):
+Lo que pasa es que esta lleno de recruiters que pondrian algo asi fuera de joda. Entonces no sabes que pensar
+15:28:49 - Camila Cepeda (@camilunghi):
+creo que nunca cuando lees un aviso laboral pensas que algo se está diciendo en joda
+15:29:38 - Camila Cepeda (@camilunghi):
+completamente de acuerdo Santiago!
+15:30:53 - Julian (@jantonielli01):
+Agree 
+15:31:10 - Julian (@jantonielli01):
+Si pones un chiste aparte, que sea bueno je
+15:46:31 - Hernan Rajchert (@sherman):
+/gif michael jackson popcorn
+15:50:09 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+y si no entender el chiste es parte del filtro?
+15:50:37 - Santiago Ruffino (@santi_0898):
+En las nuevas "Startups" que hay, seguro te piden que entiendas el chiste. Jajaja
+15:51:11 - Santiago Ruffino (@santi_0898):
+"Buen ambiente, metegol, cerveza los viernes (paga cada uno la suya), chistes de React"
+15:52:22 - Camila Cepeda (@camilunghi):
+CHISTES DE REACT
+15:52:24 - Camila Cepeda (@camilunghi):
+jajajajajajajja
+15:53:03 - Santiago Ruffino (@santi_0898):
+Bueno, basta. Si sigo verdugeando, nadie me va a dar trabajo. Jajaja
+15:53:54 - Luis Ventocilla (@lvsmix):
+Esto con Angular no pasa, che
+15:53:55 - Luis Ventocilla (@lvsmix):
+jaja
+15:54:24 - Juan Scolari (@juanscolari):
+- Why couldn’t the React component understand the joke?
+- Because it didn’t get the context.
+15:54:30 - Rodrigo Ali (@rodrigojali):
+Uff.
+15:54:38 - Rodrigo Ali (@rodrigojali):
+Es muy miércoles para esto.
+15:57:55 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+entran `this.state` , `setState` y `useState` en un var y ... :troll:
+16:00:46 - Santiago Ruffino (@santi_0898):
+Hagan a este hombre un recruiter. 
+16:03:47 - gillchristian (@gillchristian):
+Porque Angular es el chiste
+16:04:49 - gillchristian (@gillchristian):
+&gt; Experiencia en Angular
+Sería el chiste en sí
+16:04:52 - a0viedo (@a0viedo):
+para qué pagarle a fb por ads si dan lo puede hacer gratis? :roll_safe:
+16:04:54 - gillchristian (@gillchristian):
+:trollface: 
+16:07:29 - Julian (@jantonielli01):
+Porque si pagas ads capaz le llega a devs buenos 
+16:08:25 - Santiago Ruffino (@santi_0898):
+Jajajajaja
+16:10:07 - a0viedo (@a0viedo):
+eso asumiría que devs tanto buenos como malos siguen usando fb
+16:13:36 - Julian (@jantonielli01):
+El chiste era que estaba diciendo que solo devs malos siguen a dan _sigh_
+16:15:49 - Jorge Cano (@jorgeucano):
+llegue re tarde… pero yo tengo mi cuenta en europa (n26) y la empresa donde trabajo me paga ahi… si necesito la plata en el dia, hago la transferencia rapida (te sacan unos dolares) pero llega en exactamente 3 horas…
+16:15:54 - Jorge Cano (@jorgeucano):
+si la mandas a pesos
+16:16:11 - Rodrigo Ali (@rodrigojali):
+<#C0PHBKNNA|forobardo> hace rato :stuck_out_tongue:
+16:34:58 - Luis Ventocilla (@lvsmix):
+jajaja
+16:37:08 - Pedro (@pedro461):
+ame este chat… voy a decir “Aguante Vue”
+16:37:31 - Julian (@jantonielli01):
+vueh
+16:38:39 - Martín Aimar (@maimar):
+inb4 i love vue jokes
+16:38:42 - Pedro (@pedro461):
+lo digo posta, trabajo con React, Angular y Vue.. me quedo con Vue sin dudas
+16:39:00 - Pedro (@pedro461):
+:slightly_smiling_face:
+16:40:40 - Rodrigo Ali (@rodrigojali):
+Y Vim
+16:41:18 - Andres (@alot123):
+~vim~ emacs
+16:43:35 - Martín Aimar (@maimar):
+/gif well that’s just like your opinion man
+16:45:23 - Pedro (@pedro461):
+vim + vue = :heart:
+16:46:03 - Sergio Daniel Xalambrí (@sergiodxa):
+vim + vue = vum
+16:47:06 - Pedro (@pedro461):
+:joy:
