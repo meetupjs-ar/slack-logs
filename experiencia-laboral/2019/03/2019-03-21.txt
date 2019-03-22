@@ -1,0 +1,192 @@
+14:09:01 - Marcos Casagrande (@marcoscvp90):
+Te confirmo, que no hay comisión, hoy me entró un pago directo a la cuenta. 
+14:21:38 - Martín Aimar (@maimar):
+uhh qué copado
+14:21:55 - Martín Aimar (@maimar):
+mirá me dijo que sólo le pase el mail así que no creo que me haga transferencia bancaria
+14:55:33 - Johanna (@johannasabsantos):
+gente alguna opinion sobre la consultora page personnel?
+14:55:47 - Johanna (@johannasabsantos):
+ni idea si esta pregunta va aca o en general
+14:55:48 - Johanna (@johannasabsantos):
+jajaja
+15:31:04 - Gonza Espeche (@espeche.g):
+Page hace mucho la de entrevistar gente para puestos fake y se van armando su propia base de datos con perfiles
+15:37:23 - Gabriel Fusca (@gfuscax):
+alguno vio esta plataforma? <https://triplebyte.com/candidate_faq>
+15:41:47 - Julian (@jantonielli01):
+Si
+15:42:42 - Gabriel Fusca (@gfuscax):
+nada eso :stuck_out_tongue:, me llamó la atención.`We help programmers find great companies to work at. The entire process is totally free for programmers.`
+15:43:29 - Julian (@jantonielli01):
+No anda en arg creo 
+15:43:48 - Julian (@jantonielli01):
+Yo me anote en Francia pero me dijeron que todavía no anda ahí 
+15:43:53 - Gabriel Fusca (@gfuscax):
+nono, es para USA
+15:43:57 - Julian (@jantonielli01):
+Pero te dan la chance de laburar como recruiter
+15:44:03 - Gabriel Fusca (@gfuscax):
+no te ayudan con la relocación, son como un middleware
+15:44:03 - Julian (@jantonielli01):
+En cualquier lado 
+15:49:21 - Martín Valdés de León (@mvaldesdeleon):
+&gt;Unfortunately, the companies we work with CANNOT provide visas for candidates unless they are from Canada, Mexico, Singapore, Chile, or Australia. If you are not a US citizen or permanent resident, or from one of those countries, you will need to obtain your own H-1B visa before we can work with you.
+&gt;
+&gt; We can also work with STEM students on an F-1 visa who are eligible for the 2-year OPT program.
+&gt;
+&gt; The companies we work with CAN help transfer your H-1B visa if you already have one at another company.
+15:51:58 - Martin Carrera (@mcarrera):
+_chile_
+15:52:04 - Martin Carrera (@mcarrera):
+por qué será? :thinking_face:
+15:52:31 - Gonza Espeche (@espeche.g):
+shíle wn
+15:52:36 - Sergio Daniel Xalambrí (@sergiodxa):
+Chile no necesita visa de turista para USA
+15:52:41 - Sergio Daniel Xalambrí (@sergiodxa):
+va solo con el pasaporte
+15:52:46 - Sergio Daniel Xalambrí (@sergiodxa):
+debe ser eso
+15:52:55 - Diego Ferrari (@die.a.ferrari):
+en mi experiencia blanquearon que no tenían un puesto pero me entrevistaban para tenerme en la base de datos
+15:53:09 - Sergio Daniel Xalambrí (@sergiodxa):
+es más fácil entrar a USA y después simplemente sacar una visa de trabajo desde dentro de USA
+15:53:15 - Martín Valdés de León (@mvaldesdeleon):
+Varios paises de la EU tampoco necesitan visa para turismo pero no estan en la lista.
+15:53:21 - Martín Valdés de León (@mvaldesdeleon):
+onda UK o Alemania
+15:57:21 - Johanna (@johannasabsantos):
+Entonces ni me gasto en ir a la entrevista no?
+15:57:42 - Johanna (@johannasabsantos):
+Me llamaron sin contarme nada de la busqueda juas
+15:59:08 - Gonza Espeche (@espeche.g):
+nah, andá... no perdes nada, la realidad es que ellos ganan si le consiguen al cliente un candidato
+15:59:28 - Diego Ferrari (@die.a.ferrari):
+Mira, mi experiencia buscando puestos en marketing fue la siguiente:
+Me llamaron, tuvimos una primera entrevista para saber mis intereses y bla y me agregaron a su base de datos.
+Posteriormente me llamaron 3-4 veces con propuestas laborales acordes a mi perfil para ver si me interesaba.
+
+Es más, siempre me abrieron la puerta para hacerles consultas y varias veces llame a la persona que me había entrevistado para preguntarle su opinión sobre algunas cosas, remuneraciones y bla y siempre con la mejor me dieron su opinión.
+Ni idea como se manejarán en esta industria.
+16:01:11 - Johanna (@johannasabsantos):
+Ah bueno buenisimo eso! Por las opiniones que lei en google maps me dieron mala espina pero si decis que es asi esta muy bueno
+16:03:33 - Gonza Espeche (@espeche.g):
+Me pasó lo mismo, me entrevistaron para una "importante empresa" la cual nunca supe más nada, pero quedé en contacto con el reclutador que cada tanto me escribía con propuestas.
+16:17:43 - Marcos Casagrande (@marcoscvp90):
+Claro, si pasaste el mail no te hace directo, sino a través de transferwise. Si el te manda dólares, decile de recibir USD (si le deja), sino EUR.
+16:18:07 - Marcos Casagrande (@marcoscvp90):
+Cuando envíe USD &gt; EUR, te llega un mail de TW, diciendo de poner tus datos de transferencia en EUR, y ahí ponés los datos de tu borderless.
+16:57:40 - Julian (@jantonielli01):
+alguien conoce <https://nomiclabs.io/>
+17:49:19 - Johanna (@johannasabsantos):
+ahh y para desarrollo? <@UCBK6KBMM> recien veo esto
+18:04:59 - Andrés (@aglobokar):
+El empleador suele decir que el que le cuesta mas no le rinde mas. Eso es casi una regla de negocio en casos de relación de dependencia. Es una forma de bajar el nivel de sueldos o de usufructuar por un tiempo. Ejemplo:
+Tuve una compañera que rendía x 3 (yo incluido). Le decían que pedía mucho. Cuando se fue la reemplazaron con 3.
+Ganaron un par de años de tener una sola que rendía por 3.
+18:08:12 - Andrés (@aglobokar):
+Los empleadores no compiten por vos del mismo modo que vos con tus compañeros. En Argentina los integrantes del CESSI hacen circular un excel con los sueldos de los empleados (sin nombre claro). Alguna vez me llegó una copia de alguna parte del mismo.
+18:11:17 - Andrés (@aglobokar):
+muy de acuerdo con eso de la meritocracia. Creo que cumplir es parte de nuestro prestigio, pero no tiene relación con la remuneración.
+18:18:56 - Andrés (@aglobokar):
+Para las consultoras es muy fácil. Si tienen muchos empleados... 4% es un número. El cliente se puede quejar un poco cuando pierde recursos que le rendían, pero lo pilotean presionando al resto.
+Ademas hay muchos indios/chinos/ucranianos dispuestos a trabajar hasta en lo que no saben.
+19:34:11 - Marcos Casagrande (@marcoscvp90):
+Si le duplicaban el sueldo, tenían un par de años una persona que rendía x1.5-2
+14:09:01 - Marcos Casagrande (@marcoscvp90):
+Te confirmo, que no hay comisión, hoy me entró un pago directo a la cuenta. 
+14:21:38 - Martín Aimar (@maimar):
+uhh qué copado
+14:21:55 - Martín Aimar (@maimar):
+mirá me dijo que sólo le pase el mail así que no creo que me haga transferencia bancaria
+14:55:33 - Johanna (@johannasabsantos):
+gente alguna opinion sobre la consultora page personnel?
+14:55:47 - Johanna (@johannasabsantos):
+ni idea si esta pregunta va aca o en general
+14:55:48 - Johanna (@johannasabsantos):
+jajaja
+15:31:04 - Gonza Espeche (@espeche.g):
+Page hace mucho la de entrevistar gente para puestos fake y se van armando su propia base de datos con perfiles
+15:37:23 - Gabriel Fusca (@gfuscax):
+alguno vio esta plataforma? <https://triplebyte.com/candidate_faq>
+15:41:47 - Julian (@jantonielli01):
+Si
+15:42:42 - Gabriel Fusca (@gfuscax):
+nada eso :stuck_out_tongue:, me llamó la atención.`We help programmers find great companies to work at. The entire process is totally free for programmers.`
+15:43:29 - Julian (@jantonielli01):
+No anda en arg creo 
+15:43:48 - Julian (@jantonielli01):
+Yo me anote en Francia pero me dijeron que todavía no anda ahí 
+15:43:53 - Gabriel Fusca (@gfuscax):
+nono, es para USA
+15:43:57 - Julian (@jantonielli01):
+Pero te dan la chance de laburar como recruiter
+15:44:03 - Gabriel Fusca (@gfuscax):
+no te ayudan con la relocación, son como un middleware
+15:44:03 - Julian (@jantonielli01):
+En cualquier lado 
+15:49:21 - Martín Valdés de León (@mvaldesdeleon):
+&gt;Unfortunately, the companies we work with CANNOT provide visas for candidates unless they are from Canada, Mexico, Singapore, Chile, or Australia. If you are not a US citizen or permanent resident, or from one of those countries, you will need to obtain your own H-1B visa before we can work with you.
+&gt;
+&gt; We can also work with STEM students on an F-1 visa who are eligible for the 2-year OPT program.
+&gt;
+&gt; The companies we work with CAN help transfer your H-1B visa if you already have one at another company.
+15:51:58 - Martin Carrera (@mcarrera):
+_chile_
+15:52:04 - Martin Carrera (@mcarrera):
+por qué será? :thinking_face:
+15:52:31 - Gonza Espeche (@espeche.g):
+shíle wn
+15:52:36 - Sergio Daniel Xalambrí (@sergiodxa):
+Chile no necesita visa de turista para USA
+15:52:41 - Sergio Daniel Xalambrí (@sergiodxa):
+va solo con el pasaporte
+15:52:46 - Sergio Daniel Xalambrí (@sergiodxa):
+debe ser eso
+15:52:55 - Diego Ferrari (@die.a.ferrari):
+en mi experiencia blanquearon que no tenían un puesto pero me entrevistaban para tenerme en la base de datos
+15:53:09 - Sergio Daniel Xalambrí (@sergiodxa):
+es más fácil entrar a USA y después simplemente sacar una visa de trabajo desde dentro de USA
+15:53:15 - Martín Valdés de León (@mvaldesdeleon):
+Varios paises de la EU tampoco necesitan visa para turismo pero no estan en la lista.
+15:53:21 - Martín Valdés de León (@mvaldesdeleon):
+onda UK o Alemania
+15:57:21 - Johanna (@johannasabsantos):
+Entonces ni me gasto en ir a la entrevista no?
+15:57:42 - Johanna (@johannasabsantos):
+Me llamaron sin contarme nada de la busqueda juas
+15:59:08 - Gonza Espeche (@espeche.g):
+nah, andá... no perdes nada, la realidad es que ellos ganan si le consiguen al cliente un candidato
+15:59:28 - Diego Ferrari (@die.a.ferrari):
+Mira, mi experiencia buscando puestos en marketing fue la siguiente:
+Me llamaron, tuvimos una primera entrevista para saber mis intereses y bla y me agregaron a su base de datos.
+Posteriormente me llamaron 3-4 veces con propuestas laborales acordes a mi perfil para ver si me interesaba.
+
+Es más, siempre me abrieron la puerta para hacerles consultas y varias veces llame a la persona que me había entrevistado para preguntarle su opinión sobre algunas cosas, remuneraciones y bla y siempre con la mejor me dieron su opinión.
+Ni idea como se manejarán en esta industria.
+16:01:11 - Johanna (@johannasabsantos):
+Ah bueno buenisimo eso! Por las opiniones que lei en google maps me dieron mala espina pero si decis que es asi esta muy bueno
+16:03:33 - Gonza Espeche (@espeche.g):
+Me pasó lo mismo, me entrevistaron para una "importante empresa" la cual nunca supe más nada, pero quedé en contacto con el reclutador que cada tanto me escribía con propuestas.
+16:17:43 - Marcos Casagrande (@marcoscvp90):
+Claro, si pasaste el mail no te hace directo, sino a través de transferwise. Si el te manda dólares, decile de recibir USD (si le deja), sino EUR.
+16:18:07 - Marcos Casagrande (@marcoscvp90):
+Cuando envíe USD &gt; EUR, te llega un mail de TW, diciendo de poner tus datos de transferencia en EUR, y ahí ponés los datos de tu borderless.
+16:57:40 - Julian (@jantonielli01):
+alguien conoce <https://nomiclabs.io/>
+17:49:19 - Johanna (@johannasabsantos):
+ahh y para desarrollo? <@UCBK6KBMM> recien veo esto
+18:04:59 - Andrés (@aglobokar):
+El empleador suele decir que el que le cuesta mas no le rinde mas. Eso es casi una regla de negocio en casos de relación de dependencia. Es una forma de bajar el nivel de sueldos o de usufructuar por un tiempo. Ejemplo:
+Tuve una compañera que rendía x 3 (yo incluido). Le decían que pedía mucho. Cuando se fue la reemplazaron con 3.
+Ganaron un par de años de tener una sola que rendía por 3.
+18:08:12 - Andrés (@aglobokar):
+Los empleadores no compiten por vos del mismo modo que vos con tus compañeros. En Argentina los integrantes del CESSI hacen circular un excel con los sueldos de los empleados (sin nombre claro). Alguna vez me llegó una copia de alguna parte del mismo.
+18:11:17 - Andrés (@aglobokar):
+muy de acuerdo con eso de la meritocracia. Creo que cumplir es parte de nuestro prestigio, pero no tiene relación con la remuneración.
+18:18:56 - Andrés (@aglobokar):
+Para las consultoras es muy fácil. Si tienen muchos empleados... 4% es un número. El cliente se puede quejar un poco cuando pierde recursos que le rendían, pero lo pilotean presionando al resto.
+Ademas hay muchos indios/chinos/ucranianos dispuestos a trabajar hasta en lo que no saben.
+19:34:11 - Marcos Casagrande (@marcoscvp90):
+Si le duplicaban el sueldo, tenían un par de años una persona que rendía x1.5-2
