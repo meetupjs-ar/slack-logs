@@ -1,0 +1,240 @@
+08:17:09 - Juan Bono (@juanbono):
+<https://haskell-code-explorer.mfix.io/package/ghc-8.6.1/show/coreSyn/CoreSyn.hs#L270> miren eso jajaja, qué buena onda (el sitio, no la línea 270)
+08:19:27 - Juan Bono (@juanbono):
+Se puede ver el código de cualquier paquete de hackage parecería
+09:29:20 - Martín Valdés de León (@mvaldesdeleon):
+<https://vrom911.github.io/blog/write-yourself-a-lens>
+09:34:08 - gillchristian (@gillchristian):
+se, esta muy bueno
+09:34:35 - gillchristian (@gillchristian):
+lo vi ayer en twitter pero me dio un toque de pachorra leerlo sin haber usado ni visto nada de lenses (fuera de lo que hay en Ramda)
+11:22:09 - gillchristian (@gillchristian):
+<https://twitter.com/PaulGrizzay/status/1108731019530829824>
+11:22:22 - gillchristian (@gillchristian):
+Por que `du` y no `do` ni idea though
+11:24:05 - Juan Bono (@juanbono):
+Jajajaj pensé que era para saber el tamaño de los archivos 
+11:36:36 - Martín Valdés de León (@mvaldesdeleon):
+quiza le gusta rammstein (?)
+11:51:37 - Hernan Rajchert (@sherman):
+claro, para usar con la famosa monad `Hast`
+11:55:22 - Julio (@julito):
+Justo me crucé este tweet ayer <https://twitter.com/steveklabnik/status/1108411670634942464>
+12:08:09 - Juan Bono (@juanbono):
+Jajajaaj 
+13:24:00 - Martín Valdés de León (@mvaldesdeleon):
+<https://twitter.com/KenScambler/status/1108738366529400832>
+13:24:04 - Martín Valdés de León (@mvaldesdeleon):
+(thread)
+13:31:00 - Juan Bono (@juanbono):
+Interesante, voy a ver más a fondo la fuente que cita después. No me queda claro en qué sentido es superior a otras herramientas jaja 
+13:31:43 - Martín Valdés de León (@mvaldesdeleon):
+Nada es superior a UML.
+13:32:04 - Martín Valdés de León (@mvaldesdeleon):
+:troll:
+13:32:31 - Juan Bono (@juanbono):
+O si hay alguna herramienta, porque más abajo dice que los diagramas tienen propiedades matemáticas y al componerlos como que se deben respetar las propiedades
+13:32:53 - Juan Bono (@juanbono):
+Había uno así, pero no me acuerdo el nombre
+13:36:47 - Juan Bono (@juanbono):
+Ah no, flashe jajaja 
+13:37:18 - Juan Bono (@juanbono):
+<http://globular.science>
+13:41:47 - Juan Bono (@juanbono):
+Igual aunque exista también me genera duda jajaja, después voy a leer mejor como es el tema 
+14:58:08 - Martín Valdés de León (@mvaldesdeleon):
+Bue, ya tengo todo mi paperwork en orden. Estoy esperando que la empresa comunique que me rajo para poder hacer handovers. Resulta que la "unica persona" a cargo de anunciar los movimientos de personal via Slack esta enferma y nadie puede hacerlo
+14:58:09 - Martín Valdés de León (@mvaldesdeleon):
+...
+14:58:42 - Martín Valdés de León (@mvaldesdeleon):
+Mientras tanto, 1 week gone, 5 to go. Acaban de desperdiciar 1/6 del tiempo disponible.
+15:09:37 - gillchristian (@gillchristian):
+¯\_(ツ)_/¯
+15:10:09 - gillchristian (@gillchristian):
+Tienen una persona para eso y nadie más lo puede hacer ? :scream: 
+15:10:17 - Leandro Echevarria (@echevarrialeandro):
+rly
+15:11:46 - Martín Valdés de León (@mvaldesdeleon):
+El anuncio es via Slack, y la cuenta que hace los anuncios es la cuenta de admin.
+15:11:56 - Martín Valdés de León (@mvaldesdeleon):
+Cualquier persona de IT deberia tener acceso.
+15:12:14 - Martín Valdés de León (@mvaldesdeleon):
+¯\_(ツ)_/¯
+15:25:31 - Martín Valdés de León (@mvaldesdeleon):
+Mi teoria personal es q es todo alto chamuyo, y lo que REALMENTE sucede es que mañana el COO nos invita unas pizzas (????) para celebrar que entregamo phase 1 de un proyecto importante.
+15:25:52 - Martín Valdés de León (@mvaldesdeleon):
+Y no quiere que nadie hable de otra cosa.
+15:30:42 - Hernan Rajchert (@sherman):
+makes sense
+15:40:26 - Leandro Echevarria (@echevarrialeandro):
+Pizza 4 all
+17:01:44 - Julian (@jantonielli01):
+que bronca me da este país con toda la burocracia a veces
+17:02:01 - Julian (@jantonielli01):
+alquilar un departamento es más complicado que aprender category theory
+17:04:56 - Gonzalo González Mora (@gonzalogm):
+_3 quick tricks to rent an apartment in Argentina_
+17:05:28 - Julian (@jantonielli01):
+_1. don't_
+17:06:10 - Julian (@jantonielli01):
+a veces creo q preferiría alquilar por airbnb y pagar el 2ble q tener que lidiar con las inmobiliarias de verga
+18:36:11 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.linkedin.com/jobs/view/1104183872/>
+18:36:13 - Martín Valdés de León (@mvaldesdeleon):
+alguno mande
+18:36:33 - Martín Valdés de León (@mvaldesdeleon):
+piden github y video de una charla
+18:37:43 - Julian (@jantonielli01):
+paja que es onsite
+18:43:54 - Hernan Rajchert (@sherman):
+<https://twitter.com/_cmdv_/status/1108473825560326150?s=20>
+18:59:59 - Julian (@jantonielli01):
+ Buena guita 
+20:29:12 - Hernan Rajchert (@sherman):
+yeap
+20:29:20 - Hernan Rajchert (@sherman):
+pero el proyecto me parece medio pijazo
+20:34:41 - Julian (@jantonielli01):
+Y en sf
+20:36:44 - Hernan Rajchert (@sherman):
+`We use blockchain-based, smart contract technology to oversee and automate the complex and time consuming contractual compliance of renewable energy loans.`… porque metes blockchain :facepalm:
+20:37:50 - Julian (@jantonielli01):
+Jajajaj 
+20:37:55 - Julian (@jantonielli01):
+Man, funciona siempre 
+20:41:00 - Julian (@jantonielli01):
+Mira este robo <https://imaginecup.microsoft.com/Team/Index/5760db25-c2ba-4490-8390-2c55079646df>
+20:41:07 - Julian (@jantonielli01):
+Viajamos a US por eso jaj
+20:53:56 - Leandro Echevarria (@echevarrialeandro):
+Jajaj que trucazo
+20:54:23 - Leandro Echevarria (@echevarrialeandro):
+Vi un articulo el año pasado que nunca mas pude encontrar que decia que las empresas que ponian Blockchain en su nombre, veian incrementadaslas inversiones algo asi como un 50%
+20:55:17 - Julian (@jantonielli01):
+La gente que hace blockchain entendió bien eso 
+20:56:32 - Julian (@jantonielli01):
+Si ves las páginas, son todas lindas :sparkles: y con muchas buzzwords, si lees los white papers son todos unos ladris 
+20:56:39 - Julian (@jantonielli01):
+Pero te distraen con lo anterior 
+20:58:40 - Leandro Echevarria (@echevarrialeandro):
+Son lo peor
+08:17:09 - Juan Bono (@juanbono):
+<https://haskell-code-explorer.mfix.io/package/ghc-8.6.1/show/coreSyn/CoreSyn.hs#L270> miren eso jajaja, qué buena onda (el sitio, no la línea 270)
+08:19:27 - Juan Bono (@juanbono):
+Se puede ver el código de cualquier paquete de hackage parecería
+09:29:20 - Martín Valdés de León (@mvaldesdeleon):
+<https://vrom911.github.io/blog/write-yourself-a-lens>
+09:34:08 - gillchristian (@gillchristian):
+se, esta muy bueno
+09:34:35 - gillchristian (@gillchristian):
+lo vi ayer en twitter pero me dio un toque de pachorra leerlo sin haber usado ni visto nada de lenses (fuera de lo que hay en Ramda)
+11:22:09 - gillchristian (@gillchristian):
+<https://twitter.com/PaulGrizzay/status/1108731019530829824>
+11:22:22 - gillchristian (@gillchristian):
+Por que `du` y no `do` ni idea though
+11:24:05 - Juan Bono (@juanbono):
+Jajajaj pensé que era para saber el tamaño de los archivos 
+11:36:36 - Martín Valdés de León (@mvaldesdeleon):
+quiza le gusta rammstein (?)
+11:51:37 - Hernan Rajchert (@sherman):
+claro, para usar con la famosa monad `Hast`
+11:55:22 - Julio (@julito):
+Justo me crucé este tweet ayer <https://twitter.com/steveklabnik/status/1108411670634942464>
+12:08:09 - Juan Bono (@juanbono):
+Jajajaaj 
+13:24:00 - Martín Valdés de León (@mvaldesdeleon):
+<https://twitter.com/KenScambler/status/1108738366529400832>
+13:24:04 - Martín Valdés de León (@mvaldesdeleon):
+(thread)
+13:31:00 - Juan Bono (@juanbono):
+Interesante, voy a ver más a fondo la fuente que cita después. No me queda claro en qué sentido es superior a otras herramientas jaja 
+13:31:43 - Martín Valdés de León (@mvaldesdeleon):
+Nada es superior a UML.
+13:32:04 - Martín Valdés de León (@mvaldesdeleon):
+:troll:
+13:32:31 - Juan Bono (@juanbono):
+O si hay alguna herramienta, porque más abajo dice que los diagramas tienen propiedades matemáticas y al componerlos como que se deben respetar las propiedades
+13:32:53 - Juan Bono (@juanbono):
+Había uno así, pero no me acuerdo el nombre
+13:36:47 - Juan Bono (@juanbono):
+Ah no, flashe jajaja 
+13:37:18 - Juan Bono (@juanbono):
+<http://globular.science>
+13:41:47 - Juan Bono (@juanbono):
+Igual aunque exista también me genera duda jajaja, después voy a leer mejor como es el tema 
+14:58:08 - Martín Valdés de León (@mvaldesdeleon):
+Bue, ya tengo todo mi paperwork en orden. Estoy esperando que la empresa comunique que me rajo para poder hacer handovers. Resulta que la "unica persona" a cargo de anunciar los movimientos de personal via Slack esta enferma y nadie puede hacerlo
+14:58:09 - Martín Valdés de León (@mvaldesdeleon):
+...
+14:58:42 - Martín Valdés de León (@mvaldesdeleon):
+Mientras tanto, 1 week gone, 5 to go. Acaban de desperdiciar 1/6 del tiempo disponible.
+15:09:37 - gillchristian (@gillchristian):
+¯\_(ツ)_/¯
+15:10:09 - gillchristian (@gillchristian):
+Tienen una persona para eso y nadie más lo puede hacer ? :scream: 
+15:10:17 - Leandro Echevarria (@echevarrialeandro):
+rly
+15:11:46 - Martín Valdés de León (@mvaldesdeleon):
+El anuncio es via Slack, y la cuenta que hace los anuncios es la cuenta de admin.
+15:11:56 - Martín Valdés de León (@mvaldesdeleon):
+Cualquier persona de IT deberia tener acceso.
+15:12:14 - Martín Valdés de León (@mvaldesdeleon):
+¯\_(ツ)_/¯
+15:25:31 - Martín Valdés de León (@mvaldesdeleon):
+Mi teoria personal es q es todo alto chamuyo, y lo que REALMENTE sucede es que mañana el COO nos invita unas pizzas (????) para celebrar que entregamo phase 1 de un proyecto importante.
+15:25:52 - Martín Valdés de León (@mvaldesdeleon):
+Y no quiere que nadie hable de otra cosa.
+15:30:42 - Hernan Rajchert (@sherman):
+makes sense
+15:40:26 - Leandro Echevarria (@echevarrialeandro):
+Pizza 4 all
+17:01:44 - Julian (@jantonielli01):
+que bronca me da este país con toda la burocracia a veces
+17:02:01 - Julian (@jantonielli01):
+alquilar un departamento es más complicado que aprender category theory
+17:04:56 - Gonzalo González Mora (@gonzalogm):
+_3 quick tricks to rent an apartment in Argentina_
+17:05:28 - Julian (@jantonielli01):
+_1. don't_
+17:06:10 - Julian (@jantonielli01):
+a veces creo q preferiría alquilar por airbnb y pagar el 2ble q tener que lidiar con las inmobiliarias de verga
+18:36:11 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.linkedin.com/jobs/view/1104183872/>
+18:36:13 - Martín Valdés de León (@mvaldesdeleon):
+alguno mande
+18:36:33 - Martín Valdés de León (@mvaldesdeleon):
+piden github y video de una charla
+18:37:43 - Julian (@jantonielli01):
+paja que es onsite
+18:43:54 - Hernan Rajchert (@sherman):
+<https://twitter.com/_cmdv_/status/1108473825560326150?s=20>
+18:59:59 - Julian (@jantonielli01):
+ Buena guita 
+20:29:12 - Hernan Rajchert (@sherman):
+yeap
+20:29:20 - Hernan Rajchert (@sherman):
+pero el proyecto me parece medio pijazo
+20:34:41 - Julian (@jantonielli01):
+Y en sf
+20:36:44 - Hernan Rajchert (@sherman):
+`We use blockchain-based, smart contract technology to oversee and automate the complex and time consuming contractual compliance of renewable energy loans.`… porque metes blockchain :facepalm:
+20:37:50 - Julian (@jantonielli01):
+Jajajaj 
+20:37:55 - Julian (@jantonielli01):
+Man, funciona siempre 
+20:41:00 - Julian (@jantonielli01):
+Mira este robo <https://imaginecup.microsoft.com/Team/Index/5760db25-c2ba-4490-8390-2c55079646df>
+20:41:07 - Julian (@jantonielli01):
+Viajamos a US por eso jaj
+20:53:56 - Leandro Echevarria (@echevarrialeandro):
+Jajaj que trucazo
+20:54:23 - Leandro Echevarria (@echevarrialeandro):
+Vi un articulo el año pasado que nunca mas pude encontrar que decia que las empresas que ponian Blockchain en su nombre, veian incrementadaslas inversiones algo asi como un 50%
+20:55:17 - Julian (@jantonielli01):
+La gente que hace blockchain entendió bien eso 
+20:56:32 - Julian (@jantonielli01):
+Si ves las páginas, son todas lindas :sparkles: y con muchas buzzwords, si lees los white papers son todos unos ladris 
+20:56:39 - Julian (@jantonielli01):
+Pero te distraen con lo anterior 
+20:58:40 - Leandro Echevarria (@echevarrialeandro):
+Son lo peor
