@@ -1,0 +1,342 @@
+09:55:00 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola! Tengo una consulta muuuuuy básica. 
+
+Estoy aprendiendo a utilizar el this en js.
+
+Hice 4 divs con class="caja" les puse un alto, un ancho, fondo y les asigné un id a cada una.
+En el js puse:
+cajas = document.getElementsByClassName("caja");
+...hasta acá joya.
+Ahora, cuando pongo:
+cajas.addEventListener("click"), cambiarColor); //con la función cambiarColor ya definida para que me cambie el fondo, no sé donde caranchos meter el this... y me tira un error de que addEventListener no es una función. 
+Entiendo que debería recorrer el array cajas de alguna forma en cada elemento individual, pero no se me ocurre cómo, si pudieran orientarme, se los agradezcl
+09:59:40 - Rodrigo Ali (@rodrigojali):
+Pasa que no es una función de `cajas`, porque estás definiendo a esa variable como un conjunto de nodos html
+09:59:51 - Rodrigo Ali (@rodrigojali):
+Y el `addEventListener()` pone un evento a un objeto en particular.
+09:59:57 - Rodrigo Ali (@rodrigojali):
+Al menos asi lo entiendo yo.
+10:02:13 - Jorge Cano (@jorgeucano):
+ahi
+10:02:23 - Jorge Cano (@jorgeucano):
+estoy “reproduciendol lo que decis”
+10:02:29 - Jorge Cano (@jorgeucano):
+el problema es que te genera un “htmlcollection”
+09:55:00 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola! Tengo una consulta muuuuuy básica. 
+
+Estoy aprendiendo a utilizar el this en js.
+
+Hice 4 divs con class="caja" les puse un alto, un ancho, fondo y les asigné un id a cada una.
+En el js puse:
+cajas = document.getElementsByClassName("caja");
+...hasta acá joya.
+Ahora, cuando pongo:
+cajas.addEventListener("click"), cambiarColor); //con la función cambiarColor ya definida para que me cambie el fondo, no sé donde caranchos meter el this... y me tira un error de que addEventListener no es una función. 
+Entiendo que debería recorrer el array cajas de alguna forma en cada elemento individual, pero no se me ocurre cómo, si pudieran orientarme, se los agradezcl
+09:59:40 - Rodrigo Ali (@rodrigojali):
+Pasa que no es una función de `cajas`, porque estás definiendo a esa variable como un conjunto de nodos html
+09:59:51 - Rodrigo Ali (@rodrigojali):
+Y el `addEventListener()` pone un evento a un objeto en particular.
+09:59:57 - Rodrigo Ali (@rodrigojali):
+Al menos asi lo entiendo yo.
+10:02:13 - Jorge Cano (@jorgeucano):
+ahi
+10:02:23 - Jorge Cano (@jorgeucano):
+estoy “reproduciendol lo que decis”
+10:02:29 - Jorge Cano (@jorgeucano):
+el problema es que te genera un “htmlcollection”
+10:02:33 - Jorge Cano (@jorgeucano):
+<https://stackblitz.com/edit/js-go5kzp?file=index.js>
+10:02:40 - Jorge Cano (@jorgeucano):
+y no es iterable eso
+10:02:45 - Rodrigo Ali (@rodrigojali):
+Entonces lo que podrías hacer es ponele, usar el `querySelectorAll()` y sobre eso hacés un `forEach()` donde metés los listeners
+10:04:16 - Leandro Echevarria (@echevarrialeandro):
+<@UGW464VJS> Al margen de las respuestas de los chicos, el capitulo 1 y 2 de este libro me parece que están buenos como explican el tema del `this`, por si querés profundizar un poco eso después <https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/README.md>
+10:05:57 - Jorge Cano (@jorgeucano):
+<https://stackblitz.com/edit/js-go5kzp?file=index.js>
+10:06:00 - Jorge Cano (@jorgeucano):
+ahi tenes el ejemplo “terminado”
+10:06:32 - Rodrigo Ali (@rodrigojali):
+Claro, algo así tenía en la cabeza :open_mouth:, qué groso este Jorge.
+10:06:38 - Jorge Cano (@jorgeucano):
+xD
+10:08:16 - Jorge Cano (@jorgeucano):
+ahi agregue el segundo foreach que toma el “this”
+10:10:15 - Aldo Gabriel Rojas (@aldogrojas5):
+Muchas gracias!!
+10:11:46 - Jorge Cano (@jorgeucano):
+una sola cosa <@UGW464VJS> si no entendes bien como funciona el this… podes empezar pasando la variable y en un futuro meterte con el this de nuevo :slightly_smiling_face:
+10:11:59 - Jorge Cano (@jorgeucano):
+mas si estas arrancando :slightly_smiling_face:
+10:12:21 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro, eso ya lo se hacer
+10:12:29 - Jorge Cano (@jorgeucano):
+genial :slightly_smiling_face:
+10:12:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Pasandlle el this desde la etiqueta html
+10:13:00 - Jorge Cano (@jorgeucano):
+:+1:
+10:14:48 - Aldo Gabriel Rojas (@aldogrojas5):
+Le ponía onclick="cambiarColor(this)" y me andaba... pero quiero complicarmela para aprender bien :grin:
+10:14:55 - Jorge Cano (@jorgeucano):
+perfecto
+10:14:58 - Jorge Cano (@jorgeucano):
+siempre hay que aprender mas
+10:15:05 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias por las respuestas de todos! Son muy buena onda!
+10:15:13 - Jorge Cano (@jorgeucano):
+esta bueno que sepas manejar desde el template y desde js
+10:15:20 - Jorge Cano (@jorgeucano):
+asi podes ir viendo que variable te sirve mas :wink:
+10:17:07 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro! Estoy jugando con un svg para hacer un mapa interactivo y necesito hacer q cuando los clickee cambie al color q le diga... y esto me sirve mucho!
+10:17:11 - Rodrigo Ali (@rodrigojali):
+El `this` puede llegar a ser tan oscuro a veces.
+10:19:54 - Martín Aimar (@maimar):
+/gif the fuck is this
+10:41:06 - Aldo Gabriel Rojas (@aldogrojas5):
+Empecé a leer y me quedo más tranquilo... no me pasa sólo a mí! Gracias por la bibliografía!
+10:44:33 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahí vi el ejemplo q me pasaste! Muy bueno! Te hago otra consulta de pasada... yo estoy estudiando js. Ya estuve viendo q cambió la sintaxis un poco con es6... me recomendás q siga con la sintaxis vieja hasta q le agarre la mano o me pongo de lleno con es6?
+10:45:23 - Aldo Gabriel Rojas (@aldogrojas5):
+Tené en cuenta q arranqué con esto hace 10 días en los ratos libres...
+10:45:41 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!
+10:45:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Una luz!
+10:49:08 - Santiago Ruffino (@santi_0898):
+Conocen alguna forma de "identar" una lista en VSCode? Porque mi codigo me retorna una lista, que es bastante larga. Quiero hacer un salto de linea por cada corchete o llave que encuentre. Podria hacer una funcion que lea la lista, pero por existia alguna forma de hacerlo rapido
+10:49:52 - Mateo Silguero (@mfsilguero):
+es tipo json ?
+10:49:58 - Gonza Gluzman (@gonza):
+`cmd` + `shift` + `p`
+10:50:02 - Damian Diaz (@damianmdst):
+podes poner un formato preview ?
+10:50:06 - Gonza Gluzman (@gonza):
+`Format document`
+10:50:25 - Leandro Echevarria (@echevarrialeandro):
+Por nada :smile:
+10:50:49 - Damian Diaz (@damianmdst):
+Eso es si tenes prettier configurado, capaz que esta buscando otra cosa. Si es un JSON esa solucion va barbaro, e incluso si es JS un array lo identa perfecto.
+10:51:09 - Santiago Ruffino (@santi_0898):
+```[[{'actions': [{'action_type': 'landing_page_view', 'value': '4'}, {'action_type': 'post', 'value': '2'}, {'action_type': 'comment', 'value': '2'}, {'action_type': 'leadgen.other', 'value': '14'}, {'action_type': 'link_click', 'value': '347'}, {'action_type': 'post_reaction', 'value': '26'}, {'action_type': 'post_engagement', 'value': '377'}, {'action_type': 'page_engagement', 'value': '377'}], 'date_start': '2019-02-18', 'date_stop': '2019-02-25', 'reach': '14357', 'spend': '2407.29', 'account_name': 'PEPE', 'objective': 'LEAD_GENERATION'}]]
+```
+10:51:13 - Santiago Ruffino (@santi_0898):
+Esa es la lista
+10:51:41 - Julio (@julito):
+Format document de una, si te dice que no tenés buscate uno en las extensiones, es super práctico
+10:51:53 - Damian Diaz (@damianmdst):
+Entonces lo que dicen los chicos funciona. Lo pones en un new file en vscode y pones json
+10:51:58 - Damian Diaz (@damianmdst):
+le agregas dos llaves y sale andando
+10:52:18 - Damian Diaz (@damianmdst):
+o mismo, dentro de un file js podes formatearon como dijeron arriba ctrl + shift + p y te lo identa bien
+10:52:41 - Damian Diaz (@damianmdst):
+Por si lo queres formateado, asi me lo dejo el vscode.
+10:56:54 - Santiago Ruffino (@santi_0898):
+Joya! Gracias
+10:57:03 - Santiago Ruffino (@santi_0898):
+El format document me funciono
+10:57:12 - Santiago Ruffino (@santi_0898):
+No lo conocia, por eso directamente me tire a preguntar por aca
+10:59:44 - Nico (@nicokorn96):
+<@U9KMYNJMV> cambiaste la foto de slack que paso ?
+10:59:47 - Damian Diaz (@damianmdst):
+prettier te salva de todo lo que es estilo de codigo separacion entre palabras reservadas, tamaño de la linea etc.
+11:00:14 - Santiago Ruffino (@santi_0898):
+Puse una mas linda
+11:00:15 - Santiago Ruffino (@santi_0898):
+Jajaja
+11:00:25 - Nico (@nicokorn96):
+:joy:
+11:28:14 - Diego Marmol (@dmmarmol):
+Buenas de nuevo, esta vez vuelvo para comentar que encontré una solución bastante prolija para pushear una App a Heroku creada con `create-react-app`.
+
+La clave esta en instalar este `buildpack`, como ellos le llaman , (básicamente es un script que corre al momento del build en Heroku) que está pensado para deployar este tipo de apps
+
+&gt; <https://github.com/mars/heroku-cra-node>
+*Si ya tenes tu app corriendo local, para instalarlo hay que correr*
+```
+heroku buildpacks:set mars/heroku-cra-node 
+```
+11:37:26 - Santiago Ruffino (@santi_0898):
+Gracias por compartir Diego! No estoy laburando con React, pero seguro a alguien le sirve
+11:56:45 - Germán Burgardt (@germanandresburgardt):
+Alguno labura con pentaho?
+15:55:07 - Maxi (@tholem98):
+Alguien me ayudaria a pasar lo siguiente al formato async-await, por favor?
+
+``` passport.use('local-singup', new LocalStrategy({
+    usernameField: 'email',
+    passwordField: 'password',
+    passReqToCallback: true
+
+},
+function(req,email,password,done){
+    User.findOne({'local.email':email}, function (err, user){
+        if(err){
+            return done(err);
+        } if (user){
+            return done(null, false, req.flash('singupMessage', 'The email is already taken'))
+        } else {
+            var newUser = new User();
+            newUser.local.email= email;
+            newUser.local.password= newUser.generateHash;
+            newUser.save(function(err){
+                if(err){throw err;}
+                return done(null, newUser);
+            })
+        }
+    })
+}));
+
+//login
+passport.use('local-login', new LocalStrategy({
+    usernameField: 'email',
+    passwordField: 'password',
+    passReqToCallback: true
+
+},
+function(req,email,password,done){
+    User.findOne({'local.email':email}, function (err, user){
+        if(err){
+            return done(err);
+        } if (!user){
+            return done(null, false, req.flash('loginMessage', 'Not user Found'))
+        } if(!user.validatePassword(password)){
+            return done(null, false, req.flash('loginMessage', 'Wrong password'))
+        }else {
+            return done(null, user)
+        }
+    })
+}));
+
+
+};```
+15:56:57 - Leandro Echevarria (@echevarrialeandro):
+vscode tiene para transformar promises en async/await automaticamente
+15:57:05 - Martín Valdés de León (@mvaldesdeleon):
+Que estaria impidiendote arrancar?
+15:57:05 - Gonzalo González Mora (@gonzalogm):
+Probaste Googlearlo? Seguro debe estar
+15:57:06 - Leandro Echevarria (@echevarrialeandro):
+No me acuerdo de memoria como era, pero tiene :grimacing:
+15:59:35 - Martín Valdés de León (@mvaldesdeleon):
+Mas importante me parece remarcar que
+
+```
+if (foo) {
+
+} if (bar) {
+
+}
+```
+
+es lo mismo que tener dos ifs separados. si foo es cierto y bar es cierto, se ejecutan los dos cuerpos. es confuso escribirlo de esa manera, como si fuese un if/elseif
+16:03:27 - Maxi (@tholem98):
+Vi en algunos cursos que decian que no habia problema con expresarlo asi, que no era absolutamente necesario el "else".  
+
+Gracias por lo de vscode, no sabia eso. Lo voy a buscar
+16:04:08 - Martín Valdés de León (@mvaldesdeleon):
+En ese ejemplo en particular va a andar pero porque adentro de los cuerpos tenes un return.
+16:04:40 - Martín Valdés de León (@mvaldesdeleon):
+Pero te recomendaria que o bien uses if / else if / else , o pongas un "enter" dps de la llave que cierra un if, antes de arrancar el otro
+16:04:49 - Martín Valdés de León (@mvaldesdeleon):
+```
+if (foo) {
+
+}
+
+if (bar) {
+
+}
+```
+16:05:10 - Gonzalo González Mora (@gonzalogm):
+<https://www.wlaurance.com/2018/09/async-await-passportjs-local-strategy/>
+
+acá hay un artículo pero no sé cuán actualizado estará
+16:06:11 - Gonzalo González Mora (@gonzalogm):
+Sí, qué forma confusa de escribir esos ifs la verdad
+16:08:23 - Marcos Casagrande (@marcoscvp90):
+No uso mucho mongo, pero si no me equivoco, `.findOne().exec()` retorna una promise, ya con eso podés usar `await`
+16:08:39 - Leandro Echevarria (@echevarrialeandro):
+Sep, tal como decís
+16:08:48 - Maxi (@tholem98):
+Cambia mucho con el "enter" despues de la llave que cierra el primer if?
+16:09:03 - Martín Valdés de León (@mvaldesdeleon):
+El codigo es exactamente el mismo, lo que cambia es que es mas clara tu intencion.
+16:09:28 - Maximiliano Forlenza (@maxi):
+tenes en el `aggregation` de mongo `$lookup`
+16:09:30 - Martín Valdés de León (@mvaldesdeleon):
+```
+if (foo) {
+
+} if (bar) {
+
+}
+```
+
+da a entender que _quisiste_ escribir
+
+```
+if (foo) {
+
+} else if (bar) {
+
+}
+```
+y te olvidaste ese else
+16:09:34 - Marcos Casagrande (@marcoscvp90):
+Si, cambia mucho, da mucha legibilidad.
+16:09:37 - Martín Valdés de León (@mvaldesdeleon):
+no se si se te paso y es un bug, o no
+16:10:15 - Maxi (@tholem98):
+Habia leido que no era necesario el else. Por eso omití el else aproposito pero mantuve la estructura
+16:10:27 - Martín Valdés de León (@mvaldesdeleon):
+Es que depende lo que queres hacer.
+16:10:36 - Martín Valdés de León (@mvaldesdeleon):
+Esos dos bloques de codigo que acabo de escribir, ambos son validos.
+16:10:38 - Martín Valdés de León (@mvaldesdeleon):
+Pero no hacen lo mismo.
+16:10:58 - Martín Valdés de León (@mvaldesdeleon):
+si `foo` es `true` y `bar` es `true`, el primer bloque de codigo ejecuta los dos ifs
+16:11:02 - Martín Valdés de León (@mvaldesdeleon):
+el 2do bloque solo ejecuta el primero
+16:11:08 - Maxi (@tholem98):
+Si, eso es lo que no tengo muy claro. Donde irian los awaits y que partes del codigo deberia sacar y cambiar
+16:11:46 - Martín Valdés de León (@mvaldesdeleon):
+si queres que se ejecute "lo uno *O* lo otro", es necesario el else
+16:12:21 - Maxi (@tholem98):
+Claro, se supone que no deberian ser ambos true. Que uno sucede cuando el otro no, y viceversa
+16:12:41 - Martín Valdés de León (@mvaldesdeleon):
+yo agregaria los else que faltan
+16:12:44 - Martín Valdés de León (@mvaldesdeleon):
+en ese caso
+16:13:25 - Leandro Echevarria (@echevarrialeandro):
+Buscá como es la transformación en vs code y proba con una sola promise para ver el cambio y entenderlo de a poco
+16:14:06 - Maxi (@tholem98):
+Gracias <@UDJJ1RZT5> parece ser lo que busco. Le voy a hechar una mirada mas en profundidad y a probarlo
+16:14:32 - Maxi (@tholem98):
+Dale, gracias
+16:14:45 - Maxi (@tholem98):
+Gracias
+16:15:09 - Leandro Echevarria (@echevarrialeandro):
+Pero en resumidas cuentas
+Promise:
+```
+db.findOne().exec().then(resultados =&gt; console.log(resultados));
+```
+
+Await (para usar el await, la función que lo contiene debe ser `async`):
+```
+const resultados = await db.findOne().exec();
+```
+18:15:45 - Gustavo Machado (@machadogj):
+<@UH5L5P3FY> ese refactor que pediste ayuda, es una excelente oportunidad para usar/probar una herramienta que hizo alguien del grupo: <http://codereforge.com|codereforge.com>
+/cc <@UFB4A82UU>
+18:17:16 - Gustavo Machado (@machadogj):
+(que btw… sigo primero en el leaderboard jajaja)
+18:45:05 - Maxi (@tholem98):
+Dale, la voy a probar. Muchas gracias
