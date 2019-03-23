@@ -1,0 +1,433 @@
+10:06:44 - Maxi (@tholem98):
+<@U0EASP51B> intente usar la herramienta de <@UFB4A82UU> pero no la entendí. De javascript me aparecian solo 3 opciones y ninguna tenia que ver con asyn await. Eran todas sobre react. 
+
+No se si hize algo mal o a donde tengo que ir
+10:19:49 - Pablo Miceli (@pablomiceli24):
+Gracias por promocionarla <@U0EASP51B> jaja. <@UH5L5P3FY> la idea de la plataforma es que hagas un post nuevo con tu cacho de código y otros posteen un refactoring de ese código. Igual esta re muerta, la idea es empezar a seedearla con posts pero estuve con otras cosas. En algun momento lo retomaré hopefully
+10:20:38 - Maxi (@tholem98):
+Muchisimas gracias, ahora entendí. Genial  ahi lo subo
+10:31:53 - david garcia (@manuonda):
+Hola que tal, queria realizarles una pregunta..Es sobre la instalacion de un repositorio de git en un server..
+10:32:10 - david garcia (@manuonda):
+que herramienta utilizan para manejar las cuentas , creacion de repositorios y otras cosas.
+10:32:12 - david garcia (@manuonda):
+Gracias.Saludos.
+11:21:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Gente... preguntonta:
+Declaro una variable:
+var nro1 = parseFloat(document.getElementById('valor1').value);
+"valor1" es la id de un input tipo text... quiero pasarlo a número float... cuando pongo en la consola para ver el valor de la variable me pone NaN... qué puede ser q esté fallando?
+11:22:26 - Martín Valdés de León (@mvaldesdeleon):
+podrias mostrar el valor de `document.getElementById('valor1').value` ?
+11:22:34 - Rodrigo Ali (@rodrigojali):
+Los numeros en JS son float.
+11:23:03 - Rodrigo Ali (@rodrigojali):
+Al menos asi lo tengo entendido yo.
+11:23:15 - Martín Valdés de León (@mvaldesdeleon):
+`NaN` significa "Not a Number", y es un valor numerico (ja) que las funciones matematicas devuelven cuando no es posible devolver un valor "correcto"
+11:23:23 - Martín Valdés de León (@mvaldesdeleon):
+por ejemplo, si intentas convertir `"hola"` a numero
+11:23:42 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro, pero le meto nros en el input y me larga lo mismo
+11:23:57 - Rodrigo Ali (@rodrigojali):
+Acordate que parseFloat recibe strings creo. No numeros.
+11:24:00 - Rodrigo Ali (@rodrigojali):
+Y devuelve un float.
+11:24:01 - Martín Valdés de León (@mvaldesdeleon):
+Podrias mostrar el valor exacto, en string, que estas queriendo pasar a numero?
+11:24:08 - Aldo Gabriel Rojas (@aldogrojas5):
+Sisi
+11:24:12 - Martín Valdés de León (@mvaldesdeleon):
+Asi te podemos ayudar indicandote por que esta dandote NaN.
+11:24:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Si le saco el parseFloat, me muestra los nros en string
+11:24:36 - Aldo Gabriel Rojas (@aldogrojas5):
+Con ""
+11:24:45 - Rodrigo Ali (@rodrigojali):
+Pasá el output que tenés sin el `parseFloat()`
+11:25:00 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro, ahi me manda bien el string
+11:25:15 - Gonza Gluzman (@gonza):
+`console.log(document.getElementById('valor1').value)`
+11:25:18 - Gonza Gluzman (@gonza):
+Y captura de pantalla
+11:25:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Pero probé incluso declarandolo como otra var y nada
+11:27:33 - Aldo Gabriel Rojas (@aldogrojas5):
+Me dice undefined
+11:27:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Se ve como el ogt
+11:28:04 - Leandro Echevarria (@echevarrialeandro):
+Mostranos como tenes el input definido tambien
+11:29:43 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo tengo todo junto pq recien estoy empezando a aprender :no_mouth:
+11:30:25 - Gonza Gluzman (@gonza):
+No te preocupes por eso
+11:30:38 - Gonza Gluzman (@gonza):
+Todos empezamos en algún momento, nadie nació sabiendo
+11:30:50 - Gonza Gluzman (@gonza):
+Y no estamos acá para juzgar a nadie
+11:30:56 - Aldo Gabriel Rojas (@aldogrojas5):
+:smiley: 
+11:31:07 - Gonza Gluzman (@gonza):
+Dicho eso, lo que te está devolviendo es `undefined`
+11:31:21 - Gonza Gluzman (@gonza):
+Lo cual hace que tenga sentido que después obtengas un `NaN`
+11:31:34 - Gonza Gluzman (@gonza):
+Porque `parseFloat(undefined)` es `NaN`
+11:32:15 - Gonza Gluzman (@gonza):
+Ahora, el misterio es por qué `document.getElementById('valor1').value` es `undefined`
+11:33:04 - Martín Valdés de León (@mvaldesdeleon):
+Diria que no
+11:33:07 - Martín Valdés de León (@mvaldesdeleon):
+es empty string
+11:33:12 - Martín Valdés de León (@mvaldesdeleon):
+undefined es el retrun value de console.log
+11:33:21 - Martín Valdés de León (@mvaldesdeleon):
+pero `parseFloat('')` tb es `NaN`
+11:33:25 - Gonza Gluzman (@gonza):
+Aaaah!
+11:33:32 - Gonza Gluzman (@gonza):
+Tenés razón <@U0TFEHWEA>
+11:33:50 - Martín Valdés de León (@mvaldesdeleon):
+(hay un iconito tipo `&lt;-` al lado de undefined, eso indica que es un return value)
+11:33:55 - Gonza Gluzman (@gonza):
+Yo estaba buscando a ver si había otro elemento que no fuese un `&lt;input&gt;` con el mismo `id`
+11:34:00 - Juan Calou (@jcalou):
+Yo probaria sacar el &lt;h3&gt; y meter los input dentro de un &lt;form&gt;
+11:34:02 - Gonza Gluzman (@gonza):
+Pero lo que decís es cierto
+11:34:27 - Juan Calou (@jcalou):
+no da ningun error JS?
+11:35:14 - Gonza Gluzman (@gonza):
+<@UGW464VJS>, ponele un valor al campo de texto (completalo, digo) y volvé a probar lo del `console.log`
+11:35:37 - Juan Calou (@jcalou):
+Ahi pasa que nro1 y nro2 se setean en la carga, y en la carga no tienen valor
+10:06:44 - Maxi (@tholem98):
+<@U0EASP51B> intente usar la herramienta de <@UFB4A82UU> pero no la entendí. De javascript me aparecian solo 3 opciones y ninguna tenia que ver con asyn await. Eran todas sobre react. 
+
+No se si hize algo mal o a donde tengo que ir
+10:19:49 - Pablo Miceli (@pablomiceli24):
+Gracias por promocionarla <@U0EASP51B> jaja. <@UH5L5P3FY> la idea de la plataforma es que hagas un post nuevo con tu cacho de código y otros posteen un refactoring de ese código. Igual esta re muerta, la idea es empezar a seedearla con posts pero estuve con otras cosas. En algun momento lo retomaré hopefully
+10:20:38 - Maxi (@tholem98):
+Muchisimas gracias, ahora entendí. Genial  ahi lo subo
+10:31:53 - david garcia (@manuonda):
+Hola que tal, queria realizarles una pregunta..Es sobre la instalacion de un repositorio de git en un server..
+10:32:10 - david garcia (@manuonda):
+que herramienta utilizan para manejar las cuentas , creacion de repositorios y otras cosas.
+10:32:12 - david garcia (@manuonda):
+Gracias.Saludos.
+11:21:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Gente... preguntonta:
+Declaro una variable:
+var nro1 = parseFloat(document.getElementById('valor1').value);
+"valor1" es la id de un input tipo text... quiero pasarlo a número float... cuando pongo en la consola para ver el valor de la variable me pone NaN... qué puede ser q esté fallando?
+11:22:26 - Martín Valdés de León (@mvaldesdeleon):
+podrias mostrar el valor de `document.getElementById('valor1').value` ?
+11:22:34 - Rodrigo Ali (@rodrigojali):
+Los numeros en JS son float.
+11:23:03 - Rodrigo Ali (@rodrigojali):
+Al menos asi lo tengo entendido yo.
+11:23:15 - Martín Valdés de León (@mvaldesdeleon):
+`NaN` significa "Not a Number", y es un valor numerico (ja) que las funciones matematicas devuelven cuando no es posible devolver un valor "correcto"
+11:23:23 - Martín Valdés de León (@mvaldesdeleon):
+por ejemplo, si intentas convertir `"hola"` a numero
+11:23:42 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro, pero le meto nros en el input y me larga lo mismo
+11:23:57 - Rodrigo Ali (@rodrigojali):
+Acordate que parseFloat recibe strings creo. No numeros.
+11:24:00 - Rodrigo Ali (@rodrigojali):
+Y devuelve un float.
+11:24:01 - Martín Valdés de León (@mvaldesdeleon):
+Podrias mostrar el valor exacto, en string, que estas queriendo pasar a numero?
+11:24:08 - Aldo Gabriel Rojas (@aldogrojas5):
+Sisi
+11:24:12 - Martín Valdés de León (@mvaldesdeleon):
+Asi te podemos ayudar indicandote por que esta dandote NaN.
+11:24:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Si le saco el parseFloat, me muestra los nros en string
+11:24:36 - Aldo Gabriel Rojas (@aldogrojas5):
+Con ""
+11:24:45 - Rodrigo Ali (@rodrigojali):
+Pasá el output que tenés sin el `parseFloat()`
+11:25:00 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro, ahi me manda bien el string
+11:25:15 - Gonza Gluzman (@gonza):
+`console.log(document.getElementById('valor1').value)`
+11:25:18 - Gonza Gluzman (@gonza):
+Y captura de pantalla
+11:25:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Pero probé incluso declarandolo como otra var y nada
+11:27:33 - Aldo Gabriel Rojas (@aldogrojas5):
+Me dice undefined
+11:27:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Se ve como el ogt
+11:28:04 - Leandro Echevarria (@echevarrialeandro):
+Mostranos como tenes el input definido tambien
+11:29:43 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo tengo todo junto pq recien estoy empezando a aprender :no_mouth:
+11:30:25 - Gonza Gluzman (@gonza):
+No te preocupes por eso
+11:30:38 - Gonza Gluzman (@gonza):
+Todos empezamos en algún momento, nadie nació sabiendo
+11:30:50 - Gonza Gluzman (@gonza):
+Y no estamos acá para juzgar a nadie
+11:30:56 - Aldo Gabriel Rojas (@aldogrojas5):
+:smiley: 
+11:31:07 - Gonza Gluzman (@gonza):
+Dicho eso, lo que te está devolviendo es `undefined`
+11:31:21 - Gonza Gluzman (@gonza):
+Lo cual hace que tenga sentido que después obtengas un `NaN`
+11:31:34 - Gonza Gluzman (@gonza):
+Porque `parseFloat(undefined)` es `NaN`
+11:32:15 - Gonza Gluzman (@gonza):
+Ahora, el misterio es por qué `document.getElementById('valor1').value` es `undefined`
+11:33:04 - Martín Valdés de León (@mvaldesdeleon):
+Diria que no
+11:33:07 - Martín Valdés de León (@mvaldesdeleon):
+es empty string
+11:33:12 - Martín Valdés de León (@mvaldesdeleon):
+undefined es el retrun value de console.log
+11:33:21 - Martín Valdés de León (@mvaldesdeleon):
+pero `parseFloat('')` tb es `NaN`
+11:33:25 - Gonza Gluzman (@gonza):
+Aaaah!
+11:33:32 - Gonza Gluzman (@gonza):
+Tenés razón <@U0TFEHWEA>
+11:33:50 - Martín Valdés de León (@mvaldesdeleon):
+(hay un iconito tipo `&lt;-` al lado de undefined, eso indica que es un return value)
+11:33:55 - Gonza Gluzman (@gonza):
+Yo estaba buscando a ver si había otro elemento que no fuese un `&lt;input&gt;` con el mismo `id`
+11:34:00 - Juan Calou (@jcalou):
+Yo probaria sacar el &lt;h3&gt; y meter los input dentro de un &lt;form&gt;
+11:34:02 - Gonza Gluzman (@gonza):
+Pero lo que decís es cierto
+11:34:27 - Juan Calou (@jcalou):
+no da ningun error JS?
+11:35:14 - Gonza Gluzman (@gonza):
+<@UGW464VJS>, ponele un valor al campo de texto (completalo, digo) y volvé a probar lo del `console.log`
+11:35:37 - Juan Calou (@jcalou):
+Ahi pasa que nro1 y nro2 se setean en la carga, y en la carga no tienen valor
+11:35:47 - Mariano Argañaras (@arga.mariano):
+metelos dentro de la funcion
+11:39:00 - Santiago Ruffino (@santi_0898):
+Completa los dos campo, y hace `document.getElementById('valor1').value` de nuevo
+11:40:07 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi los llené, tire el console.log y me pasa un nro y undefined tb
+11:40:21 - Aldo Gabriel Rojas (@aldogrojas5):
+En los dos input. Tambien saqué el h3
+11:41:50 - Santiago Ruffino (@santi_0898):
+No tenes forma de mandar el codigo por aca? Porque quiero hacer una prueba
+11:44:19 - Juan Calou (@jcalou):
+saca el console.log
+11:44:29 - Juan Calou (@jcalou):
+pone directo document.getElementById(‘valor1’).value
+11:44:31 - Juan Calou (@jcalou):
+a ver que te tira
+11:46:29 - Jorge Cano (@jorgeucano):
+<https://stackblitz.com/edit/js-go5kzp?file=index.html>
+11:47:22 - Jorge Cano (@jorgeucano):
+:thinking_face: ahi me funca
+11:47:24 - Jorge Cano (@jorgeucano):
+hasta si pongo numeros
+11:47:42 - Gonza Gluzman (@gonza):
+OJO: no te devuelve `undefined` el `document.getElementById('valor1').value`, sino el `console.log`. Eso es lo que dijo <@U0TFEHWEA> y es importante.
+11:47:48 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi me tira "111"
+11:49:09 - Jorge Cano (@jorgeucano):
+lo que dicen <@U5L3AMCKT> y <@U0TFEHWEA> es eso de ahi arriba
+11:49:27 - Jorge Cano (@jorgeucano):
+deberias asignarlo a una variable y luego imprimirlo si es que lo queres imprimir
+11:49:30 - Juan Calou (@jcalou):
+Claro, si estas en la consola del navegador no necesitas usar console.log
+11:50:14 - Gonza Gluzman (@gonza):
+O sin hacer `console.log`
+11:50:33 - Gonza Gluzman (@gonza):
+Simplemente escribir en la consola `document.getElementById('valor1').value` y luego darle enter
+11:50:36 - Gonza Gluzman (@gonza):
+Y listo
+11:51:57 - Aldo Gabriel Rojas (@aldogrojas5):
+Hay algo mal al declarar la variable en el script... pq hice el document.getElementById.value y me da bien
+11:52:31 - Juan Calou (@jcalou):
+la declaraste a nivel global en la carga, lo que tendrias que hacer es tomar el value justo antes de la comparacion
+11:52:47 - Juan Calou (@jcalou):
+porque sino toma el value en la carga, y ahi es un string vacio
+11:53:01 - Aldo Gabriel Rojas (@aldogrojas5):
+Es q ahora hasta saqué el if... y sigue sin tomarme el valor :thinking_face: 
+11:53:08 - Mariano Argañaras (@arga.mariano):
+<https://codesandbox.io/s/vanilla?fontsize=14>
+11:53:22 - Mariano Argañaras (@arga.mariano):
+te dejo un sandbox con el codigo
+11:53:24 - Juan Calou (@jcalou):
+mete dentro de la funcion las dos primeras lineas
+11:53:34 - Juan Calou (@jcalou):
+con eso deberia andar
+11:54:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahora el script solo tiene las variables... y así y todo me tira NaN 
+11:54:35 - Juan Calou (@jcalou):
+a ver el codigo como quedo?
+11:55:10 - Mariano Argañaras (@arga.mariano):
+```&lt;body&gt;
+	&lt;div id="app"&gt;&lt;/div&gt;
+	&lt;input id="value1" /&gt;
+	&lt;input id="value2" /&gt;
+	&lt;button id="button"&gt;Comparar&lt;/button&gt;
+
+	&lt;script&gt;
+		const button = document.getElementById('button');
+		button.addEventListener('click', function() {
+			const valor1 = document.getElementById('value1').value;
+      const valor2 = document.getElementById('value2').value;
+
+      if(Number(valor1) &gt; Number(valor2)) {
+        console.log(valor1 + " es mayor")
+      } else {
+        console.log(valor2 + " es mayor")
+      }
+		})
+	&lt;/script&gt;
+&lt;/body&gt; ```
+11:56:07 - Aldo Gabriel Rojas (@aldogrojas5):
+var nro1 = document.getElementById('valor1').value;
+var nro2 = document.getElementById('valor2').value;
+11:57:13 - Aldo Gabriel Rojas (@aldogrojas5):
+Puse solo eso, y aunque en el input le meta nros, el console me larga ""
+11:57:36 - Juan Calou (@jcalou):
+pero metiste eso dentro de la funcion?
+11:58:03 - Juan Calou (@jcalou):
+si metes eso dentro de la funcion deberias sacar el var que estaba despues porque los nombres de las variables son iguales
+11:58:06 - Aldo Gabriel Rojas (@aldogrojas5):
+No, la borré para primero asegurarme que ande la variable
+11:58:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Borré todo... excepto la declaración de las dos variables nro1 y nro2
+11:58:51 - Juan Calou (@jcalou):
+claro, pero vos estas asignando un valor a una variable en la carga, despues lo que le pongas al input es otra cosa
+11:58:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Y así y todo me sigue tirando cualquier cosa
+11:59:05 - Juan Calou (@jcalou):
+o sea, cada vez que actualices el input deberias correr ese codigo
+11:59:19 - Aldo Gabriel Rojas (@aldogrojas5):
+Pero lo q le pongo al input es sl .value
+11:59:21 - Juan Calou (@jcalou):
+si lo que queres es que haya una variable “nro1” con el valor del input en todo momento
+11:59:40 - Juan Calou (@jcalou):
+esas dos lineas le asignan el valor, es como una foto
+11:59:49 - Juan Calou (@jcalou):
+despues si cambias el input la variable no cambia
+11:59:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Le pongo un nro y después vuelvo a invocar la variable y no le asigna el nro
+11:59:58 - Santiago Ruffino (@santi_0898):
+Tenes que hacer que guarde el valor de `nro1` y de `nro2` cuando haces click en el boton
+12:00:05 - Santiago Ruffino (@santi_0898):
+No lo asignes antes, es al pedo
+12:02:09 - Juan Calou (@jcalou):
+si pero asignarle el valor no te hace seguirlo cada vez que cambia el value, por eso te decia, lo unico que hace es asignarle el valor
+12:02:20 - Juan Calou (@jcalou):
+si se lo pones en la carga, los inputs estan vacios
+12:02:57 - Aldo Gabriel Rojas (@aldogrojas5):
+Voy a seguir probando :disappointed_relieved:
+12:03:38 - Juan Calou (@jcalou):
+que es lo que buscas hacer? empecemos por ahi :slightly_smiling_face:
+12:20:52 - Mariano Argañaras (@arga.mariano):
+Aldo, te pase un sandbox con el codigo que compara los valores como estas buscando vos, te copie el codigo mas abajo tmb. Fijate que te sirve y como funciona, e intenta replicarlo
+12:30:42 - Brian Hume (@brianh20):
+Como va? Lo pongo aca porque... es un problema hibrido... asique no va solo en react-native
+
+Como hacen para hacer un link que permita "deep linking" tanto en web como en mobile?
+12:32:51 - Ezequiel Leites (@leites25):
+Estuve investigando un poco hace unos meses, pero no llegue a probar. Entendi algo como que vos configuras en tu app que va a escuchar intentos de acceder a por ejemplo `<miApp://foo.bar>`y que el SO sabe que tiene que abrir esa app y dentro vos tendras que manejar a donde lleva ese deep link
+12:33:11 - Brian Hume (@brianh20):
+si, claro. con eso todo bien!
+12:33:15 - Brian Hume (@brianh20):
+la pregunta es...
+12:33:19 - Brian Hume (@brianh20):
+si yo mando un mail al usuario
+12:33:45 - Brian Hume (@brianh20):
+diciendo "Tenes un nuevo mensaje, entra en *insert-app-name-here* para leerlo!" y la app tiene version web y mobile...
+
+como hago el link?
+12:34:23 - Santiago Ruffino (@santi_0898):
+Y deberia llevarte a web o mobile depende de si tiene la app o no{?
+12:34:38 - Brian Hume (@brianh20):
+claro
+12:35:08 - Santiago Ruffino (@santi_0898):
+Mmm, me suena a complicado. Porque normalmente lo que hacen es "Si tenes la app, abri la app. Si no, instala la app"
+12:35:24 - Ezequiel Leites (@leites25):
+Ahi no se si es algo que se configura en la web. Porque por ejemplo, vos pones en tu app un link a `<https://twitter.com>` y si tenes instalado twitter te abre la app directamente
+12:45:57 - Brian Hume (@brianh20):
+Claro... por lo que estoy viendo la movida es
+12:46:01 - Brian Hume (@brianh20):
+redirigis 100% a web
+12:46:11 - Brian Hume (@brianh20):
+y en web pones una config que chequea si tiene la app y le sugiere
+12:46:15 - Brian Hume (@brianh20):
+si alguien tiene mas info al respecto se agradece
+12:46:17 - Brian Hume (@brianh20):
+:+1:
+12:47:24 - Martin Carrera (@mcarrera):
+no tengo info, pero cuando lo resuelvas escribite un post o da una charla :stuck_out_tongue_winking_eye:
+12:47:30 - Ezequiel Leites (@leites25):
+<@U7B6WSXJQ> vos que laburas con RN no tuviste que hacer esto en algun momento?
+12:48:47 - Santiago Ruffino (@santi_0898):
+Me parece que la unica forma de hacerlo va a ser asi
+12:48:56 - Mateo Silguero (@mfsilguero):
+Ahhi estoy buscando algun blog que lo explique jajaj
+12:50:26 - Santiago Ruffino (@santi_0898):
+Si haces una PWA, no tenes ese problema :thinking_guy:
+12:50:47 - Brian Hume (@brianh20):
+too late for that
+12:50:51 - Ezequiel Leites (@leites25):
+No todos somos Santi Ruffino que puede meterle a 10 cosas a la vez en el dia
+12:51:01 - Brian Hume (@brianh20):
+jaajjaaja q tipo!
+13:16:03 - Aldo Gabriel Rojas (@aldogrojas5):
+<@U9KMYNJMV> hice lo q me dijiste y anduvo!!! Genio!
+13:16:33 - Aldo Gabriel Rojas (@aldogrojas5):
+Declare la variable adentro de la función 
+13:16:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo otro.. no pude declarar afuera el boton y le tuve q poner onclick a la etiqueta html
+13:17:34 - Santiago Ruffino (@santi_0898):
+Igual, me parece que de esa forma vas a trabajar mucho mas comodo
+13:17:45 - Santiago Ruffino (@santi_0898):
+Porque en tu archivo JS, vas a crear todas las funciones que necesites en un futuro
+13:18:14 - Santiago Ruffino (@santi_0898):
+Ponele, queres agregar un boton de suma. Armas la funcion en el archivo JS. Pones el boton en el HTML y con el onClick, llamas a esa funcion
+13:18:18 - Santiago Ruffino (@santi_0898):
+Me alegro que haya funcionado!
+13:21:07 - Mateo Silguero (@mfsilguero):
+<@U5SA8HM7W> encontre esto
+13:21:15 - Mateo Silguero (@mfsilguero):
+```(function() {
+  var app = {
+    launchApp: function() {
+      window.location.replace("myapp://");
+      this.timer = setTimeout(this.openWebApp, 1000);
+    },
+
+    openWebApp: function() {
+      window.location.replace("<http://itunesstorelink/>");
+    }
+  };
+
+  app.launchApp();
+})();```
+13:21:22 - Mateo Silguero (@mfsilguero):
+<https://stackoverflow.com/questions/14048159/redirect-to-application-if-installed-otherwise-to-app-store>
+13:21:25 - Mateo Silguero (@mfsilguero):
+Aunque no lo probe
+13:22:34 - Santiago Ruffino (@santi_0898):
+Claro, es lo que hace la mayoria (por no decir todas). Es "Te llevamos a la app, o al Store"
+13:25:39 - Ezequiel Leites (@leites25):
+Yo personalmente, si tengo sitio web, preferiria llevar al sitio web y que ahi te diga para instalar la app
+13:26:08 - Ezequiel Leites (@leites25):
+Porque a mi, si no me interesa mucho a donde entre, no me voy a poner a bajar la app para no se, leer un post solo que me parecio interesante
+16:44:08 - Brian Hume (@brianh20):
+grroso!
+16:58:55 - Mateo Silguero (@mfsilguero):
+te anduvo ?
+17:00:30 - Brian Hume (@brianh20):
+no llego el momento aun
+17:00:38 - Brian Hume (@brianh20):
+la app web esta mas atras en terminos de desarrollo
+17:00:42 - Brian Hume (@brianh20):
+pero le vamos a dar ese approach
