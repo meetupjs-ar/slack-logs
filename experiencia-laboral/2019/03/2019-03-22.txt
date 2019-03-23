@@ -1,0 +1,100 @@
+10:22:14 - Marcos Casagrande (@marcoscvp90):
+<https://www.lanacion.com.ar/tecnologia/cual-era-salario-promedio-programador-argentina-enero-nid2230883>
+10:23:55 - Diego Calderón (@codekult):
+Como tiran para abajo, deberían darle un vistazo al modelo seppo
+10:26:34 - Roberto Ruiz (@robmrui):
+Es mas rentable ignorarlo :stuck_out_tongue:
+10:27:00 - Leandro Echevarria (@echevarrialeandro):
+Siempre quedamos con el c@# roto en arg
+10:34:59 - Juan Bono (@juanbono):
+ <https://twitter.com/BuzzConf19/status/1109076510412099584?s=09>
+17:56:03 - Dario Fernando (@someunderscore_):
+alguien que haya obtenido el certificado pyme, cuanto tiempo tienen compo plazo de vigencia?
+17:57:57 - Silvio Messina (@smessina):
+Cuando descargas el PDF de acá te lo dice :point_down:
+
+<https://pyme.produccion.gob.ar/certificado/>
+17:58:20 - Silvio Messina (@smessina):
+En el de la empresa figuran aprox 9 meses
+17:58:48 - Dario Fernando (@someunderscore_):
+si si, claro pero queria saber cuanto le dieron a uds, a mi un mes wtf
+17:59:07 - Silvio Messina (@smessina):
+sos Monotributista?
+17:59:11 - Dario Fernando (@someunderscore_):
+yep
+17:59:37 - Dario Fernando (@someunderscore_):
+supongo que hay que renovarlo cada mes
+18:00:18 - Silvio Messina (@smessina):
+wow, q raro tan poco… vi que a Resp Inscriptos les daba 90 días
+18:02:16 - Dario Fernando (@someunderscore_):
+una vez que tenes obtenes el certificado en mi caso 21/03 al 30/04, podria facturar en abril si que me fajen el impuesto a las exportaciones?
+18:06:36 - Marcos Casagrande (@marcoscvp90):
+A mi me dieron 2 meses. 
+18:06:39 - Silvio Messina (@smessina):
+Si, y por marzo también aparentemente ya que abarcaría al periodo
+18:07:47 - Marcos Casagrande (@marcoscvp90):
+Es ridículo igual, que tengas que renovarlo 6-12 veces en el año... Como nos quieren cagar
+18:09:14 - Ezequiel Leites (@leites25):
+Que tiempo tardan en dartelo?
+18:09:36 - Silvio Messina (@smessina):
+supuestamente 4 días habiles
+18:09:49 - Dario Fernando (@someunderscore_):
+en mi caso tardo 2 dias
+18:10:27 - Dario Fernando (@someunderscore_):
+supongo que porque justo saque en casi en abril, por eso solo un mes igual ni idea.
+18:11:47 - Ezequiel Leites (@leites25):
+Ya arrancaron con bugs?
+18:12:54 - Silvio Messina (@smessina):
+Desde Enero que esta ese alert :warning:
+18:14:04 - Dario Fernando (@someunderscore_):
+mal, hace rato fui a hacer la conformacion de derechos de exportacion, se rompio todo cuando le di a presentar :laughing:
+10:22:14 - Marcos Casagrande (@marcoscvp90):
+<https://www.lanacion.com.ar/tecnologia/cual-era-salario-promedio-programador-argentina-enero-nid2230883>
+10:23:55 - Diego Calderón (@codekult):
+Como tiran para abajo, deberían darle un vistazo al modelo seppo
+10:26:34 - Roberto Ruiz (@robmrui):
+Es mas rentable ignorarlo :stuck_out_tongue:
+10:27:00 - Leandro Echevarria (@echevarrialeandro):
+Siempre quedamos con el c@# roto en arg
+10:34:59 - Juan Bono (@juanbono):
+ <https://twitter.com/BuzzConf19/status/1109076510412099584?s=09>
+17:56:03 - Dario Fernando (@someunderscore_):
+alguien que haya obtenido el certificado pyme, cuanto tiempo tienen compo plazo de vigencia?
+17:57:57 - Silvio Messina (@smessina):
+Cuando descargas el PDF de acá te lo dice :point_down:
+
+<https://pyme.produccion.gob.ar/certificado/>
+17:58:20 - Silvio Messina (@smessina):
+En el de la empresa figuran aprox 9 meses
+17:58:48 - Dario Fernando (@someunderscore_):
+si si, claro pero queria saber cuanto le dieron a uds, a mi un mes wtf
+17:59:07 - Silvio Messina (@smessina):
+sos Monotributista?
+17:59:11 - Dario Fernando (@someunderscore_):
+yep
+17:59:37 - Dario Fernando (@someunderscore_):
+supongo que hay que renovarlo cada mes
+18:00:18 - Silvio Messina (@smessina):
+wow, q raro tan poco… vi que a Resp Inscriptos les daba 90 días
+18:02:16 - Dario Fernando (@someunderscore_):
+una vez que tenes obtenes el certificado en mi caso 21/03 al 30/04, podria facturar en abril si que me fajen el impuesto a las exportaciones?
+18:06:36 - Marcos Casagrande (@marcoscvp90):
+A mi me dieron 2 meses. 
+18:06:39 - Silvio Messina (@smessina):
+Si, y por marzo también aparentemente ya que abarcaría al periodo
+18:07:47 - Marcos Casagrande (@marcoscvp90):
+Es ridículo igual, que tengas que renovarlo 6-12 veces en el año... Como nos quieren cagar
+18:09:14 - Ezequiel Leites (@leites25):
+Que tiempo tardan en dartelo?
+18:09:36 - Silvio Messina (@smessina):
+supuestamente 4 días habiles
+18:09:49 - Dario Fernando (@someunderscore_):
+en mi caso tardo 2 dias
+18:10:27 - Dario Fernando (@someunderscore_):
+supongo que porque justo saque en casi en abril, por eso solo un mes igual ni idea.
+18:11:47 - Ezequiel Leites (@leites25):
+Ya arrancaron con bugs?
+18:12:54 - Silvio Messina (@smessina):
+Desde Enero que esta ese alert :warning:
+18:14:04 - Dario Fernando (@someunderscore_):
+mal, hace rato fui a hacer la conformacion de derechos de exportacion, se rompio todo cuando le di a presentar :laughing:
