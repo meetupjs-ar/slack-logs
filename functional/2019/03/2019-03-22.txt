@@ -1,0 +1,84 @@
+21:51:30 - Martín Valdés de León (@mvaldesdeleon):
+Para ser sf, vp level, pagan como el orto eh
+21:53:17 - Martín Valdés de León (@mvaldesdeleon):
+Metanse en blind a chusmear las ofertas de SDE
+22:15:16 - Julian (@jantonielli01):
+250k?
+22:45:32 - Martín Valdés de León (@mvaldesdeleon):
+Y bastante mas.
+22:45:43 - Martín Valdés de León (@mvaldesdeleon):
+Si tenes experiencia como para ser VP
+22:45:54 - Martín Valdés de León (@mvaldesdeleon):
+Ya estarias mirando a ofertas de TPM en empresas grandes
+22:54:06 - Julian (@jantonielli01):
+heh ya no se que significa eso
+22:54:10 - Julian (@jantonielli01):
+soy muy newbie
+22:56:02 - Martín Valdés de León (@mvaldesdeleon):
+technical project manager
+23:14:55 - Martín Valdés de León (@mvaldesdeleon):
+las ofertas q hay en usa para empresas grandes son ridiculas, y es "lo normal"
+23:14:58 - Martín Valdés de León (@mvaldesdeleon):
+es medio cualquiera
+23:16:35 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.levels.fyi/SE/Amazon/Google/Facebook> para entender de q carajo hablan cuando tiran numeros/letras locos
+23:17:32 - Martín Valdés de León (@mvaldesdeleon):
+L8 en amazon ya es director level
+23:17:33 - Martín Valdés de León (@mvaldesdeleon):
+L10 VP
+23:19:30 - Martín Valdés de León (@mvaldesdeleon):
+Estimo que "VP de startup" seria mas L7
+23:19:35 - Martín Valdés de León (@mvaldesdeleon):
+"sr manager"
+23:19:38 - Martín Valdés de León (@mvaldesdeleon):
+en empresa grande
+00:51:29 - Hernan Rajchert (@sherman):
+<https://github.com/erkmos/haskell-companies/blob/master/README.md>
+07:59:40 - Rodrigo Juarez (@rjuarez):
+hey, alguien quiere hacer un review de un artículo que estoy escribiendo? :slightly_smiling_face: es un draft bastante boludo sobre pair programming
+08:29:50 - Martín Valdés de León (@mvaldesdeleon):
+Pasa, dps del laburo puedo pegarle una revisada.
+08:31:46 - Rodrigo Juarez (@rjuarez):
+dejo acá: <http://rodrigojuarez.xyz/2019/03/22/on-pairing/>
+21:51:30 - Martín Valdés de León (@mvaldesdeleon):
+Para ser sf, vp level, pagan como el orto eh
+21:53:17 - Martín Valdés de León (@mvaldesdeleon):
+Metanse en blind a chusmear las ofertas de SDE
+22:15:16 - Julian (@jantonielli01):
+250k?
+22:45:32 - Martín Valdés de León (@mvaldesdeleon):
+Y bastante mas.
+22:45:43 - Martín Valdés de León (@mvaldesdeleon):
+Si tenes experiencia como para ser VP
+22:45:54 - Martín Valdés de León (@mvaldesdeleon):
+Ya estarias mirando a ofertas de TPM en empresas grandes
+22:54:06 - Julian (@jantonielli01):
+heh ya no se que significa eso
+22:54:10 - Julian (@jantonielli01):
+soy muy newbie
+22:56:02 - Martín Valdés de León (@mvaldesdeleon):
+technical project manager
+23:14:55 - Martín Valdés de León (@mvaldesdeleon):
+las ofertas q hay en usa para empresas grandes son ridiculas, y es "lo normal"
+23:14:58 - Martín Valdés de León (@mvaldesdeleon):
+es medio cualquiera
+23:16:35 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.levels.fyi/SE/Amazon/Google/Facebook> para entender de q carajo hablan cuando tiran numeros/letras locos
+23:17:32 - Martín Valdés de León (@mvaldesdeleon):
+L8 en amazon ya es director level
+23:17:33 - Martín Valdés de León (@mvaldesdeleon):
+L10 VP
+23:19:30 - Martín Valdés de León (@mvaldesdeleon):
+Estimo que "VP de startup" seria mas L7
+23:19:35 - Martín Valdés de León (@mvaldesdeleon):
+"sr manager"
+23:19:38 - Martín Valdés de León (@mvaldesdeleon):
+en empresa grande
+00:51:29 - Hernan Rajchert (@sherman):
+<https://github.com/erkmos/haskell-companies/blob/master/README.md>
+07:59:40 - Rodrigo Juarez (@rjuarez):
+hey, alguien quiere hacer un review de un artículo que estoy escribiendo? :slightly_smiling_face: es un draft bastante boludo sobre pair programming
+08:29:50 - Martín Valdés de León (@mvaldesdeleon):
+Pasa, dps del laburo puedo pegarle una revisada.
+08:31:46 - Rodrigo Juarez (@rjuarez):
+dejo acá: <http://rodrigojuarez.xyz/2019/03/22/on-pairing/>
