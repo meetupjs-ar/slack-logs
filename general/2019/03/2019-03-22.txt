@@ -1,0 +1,410 @@
+21:08:16 - carloscrovara (@carloscrovara):
+<https://twitter.com/byteconf/status/1108736123944214528?s=12>
+09:15:17 - ari (@adiaz):
+muy buena para hacer stickers en wsp jajajajajaja
+10:51:59 - Jhon (@jhonzuritaz695):
+Hola buen día chicos.. saludos primeramente, les comento voy apenas entrando en el mundo de la programación hice el curso en comit.. y quiero seguir pero no sé donde, si pudieran recomendar por experiencias  cursos para seguir , institutosuenos  q no se vayan por la estratosfera$$$.
+Gracias a los q se tomen un minuto en  responder.
+10:53:54 - Damian Diaz (@damianmdst):
+Los cursos freeCodeCamp son bastante buenos si estas arrancando. <https://www.freecodecamp.org/>
+10:54:00 - Damian Diaz (@damianmdst):
+Aparte es gratis.
+11:46:01 - Norman Perrin (@norman):
+Buenas Jhon. Genial que hayas comentado acá.
+
+Comit tiene algunos cursos gratis con los que podés seguir.
+Cursos a distancia gratis vas a encontrar bastantes, pero si estás arrancando quizás quieras uno presencial.
+El único accesible que conozco es el de <@U1W7M3V8U> .
+Sino después tenés los de codo a codo o 111mil pero no los conozco mucho.
+
+Si te ponés a hacer los de Free Code Camp, está bueno mencionarte qué hay una comunidad acá en donde podés preguntar sobre la plataforma y que organiza meetups.
+11:51:58 - Norman Perrin (@norman):
+<https://freecodecampba.org/chat/>
+12:17:09 - Emanuel Friedrich (@aemanuelfriedrich):
+ustedes q son cracks
+12:17:13 - Emanuel Friedrich (@aemanuelfriedrich):
+alguien hace esto?
+12:17:19 - Emanuel Friedrich (@aemanuelfriedrich):
+```if (inProduction() === false) ```
+12:17:27 - Emanuel Friedrich (@aemanuelfriedrich):
+xq
+12:17:37 - Emanuel Friedrich (@aemanuelfriedrich):
+```if (!inProduction()) ```
+12:17:44 - Emanuel Friedrich (@aemanuelfriedrich):
+ese false parece escondido
+12:18:41 - Damian Diaz (@damianmdst):
+porque aparentemente inProduction ya devuelve un valor booleano (true/false) entonces el valor que retorna ya no se hace falta compararlo contra un valor explicitamente ..
+12:18:59 - Diego Calderón (@codekult):
+En realidad la 2da chequea falsy
+12:19:13 - Diego Calderón (@codekult):
+Puede ser que no necesites eso
+12:19:29 - Damian Diaz (@damianmdst):
+osea asumiendo que inProduction retorna false vos estarias haciendo esto if (!false) { do something }
+12:19:52 - Damian Diaz (@damianmdst):
+si no es falso, hace `x` conodicion
+12:19:54 - Julio (@julito):
+Entiendo que la pregunta es si vale la pena hacer la primera para que sea más aparente que estás queriendo NO production cuando lo leés al pasar
+12:20:16 - Julio (@julito):
+Yo creo que voy siempre con la segunda, pero te acepto que con la primera nunca lo vas a malinterpretar
+12:20:58 - Gonzalo González Mora (@gonzalogm):
+Ojo con los falsey como dicen arriba, si retorna undefined o null, no va a hacer lo que esperás tal vez
+12:21:31 - Martín Valdés de León (@mvaldesdeleon):
+FWIW, lo que yo suelo hacer es algo tipo
+
+```
+const IS_PRODUCTION = isProduction() === true;
+
+if (!IS_PRODUCTION) {
+}
+```
+12:21:43 - Martín Valdés de León (@mvaldesdeleon):
+cuando quiero cosas asi, donde UNICAMENTE SI ES EXACTAMENTE true considero prod
+12:22:16 - Diego Calderón (@codekult):
+Un buen principio es chequear por `true` como dice Martín
+12:22:27 - Martín Valdés de León (@mvaldesdeleon):
+y dependiendo de lo que quiero, suelo hacer cosas tipo `=== true` o `!== false` o similar
+12:25:01 - a0viedo (@a0viedo):
++1 a lo que dice martin
+12:32:12 - Marcos Casagrande (@marcoscvp90):
+igual las funciones que arrancan con `is` deberían retornar un `boolean` sino en mi opinión están mal nombradas.
+14:23:46 - Ezequiel Leites (@leites25):
+Consulta. Alguno tiene Google Home?
+14:25:45 - Gonza Gluzman (@gonza):
+O usá <#C050G4ABV|typescript> y asegurate de que es un `boolean` B-)
+14:28:11 - Nico (@nicokorn96):
+yo
+14:29:07 - Ezequiel Leites (@leites25):
+Y que tal, esta bueno? Estuve mirando un par de reviews y en usos básicos esta bastante bien. Pudiste meterte a programarle algo?
+14:31:02 - Nico (@nicokorn96):
+yo tengo el google home mini para la pieza. y tengo en todos las habitaciones chromecast en laas tvs. la cuestion es asi. vale la pena si lo usas para automation osea si usas philips hue o cosas asi. yo en lo personal lo uso para abrir chromecast desde la cama, consultar el calendario cuando me da fiaca sacar alcanzar el celular
+14:31:34 - Nico (@nicokorn96):
+pero si no queres invertir en chromecast ni en cosas de automation es una pieza decorativa
+14:31:56 - Nico (@nicokorn96):
+el tema que por ejemplo philips hue en mercadolibre te sale un ojo de la cara
+14:32:15 - Nico (@nicokorn96):
+pero si lo queres para consultar tu calendario o para manejar chromecast va de una
+14:32:47 - Nico (@nicokorn96):
+lo que si no me fue compatible con el chromecast incorporado de una tv pero  lo solucione poniendole un stick de chromecast
+14:33:08 - a0viedo (@a0viedo):
+tengo el hub, cuenta?
+14:34:10 - a0viedo (@a0viedo):
+integrado con spotify, chromecast y unas lamparitas LIFX en el living
+14:34:55 - Nico (@nicokorn96):
+che de donde conseguiste las lifx?
+14:35:57 - GAlvarado (@anzaldo.alvarado.gabr):
++1 a lo que dice marcos, si devolviera null, undefined, 0  o lo que sea la firma del metodo seria medio mentirosa
+14:36:20 - a0viedo (@a0viedo):
+las compré afuera
+14:37:08 - Ezequiel Leites (@leites25):
+Si, mi idea es mas que nada para boludear, ponerle reminders y todas esas cosas. Normalemnte en casa no uso el celu y no le doy bola a alarmas o cosas de ese estilo 
+14:39:52 - Ezequiel Leites (@leites25):
+Vengo hace rato boludeando con Arduino para hacer boludeces asi, pero me lleva mucho tiempo y no lo vale tanto, cada vez que se me ocurre algo tengo que ir a comprar el modulito, y bleh, lo termino dejando, y me pareció copado el Google Home, ademas es relativamente estético
+14:46:10 - Nico (@nicokorn96):
+si para eso re sirve, yo le digo "haceme acordar de comprar una macbook pro 5k en 2hs" y lo hace
+14:46:20 - Nico (@nicokorn96):
+o levantame a tal hora y hace el laburo
+14:46:41 - Nico (@nicokorn96):
+si lo queres para eso y no gastar tanto tirate para el google home mini
+14:46:48 - Nico (@nicokorn96):
+que creo que esta 45/50usd
+14:46:50 - Ezequiel Leites (@leites25):
+Sisi, mi idea era el mini
+14:47:31 - Ezequiel Leites (@leites25):
+Tiene para poder integrarlo con cosas customs?
+Tipo, ponele que quiero hacer que me lea un post it de Google Keep todos los dias a las 4 de la tarde
+15:03:25 - Maxi (@tholem98):
+Gratuitos:
+&gt;Codecademy
+&gt;Sololearn
+&gt;enki
+&gt;(canal de youtube)Fazt / Fazt Code
+
+Pagos:
+&gt;E-learning UTN 
+&gt;capacitarte
+15:03:27 - Nico (@nicokorn96):
+aver me fijo
+15:03:28 - Nico (@nicokorn96):
+jaaja
+15:03:51 - Ezequiel Leites (@leites25):
+Osea, entiendo que se debe poder, pegarle a una api que devuelva info para que reproduzca
+15:04:45 - Nico (@nicokorn96):
+oficialmente segun lo que veo creo que no hay opcion de una
+15:04:57 - Nico (@nicokorn96):
+pero creo que con IFTT se debe porder
+15:04:58 - Nico (@nicokorn96):
+poder
+15:05:11 - Santiago Ruffino (@santi_0898):
+Funciona parecido a Google Asistant?
+15:05:30 - Nico (@nicokorn96):
+es un google asistant en replica
+15:05:40 - Nico (@nicokorn96):
+pero escuchandote 24x7x365
+15:05:50 - Santiago Ruffino (@santi_0898):
+Ponele, con Dialogflow, podes trabajar con Google Assistant. Entonces creas tus propias acciones, conectandote a las API de Dialogflow y las que necesites
+15:06:42 - Nico (@nicokorn96):
+la cagada es que depende donde vivas tenes mas/menos funciones creo
+15:06:42 - Ezequiel Leites (@leites25):
+:thinking_cris: interesante
+15:07:07 - Ezequiel Leites (@leites25):
+en ingles debe tener mucho mas cosas que en español no?
+15:07:10 - Nico (@nicokorn96):
+y en espaniol como siempre le cuesta mas repsponderte
+15:07:21 - Nico (@nicokorn96):
+jaaj justo estaba comentandote eso
+15:07:43 - Santiago Ruffino (@santi_0898):
+Yo trabaje con Dialogflow, y no me parecio dificil ni que tuviera problemas de compresion
+15:08:04 - Ezequiel Leites (@leites25):
+Bueno en todo caso puedo hacer que la accion la escuche en ingles y responda en español
+15:08:15 - Nico (@nicokorn96):
+no digo que tenga problemas de comprension pero en ingles se nota que esta muuucho mas pulido
+15:08:22 - Ezequiel Leites (@leites25):
+En el peor de los casos dirá, anda a jugar a la pelota boludou
+15:08:33 - Nico (@nicokorn96):
+igual por ej yo lo configure en lo 2 idiomas
+15:08:40 - Santiago Ruffino (@santi_0898):
+Si lo configuras en ingles, es re cheto
+15:08:45 - Nico (@nicokorn96):
+entonces puedo preguntar tanto en ingles como en espanion
+15:08:48 - Nico (@nicokorn96):
+espaniol
+15:09:04 - Nico (@nicokorn96):
+si no me entiende en espaniol le pregunto en ingles o viceverssa
+15:48:36 - Patricio Palladino (@email):
+El principio de la carrera disfrutala :slightly_smiling_face: Ya cuando estes por el final vas a pensar si queres apruarte en tener algun titulo para poder irte a donde quieras
+15:48:52 - Patricio Palladino (@email):
+Si podes laburar un poco, o programar bastante por tu cuenta, creo que se disfruta mas
+15:48:59 - Patricio Palladino (@email):
+Les ves mas sentido a cada cosa que vas aprendiendo
+16:45:06 - Brian Hume (@brianh20):
+dicen que hasta el fbi te entiende
+16:54:09 - Daniel Faure (@faure.daniel.57):
+de interés general. Arancelado
+<https://isaca.org.ar/2019/03/07/curso-fundamentos-de-informatica-forense/?fbclid=IwAR20_ZDoeD9Pcj04fRbG-gRXoUnIRZ0EcGjaGeB-UqbW3XxgAymkq9Gzbc0>
+16:55:43 - Ezequiel Leites (@leites25):
+Interesante. Hace rato que quiero estudiar un poco de informatica forense e infosec. Tenes referencia de este curso en particular?
+16:55:55 - Brian Hume (@brianh20):
+Que es puntualmente? No se si entiendo.
+17:31:18 - Daniel Faure (@faure.daniel.57):
+No, solo viene de un conocido dedicado al tema, Pablo Croci, posiblemente sea el docente. Esta plenamente dedicado a este tema
+17:32:55 - Brian Hume (@brianh20):
+pero en que consiste la informatica forense
+17:34:10 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://es.wikipedia.org/wiki/C%C3%B3mputo_forense>
+17:37:16 - Silvio Messina (@smessina):
+lo mismo que un Medico Forense, pero con computadoras… se hacen análisis para asegurar la autenticidad, identidad y veracidad de los datos, sus orígenes/destinos, etc…
+20:13:01 - Patricio Palladino (@email):
+Pregunta, como es la movida del bot de eventos? Tiene sentido agregar el del meetup mensual que hacemos con la comunidad local de ethereum?
+20:26:50 - Mateo Silguero (@mfsilguero):
+Claro, lo podes agregar usando este form
+20:26:52 - Mateo Silguero (@mfsilguero):
+<https://docs.google.com/forms/d/e/1FAIpQLSe4ymS0ofaZmZGwvMAVJfyKbbBohb1p_-1qIa2EEgD-6dMhJw/viewform?c=0&amp;w=1>
+20:27:47 - Patricio Palladino (@email):
+Perfecto! Gracias :slightly_smiling_face:
+20:54:10 - Gabriel Montes (@gabriel):
+<@UGSDBMBFT> link al meetup para sumarse?
+21:08:16 - carloscrovara (@carloscrovara):
+<https://twitter.com/byteconf/status/1108736123944214528?s=12>
+09:15:17 - ari (@adiaz):
+muy buena para hacer stickers en wsp jajajajajaja
+10:51:59 - Jhon (@jhonzuritaz695):
+Hola buen día chicos.. saludos primeramente, les comento voy apenas entrando en el mundo de la programación hice el curso en comit.. y quiero seguir pero no sé donde, si pudieran recomendar por experiencias  cursos para seguir , institutosuenos  q no se vayan por la estratosfera$$$.
+Gracias a los q se tomen un minuto en  responder.
+10:53:54 - Damian Diaz (@damianmdst):
+Los cursos freeCodeCamp son bastante buenos si estas arrancando. <https://www.freecodecamp.org/>
+10:54:00 - Damian Diaz (@damianmdst):
+Aparte es gratis.
+11:46:01 - Norman Perrin (@norman):
+Buenas Jhon. Genial que hayas comentado acá.
+
+Comit tiene algunos cursos gratis con los que podés seguir.
+Cursos a distancia gratis vas a encontrar bastantes, pero si estás arrancando quizás quieras uno presencial.
+El único accesible que conozco es el de <@U1W7M3V8U> .
+Sino después tenés los de codo a codo o 111mil pero no los conozco mucho.
+
+Si te ponés a hacer los de Free Code Camp, está bueno mencionarte qué hay una comunidad acá en donde podés preguntar sobre la plataforma y que organiza meetups.
+11:51:58 - Norman Perrin (@norman):
+<https://freecodecampba.org/chat/>
+12:17:09 - Emanuel Friedrich (@aemanuelfriedrich):
+ustedes q son cracks
+12:17:13 - Emanuel Friedrich (@aemanuelfriedrich):
+alguien hace esto?
+12:17:19 - Emanuel Friedrich (@aemanuelfriedrich):
+```if (inProduction() === false) ```
+12:17:27 - Emanuel Friedrich (@aemanuelfriedrich):
+xq
+12:17:37 - Emanuel Friedrich (@aemanuelfriedrich):
+```if (!inProduction()) ```
+12:17:44 - Emanuel Friedrich (@aemanuelfriedrich):
+ese false parece escondido
+12:18:41 - Damian Diaz (@damianmdst):
+porque aparentemente inProduction ya devuelve un valor booleano (true/false) entonces el valor que retorna ya no se hace falta compararlo contra un valor explicitamente ..
+12:18:59 - Diego Calderón (@codekult):
+En realidad la 2da chequea falsy
+12:19:13 - Diego Calderón (@codekult):
+Puede ser que no necesites eso
+12:19:29 - Damian Diaz (@damianmdst):
+osea asumiendo que inProduction retorna false vos estarias haciendo esto if (!false) { do something }
+12:19:52 - Damian Diaz (@damianmdst):
+si no es falso, hace `x` conodicion
+12:19:54 - Julio (@julito):
+Entiendo que la pregunta es si vale la pena hacer la primera para que sea más aparente que estás queriendo NO production cuando lo leés al pasar
+12:20:16 - Julio (@julito):
+Yo creo que voy siempre con la segunda, pero te acepto que con la primera nunca lo vas a malinterpretar
+12:20:58 - Gonzalo González Mora (@gonzalogm):
+Ojo con los falsey como dicen arriba, si retorna undefined o null, no va a hacer lo que esperás tal vez
+12:21:31 - Martín Valdés de León (@mvaldesdeleon):
+FWIW, lo que yo suelo hacer es algo tipo
+
+```
+const IS_PRODUCTION = isProduction() === true;
+
+if (!IS_PRODUCTION) {
+}
+```
+12:21:43 - Martín Valdés de León (@mvaldesdeleon):
+cuando quiero cosas asi, donde UNICAMENTE SI ES EXACTAMENTE true considero prod
+12:22:16 - Diego Calderón (@codekult):
+Un buen principio es chequear por `true` como dice Martín
+12:22:27 - Martín Valdés de León (@mvaldesdeleon):
+y dependiendo de lo que quiero, suelo hacer cosas tipo `=== true` o `!== false` o similar
+12:25:01 - a0viedo (@a0viedo):
++1 a lo que dice martin
+12:32:12 - Marcos Casagrande (@marcoscvp90):
+igual las funciones que arrancan con `is` deberían retornar un `boolean` sino en mi opinión están mal nombradas.
+14:23:46 - Ezequiel Leites (@leites25):
+Consulta. Alguno tiene Google Home?
+14:25:45 - Gonza Gluzman (@gonza):
+O usá <#C050G4ABV|typescript> y asegurate de que es un `boolean` B-)
+14:28:11 - Nico (@nicokorn96):
+yo
+14:29:07 - Ezequiel Leites (@leites25):
+Y que tal, esta bueno? Estuve mirando un par de reviews y en usos básicos esta bastante bien. Pudiste meterte a programarle algo?
+14:31:02 - Nico (@nicokorn96):
+yo tengo el google home mini para la pieza. y tengo en todos las habitaciones chromecast en laas tvs. la cuestion es asi. vale la pena si lo usas para automation osea si usas philips hue o cosas asi. yo en lo personal lo uso para abrir chromecast desde la cama, consultar el calendario cuando me da fiaca sacar alcanzar el celular
+14:31:34 - Nico (@nicokorn96):
+pero si no queres invertir en chromecast ni en cosas de automation es una pieza decorativa
+14:31:56 - Nico (@nicokorn96):
+el tema que por ejemplo philips hue en mercadolibre te sale un ojo de la cara
+14:32:15 - Nico (@nicokorn96):
+pero si lo queres para consultar tu calendario o para manejar chromecast va de una
+14:32:47 - Nico (@nicokorn96):
+lo que si no me fue compatible con el chromecast incorporado de una tv pero  lo solucione poniendole un stick de chromecast
+14:33:08 - a0viedo (@a0viedo):
+tengo el hub, cuenta?
+14:34:10 - a0viedo (@a0viedo):
+integrado con spotify, chromecast y unas lamparitas LIFX en el living
+14:34:55 - Nico (@nicokorn96):
+che de donde conseguiste las lifx?
+14:35:57 - GAlvarado (@anzaldo.alvarado.gabr):
++1 a lo que dice marcos, si devolviera null, undefined, 0  o lo que sea la firma del metodo seria medio mentirosa
+14:36:20 - a0viedo (@a0viedo):
+las compré afuera
+14:37:08 - Ezequiel Leites (@leites25):
+Si, mi idea es mas que nada para boludear, ponerle reminders y todas esas cosas. Normalemnte en casa no uso el celu y no le doy bola a alarmas o cosas de ese estilo 
+14:39:52 - Ezequiel Leites (@leites25):
+Vengo hace rato boludeando con Arduino para hacer boludeces asi, pero me lleva mucho tiempo y no lo vale tanto, cada vez que se me ocurre algo tengo que ir a comprar el modulito, y bleh, lo termino dejando, y me pareció copado el Google Home, ademas es relativamente estético
+14:46:10 - Nico (@nicokorn96):
+si para eso re sirve, yo le digo "haceme acordar de comprar una macbook pro 5k en 2hs" y lo hace
+14:46:20 - Nico (@nicokorn96):
+o levantame a tal hora y hace el laburo
+14:46:41 - Nico (@nicokorn96):
+si lo queres para eso y no gastar tanto tirate para el google home mini
+14:46:48 - Nico (@nicokorn96):
+que creo que esta 45/50usd
+14:46:50 - Ezequiel Leites (@leites25):
+Sisi, mi idea era el mini
+14:47:31 - Ezequiel Leites (@leites25):
+Tiene para poder integrarlo con cosas customs?
+Tipo, ponele que quiero hacer que me lea un post it de Google Keep todos los dias a las 4 de la tarde
+15:03:25 - Maxi (@tholem98):
+Gratuitos:
+&gt;Codecademy
+&gt;Sololearn
+&gt;enki
+&gt;(canal de youtube)Fazt / Fazt Code
+
+Pagos:
+&gt;E-learning UTN 
+&gt;capacitarte
+15:03:27 - Nico (@nicokorn96):
+aver me fijo
+15:03:28 - Nico (@nicokorn96):
+jaaja
+15:03:51 - Ezequiel Leites (@leites25):
+Osea, entiendo que se debe poder, pegarle a una api que devuelva info para que reproduzca
+15:04:45 - Nico (@nicokorn96):
+oficialmente segun lo que veo creo que no hay opcion de una
+15:04:57 - Nico (@nicokorn96):
+pero creo que con IFTT se debe porder
+15:04:58 - Nico (@nicokorn96):
+poder
+15:05:11 - Santiago Ruffino (@santi_0898):
+Funciona parecido a Google Asistant?
+15:05:30 - Nico (@nicokorn96):
+es un google asistant en replica
+15:05:40 - Nico (@nicokorn96):
+pero escuchandote 24x7x365
+15:05:50 - Santiago Ruffino (@santi_0898):
+Ponele, con Dialogflow, podes trabajar con Google Assistant. Entonces creas tus propias acciones, conectandote a las API de Dialogflow y las que necesites
+15:06:42 - Nico (@nicokorn96):
+la cagada es que depende donde vivas tenes mas/menos funciones creo
+15:06:42 - Ezequiel Leites (@leites25):
+:thinking_cris: interesante
+15:07:07 - Ezequiel Leites (@leites25):
+en ingles debe tener mucho mas cosas que en español no?
+15:07:10 - Nico (@nicokorn96):
+y en espaniol como siempre le cuesta mas repsponderte
+15:07:21 - Nico (@nicokorn96):
+jaaj justo estaba comentandote eso
+15:07:43 - Santiago Ruffino (@santi_0898):
+Yo trabaje con Dialogflow, y no me parecio dificil ni que tuviera problemas de compresion
+15:08:04 - Ezequiel Leites (@leites25):
+Bueno en todo caso puedo hacer que la accion la escuche en ingles y responda en español
+15:08:15 - Nico (@nicokorn96):
+no digo que tenga problemas de comprension pero en ingles se nota que esta muuucho mas pulido
+15:08:22 - Ezequiel Leites (@leites25):
+En el peor de los casos dirá, anda a jugar a la pelota boludou
+15:08:33 - Nico (@nicokorn96):
+igual por ej yo lo configure en lo 2 idiomas
+15:08:40 - Santiago Ruffino (@santi_0898):
+Si lo configuras en ingles, es re cheto
+15:08:45 - Nico (@nicokorn96):
+entonces puedo preguntar tanto en ingles como en espanion
+15:08:48 - Nico (@nicokorn96):
+espaniol
+15:09:04 - Nico (@nicokorn96):
+si no me entiende en espaniol le pregunto en ingles o viceverssa
+15:48:36 - Patricio Palladino (@email):
+El principio de la carrera disfrutala :slightly_smiling_face: Ya cuando estes por el final vas a pensar si queres apruarte en tener algun titulo para poder irte a donde quieras
+15:48:52 - Patricio Palladino (@email):
+Si podes laburar un poco, o programar bastante por tu cuenta, creo que se disfruta mas
+15:48:59 - Patricio Palladino (@email):
+Les ves mas sentido a cada cosa que vas aprendiendo
+16:45:06 - Brian Hume (@brianh20):
+dicen que hasta el fbi te entiende
+16:54:09 - Daniel Faure (@faure.daniel.57):
+de interés general. Arancelado
+<https://isaca.org.ar/2019/03/07/curso-fundamentos-de-informatica-forense/?fbclid=IwAR20_ZDoeD9Pcj04fRbG-gRXoUnIRZ0EcGjaGeB-UqbW3XxgAymkq9Gzbc0>
+16:55:43 - Ezequiel Leites (@leites25):
+Interesante. Hace rato que quiero estudiar un poco de informatica forense e infosec. Tenes referencia de este curso en particular?
+16:55:55 - Brian Hume (@brianh20):
+Que es puntualmente? No se si entiendo.
+17:31:18 - Daniel Faure (@faure.daniel.57):
+No, solo viene de un conocido dedicado al tema, Pablo Croci, posiblemente sea el docente. Esta plenamente dedicado a este tema
+17:32:55 - Brian Hume (@brianh20):
+pero en que consiste la informatica forense
+17:34:10 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://es.wikipedia.org/wiki/C%C3%B3mputo_forense>
+17:37:16 - Silvio Messina (@smessina):
+lo mismo que un Medico Forense, pero con computadoras… se hacen análisis para asegurar la autenticidad, identidad y veracidad de los datos, sus orígenes/destinos, etc…
+20:13:01 - Patricio Palladino (@email):
+Pregunta, como es la movida del bot de eventos? Tiene sentido agregar el del meetup mensual que hacemos con la comunidad local de ethereum?
+20:26:50 - Mateo Silguero (@mfsilguero):
+Claro, lo podes agregar usando este form
+20:26:52 - Mateo Silguero (@mfsilguero):
+<https://docs.google.com/forms/d/e/1FAIpQLSe4ymS0ofaZmZGwvMAVJfyKbbBohb1p_-1qIa2EEgD-6dMhJw/viewform?c=0&amp;w=1>
+20:27:47 - Patricio Palladino (@email):
+Perfecto! Gracias :slightly_smiling_face:
+20:54:10 - Gabriel Montes (@gabriel):
+<@UGSDBMBFT> link al meetup para sumarse?
