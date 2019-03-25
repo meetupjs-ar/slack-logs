@@ -1,0 +1,16 @@
+10:18:44 - Juan Bono (@juanbono):
+<https://kowainik.github.io/posts/2018-06-21-haskell-build-tools>
+10:18:53 - Juan Bono (@juanbono):
+Se ve muy bueno!!
+12:41:08 - Julian (@jantonielli01):
+Lo voy a leer
+12:41:22 - Julian (@jantonielli01):
+yo uso cabal + nix y stack cuando eso falla jaj
+10:18:44 - Juan Bono (@juanbono):
+<https://kowainik.github.io/posts/2018-06-21-haskell-build-tools>
+10:18:53 - Juan Bono (@juanbono):
+Se ve muy bueno!!
+12:41:08 - Julian (@jantonielli01):
+Lo voy a leer
+12:41:22 - Julian (@jantonielli01):
+yo uso cabal + nix y stack cuando eso falla jaj
