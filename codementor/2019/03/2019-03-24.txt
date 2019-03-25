@@ -1,0 +1,224 @@
+11:25:39 - Micael Robles (@micaelrobles):
+Hoy me aprobaron! 
+11:32:42 - Martín Aimar (@maimar):
+te llega mail?
+11:33:54 - Micael Robles (@micaelrobles):
+sisi
+11:34:25 - Martín Aimar (@maimar):
+cuánto tiempo demoraron?
+12:12:28 - Micael Robles (@micaelrobles):
+9 dias
+12:17:25 - Julian (@jantonielli01):
+A mi también! 
+12:17:28 - Julian (@jantonielli01):
+Recién veo 
+12:32:38 - Marcos Casagrande (@marcoscvp90):
+Buenísimo! Los felicito :fastparrot: 
+12:38:12 - Julian (@jantonielli01):
+gracias papá
+12:38:18 - Julian (@jantonielli01):
+y por toda la ayuda
+12:38:58 - Marcos Casagrande (@marcoscvp90):
+De nada!. Ahora a bajarse zoom, y estar atento a las requests que van saliendo, ya que al principio no te queda otra.
+12:39:19 - Julian (@jantonielli01):
+cuando sos popu te mandan a vos directo?
+12:39:22 - Marcos Casagrande (@marcoscvp90):
+La clave es llegar a featured, ahí ya apareces primero en los listados.
+12:39:33 - Marcos Casagrande (@marcoscvp90):
+Claro, yo el 90% son gente que me habla directamente.
+12:41:05 - Marcos Casagrande (@marcoscvp90):
+El tema es que el buscador es medio garcha, entonces el sorting funciona algo así:
+
+Primero todos los featured *online*, después todos los featured *offline*, después el resto.
+12:41:27 - Marcos Casagrande (@marcoscvp90):
+Y después ordenados por reviews/sesiones.
+14:10:38 - Leandro Echevarria (@echevarrialeandro):
+Excelente chicos :clap::skin-tone-4:
+14:11:01 - Leandro Echevarria (@echevarrialeandro):
+La clave fue el buen perfil entonces? :open_mouth:
+14:12:16 - Gonzalo González Mora (@gonzalogm):
+Dejen el link a sus prefiles para chusmear :stuck_out_tongue:
+14:35:13 - Julian (@jantonielli01):
+La clave fue marquitos jaja
+14:38:18 - Julian (@jantonielli01):
+Acá está mi prof <https://www.codementor.io/julianantonielli>
+15:30:44 - Gabriel Fusca (@gfuscax):
+A mi también me llegó el approve. Gracias Marcos por la ayuda.
+15:31:18 - Gabriel Fusca (@gfuscax):
+Consulta: <@UGQTUDQSG> que plataforma de pago usas para cobrar los laburos? Por ahi lo pusiste pero no lo vi en el historial
+15:33:15 - Marcos Casagrande (@marcoscvp90):
+De nada y gratz!,
+15:33:35 - Marcos Casagrande (@marcoscvp90):
+Está puesto en el pinned message, pero me parece que se perdió, alguno puede leerlo?
+15:36:03 - Marcos Casagrande (@marcoscvp90):
+Yo uso payoneer y transferwise.
+15:37:05 - Gonzalo González Mora (@gonzalogm):
+A mi tmp me lo abre :confused: raro
+15:37:15 - Gabriel Fusca (@gfuscax):
+<https://github.com/meetupjs-ar/slack-logs/blob/master/codementor/2019/03/2019-03-13.txt>
+15:40:45 - a0viedo (@a0viedo):
+los replies son lo que rompen el timeline de los logs en texto plano
+15:51:45 - Julian (@jantonielli01):
+yo sabía q  esto iba a pasar
+15:51:55 - Julian (@jantonielli01):
+y como soy un capo lo puse en un gist <https://gist.github.com/jjant/1ea469c8778198f36c9745be7bdbbc34>
+15:53:14 - Marcos Casagrande (@marcoscvp90):
+Un adelantado
+15:53:27 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel topic: LEER: <https://gist.github.com/jjant/1ea469c8778198f36c9745be7bdbbc34>
+15:54:11 - Gabriel Fusca (@gfuscax):
+che alguno le paso que no pudo hacer la test session? Arranca zoom pero el botón se queda en `SET UP ZOOM`
+15:54:28 - Marcos Casagrande (@marcoscvp90):
+Por cierto, a los que recién entraron, además del botón: `I can help` si no mandan un mensaje al toque, es lo mismo que no hacer nada.
+15:55:14 - Marcos Casagrande (@marcoscvp90):
+Porque el flaco va a tener varios mensajes, el I can help solo sirve, si prácticamente nadie le habla o se postula, ahí el flaco te va a terminar hablando, pero solo ocurre en requests muy complejas que nadie sepa resolver.
+15:55:59 - Marcos Casagrande (@marcoscvp90):
+Manda screenshot.
+15:56:09 - Marcos Casagrande (@marcoscvp90):
+A mi me va perfecto la free session.
+16:01:22 - Marcos Casagrande (@marcoscvp90):
+Está perfecto así, ya estás en zoom
+16:01:55 - Gabriel Fusca (@gfuscax):
+si, pero la pág de codementor ni se entera
+16:01:57 - Marcos Casagrande (@marcoscvp90):
+Si se abrió zoom ya está, ahora el "cliente" se uniría a la misma sala de zoom que vos. Y cuando estén listos, le decís que arranque la sesion.
+16:02:06 - Gabriel Fusca (@gfuscax):
+ahh
+16:02:11 - Marcos Casagrande (@marcoscvp90):
+Ah si, olvidate, la UI de codementor sigue diciendo eso.
+16:02:12 - Gabriel Fusca (@gfuscax):
+oka era para la test session
+16:02:28 - Marcos Casagrande (@marcoscvp90):
+Pero si cerrás la sesión, te cierra zoom automáticamente (está piola eso)
+16:03:37 - Julian (@jantonielli01):
+me pasa lo mismo
+16:03:49 - Julian (@jantonielli01):
+no me deja poner start session en la free session
+16:04:33 - Marcos Casagrande (@marcoscvp90):
+ah no, obvio, al ser free, nunca la iniciás.
+16:04:58 - Marcos Casagrande (@marcoscvp90):
+Pero una sesión posta, tenés el botón: `start session`
+16:05:08 - Julian (@jantonielli01):
+jajaj sorry pero que ui verga
+16:05:11 - Julian (@jantonielli01):
+entendido
+16:05:23 - Marcos Casagrande (@marcoscvp90):
+Es importante saber que solo el usuario puede iniciar la sesión. Si vos hacés click, a el le llega una notificación para que inicie, pero no arranca.
+16:05:46 - Marcos Casagrande (@marcoscvp90):
+Si, la UI es medio garcha, una vez ya te acostumbrás no es tan grave.
+16:06:50 - Gabriel Fusca (@gfuscax):
+oka, gracias!
+17:34:49 - Micael Robles (@micaelrobles):
+Gracias marcos por toda la ayudaaa
+11:25:39 - Micael Robles (@micaelrobles):
+Hoy me aprobaron! 
+11:32:42 - Martín Aimar (@maimar):
+te llega mail?
+11:33:54 - Micael Robles (@micaelrobles):
+sisi
+11:34:25 - Martín Aimar (@maimar):
+cuánto tiempo demoraron?
+12:12:28 - Micael Robles (@micaelrobles):
+9 dias
+12:17:25 - Julian (@jantonielli01):
+A mi también! 
+12:17:28 - Julian (@jantonielli01):
+Recién veo 
+12:32:38 - Marcos Casagrande (@marcoscvp90):
+Buenísimo! Los felicito :fastparrot: 
+12:38:12 - Julian (@jantonielli01):
+gracias papá
+12:38:18 - Julian (@jantonielli01):
+y por toda la ayuda
+12:38:58 - Marcos Casagrande (@marcoscvp90):
+De nada!. Ahora a bajarse zoom, y estar atento a las requests que van saliendo, ya que al principio no te queda otra.
+12:39:19 - Julian (@jantonielli01):
+cuando sos popu te mandan a vos directo?
+12:39:22 - Marcos Casagrande (@marcoscvp90):
+La clave es llegar a featured, ahí ya apareces primero en los listados.
+12:39:33 - Marcos Casagrande (@marcoscvp90):
+Claro, yo el 90% son gente que me habla directamente.
+12:41:05 - Marcos Casagrande (@marcoscvp90):
+El tema es que el buscador es medio garcha, entonces el sorting funciona algo así:
+
+Primero todos los featured *online*, después todos los featured *offline*, después el resto.
+12:41:27 - Marcos Casagrande (@marcoscvp90):
+Y después ordenados por reviews/sesiones.
+14:10:38 - Leandro Echevarria (@echevarrialeandro):
+Excelente chicos :clap::skin-tone-4:
+14:11:01 - Leandro Echevarria (@echevarrialeandro):
+La clave fue el buen perfil entonces? :open_mouth:
+14:12:16 - Gonzalo González Mora (@gonzalogm):
+Dejen el link a sus prefiles para chusmear :stuck_out_tongue:
+14:35:13 - Julian (@jantonielli01):
+La clave fue marquitos jaja
+14:38:18 - Julian (@jantonielli01):
+Acá está mi prof <https://www.codementor.io/julianantonielli>
+15:30:44 - Gabriel Fusca (@gfuscax):
+A mi también me llegó el approve. Gracias Marcos por la ayuda.
+15:31:18 - Gabriel Fusca (@gfuscax):
+Consulta: <@UGQTUDQSG> que plataforma de pago usas para cobrar los laburos? Por ahi lo pusiste pero no lo vi en el historial
+15:33:15 - Marcos Casagrande (@marcoscvp90):
+De nada y gratz!,
+15:33:35 - Marcos Casagrande (@marcoscvp90):
+Está puesto en el pinned message, pero me parece que se perdió, alguno puede leerlo?
+15:36:03 - Marcos Casagrande (@marcoscvp90):
+Yo uso payoneer y transferwise.
+15:37:05 - Gonzalo González Mora (@gonzalogm):
+A mi tmp me lo abre :confused: raro
+15:37:15 - Gabriel Fusca (@gfuscax):
+<https://github.com/meetupjs-ar/slack-logs/blob/master/codementor/2019/03/2019-03-13.txt>
+15:40:45 - a0viedo (@a0viedo):
+los replies son lo que rompen el timeline de los logs en texto plano
+15:51:45 - Julian (@jantonielli01):
+yo sabía q  esto iba a pasar
+15:51:55 - Julian (@jantonielli01):
+y como soy un capo lo puse en un gist <https://gist.github.com/jjant/1ea469c8778198f36c9745be7bdbbc34>
+15:53:14 - Marcos Casagrande (@marcoscvp90):
+Un adelantado
+15:53:27 - Marcos Casagrande (@marcoscvp90):
+<@UGQTUDQSG> set the channel topic: LEER: <https://gist.github.com/jjant/1ea469c8778198f36c9745be7bdbbc34>
+15:54:11 - Gabriel Fusca (@gfuscax):
+che alguno le paso que no pudo hacer la test session? Arranca zoom pero el botón se queda en `SET UP ZOOM`
+15:54:28 - Marcos Casagrande (@marcoscvp90):
+Por cierto, a los que recién entraron, además del botón: `I can help` si no mandan un mensaje al toque, es lo mismo que no hacer nada.
+15:55:14 - Marcos Casagrande (@marcoscvp90):
+Porque el flaco va a tener varios mensajes, el I can help solo sirve, si prácticamente nadie le habla o se postula, ahí el flaco te va a terminar hablando, pero solo ocurre en requests muy complejas que nadie sepa resolver.
+15:55:59 - Marcos Casagrande (@marcoscvp90):
+Manda screenshot.
+15:56:09 - Marcos Casagrande (@marcoscvp90):
+A mi me va perfecto la free session.
+16:01:22 - Marcos Casagrande (@marcoscvp90):
+Está perfecto así, ya estás en zoom
+16:01:55 - Gabriel Fusca (@gfuscax):
+si, pero la pág de codementor ni se entera
+16:01:57 - Marcos Casagrande (@marcoscvp90):
+Si se abrió zoom ya está, ahora el "cliente" se uniría a la misma sala de zoom que vos. Y cuando estén listos, le decís que arranque la sesion.
+16:02:06 - Gabriel Fusca (@gfuscax):
+ahh
+16:02:11 - Marcos Casagrande (@marcoscvp90):
+Ah si, olvidate, la UI de codementor sigue diciendo eso.
+16:02:12 - Gabriel Fusca (@gfuscax):
+oka era para la test session
+16:02:28 - Marcos Casagrande (@marcoscvp90):
+Pero si cerrás la sesión, te cierra zoom automáticamente (está piola eso)
+16:03:37 - Julian (@jantonielli01):
+me pasa lo mismo
+16:03:49 - Julian (@jantonielli01):
+no me deja poner start session en la free session
+16:04:33 - Marcos Casagrande (@marcoscvp90):
+ah no, obvio, al ser free, nunca la iniciás.
+16:04:58 - Marcos Casagrande (@marcoscvp90):
+Pero una sesión posta, tenés el botón: `start session`
+16:05:08 - Julian (@jantonielli01):
+jajaj sorry pero que ui verga
+16:05:11 - Julian (@jantonielli01):
+entendido
+16:05:23 - Marcos Casagrande (@marcoscvp90):
+Es importante saber que solo el usuario puede iniciar la sesión. Si vos hacés click, a el le llega una notificación para que inicie, pero no arranca.
+16:05:46 - Marcos Casagrande (@marcoscvp90):
+Si, la UI es medio garcha, una vez ya te acostumbrás no es tan grave.
+16:06:50 - Gabriel Fusca (@gfuscax):
+oka, gracias!
+17:34:49 - Micael Robles (@micaelrobles):
+Gracias marcos por toda la ayudaaa
