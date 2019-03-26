@@ -1,0 +1,430 @@
+09:22:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Buenos días! Les traigo una nueva consulta!
+
+El fin de semana estuve aprendiendo un poco sobre cómo usar el "this"
+
+Hice un html con una secuencia de divs dentro de un contenedor. Al hacer click en un botón, crea una caja nueva de iguales caracteristicas a las q estaban y les asigna un id nuevo y llena el contenido de la caja con nros ascendentes.
+
+Acá el link del ejercicio:  <https://goo.gl/jajuL1>
+
+El tema es así, quiero hacer lo mismo en un svg. Logré hacerlo poniendo onclick en cada etiquets html pero quiero hacerlo en js. Selecciono los poligonos a modificar pero la diferencia es que lo hago por className:
+
+Acá va el link de lo que estoy haciendo:
+<https://goo.gl/BwzHhU>
+
+Si pueden ver en qué la estoy pifiando, agradecido!
+09:34:50 - Nico (@nicokorn96):
+hola gente estoy trabbajando con una app con node y mongoose y me esta saltando este error, alguno sabe por donde puede venir?
+09:34:51 - Nico (@nicokorn96):
+OverwriteModelError: Cannot overwrite `Activity` model once compiled.
+09:42:53 - Julian (@jantonielli01):
+<@UGW464VJS> pasalo en un codepen (<https://codepen.io/pen/tour/welcome/start>) porque sino es un bajón mirarlo :stuck_out_tongue:
+09:44:21 - Aldo Gabriel Rojas (@aldogrojas5):
+Dale, ni bien pueda lo paso ahí.  Ni idea cómo hacerlo! Jeje
+09:49:24 - Diego Harari (@diehara):
+Buenas! como logueo el destructuring?
+09:50:33 - Leandro Echevarria (@echevarrialeandro):
+```
+console.log(`${name} - ${age} - ${gender}`);
+```
+09:50:40 - Leandro Echevarria (@echevarrialeandro):
+A eso te referis?
+09:56:38 - Diego Harari (@diehara):
+Si! muchas gracias <@U873ZQTEG>
+10:11:13 - Leandro Echevarria (@echevarrialeandro):
+De nada :smile:
+11:51:27 - Daniel Faure (@faure.daniel.57):
+Iba a hacer una pregunta larga, pero arranco por la corta. ¿Soy el único sobreviviente entre los usuarios de mootools?
+11:52:07 - Julian (@jantonielli01):
+seguro
+11:52:31 - Julian (@jantonielli01):
+pense que se habian extinguido
+11:53:11 - Santiago Ruffino (@santi_0898):
+Pidan un deseo antes que se vaya del channel! Jajaja
+12:20:14 - Leandro Echevarria (@echevarrialeandro):
+Motuls
+13:43:59 - Daniel Faure (@faure.daniel.57):
+:star-struck: jaja que malos que son conmigo. Le seguiré dando vida en soledad, pues. Si llegan a detectar a alguno otro, cosa que dudo, le pueden dar mi contacto. Saludos
+13:45:28 - Santiago Ruffino (@santi_0898):
+Tira la pregunta que tengas! Alguien seguro te da una mano
+14:17:11 - Daniel Faure (@faure.daniel.57):
+Seguro, Santiago, gracias. Era simplemente si habían hecho la experiencia de mezclar mootools con jquery en un mismo desarrollo. Ya se lo de noConflict()
+14:22:17 - Nicolas Taboada (@ntaboada93):
+Gente, les tiro la pregunta que tire en stackoverflow a ver si alguno tiene idea. Es sobre apollo-graphql y la bendita cache
+14:22:38 - Nicolas Taboada (@ntaboada93):
+Hi there! I have been fighting with this issue a couple of days. I got to queries “customers” and “recentCustomers”. They both have the same “__typename” when the query responds. I am trying to write/read the cache to retrieve that responses. I am having unexpected issues, for example, retrieving the “customers” list when i am reading the “recentCustomers” list (and the inverse too). This is how i am reading and writing:
+
+ReadCache:
+
+``` let cachedData;
+  if (filter === 'all') {
+    const customersCache = client.readQuery({
+      query: customersQuery,
+    });
+    cachedData = customersCache.customers.customerConnection.edges;
+  }
+  if (filter === 'recent') {
+    const recentCustomersCache = client.readQuery({
+      query: recentCustomersQuery,
+    });
+    cachedData = recentCustomersCache.recentCustomers.customerConnection.edges;
+  }
+  return cachedData; ```
+
+And this is the writeCache:
+
+```writeOnCache = (response) =&gt; {
+console.log('Customer Container - Write on Cache');
+const {
+  client,
+  match: { params: { filter } },
+} = this.props;
+if (filter === 'all') {
+  client.writeQuery({
+    query: customersQuery,
+    data: {
+      customers: response.data.customers,
+    },
+  });
+}
+if (filter === 'recent') {
+  client.writeQuery({
+    query: recentCustomersQuery,
+    data: {
+      recentCustomers: response.data.recentCustomers,
+    },
+  });
+}
+}
+```
+16:36:24 - Maxi (@tholem98):
+Alguien sabe de algun slack de bootstrap porque estoy teniendo el siguiente problema y no se como solucionarlo:
+16:38:11 - Gonza Gluzman (@gonza):
+Hay uno de <#C7J01U03W|css>
+16:38:58 - Gonza Gluzman (@gonza):
+Igual, acá hay mucha más gente
+16:39:06 - Gonza Gluzman (@gonza):
+Quizás te convenga preguntar acá
+16:39:53 - Maxi (@tholem98):
+Gracias, lo posteo ahi tambien. y ahora copio y pego el codigo. Como es un slack de js crei que quizas estaba fuera de lugar meter bootstrap
+16:42:52 - Gustavo Machado (@machadogj):
+<@UH5L5P3FY> proba con sacar el segundo `container`
+16:44:11 - Maxi (@tholem98):
+Se me va mas para la izquierda
+16:44:13 - Gustavo Machado (@machadogj):
+que te quede asi:
+```
+&lt;div class=container&gt;
+  &lt;div class="row"&gt;&lt;div class="col...&lt;/div&gt;
+  &lt;div class="row&gt;....&lt;/div&gt;
+&lt;/div&gt;
+```
+(hasta donde tengo entendido, no hace falta mas de un container por pagina
+16:46:19 - Gustavo Machado (@machadogj):
+pasa tu archivo de css
+16:47:35 - Maxi (@tholem98):
+Son 1200 lineas, lo paso igual?
+16:47:39 - Gustavo Machado (@machadogj):
+:neutral_face:
+16:47:53 - Gustavo Machado (@machadogj):
+jaja, no mejor no… fijate si lo podes colgar en algun lado si no…
+16:48:16 - Gustavo Machado (@machadogj):
+en eso que pasaste pareceria que tenes `col-sm-` que suman 11 (en vez de 12)
+16:48:26 - Santiago Ruffino (@santi_0898):
+Podes usar <http://codepen.io|codepen.io>?
+16:49:45 - Gustavo Machado (@machadogj):
+aca lo tenes en jsfiddle con bootstrap:
+<http://jsfiddle.net/n49uv7py/>
+16:49:53 - Gustavo Machado (@machadogj):
+le faltaria tu css para compararlo
+16:52:48 - Maxi (@tholem98):
+Ahiblo subi a jsfiddle
+16:52:53 - Maxi (@tholem98):
+Creo
+16:53:04 - Maxi (@tholem98):
+*actualicé
+16:55:49 - Gustavo Machado (@machadogj):
+pasate la URL
+16:59:59 - Maxi (@tholem98):
+<http://Jsfiddle.net/5gawnbh1/1|Jsfiddle.net/5gawnbh1/1>
+17:08:48 - Martín Aimar (@maimar):
+~Como es un slack de js crei que quizas~ esta ~ba~ fuera de lugar meter bootstrap FTFY
+17:15:39 - Martín Aimar (@maimar):
+ah me confundí de canal :travolta:
+17:22:06 - Gustavo Machado (@machadogj):
+<@UH5L5P3FY> fijate que tenes una col-sm-12 que esta vacia (la podes borrar directamente), y una row dentro de una row:
+```
+  &lt;div class="row"&gt;
+    &lt;div class="col-sm-12"&gt;&lt;/div&gt;
+    &lt;div class="row ingresar_twocolumns"&gt;
+```
+podes poner `ingresar_twocolumns` en el div de afuera, y borrar el div.row de adentro
+17:34:35 - Maxi (@tholem98):
+Dale, en un rato pruebo y comento
+18:20:19 - Maxi (@tholem98):
+Ahora esta mas grande que el violeta. Le sobra verde de cada lado
+18:26:02 - Gustavo Machado (@machadogj):
+fijate que el verde y el violeta no estan aplicados a lo mismo… fijate de aplicarlo a las dos rows por ejemplo
+18:39:33 - Enzo Retamozo (@egr_96):
+hola chicos, perdon si la pregunta es medio boba
+Tengo una tabla hecha a puro tr &gt; th.
+Tengo que sumar los values de unos cuantos inputs dentro de una fila,, pero lo malo es que estos inputs no comparten nada ( solo tienen una clase que inicia con _cell-t:+key_)
+hay alguna forma de pegarle a los inputs que matcheen con la clase que comienza con _cell-t_ ?
+mi idea es recorrer dentro de ese tr a todos los inputs.val( ), pero no sabria como pegarle a esa clase ya que despues del _cell-t_ viene acompañado un número clave
+18:41:46 - Sergio Daniel Xalambrí (@sergiodxa):
+usando querySelectorAll y un attribute selector para hacer match de como empieza
+18:41:48 - Luis Alvarez (@luistensai):
+yo le pondría otra clase
+18:42:43 - Luis Alvarez (@luistensai):
+o sea, además de cell-t, no podrías ponerle `cell-t# cell-value` ?
+18:42:48 - Sergio Daniel Xalambrí (@sergiodxa):
+`document.querySelectorAll("[class^=cell-t"]`
+18:43:01 - Sergio Daniel Xalambrí (@sergiodxa):
+me suena a que no tiene control de la tabla
+18:43:15 - Sergio Daniel Xalambrí (@sergiodxa):
+ahora si tenés control de la tabla lo mejor es lo que dice <@U09SB6K5H>
+18:43:21 - Luis Alvarez (@luistensai):
+o usar como dice sergio el attribute selector
+18:43:34 - Luis Alvarez (@luistensai):
+pero creo que es un poco menos performante
+18:44:08 - Julian (@jantonielli01):
+Performance is a lie
+18:44:31 - Sergio Daniel Xalambrí (@sergiodxa):
+la diferencia sería insignificante IMO
+18:44:49 - Enzo Retamozo (@egr_96):
+:0 claro justamente algo asi estaba buscando, no conocia eso
+18:44:51 - Sergio Daniel Xalambrí (@sergiodxa):
+aunque usar una clase sería más fácil de mantener al final
+18:45:35 - Enzo Retamozo (@egr_96):
+claro, a medida que recorro, voy añadiendo otro atributo
+18:45:46 - Enzo Retamozo (@egr_96):
+gracias gente!
+18:47:19 - Luis Alvarez (@luistensai):
+de nada!
+18:47:57 - Luis Alvarez (@luistensai):
+para modificar lo menos posible por ahí te convenga lo que dijo Sergio
+20:02:58 - Maxi (@tholem98):
+Tengo un error al usar passport para recibir y validar los datos de un formulario. En el routes configure que en caso de error me redireccione devuelta a la pagina. Pero no se cual es el error para poder solucionarlo. Alguien sabe que puedo hacer para ver el error que detecta?
+20:11:23 - Martín Aimar (@maimar):
+passport?
+20:12:47 - Maxi (@tholem98):
+Un middleware para autenticacion de nodejs
+20:28:38 - Fernando García (@fernandogarcia_fg):
+alguna forma mas agradable a la vista de validar numeros que la que he conseguido por mi mismo??
+20:29:32 - Fernando García (@fernandogarcia_fg):
+trate con isdigit pero no sirve en mi caso, tambien intente comparar con la funcion type pero tampoco me sirvio
+09:22:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Buenos días! Les traigo una nueva consulta!
+
+El fin de semana estuve aprendiendo un poco sobre cómo usar el "this"
+
+Hice un html con una secuencia de divs dentro de un contenedor. Al hacer click en un botón, crea una caja nueva de iguales caracteristicas a las q estaban y les asigna un id nuevo y llena el contenido de la caja con nros ascendentes.
+
+Acá el link del ejercicio:  <https://goo.gl/jajuL1>
+
+El tema es así, quiero hacer lo mismo en un svg. Logré hacerlo poniendo onclick en cada etiquets html pero quiero hacerlo en js. Selecciono los poligonos a modificar pero la diferencia es que lo hago por className:
+
+Acá va el link de lo que estoy haciendo:
+<https://goo.gl/BwzHhU>
+
+Si pueden ver en qué la estoy pifiando, agradecido!
+09:34:50 - Nico (@nicokorn96):
+hola gente estoy trabbajando con una app con node y mongoose y me esta saltando este error, alguno sabe por donde puede venir?
+09:34:51 - Nico (@nicokorn96):
+OverwriteModelError: Cannot overwrite `Activity` model once compiled.
+09:42:53 - Julian (@jantonielli01):
+<@UGW464VJS> pasalo en un codepen (<https://codepen.io/pen/tour/welcome/start>) porque sino es un bajón mirarlo :stuck_out_tongue:
+09:44:21 - Aldo Gabriel Rojas (@aldogrojas5):
+Dale, ni bien pueda lo paso ahí.  Ni idea cómo hacerlo! Jeje
+09:49:24 - Diego Harari (@diehara):
+Buenas! como logueo el destructuring?
+09:50:33 - Leandro Echevarria (@echevarrialeandro):
+```
+console.log(`${name} - ${age} - ${gender}`);
+```
+09:50:40 - Leandro Echevarria (@echevarrialeandro):
+A eso te referis?
+09:56:38 - Diego Harari (@diehara):
+Si! muchas gracias <@U873ZQTEG>
+10:11:13 - Leandro Echevarria (@echevarrialeandro):
+De nada :smile:
+11:51:27 - Daniel Faure (@faure.daniel.57):
+Iba a hacer una pregunta larga, pero arranco por la corta. ¿Soy el único sobreviviente entre los usuarios de mootools?
+11:52:07 - Julian (@jantonielli01):
+seguro
+11:52:31 - Julian (@jantonielli01):
+pense que se habian extinguido
+11:53:11 - Santiago Ruffino (@santi_0898):
+Pidan un deseo antes que se vaya del channel! Jajaja
+12:20:14 - Leandro Echevarria (@echevarrialeandro):
+Motuls
+13:43:59 - Daniel Faure (@faure.daniel.57):
+:star-struck: jaja que malos que son conmigo. Le seguiré dando vida en soledad, pues. Si llegan a detectar a alguno otro, cosa que dudo, le pueden dar mi contacto. Saludos
+13:45:28 - Santiago Ruffino (@santi_0898):
+Tira la pregunta que tengas! Alguien seguro te da una mano
+14:17:11 - Daniel Faure (@faure.daniel.57):
+Seguro, Santiago, gracias. Era simplemente si habían hecho la experiencia de mezclar mootools con jquery en un mismo desarrollo. Ya se lo de noConflict()
+14:22:17 - Nicolas Taboada (@ntaboada93):
+Gente, les tiro la pregunta que tire en stackoverflow a ver si alguno tiene idea. Es sobre apollo-graphql y la bendita cache
+14:22:38 - Nicolas Taboada (@ntaboada93):
+Hi there! I have been fighting with this issue a couple of days. I got to queries “customers” and “recentCustomers”. They both have the same “__typename” when the query responds. I am trying to write/read the cache to retrieve that responses. I am having unexpected issues, for example, retrieving the “customers” list when i am reading the “recentCustomers” list (and the inverse too). This is how i am reading and writing:
+
+ReadCache:
+
+``` let cachedData;
+  if (filter === 'all') {
+    const customersCache = client.readQuery({
+      query: customersQuery,
+    });
+    cachedData = customersCache.customers.customerConnection.edges;
+  }
+  if (filter === 'recent') {
+    const recentCustomersCache = client.readQuery({
+      query: recentCustomersQuery,
+    });
+    cachedData = recentCustomersCache.recentCustomers.customerConnection.edges;
+  }
+  return cachedData; ```
+
+And this is the writeCache:
+
+```writeOnCache = (response) =&gt; {
+console.log('Customer Container - Write on Cache');
+const {
+  client,
+  match: { params: { filter } },
+} = this.props;
+if (filter === 'all') {
+  client.writeQuery({
+    query: customersQuery,
+    data: {
+      customers: response.data.customers,
+    },
+  });
+}
+if (filter === 'recent') {
+  client.writeQuery({
+    query: recentCustomersQuery,
+    data: {
+      recentCustomers: response.data.recentCustomers,
+    },
+  });
+}
+}
+```
+16:36:24 - Maxi (@tholem98):
+Alguien sabe de algun slack de bootstrap porque estoy teniendo el siguiente problema y no se como solucionarlo:
+16:38:11 - Gonza Gluzman (@gonza):
+Hay uno de <#C7J01U03W|css>
+16:38:58 - Gonza Gluzman (@gonza):
+Igual, acá hay mucha más gente
+16:39:06 - Gonza Gluzman (@gonza):
+Quizás te convenga preguntar acá
+16:39:53 - Maxi (@tholem98):
+Gracias, lo posteo ahi tambien. y ahora copio y pego el codigo. Como es un slack de js crei que quizas estaba fuera de lugar meter bootstrap
+16:42:52 - Gustavo Machado (@machadogj):
+<@UH5L5P3FY> proba con sacar el segundo `container`
+16:44:11 - Maxi (@tholem98):
+Se me va mas para la izquierda
+16:44:13 - Gustavo Machado (@machadogj):
+que te quede asi:
+```
+&lt;div class=container&gt;
+  &lt;div class="row"&gt;&lt;div class="col...&lt;/div&gt;
+  &lt;div class="row&gt;....&lt;/div&gt;
+&lt;/div&gt;
+```
+(hasta donde tengo entendido, no hace falta mas de un container por pagina
+16:46:19 - Gustavo Machado (@machadogj):
+pasa tu archivo de css
+16:47:35 - Maxi (@tholem98):
+Son 1200 lineas, lo paso igual?
+16:47:39 - Gustavo Machado (@machadogj):
+:neutral_face:
+16:47:53 - Gustavo Machado (@machadogj):
+jaja, no mejor no… fijate si lo podes colgar en algun lado si no…
+16:48:16 - Gustavo Machado (@machadogj):
+en eso que pasaste pareceria que tenes `col-sm-` que suman 11 (en vez de 12)
+16:48:26 - Santiago Ruffino (@santi_0898):
+Podes usar <http://codepen.io|codepen.io>?
+16:49:45 - Gustavo Machado (@machadogj):
+aca lo tenes en jsfiddle con bootstrap:
+<http://jsfiddle.net/n49uv7py/>
+16:49:53 - Gustavo Machado (@machadogj):
+le faltaria tu css para compararlo
+16:52:48 - Maxi (@tholem98):
+Ahiblo subi a jsfiddle
+16:52:53 - Maxi (@tholem98):
+Creo
+16:53:04 - Maxi (@tholem98):
+*actualicé
+16:55:49 - Gustavo Machado (@machadogj):
+pasate la URL
+16:59:59 - Maxi (@tholem98):
+<http://Jsfiddle.net/5gawnbh1/1|Jsfiddle.net/5gawnbh1/1>
+17:08:48 - Martín Aimar (@maimar):
+~Como es un slack de js crei que quizas~ esta ~ba~ fuera de lugar meter bootstrap FTFY
+17:15:39 - Martín Aimar (@maimar):
+ah me confundí de canal :travolta:
+17:22:06 - Gustavo Machado (@machadogj):
+<@UH5L5P3FY> fijate que tenes una col-sm-12 que esta vacia (la podes borrar directamente), y una row dentro de una row:
+```
+  &lt;div class="row"&gt;
+    &lt;div class="col-sm-12"&gt;&lt;/div&gt;
+    &lt;div class="row ingresar_twocolumns"&gt;
+```
+podes poner `ingresar_twocolumns` en el div de afuera, y borrar el div.row de adentro
+17:34:35 - Maxi (@tholem98):
+Dale, en un rato pruebo y comento
+18:20:19 - Maxi (@tholem98):
+Ahora esta mas grande que el violeta. Le sobra verde de cada lado
+18:26:02 - Gustavo Machado (@machadogj):
+fijate que el verde y el violeta no estan aplicados a lo mismo… fijate de aplicarlo a las dos rows por ejemplo
+18:39:33 - Enzo Retamozo (@egr_96):
+hola chicos, perdon si la pregunta es medio boba
+Tengo una tabla hecha a puro tr &gt; th.
+Tengo que sumar los values de unos cuantos inputs dentro de una fila,, pero lo malo es que estos inputs no comparten nada ( solo tienen una clase que inicia con _cell-t:+key_)
+hay alguna forma de pegarle a los inputs que matcheen con la clase que comienza con _cell-t_ ?
+mi idea es recorrer dentro de ese tr a todos los inputs.val( ), pero no sabria como pegarle a esa clase ya que despues del _cell-t_ viene acompañado un número clave
+18:41:46 - Sergio Daniel Xalambrí (@sergiodxa):
+usando querySelectorAll y un attribute selector para hacer match de como empieza
+18:41:48 - Luis Alvarez (@luistensai):
+yo le pondría otra clase
+18:42:43 - Luis Alvarez (@luistensai):
+o sea, además de cell-t, no podrías ponerle `cell-t# cell-value` ?
+18:42:48 - Sergio Daniel Xalambrí (@sergiodxa):
+`document.querySelectorAll("[class^=cell-t"]`
+18:43:01 - Sergio Daniel Xalambrí (@sergiodxa):
+me suena a que no tiene control de la tabla
+18:43:15 - Sergio Daniel Xalambrí (@sergiodxa):
+ahora si tenés control de la tabla lo mejor es lo que dice <@U09SB6K5H>
+18:43:21 - Luis Alvarez (@luistensai):
+o usar como dice sergio el attribute selector
+18:43:34 - Luis Alvarez (@luistensai):
+pero creo que es un poco menos performante
+18:44:08 - Julian (@jantonielli01):
+Performance is a lie
+18:44:31 - Sergio Daniel Xalambrí (@sergiodxa):
+la diferencia sería insignificante IMO
+18:44:49 - Enzo Retamozo (@egr_96):
+:0 claro justamente algo asi estaba buscando, no conocia eso
+18:44:51 - Sergio Daniel Xalambrí (@sergiodxa):
+aunque usar una clase sería más fácil de mantener al final
+18:45:35 - Enzo Retamozo (@egr_96):
+claro, a medida que recorro, voy añadiendo otro atributo
+18:45:46 - Enzo Retamozo (@egr_96):
+gracias gente!
+18:47:19 - Luis Alvarez (@luistensai):
+de nada!
+18:47:57 - Luis Alvarez (@luistensai):
+para modificar lo menos posible por ahí te convenga lo que dijo Sergio
+20:02:58 - Maxi (@tholem98):
+Tengo un error al usar passport para recibir y validar los datos de un formulario. En el routes configure que en caso de error me redireccione devuelta a la pagina. Pero no se cual es el error para poder solucionarlo. Alguien sabe que puedo hacer para ver el error que detecta?
+20:11:23 - Martín Aimar (@maimar):
+passport?
+20:12:47 - Maxi (@tholem98):
+Un middleware para autenticacion de nodejs
+20:28:38 - Fernando García (@fernandogarcia_fg):
+alguna forma mas agradable a la vista de validar numeros que la que he conseguido por mi mismo??
+20:29:32 - Fernando García (@fernandogarcia_fg):
+trate con isdigit pero no sirve en mi caso, tambien intente comparar con la funcion type pero tampoco me sirvio
