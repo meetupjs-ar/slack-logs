@@ -1,0 +1,84 @@
+11:35:22 - Juan Bono (@juanbono):
+Alguien instalo látex en osx?
+11:35:49 - Juan Bono (@juanbono):
+Encontré un paquete mactex pero pesa 3.2gb jajaj me parece bastante comparado a lo que bajaba en Linux 
+11:36:47 - Leandro Echevarria (@echevarrialeandro):
+No te puedo orientar en osx, pero en Linux pasaba que tenés varios paquetes de latex para bajar. El basic pesa muy poquito, pero el texlive-full (o algo asi) pesaba 3 gigas y pico como decís ahí
+11:37:46 - Juan Bono (@juanbono):
+Ahh ahí estoy bajando el basic a ver qué onda :ok_hand: 
+11:45:27 - Julian (@jantonielli01):
+si, yo baje
+11:45:42 - Julian (@jantonielli01):
+no me acuerdo si era ese pero pesaba como 5gb
+12:18:18 - Leandro Echevarria (@echevarrialeandro):
+La diferencia de peso era mucha, pero si el basic te cubre lo que necesitás es un golazo no pesa nada
+12:56:34 - Juan Bono (@juanbono):
+Muchas gracias! Necesitaba el ejecutable pdflatex y en la instalación basic ya viene así que funcionó bien :ok_hand: :ok_hand: :ok_hand: 
+19:45:09 - Julian (@jantonielli01):
+Estaba ayudando a alguien en codementor
+19:45:16 - Julian (@jantonielli01):
+le dieron este ejercicio en la facultad... <https://cdn.filestackcontent.com/qGBE74QCTPWKELBXDSVy>
+19:45:34 - Julian (@jantonielli01):
+Bastante polenta, tiene un free monad y mtl style
+19:54:17 - Juan Bono (@juanbono):
+Wowowo posta algo assignment
+19:55:37 - Juan Bono (@juanbono):
+Hay cosas de haskell en codementor? (Aparté de la que pasaste recién jajaj)
+20:23:31 - Julian (@jantonielli01):
+Jajja vi dos
+20:23:35 - Julian (@jantonielli01):
+me aceptaron ayer
+20:24:55 - Julian (@jantonielli01):
+La piba estaba perdidisima jajaj pobre
+20:27:02 - Juan Bono (@juanbono):
+Encima dicen assignment 3, jajaja no me imagino progresión posible 
+20:27:27 - Juan Bono (@juanbono):
+Que te lleve a ver mtl en la tercera tarea jajaj 
+20:27:36 - Juan Bono (@juanbono):
+A menos que sea un curso avanzado de fp o algo así 
+20:27:55 - Julian (@jantonielli01):
+Aparte dice que es de tercer año de la fac jajaj 
+20:34:25 - Juan Bono (@juanbono):
+Jajajajaj tranqui
+11:35:22 - Juan Bono (@juanbono):
+Alguien instalo látex en osx?
+11:35:49 - Juan Bono (@juanbono):
+Encontré un paquete mactex pero pesa 3.2gb jajaj me parece bastante comparado a lo que bajaba en Linux 
+11:36:47 - Leandro Echevarria (@echevarrialeandro):
+No te puedo orientar en osx, pero en Linux pasaba que tenés varios paquetes de latex para bajar. El basic pesa muy poquito, pero el texlive-full (o algo asi) pesaba 3 gigas y pico como decís ahí
+11:37:46 - Juan Bono (@juanbono):
+Ahh ahí estoy bajando el basic a ver qué onda :ok_hand: 
+11:45:27 - Julian (@jantonielli01):
+si, yo baje
+11:45:42 - Julian (@jantonielli01):
+no me acuerdo si era ese pero pesaba como 5gb
+12:18:18 - Leandro Echevarria (@echevarrialeandro):
+La diferencia de peso era mucha, pero si el basic te cubre lo que necesitás es un golazo no pesa nada
+12:56:34 - Juan Bono (@juanbono):
+Muchas gracias! Necesitaba el ejecutable pdflatex y en la instalación basic ya viene así que funcionó bien :ok_hand: :ok_hand: :ok_hand: 
+19:45:09 - Julian (@jantonielli01):
+Estaba ayudando a alguien en codementor
+19:45:16 - Julian (@jantonielli01):
+le dieron este ejercicio en la facultad... <https://cdn.filestackcontent.com/qGBE74QCTPWKELBXDSVy>
+19:45:34 - Julian (@jantonielli01):
+Bastante polenta, tiene un free monad y mtl style
+19:54:17 - Juan Bono (@juanbono):
+Wowowo posta algo assignment
+19:55:37 - Juan Bono (@juanbono):
+Hay cosas de haskell en codementor? (Aparté de la que pasaste recién jajaj)
+20:23:31 - Julian (@jantonielli01):
+Jajja vi dos
+20:23:35 - Julian (@jantonielli01):
+me aceptaron ayer
+20:24:55 - Julian (@jantonielli01):
+La piba estaba perdidisima jajaj pobre
+20:27:02 - Juan Bono (@juanbono):
+Encima dicen assignment 3, jajaja no me imagino progresión posible 
+20:27:27 - Juan Bono (@juanbono):
+Que te lleve a ver mtl en la tercera tarea jajaj 
+20:27:36 - Juan Bono (@juanbono):
+A menos que sea un curso avanzado de fp o algo así 
+20:27:55 - Julian (@jantonielli01):
+Aparte dice que es de tercer año de la fac jajaj 
+20:34:25 - Juan Bono (@juanbono):
+Jajajajaj tranqui
