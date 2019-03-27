@@ -1,0 +1,303 @@
+10:50:53 - Mauro Daprotis (@maurodaprotis):
+Una pregunta, más o menos que hourly rate se maneja por un SSR remoto en node.js? gross, sin contar impuestos
+10:52:10 - Marcos Casagrande (@marcoscvp90):
+Un freelance debería estar entre 25-40 USD. Uno remoto en "relación de dependencia", 20-30 USD
+10:53:25 - Mauro Daprotis (@maurodaprotis):
+Uh me estoy regalando entonces. Llene una aplicación hace un tiempo, creo que puse 15usd/hr y ahora me contactaron
+10:55:02 - Marcos Casagrande (@marcoscvp90):
+Para mi 15 es poquísimo para un SSR. Está bien para un Junior. Obviamente estamos hablando remoto, acá lamentablemente muy pocos SR ganan 15 USD la hora.
+10:59:34 - Mauro Daprotis (@maurodaprotis):
+Claro, no se que seniority me tomaran pero tengo más o menos 3 años de experiencia
+11:00:01 - Mauro Daprotis (@maurodaprotis):
+le voy a pelear el hourly rate entonces
+11:00:54 - Marcos Casagrande (@marcoscvp90):
+Al menos 20 USD, que estaría bien. Al menos deberías sacar 3k usd mensuales como semi.
+11:01:23 - Diego Ferrari (@die.a.ferrari):
+No tenés que “pelearle” nada. Podés simplemente explicarle que en ese momento cobraste poco porque necesitabas el trabajo pero que hoy en día tu situación es otra y tmb creciste mucho como dev y que ahora tu rate es 20USD
+11:01:40 - Santiago Ruffino (@santi_0898):
+Hace cuanto mandaste el presupuesto?
+11:01:53 - Santiago Ruffino (@santi_0898):
+Si me decis "Hace un año", podes modificarlo tranquilamente
+11:01:57 - Diego Ferrari (@die.a.ferrari):
+claro
+11:03:17 - Santiago Ruffino (@santi_0898):
+Me sale una pregunta interesante que pueden contestarla en hilo asi no mezclamos todo. Capaz que es porque soy muy Jr, pero no me parece que uno "cobre mas caro" porque ahora esta con mas trabajo. Osea, si lo haces para NO agarrar el trabajo, le decis "No puedo" y listo. Pero eso de decir "Antes me rascaba los huevos entonces cobraba X. Ahora tengo otro trabajo y te cobro X*2" me parece cualquiera
+11:04:59 - Marcos Casagrande (@marcoscvp90):
+Ni una ni la otra. Pero si yo tengo cubierto toda mi semana de laburo, y un cliente quiere algo urgente, yo le digo, las urgencias se pagan más. Esto hablando desde el punto de vista freelance.
+11:05:54 - Marcos Casagrande (@marcoscvp90):
+Y si el trabajo no te interesa mucho, yo personalmente le subo el hourly rate, ya que no es algo que quiera hacer, si el acepta, todos contentos. Sino contento por no hacerlo.
+11:07:21 - Diego Ferrari (@die.a.ferrari):
+A ver, para empezar, tu rate tiene que estar respaldado con tu calidad de trabajo. Ahora, lo que dice Marcos es super válido, los tiempos de entrega o la urgencia se re puede discutir en base a tu rate. Si querés algo en 1 mes te sale XXX y si lo puedo hacer en 3 meses XX. (tiré tiempos ejemplificadores obvio)
+11:11:32 - Marcos Casagrande (@marcoscvp90):
+Exactamente. Otro tema también es que tarea estás haciendo. Yo para el mismo cliente, algunas tareas se las cobro X, y otras X * 1.5. Porque no es lo mismo hacer un server básico en express, que hacer una integración con un Smart Contract (por decir algo). Entonces vos tenés que valuar ahí el expertise, no tu hourly rate general.
+11:11:50 - Diego Ferrari (@die.a.ferrari):
+Yo creo que depende mucho del caso puntual. Para mí si pasó un tiempo considerable es re válido decir: En ese momento te cobré barato porque necesitaba mostrar mi trabajo y demás, ahora cobro un rate más acorde al mercado.
+11:11:50 - Santiago Ruffino (@santi_0898):
+Obvio que la urgencia se paga. No lo discuto. Pero si es exactamente el mismo trabajo, porque no cobrarlo lo mismo?
+11:12:17 - Marcos Casagrande (@marcoscvp90):
+Porque para atender esa urgencia, vos tenés que dejar de atender otro cliente, o tenés que laburar horas extras.
+11:12:34 - Diego Ferrari (@die.a.ferrari):
+A ver, es penetración de mercado, se estudia en Marketing. Ante un producto nuevo las empresas salen a ofrecerlo por un precio bajo para generar awareness y dar a conocer el producto/servicio y después cuando ya es más conocido mete un precio más “normal”
+11:12:40 - Marcos Casagrande (@marcoscvp90):
+Entonces, no lleva el mismo esfuerzo, porque vos tenés que laburar 12 horas un día, en lugar de 8. Y el tiempo vale oro.
+11:13:20 - Diego Ferrari (@die.a.ferrari):
+esto sobretodo sirve si el cliente sabe que le estás cobrando poco. Si es una pyme o emprendedor argentino quizás no lo vea tan así.. depende el caso
+11:15:43 - Diego Ferrari (@die.a.ferrari):
+Otra que creo válida es “porque te gusta el proyecto y es el primer trabajo  con el vas a cobrarle un rate más bajo así ve como trabajas y la calidad de tu código” pero que para un siguiente trabajo le cobrarías un poquito más y eso creo que incluso lo deja contento porque te está pagando con “descuento”
+11:17:14 - Diego Ferrari (@die.a.ferrari):
+No sé, son cosas que vas tanteando sobre la marcha dependiendo el cliente, dependiendo la posibilidad de futuros trabajos con el, el proyecto, tu disponibilidad. La realidad es que no se le cobra a todos igual. Obvio, es mi opinión
+11:19:48 - Marcos Casagrande (@marcoscvp90):
+Pero en definitiva, es oferta y demanda. Si sos muy demandado por tus clientes, lo cual significa que hacés las cosas bien, podés subir tu tarifa, porque tenés más trabajo del que podés tomar.
+10:50:53 - Mauro Daprotis (@maurodaprotis):
+Una pregunta, más o menos que hourly rate se maneja por un SSR remoto en node.js? gross, sin contar impuestos
+10:52:10 - Marcos Casagrande (@marcoscvp90):
+Un freelance debería estar entre 25-40 USD. Uno remoto en "relación de dependencia", 20-30 USD
+10:53:25 - Mauro Daprotis (@maurodaprotis):
+Uh me estoy regalando entonces. Llene una aplicación hace un tiempo, creo que puse 15usd/hr y ahora me contactaron
+10:55:02 - Marcos Casagrande (@marcoscvp90):
+Para mi 15 es poquísimo para un SSR. Está bien para un Junior. Obviamente estamos hablando remoto, acá lamentablemente muy pocos SR ganan 15 USD la hora.
+10:59:34 - Mauro Daprotis (@maurodaprotis):
+Claro, no se que seniority me tomaran pero tengo más o menos 3 años de experiencia
+11:00:01 - Mauro Daprotis (@maurodaprotis):
+le voy a pelear el hourly rate entonces
+11:00:54 - Marcos Casagrande (@marcoscvp90):
+Al menos 20 USD, que estaría bien. Al menos deberías sacar 3k usd mensuales como semi.
+11:01:23 - Diego Ferrari (@die.a.ferrari):
+No tenés que “pelearle” nada. Podés simplemente explicarle que en ese momento cobraste poco porque necesitabas el trabajo pero que hoy en día tu situación es otra y tmb creciste mucho como dev y que ahora tu rate es 20USD
+11:01:40 - Santiago Ruffino (@santi_0898):
+Hace cuanto mandaste el presupuesto?
+11:01:53 - Santiago Ruffino (@santi_0898):
+Si me decis "Hace un año", podes modificarlo tranquilamente
+11:01:57 - Diego Ferrari (@die.a.ferrari):
+claro
+11:03:17 - Santiago Ruffino (@santi_0898):
+Me sale una pregunta interesante que pueden contestarla en hilo asi no mezclamos todo. Capaz que es porque soy muy Jr, pero no me parece que uno "cobre mas caro" porque ahora esta con mas trabajo. Osea, si lo haces para NO agarrar el trabajo, le decis "No puedo" y listo. Pero eso de decir "Antes me rascaba los huevos entonces cobraba X. Ahora tengo otro trabajo y te cobro X*2" me parece cualquiera
+11:04:59 - Marcos Casagrande (@marcoscvp90):
+Ni una ni la otra. Pero si yo tengo cubierto toda mi semana de laburo, y un cliente quiere algo urgente, yo le digo, las urgencias se pagan más. Esto hablando desde el punto de vista freelance.
+11:05:54 - Marcos Casagrande (@marcoscvp90):
+Y si el trabajo no te interesa mucho, yo personalmente le subo el hourly rate, ya que no es algo que quiera hacer, si el acepta, todos contentos. Sino contento por no hacerlo.
+11:07:21 - Diego Ferrari (@die.a.ferrari):
+A ver, para empezar, tu rate tiene que estar respaldado con tu calidad de trabajo. Ahora, lo que dice Marcos es super válido, los tiempos de entrega o la urgencia se re puede discutir en base a tu rate. Si querés algo en 1 mes te sale XXX y si lo puedo hacer en 3 meses XX. (tiré tiempos ejemplificadores obvio)
+11:11:32 - Marcos Casagrande (@marcoscvp90):
+Exactamente. Otro tema también es que tarea estás haciendo. Yo para el mismo cliente, algunas tareas se las cobro X, y otras X * 1.5. Porque no es lo mismo hacer un server básico en express, que hacer una integración con un Smart Contract (por decir algo). Entonces vos tenés que valuar ahí el expertise, no tu hourly rate general.
+11:11:50 - Diego Ferrari (@die.a.ferrari):
+Yo creo que depende mucho del caso puntual. Para mí si pasó un tiempo considerable es re válido decir: En ese momento te cobré barato porque necesitaba mostrar mi trabajo y demás, ahora cobro un rate más acorde al mercado.
+11:11:50 - Santiago Ruffino (@santi_0898):
+Obvio que la urgencia se paga. No lo discuto. Pero si es exactamente el mismo trabajo, porque no cobrarlo lo mismo?
+11:12:17 - Marcos Casagrande (@marcoscvp90):
+Porque para atender esa urgencia, vos tenés que dejar de atender otro cliente, o tenés que laburar horas extras.
+11:12:34 - Diego Ferrari (@die.a.ferrari):
+A ver, es penetración de mercado, se estudia en Marketing. Ante un producto nuevo las empresas salen a ofrecerlo por un precio bajo para generar awareness y dar a conocer el producto/servicio y después cuando ya es más conocido mete un precio más “normal”
+11:12:40 - Marcos Casagrande (@marcoscvp90):
+Entonces, no lleva el mismo esfuerzo, porque vos tenés que laburar 12 horas un día, en lugar de 8. Y el tiempo vale oro.
+11:13:20 - Diego Ferrari (@die.a.ferrari):
+esto sobretodo sirve si el cliente sabe que le estás cobrando poco. Si es una pyme o emprendedor argentino quizás no lo vea tan así.. depende el caso
+11:15:43 - Diego Ferrari (@die.a.ferrari):
+Otra que creo válida es “porque te gusta el proyecto y es el primer trabajo  con el vas a cobrarle un rate más bajo así ve como trabajas y la calidad de tu código” pero que para un siguiente trabajo le cobrarías un poquito más y eso creo que incluso lo deja contento porque te está pagando con “descuento”
+11:17:14 - Diego Ferrari (@die.a.ferrari):
+No sé, son cosas que vas tanteando sobre la marcha dependiendo el cliente, dependiendo la posibilidad de futuros trabajos con el, el proyecto, tu disponibilidad. La realidad es que no se le cobra a todos igual. Obvio, es mi opinión
+11:19:48 - Marcos Casagrande (@marcoscvp90):
+Pero en definitiva, es oferta y demanda. Si sos muy demandado por tus clientes, lo cual significa que hacés las cosas bien, podés subir tu tarifa, porque tenés más trabajo del que podés tomar.
+11:21:02 - Marcos Casagrande (@marcoscvp90):
+Y te vas a dar cuenta muy rápido. Si al aumentar tu tarifa, seguís con el mismo volumen de trabajo, acertaste. Sino.. vuelta atrás :joy:
+11:26:18 - Diego Ferrari (@die.a.ferrari):
+Talcu
+12:20:50 - Juan Scolari (@juanscolari):
+Tengo esta situacion:
+- Arrancaria a laburar remoto facturando
+- Cuando sale la visa me voy a rep checa pero sigo en modalidad factura
+- Por lo que vi, hasta que no pasan 183 dias que estoy alla tengo que seguir facturando aca
+puede ser que sea asi?
+el tema es que caeria en responsable inscripto y me cambia toda la ecuacion
+(alla los impuestos son de ~15% vs el 35% de ganancias + autonomos de aca)
+12:22:35 - Rodrigo Ali (@rodrigojali):
+Podés hacerte una cuenta allá, que te depositen allá la plata, y vos te hacés transferencias a una cuenta Argentina tuya por un monto menor (para no salirte de monotributo) y facturás por el monto ese, y el resto de la plata la dejás afuera.
+12:22:58 - Rodrigo Ali (@rodrigojali):
+Bah, se me ocurre, pero no sé qué tan recomendable será. <@U86A4QH8U> capaz te puede batir la posta.
+12:26:08 - Juan Scolari (@juanscolari):
+Me piden la factura igual
+12:26:43 - Ezequiel Leites (@leites25):
+abogadev al rescate
+12:26:51 - Rodrigo Ali (@rodrigojali):
+Vos podés facturar como monotributo o como RI, no importa eso.
+12:27:08 - Juan Scolari (@juanscolari):
+Pero si me paso de facturacion me recategorizan
+12:27:12 - Rodrigo Ali (@rodrigojali):
+Lo que te está importando a vos es no irte a RI para que no te coma ganancias
+12:27:15 - Rodrigo Ali (@rodrigojali):
+Y bueno, fijate lo que dije :stuck_out_tongue:
+12:27:29 - Gonzalo González Mora (@gonzalogm):
+Las facturas argentinas tienen validez afuera? Pensé que no
+12:27:39 - Rodrigo Ali (@rodrigojali):
+Si vos te transferís a vos mismo desde una cuenta tuya de afuera a una cuenta tuya de adentro el monto X para no pasarte, y facturas ese monto X, el resto de la plata que no ingresa no tenés por qué facturarla :stuck_out_tongue:
+12:27:42 - Gonzalo González Mora (@gonzalogm):
+(onda, inventate un invoice)
+12:27:45 - Juan Scolari (@juanscolari):
+No, no tienen por lo que entiendo, pero me la piden
+12:28:14 - Rodrigo Ali (@rodrigojali):
+Entonces toda esa otra plata que NO facturás, NO la ingresás y queda afuera en Rep Checa.
+12:29:04 - Rodrigo Ali (@rodrigojali):
+Igual rarísimo eso, onda, estás afuera del país, residiendo afuera, laburando para afuera... con visa. ¿Por qué será que tenés que hacer eso?
+12:31:06 - Marcos Casagrande (@marcoscvp90):
+Eso ocurre en la mayoría de países. Para no pagar impuestos en un país, tenés que residir más de la mitad del año afuera.
+12:31:33 - Juan Scolari (@juanscolari):
+Estaba viendo eso, que pasa en la mayoria de los paises, pero no tenia idea
+12:31:34 - Marcos Casagrande (@marcoscvp90):
+Por ejemplo, muchos españoles viven la mitad del año en Andorra, para no pagar los impuestos en España, que son mayores a Andorra.
+12:32:18 - Marcos Casagrande (@marcoscvp90):
+Entonces hasta que oficialmente no estás residiendo en Rep Checa por más de 6 meses, los impuestos los deberías de pagar en Argentina, o el país dónde estuviste residiendo los anteriores 6 meses.
+12:32:27 - Rodrigo Ali (@rodrigojali):
+=o trucazo. Yo me quiero mudar a Barcelona, y estás ahí no más de Andorra.
+12:32:56 - Marcos Casagrande (@marcoscvp90):
+Claro, pero el tema es que tenés que residir, los que dicen que "residen" en Andorra, pero están todo el año en España, se los coge Hacienda. (AFIP Española)
+12:33:41 - Rodrigo Ali (@rodrigojali):
+Bueno pero un laburito remoto o freelo, un Airbnb en andorra 6 meses (?, y listo
+12:33:56 - Rodrigo Ali (@rodrigojali):
+Hablás con el dueño del Airbnb y le pedis que te deje usar el domicilio ese como para residencia jajaja
+12:34:51 - Juan Scolari (@juanscolari):
+que macana esto, me cambia todo
+12:35:10 - Marcos Casagrande (@marcoscvp90):
+Y después está el otro tema, de los que no viven más de 6 meses en ningún país. Que está 2 meses en cada país, esos creo que pueden elegir un país dónde tributar o no sé muy bien la movida.
+12:35:37 - Marcos Casagrande (@marcoscvp90):
+Ahí nadie sabe que hacer, todos quieren sacar su parte.
+12:35:42 - Gonzalo González Mora (@gonzalogm):
+Y si te photoshopeás un invoice y fue? :rat:
+12:35:46 - Rodrigo Ali (@rodrigojali):
+<@U6U3183U6> bancá que aparezca Silvio, pero yo creo que se puede hacer lo que te dije. Aunque básicamente vas a estar evadiendo.
+12:35:55 - Rodrigo Ali (@rodrigojali):
+:oncoming_police_car:
+12:36:11 - Gonzalo González Mora (@gonzalogm):
+/gif swat team
+12:36:17 - Juan Scolari (@juanscolari):
+quiero ver las posibilidades por la via legal
+12:36:49 - Juan Scolari (@juanscolari):
+pensa que es irte a otro pais, la idea es no sumar mas quilombos
+12:37:49 - Juan Scolari (@juanscolari):
+en el caso que me pasara a responsable inscripto tengo que pagar ganancia de los meses que estuve como monotributo tambien?
+12:39:20 - Rodrigo Ali (@rodrigojali):
+Tantas preguntas.
+12:39:46 - Rodrigo Ali (@rodrigojali):
+Por estas cosas existen los contadores. Yo recién ahora voy a empezar a pagar ganancias y es una gigante caja negra
+12:40:59 - Martín Aimar (@maimar):
+IMO existen porque es un chino, la información debería ser más clara
+12:42:29 - Martín Aimar (@maimar):
+al menos respecto de esto, no digo que la profesión no tenga sentido
+12:43:38 - Luis Alvarez (@luistensai):
+y aún así, los contadores tampoco saben todo jaja
+12:45:10 - Juan Scolari (@juanscolari):
+eso me pasa con la contadora que estaba hablando :stuck_out_tongue:
+12:45:58 - Juan Scolari (@juanscolari):
+lo de afuera ni idea, me olvide de preguntarle lo de RI si pagas ganancias de los meses que estuviste como monotributo
+14:08:09 - Silvio Messina (@smessina):
+Hola a todos… que lindo y turbio tema salió
+14:08:44 - Julian (@jantonielli01):
+silvio al rescate
+14:08:48 - Julian (@jantonielli01):
+a ver como nos lava la guita
+14:09:58 - Silvio Messina (@smessina):
+<@U6U3183U6> Cuando te vas a laburar a otro país pero aún no tenes la Residencia Permanente allí, mantenes en Argentina la llamada “Residencia Fiscal”
+14:12:14 - Silvio Messina (@smessina):
+Por lo tanto seguís tributando acá por los ingresos obtenidos (porque básicamente tu “pais residente” sigue siendo Arg)
+14:14:03 - Silvio Messina (@smessina):
+Aunque basicamente el unico impuesto activo (en caso que te pases a RI) va a ser el Impuesto a las Ganancias
+14:14:09 - Silvio Messina (@smessina):
+IVA no pagarías
+14:14:20 - Silvio Messina (@smessina):
+Tampoco Ingresos Brutos
+14:15:48 - Silvio Messina (@smessina):
+(ademas con Ganancias se puede hacer algo de magia gris para deducir todo lo que se pueda)
+14:16:19 - Silvio Messina (@smessina):
+pero si, seguis siendo succionado por el Vampiro AFIP un tiempo
+14:16:22 - Guido (@guido_mourelle):
+que crack Silvio
+14:16:58 - Juan Scolari (@juanscolari):
+Gracias Silvio!
+14:17:05 - Juan Scolari (@juanscolari):
+Aunque me mata eso :stuck_out_tongue:
+14:18:42 - Juan Scolari (@juanscolari):
+Si estoy monotributo seis meses y paso a RI, despues tengo que pagar ganancia de los meses de monotributo?
+14:20:53 - Silvio Messina (@smessina):
+no, pagas a partir de empezar en RI
+14:21:49 - Juan Scolari (@juanscolari):
+ah, no tenia ese dato
+14:22:23 - Juan Scolari (@juanscolari):
+Gracias Silvio por arrojar un poco de luz sobre todos estos asuntos! Super valorado!
+14:23:04 - Martin Carrera (@mcarrera):
+pasa CBU, address de BTC o numero de cuenta en paraiso fiscal para cobrar los honorarios <@U86A4QH8U>
+14:24:20 - Juan Scolari (@juanscolari):
+Posta, yo pagaria feliz para que me respondan algunas cuantas cosas
+14:26:51 - Silvio Messina (@smessina):
+Jajajja 
+14:27:16 - Ezequiel Leites (@leites25):
+LaaS
+14:29:04 - Ezequiel Leites (@leites25):
+Y, la verdad es que hoy le caes a un contador con este tipo de preguntas y se te quedan mirando raro en su mayoria
+14:34:48 - Juan Scolari (@juanscolari):
+quiero tener alguna idea antes de caerle a un contador
+14:35:11 - Juan Scolari (@juanscolari):
+ya probe con una y tenia menos idea que yo y descarte de una
+14:38:57 - Silvio Messina (@smessina):
+Hablamos por privado si querés
+14:41:12 - Juan Scolari (@juanscolari):
+dale, gracias!
+14:59:57 - Rodrigo Ali (@rodrigojali):
+<@U86A4QH8U> ¿y sobre lo que yo dije? ¿Se puede esto?
+15:00:41 - Nicolas Taboada (@ntaboada93):
+abrir una cuenta en el exterior, ir a retirar y volver con los USD rinde? onda USA. Tengo el dato que la AFIP pide datos de cuentas de afuera pero nosotros somos chiringitos al lado de gente que mueve fangote de guita
+15:00:48 - Dario Fernando (@someunderscore_):
+mas si vivis en jujuy, yo pase por 2 contadores menos idea tenian :facepalm:
+15:01:12 - Nicolas Taboada (@ntaboada93):
+yo siempre digo que quisiera estar en GRIS, ni 100% blanco ni 100% negro porque la cantidad de guita que se te va estando en RI… :sob:
+15:04:29 - Gonzalo González Mora (@gonzalogm):
+Ojo que en teoría no podés traer más de 10000USD me parece, no sé qué pasa si te agarran con más
+15:05:29 - Silvio Messina (@smessina):
+mmmm... no mucho, digamos que uno paga impuestos por “generar” la plata, no por traerla
+15:05:31 - José Ram'rez (@jarcodallo):
+Alguien conoce o labura en esta empresa <https://www.workast.com> ?
+15:08:59 - Nicolas Taboada (@ntaboada93):
+<@UDJJ1RZT5>  sisi pero te haces 2 viajes al año y leesto lo demas lo tenes ahi guardadito
+15:09:28 - Rodrigo Ali (@rodrigojali):
+Comprendo, oh =(
+15:09:46 - Silvio Messina (@smessina):
+Si vos ganaste x miles de dólares, después lo pasaste a libras, luego a yuanes, después a BTC, luego a pesos y por último compras toneladas de palta... aún así pagas por ese X miles de USD
+15:11:17 - Mati Dastugue (@matiasdastugue):
+Tenia entendido que para abrir una cuenta en USA es necesario tener un domicilio ahi. Es verdad eso  ?
+15:17:07 - Rodrigo Ali (@rodrigojali):
+Claro, yo lo decía por el hecho de "impuestos por generar plata" bajo el siguiente escenario:
+Suponete que para no pasarte de Monotributo H tenés que facturar USD 2k, pero vos ganás USD 5k en la vida real. Entonces hacés que tu cliente te deposite eso en una cuenta de afuera, y después vos desde esa cuenta te transferís a otra cuenta interna tuya USD 2k, y facturás esos USD 2k.
+
+Entonces en definitiva para el fisco "generaste" USD 2k y te va a cobrar impuestos sobre eso, y no sobre los USD 5k. Si se pudiera hacer esto viviendo en Argentina y laburando para afuera, podrías hacer lo mismo viviendo afuera y laburando para afuera pero facturando "como argentino"
+15:33:25 - Silvio Messina (@smessina):
+Claro, pero ahí le estarías pidiendo que te negree una parte tu empleador
+15:34:19 - Silvio Messina (@smessina):
+Y no siempre son tan turbios como acá en Argentina… si la empresa te paga 5K va a querer una factura legal por 5K
+15:41:54 - Rodrigo Ali (@rodrigojali):
+Clah, comprendo, comprendo. Sí, ya de entrada supuse que si se podía lo que digo yo, iba a ser ilegal jajaja
+15:42:49 - Rodrigo Ali (@rodrigojali):
+En Bank of America podés abrir sin mucho drama tengo entendido. Y por lo otro, son USD 10k por pera.
+15:43:08 - Rodrigo Ali (@rodrigojali):
+O sea si te vas con una persona adicional (pareja/amigo/familiar) ya son HASTA USD 20k por viaje
+15:43:16 - Rodrigo Ali (@rodrigojali):
+Es medio sueldo anual promedio de USA
+15:43:17 - Gonzalo González Mora (@gonzalogm):
+Hay un par de bancos que te dejan abrir sin address allá, sí
+15:43:22 - Gonzalo González Mora (@gonzalogm):
+Chase era otro
+15:43:45 - Santiago Ruffino (@santi_0898):
+Si me pagas el pasaje, viajo con vos y te dejo pasar 10K mas a mi nombre. Pensalo
+15:51:39 - Nicolas Taboada (@ntaboada93):
+pero lo importante es
+15:51:48 - Nicolas Taboada (@ntaboada93):
+te puede hacer problema la afip? :stuck_out_tongue:
+15:53:14 - Santiago Ruffino (@santi_0898):
+La afip me tiene 60K embargadas. Apenas pueda, me voy a la mierrrrrrrda. Jajaja
+15:53:33 - Nicolas Taboada (@ntaboada93):
+?
+15:53:37 - Nicolas Taboada (@ntaboada93):
+real?
+15:53:44 - Nico (@nicokorn96):
+<@U9KMYNJMV> que rompimo
+15:54:53 - Santiago Ruffino (@santi_0898):
+Nada, durante un año cobre parte del sueldo en efectivo, la otra parte era con un plan provincial. Y lo fui poniendo el plazos fijos. Fueron 12 meses de guardar esa plata y ponerla en un plazo fijo. Cuando quise sacar la plata, se mamo todo
+15:55:20 - Julian (@jantonielli01):
+que verga
