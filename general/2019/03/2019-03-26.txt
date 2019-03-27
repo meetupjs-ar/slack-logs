@@ -1,0 +1,377 @@
+21:05:50 - Maxi (@tholem98):
+La aplicacion <http://calcularmiapp.com|calcularmiapp.com> me dice que tengo que cobrar $215mil por la app que tengo que hacer. Si llego a cobrar eso se acuerdan de toda mi familia. 
+
+De verdad que tira para abajo? Estoy cobrando menos de la mitad de eso
+21:21:31 - Pablo Miceli (@pablomiceli24):
+ah yo justo iba a preguntar sobre eso
+21:21:50 - Pablo Miceli (@pablomiceli24):
+pasa que depende mucho de quien lo desarrolle supongo
+21:22:02 - Pablo Miceli (@pablomiceli24):
+si es una software factory, seguramente sea muchisimo mas que eso lo que salga
+21:22:07 - Pablo Miceli (@pablomiceli24):
+si es un freelancer, menos
+21:55:23 - Maxi (@tholem98):
+Aaah, gracias. Claro, es verdad. Depende tambien para quien sea desarrollado. No es lo mismo desarrollarla para una empresa grande, como para una pequeña o a un individuo. 
+
+A una persona sola le pareceria una barbaridad impagable 200mil, pero a una empresa grande le pareceria quizas barato o a buen precio, y a una pequeña le pareceria un poco caro pero consideraria que puede vale la pena
+23:51:04 - Micael Robles (@micaelrobles):
+Creo que pablo se refería al que lo desarrolla. Es decir, vos como individuo no vas a cobrar lo mismo que una software factory por hacer la app para un cliente x.
+00:12:16 - Julian (@jantonielli01):
+Sin saber mucho de tu caso, 200k suena a poco para una app 
+00:12:25 - Julian (@jantonielli01):
+A menos que sea bastante sencilla 
+00:32:43 - Marcos Casagrande (@marcoscvp90):
+Maxi, cuanto tardas en hacerla?, si estas cobrando menos de la mitad que eso, te estás negreando. 
+00:33:31 - Marcos Casagrande (@marcoscvp90):
+A no ser que sea algo rápido de una o dos semanas, pero lo dudo. 
+00:40:14 - Julian (@jantonielli01):
+yo el año pasado hice una por 30k ars en la que tardé más de 2 meses, todos tenemos malos tratos : p
+00:40:38 - Marcos Casagrande (@marcoscvp90):
+Y un freelance senior, debería cobrar lo mismo que una empresa. La mayoría de empresas terminan haciendo las cosas con todos juniors. 
+00:41:43 - Marcos Casagrande (@marcoscvp90):
+Si obvio, siempre hacés malos negocios hasta que aprendés. Ley de vida. Y con la inflación acá se desvirtúan fácil los precios y perdés noción. 
+06:00:03 - Maxi (@tholem98):
+<@U5ZT73Y0Y> sisi, lo habia entendido y quise complementar con lo mio
+06:00:19 - Maxi (@tholem98):
+Me exprese mal
+06:07:02 - Maxi (@tholem98):
+Entonces dicen que tengo que cobrar por el tiempo y no por la app en sí? Es que no se. Siento que el cliente no tiene la culpa de cuanto yo tarde y deberia cobrarle solo por la app y las funcionalidades que tenga
+
+Es que no me imagino cobrandole a un cliente, que generalmente son emprendedores jovenes que recien empiezan y quieren una app que vaya junto con su pagina web, a veces e-commerce, a veces solo un portal para que lo usuarios esten mas comodos con su smartphone, 200mil. Suelen tener un presupuesto ajustado y nunca llega a mas de 50mil
+09:15:58 - Marcos Casagrande (@marcoscvp90):
+Si no le cobras el tiempo, estás perdiendo plata. A no ser que seas junior y estés aprendiendo, no cobrar por tu tiempo que es lo más valioso que hay, es un error para mi.
+
+Que seniority tenés? Y cuanto te lleva hacer esa app que decís?. Si la APP además es un e-commerce, con toda su complejidad, venderla por menos de 10k usd es un error. Como mínimo deberías apuntar a sacar 3k usd por mes con cualquier APP que desarrolles. 
+10:25:56 - gillchristian (@gillchristian):
+Mi jefe expectations vs mi jefe will to invest in the team
+10:55:28 - Jorge Cano (@jorgeucano):
+Buenas a todos :slightly_smiling_face: … cambie el modem de lugar(que viene por defecto de telecentro) y estoy teniendo problemas de conexion en algunas partes de la casa…. y queria saber si alguno tenia un router de esos potentes de verdad, que permitan hacer 2 redes y soporte 5g etc etc etc
+10:58:27 - Mati Dastugue (@matiasdastugue):
+No tengo otro router, si un amplificador y repetidor de señal, y funciona bastante bien
+10:59:13 - Jorge Cano (@jorgeucano):
+creo que el problema, es que el router esta justo donde esta la mochila del baño (osea la pared donde va el agua xD)
+10:59:17 - Jorge Cano (@jorgeucano):
+y eso rompio todo
+10:59:22 - Jorge Cano (@jorgeucano):
+xD pero pasame cual tenes asi miro
+11:01:45 - Julian (@jantonielli01):
+yo en casa tenía un problema así
+11:01:55 - Julian (@jantonielli01):
+compre uno como estos, no el mismo modelo pero bueno <https://articulo.mercadolibre.com.ar/MLA-682654532-router-tp-link-rompemuros-450mbps-3-antenas-high-power-_JM?searchVariation=21195174877>
+11:01:57 - Martin Carrera (@mcarrera):
+alguno uso algo de este estilo? <https://articulo.mercadolibre.com.ar/MLA-719632755-extensor-de-senal-tp-link-tl-wpa4220-600mb-powerline-av600-_JM>
+11:02:06 - Martin Carrera (@mcarrera):
+me generan muchisima intriga
+11:02:07 - Julian (@jantonielli01):
+y con 2 repetidores y ahora tengo 100% en todos lados
+11:02:12 - Julian (@jantonielli01):
+pero soy un exagerado
+11:03:30 - Mati Dastugue (@matiasdastugue):
+Yo tengo este, se enchufa directamente a 220. <https://www.compumundo.com.ar/producto/extensor-de-senal-tp-link-wi-fi-tl-wa850re/28e35cd6d2?gclid=EAIaIQobChMIi-7auvyf4QIVFwiRCh3HzgJjEAYYAiABEgJJu_D_BwE>
+11:03:37 - Santiago Ruffino (@santi_0898):
+Y asi es como Jjant se murio por radiacion
+11:04:22 - Julian (@jantonielli01):
+es que lo peor es estar en el patio, en la pile
+11:04:25 - Julian (@jantonielli01):
+y no tener wifi
+11:04:29 - Julian (@jantonielli01):
+así que fuí all in
+11:04:44 - Maxi (@tholem98):
+Sisi, coincido en cobrar el tiempo pero mis clientes tardarian meses en juntar todo ese dinero. 
+
+Son personas asalariadas o con un pequeño negocio. Muchos no llegan a cobrar 50mil al mes y tienen sus gastos y deudas, no pueden permitirse pagar 200mil, o 400mil por un e-commerce que es lo que mas solicitan. 
+
+Por eso me parece muchisimo, por el tipo de clientes con el que me manejo.
+
+$120mil por mes por cada app que desarrolle me parece mucho y mas si eso me lo tiene que pagar una sola persona
+11:05:01 - Mati Dastugue (@matiasdastugue):
+Yo uso uno parecido, funciona perfecto.
+21:05:50 - Maxi (@tholem98):
+La aplicacion <http://calcularmiapp.com|calcularmiapp.com> me dice que tengo que cobrar $215mil por la app que tengo que hacer. Si llego a cobrar eso se acuerdan de toda mi familia. 
+
+De verdad que tira para abajo? Estoy cobrando menos de la mitad de eso
+21:21:31 - Pablo Miceli (@pablomiceli24):
+ah yo justo iba a preguntar sobre eso
+21:21:50 - Pablo Miceli (@pablomiceli24):
+pasa que depende mucho de quien lo desarrolle supongo
+21:22:02 - Pablo Miceli (@pablomiceli24):
+si es una software factory, seguramente sea muchisimo mas que eso lo que salga
+21:22:07 - Pablo Miceli (@pablomiceli24):
+si es un freelancer, menos
+21:55:23 - Maxi (@tholem98):
+Aaah, gracias. Claro, es verdad. Depende tambien para quien sea desarrollado. No es lo mismo desarrollarla para una empresa grande, como para una pequeña o a un individuo. 
+
+A una persona sola le pareceria una barbaridad impagable 200mil, pero a una empresa grande le pareceria quizas barato o a buen precio, y a una pequeña le pareceria un poco caro pero consideraria que puede vale la pena
+23:51:04 - Micael Robles (@micaelrobles):
+Creo que pablo se refería al que lo desarrolla. Es decir, vos como individuo no vas a cobrar lo mismo que una software factory por hacer la app para un cliente x.
+00:12:16 - Julian (@jantonielli01):
+Sin saber mucho de tu caso, 200k suena a poco para una app 
+00:12:25 - Julian (@jantonielli01):
+A menos que sea bastante sencilla 
+00:32:43 - Marcos Casagrande (@marcoscvp90):
+Maxi, cuanto tardas en hacerla?, si estas cobrando menos de la mitad que eso, te estás negreando. 
+00:33:31 - Marcos Casagrande (@marcoscvp90):
+A no ser que sea algo rápido de una o dos semanas, pero lo dudo. 
+00:40:14 - Julian (@jantonielli01):
+yo el año pasado hice una por 30k ars en la que tardé más de 2 meses, todos tenemos malos tratos : p
+00:40:38 - Marcos Casagrande (@marcoscvp90):
+Y un freelance senior, debería cobrar lo mismo que una empresa. La mayoría de empresas terminan haciendo las cosas con todos juniors. 
+00:41:43 - Marcos Casagrande (@marcoscvp90):
+Si obvio, siempre hacés malos negocios hasta que aprendés. Ley de vida. Y con la inflación acá se desvirtúan fácil los precios y perdés noción. 
+06:00:03 - Maxi (@tholem98):
+<@U5ZT73Y0Y> sisi, lo habia entendido y quise complementar con lo mio
+06:00:19 - Maxi (@tholem98):
+Me exprese mal
+06:07:02 - Maxi (@tholem98):
+Entonces dicen que tengo que cobrar por el tiempo y no por la app en sí? Es que no se. Siento que el cliente no tiene la culpa de cuanto yo tarde y deberia cobrarle solo por la app y las funcionalidades que tenga
+
+Es que no me imagino cobrandole a un cliente, que generalmente son emprendedores jovenes que recien empiezan y quieren una app que vaya junto con su pagina web, a veces e-commerce, a veces solo un portal para que lo usuarios esten mas comodos con su smartphone, 200mil. Suelen tener un presupuesto ajustado y nunca llega a mas de 50mil
+09:15:58 - Marcos Casagrande (@marcoscvp90):
+Si no le cobras el tiempo, estás perdiendo plata. A no ser que seas junior y estés aprendiendo, no cobrar por tu tiempo que es lo más valioso que hay, es un error para mi.
+
+Que seniority tenés? Y cuanto te lleva hacer esa app que decís?. Si la APP además es un e-commerce, con toda su complejidad, venderla por menos de 10k usd es un error. Como mínimo deberías apuntar a sacar 3k usd por mes con cualquier APP que desarrolles. 
+10:25:56 - gillchristian (@gillchristian):
+Mi jefe expectations vs mi jefe will to invest in the team
+10:55:28 - Jorge Cano (@jorgeucano):
+Buenas a todos :slightly_smiling_face: … cambie el modem de lugar(que viene por defecto de telecentro) y estoy teniendo problemas de conexion en algunas partes de la casa…. y queria saber si alguno tenia un router de esos potentes de verdad, que permitan hacer 2 redes y soporte 5g etc etc etc
+10:58:27 - Mati Dastugue (@matiasdastugue):
+No tengo otro router, si un amplificador y repetidor de señal, y funciona bastante bien
+10:59:13 - Jorge Cano (@jorgeucano):
+creo que el problema, es que el router esta justo donde esta la mochila del baño (osea la pared donde va el agua xD)
+10:59:17 - Jorge Cano (@jorgeucano):
+y eso rompio todo
+10:59:22 - Jorge Cano (@jorgeucano):
+xD pero pasame cual tenes asi miro
+11:01:45 - Julian (@jantonielli01):
+yo en casa tenía un problema así
+11:01:55 - Julian (@jantonielli01):
+compre uno como estos, no el mismo modelo pero bueno <https://articulo.mercadolibre.com.ar/MLA-682654532-router-tp-link-rompemuros-450mbps-3-antenas-high-power-_JM?searchVariation=21195174877>
+11:01:57 - Martin Carrera (@mcarrera):
+alguno uso algo de este estilo? <https://articulo.mercadolibre.com.ar/MLA-719632755-extensor-de-senal-tp-link-tl-wpa4220-600mb-powerline-av600-_JM>
+11:02:06 - Martin Carrera (@mcarrera):
+me generan muchisima intriga
+11:02:07 - Julian (@jantonielli01):
+y con 2 repetidores y ahora tengo 100% en todos lados
+11:02:12 - Julian (@jantonielli01):
+pero soy un exagerado
+11:03:30 - Mati Dastugue (@matiasdastugue):
+Yo tengo este, se enchufa directamente a 220. <https://www.compumundo.com.ar/producto/extensor-de-senal-tp-link-wi-fi-tl-wa850re/28e35cd6d2?gclid=EAIaIQobChMIi-7auvyf4QIVFwiRCh3HzgJjEAYYAiABEgJJu_D_BwE>
+11:03:37 - Santiago Ruffino (@santi_0898):
+Y asi es como Jjant se murio por radiacion
+11:04:22 - Julian (@jantonielli01):
+es que lo peor es estar en el patio, en la pile
+11:04:25 - Julian (@jantonielli01):
+y no tener wifi
+11:04:29 - Julian (@jantonielli01):
+así que fuí all in
+11:04:44 - Maxi (@tholem98):
+Sisi, coincido en cobrar el tiempo pero mis clientes tardarian meses en juntar todo ese dinero. 
+
+Son personas asalariadas o con un pequeño negocio. Muchos no llegan a cobrar 50mil al mes y tienen sus gastos y deudas, no pueden permitirse pagar 200mil, o 400mil por un e-commerce que es lo que mas solicitan. 
+
+Por eso me parece muchisimo, por el tipo de clientes con el que me manejo.
+
+$120mil por mes por cada app que desarrolle me parece mucho y mas si eso me lo tiene que pagar una sola persona
+11:05:01 - Mati Dastugue (@matiasdastugue):
+Yo uso uno parecido, funciona perfecto.
+11:05:19 - Luis Alvarez (@luistensai):
+pregunta desde la ignorancia, el repetidor lo enchufás, lo configurás y listo? o tenés que meterle un cable ethernet?
+11:05:33 - Martin Carrera (@mcarrera):
+gracias por la data <@UDHUE780Y>
+11:06:17 - Mati Dastugue (@matiasdastugue):
+<@U09SB6K5H> lo podes confiugrar directamente, sino algunos le podes conectar un cable ethernet si queres bajarle un toque la latencia
+11:07:27 - Luis Alvarez (@luistensai):
+mantienen el mismo nombre de red? no entiendo bien cómo funciona jaja
+11:07:38 - Luis Alvarez (@luistensai):
+o es otra red conectada la a original?
+11:07:51 - Julian (@jantonielli01):
+Es la misma red
+11:08:04 - Luis Alvarez (@luistensai):
+digamos, no sería un nuevo AP
+11:08:15 - Julian (@jantonielli01):
+te conectas una vez y ni te enteras q tu celu usa un router o un repetidor
+11:08:20 - Luis Alvarez (@luistensai):
+nice
+11:08:39 - Marcos Casagrande (@marcoscvp90):
+Nadie dijo que no podés dar facilidades de pago. Si "confiás" en el cliente, te puede pagar en 2/3 pagos, así no se siente tanto. Y vos no tenés que pensar en quién lo va a pagar. Si pensás en eso, siempre vas a estar peleando para llegar a fin de mes. "Le estoy haciendo la APP gratis, porque no tiene plata". Lamentablemente a no ser que no necesites la guita, si no se paga lo que corresponde, el laburo no se tiene que tomar. Porque vos no sabés del todo la situación del otro, posiblemente tiene de sobra la guita para pagarlo, y te está negreando (la mayoría de veces).
+11:09:06 - Luis Alvarez (@luistensai):
+gracias por el dato! tendría que probarlo, tengo el módem en la oficina y el comedor/living está detrás de 2 paredes y pierde bastante señal, por ahí me venga bien ponerle uno
+11:09:50 - Luis Alvarez (@luistensai):
+la red de 5ghz propaga mucho menos jaja
+11:10:14 - Mati Dastugue (@matiasdastugue):
+Vos te seguis conectando a la misma red, no es un AP. Lo que hace el bicho es agarrar la señal que viene del router, la amplifica y la repite amplificada.
+11:12:19 - Maxi (@tholem98):
+Muchisimas gracias por el consejo
+11:15:30 - Leandro Echevarria (@echevarrialeandro):
+JAjajaj la vieja y confiable :disappointed:
+11:19:16 - Jorge Cano (@jorgeucano):
+genial
+11:19:23 - Jorge Cano (@jorgeucano):
+gracias a todos
+11:19:30 - Jorge Cano (@jorgeucano):
+voy a mirar xD el de la electricidad me llama la atencion
+11:19:38 - Jorge Cano (@jorgeucano):
+pero empeora la latencia o algo?
+11:19:39 - Martin Carrera (@mcarrera):
+<@U1XSDSM4H> despues conta por que solucion te fuiste
+11:19:42 - Jorge Cano (@jorgeucano):
+mas que nada para las llamadas
+11:19:54 - Jorge Cano (@jorgeucano):
+habia pensado en el de google que crea una “malla”
+11:20:23 - Jorge Cano (@jorgeucano):
+pero bueno, queria ver las opciones, el de la electricidad me llama mucho la atencion
+11:21:16 - Julian (@jantonielli01):
+y el de amazon crea una "azteca"?
+11:21:46 - Jorge Cano (@jorgeucano):
+haahha
+11:22:23 - Jorge Cano (@jorgeucano):
+```Un nuevo tipo de 
+tecnología Wi-Fi
+Google Wifi funciona de manera diferente que un enrutador tradicional. Establece puntos múltiples en toda su casa, creando una red de "malla" que ofrece una señal segura y consistente.
+Hasta ahora, zonas muertas.
+Los puntos WiFi funcionan en conjunto para crear un sistema conectado que le da una señal fuerte en toda su casa. 1
+Una señal consistentemente rápida.
+Debido a que cada punto WiFi es un enrutador con una señal de alta fidelidad, todos sus dispositivos obtienen una conexión rápida. 1
+Una sola red para todos sus dispositivos.```
+11:22:32 - Jorge Cano (@jorgeucano):
+esta traducido para el carajo
+11:22:32 - Jorge Cano (@jorgeucano):
+xD
+11:22:42 - Julian (@jantonielli01):
+Hasta ahora, zonas muertas.
+11:23:02 - Jorge Cano (@jorgeucano):
+<https://store.google.com/es/product/google_wifi>
+11:23:07 - Jorge Cano (@jorgeucano):
+segun esto, necesito 2
+11:23:37 - Nico (@nicokorn96):
+salen un ojo de la cara
+11:23:46 - Martín Valdés de León (@mvaldesdeleon):
+igual no hay nada de nuevo ahi
+11:23:53 - Martín Valdés de León (@mvaldesdeleon):
+si tenes un AP decente podes usarlo como repetidor
+11:24:02 - Martín Valdés de León (@mvaldesdeleon):
+configuras el mismo SSID y a otra cosa
+11:24:19 - Julian (@jantonielli01):
+seh, medio caro 120€
+11:24:29 - Nico (@nicokorn96):
+<https://www.amazon.com/Linksys-EA6500A-EA6500-Wireless-Router/dp/B00BV8C38W/ref=sr_1_fkmr0_1?keywords=linksys+killer&amp;qid=1553610258&amp;s=gateway&amp;sr=8-1-fkmr0>
+11:24:32 - Nico (@nicokorn96):
+yo tengo este
+11:24:37 - Nico (@nicokorn96):
+y anda bien
+11:25:09 - Jorge Cano (@jorgeucano):
+el tema es no perder la conexion en el medio
+11:25:22 - Jorge Cano (@jorgeucano):
+ahh okey
+11:25:24 - Jorge Cano (@jorgeucano):
+soy un pelotudo
+11:25:29 - Jorge Cano (@jorgeucano):
+estaba en el guest xD
+11:25:40 - Jorge Cano (@jorgeucano):
+en guest tengo 10 mb configurados
+11:26:08 - Jorge Cano (@jorgeucano):
+no estoy en 100mb en la “oficina” pero estoy a 76
+11:26:20 - Jorge Cano (@jorgeucano):
+igual quiero mejorar eso
+11:26:27 - Jorge Cano (@jorgeucano):
+voy a mirar un poco todo y les cuento
+11:27:11 - Nico (@nicokorn96):
+saca la guest directamente
+11:27:19 - Jorge Cano (@jorgeucano):
+ahi lo saque de mi compu…
+11:27:26 - Jorge Cano (@jorgeucano):
+nono, cuando viene gente (siempre piden wifi) asi que les paso ese
+11:27:27 - Nico (@nicokorn96):
+nah digo desactivala
+11:28:09 - Julian (@jantonielli01):
+Que gato 
+11:28:16 - Julian (@jantonielli01):
+El wifi pobre para tus invitados 
+11:28:25 - Jorge Cano (@jorgeucano):
+y para que quieren mas xD ??
+11:28:34 - a0viedo (@a0viedo):
+no se hizo rico regalando wifi...
+11:28:50 - Jorge Cano (@jorgeucano):
+mi wifi mis reglas (?)
+11:30:24 - Gustavo Machado (@machadogj):
+es mas de lo que tengo en mi casa :facepalm: (donde trabajo)
+11:30:59 - Jorge Cano (@jorgeucano):
+yo cuando me arme la “oficina” cuando me mude
+11:31:13 - Jorge Cano (@jorgeucano):
+lo primero que hice fue contratar la empresa que tenia mas velocidad disponible en casa xD
+11:40:44 - Santiago Ruffino (@santi_0898):
+Wow, no sabia que se podia hacer eso
+11:40:46 - Santiago Ruffino (@santi_0898):
+Un wifi para invitados esta buenisimo
+11:42:07 - Julian (@jantonielli01):
+Ratones cof cof
+11:45:01 - Santiago Ruffino (@santi_0898):
+Cuando sos social, odias que todos se conecten a tu wifi. En mi casa hay juntadas de 20 personas, y odio no poder vicear en paz porque hay gente revisando su puto instagram. Y niños ratas viendo gameplays toda la noche
+11:46:00 - Rodrigo Ali (@rodrigojali):
+Santi tiene una iglesia en su casa.
+11:46:06 - Julian (@jantonielli01):
+yo la que solía hacer era restringirles el bandwidth por mac address
+11:46:20 - Julian (@jantonielli01):
+entonces no quedás como gato por tener red para invitados
+11:46:31 - Julian (@jantonielli01):
+pero les anda a 20kbps y a vos a 100M
+11:47:04 - Martín Valdés de León (@mvaldesdeleon):
+20 personas en tu casa? que carajo
+11:47:14 - Martín Valdés de León (@mvaldesdeleon):
+quien te manda a tener tantos amigos che?
+11:47:15 - Martín Valdés de León (@mvaldesdeleon):
+2 tops
+11:47:48 - Santiago Ruffino (@santi_0898):
+"Wifi de Santi" "Wifi de Santi 2" . Los invitados usen la "Wifi de Santi 2" porque la otra la uso para hackear. Y pongo una terminal que se vaya escribiendo sola. Obviamente, fondo negro y letras verdes
+11:48:14 - Julian (@jantonielli01):
+<https://hackertyper.net/>
+11:48:15 - Rodrigo Ali (@rodrigojali):
+/gif matrix
+11:48:54 - Rodrigo Ali (@rodrigojali):
+Noooooooooo Juli esa pagina jajajaja
+11:49:02 - Julian (@jantonielli01):
+jajaj es genial
+11:49:28 - Santiago Ruffino (@santi_0898):
+Estuve esperando media hora que se "cargue". Que estupido
+11:50:24 - Julian (@jantonielli01):
+si apretas alt/option un par de veces, conseguis acceso :v
+11:50:25 - Rodrigo Ali (@rodrigojali):
+JAJAJAJA
+11:50:32 - Germán Burgardt (@germanandresburgardt):
+3k usd por mes  :heart_eyes: Como haces para cobrarle eso a alguien acá en arg jaj
+11:51:35 - Maxi (@tholem98):
+Sigo esperando a que se cargue. Estoy desde smartphone, modifica en algo la experiencia?
+11:51:43 - Julian (@jantonielli01):
+si
+11:51:45 - Julian (@jantonielli01):
+tenes q tipear
+12:05:08 - Marcos Casagrande (@marcoscvp90):
+No es que sos su empleado. Es un laburo puntual, un proyecto y listo. No paga cargas ni nada. A una empresa cuanto pensás que le pagaría por una APP?
+12:11:13 - Germán Burgardt (@germanandresburgardt):
+Si igual tenes razón en todo. Se ve que estamos acostumbrados a que nos negreen nomas, y es un proceso cambiar esa mentalidad
+12:52:55 - Wilfredo Alcala (@alcalawilfre):
+jajajaja muy buena
+12:59:00 - Martín Valdés de León (@mvaldesdeleon):
+"tipear"
+13:09:33 - Brian Hume (@brianh20):
+muy buena la pagina mal
+13:09:34 - Brian Hume (@brianh20):
+jajajaja
+13:09:41 - Brian Hume (@brianh20):
+me hizo acordar a swordfish
+15:58:46 - Wilfredo Alcala (@alcalawilfre):
+Vi que alguien habló hace poco sobre que iban a comenzar las meetups creo que de React y preguntaron sobre empresas que puedan alojar/sponsorear. Hablé acá donde trabajo y me dijeron que pueden alojar alguna.. Avísenme y les paso el contacto de RRHH
+16:00:30 - Agustin Mulet (@sugusin):
+Acá está el link con el formulario a llenar :slightly_smiling_face: <https://twitter.com/reactjs_ba/status/1109526498850021376>
+16:03:59 - Wilfredo Alcala (@alcalawilfre):
+Gracias Agus
+19:42:34 - eugenioclrc (@eugenioclrc):
+<https://eugenioclrc.github.io/10-millon-dollar-logo/>
+19:42:50 - eugenioclrc (@eugenioclrc):
+Hagan sus propios logos y ahorren 10 palos
+19:43:57 - ari (@arieldiaz):
+es joda??!!
+20:35:41 - eugenioclrc (@eugenioclrc):
+Vue.nisimo
+20:43:05 - Juan Scolari (@juanscolari):
+hay que dejar de robar por dos años
