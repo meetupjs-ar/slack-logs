@@ -1,0 +1,317 @@
+09:39:42 - Aldo Gabriel Rojas (@aldogrojas5):
+Acá pude solucionar lo que preguntaba ayer!
+
+<https://codepen.io/Aldogro/pen/XGQZKp>
+09:40:50 - Aldo Gabriel Rojas (@aldogrojas5):
+<https://codepen.io/Aldogro/pen/XGQZKp>
+<@U7MP5R4MC> acá lo pude resolver! Se le ponen azulitos los ojos al hacer click :grin:
+09:44:46 - Julian (@jantonielli01):
+Cual era tu pregunta?
+09:50:26 - Santiago Ruffino (@santi_0898):
+Esta era la pregunta
+10:25:48 - Maxi (@tholem98):
+<@UGW464VJS> es normal que si toco un ojo y luego el otro cambie el color de los dos? 
+10:37:03 - Sebastian Waisbrot (@seppo0010):
+buenas gente, estoy probando algo así nomás en node y llegué a un estado donde no entiendo cómo usar una variable
+
+```
+&gt; let imgByteArray = require('fs').readFileSync('front160.png')
+Error: ENOENT: no such file or directory, open 'front160.png'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+&gt; let imgByteArray = require('fs').readFileSync('front160.png')
+SyntaxError: Identifier 'imgByteArray' has already been declared
+&gt; imgByteArray = require('fs').readFileSync('front160.png')
+ReferenceError: imgByteArray is not defined
+```
+
+¿no puedo usar let porque ya fue declarada, y si le asigno algo no puedo porque no está definida? ¿perdí ese identificador para siempre?
+10:39:44 - a0viedo (@a0viedo):
+me parece que cuando quisiste usar let de nuevo entro en una TDZ
+10:39:50 - a0viedo (@a0viedo):
+perdida para siempre
+10:39:59 - Julian (@jantonielli01):
+parece q si
+10:40:11 - Sebastian Waisbrot (@seppo0010):
+se fue al cielo de los identifcadores
+10:41:10 - Sebastian Waisbrot (@seppo0010):
+ah, no conocía sobre TDZ
+10:41:15 - Sebastian Waisbrot (@seppo0010):
+gracias por la info
+10:51:35 - Aldo Gabriel Rojas (@aldogrojas5):
+Sisi! La idea es que sean ambos independientes!
+11:07:42 - Maxi (@tholem98):
+Claro, por eso, entonces cuando toco el otro, solo deberia cambiar el color del otro. Verdad? Y cuando lo hice cambió el color de los dos al mismo tiempo habiendo tocado solo 1
+09:39:42 - Aldo Gabriel Rojas (@aldogrojas5):
+Acá pude solucionar lo que preguntaba ayer!
+
+<https://codepen.io/Aldogro/pen/XGQZKp>
+09:40:50 - Aldo Gabriel Rojas (@aldogrojas5):
+<https://codepen.io/Aldogro/pen/XGQZKp>
+<@U7MP5R4MC> acá lo pude resolver! Se le ponen azulitos los ojos al hacer click :grin:
+09:44:46 - Julian (@jantonielli01):
+Cual era tu pregunta?
+09:50:26 - Santiago Ruffino (@santi_0898):
+Esta era la pregunta
+10:25:48 - Maxi (@tholem98):
+<@UGW464VJS> es normal que si toco un ojo y luego el otro cambie el color de los dos? 
+10:37:03 - Sebastian Waisbrot (@seppo0010):
+buenas gente, estoy probando algo así nomás en node y llegué a un estado donde no entiendo cómo usar una variable
+
+```
+&gt; let imgByteArray = require('fs').readFileSync('front160.png')
+Error: ENOENT: no such file or directory, open 'front160.png'
+    at Object.fs.openSync (fs.js:646:18)
+    at Object.fs.readFileSync (fs.js:551:33)
+&gt; let imgByteArray = require('fs').readFileSync('front160.png')
+SyntaxError: Identifier 'imgByteArray' has already been declared
+&gt; imgByteArray = require('fs').readFileSync('front160.png')
+ReferenceError: imgByteArray is not defined
+```
+
+¿no puedo usar let porque ya fue declarada, y si le asigno algo no puedo porque no está definida? ¿perdí ese identificador para siempre?
+10:39:44 - a0viedo (@a0viedo):
+me parece que cuando quisiste usar let de nuevo entro en una TDZ
+10:39:50 - a0viedo (@a0viedo):
+perdida para siempre
+10:39:59 - Julian (@jantonielli01):
+parece q si
+10:40:11 - Sebastian Waisbrot (@seppo0010):
+se fue al cielo de los identifcadores
+10:41:10 - Sebastian Waisbrot (@seppo0010):
+ah, no conocía sobre TDZ
+10:41:15 - Sebastian Waisbrot (@seppo0010):
+gracias por la info
+10:51:35 - Aldo Gabriel Rojas (@aldogrojas5):
+Sisi! La idea es que sean ambos independientes!
+11:07:42 - Maxi (@tholem98):
+Claro, por eso, entonces cuando toco el otro, solo deberia cambiar el color del otro. Verdad? Y cuando lo hice cambió el color de los dos al mismo tiempo habiendo tocado solo 1
+13:40:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola gente! Hay alguna función de js que funcione como parseInt() pero para transformar un numero en string? Probe con string() y con toString() y naranja...
+13:41:45 - Rodrigo Ali (@rodrigojali):
+`.toString()` deberia funcar, ¿podrías mostrar el codigo de lo que estás intentando hacer?
+13:41:46 - Gonzalo González Mora (@gonzalogm):
+String()?
+13:41:53 - Leandro Echevarria (@echevarrialeandro):
+`const stringified = ""+numero;`
+13:41:55 - Gonzalo González Mora (@gonzalogm):
+Onda String(var)
+13:42:00 - Leandro Echevarria (@echevarrialeandro):
+Rustico, pero si decis que las anteriores no te funcionaron
+13:42:31 - Rodrigo Ali (@rodrigojali):
+Jajajja
+13:42:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Puse
+var coordX = evento.x;
+string(coordX);
+
+13:43:06 - Gustavo Machado (@machadogj):
+proba con
+```
+&gt; var bar = 3;
+undefined
+&gt; bar.toString()
+'3'
+```
+13:43:08 - Martín Valdés de León (@mvaldesdeleon):
+`coordX.toString()`
+13:43:15 - Rodrigo Ali (@rodrigojali):
+Claro, como dice Martin
+13:43:21 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahhhh
+13:43:24 - Martín Valdés de León (@mvaldesdeleon):
+lo que si, tenes que entender el tema de la precision de los numeros en JS
+13:43:28 - Rodrigo Ali (@rodrigojali):
+si `evento.x` es un number, lo va a transformar
+13:43:39 - Martín Valdés de León (@mvaldesdeleon):
+numeros grandes te va a empezar a tirar notacion cientifica pq no le dan los bits para mas
+13:43:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Pensé q iba adentro :upside_down_face: 
+13:44:07 - Rodrigo Ali (@rodrigojali):
+No no, el `.toString()` viene en el Prototype de Number
+13:44:21 - Rodrigo Ali (@rodrigojali):
+Todo coso tipo Number "lo hereda"
+13:44:29 - Martín Valdés de León (@mvaldesdeleon):
+```
+&gt; Number.MAX_SAFE_INTEGER
+&gt; 9007199254740991
+&gt; Number.MAX_VALUE
+&gt; 1.7976931348623157e+308
+```
+13:44:39 - Martín Valdés de León (@mvaldesdeleon):
+tene en cuenta esos dos limites
+13:45:25 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi va... igual, son las coordenadas de la pantalla lo que quiero pasar
+13:45:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Para que me lo pase a una funcion q me guie un div que vaya cambiando de lugar a medida q se mueve el mouse
+13:46:31 - Martín Aimar (@maimar):
+y bueno, por ahí estás desarrollando para imax
+13:49:37 - Aldo Gabriel Rojas (@aldogrojas5):
+Jejeje
+13:50:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi probé una vez más con coordX.toString() y me lo sigue asignando como numero :pensive: 
+13:51:21 - Santiago Ruffino (@santi_0898):
+Tenes el codigo a mano?
+13:52:50 - Gonzalo González Mora (@gonzalogm):
+el toString() va al final, como hiciste con el coordY
+13:53:19 - Aldo Gabriel Rojas (@aldogrojas5):
+Pero me lo saca igual como nro... en el console.log me muestra sin "" el numero
+13:53:47 - Gonzalo González Mora (@gonzalogm):
+Perá, te falta una parte
+13:53:53 - Leandro Echevarria (@echevarrialeandro):
+const transformed = numero.toString();
+13:54:01 - Gonzalo González Mora (@gonzalogm):
+coordX = coordX.toString()
+13:54:12 - Santiago Ruffino (@santi_0898):
+Y me parece que no estas guardando en ningun lado el string
+13:54:16 - Aldo Gabriel Rojas (@aldogrojas5):
+Ah! Ahi pruebo eso
+13:54:19 - Leandro Echevarria (@echevarrialeandro):
+Tenes que asignar el resultado del toString a algo
+13:54:26 - Santiago Ruffino (@santi_0898):
+Eso. Estas conviertiendolo en String, pero no lo guardas nunca
+13:54:27 - Leandro Echevarria (@echevarrialeandro):
+Para que no quede "en el aire"
+13:54:34 - Gonzalo González Mora (@gonzalogm):
+coordX = evento.x.toString() más fácil
+13:55:02 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi va!!! Lo asigne a la misma variable
+13:55:18 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!!
+15:21:54 - Santiago Ruffino (@santi_0898):
+Pregunto aca porque necesito sacarlo rapidin. Como hago para que un contenedor Docker se inicie cada vez que reinicio la computadora?
+15:22:11 - Santiago Ruffino (@santi_0898):
+Entiendo que existe el `--restart` pero no lo entiendo
+15:23:43 - Mateo Silguero (@mfsilguero):
+no se si se puede hacer desde docker, pero cada OS tiene un archivo donde seteas los procesos que tiene que correr cuando arranca. al menos lo habia hecho en windows y linux
+15:27:15 - Martín Valdés de León (@mvaldesdeleon):
+<https://docs.docker.com/config/containers/start-containers-automatically/>
+15:27:18 - Martín Valdés de León (@mvaldesdeleon):
+A nivel docker existe eso, nunca lo use.
+15:27:33 - Martín Valdés de León (@mvaldesdeleon):
+Las veces que tuve que hacer lo que vos decis, fui por el camino de
+
+<https://docs.docker.com/config/containers/start-containers-automatically/#use-a-process-manager>
+15:27:54 - Martín Valdés de León (@mvaldesdeleon):
+Y lo configure (x ej, en Ubuntu) con systemd.
+15:31:09 - Santiago Ruffino (@santi_0898):
+Y que seria mejor? Configurar eso a nivel container?
+15:31:35 - Julian (@jantonielli01):
+yo lo haría como dice martin
+15:40:18 - Nico (@nicokorn96):
+podes hacer un .sh
+15:40:34 - Nico (@nicokorn96):
+que se ejecute automaticamente cuando inicia linux
+15:40:39 - Nico (@nicokorn96):
+y eso tiene el docker compose
+15:40:47 - Nico (@nicokorn96):
+o docker build
+15:40:55 - Santiago Ruffino (@santi_0898):
+docker run
+15:40:56 - Santiago Ruffino (@santi_0898):
+Jajaja
+15:41:01 - Nico (@nicokorn96):
+buen docker run
+15:41:09 - Nico (@nicokorn96):
+ulala senior frances
+15:41:32 - Santiago Ruffino (@santi_0898):
+señor* solta el teclado de Mac. jajaja
+15:41:39 - Nico (@nicokorn96):
+JAAJAAJ
+15:41:50 - Nico (@nicokorn96):
+depende si es el teclado nuevo o viejo de macbook
+15:42:28 - Nico (@nicokorn96):
+pero posta podes hacer un bash que contenga el docker run
+15:42:49 - Nico (@nicokorn96):
+o ... algo mas dificil es un cronjob que checkee el status del container si esta up
+15:43:00 - Nico (@nicokorn96):
+y si no esta up lo levantas
+17:04:41 - Gustavo Machado (@machadogj):
+buenas gente!
+tengo un servicio que levanto con `docker-compose -f .... up` (son una db y 4 servicios)
+como se podria deployar todo esto junto en una sola vm en AWS ? Hacer un Dockerfile con un CMD docker-compose me huele a burrada :thinking_face:
+17:06:11 - Martín Valdés de León (@mvaldesdeleon):
+Queres algo que puedas deployar a voluntad de manera facil en multiples ec2 instances?
+17:06:31 - Gustavo Machado (@machadogj):
+me conformo con que sea en una sola instancia de ec2
+17:06:41 - Martín Valdés de León (@mvaldesdeleon):
+Si es una sola instancia podes hacerlo a manopla.
+17:06:54 - Martín Valdés de León (@mvaldesdeleon):
+Creo que el Amazon Linux ya trae docker y demas.
+17:06:59 - Martín Valdés de León (@mvaldesdeleon):
+Levanta la instancia, ssh, su ruta.
+17:07:14 - Martín Valdés de León (@mvaldesdeleon):
+Si queres algo que puedas levantar automaticamente por cualquier lado, create tu propia AMI.
+17:07:17 - Martín Valdés de León (@mvaldesdeleon):
+Y lesto.
+17:07:49 - Martín Valdés de León (@mvaldesdeleon):
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html>
+17:07:53 - Martín Valdés de León (@mvaldesdeleon):
+Tambien podes chusmear User Data scripts.
+17:08:06 - Martín Valdés de León (@mvaldesdeleon):
+Como algo intermedio.
+17:08:34 - Martín Valdés de León (@mvaldesdeleon):
+Tendrias que instalar las dependencias que te falten (posiblemente docker-compose, ni idea si viene instalado), y arrancar tu stack
+17:09:48 - Gustavo Machado (@machadogj):
+pregunta… para deployar tengo que copiar algunos archivos con codigo fuente… habria algun problema en hacerlo con un Dockerfile?
+17:11:23 - Martín Valdés de León (@mvaldesdeleon):
+No entiendo mucho esa pregunta.
+17:11:28 - a0viedo (@a0viedo):
+tu dockerfile debería estar con tu binario o tu código fuente
+17:11:57 - a0viedo (@a0viedo):
+y tu docker compose debería linkear a tus dockerfiles
+17:12:08 - Martín Valdés de León (@mvaldesdeleon):
+Si tenes que subir archivos a la instancia, volvemos a lo mismo de antes... podes subirlos a mano via ssh, podes bajarlos de algun lado on launch via User Data, podes hardcodearlos en tu AMI.
+17:12:37 - Martín Valdés de León (@mvaldesdeleon):
+Via Docker solo correrias tu app.
+17:12:46 - Martín Valdés de León (@mvaldesdeleon):
+(esa db y los 4 servicios)
+17:13:10 - Martín Valdés de León (@mvaldesdeleon):
+O queres buildear todo en la instancia?
+17:13:24 - Gustavo Machado (@machadogj):
+(nunca use Docker mas alla de modificar algunos que herede…) tendria sentido hacer algo asi?
+```
+FROM amazonlinux
+
+RUN sudo mkdir -p /home/app
+WORKDIR /home/app
+COPY . /home/app
+
+# en mi `.` habria un `docker-compose.yml`
+RUN docker-compose -f ....yml up -d
+
+EXPOSE 3000
+```
+17:14:01 - Martín Valdés de León (@mvaldesdeleon):
+No le veo mucho el sentido a dockerizar docker-compose.
+17:14:15 - Gustavo Machado (@machadogj):
+seria para poder deployarlo con elastic beanstalk por ej
+17:14:21 - Martín Valdés de León (@mvaldesdeleon):
+Al margen de que correr docker inside docker requiere cuidado.
+17:15:02 - Martín Valdés de León (@mvaldesdeleon):
+Si tu idea es usar EB yo leeria por aca <https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker_ecs.html>
+17:15:13 - Martín Valdés de León (@mvaldesdeleon):
+A ver cual es la forma EB-friendly de correr una app multicontainer.
+17:16:20 - Gustavo Machado (@machadogj):
+:clap:
+17:16:28 - Gustavo Machado (@machadogj):
+creo que es eso lo que necesito
+17:16:33 - Gustavo Machado (@machadogj):
+&gt; Elastic Beanstalk automatically creates and configures several Amazon Elastic Container Service resources
+17:16:47 - Martín Valdés de León (@mvaldesdeleon):
+Pero ya estas mediendole mas complicaciones, vs a lo que para mi seria "hacer la facil"
+1. docker build en tu dev environment, y pushear a un ECR
+2. levantar una instancia ec2 a mano, con un service role que le permita acceder a ECR, subir el docker-compose.yml y correr el stack
+17:16:56 - Martín Valdés de León (@mvaldesdeleon):
+Obviamente, EB/ECS es mas robusto y automatizado.
+17:17:05 - Martín Valdés de León (@mvaldesdeleon):
+Simplemente te diria que evalues si vale la pena el esfuerzo.
+17:23:22 - Gustavo Machado (@machadogj):
+es una buena pregunta… en rigor, lo unico que necesito para deployar una vez corriendo el docker-compose es copiar archivos pelados de texto…
+17:24:22 - Gustavo Machado (@machadogj):
+lo voy a investigar un poco mas
+17:24:44 - Gustavo Machado (@machadogj):
+aca hay un cli que supuestamente traduce de docker-compose a Dockerrun.json:
+<https://github.com/micahhausler/container-transform>
+17:25:24 - Gustavo Machado (@machadogj):
+pense que por ahi habia un comando para crear una imagen de docker a partir de una de docker-compose
