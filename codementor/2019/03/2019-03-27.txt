@@ -1,0 +1,561 @@
+21:59:59 - Mariano Ramonda (@ing.inf.mariano):
+<@UGQTUDQSG> estas en CMX?
+22:00:22 - Marcos Casagrande (@marcoscvp90):
+Si si
+22:00:48 - Mariano Ramonda (@ing.inf.mariano):
+acabo de caer en la cuenta de que es para freelos de mas de 4k
+22:00:54 - Mariano Ramonda (@ing.inf.mariano):
+agarraste alguno ya?
+22:01:41 - Marcos Casagrande (@marcoscvp90):
+La verdad no hay tantos proyectos ahí, y como hace un tiempo dejaron de llegar notificaciones, lo tengo abandonado.
+22:02:04 - Marcos Casagrande (@marcoscvp90):
+Son proyectos que piden muchas skills en particular, y que estén juntas.
+22:02:17 - Mariano Ramonda (@ing.inf.mariano):
+claro, super picky
+22:02:21 - Mariano Ramonda (@ing.inf.mariano):
+gracias
+22:02:24 - Marcos Casagrande (@marcoscvp90):
+es muy picky, y yo soy muy picky.
+22:02:41 - Marcos Casagrande (@marcoscvp90):
+O sea, hay varios que podría tomarlos, pero tendría que hacer front end, y la verdad ni ganas de hacer front :joy:
+22:03:43 - Marcos Casagrande (@marcoscvp90):
+De todas formas, cuando te postulás, ahí te entrevista el cliente, etc. Está bueno si te gusta agarrar proyectos de mucho tiempo. Yo prefiero manejarme en cosas que duren 1-3 semanas.
+22:04:41 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/I9R7OSP.png>
+22:05:55 - Marcos Casagrande (@marcoscvp90):
+Yo en principio para freelance largos, tengo clientes por fuera, CM lo uso para sesiones y freelance chicos.
+22:07:14 - Marcos Casagrande (@marcoscvp90):
+Pero si te postulás a CMX, son unas 4 entrevistas antes de que te acepten, con 2 pruebitas.
+22:12:16 - Mariano Ramonda (@ing.inf.mariano):
+ya tengo un code challenge pendiente, por lo pronto voy a postular al CM standard, gracias de nuevo
+22:12:51 - Marcos Casagrande (@marcoscvp90):
+Si mal no recuerdo, si te "pre aprueban" para CMX, o sea para las entrevistas, ya deberías estar aceptado en CM normal.
+22:13:34 - Marcos Casagrande (@marcoscvp90):
+No sé si lo cambiaron y ahora hay 2 postulaciones diferentes.
+22:20:15 - Mariano Ramonda (@ing.inf.mariano):
+joya, igual me cierra el formato sessions y freelos cortos
+22:20:58 - Julian (@jantonielli01):
+Hay un par para lenguajes “raros”,
+22:21:09 - Julian (@jantonielli01):
+Ese niche parece rendir 
+22:21:24 - Julian (@jantonielli01):
+OCaml, Haskell, ahora agarre un freelo de F# 
+22:21:33 - Julian (@jantonielli01):
+Que btw no sabía, pero es parecido a todos
+22:22:26 - Mariano Ramonda (@ing.inf.mariano):
+makes sense
+22:22:40 - Mariano Ramonda (@ing.inf.mariano):
+si el deadline no es muy jugado imagino que se puede hacer eso tranquilamente
+22:22:49 - Mariano Ramonda (@ing.inf.mariano):
+lindo formato para aprender otras cosas
+22:24:08 - Marcos Casagrande (@marcoscvp90):
+Si, la verdad en esas cosas que no hay mucha gente, tenés tiempo para aprender.
+22:24:43 - Marcos Casagrande (@marcoscvp90):
+Y en esos lenguajes, si te ponés los tags <@U7MP5R4MC>, seguro que sos el único que sale en el listado, entonces ahí te pueden hablar directo.
+22:25:15 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/search/mentors?q=F%23>
+22:25:15 - Mariano Ramonda (@ing.inf.mariano):
+btw hay gente necesitando PHP?
+22:25:23 - Marcos Casagrande (@marcoscvp90):
+Está lleno, y de wordpress ni te cuento.
+22:25:25 - Julian (@jantonielli01):
+Si 
+22:25:34 - Julian (@jantonielli01):
+El mundo corre en php after all
+22:26:28 - Mariano Ramonda (@ing.inf.mariano):
+uff, yo no podria pero tengo unos dinos amigos que pueden estar interesados
+22:26:46 - Mariano Ramonda (@ing.inf.mariano):
+lo deje como un buen dia deje de fumar, para no volver
+22:27:28 - Martín Aimar (@maimar):
+Copado, yo los agarro 
+22:27:40 - Mariano Ramonda (@ing.inf.mariano):
+a nadie le debe interesar, pero yo empece con wordpress en 2007 :open_mouth: en mis inicios, era un asco, por lo que entiendo sigue siendolo, pero al menos debe haber docs y mucho stackoverflow al respecto
+22:28:02 - Martín Aimar (@maimar):
+Hay varios cms mejores 
+22:28:08 - Mariano Ramonda (@ing.inf.mariano):
+WP 200$/15 min
+22:28:09 - Marcos Casagrande (@marcoscvp90):
+Wordpress es un asco, sigue siendolo, pero está lleno de laburos de Wordpress.
+22:29:00 - Julian (@jantonielli01):
+De node tmb :v
+22:29:08 - Marcos Casagrande (@marcoscvp90):
+esos son míos.
+22:29:15 - Marcos Casagrande (@marcoscvp90):
+:joy:
+22:29:21 - Mariano Ramonda (@ing.inf.mariano):
+hay node copados o mucho api rest con express?
+22:30:20 - Marcos Casagrande (@marcoscvp90):
+De todo, he hecho muy copados, y después mucho de express sencillo.
+22:30:47 - Martín Aimar (@maimar):
+Cosas de css hay? 
+22:30:51 - Marcos Casagrande (@marcoscvp90):
+Ahora es medio "ilegal" pero lo que sale mucho es hacer exámenes y proyectos de facultad.
+22:31:08 - Marcos Casagrande (@marcoscvp90):
+Yo hice varios exámenes de Harvard y Stanford :joy:
+22:31:54 - Julian (@jantonielli01):
+Jajaj se yo agarre eso de f# 
+22:31:59 - Julian (@jantonielli01):
+Hacer un tp de la facu
+22:32:12 - Julian (@jantonielli01):
+Es un parser de c básicamente ajaj
+22:32:18 - Marcos Casagrande (@marcoscvp90):
+Si, hay bastantes.
+22:34:12 - Marcos Casagrande (@marcoscvp90):
+Todo lo que sea web, está lleno.
+22:34:52 - Martín Aimar (@maimar):
+Genial 
+23:14:12 - Gonza Gluzman (@gonza):
+Lpm, todavía no tuve tiempo de meterme con esto
+23:14:26 - Gonza Gluzman (@gonza):
+Todxs se están haciendo millos menos yo
+23:14:50 - Gonza Gluzman (@gonza):
+Me siento como Jorge el del pasacalles que le puso su viejo, llamándolo “fracasado”
+23:15:02 - Martín Aimar (@maimar):
+por ahí te tenés que dejar de joder gonza.
+23:15:20 - Gonza Gluzman (@gonza):
+jajajaja
+23:15:28 - Gonza Gluzman (@gonza):
+Puede ser un buen consejo
+09:39:51 - Marcos Casagrande (@marcoscvp90):
+Felicitaciones también a <@U28KZ0BR9> y <@UEP9Q4TUP> que los aceptaron en la plataforma :partyparrot:
+09:40:14 - Aldo Sorbara (@aldo1891):
+:dealwithitparrot: 
+09:45:55 - Gabriel Fusca (@gfuscax):
+Yo todavía no pude meterme a buscar sesiones. Recomiendan esperar a tener un par de mensajes de intercambio antes de apretar “I can help” e iniciar una session?
+09:56:20 - Marcos Casagrande (@marcoscvp90):
+el "I can help" lo dás al toque, apenas veas algo que podés resolver. Pero siempre mandá mensaje, sino no te va a ver, más que nada porque al no tener reputación no saldrías arriba de todo. El iniciar sesión es una vez por chat ambos están de acuerdo.
+09:58:04 - Ale Miralles (@amiralles):
+Gracias <@UGQTUDQSG>!!! Y nuevamente gracias por la mano que nos das a todos. Es genial cuando alguien encuentra algo que da resultado  y lo comparte con el resto (sobre todo cuando da resultados economicamente hablando). Yo en este momento estoy a full con varios proyectos, pero ni bien me libere voy a ver si puedo clavar mi primer sesion en la plataforma. (Y dejo de agarrar proyectos en ARS!!! ;P)
+10:06:01 - Marcos Casagrande (@marcoscvp90):
+De nada! Una vez arrancás no vas a querer tomar nada más en ARS.. y menos ahora que el verde sigue subiendo :money_with_wings:
+10:10:48 - Ale Miralles (@amiralles):
+Totalmente!!!!
+10:11:51 - Ale Miralles (@amiralles):
+Yo trabajo en relacion de dependencia y aparte agarre un proyecto a un anio con un cliente que tengo de toda la vida. Ahora lo tengo que terminar!!!
+10:11:54 - Ale Miralles (@amiralles):
+jajaja
+10:12:07 - Ale Miralles (@amiralles):
+Pero si, pinta muy bien.
+10:37:54 - Mariano Ramonda (@ing.inf.mariano):
+esta un poco buggy linkear linkedin, no?
+10:38:23 - Martín Aimar (@maimar):
+lo podés linkear cuando aplicás
+10:38:23 - Mariano Ramonda (@ing.inf.mariano):
+que paja me da llenar estos perfiles, voy a copy/paste linkedin
+10:38:31 - Mariano Ramonda (@ing.inf.mariano):
+ahh ahi va
+10:45:15 - Mariano Ramonda (@ing.inf.mariano):
+che anda bien feo esto... agrego un empleo, le doy Add y no guarda nada
+10:48:09 - Luis Alvarez (@luistensai):
+pregunta, para las sessions es necesario usar webcam?
+10:48:38 - Luis Alvarez (@luistensai):
+aún no me inscribí, quiero hacer un sitio personal primero y algún blogpost, pero estoy en camino :stuck_out_tongue:
+10:49:51 - Mariano Ramonda (@ing.inf.mariano):
+no hay caso, no puedo agregar empleos, alguien me da una mano? porque voy a ir principalmente con eso
+10:50:26 - Martín Aimar (@maimar):
+mm eso me anduvo bien a mi
+10:56:23 - Ale Miralles (@amiralles):
+Yo tampoco tuve dramas con eso...
+10:56:55 - Ale Miralles (@amiralles):
+Recien importe un post desde medium y fue bien tambien....
+11:01:22 - Julian (@jantonielli01):
+Si, está buggeadisima la página 
+11:03:38 - Martín Aimar (@maimar):
+deberían usar su plataforma para buscar gente que la arregle
+11:07:15 - Mariano Ramonda (@ing.inf.mariano):
+OMG, hay que tipear una por una las tags del empleo, si copias/pegas genera una gran tag que lo buggea -.-
+11:07:23 - Mariano Ramonda (@ing.inf.mariano):
+te deberian pagar por llenar este form
+11:10:19 - Martín Aimar (@maimar):
+esa Workana hacía eso
+11:25:00 - Julian (@jantonielli01):
+creo que esperabas demasiado, <@U86N8M2JK>
+11:25:09 - Mariano Ramonda (@ing.inf.mariano):
+creo que si
+11:25:11 - Mariano Ramonda (@ing.inf.mariano):
+otro bug
+11:25:30 - Mariano Ramonda (@ing.inf.mariano):
+si pones las fechas de inicio y fin el mismo mes, no agrega el empleo
+11:25:38 - Mariano Ramonda (@ing.inf.mariano):
+calcula mal el rango de fechas
+21:59:59 - Mariano Ramonda (@ing.inf.mariano):
+<@UGQTUDQSG> estas en CMX?
+22:00:22 - Marcos Casagrande (@marcoscvp90):
+Si si
+22:00:48 - Mariano Ramonda (@ing.inf.mariano):
+acabo de caer en la cuenta de que es para freelos de mas de 4k
+22:00:54 - Mariano Ramonda (@ing.inf.mariano):
+agarraste alguno ya?
+22:01:41 - Marcos Casagrande (@marcoscvp90):
+La verdad no hay tantos proyectos ahí, y como hace un tiempo dejaron de llegar notificaciones, lo tengo abandonado.
+22:02:04 - Marcos Casagrande (@marcoscvp90):
+Son proyectos que piden muchas skills en particular, y que estén juntas.
+22:02:17 - Mariano Ramonda (@ing.inf.mariano):
+claro, super picky
+22:02:21 - Mariano Ramonda (@ing.inf.mariano):
+gracias
+22:02:24 - Marcos Casagrande (@marcoscvp90):
+es muy picky, y yo soy muy picky.
+22:02:41 - Marcos Casagrande (@marcoscvp90):
+O sea, hay varios que podría tomarlos, pero tendría que hacer front end, y la verdad ni ganas de hacer front :joy:
+22:03:43 - Marcos Casagrande (@marcoscvp90):
+De todas formas, cuando te postulás, ahí te entrevista el cliente, etc. Está bueno si te gusta agarrar proyectos de mucho tiempo. Yo prefiero manejarme en cosas que duren 1-3 semanas.
+22:04:41 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/I9R7OSP.png>
+22:05:55 - Marcos Casagrande (@marcoscvp90):
+Yo en principio para freelance largos, tengo clientes por fuera, CM lo uso para sesiones y freelance chicos.
+22:07:14 - Marcos Casagrande (@marcoscvp90):
+Pero si te postulás a CMX, son unas 4 entrevistas antes de que te acepten, con 2 pruebitas.
+22:12:16 - Mariano Ramonda (@ing.inf.mariano):
+ya tengo un code challenge pendiente, por lo pronto voy a postular al CM standard, gracias de nuevo
+22:12:51 - Marcos Casagrande (@marcoscvp90):
+Si mal no recuerdo, si te "pre aprueban" para CMX, o sea para las entrevistas, ya deberías estar aceptado en CM normal.
+22:13:34 - Marcos Casagrande (@marcoscvp90):
+No sé si lo cambiaron y ahora hay 2 postulaciones diferentes.
+22:20:15 - Mariano Ramonda (@ing.inf.mariano):
+joya, igual me cierra el formato sessions y freelos cortos
+22:20:58 - Julian (@jantonielli01):
+Hay un par para lenguajes “raros”,
+22:21:09 - Julian (@jantonielli01):
+Ese niche parece rendir 
+22:21:24 - Julian (@jantonielli01):
+OCaml, Haskell, ahora agarre un freelo de F# 
+22:21:33 - Julian (@jantonielli01):
+Que btw no sabía, pero es parecido a todos
+22:22:26 - Mariano Ramonda (@ing.inf.mariano):
+makes sense
+22:22:40 - Mariano Ramonda (@ing.inf.mariano):
+si el deadline no es muy jugado imagino que se puede hacer eso tranquilamente
+22:22:49 - Mariano Ramonda (@ing.inf.mariano):
+lindo formato para aprender otras cosas
+22:24:08 - Marcos Casagrande (@marcoscvp90):
+Si, la verdad en esas cosas que no hay mucha gente, tenés tiempo para aprender.
+22:24:43 - Marcos Casagrande (@marcoscvp90):
+Y en esos lenguajes, si te ponés los tags <@U7MP5R4MC>, seguro que sos el único que sale en el listado, entonces ahí te pueden hablar directo.
+22:25:15 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/search/mentors?q=F%23>
+22:25:15 - Mariano Ramonda (@ing.inf.mariano):
+btw hay gente necesitando PHP?
+22:25:23 - Marcos Casagrande (@marcoscvp90):
+Está lleno, y de wordpress ni te cuento.
+22:25:25 - Julian (@jantonielli01):
+Si 
+22:25:34 - Julian (@jantonielli01):
+El mundo corre en php after all
+22:26:28 - Mariano Ramonda (@ing.inf.mariano):
+uff, yo no podria pero tengo unos dinos amigos que pueden estar interesados
+22:26:46 - Mariano Ramonda (@ing.inf.mariano):
+lo deje como un buen dia deje de fumar, para no volver
+22:27:28 - Martín Aimar (@maimar):
+Copado, yo los agarro 
+22:27:40 - Mariano Ramonda (@ing.inf.mariano):
+a nadie le debe interesar, pero yo empece con wordpress en 2007 :open_mouth: en mis inicios, era un asco, por lo que entiendo sigue siendolo, pero al menos debe haber docs y mucho stackoverflow al respecto
+22:28:02 - Martín Aimar (@maimar):
+Hay varios cms mejores 
+22:28:08 - Mariano Ramonda (@ing.inf.mariano):
+WP 200$/15 min
+22:28:09 - Marcos Casagrande (@marcoscvp90):
+Wordpress es un asco, sigue siendolo, pero está lleno de laburos de Wordpress.
+22:29:00 - Julian (@jantonielli01):
+De node tmb :v
+22:29:08 - Marcos Casagrande (@marcoscvp90):
+esos son míos.
+22:29:15 - Marcos Casagrande (@marcoscvp90):
+:joy:
+22:29:21 - Mariano Ramonda (@ing.inf.mariano):
+hay node copados o mucho api rest con express?
+22:30:20 - Marcos Casagrande (@marcoscvp90):
+De todo, he hecho muy copados, y después mucho de express sencillo.
+22:30:47 - Martín Aimar (@maimar):
+Cosas de css hay? 
+22:30:51 - Marcos Casagrande (@marcoscvp90):
+Ahora es medio "ilegal" pero lo que sale mucho es hacer exámenes y proyectos de facultad.
+22:31:08 - Marcos Casagrande (@marcoscvp90):
+Yo hice varios exámenes de Harvard y Stanford :joy:
+22:31:54 - Julian (@jantonielli01):
+Jajaj se yo agarre eso de f# 
+22:31:59 - Julian (@jantonielli01):
+Hacer un tp de la facu
+22:32:12 - Julian (@jantonielli01):
+Es un parser de c básicamente ajaj
+22:32:18 - Marcos Casagrande (@marcoscvp90):
+Si, hay bastantes.
+22:34:12 - Marcos Casagrande (@marcoscvp90):
+Todo lo que sea web, está lleno.
+22:34:52 - Martín Aimar (@maimar):
+Genial 
+23:14:12 - Gonza Gluzman (@gonza):
+Lpm, todavía no tuve tiempo de meterme con esto
+23:14:26 - Gonza Gluzman (@gonza):
+Todxs se están haciendo millos menos yo
+23:14:50 - Gonza Gluzman (@gonza):
+Me siento como Jorge el del pasacalles que le puso su viejo, llamándolo “fracasado”
+23:15:02 - Martín Aimar (@maimar):
+por ahí te tenés que dejar de joder gonza.
+23:15:20 - Gonza Gluzman (@gonza):
+jajajaja
+23:15:28 - Gonza Gluzman (@gonza):
+Puede ser un buen consejo
+09:39:51 - Marcos Casagrande (@marcoscvp90):
+Felicitaciones también a <@U28KZ0BR9> y <@UEP9Q4TUP> que los aceptaron en la plataforma :partyparrot:
+09:40:14 - Aldo Sorbara (@aldo1891):
+:dealwithitparrot: 
+09:45:55 - Gabriel Fusca (@gfuscax):
+Yo todavía no pude meterme a buscar sesiones. Recomiendan esperar a tener un par de mensajes de intercambio antes de apretar “I can help” e iniciar una session?
+09:56:20 - Marcos Casagrande (@marcoscvp90):
+el "I can help" lo dás al toque, apenas veas algo que podés resolver. Pero siempre mandá mensaje, sino no te va a ver, más que nada porque al no tener reputación no saldrías arriba de todo. El iniciar sesión es una vez por chat ambos están de acuerdo.
+09:58:04 - Ale Miralles (@amiralles):
+Gracias <@UGQTUDQSG>!!! Y nuevamente gracias por la mano que nos das a todos. Es genial cuando alguien encuentra algo que da resultado  y lo comparte con el resto (sobre todo cuando da resultados economicamente hablando). Yo en este momento estoy a full con varios proyectos, pero ni bien me libere voy a ver si puedo clavar mi primer sesion en la plataforma. (Y dejo de agarrar proyectos en ARS!!! ;P)
+10:06:01 - Marcos Casagrande (@marcoscvp90):
+De nada! Una vez arrancás no vas a querer tomar nada más en ARS.. y menos ahora que el verde sigue subiendo :money_with_wings:
+10:10:48 - Ale Miralles (@amiralles):
+Totalmente!!!!
+10:11:51 - Ale Miralles (@amiralles):
+Yo trabajo en relacion de dependencia y aparte agarre un proyecto a un anio con un cliente que tengo de toda la vida. Ahora lo tengo que terminar!!!
+10:11:54 - Ale Miralles (@amiralles):
+jajaja
+10:12:07 - Ale Miralles (@amiralles):
+Pero si, pinta muy bien.
+10:37:54 - Mariano Ramonda (@ing.inf.mariano):
+esta un poco buggy linkear linkedin, no?
+10:38:23 - Martín Aimar (@maimar):
+lo podés linkear cuando aplicás
+10:38:23 - Mariano Ramonda (@ing.inf.mariano):
+que paja me da llenar estos perfiles, voy a copy/paste linkedin
+10:38:31 - Mariano Ramonda (@ing.inf.mariano):
+ahh ahi va
+10:45:15 - Mariano Ramonda (@ing.inf.mariano):
+che anda bien feo esto... agrego un empleo, le doy Add y no guarda nada
+10:48:09 - Luis Alvarez (@luistensai):
+pregunta, para las sessions es necesario usar webcam?
+10:48:38 - Luis Alvarez (@luistensai):
+aún no me inscribí, quiero hacer un sitio personal primero y algún blogpost, pero estoy en camino :stuck_out_tongue:
+10:49:51 - Mariano Ramonda (@ing.inf.mariano):
+no hay caso, no puedo agregar empleos, alguien me da una mano? porque voy a ir principalmente con eso
+10:50:26 - Martín Aimar (@maimar):
+mm eso me anduvo bien a mi
+10:56:23 - Ale Miralles (@amiralles):
+Yo tampoco tuve dramas con eso...
+10:56:55 - Ale Miralles (@amiralles):
+Recien importe un post desde medium y fue bien tambien....
+11:01:22 - Julian (@jantonielli01):
+Si, está buggeadisima la página 
+11:03:38 - Martín Aimar (@maimar):
+deberían usar su plataforma para buscar gente que la arregle
+11:07:15 - Mariano Ramonda (@ing.inf.mariano):
+OMG, hay que tipear una por una las tags del empleo, si copias/pegas genera una gran tag que lo buggea -.-
+11:07:23 - Mariano Ramonda (@ing.inf.mariano):
+te deberian pagar por llenar este form
+11:10:19 - Martín Aimar (@maimar):
+esa Workana hacía eso
+11:25:00 - Julian (@jantonielli01):
+creo que esperabas demasiado, <@U86N8M2JK>
+11:25:09 - Mariano Ramonda (@ing.inf.mariano):
+creo que si
+11:25:11 - Mariano Ramonda (@ing.inf.mariano):
+otro bug
+11:25:30 - Mariano Ramonda (@ing.inf.mariano):
+si pones las fechas de inicio y fin el mismo mes, no agrega el empleo
+11:25:38 - Mariano Ramonda (@ing.inf.mariano):
+calcula mal el rango de fechas
+11:25:49 - Mariano Ramonda (@ing.inf.mariano):
+linkedin lo hace bien
+11:25:53 - Mariano Ramonda (@ing.inf.mariano):
+cargando lo mismo
+11:26:10 - Mariano Ramonda (@ing.inf.mariano):
+aplica _en casa de herrero..._
+12:05:58 - Mariano Ramonda (@ing.inf.mariano):
+bueno, al fin termine: <https://www.codementor.io/marianoramonda>
+voy con eso
+agradeceria si le pegan una mirada y me dicen que tal
+puse la foto mas ñoña que pude, creo que al final garpa
+12:07:18 - Martín Aimar (@maimar):
+self-taught es
+12:07:46 - Martín Aimar (@maimar):
+salvo que quieras realzar el hecho de que pensás por vos mismo (?)
+12:08:02 - Mariano Ramonda (@ing.inf.mariano):
+auto pensante
+12:08:16 - Mariano Ramonda (@ing.inf.mariano):
+typos, always
+12:08:22 - Martín Aimar (@maimar):
+el pasado de lead, es led
+12:08:28 - Marcos Casagrande (@marcoscvp90):
+El dólar a 44, corrida a Codementor habrá.
+12:09:26 - Marcos Casagrande (@marcoscvp90):
+From &lt;table&gt;'s times, thought floats.
+
+`through` floats
+12:09:42 - Gonzalo González Mora (@gonzalogm):
+jajaj mal
+12:10:58 - Gonzalo González Mora (@gonzalogm):
+44.70 :warning:
+12:12:09 - Leandro Echevarria (@echevarrialeandro):
+Holy shit
+12:12:33 - Mariano Ramonda (@ing.inf.mariano):
+jajaj hace rato no miro cotizaciones, es enfermante
+12:13:11 - Gonzalo González Mora (@gonzalogm):
+/gif counting dollars
+12:14:34 - Mariano Ramonda (@ing.inf.mariano):
+gracias por las correcciones
+12:14:39 - Mariano Ramonda (@ing.inf.mariano):
+aplico y vere
+12:15:24 - Mariano Ramonda (@ing.inf.mariano):
+es alguno de estos links del footer, cierto?
+12:16:18 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/mentor/apply>
+14:34:20 - Gabriel Fusca (@gfuscax):
+ahi pude meter mi primera session :partyparrot:
+14:34:30 - Leandro Echevarria (@echevarrialeandro):
+Vamooooo
+14:34:31 - Leandro Echevarria (@echevarrialeandro):
+:fastparrot:
+14:34:40 - Gabriel Fusca (@gfuscax):
+fue corta pero sirvio de practica
+14:34:58 - Martín Aimar (@maimar):
+plot twist: marcos tiene equity en codementor
+14:36:21 - Gabriel Fusca (@gfuscax):
+mientras nos pague mejor
+14:36:22 - Gabriel Fusca (@gfuscax):
+:slightly_smiling_face:
+14:36:23 - Julian (@jantonielli01):
+<@UDKLD5LF7> de que fue? 
+14:36:28 - Gabriel Fusca (@gfuscax):
+python 3.x
+14:36:28 - Julian (@jantonielli01):
+Congrats :confetti_ball: 
+14:36:46 - Gabriel Fusca (@gfuscax):
+integrar una api y manejar la estructura del resultado
+14:37:58 - Marcos Casagrande (@marcoscvp90):
+Juro solemnemente que no tengo. :joy: .
+14:38:32 - Leandro Echevarria (@echevarrialeandro):
+Ojalá tuviera, nace una secta
+14:38:34 - Leandro Echevarria (@echevarrialeandro):
+:stuck_out_tongue:
+14:40:10 - Gonza Espeche (@espeche.g):
+que onda los requests de la gente, piden armar cohetes o cada tanto salen cosas simples?
+14:40:16 - Luis Ventocilla (@lvsmix):
+me dan ganas de merteme
+14:40:22 - Luis Ventocilla (@lvsmix):
+y con un dolar a 44
+14:41:06 - Luis Ventocilla (@lvsmix):
+voy a ver si armo el perfil
+14:41:10 - Micael Robles (@micaelrobles):
+<@UBVFLQKNV> Ayer agarre uno de vue que me llevo 2 minutos
+14:41:18 - Micael Robles (@micaelrobles):
+y me pagaron los 15 porque es el minimo
+14:41:29 - Gonza Espeche (@espeche.g):
+uf chabon, que bien
+14:41:29 - Micael Robles (@micaelrobles):
+cada tanto salen cosas simples
+14:41:46 - Martín Aimar (@maimar):
+o sea que cobraste como 400 usd la hora?
+14:41:51 - Gonza Espeche (@espeche.g):
+de React &amp; React Native salen?
+14:42:13 - Micael Robles (@micaelrobles):
+si, vi de los 2
+14:42:46 - Gonza Espeche (@espeche.g):
+que bien muchachos, estan deployando mal
+14:44:54 - Gabriel Fusca (@gfuscax):
+che alguno tuvo problemas con el 2FA de google ?
+14:45:20 - Gabriel Fusca (@gfuscax):
+cualquier codigo de 6 digitos que me tira me dice invalido codemoentor
+14:47:02 - Marcos Casagrande (@marcoscvp90):
+a mi me funciona bien la verdad. Lo vinculaste bien?
+14:47:04 - Gabriel Fusca (@gfuscax):
+listo lo resetee
+14:47:07 - Gabriel Fusca (@gfuscax):
+y funciono
+14:52:35 - Gabriel Fusca (@gfuscax):
+de los 38 me quedaron 30, eso luego iria a payoneer, no se cuanto me sacará porque nunca lo usé pero ya veremos jee
+14:53:04 - Gabriel Fusca (@gfuscax):
+(20% comision como mencionaba marcos)
+14:56:44 - Julian (@jantonielli01):
+No te roba mucho Payoneer
+14:56:54 - Julian (@jantonielli01):
+Tenes la opción de PayPal tmb 
+14:56:54 - Marcos Casagrande (@marcoscvp90):
+Igual fijate, que si seguís metiendo, esos 30, irán aumentando, porque la comisión va bajando. Payoneer te saca 2 USD.
+14:56:58 - Julian (@jantonielli01):
+Que no se qué tal 
+14:57:11 - Marcos Casagrande (@marcoscvp90):
+Payoneer y TW es lo que menos comisión tiene, paypal te saca bastante más.
+14:57:18 - Julian (@jantonielli01):
+Alguno tiene exp en general con PayPal en arg? 
+14:57:43 - Julian (@jantonielli01):
+Se, yo vengo usando payoneer hace como un año, con la tarjeta te cagas de risa
+14:58:04 - Marcos Casagrande (@marcoscvp90):
+El calculo final de lo que ganás y la comisión, se calcula a la madrugada del lunes (Argentina), que es cuando termina la semana de CM.
+14:58:08 - Martín Aimar (@maimar):
+si yo uso paypal hace bastante
+14:58:36 - Martín Aimar (@maimar):
+5.4% + 30 centavos de dólar cada vez que te entra guita
+14:58:53 - Julian (@jantonielli01):
+Uh es Banda
+14:59:15 - Leandro Echevarria (@echevarrialeandro):
+<@UGQTUDQSG> Estoy seguro que en algun momento lo hablaste pero se me borró de la mente. Cómo blanqueás para con el estado acá los ingresos de CM?
+15:00:03 - Julian (@jantonielli01):
+Marcos uso evasión 
+15:00:06 - Julian (@jantonielli01):
+Es muy efectivo 
+15:00:11 - Martín Aimar (@maimar):
+es banda, creo que pagás el hecho de que es lo más fácil que hay
+15:00:34 - Marcos Casagrande (@marcoscvp90):
+Le facturás a Codementor <@U873ZQTEG>
+15:00:58 - Marcos Casagrande (@marcoscvp90):
+Ellos te mandan toda la información necesaria para emitirles la factura.
+15:01:36 - Marcos Casagrande (@marcoscvp90):
+En definitiva el que te paga a vos es CM, le facturás a el, como si fuese cualquier otro cliente extranjero.
+15:01:40 - Leandro Echevarria (@echevarrialeandro):
+Ahh excelente
+17:14:55 - Marcos Casagrande (@marcoscvp90):
+Ahí salió un proyecto porno en CMX
+17:15:00 - Marcos Casagrande (@marcoscvp90):
+*NOTE - This project is connected to the Adult Entertainment industry. Please don't apply if adult content is personally offensive.*
+17:15:30 - Martín Aimar (@maimar):
+cuánto hay? si es buena guita yo no tendría problema
+17:16:11 - Marcos Casagrande (@marcoscvp90):
+En CMX vos mandás lo que querés cobrar por hora, y CM le manda tu hourly rate + su comision al cliente.
+17:16:23 - Martín Aimar (@maimar):
+hay algún tipo de estimación?
+17:16:25 - Julian (@jantonielli01):
+Re piola 
+17:16:27 - Julian (@jantonielli01):
+Yo lo haría 
+17:16:33 - Marcos Casagrande (@marcoscvp90):
+Senior PHP/ Full stack expert wanted *Full-time long term
+17:16:36 - Julian (@jantonielli01):
+De que tengo que actuar 
+17:16:37 - Julian (@jantonielli01):
+Arre
+17:16:46 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/uFundJ3.png>
+17:18:26 - Marcos Casagrande (@marcoscvp90):
+Ah, mirá esto <@UC1QYJACE> cuando te postulás te tira cuanto es el deseable
+17:18:27 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/3NdUP8h.png>
+17:18:27 - Martín Aimar (@maimar):
+ah bueno aclara que es softcore
+17:18:47 - Martín Aimar (@maimar):
+ahh eso está piola
+17:19:08 - Martín Aimar (@maimar):
+se supone que ese tiene un rate bajo porque es trabajo más estable?
+17:20:48 - Marcos Casagrande (@marcoscvp90):
+Depende del cliente, se ve que esté tiene un presupuesto más limitado, pero son 40 horas semanales, aśi que serían 6400 USD fijos por mes.
+17:22:23 - Martín Aimar (@maimar):
+no si “bajo” es un decir no más
+17:27:19 - Marcos Casagrande (@marcoscvp90):
+Si obvio jaja. Pero generalmente en CMX se puede cobrar sin problemas 60-100, pero como siempre, depende del cliente.
+20:11:18 - Julian (@jantonielli01):
+parece haber bastante demanda de vue con poca oferta
+20:29:04 - Martín Aimar (@maimar):
+Me mostrás qué tipo de cosas piden? 
+20:32:00 - Julian (@jantonielli01):
+bueno encontre solo este ahora
+20:32:05 - Julian (@jantonielli01):
+parece q ya tomaron los otros
+20:35:54 - Martín Aimar (@maimar):
+Super
+20:46:44 - Micael Robles (@micaelrobles):
+Ah a ese lo ayude por chat
+20:46:51 - Micael Robles (@micaelrobles):
+Xd
