@@ -1,0 +1,356 @@
+22:51:02 - Alan Iberra (@aeiberra):
+Yo conosco a un amigo que se fue al CitiBank de Miami y abrio su cuenta solo con el pasaporte. Nada de domicilio EEUU ni cosas raras.
+12:16:14 - Lucas Accastello (@accastellolucas):
+<@UHD2QE6LF>
+13:34:16 - Micael Robles (@micaelrobles):
+Recomiendan algun banco? Laburo remoto y el galicia me cobra 120 usd por la transferencia y tambien me va a cobrar mantenimiento si no gasto x cantidad de plata en los proximos 3 meses
+13:37:42 - Santiago Ruffino (@santi_0898):
+Que pregunta...
+13:37:44 - Santiago Ruffino (@santi_0898):
+<https://docs.google.com/presentation/d/1F8hlK2MO9pJsghMji0hZCMzHw7ZXw3AMqT_zPstAD5c/edit#slide=id.p>
+13:38:03 - Santiago Ruffino (@santi_0898):
+Es una tema MUY hablado. En una de esas, hicieron estas capturas y las pudieron en Slides. Leete eso a ver si te queda un poco mas claro, y cualquier cosa pregunta
+13:39:28 - Mariano Ramonda (@ing.inf.mariano):
+por lejos el mas barato en Argentina para esa movida es el Nacion
+13:40:08 - Mariano Ramonda (@ing.inf.mariano):
+U$D25/transf + un muy pequeño % en pesos, y U$D10/mes de mantenimiento
+13:41:30 - Micael Robles (@micaelrobles):
+Gracias, en un momento habia leido ese chat pero no me habia quedado claro el tema de que banco usar acá
+13:41:47 - Micael Robles (@micaelrobles):
+Me sirve mucho esa data <@U86N8M2JK>, gracias!
+13:43:58 - Santiago Ruffino (@santi_0898):
+Y tienen la mejor cotizacion del dolar
+13:44:15 - Santiago Ruffino (@santi_0898):
+Ahora, armate de paciencia si tenes que ir a hacer algo. Jajaja
+13:45:55 - Mariano Ramonda (@ing.inf.mariano):
+el tramite inicial requiere que vayas un par de veces, pero despues solo a llevar unos papeles firmados a comercio exterior por cada transferencia (podes mandar un cadete)
+13:47:00 - Micael Robles (@micaelrobles):
+eso de todos los meses se hace solo con el Nación?
+13:47:33 - Santiago Ruffino (@santi_0898):
+Y Bitex que onda?
+13:50:20 - Mariano Ramonda (@ing.inf.mariano):
+no entendi lo de todos los meses
+13:50:28 - Mariano Ramonda (@ing.inf.mariano):
+si recibis una transferencia por mes?
+13:52:15 - Micael Robles (@micaelrobles):
+claro, mala mia
+13:52:37 - Micael Robles (@micaelrobles):
+si recibiera una transferencia todos los meses, tengo que mandar papeles todos los meses pero solo en el Nación?
+13:52:57 - Mariano Ramonda (@ing.inf.mariano):
+no se otros bancos, pero no creo que no haya que hacer nada
+13:54:18 - Mariano Ramonda (@ing.inf.mariano):
+es asi, cuando te llega una transferencia, la gente de comercio exterior te deposita los dolares en la cuenta, te manda un email con dos formularios, uno es siempre igual, osea que lo completas la primera vez y despues siempre usas ese, al otro necesitas actualizarle la fecha, y algunos otros datos, muy pocos, entre los cuales esta el nro de factura electronica correspondiente a esa transaccion
+13:54:50 - Mariano Ramonda (@ing.inf.mariano):
+entonces al banco hay que hacerle llegar esos dos forms y la factura electronica impresos, supuestamente en un plazo de 5 dias habiles, aunque siempre me paso
+13:56:14 - Martin Carrera (@mcarrera):
+lo ideal seria que evites mandarte la guita por swift tradicional, y uses algo onda bitex que te termina haciendo una transferencia local cobrandote un %
+13:57:20 - Gonzalo González Mora (@gonzalogm):
+Yo tengo una amiga que averiguo por eso y se abrió en el Banco Santa Fe pq era el que menos comisión tenía me dijo, pero ni idea
+13:57:23 - Gonzalo González Mora (@gonzalogm):
+si es mejor que el Nacion
+14:02:21 - Micael Robles (@micaelrobles):
+verga, que complicado
+14:06:32 - Marcos Casagrande (@marcoscvp90):
+Podés usar directamente TW, y te ahorrás esos trámites sino.
+14:06:57 - Marcos Casagrande (@marcoscvp90):
+El cliente tendría que pagarte por ahí, pero en muchos casos lo prefieren.
+14:16:04 - Mariano Ramonda (@ing.inf.mariano):
+o sea vos queres hacerlo en blanco o en negro? empecemos por el principio
+14:19:18 - Marcos Casagrande (@marcoscvp90):
+Ojo, TW != Negro
+14:19:20 - Micael Robles (@micaelrobles):
+lo mas posible en blanco
+14:19:27 - Micael Robles (@micaelrobles):
+pero en TW me mandarian pesos no?
+14:19:34 - Micael Robles (@micaelrobles):
+y yo quiero ahorrarlo
+14:19:44 - Marcos Casagrande (@marcoscvp90):
+Y podés convertirlo a USD de nuevo.
+14:20:28 - Marcos Casagrande (@marcoscvp90):
+Pensá que como en TW vendiste USD a 44 por ejemplo, después comprás de nuevo a 44.4 ponele, perdés un poco, pero es menor a la comision del banco.
+14:20:54 - Marcos Casagrande (@marcoscvp90):
+y sino, lo metés en algún fondo de inversión, o plazo fijo para ahorrarlo en pesos...
+14:21:07 - Micael Robles (@micaelrobles):
+ahhh jodeme que lo vendes a 44
+14:21:11 - Micael Robles (@micaelrobles):
+eso cambia todo
+14:21:12 - Micael Robles (@micaelrobles):
+ajajaj
+14:21:30 - Marcos Casagrande (@marcoscvp90):
+claro, en TW es la cotización que dice google, que es 2$ mayor a la del banco.
+14:22:07 - Marcos Casagrande (@marcoscvp90):
+Si vos vendés ahora 1000 USD, TW te da 44k, el Banco te da 43k
+14:23:07 - Marcos Casagrande (@marcoscvp90):
+Vas a perder un poco, pero no tanto si volvés a convertir a USD. Obviamente lo ideal es que entren USD directo, pero USD directo significa transferencia internacional, el banco te agarra guita.
+14:23:26 - Nicolás Orchow (@nicoorchow):
+[disclaimer: laburo en bitex] Tal como dice <@U1H94SP4J> te cobramos 1% sobre la transacción (puede que el banco cobre el 0,25 o 0,6 de impuesto al débito y crédito) y pagamos con una transferencia bancaria local. La guita se recibe en el día.
+14:23:39 - Marcos Casagrande (@marcoscvp90):
+Igual calculo que pesos para vivir necesitás, así que eventualmente algo a pesos covnertirás, te entran más pesos si lo hacés desde TW, que si te entran USD al banco y convertís en el banco.
+14:26:29 - Micael Robles (@micaelrobles):
+buenisimo marcos
+14:29:07 - Mariano Ramonda (@ing.inf.mariano):
+y en que momento blanqueas con TW?
+14:29:29 - Marcos Casagrande (@marcoscvp90):
+cuando hago la factura.
+14:34:30 - Mariano Ramonda (@ing.inf.mariano):
+a mi no me esta cerrando, miren
+14:35:23 - Mariano Ramonda (@ing.inf.mariano):
+si son 3k
+14:36:33 - Marcos Casagrande (@marcoscvp90):
+ahí hay algo raro, a mi me da: 43.304
+14:36:47 - Marcos Casagrande (@marcoscvp90):
+Mi comisión es 11.76, no 21.13
+14:37:02 - Marcos Casagrande (@marcoscvp90):
+Me parece porque lo estás viendo desde el lado de envíar, y no el de convertir tus divisas existentes.
+14:38:51 - Mariano Ramonda (@ing.inf.mariano):
+cuanto te llega si te envian 3k? y cul es la comision?
+14:39:24 - Marcos Casagrande (@marcoscvp90):
+A mi me llega 3k, porque no me la envían a través de TW, sino a los datos bancarios de TW.
+14:39:51 - Marcos Casagrande (@marcoscvp90):
+y la comisión creo que es un 1.2% para convertir divisas.
+14:44:37 - Mariano Ramonda (@ing.inf.mariano):
+voy a tener que crear una cuenta para ver esos numeros
+14:44:48 - Mariano Ramonda (@ing.inf.mariano):
+la creaste como persona o autonomo/empresa?
+14:47:12 - Marcos Casagrande (@marcoscvp90):
+como persona.
+14:49:54 - Mariano Ramonda (@ing.inf.mariano):
+joya
+14:50:03 - Mariano Ramonda (@ing.inf.mariano):
+perdon que pregunte tanto, pero es tan poco claro esto
+14:55:02 - Marcos Casagrande (@marcoscvp90):
+O sea, depende el banco igual, pero más o menos envíando 1000 USD desde TW pasandolo por pesos a tu banco, y convirtiendo pesos a USD, te quedan entre 955-965 USD.
+
+Haciendo transferencia internacional de 1000 USD directo al banco, suelen quedar menos que el número de TW, acá dependerá del banco, en el Galicia es bastante menos a 960 USD.
+
+Pero el tema es, si vos no querés los USD porque necesitás los pesos, TW conviene mil veces más.
+15:13:45 - Nico (@nicokorn96):
+ay soy famoso
+17:03:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola! Les quería consultar si saben qué tipos de conocimientos y experiencia tendría q tener para q una empresa me contrate como trainee/minion/esclavo para hacer frontend?
+17:04:22 - Sergio Daniel Xalambrí (@sergiodxa):
+HTML, CSS (básico) y JS suficiente para hacer cosas con el DOM
+17:04:31 - Gonza Espeche (@espeche.g):
+HTML y CSS de cajón. JS como dice Sergio, y si tenes algo hecho (lo que sea), mostrarlo que suma. Con este combo ya sos un candidato firme.
+17:15:29 - Rodrigo Ali (@rodrigojali):
+Yo diría lo básico de esas 3. Con entender las corner stones de cada una ya está.
+17:15:51 - Rodrigo Ali (@rodrigojali):
+Porque no creo que alguien venga y te pregunte o te pida que expliques cómo son las categorías de las tags de HTML
+17:16:12 - Rodrigo Ali (@rodrigojali):
+O un edge case de CSS o te rompa el ogt con una cadena de promesas y qué se resuelve al final
+17:17:42 - Julian (@jantonielli01):
+Yo creo que menos que eso 
+17:17:50 - Rodrigo Ali (@rodrigojali):
+Con entender qué es HTML, qué es CSS, y por qué se usa JavaScript con esas otras 2 como main language; y que sepas pintar cosas en una UI y más o menos interactuar con ellas, yo te contrataría como Trainee.
+
+Con que leas lo base de JavaScript y de jQuery para entender DOM manipulation y más o menos cómo se hace abajo del capot, ya está
+17:17:59 - Julian (@jantonielli01):
+Con saber un solo lenguaje de programación deberías estar 
+17:21:20 - Dario Fernando (@someunderscore_):
+Papeleo de comercio exterior? Desde el 2016 creo que ya no es necesario presentar ningún formulario te tienen que depositar y ya .. en el Santander no me piden nada
+17:45:07 - Rodrigo Ali (@rodrigojali):
+Y bueno, si sabes HTML+CSS+JS estás sabiendo un solo lenguaje de programación :stuck_out_tongue:
+17:45:43 - Martín Aimar (@maimar):
+uf el forobardo está a pleno
+17:45:50 - Johanna (@johannasabsantos):
+uOoO
+17:46:23 - Rodrigo Ali (@rodrigojali):
+Agregado emoji para que no se malinterprete :smile:
+17:46:48 - Julian (@jantonielli01):
+Pero eso no es opinión 
+17:46:57 - Julian (@jantonielli01):
+=&gt; no es forobardo
+17:47:22 - Rodrigo Ali (@rodrigojali):
+Es esta gente que quiere ver sangre.
+17:47:28 - Juan Scolari (@juanscolari):
+Aprender las 3 cosas es una banda
+17:47:57 - Rodrigo Ali (@rodrigojali):
+Seh, es mucho, pero es muy rewarding. En mi caso particular, fueron unas ~500 horas que hice en ~3 meses
+17:48:22 - Juan Scolari (@juanscolari):
+totalmente
+17:48:23 - Julian (@jantonielli01):
+Para mí tenés que mandar cv y despues te ponés a aprender
+17:48:24 - Rodrigo Ali (@rodrigojali):
+Mientras laburaba full time para un laburo de mierda, de 8:30 a 18:00 de L a V. Terminé quemado después de ese lapso, pero logré lo que quería.
+17:48:35 - Julian (@jantonielli01):
+O siempre en paralelo mejor dicho
+20:30:56 - Hernán B (@hernimen):
+fijate que en "mobile" aparece el burguer menu y no abre
+22:51:02 - Alan Iberra (@aeiberra):
+Yo conosco a un amigo que se fue al CitiBank de Miami y abrio su cuenta solo con el pasaporte. Nada de domicilio EEUU ni cosas raras.
+12:16:14 - Lucas Accastello (@accastellolucas):
+<@UHD2QE6LF>
+13:34:16 - Micael Robles (@micaelrobles):
+Recomiendan algun banco? Laburo remoto y el galicia me cobra 120 usd por la transferencia y tambien me va a cobrar mantenimiento si no gasto x cantidad de plata en los proximos 3 meses
+13:37:42 - Santiago Ruffino (@santi_0898):
+Que pregunta...
+13:37:44 - Santiago Ruffino (@santi_0898):
+<https://docs.google.com/presentation/d/1F8hlK2MO9pJsghMji0hZCMzHw7ZXw3AMqT_zPstAD5c/edit#slide=id.p>
+13:38:03 - Santiago Ruffino (@santi_0898):
+Es una tema MUY hablado. En una de esas, hicieron estas capturas y las pudieron en Slides. Leete eso a ver si te queda un poco mas claro, y cualquier cosa pregunta
+13:39:28 - Mariano Ramonda (@ing.inf.mariano):
+por lejos el mas barato en Argentina para esa movida es el Nacion
+13:40:08 - Mariano Ramonda (@ing.inf.mariano):
+U$D25/transf + un muy pequeño % en pesos, y U$D10/mes de mantenimiento
+13:41:30 - Micael Robles (@micaelrobles):
+Gracias, en un momento habia leido ese chat pero no me habia quedado claro el tema de que banco usar acá
+13:41:47 - Micael Robles (@micaelrobles):
+Me sirve mucho esa data <@U86N8M2JK>, gracias!
+13:43:58 - Santiago Ruffino (@santi_0898):
+Y tienen la mejor cotizacion del dolar
+13:44:15 - Santiago Ruffino (@santi_0898):
+Ahora, armate de paciencia si tenes que ir a hacer algo. Jajaja
+13:45:55 - Mariano Ramonda (@ing.inf.mariano):
+el tramite inicial requiere que vayas un par de veces, pero despues solo a llevar unos papeles firmados a comercio exterior por cada transferencia (podes mandar un cadete)
+13:47:00 - Micael Robles (@micaelrobles):
+eso de todos los meses se hace solo con el Nación?
+13:47:33 - Santiago Ruffino (@santi_0898):
+Y Bitex que onda?
+13:50:20 - Mariano Ramonda (@ing.inf.mariano):
+no entendi lo de todos los meses
+13:50:28 - Mariano Ramonda (@ing.inf.mariano):
+si recibis una transferencia por mes?
+13:52:15 - Micael Robles (@micaelrobles):
+claro, mala mia
+13:52:37 - Micael Robles (@micaelrobles):
+si recibiera una transferencia todos los meses, tengo que mandar papeles todos los meses pero solo en el Nación?
+13:52:57 - Mariano Ramonda (@ing.inf.mariano):
+no se otros bancos, pero no creo que no haya que hacer nada
+13:54:18 - Mariano Ramonda (@ing.inf.mariano):
+es asi, cuando te llega una transferencia, la gente de comercio exterior te deposita los dolares en la cuenta, te manda un email con dos formularios, uno es siempre igual, osea que lo completas la primera vez y despues siempre usas ese, al otro necesitas actualizarle la fecha, y algunos otros datos, muy pocos, entre los cuales esta el nro de factura electronica correspondiente a esa transaccion
+13:54:50 - Mariano Ramonda (@ing.inf.mariano):
+entonces al banco hay que hacerle llegar esos dos forms y la factura electronica impresos, supuestamente en un plazo de 5 dias habiles, aunque siempre me paso
+13:56:14 - Martin Carrera (@mcarrera):
+lo ideal seria que evites mandarte la guita por swift tradicional, y uses algo onda bitex que te termina haciendo una transferencia local cobrandote un %
+13:57:20 - Gonzalo González Mora (@gonzalogm):
+Yo tengo una amiga que averiguo por eso y se abrió en el Banco Santa Fe pq era el que menos comisión tenía me dijo, pero ni idea
+13:57:23 - Gonzalo González Mora (@gonzalogm):
+si es mejor que el Nacion
+14:02:21 - Micael Robles (@micaelrobles):
+verga, que complicado
+14:06:32 - Marcos Casagrande (@marcoscvp90):
+Podés usar directamente TW, y te ahorrás esos trámites sino.
+14:06:57 - Marcos Casagrande (@marcoscvp90):
+El cliente tendría que pagarte por ahí, pero en muchos casos lo prefieren.
+14:16:04 - Mariano Ramonda (@ing.inf.mariano):
+o sea vos queres hacerlo en blanco o en negro? empecemos por el principio
+14:19:18 - Marcos Casagrande (@marcoscvp90):
+Ojo, TW != Negro
+14:19:20 - Micael Robles (@micaelrobles):
+lo mas posible en blanco
+14:19:27 - Micael Robles (@micaelrobles):
+pero en TW me mandarian pesos no?
+14:19:34 - Micael Robles (@micaelrobles):
+y yo quiero ahorrarlo
+14:19:44 - Marcos Casagrande (@marcoscvp90):
+Y podés convertirlo a USD de nuevo.
+14:20:28 - Marcos Casagrande (@marcoscvp90):
+Pensá que como en TW vendiste USD a 44 por ejemplo, después comprás de nuevo a 44.4 ponele, perdés un poco, pero es menor a la comision del banco.
+14:20:54 - Marcos Casagrande (@marcoscvp90):
+y sino, lo metés en algún fondo de inversión, o plazo fijo para ahorrarlo en pesos...
+14:21:07 - Micael Robles (@micaelrobles):
+ahhh jodeme que lo vendes a 44
+14:21:11 - Micael Robles (@micaelrobles):
+eso cambia todo
+14:21:12 - Micael Robles (@micaelrobles):
+ajajaj
+14:21:30 - Marcos Casagrande (@marcoscvp90):
+claro, en TW es la cotización que dice google, que es 2$ mayor a la del banco.
+14:22:07 - Marcos Casagrande (@marcoscvp90):
+Si vos vendés ahora 1000 USD, TW te da 44k, el Banco te da 43k
+14:23:07 - Marcos Casagrande (@marcoscvp90):
+Vas a perder un poco, pero no tanto si volvés a convertir a USD. Obviamente lo ideal es que entren USD directo, pero USD directo significa transferencia internacional, el banco te agarra guita.
+14:23:26 - Nicolás Orchow (@nicoorchow):
+[disclaimer: laburo en bitex] Tal como dice <@U1H94SP4J> te cobramos 1% sobre la transacción (puede que el banco cobre el 0,25 o 0,6 de impuesto al débito y crédito) y pagamos con una transferencia bancaria local. La guita se recibe en el día.
+14:23:39 - Marcos Casagrande (@marcoscvp90):
+Igual calculo que pesos para vivir necesitás, así que eventualmente algo a pesos covnertirás, te entran más pesos si lo hacés desde TW, que si te entran USD al banco y convertís en el banco.
+14:26:29 - Micael Robles (@micaelrobles):
+buenisimo marcos
+14:29:07 - Mariano Ramonda (@ing.inf.mariano):
+y en que momento blanqueas con TW?
+14:29:29 - Marcos Casagrande (@marcoscvp90):
+cuando hago la factura.
+14:34:30 - Mariano Ramonda (@ing.inf.mariano):
+a mi no me esta cerrando, miren
+14:35:23 - Mariano Ramonda (@ing.inf.mariano):
+si son 3k
+14:36:33 - Marcos Casagrande (@marcoscvp90):
+ahí hay algo raro, a mi me da: 43.304
+14:36:47 - Marcos Casagrande (@marcoscvp90):
+Mi comisión es 11.76, no 21.13
+14:37:02 - Marcos Casagrande (@marcoscvp90):
+Me parece porque lo estás viendo desde el lado de envíar, y no el de convertir tus divisas existentes.
+14:38:51 - Mariano Ramonda (@ing.inf.mariano):
+cuanto te llega si te envian 3k? y cul es la comision?
+14:39:24 - Marcos Casagrande (@marcoscvp90):
+A mi me llega 3k, porque no me la envían a través de TW, sino a los datos bancarios de TW.
+14:39:51 - Marcos Casagrande (@marcoscvp90):
+y la comisión creo que es un 1.2% para convertir divisas.
+14:44:37 - Mariano Ramonda (@ing.inf.mariano):
+voy a tener que crear una cuenta para ver esos numeros
+14:44:48 - Mariano Ramonda (@ing.inf.mariano):
+la creaste como persona o autonomo/empresa?
+14:47:12 - Marcos Casagrande (@marcoscvp90):
+como persona.
+14:49:54 - Mariano Ramonda (@ing.inf.mariano):
+joya
+14:50:03 - Mariano Ramonda (@ing.inf.mariano):
+perdon que pregunte tanto, pero es tan poco claro esto
+14:55:02 - Marcos Casagrande (@marcoscvp90):
+O sea, depende el banco igual, pero más o menos envíando 1000 USD desde TW pasandolo por pesos a tu banco, y convirtiendo pesos a USD, te quedan entre 955-965 USD.
+
+Haciendo transferencia internacional de 1000 USD directo al banco, suelen quedar menos que el número de TW, acá dependerá del banco, en el Galicia es bastante menos a 960 USD.
+
+Pero el tema es, si vos no querés los USD porque necesitás los pesos, TW conviene mil veces más.
+15:13:45 - Nico (@nicokorn96):
+ay soy famoso
+17:03:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola! Les quería consultar si saben qué tipos de conocimientos y experiencia tendría q tener para q una empresa me contrate como trainee/minion/esclavo para hacer frontend?
+17:04:22 - Sergio Daniel Xalambrí (@sergiodxa):
+HTML, CSS (básico) y JS suficiente para hacer cosas con el DOM
+17:04:31 - Gonza Espeche (@espeche.g):
+HTML y CSS de cajón. JS como dice Sergio, y si tenes algo hecho (lo que sea), mostrarlo que suma. Con este combo ya sos un candidato firme.
+17:15:29 - Rodrigo Ali (@rodrigojali):
+Yo diría lo básico de esas 3. Con entender las corner stones de cada una ya está.
+17:15:51 - Rodrigo Ali (@rodrigojali):
+Porque no creo que alguien venga y te pregunte o te pida que expliques cómo son las categorías de las tags de HTML
+17:16:12 - Rodrigo Ali (@rodrigojali):
+O un edge case de CSS o te rompa el ogt con una cadena de promesas y qué se resuelve al final
+17:17:42 - Julian (@jantonielli01):
+Yo creo que menos que eso 
+17:17:50 - Rodrigo Ali (@rodrigojali):
+Con entender qué es HTML, qué es CSS, y por qué se usa JavaScript con esas otras 2 como main language; y que sepas pintar cosas en una UI y más o menos interactuar con ellas, yo te contrataría como Trainee.
+
+Con que leas lo base de JavaScript y de jQuery para entender DOM manipulation y más o menos cómo se hace abajo del capot, ya está
+17:17:59 - Julian (@jantonielli01):
+Con saber un solo lenguaje de programación deberías estar 
+17:21:20 - Dario Fernando (@someunderscore_):
+Papeleo de comercio exterior? Desde el 2016 creo que ya no es necesario presentar ningún formulario te tienen que depositar y ya .. en el Santander no me piden nada
+17:45:07 - Rodrigo Ali (@rodrigojali):
+Y bueno, si sabes HTML+CSS+JS estás sabiendo un solo lenguaje de programación :stuck_out_tongue:
+17:45:43 - Martín Aimar (@maimar):
+uf el forobardo está a pleno
+17:45:50 - Johanna (@johannasabsantos):
+uOoO
+17:46:23 - Rodrigo Ali (@rodrigojali):
+Agregado emoji para que no se malinterprete :smile:
+17:46:48 - Julian (@jantonielli01):
+Pero eso no es opinión 
+17:46:57 - Julian (@jantonielli01):
+=&gt; no es forobardo
+17:47:22 - Rodrigo Ali (@rodrigojali):
+Es esta gente que quiere ver sangre.
+17:47:28 - Juan Scolari (@juanscolari):
+Aprender las 3 cosas es una banda
+17:47:57 - Rodrigo Ali (@rodrigojali):
+Seh, es mucho, pero es muy rewarding. En mi caso particular, fueron unas ~500 horas que hice en ~3 meses
+17:48:22 - Juan Scolari (@juanscolari):
+totalmente
+17:48:23 - Julian (@jantonielli01):
+Para mí tenés que mandar cv y despues te ponés a aprender
+17:48:24 - Rodrigo Ali (@rodrigojali):
+Mientras laburaba full time para un laburo de mierda, de 8:30 a 18:00 de L a V. Terminé quemado después de ese lapso, pero logré lo que quería.
+17:48:35 - Julian (@jantonielli01):
+O siempre en paralelo mejor dicho
+20:30:56 - Hernán B (@hernimen):
+fijate que en "mobile" aparece el burguer menu y no abre
