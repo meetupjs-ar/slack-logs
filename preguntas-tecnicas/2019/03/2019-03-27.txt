@@ -1,0 +1,587 @@
+22:39:11 - German Gonzalez (@gercho):
+Buenas, como va? Vengo del palo de .Net súper acostumbrado a hacer todo con entity framework, por lo que a la hora de hacer algo con node + mongo me cuesta descontracturarme un poco. Se que mongo no es necesario pero me gustaría empezar a usarlo. La pregunta es y ya se que es si pero igual quisiera debatir un poco o más bien que me expliquen, hice un mini ecommerce (digo mini porque no maneja las mil cosas que maneja un ecommerce posta) y la verdad que con sql mantengo todo bien ordenado/relacionado. Es factible hacer aplicaciones así con mongo o whatever != sql ?
+22:41:35 - Julian (@jantonielli01):
+Es factible? Si 
+22:41:39 - Julian (@jantonielli01):
+Deberías? No 
+22:41:59 - Julian (@jantonielli01):
+SQL &gt; all para la gran mayoría de los casos 
+22:42:28 - Julian (@jantonielli01):
+A menos que tu objetivo sea contratar devs con el slogan de “usamos las últimas tecnologías!!!1”
+22:43:00 - German Gonzalez (@gercho):
+Entiendo
+22:43:12 - German Gonzalez (@gercho):
+Que otra db se lleva tan bien con node como mongo
+22:43:46 - German Gonzalez (@gercho):
+MySQL?
+22:44:25 - Marcos Casagrande (@marcoscvp90):
+MySQL se lleva bien con cualquier cosa.
+22:44:29 - david garcia (@manuonda):
+Estoy usando en un proyecto Node + Sequelize + Mariadb(mysql)
+22:44:58 - david garcia (@manuonda):
+sin embargo usar Sequelize , hubiera elegido otro ORM..
+22:45:06 - Julian (@jantonielli01):
+Yo he usado Postgres 
+22:45:11 - david garcia (@manuonda):
+fue el primer experimento xD
+22:45:14 - Julian (@jantonielli01):
+Pero that’s it 
+22:45:26 - Marcos Casagrande (@marcoscvp90):
+Yo odio Sequelize la verdad. No me gusta mucho los ORM.
+22:45:35 - Marcos Casagrande (@marcoscvp90):
+Si querés algún query builder, podés usar `knex`
+22:45:39 - david garcia (@manuonda):
+Si estoy viendo otras alternitas..
+22:45:43 - Julian (@jantonielli01):
+Es el meta ahora 
+22:45:58 - david garcia (@manuonda):
+knex , seria un query builder verdad ?.
+22:46:01 - Marcos Casagrande (@marcoscvp90):
+Yo la verdad para la mayoría de los casos uso `mysql2` pelado.
+22:46:01 - Julian (@jantonielli01):
+Los ORM son muy temporada pasada 
+22:46:20 - david garcia (@manuonda):
+chan que es lo nuevo :open_mouth:
+22:46:23 - German Gonzalez (@gercho):
+Lo recomendas?
+22:46:37 - Marcos Casagrande (@marcoscvp90):
+A mi personalmente, me demoran los ORM, no me gusta algo tan opinionated.
+22:46:38 - Juan Bono (@juanbono):
++10 a lo que dice Julian Jaja 
+22:46:59 - Julian (@jantonielli01):
+Query builders o solo armar la query a mano con un sanitizer 
+22:47:26 - Julian (@jantonielli01):
+Pero porque hace un tiempo dejaron de ser cool los orm, empezó a morir la onda oop, y rails se puso viejo 
+22:47:41 - German Gonzalez (@gercho):
+Tengo que salir de la comodidad de entity framework y curtirme un poco
+22:47:54 - Julian (@jantonielli01):
+Cualquier usuario de Java te escupe la cara si le bardeas el orm though 
+22:47:59 - Marcos Casagrande (@marcoscvp90):
+Si vas directo, usá `mysql2` en lugar de `mysql` que viene con promise support, y es un poco más rápido.
+22:48:09 - david garcia (@manuonda):
+jaja xD soy un poco de java hibernate!!xD
+22:48:41 - Leandro Echevarria (@echevarrialeandro):
+Usé en prod Postgres + knex y ningún problema, lo recomiendo
+22:48:42 - david garcia (@manuonda):
+pero chan molesta mucho , por eso me tiro mas Node
+22:49:40 - Marcos Casagrande (@marcoscvp90):
+Yo iría por algo como `knex`, es un buen híbrido.
+22:49:55 - Leandro Echevarria (@echevarrialeandro):
+Y ahora hay mucho mongo en las apps que estamos haciendo, por ahora no me encontré con situaciones en las que odie a mongo y quiera meter de prepo postgres, pero nunca se sabe :stuck_out_tongue:
+22:50:44 - German Gonzalez (@gercho):
+Qué onda postgress en qué caso aplica? Sorry por las preguntontas 
+22:50:56 - Leandro Echevarria (@echevarrialeandro):
+Es SQL, asi que en donde quieras una db sql
+22:51:17 - david garcia (@manuonda):
+vamos por knex!!
+22:51:27 - Leandro Echevarria (@echevarrialeandro):
+De lo mejorcito que usé el último tiempo SQL, me copó postgres
+22:51:48 - German Gonzalez (@gercho):
+Motivos?
+22:52:33 - Julian (@jantonielli01):
+Todas las db sql son más o menos lo mismo 
+22:52:47 - david garcia (@manuonda):
+Postgresql + base de datos espacial
+22:52:48 - Leandro Echevarria (@echevarrialeandro):
+Motivos personales: Open Source, actualizada y mantenida, muchos plugins, performaba bien, en prod ningún problema
+22:52:59 - david garcia (@manuonda):
+de best Postgresql..mas robusta..
+22:53:00 - Julian (@jantonielli01):
+Tienen un par de funciones específicas o soporte para cosas raras que varían más que nada 
+22:39:11 - German Gonzalez (@gercho):
+Buenas, como va? Vengo del palo de .Net súper acostumbrado a hacer todo con entity framework, por lo que a la hora de hacer algo con node + mongo me cuesta descontracturarme un poco. Se que mongo no es necesario pero me gustaría empezar a usarlo. La pregunta es y ya se que es si pero igual quisiera debatir un poco o más bien que me expliquen, hice un mini ecommerce (digo mini porque no maneja las mil cosas que maneja un ecommerce posta) y la verdad que con sql mantengo todo bien ordenado/relacionado. Es factible hacer aplicaciones así con mongo o whatever != sql ?
+22:41:35 - Julian (@jantonielli01):
+Es factible? Si 
+22:41:39 - Julian (@jantonielli01):
+Deberías? No 
+22:41:59 - Julian (@jantonielli01):
+SQL &gt; all para la gran mayoría de los casos 
+22:42:28 - Julian (@jantonielli01):
+A menos que tu objetivo sea contratar devs con el slogan de “usamos las últimas tecnologías!!!1”
+22:43:00 - German Gonzalez (@gercho):
+Entiendo
+22:43:12 - German Gonzalez (@gercho):
+Que otra db se lleva tan bien con node como mongo
+22:43:46 - German Gonzalez (@gercho):
+MySQL?
+22:44:25 - Marcos Casagrande (@marcoscvp90):
+MySQL se lleva bien con cualquier cosa.
+22:44:29 - david garcia (@manuonda):
+Estoy usando en un proyecto Node + Sequelize + Mariadb(mysql)
+22:44:58 - david garcia (@manuonda):
+sin embargo usar Sequelize , hubiera elegido otro ORM..
+22:45:06 - Julian (@jantonielli01):
+Yo he usado Postgres 
+22:45:11 - david garcia (@manuonda):
+fue el primer experimento xD
+22:45:14 - Julian (@jantonielli01):
+Pero that’s it 
+22:45:26 - Marcos Casagrande (@marcoscvp90):
+Yo odio Sequelize la verdad. No me gusta mucho los ORM.
+22:45:35 - Marcos Casagrande (@marcoscvp90):
+Si querés algún query builder, podés usar `knex`
+22:45:39 - david garcia (@manuonda):
+Si estoy viendo otras alternitas..
+22:45:43 - Julian (@jantonielli01):
+Es el meta ahora 
+22:45:58 - david garcia (@manuonda):
+knex , seria un query builder verdad ?.
+22:46:01 - Marcos Casagrande (@marcoscvp90):
+Yo la verdad para la mayoría de los casos uso `mysql2` pelado.
+22:46:01 - Julian (@jantonielli01):
+Los ORM son muy temporada pasada 
+22:46:20 - david garcia (@manuonda):
+chan que es lo nuevo :open_mouth:
+22:46:23 - German Gonzalez (@gercho):
+Lo recomendas?
+22:46:37 - Marcos Casagrande (@marcoscvp90):
+A mi personalmente, me demoran los ORM, no me gusta algo tan opinionated.
+22:46:38 - Juan Bono (@juanbono):
++10 a lo que dice Julian Jaja 
+22:46:59 - Julian (@jantonielli01):
+Query builders o solo armar la query a mano con un sanitizer 
+22:47:26 - Julian (@jantonielli01):
+Pero porque hace un tiempo dejaron de ser cool los orm, empezó a morir la onda oop, y rails se puso viejo 
+22:47:41 - German Gonzalez (@gercho):
+Tengo que salir de la comodidad de entity framework y curtirme un poco
+22:47:54 - Julian (@jantonielli01):
+Cualquier usuario de Java te escupe la cara si le bardeas el orm though 
+22:47:59 - Marcos Casagrande (@marcoscvp90):
+Si vas directo, usá `mysql2` en lugar de `mysql` que viene con promise support, y es un poco más rápido.
+22:48:09 - david garcia (@manuonda):
+jaja xD soy un poco de java hibernate!!xD
+22:48:41 - Leandro Echevarria (@echevarrialeandro):
+Usé en prod Postgres + knex y ningún problema, lo recomiendo
+22:48:42 - david garcia (@manuonda):
+pero chan molesta mucho , por eso me tiro mas Node
+22:49:40 - Marcos Casagrande (@marcoscvp90):
+Yo iría por algo como `knex`, es un buen híbrido.
+22:49:55 - Leandro Echevarria (@echevarrialeandro):
+Y ahora hay mucho mongo en las apps que estamos haciendo, por ahora no me encontré con situaciones en las que odie a mongo y quiera meter de prepo postgres, pero nunca se sabe :stuck_out_tongue:
+22:50:44 - German Gonzalez (@gercho):
+Qué onda postgress en qué caso aplica? Sorry por las preguntontas 
+22:50:56 - Leandro Echevarria (@echevarrialeandro):
+Es SQL, asi que en donde quieras una db sql
+22:51:17 - david garcia (@manuonda):
+vamos por knex!!
+22:51:27 - Leandro Echevarria (@echevarrialeandro):
+De lo mejorcito que usé el último tiempo SQL, me copó postgres
+22:51:48 - German Gonzalez (@gercho):
+Motivos?
+22:52:33 - Julian (@jantonielli01):
+Todas las db sql son más o menos lo mismo 
+22:52:47 - david garcia (@manuonda):
+Postgresql + base de datos espacial
+22:52:48 - Leandro Echevarria (@echevarrialeandro):
+Motivos personales: Open Source, actualizada y mantenida, muchos plugins, performaba bien, en prod ningún problema
+22:52:59 - david garcia (@manuonda):
+de best Postgresql..mas robusta..
+22:53:00 - Julian (@jantonielli01):
+Tienen un par de funciones específicas o soporte para cosas raras que varían más que nada 
+22:53:11 - Julian (@jantonielli01):
+Para el día a día no vas a notar mucho la diferencia 
+22:53:47 - German Gonzalez (@gercho):
+Claro
+22:53:50 - Julian (@jantonielli01):
+La única “rara” es sqlite 
+22:53:59 - Juan Bono (@juanbono):
+Y si usas algo como AWS aurora es aún más imperceptible la diferencia jajaja 
+22:54:09 - david garcia (@manuonda):
+Base de Datos Espaciales Postgresql creo de Open Source es utilzada bastante por este tema..
+22:54:21 - Julian (@jantonielli01):
+Que usa un archivito para guardar la data en vez de un server mágico :male_mage: como las demás 
+22:55:10 - Leandro Echevarria (@echevarrialeandro):
+Para espacial, el plugin de postgres se llama postgis, va como cohete
+22:55:15 - Julian (@jantonielli01):
+Yo uso Postgres por inercia, lo use en mi primer laburo, nunca tuve problemas y quedó 
+22:55:51 - German Gonzalez (@gercho):
+Claro, a mi me pasa con sql server y entity framework. No te puedo explicar lo que me cuesta pensar algo diferente a eso
+22:56:55 - Julian (@jantonielli01):
+Hah, no conocía entity framework! 
+22:57:02 - Julian (@jantonielli01):
+Nunca labure con .Net
+22:57:58 - German Gonzalez (@gercho):
+Gracias chicos por todo, son cracks
+22:59:28 - Juan Bono (@juanbono):
+“How to build stable systems” by Jesper L. Andersen <https://link.medium.com/ogHahJx1nV>
+22:59:43 - Juan Bono (@juanbono):
+Ese post está copado en la parte que habla de Postgres
+23:18:26 - Martín Aimar (@maimar):
+hace poco vi un post larguísimo de por qué en uber switchearon de postgres a mysql
+23:18:55 - Martín Aimar (@maimar):
+<https://eng.uber.com/mysql-migration/>
+23:20:04 - Leandro Echevarria (@echevarrialeandro):
+Interesante, me lo voy a leer mañana temprano en la ofi
+23:27:31 - Mariano Ramonda (@ing.inf.mariano):
+MariaDB FTW
+23:28:02 - Mariano Ramonda (@ing.inf.mariano):
+y SQLite tambien
+23:29:08 - Martín Aimar (@maimar):
+hay alguna diferencia significativa entre mysql y mariadb?
+23:30:06 - Mariano Ramonda (@ing.inf.mariano):
+Maria es un fork OSS del creador de mysql (aprox, puedo estar errandole en algun detalle minimo)
+23:31:18 - Mariano Ramonda (@ing.inf.mariano):
+BTW, misma API
+23:31:35 - Martín Aimar (@maimar):
+hasta donde sabía mariadb es drop-in replacement para mysql
+23:32:09 - Martin Gonzalez (@martin2786):
+Yo uso mongo cuando necesito hacer algo donde no tenga la estructura tan definida y tengo que ir evolucionandola, la facilidad que tenes para crear un documento es genial. SQL uso si mi estructura de datos es mas rigida, y por supuesto si ya tengo bastante definida como va a ser. Igualmente no hay formula, podes hacer un ecommerce con mongo como podes hacerlo con SQL o lo que quieras, no te limites por ese lado.
+11:11:57 - Mariano Ramonda (@ing.inf.mariano):
+alguien con experiencia usando Lerna? pros/cons?
+11:12:37 - Martín Aimar (@maimar):
+qué es eso, un yarn killer?
+11:12:47 - Martín Valdés de León (@mvaldesdeleon):
+una tool para monorepos
+11:13:08 - Martín Valdés de León (@mvaldesdeleon):
+_creo recordar_ que alguien habia hecho una charla hace tiempo en alguna meetup sobre lerna
+11:14:24 - a0viedo (@a0viedo):
+el equipo de front dónde estoy lo estaba usando y ahora quieren deprecarlo
+11:15:03 - Juan Scolari (@juanscolari):
+por?
+11:16:55 - Damian Diaz (@damianmdst):
+nostros actualmente laburamos con lerna, esta bastante bueno, como pros podes setear una set de tools cross para los proyectos que tengas, como contra que le vi, si el proyecto escala mucho cuando tiras un npm install es una eternidad.
+11:17:26 - Damian Diaz (@damianmdst):
+Tambien tenes un temita con los test, te conviene correrlos mas por el lado de cada proyecto individualmente, porque cuando corres uno global con el watch, tarda tambien una eternidad.
+11:17:59 - Damian Diaz (@damianmdst):
+Pero para funcionalidades cross entre proyectos, esta muy bien. Tenes todo al alcance de las manos y las task que configuras te facilita un poco la vida.
+11:24:05 - Leandro Echevarria (@echevarrialeandro):
+En la nodeconf hablaron de lerna :face_with_monocle:
+11:24:09 - Mariano Ramonda (@ing.inf.mariano):
+genial, con esta data me alcanza para descartarlo por el momento
+11:24:15 - Mariano Ramonda (@ing.inf.mariano):
+muuuchas issues BTW
+11:24:45 - Mariano Ramonda (@ing.inf.mariano):
+tambien vi que se puede hacer algo muy similar a mano con yarn workspaces, pero con algunos hacks que no me cierran
+11:24:57 - Mariano Ramonda (@ing.inf.mariano):
+tiempo de hacks, tiempo perdido
+11:26:02 - Damian Diaz (@damianmdst):
+Como dice <@U873ZQTEG> por ahi te conviene escuchar una voz mas experimentada viendo esa charla de la nodeconf .. esa al menos fue mi experiencia con lerna.
+11:27:43 - Leandro Echevarria (@echevarrialeandro):
+No fue exclusiva de lerna la charla, fue si no recuerdo mal de una migracion monorepo a microservicios, pero en el monorepo usaban lerna y explicaban algunas cosas
+11:27:58 - Martín Valdés de León (@mvaldesdeleon):
+Cierto, habia sido en la nodeconf!
+11:28:06 - Mariano Ramonda (@ing.inf.mariano):
+si si, gracias, con lo tuyo y lo que dijo <@U06H27CM8> para mi manera de analizar tools secundarias me alcanza para no meterme _por ahora_
+11:28:06 - Martín Valdés de León (@mvaldesdeleon):
+Otro chico de argentina.
+11:29:57 - Jorge Cano (@jorgeucano):
+para monorepos prefiero bazel :slightly_smiling_face:
+11:30:06 - Jorge Cano (@jorgeucano):
+<https://bazel.build/>
+11:30:17 - Jorge Cano (@jorgeucano):
+es un poco trabajoso al principio pero es jodidamente rapido
+11:31:14 - Martín Valdés de León (@mvaldesdeleon):
+un coworker me recomendo <https://github.com/mateodelnorte/meta>
+11:31:19 - Martín Valdés de León (@mvaldesdeleon):
+pero todavia no lo chusmie ni probe
+11:34:21 - Johanna (@johannasabsantos):
+repo repo repo *explota*
+11:42:38 - a0viedo (@a0viedo):
+falta el audio de deployers
+11:44:19 - Agustin Mulet (@sugusin):
+<https://www.youtube.com/watch?v=7K1aiBmcMjQ>
+11:55:25 - a0viedo (@a0viedo):
+dice "van a descompilar un paquete"?
+11:55:38 - a0viedo (@a0viedo):
+nunca le había prestado atención
+12:04:02 - Agustin Mulet (@sugusin):
+Parece que sí dice eso jajaja
+12:13:14 - Santiago Ruffino (@santi_0898):
+Pregunta de Spreadsheet. Se puede ordenar una hoja de calculo por dos columas?
+12:13:49 - Martín Valdés de León (@mvaldesdeleon):
+"en general" los sort de excel y demas son sorts estables
+12:13:54 - Martín Valdés de León (@mvaldesdeleon):
+asi que lo que haces es ordenar primero por la 2da columna
+12:13:56 - Martín Valdés de León (@mvaldesdeleon):
+y dps por la primera
+12:14:06 - Santiago Ruffino (@santi_0898):
+Tengo una columna que tiene el numero de semana, y otra donde tengo el nombre del cliente. Necesito que me queden todos los clientes juntos, y ordenados por numero de semana
+12:14:12 - Martín Valdés de León (@mvaldesdeleon):
+el resultado final es que queda todo ordenado por la primera columna, y cuando hay empates, desempata con la 2da
+12:14:26 - Martín Valdés de León (@mvaldesdeleon):
+alternativamente, armate una 3ra columna concatenando las dos (con la formula apropiada)
+12:14:30 - Martín Valdés de León (@mvaldesdeleon):
+y ordena por esta 3ra columna
+12:15:03 - Martín Valdés de León (@mvaldesdeleon):
+dps, si queres cosas mas fancy tipo GROUP BY y demas, googleate algunos tutoriales sobre Pivot Tables
+12:15:14 - Santiago Ruffino (@santi_0898):
+Claro
+12:15:16 - Santiago Ruffino (@santi_0898):
+Genial, gracias!
+12:42:56 - Santiago Ruffino (@santi_0898):
+Otra pregunta. Je. Se puede hacer un `=BUSCARV` que traiga TODOS los resultados? Y no solo el primero?
+12:45:12 - Ezequiel Leites (@leites25):
+Este santi, no sabia que mas programar que ahora agarro Excel
+12:48:09 - Julian (@jantonielli01):
+bueno creo que hago mi primer pregunta
+12:48:25 - Julian (@jantonielli01):
+necesito hacer esta verga basicamente, pero compatible con todos lados <http://jsfiddle.net/DoubleYo/qGfzm/>
+12:48:42 - Julian (@jantonielli01):
+Lo molesto es el `-webkit-text-fill-color`
+12:48:47 - Julian (@jantonielli01):
+Alguna idea? Además de decirle al diseñador que lo haga el y me dé la imagen lol
+12:50:31 - Martín Valdés de León (@mvaldesdeleon):
+<https://css-tricks.com/clipping-masking-css/> por ahi abajo hay unos ejemplos usando texto para masking que anda en todos lados
+12:50:39 - Martín Valdés de León (@mvaldesdeleon):
+podrias chusmear por ese lado
+12:53:55 - Martín Aimar (@maimar):
+para qué usa eso?
+12:53:59 - Martín Aimar (@maimar):
+en mdn dice `La propiedad CSS -webkit-text-fill-color especifica el color de relleno de las letras de un texto. Si la propiedad no está establecidad se usará el valor de la propiedad color.`
+12:54:03 - Martín Aimar (@maimar):
+y no tiene color ahí
+12:54:21 - Santiago Ruffino (@santi_0898):
+Eso iba a decir
+12:54:30 - Santiago Ruffino (@santi_0898):
+Yo le borre esa linea y todo siguio igual
+12:55:22 - Julian (@jantonielli01):
+Dale run de vuelta, <@U9KMYNJMV>
+12:55:39 - Julian (@jantonielli01):
+<@UC1QYJACE> Funciona distinto con `transparent`
+12:55:45 - Julian (@jantonielli01):
+justamente sin eso no anda el gradient
+12:56:04 - Martín Aimar (@maimar):
+pero si le pones color: transparent vuelve a andar
+12:56:36 - Santiago Ruffino (@santi_0898):
+Ahhh, pense que se actualizaba cuando cambiabas algo. Perdon
+12:59:17 - Julian (@jantonielli01):
+<@UC1QYJACE> No en safari
+12:59:57 - Martín Aimar (@maimar):
+ah mirá qué loco, porque ahí sólo dice que en firefox no hay soporte
+13:03:56 - Julian (@jantonielli01):
+sep, pero igual necesito que ande en "todos" jaj
+13:03:58 - Julian (@jantonielli01):
+que paja
+13:04:36 - Santiago Ruffino (@santi_0898):
+Porque molesta el webkit?
+13:04:40 - Martín Valdés de León (@mvaldesdeleon):
+fijate lo q puse gato
+13:05:06 - Martín Valdés de León (@mvaldesdeleon):
+igual fuera de joda, si es solo eso y el texto no es dinamico, SVG deberia ser un buen compromiso
+13:05:19 - Martín Valdés de León (@mvaldesdeleon):
+(onda, pedirle al designer que te pase el texto con gradiente en SVG)
+13:05:58 - Julian (@jantonielli01):
+Ah, sorry, te ignoré completamente
+13:06:04 - Julian (@jantonielli01):
+Ahora lo miro 
+13:06:35 - Julian (@jantonielli01):
+<@U9KMYNJMV> porque solo anda en algunos browsers (chrome, y en teoría safari pero maso)
+13:06:57 - Santiago Ruffino (@santi_0898):
+Segun una pagina, para que ande en todos los navegadores que soporten CSS3, deberias hacer esto
+13:07:02 - Santiago Ruffino (@santi_0898):
+```degradado {
+	background: #1e5799; /* Old browsers */
+	background: -moz-linear-gradient(top, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1e5799), color-stop(50%,#2989d8), color-stop(51%,#207cca), color-stop(100%,#7db9e8)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #1e5799 0%,#2989d8 50%,#207cca 51%,#7db9e8 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=0 ); /* IE6-9 */
+}```
+13:07:43 - Martín Aimar (@maimar):
+si igual uno nunca escribe todo eso porque está el autoprefixer
+13:11:24 - Julian (@jantonielli01):
+Sep, y aparte el problema no es el gradiente en si
+13:11:31 - Julian (@jantonielli01):
+Es el text-fill-color
+14:28:55 - Martín Aimar (@maimar):
+TIL `Object.assign` no copia todo tipo de propiedades :confused:
+14:32:10 - Ezequiel Leites (@leites25):
+A que te referis con todo tipo? Tipo de valor o que no copia objetos dentro de objetos?
+14:33:41 - Martín Aimar (@maimar):
+me pasó por ejemplo hacer `Object.assign({}, { files: foo.files })` y si `foo.files` es un array se mantiene la referencia
+14:36:55 - Ezequiel Leites (@leites25):
+Desconozco bien la teoria desde abajo como para poder hablar bien del tema, pero entiendo que casi nunca se hacen nuevos objetos cuando se hace este tipo de operaciones y siempre terminas manejando el mismo
+14:36:59 - Julian (@jantonielli01):
+Casi todo en js es shallow
+14:37:39 - Martín Aimar (@maimar):
+todo se pasa por referencia, por eso si querés romper la referencia podés usar Object.assign
+14:38:39 - Ezequiel Leites (@leites25):
+Tenia entendido que solo convirtiendo a JSON y volviendolo a objeto podias crear una nueva referencia
+14:38:56 - Martín Aimar (@maimar):
+esa era la versión old school
+14:40:12 - Martín Aimar (@maimar):
+lodash si no tiene un par de métodos para clonar
+14:46:48 - Martín Aimar (@maimar):
+bueno al final fue `Object.assign({}, { files: Array.from(foo.files) })`
+14:47:45 - Julian (@jantonielli01):
+Alta paja 
+14:48:26 - Marcos Casagrande (@marcoscvp90):
+sino tenés un par de packages, `deepclone` y cosas así, pero como dijo Julían, `Object.assign` es shallow clone.
+14:48:28 - Julian (@jantonielli01):
+Porque no haces `{ files: Array... }` directamente? 
+14:48:52 - Martín Aimar (@maimar):
+porque no quiero modificar el objeto original
+14:49:28 - Martín Aimar (@maimar):
+es un coso para editar y si lo asigno directamente se modifica en la vista original cuando se modifica en el formulario de edición
+14:49:59 - Julian (@jantonielli01):
+Digo que crees uno nuevo 
+14:50:16 - Julian (@jantonielli01):
+Pero en ese snippet el assign está al pedo 
+14:50:31 - Martín Aimar (@maimar):
+y me hace un objeto nuevo
+15:20:12 - Daniel Broder (@dabroder):
+`{ files: Array.from(foo.files) }` ese literal ya es un objeto nuevo
+15:24:02 - Martín Aimar (@maimar):
+ah ustedes dicen de sacar el primer `{}`
+15:24:06 - Martín Aimar (@maimar):
+tiene sentido
+15:31:31 - Martín Aimar (@maimar):
+ah todo se puede sacar
+15:31:32 - Martín Aimar (@maimar):
+gracias
+16:32:00 - Maxi (@tholem98):
+Hay algo que transpile de javascript a C?
+16:32:34 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://github.com/andrei-markeev/ts2c>
+16:35:08 - Maxi (@tholem98):
+Gracias
+17:15:04 - a0viedo (@a0viedo):
+escuché que estaban haciendo de flow a c pero no me dijeron con qué tool
+17:19:01 - Martín Valdés de León (@mvaldesdeleon):
+/gif but why
+17:24:30 - Sebastian Waisbrot (@seppo0010):
+exacto, existiendo lenguajes tan lindos como c o rust, por qué tomar código de javascript
+17:25:03 - Rodrigo Ali (@rodrigojali):
+<#C0PHBKNNA|forobardo>
+17:32:22 - Julian (@jantonielli01):
+No me parece tan loco 
+17:32:28 - Julian (@jantonielli01):
+Hasta Python tiene compilador a c
+18:21:40 - Gonza Gluzman (@gonza):
+Holi, pregunta de un neófito en webpack
+18:21:47 - Gonza Gluzman (@gonza):
+Cómo armo un “pipeline”?
+18:22:09 - Gonza Gluzman (@gonza):
+Lo estoy usando para compilar TS y quiero después procesar ese output
+18:22:46 - Gonza Gluzman (@gonza):
+Pero no entiendo dónde le puedo decir “hacé primero esto, y después esto otro”
+18:26:44 - Julian (@jantonielli01):
+Sé muy poco, pero según entiendo es todo con plugins
+18:27:23 - Julian (@jantonielli01):
+En los que basicamente te subscribis a eventos
+18:30:58 - Gonza Gluzman (@gonza):
+Sí, sí
+18:31:06 - Gonza Gluzman (@gonza):
+Igual, meh, lo estoy manejando por afuera
+18:31:22 - Gonza Gluzman (@gonza):
+El building system de este proyecto es una bazofia
+18:31:32 - Julian (@jantonielli01):
+c'est la vie
+18:31:41 - Gonza Gluzman (@gonza):
+gulp + laravel mix + webpack
+18:31:44 - Gonza Gluzman (@gonza):
+SHA FOEH
+18:32:01 - Gonza Gluzman (@gonza):
+Y, obvio, los quilombos saltan al deployar a prod, pasado del deadline
+18:32:09 - Gonza Gluzman (@gonza):
+:scream: :gun:
+18:32:26 - Julian (@jantonielli01):
+yo estoy con algo parecido
+18:32:36 - Julian (@jantonielli01):
+gulp + bash + stack (haskell)
+18:33:18 - Martín Aimar (@maimar):
+con laravel mix tenés el problema?
+18:34:08 - Julian (@jantonielli01):
+no se que es eso : p
+18:34:25 - Martín Aimar (@maimar):
+un wrapper de webpack
+18:38:19 - Gonza Gluzman (@gonza):
+Seeeeh
+18:38:22 - Gonza Gluzman (@gonza):
+Es una poronga
+18:39:41 - Martín Aimar (@maimar):
+jaja
+18:39:50 - Martín Aimar (@maimar):
+está bastante piola
+18:40:52 - Gonza Gluzman (@gonza):
+Es demasiado mágico, pero cuando hace algo que no querés, es IMPOSIBLE encontrar cómo verga configurarlo para que no lo haga
+18:41:00 - Emilio Astarita (@emilio):
+Malisimo laravel mix para webpack
+18:41:36 - Gonza Gluzman (@gonza):
+Encima es un laravel re viejo (creo) éste
+18:41:43 - Emilio Astarita (@emilio):
+Cualquier cosa un poco mas compleja que el setup normal te conviene sacarlo
+18:42:28 - Martín Aimar (@maimar):
+no me parece “malísimo”
+18:42:41 - Martín Aimar (@maimar):
+y sí debe ser un laravel viejo porque tiene gulp
+18:44:31 - Emilio Astarita (@emilio):
+Yo lo vi hace bastante y el tema es que tenia muchos bugs y ocultaba configuraciones wrapeando al dope
+18:44:46 - Julian (@jantonielli01):
+ahh, es como sprockets
+18:45:03 - Julian (@jantonielli01):
+esas cosas suelen andar bien si no las tocas
+18:45:21 - Martín Aimar (@maimar):
+se puede acceder a la configuración de webpack si lo necesitás
+18:45:26 - Emilio Astarita (@emilio):
+Lo terminé sacando y usando unos plugin de webpack de hashing y de manifest para mapear los assets al backend
+18:46:55 - Emilio Astarita (@emilio):
+a todo no, porque el plugin wrappeaba configs que después no exponía.
+18:49:26 - Gonza Gluzman (@gonza):
+No sé, me gustaría no tener que aprender mil frameworks ni hacer ingeniería inversa cuando puedo hacer las cosas con una sola herramienta
+18:49:38 - Gonza Gluzman (@gonza):
+Ni que ofrecieran tantas ventajas tampoco
+18:52:19 - Martín Aimar (@maimar):
+tiene bastante buenos docs
+18:52:20 - Martín Aimar (@maimar):
+<https://laravel-mix.com/>
+18:52:29 - Martín Aimar (@maimar):
+80% ¯\_(ツ)_/¯
+18:53:57 - Emilio Astarita (@emilio):
+para mi depende que hagas, si vas a necesitar flexibilidad iría directo con webpack.
+18:54:20 - Emilio Astarita (@emilio):
+Puede que laravel te saque andando mas rápido el caso base, pero tarde o temprano te la pegas.
+18:54:49 - Emilio Astarita (@emilio):
+yo lo terminé sacando cuando necesité hashear los assets de imágenes, y había configuraciones que no me exponía.
+18:55:23 - Martín Aimar (@maimar):
+pero podés mergear un objeto a la configuración nativa digamos
+18:55:40 - Martín Aimar (@maimar):
+o sea si lo que necesitás no está en sus opciones metés configuración como si estuvieras con webpack
+19:12:58 - Gonza Gluzman (@gonza):
+Cuál sería la ventaja respecto de usar webpack directo?
+19:13:05 - Gonza Gluzman (@gonza):
+El scaffolding?
+19:19:51 - Martín Aimar (@maimar):
+No tener que tocar webpack :smile: 
+19:21:27 - Martín Aimar (@maimar):
+Pero bueno te podés olvidar de los loaders y de configurarlos por ejemplo 
+19:21:28 - Julian (@jantonielli01):
+Para eso iría con parcel de una
+19:21:35 - Julian (@jantonielli01):
+webpack es un bajón
+19:21:47 - Julian (@jantonielli01):
+nadie tendría que tener q tocarlo
+19:22:14 - Sergio Daniel Xalambrí (@sergiodxa):
+Parcel tiene una sola cagada, hasta que no salga v2 no podés usar Babel 7
+19:22:30 - Sergio Daniel Xalambrí (@sergiodxa):
+osea que algunos plugins nuevos o cosas nuevas no funcan con Parcel
+19:23:00 - Julian (@jantonielli01):
+paciencia broski
+19:24:26 - Martín Aimar (@maimar):
+Sí parcel o brunch también se podrían usar ahí 
+19:24:39 - Martín Aimar (@maimar):
+Tiene un par de goodies igual 
+19:24:53 - Martín Aimar (@maimar):
+Viene para usar con browsersync
+19:25:15 - Julian (@jantonielli01):
+no conocia brunch
+19:25:20 - Julian (@jantonielli01):
+please no more bundlers
+19:25:54 - Martín Aimar (@maimar):
+Cual es el que viene con phoenix? 
+19:27:06 - Martín Aimar (@maimar):
+Creo que es ese, recuerdo la opción --no-brunch
+19:29:18 - Martín Aimar (@maimar):
+Pero alguien tuvo que poner webpack de cero alguna vez?
+19:38:10 - Julian (@jantonielli01):
+Sep
+20:41:58 - Sergio Daniel Xalambrí (@sergiodxa):
+Si
+20:54:34 - Juan Bono (@juanbono):
+Ahora viene con webpack por defecto Phoenix y anda re piola 
+20:55:53 - Martín Aimar (@maimar):
+La otra vez leí que las búsquedas en google de webpack están bajando pero los downloads de npm siguen subiendo 
+20:57:26 - Juan Bono (@juanbono):
+Creo que brunch ya no se sigue desarrollándo 
