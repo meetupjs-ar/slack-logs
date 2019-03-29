@@ -1,0 +1,462 @@
+21:09:46 - Aldo Gabriel Rojas (@aldogrojas5):
+Html y css manejo bastante... no te digo q soy un crack pero si no sé cómo hacer algo, lo busco y lo saco al toque. Manejo tb varias herramientas de diseño como illustrator y premiere pro q ayudan bastante a la hora de diseñar. Y js estoy estudiando hace un par de semanas y estoy practicando bastante... capa q en unos meses me mande a buscar pq quiero cambiar de rubro
+21:11:10 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo de jquery tengo un amigo q me dijo q lo deje de lado pq es medio viejo :disappointed_relieved:
+08:25:39 - Aldo Gabriel Rojas (@aldogrojas5):
+<@UFFG5EPGU> cuando decís entender "DOM manipulation"... a qué tipo de cosas puntualmente te referis? De modificar objects, crear, eliminar, cambiar estilos, etc o algo más avanzado?
+08:28:23 - Aldo Gabriel Rojas (@aldogrojas5):
+Pq muchas de esas cosas las estoy haciendo. Validar formularios, agregar objetos, animar un svg... voy jugando, pero entiendo bien cómo funciona... me la voy pegando en la pera tambien :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:
+08:45:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Ah!! Y otra cosa q se me olvido preguntar! La edad influye en algo? Pq tengo 37 y recién estaría arrancando
+09:19:51 - Gonzalo González Mora (@gonzalogm):
+Yo creo que vas a encontrar empresas que te quieran contratar si demostrás que tenés iniciativa e interés en aprender, como se nota que tenés. Por ahí te cueste un poco más, pero no es imposible. Y una vez tengas esa experiencia inicial se te va a hacer todo más fácil. De última evitá decir la edad de entrada (onda, no la pongas directamente en el CV, que de todos modos no se suele poner) y listo.
+09:21:15 - Martín Aimar (@maimar):
+y si buscás remoto seguramente no importe en absoluto
+09:21:39 - Martín Aimar (@maimar):
+bah a mi no me la preguntaron nunca
+09:23:00 - Gonzalo González Mora (@gonzalogm):
+Sí, tal cual. De todos modos por ahí al principio está bueno una empresa como para que otros que tengan más experiencia te aceleren el proceso, aunque hay tantas comunidades hoy en día (como esta) que tampoco es necesario eso supongo
+09:24:13 - Santiago Ruffino (@santi_0898):
+Desde mi experencia, trabajar codo a codo con alguien sirve mucho
+09:24:28 - Santiago Ruffino (@santi_0898):
+En conocimiento, en saber interpretar las cosas, y en administrarte
+09:45:24 - Germán Burgardt (@germanandresburgardt):
+gracias!
+09:57:08 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro... quiero al menos unos meses hacer la prueba con gente al lado
+09:58:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Entre el laburo q tengo ahora y la flia, le dedico muy pocas hs a aprender y así ybtodo avancé bastante en lo poco que estoy. Pero me trabo con una duda y hasta q la resuelvo pasa todo un día...
+09:59:18 - Aldo Gabriel Rojas (@aldogrojas5):
+Y eso dónde se busca? Te contratan si no tenés experiencia?
+10:00:48 - Aldo Gabriel Rojas (@aldogrojas5):
+De una!! Me han ayudado muchisimo aca!!! :smiley:
+10:08:11 - Martín Aimar (@maimar):
+siempre salen ofertas para laburar remoto y si buscan juniors o trainees no debería haber problema con la experiencia
+10:27:06 - Aldo Gabriel Rojas (@aldogrojas5):
+:smiley: y dónde se buscan esos laburos? Si es que hay
+10:50:06 - Germán Burgardt (@germanandresburgardt):
+este repo te puede servir: <https://github.com/agustinmulet/academias>
+10:52:38 - Aldo Gabriel Rojas (@aldogrojas5):
+:smiley: :smiley: :smiley:
+11:08:25 - Rodrigo Ali (@rodrigojali):
+jQuery ES viejo, pero entender cómo funca te puede ayudar mucho a entender otras cosas, porque hay varias librerías que de fondo usan jQuery. Digamos, es para entender conceptos y no para usarlo en tu dia a dia. A mi me sirvió bocha cuando estaba empezando a aprender por mi cuenta.
+
+Cuando digo "DOM manipulation" para un Trainee me refiero a algo mucho más simple, a entender que la potencia por ahí de JS en su momento fue decir "Ok, te dejo interactuar de forma simple con la página y hacer cosas reactivas". Ya con eso a mi me sirve para explicarte más cosas, si sabés más de eso, mejor.
+11:28:36 - Agustin Mulet (@sugusin):
+Qué bueno que sirva! Gracias por compartirlo, estoy por sumarle un par de links :slightly_smiling_face:
+11:29:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Tenés algo en Rosario y alrededores?
+11:31:05 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial!! Gracias!!
+11:31:32 - Agustin Mulet (@sugusin):
+No, lo que fui recolectando es lo que tengo ahí :disappointed: lo que estoy por agregar son de CABA
+11:33:59 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!!
+11:37:47 - Gonzalo González Mora (@gonzalogm):
+No escuché de ninguna academia en Rosario <@UEP9Q4TUP> pero podés tirar CV en las empresas más amigables onda Accenture, Globant, etc. que suelen tomar gente que recién arranca y tiene algunos conocimientos ya
+11:38:00 - Gonzalo González Mora (@gonzalogm):
+Al menos para empezar, dsp podés buscar otra que te cope más
+11:38:21 - Aldo Sorbara (@aldo1891):
+yo no pedi nada <@UDJJ1RZT5> :open_mouth:
+11:38:24 - Aldo Gabriel Rojas (@aldogrojas5):
+Joya! Voy a armarme un portfolio con algo al menos y voy a empezar a tirar cvs
+11:38:42 - Gonzalo González Mora (@gonzalogm):
+Perdón <@UEP9Q4TUP> le pifié ne el autocomplete jajaj era <@UGW464VJS>
+11:39:23 - Aldo Gabriel Rojas (@aldogrojas5):
+Jejeje de coparme, me copa cualquier cosa que me ayude a aprender más rápido! :grin: y si encima me pagan... pffff
+11:42:16 - Rodrigo Ali (@rodrigojali):
+Igual todo esto es desde mi perspectiva, no soy recruiter ni nada similar :stuck_out_tongue:
+12:12:44 - Julian (@jantonielli01):
+Basta de mandar todo al canal
+12:27:41 - Martin Bavio (@mbavio):
+worst uso de threads ever
+12:51:02 - Santiago Ruffino (@santi_0898):
+No sienten que es complicado darle un valor numerico a su conocimiento en X lenguaje o plataforma?
+12:51:28 - Esteban Yañez (@eyanez):
+para que lo harias?
+12:52:51 - Esteban Yañez (@eyanez):
+a mi en una entrevista tecnica me hicieron puntuarme del 1 al 5, 1 no se nada, 2 hice un hola mundo, 3 hice algo mas que un hola mundo, 4 lo uso, 5 la tengo atada (algo asi era)
+12:53:06 - Esteban Yañez (@eyanez):
+pero si es para el cv o similar, ni te gastes, no esta bueno hacer eso
+12:54:16 - Julian (@jantonielli01):
+Dale 5/5 a todo
+12:56:51 - Marcos Casagrande (@marcoscvp90):
+A mi me saca de quisio los que en el CV ponen: PHP: 93%, Javascript: 91% .
+12:57:02 - Marcos Casagrande (@marcoscvp90):
+(Lo he visto, con esos valores)
+12:57:06 - Juan Scolari (@juanscolari):
+Jajaja
+12:57:18 - Juan Scolari (@juanscolari):
+El code coverage pusieron
+12:57:42 - Juan Scolari (@juanscolari):
+A mi tambien me hicieron puntuar para aplicar a algun puesto, pero es cualquier, nadie puede tener 5/5 en nada
+12:57:58 - Santiago Ruffino (@santi_0898):
+Nono, yo no lo hago
+12:58:24 - Santiago Ruffino (@santi_0898):
+Pero es lo que veo en muchas plantillas de CV
+12:58:26 - Santiago Ruffino (@santi_0898):
+Te hacen "puntuar" tus conocimientos
+12:58:36 - Santiago Ruffino (@santi_0898):
+Yo me pongo todo 3/5
+12:58:41 - Agustin Mulet (@sugusin):
+Borralo
+12:58:46 - Juan Scolari (@juanscolari):
+Coincido, en un cv es te quemas
+12:58:47 - Marcos Casagrande (@marcoscvp90):
+Lo ideal es el clásico rango de: básico, intermedio, avanzado, experto...
+12:58:50 - Santiago Ruffino (@santi_0898):
+Sisi, no lo tengo en mi CV
+12:59:10 - Santiago Ruffino (@santi_0898):
+Pero en la primera tirada de CV que hice (hace 2 años cuando era un feto ingeniero), lo tenia asi
+12:59:27 - Santiago Ruffino (@santi_0898):
+Ahora aprendi que no
+12:59:44 - Agustin Mulet (@sugusin):
+Algunos pasamos por eso hasta que aprendimos jaja :sweat_smile:
+12:59:55 - Juan Scolari (@juanscolari):
+habria que armar la guia meetupjs de como hacer tu cv
+13:00:24 - Juan Scolari (@juanscolari):
+yo aprendi el otro dia aca lo de no poner foto por ej
+13:02:35 - Jorge Cano (@jorgeucano):
+no se pone mas la foto ?
+13:02:47 - Jorge Cano (@jorgeucano):
+esa foto de un boliche con el escabio en la mano ?
+13:02:53 - Jorge Cano (@jorgeucano):
+o la de la playa con anteojos ?
+21:09:46 - Aldo Gabriel Rojas (@aldogrojas5):
+Html y css manejo bastante... no te digo q soy un crack pero si no sé cómo hacer algo, lo busco y lo saco al toque. Manejo tb varias herramientas de diseño como illustrator y premiere pro q ayudan bastante a la hora de diseñar. Y js estoy estudiando hace un par de semanas y estoy practicando bastante... capa q en unos meses me mande a buscar pq quiero cambiar de rubro
+21:11:10 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo de jquery tengo un amigo q me dijo q lo deje de lado pq es medio viejo :disappointed_relieved:
+08:25:39 - Aldo Gabriel Rojas (@aldogrojas5):
+<@UFFG5EPGU> cuando decís entender "DOM manipulation"... a qué tipo de cosas puntualmente te referis? De modificar objects, crear, eliminar, cambiar estilos, etc o algo más avanzado?
+08:28:23 - Aldo Gabriel Rojas (@aldogrojas5):
+Pq muchas de esas cosas las estoy haciendo. Validar formularios, agregar objetos, animar un svg... voy jugando, pero entiendo bien cómo funciona... me la voy pegando en la pera tambien :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:
+08:45:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Ah!! Y otra cosa q se me olvido preguntar! La edad influye en algo? Pq tengo 37 y recién estaría arrancando
+09:19:51 - Gonzalo González Mora (@gonzalogm):
+Yo creo que vas a encontrar empresas que te quieran contratar si demostrás que tenés iniciativa e interés en aprender, como se nota que tenés. Por ahí te cueste un poco más, pero no es imposible. Y una vez tengas esa experiencia inicial se te va a hacer todo más fácil. De última evitá decir la edad de entrada (onda, no la pongas directamente en el CV, que de todos modos no se suele poner) y listo.
+09:21:15 - Martín Aimar (@maimar):
+y si buscás remoto seguramente no importe en absoluto
+09:21:39 - Martín Aimar (@maimar):
+bah a mi no me la preguntaron nunca
+09:23:00 - Gonzalo González Mora (@gonzalogm):
+Sí, tal cual. De todos modos por ahí al principio está bueno una empresa como para que otros que tengan más experiencia te aceleren el proceso, aunque hay tantas comunidades hoy en día (como esta) que tampoco es necesario eso supongo
+09:24:13 - Santiago Ruffino (@santi_0898):
+Desde mi experencia, trabajar codo a codo con alguien sirve mucho
+09:24:28 - Santiago Ruffino (@santi_0898):
+En conocimiento, en saber interpretar las cosas, y en administrarte
+09:45:24 - Germán Burgardt (@germanandresburgardt):
+gracias!
+09:57:08 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro... quiero al menos unos meses hacer la prueba con gente al lado
+09:58:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Entre el laburo q tengo ahora y la flia, le dedico muy pocas hs a aprender y así ybtodo avancé bastante en lo poco que estoy. Pero me trabo con una duda y hasta q la resuelvo pasa todo un día...
+09:59:18 - Aldo Gabriel Rojas (@aldogrojas5):
+Y eso dónde se busca? Te contratan si no tenés experiencia?
+10:00:48 - Aldo Gabriel Rojas (@aldogrojas5):
+De una!! Me han ayudado muchisimo aca!!! :smiley:
+10:08:11 - Martín Aimar (@maimar):
+siempre salen ofertas para laburar remoto y si buscan juniors o trainees no debería haber problema con la experiencia
+10:27:06 - Aldo Gabriel Rojas (@aldogrojas5):
+:smiley: y dónde se buscan esos laburos? Si es que hay
+10:50:06 - Germán Burgardt (@germanandresburgardt):
+este repo te puede servir: <https://github.com/agustinmulet/academias>
+10:52:38 - Aldo Gabriel Rojas (@aldogrojas5):
+:smiley: :smiley: :smiley:
+11:08:25 - Rodrigo Ali (@rodrigojali):
+jQuery ES viejo, pero entender cómo funca te puede ayudar mucho a entender otras cosas, porque hay varias librerías que de fondo usan jQuery. Digamos, es para entender conceptos y no para usarlo en tu dia a dia. A mi me sirvió bocha cuando estaba empezando a aprender por mi cuenta.
+
+Cuando digo "DOM manipulation" para un Trainee me refiero a algo mucho más simple, a entender que la potencia por ahí de JS en su momento fue decir "Ok, te dejo interactuar de forma simple con la página y hacer cosas reactivas". Ya con eso a mi me sirve para explicarte más cosas, si sabés más de eso, mejor.
+11:28:36 - Agustin Mulet (@sugusin):
+Qué bueno que sirva! Gracias por compartirlo, estoy por sumarle un par de links :slightly_smiling_face:
+11:29:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Tenés algo en Rosario y alrededores?
+11:31:05 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial!! Gracias!!
+11:31:32 - Agustin Mulet (@sugusin):
+No, lo que fui recolectando es lo que tengo ahí :disappointed: lo que estoy por agregar son de CABA
+11:33:59 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!!
+11:37:47 - Gonzalo González Mora (@gonzalogm):
+No escuché de ninguna academia en Rosario <@UEP9Q4TUP> pero podés tirar CV en las empresas más amigables onda Accenture, Globant, etc. que suelen tomar gente que recién arranca y tiene algunos conocimientos ya
+11:38:00 - Gonzalo González Mora (@gonzalogm):
+Al menos para empezar, dsp podés buscar otra que te cope más
+11:38:21 - Aldo Sorbara (@aldo1891):
+yo no pedi nada <@UDJJ1RZT5> :open_mouth:
+11:38:24 - Aldo Gabriel Rojas (@aldogrojas5):
+Joya! Voy a armarme un portfolio con algo al menos y voy a empezar a tirar cvs
+11:38:42 - Gonzalo González Mora (@gonzalogm):
+Perdón <@UEP9Q4TUP> le pifié ne el autocomplete jajaj era <@UGW464VJS>
+11:39:23 - Aldo Gabriel Rojas (@aldogrojas5):
+Jejeje de coparme, me copa cualquier cosa que me ayude a aprender más rápido! :grin: y si encima me pagan... pffff
+11:42:16 - Rodrigo Ali (@rodrigojali):
+Igual todo esto es desde mi perspectiva, no soy recruiter ni nada similar :stuck_out_tongue:
+12:12:44 - Julian (@jantonielli01):
+Basta de mandar todo al canal
+12:27:41 - Martin Bavio (@mbavio):
+worst uso de threads ever
+12:51:02 - Santiago Ruffino (@santi_0898):
+No sienten que es complicado darle un valor numerico a su conocimiento en X lenguaje o plataforma?
+12:51:28 - Esteban Yañez (@eyanez):
+para que lo harias?
+12:52:51 - Esteban Yañez (@eyanez):
+a mi en una entrevista tecnica me hicieron puntuarme del 1 al 5, 1 no se nada, 2 hice un hola mundo, 3 hice algo mas que un hola mundo, 4 lo uso, 5 la tengo atada (algo asi era)
+12:53:06 - Esteban Yañez (@eyanez):
+pero si es para el cv o similar, ni te gastes, no esta bueno hacer eso
+12:54:16 - Julian (@jantonielli01):
+Dale 5/5 a todo
+12:56:51 - Marcos Casagrande (@marcoscvp90):
+A mi me saca de quisio los que en el CV ponen: PHP: 93%, Javascript: 91% .
+12:57:02 - Marcos Casagrande (@marcoscvp90):
+(Lo he visto, con esos valores)
+12:57:06 - Juan Scolari (@juanscolari):
+Jajaja
+12:57:18 - Juan Scolari (@juanscolari):
+El code coverage pusieron
+12:57:42 - Juan Scolari (@juanscolari):
+A mi tambien me hicieron puntuar para aplicar a algun puesto, pero es cualquier, nadie puede tener 5/5 en nada
+12:57:58 - Santiago Ruffino (@santi_0898):
+Nono, yo no lo hago
+12:58:24 - Santiago Ruffino (@santi_0898):
+Pero es lo que veo en muchas plantillas de CV
+12:58:26 - Santiago Ruffino (@santi_0898):
+Te hacen "puntuar" tus conocimientos
+12:58:36 - Santiago Ruffino (@santi_0898):
+Yo me pongo todo 3/5
+12:58:41 - Agustin Mulet (@sugusin):
+Borralo
+12:58:46 - Juan Scolari (@juanscolari):
+Coincido, en un cv es te quemas
+12:58:47 - Marcos Casagrande (@marcoscvp90):
+Lo ideal es el clásico rango de: básico, intermedio, avanzado, experto...
+12:58:50 - Santiago Ruffino (@santi_0898):
+Sisi, no lo tengo en mi CV
+12:59:10 - Santiago Ruffino (@santi_0898):
+Pero en la primera tirada de CV que hice (hace 2 años cuando era un feto ingeniero), lo tenia asi
+12:59:27 - Santiago Ruffino (@santi_0898):
+Ahora aprendi que no
+12:59:44 - Agustin Mulet (@sugusin):
+Algunos pasamos por eso hasta que aprendimos jaja :sweat_smile:
+12:59:55 - Juan Scolari (@juanscolari):
+habria que armar la guia meetupjs de como hacer tu cv
+13:00:24 - Juan Scolari (@juanscolari):
+yo aprendi el otro dia aca lo de no poner foto por ej
+13:02:35 - Jorge Cano (@jorgeucano):
+no se pone mas la foto ?
+13:02:47 - Jorge Cano (@jorgeucano):
+esa foto de un boliche con el escabio en la mano ?
+13:02:53 - Jorge Cano (@jorgeucano):
+o la de la playa con anteojos ?
+13:03:10 - Dario Miñones (@dminones):
+o de justo antes de ir a un casorio
+13:07:32 - Juan Scolari (@juanscolari):
+asi me aconsejaron y buscando en google di con varios lados con la misma recomendacion
+13:09:32 - Jorge Cano (@jorgeucano):
+la posta que hace mucho que no hago un cv
+13:09:40 - Jorge Cano (@jorgeucano):
+hace bastantes cambios d etrabajo llego por recomendacion o conocidos
+13:09:41 - Jorge Cano (@jorgeucano):
+:stuck_out_tongue:
+13:09:49 - Jorge Cano (@jorgeucano):
+soy el “acomodado” amigo del jefe
+13:09:54 - Juan Scolari (@juanscolari):
+igual estimo que depende para donde sea que lo mandes
+13:10:06 - Juan Scolari (@juanscolari):
+yo por lo menos estaba apuntando para eeuu
+13:32:13 - Germán Burgardt (@germanandresburgardt):
+Yo soy de rosario Aldo, cualquier duda de acá chateame!
+13:32:27 - Germán Burgardt (@germanandresburgardt):
+yo hice una pasantia en globant x ejemplo, suele haber bootcamps y eso
+13:35:49 - Julian (@jantonielli01):
+El otro día dimos altos macritips
+13:35:56 - Julian (@jantonielli01):
+De cv
+13:36:19 - Santiago Ruffino (@santi_0898):
+Sep, me tiraron abajo el CV. Pero no importa
+13:36:20 - Santiago Ruffino (@santi_0898):
+Jajaja
+13:43:27 - Daniel Broder (@dabroder):
+tengo esa misma en todos lados
+14:15:00 - Rodrigo Ali (@rodrigojali):
+Lo pongo acá porque no sé dónde ponerlo:
+
+¿Alguien tiene idea si hay una ley (y la tiene a mano) que diga que si vas a entrevistas de trabajo en horario laboral, eso no es causal de despido y que no te lo pueden negar? ¿O no existe alguna ley que contemple esto? <@U86A4QH8U> decime qué tengo que sacrificar para invocarte.
+14:16:45 - Jorge Cano (@jorgeucano):
+/gif batiseñal
+14:32:43 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial! Ya te escribo!
+14:35:38 - Silvio Messina (@smessina):
+Hola <@UFFG5EPGU>
+14:39:11 - Aldo Gabriel Rojas (@aldogrojas5):
+<@UFFG5EPGU> esa la sé! Ajja
+Depende de la empresa.
+14:39:44 - Aldo Gabriel Rojas (@aldogrojas5):
+La ley contempla q podes pedir licencia por enfermedad y algunos otros motivos. La mayoría sujetos a disposicion de la misma empresa
+14:40:20 - Silvio Messina (@smessina):
+Mirá, la verdad es que no hay una normativa que otorgue “licencia” para los casos de ir a entrevistas de otros trabajos (como si hay para pedirte días de estudio, para donar sangre, para hacer tramites administrativos, etc).
+
+Pero… esa “inasistencia” a tu puesto de trabajo (incluso si lo haces sin avisar) no es suficiente causal como para considerarlo una “injuria” que justifique un despido
+14:40:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Hago medicina laboral desde hace varios años. Mi recomendación es q averigües si en tu empresa contemplan días por "motivos personales" y no le decís q vas a una entrevista
+14:41:05 - Silvio Messina (@smessina):
+Si te despidieran por eso, se pueden comer alto juicio por despido sin causa
+14:41:06 - Martín Aimar (@maimar):
+the token is not falling
+14:41:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Si, me cayó... perdón... cuando digo q soy nuevito, soy nuevito :pensive:
+14:42:16 - Martín Aimar (@maimar):
+jajaj todo bien
+14:43:24 - Aldo Gabriel Rojas (@aldogrojas5):
+Mala mía, perdón!
+14:43:48 - Rodrigo Ali (@rodrigojali):
+Igual no digo de pedirte un día entero. Planteo el siguiente caso:
+
+Entrevista un día de... no sé, 10:30 a 12:00, vas. Te ausentás ponele que 3 horas de la ofi.
+14:45:44 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo mismo, pedís por "motivos personales" ausentarte las hs que quieras
+14:46:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Te tienen q autorizar... salvo q seas un desastre de empleado y pidas horas o dias por motivos personales todas las semanas
+14:46:37 - Silvio Messina (@smessina):
+Claro… puntualmente como te digo, no hay ley/articulo/decreto que otorgue ese permiso.
+
+(Excepción: puede que en el convenio colectivo de trabajo si lo este, hay que ver…)
+
+Un despido sería una guasada por algo así… como muy extremo si son muy HDP te descuentan las horas o te suspenden 1 dia
+14:49:52 - Silvio Messina (@smessina):
+La opción de “inventar” o “disfrazar” el motivo para encubrir (ej, decir que vas a hacer un tramite a la AFIP, pero en realidad vas a la entrevista) queda a criterio de cada uno… yo no soy partidario de eso y prefiero avisar que X día voy a llegar más tarde por un tema personal y punto
+14:49:54 - Aldo Gabriel Rojas (@aldogrojas5):
+:smile:
+14:50:42 - Silvio Messina (@smessina):
+Y si quieren descontar las horas o suspenderme, bueno… mayor razón para irse a otro laburo
+14:51:18 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro, lo bueno de pasarlo por motivos personales es q no tenés q decir qué vas a hacer
+14:52:11 - Aldo Gabriel Rojas (@aldogrojas5):
+Más vale! Si te dan vueltas por un dia o unas hs, es para rajar
+16:56:22 - Rodrigo Ali (@rodrigojali):
+Wooooooooo muchas gracias
+17:22:26 - Damian Cipolat (@damian.cipolat):
+Nos pasa a todos, tenés q inventar algún motivo o decís q llegas más tarde y compensas el tiempo después. No es motivo de despido ni tampoco q sepan q estás buscando otro trabajo
+19:41:14 - Rodrigo Ali (@rodrigojali):
+Consulta simple, sin ir a SysArmy o encuestas: ¿Cuánto creen que es un "sueldo justo" por seniority en Argentina, promedio, al dia de hoy, en pesos NETOS, laburando para una empresa local?
+
+Para mi es:
+$28~32k; $40~45k; &gt;$60k (Jr, Ssr, Sr)
+19:41:38 - Rodrigo Ali (@rodrigojali):
+(entendiendo también que son promedios, y que en algunas provincias sería normal más y en otras menos)
+19:44:04 - Juan Scolari (@juanscolari):
+Para mis Sr &gt;&gt;&gt; $60k
+19:47:19 - Santiago Ruffino (@santi_0898):
+Y alguien Jr? 
+19:48:48 - Juan Scolari (@juanscolari):
+Desconozco ahi, pero me gustaria saber para decirle a mis amigos que me preguntan
+19:49:14 - Juan Scolari (@juanscolari):
+La otra vez que pregunte para alguien que recien arrancaba me dijeron entre 20k-30k
+19:49:40 - Juan Scolari (@juanscolari):
+Pero toco de oido, asi que no me des bola
+19:50:36 - Juan Scolari (@juanscolari):
+Igual con el dolar disparandose deberian subir
+19:53:45 - Julian (@jantonielli01):
+Me parece bien eso que mandaste 
+19:53:54 - Julian (@jantonielli01):
+Capaz junior lo tenes muy alto 
+19:54:14 - Julian (@jantonielli01):
+A amigos que están arrancando les ofrecieron 20 o menos en muchos lugares 
+19:54:22 - Julian (@jantonielli01):
+Una poronga, pero bué
+19:54:47 - Martín Aimar (@maimar):
+es imposible 20, cuánto cuesta un alquiler?
+19:54:55 - Juan Scolari (@juanscolari):
+Si, seguramente mas cerca de 20k que de 30k
+19:55:12 - Rodrigo Ali (@rodrigojali):
+Fuera de discutir sobre qué piensa uno lo que es correcto, me interesa saber cuánto creen que el mercado está pagando en promedio, con los constraints que tiré
+19:55:19 - Juan Scolari (@juanscolari):
+Para un Trainee/Jr
+19:55:35 - Martín Valdés de León (@mvaldesdeleon):
+para eso anda a sysarmy
+19:55:41 - Martín Valdés de León (@mvaldesdeleon):
+mejor 1000 datapoints que
+19:55:42 - Martín Valdés de León (@mvaldesdeleon):
+5
+19:55:44 - Julian (@jantonielli01):
+impossible is nothing en argentina
+19:55:46 - Juan Scolari (@juanscolari):
+claro
+19:55:57 - Juan Scolari (@juanscolari):
+y le tenes que apuntar arriba del promedio
+19:56:00 - Rodrigo Ali (@rodrigojali):
+Sí, aunque también las encuestas te la rompe la presión social.
+19:56:38 - Rodrigo Ali (@rodrigojali):
+My point being: mucha gente teniendo algún tipo de "miedo" a decir POSTA cuánto gana.
+19:56:44 - Rodrigo Ali (@rodrigojali):
+Aunque la encuesta sea anónima.
+19:57:02 - Juan Scolari (@juanscolari):
+vos decis?
+19:57:04 - Julian (@jantonielli01):
+Se, ya lo hablamos, yo dije exactamente lo mismo
+19:57:07 - Rodrigo Ali (@rodrigojali):
+Seh, es algo que pasa.
+19:57:12 - Julian (@jantonielli01):
+Estamos re repetitivos ultimamente
+19:57:20 - Rodrigo Ali (@rodrigojali):
+Y aparte el problema de los promedios, es que un sueldo muy bajo o muy alto en una franja te rompe la media.
+19:57:39 - Julian (@jantonielli01):
+pero hacete un boxplot para eso
+19:57:42 - Juan Scolari (@juanscolari):
+<https://www.youtube.com/watch?v=NLfXyIZnuGI>
+19:57:51 - Rodrigo Ali (@rodrigojali):
+Jajajaja automatizalo si se repite mucho
+19:57:54 - Rodrigo Ali (@rodrigojali):
+UN BOT!!!
+19:58:16 - Julian (@jantonielli01):
+cada 2 dias que hable de sueldos en argentina y de que usar para cobrar desde afuera
+19:59:15 - Juan Scolari (@juanscolari):
+alguien tiene que agarrar esa papa caliente y hacerse un buen blog al respecto
+19:59:23 - Juan Scolari (@juanscolari):
+algun heroe jajaj
+19:59:24 - Rodrigo Ali (@rodrigojali):
+Silvio te llaman
+19:59:41 - Rodrigo Ali (@rodrigojali):
+Con tips para cambiar de laburo de forma 100% legal y sin quemar puentes
+19:59:52 - Julian (@jantonielli01):
+si escucho "que onda payoneer? te agarra la afip??" otra vez voy a gritar
+20:00:10 - Rodrigo Ali (@rodrigojali):
+O <@U09KF2RPU> que le encanta escribir.
+20:00:32 - Juan Scolari (@juanscolari):
+hagamos un canal aparte de esas dos cosas y listo :smile:
+20:00:42 - Juan Scolari (@juanscolari):
+un canal: #afip
+20:00:57 - Julian (@jantonielli01):
+buen intento afip employee
+20:01:08 - Juan Scolari (@juanscolari):
+un canal #evasion
+20:01:17 - Rodrigo Ali (@rodrigojali):
+TL;DR =
+
+Pregunté esto para mostrarle a un amigo las respuestas, el chabón ahora está cobrando ~18k en mano, tiene más de 1 año como dev, y dentro de poco le van a estar haciendo entrevistas en otra empresa. Yo le dije que pida 35~40k en mano.
+20:01:18 - Juan Scolari (@juanscolari):
+a ver quien se suscribe
+20:01:45 - Martín Valdés de León (@mvaldesdeleon):
+La mejor forma de saber cuanto podes cobrar en otro laburo es empezar a pedir.
+20:01:50 - Rodrigo Ali (@rodrigojali):
+Exacto.
+20:01:57 - Martín Valdés de León (@mvaldesdeleon):
+Hay que perderle el miedo a tirar numeros altos. En el peor caso no te llaman y ya.
+20:02:13 - Rodrigo Ali (@rodrigojali):
+Es que sí. Aparte nadie te va a recahzar por un numero un toque alto (mientras no delires)
+20:02:16 - Juan Scolari (@juanscolari):
+a fin de cuentas lo que te importa es cuanto podes ganar vos, no en cuanto anda el promedio
+20:02:22 - Rodrigo Ali (@rodrigojali):
+Te van a decir "mirá, te podemos ofrecer ESTO" y listo
+20:02:41 - Juan Scolari (@juanscolari):
+y si deliras te diran que no
+20:02:41 - Julian (@jantonielli01):
+Un buen salario booster es chamuyar que tenes mas experiencia
+20:02:43 - Rodrigo Ali (@rodrigojali):
+Y aceptás/negociás/rechazás ESTO y listo
+20:03:18 - Juan Scolari (@juanscolari):
+esta leyendo tu amigo?
+20:03:23 - Juan Scolari (@juanscolari):
+que pida 40k
+20:04:05 - Rodrigo Ali (@rodrigojali):
+En un rato le muestro
+20:04:31 - Rodrigo Ali (@rodrigojali):
+Che pero al final, ¿qué onda payoneer, te agarra la AFIP?
