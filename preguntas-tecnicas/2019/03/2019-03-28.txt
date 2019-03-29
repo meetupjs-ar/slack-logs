@@ -1,0 +1,292 @@
+21:02:44 - Martín Aimar (@maimar):
+uhh (?)
+07:52:15 - Maxi (@tholem98):
+Es recomendable usar cordova para convertir un sitio web, mas precisamente un e-commerce, a una app para smartphone?
+08:14:40 - Maxi (@tholem98):
+Y cual recomendarian para ese caso, cordova o nativescript?
+09:38:02 - Esteban Yañez (@eyanez):
+Depende mucho de lo que quieras hacer, yo iría por una pwa para arrancar, pero si queres ir por mobile, de esas dos opciones... Córdova quizás es más rápido para la migración, pero nativescript es mejor y más performante
+09:52:45 - Maxi (@tholem98):
+No se como orientar mi pregunta pero es algo como lo siguiente:
+
+¿La pwa como la harias? ¿En lugar de cordova o nativescript que utilizarias?
+09:54:40 - Esteban Yañez (@eyanez):
+te cambio la pregunta, conoces PWA? Si tiene que ser JS, usaria react-native
+10:07:10 - Maxi (@tholem98):
+Se un poco, no me queda muy claro la diferencia entre lo que hace cordova y una PWA. Algo diferente a react-native? Por que no me llevo muy bien con react, o al menos cuando intenté aprenderlo no me gusto su organización
+10:09:42 - Esteban Yañez (@eyanez):
+PWA no deja de ser la web que estas consumiendo, pero te da ventajas como manejo offline y notificaciones push. Se agregan configuraciones en la web que tenes actualmente y el usuario puede elegir, navegando la pagina, si se la quiere bajar como app
+10:10:23 - Esteban Yañez (@eyanez):
+Cordova tiene unos cuantos temas de performance, aunque es sencillo para hacer una migracion, el usuario final tiene que ir si o si al store a bajarse la app
+10:11:19 - Esteban Yañez (@eyanez):
+Nativescript y react-native, ambos son considerados apps nativas, xq funcionan muy bien. Si tengo que ir si o si por una app mobile en JS, utilizaria una de esas dos opciones.
+10:18:12 - Maxi (@tholem98):
+Genial. Muchisimas Gracias
+10:18:44 - Esteban Yañez (@eyanez):
+de nada
+11:35:29 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!! Recién hoy veo las respuestas!!
+11:48:17 - Santiago Ruffino (@santi_0898):
+Se puede colorear un conjunto de celdas con formato condicional en Spreadsheet? Tengo un grupo de 2 columnas y 3 filas. Necesito que, comparando dos celdas, ese GRUPO se pinte de verde o rojo. Puedo pintar una celda, pero me interesa el grupo
+12:00:19 - Mateo Silguero (@mfsilguero):
+Sip, podes hacerlo con formulas, ahi te busco bien como
+12:02:18 - Diego Harari (@diehara):
+ Saben como obtener una api de google maps sin TC?
+12:06:15 - Agustin Mulet (@sugusin):
+No, pero te paso un par de alternativas a google maps si te sirven:
+- <https://leafletjs.com>
+- <https://developer.here.com>
+12:07:49 - Gabriel Dominguez (@gabidominguez):
+Tengo entendido que te hace poner tarjeta pero no te cobra. Recién a partir de cierto número de request
+12:10:44 - Juan Bono (@juanbono):
+Depende el servicio que uses, aunque si o si para agregar la Google maps API (y las APIs relacionadas como Places API o Geocoding API) a tu proyecto tenés que tener una tarjeta asociada. Y te cobran por todo jajaj
+12:11:26 - Juan Bono (@juanbono):
+Si tenés una cuenta nueva tenés 300 USD de regalo así que sería gratis y dependiendo de la API que uses sale más barato o más caro
+12:15:03 - Mateo Silguero (@mfsilguero):
+Tenes que poner formato condicional, y elegir el rango de celdas.
+12:20:53 - Gabriel Dominguez (@gabidominguez):
+Sr Google Ud es diabólico
+12:30:42 - Santiago Ruffino (@santi_0898):
+Pude hacerlo. No estaba anclando las celdas que necesitaba comparar. Entonces me pintaba la primera celda, y cuando chequeaba la segunda, movia las celdas que tenia que comparar
+12:45:39 - Diego Harari (@diehara):
+motherfuckers
+12:45:41 - Diego Harari (@diehara):
+bueno gracias!
+12:45:52 - Diego Harari (@diehara):
+necesito si o si la google maps api
+13:42:28 - Maxi (@tholem98):
+Tengo problemas con mongodb:
+
+Estoy guardando usuarios en una base de datos llama "user", hasta ayer, cuando escribia "show collections" me aparecia. Hoy me apareció solo "foo" que es una que usé hace varios meses y pense que se habia eliminado porque me saltaba que solo existia "user".
+
+A pesar de que no se muestre cuando escribo "show collections" los usuarios se siguen guardando ya que son validados en un formulario y los acepta
+13:42:46 - Maxi (@tholem98):
+No se si me expresé bien, me falta vocabulario para poder explicarlo bien
+13:45:30 - Maxi (@tholem98):
+Ahí esta, estaba en otra db. Disculpen. La cambié con use."nombre de la base de datos"
+13:51:04 - Emiliano Ferreyra (@emiliano21):
+TC?
+13:53:26 - Agustin Polo (@apolo_codes):
+holas, alguien sabe de un sitio que explique git para principiantes? ingles o espanol da lo mismo. es solo para usarlo de guia para hacerles un workshop rapido a unos chicos que son QA y tienen que versionar sus tests :smile:
+13:58:14 - Maxi (@tholem98):
+Entiendo todo lo que explica, te lo recomiendo
+
+<https://www.youtube.com/watch?v=HiXLkL42tMU>
+14:01:08 - Jorge Cano (@jorgeucano):
+<https://git-scm.com/book/es/v2>
+14:01:38 - Mateo Silguero (@mfsilguero):
+No explica todo, pero si como resolver errores <https://ohshitgit.com>
+14:04:02 - Agustin Mulet (@sugusin):
+TC = tarjeta de crédito
+14:08:02 - Agustin Polo (@apolo_codes):
+<@U1XSDSM4H> demasiado largo para un workshop cortito jaja
+14:08:17 - Jorge Cano (@jorgeucano):
+saca lo que necesitas
+14:08:29 - Jorge Cano (@jorgeucano):
+son 4 comandos git -(?)
+15:01:47 - Maxi (@tholem98):
+Tengo el siguiente inconveniente:
+
+Tengo esto en el style:
+```@font-face {
+   font-family:'Arvo';
+   src: url(<https://fonts.googleapis.com/css?family=Arvo:700>);
+}```
+
+Pero cuando lo aplico la letra toma el estilo del arvo regular y no del bold, no encontre cual es el problema. Intente tambien aplicandolo en &lt;link&gt;, o directamente en la etiqueta de texto pero siempre me aparece el regular
+15:07:00 - Juan Calou (@jcalou):
+proba agregarle font-weight: 700
+15:07:17 - Juan Calou (@jcalou):
+porque el src solo lo carga, pero no lo aplica
+15:09:55 - Julian (@jantonielli01):
+Btw, <@UH5L5P3FY>: <https://css-tricks.com/dont-just-copy-the-font-face-out-of-google-fonts-urls/>
+15:10:24 - Julian (@jantonielli01):
+<@U4T954YNS> Pero esa fuente que está cargando en teoria viene con ese font-weight baked in
+15:10:45 - Juan Calou (@jcalou):
+creo que el default es 400, en gral
+15:10:52 - Juan Calou (@jcalou):
+para font-weight
+15:10:58 - Juan Calou (@jcalou):
+y si no lo seteas no lo toma
+15:11:41 - Julian (@jantonielli01):
+Pero si descargas la fuente de la manera que maxi lo hizo, *solo* descarga la versión 700 <https://fonts.googleapis.com/css?family=Arvo:700>
+15:12:02 - Juan Calou (@jcalou):
+ok, pero te tomara la fallback a 400
+15:12:19 - Juan Calou (@jcalou):
+porque el weight es 400, y si no lo encuentra busca el fallback
+15:12:34 - Julian (@jantonielli01):
+Puede ser, la verdad no sé
+15:14:44 - Martín Valdés de León (@mvaldesdeleon):
+_creo_ que si le pasas un weight q no tenes explicitamente importado "hace lo que puede"
+15:14:52 - Martín Valdés de León (@mvaldesdeleon):
+es decir, carga la fuente, e intenta hacerla mas gordita o menos gordita
+15:15:03 - Martín Valdés de León (@mvaldesdeleon):
+pero te va a cargar la fuente, eso si
+15:23:35 - Maxi (@tholem98):
+Le cambie el font-weight como <@U4T954YNS> lo sugirió y no funcionó, porque la class estaba en un div y por alguna razon el texto no lo heredaba. Cuando modifiqué el atributo style en la etiqueta a ahí funcionó pero si o si tenia que especificar el font-weight para que se vea gordita. Muchas gracias
+15:57:40 - Daniel Broder (@dabroder):
+<https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF>
+16:10:26 - Juan Calou (@jcalou):
+claro, en gral es recomendable definir font-size, weight y line-height en el mismo elemento que lo necesita, un &lt;a&gt;, un &lt;p&gt; un &lt;span&gt; o lo que sea, sino la herencia hace lo que se le canta
+17:06:00 - a0viedo (@a0viedo):
+git-it, el workshop de nodeschool, ahora está en una app electron <https://github.com/jlord/git-it-electron>
+17:34:08 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+`font-weight` no es obligatorio, si cargas una tipografia regular, asi que en tu caso te falto definir `font-weight: 700` dentro de `@font-face` para 'mapear' todo correctamente
+17:37:12 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+la cascada funciona muy bien, yo no iria redefiniendo todos esos valores a cada elemento, si algo no se esta comportando como esperas quizas se este evidenciando otro problema, como por ejemplo selectores poco especificos que afectan mas elementos de los que deberian
+17:41:08 - Diego Harari (@diehara):
+miren que grosso!
+17:41:08 - Diego Harari (@diehara):
+<https://wesbos.com/drone-javascript/>
+17:41:54 - Martin Carrera (@mcarrera):
+Enter the giveaway at <https://developer.ibm.com/contest> (US/ Canada Only — sorry!)
+17:42:24 - Martin Carrera (@mcarrera):
+justo en el 3er mundo :three: :earth_americas:
+17:52:33 - Emiliano Ferreyra (@emiliano21):
+jajja
+21:02:44 - Martín Aimar (@maimar):
+uhh (?)
+07:52:15 - Maxi (@tholem98):
+Es recomendable usar cordova para convertir un sitio web, mas precisamente un e-commerce, a una app para smartphone?
+08:14:40 - Maxi (@tholem98):
+Y cual recomendarian para ese caso, cordova o nativescript?
+09:38:02 - Esteban Yañez (@eyanez):
+Depende mucho de lo que quieras hacer, yo iría por una pwa para arrancar, pero si queres ir por mobile, de esas dos opciones... Córdova quizás es más rápido para la migración, pero nativescript es mejor y más performante
+09:52:45 - Maxi (@tholem98):
+No se como orientar mi pregunta pero es algo como lo siguiente:
+
+¿La pwa como la harias? ¿En lugar de cordova o nativescript que utilizarias?
+09:54:40 - Esteban Yañez (@eyanez):
+te cambio la pregunta, conoces PWA? Si tiene que ser JS, usaria react-native
+10:07:10 - Maxi (@tholem98):
+Se un poco, no me queda muy claro la diferencia entre lo que hace cordova y una PWA. Algo diferente a react-native? Por que no me llevo muy bien con react, o al menos cuando intenté aprenderlo no me gusto su organización
+10:09:42 - Esteban Yañez (@eyanez):
+PWA no deja de ser la web que estas consumiendo, pero te da ventajas como manejo offline y notificaciones push. Se agregan configuraciones en la web que tenes actualmente y el usuario puede elegir, navegando la pagina, si se la quiere bajar como app
+10:10:23 - Esteban Yañez (@eyanez):
+Cordova tiene unos cuantos temas de performance, aunque es sencillo para hacer una migracion, el usuario final tiene que ir si o si al store a bajarse la app
+10:11:19 - Esteban Yañez (@eyanez):
+Nativescript y react-native, ambos son considerados apps nativas, xq funcionan muy bien. Si tengo que ir si o si por una app mobile en JS, utilizaria una de esas dos opciones.
+10:18:12 - Maxi (@tholem98):
+Genial. Muchisimas Gracias
+10:18:44 - Esteban Yañez (@eyanez):
+de nada
+11:35:29 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!! Recién hoy veo las respuestas!!
+11:48:17 - Santiago Ruffino (@santi_0898):
+Se puede colorear un conjunto de celdas con formato condicional en Spreadsheet? Tengo un grupo de 2 columnas y 3 filas. Necesito que, comparando dos celdas, ese GRUPO se pinte de verde o rojo. Puedo pintar una celda, pero me interesa el grupo
+12:00:19 - Mateo Silguero (@mfsilguero):
+Sip, podes hacerlo con formulas, ahi te busco bien como
+12:02:18 - Diego Harari (@diehara):
+ Saben como obtener una api de google maps sin TC?
+12:06:15 - Agustin Mulet (@sugusin):
+No, pero te paso un par de alternativas a google maps si te sirven:
+- <https://leafletjs.com>
+- <https://developer.here.com>
+12:07:49 - Gabriel Dominguez (@gabidominguez):
+Tengo entendido que te hace poner tarjeta pero no te cobra. Recién a partir de cierto número de request
+12:10:44 - Juan Bono (@juanbono):
+Depende el servicio que uses, aunque si o si para agregar la Google maps API (y las APIs relacionadas como Places API o Geocoding API) a tu proyecto tenés que tener una tarjeta asociada. Y te cobran por todo jajaj
+12:11:26 - Juan Bono (@juanbono):
+Si tenés una cuenta nueva tenés 300 USD de regalo así que sería gratis y dependiendo de la API que uses sale más barato o más caro
+12:15:03 - Mateo Silguero (@mfsilguero):
+Tenes que poner formato condicional, y elegir el rango de celdas.
+12:20:53 - Gabriel Dominguez (@gabidominguez):
+Sr Google Ud es diabólico
+12:30:42 - Santiago Ruffino (@santi_0898):
+Pude hacerlo. No estaba anclando las celdas que necesitaba comparar. Entonces me pintaba la primera celda, y cuando chequeaba la segunda, movia las celdas que tenia que comparar
+12:45:39 - Diego Harari (@diehara):
+motherfuckers
+12:45:41 - Diego Harari (@diehara):
+bueno gracias!
+12:45:52 - Diego Harari (@diehara):
+necesito si o si la google maps api
+13:42:28 - Maxi (@tholem98):
+Tengo problemas con mongodb:
+
+Estoy guardando usuarios en una base de datos llama "user", hasta ayer, cuando escribia "show collections" me aparecia. Hoy me apareció solo "foo" que es una que usé hace varios meses y pense que se habia eliminado porque me saltaba que solo existia "user".
+
+A pesar de que no se muestre cuando escribo "show collections" los usuarios se siguen guardando ya que son validados en un formulario y los acepta
+13:42:46 - Maxi (@tholem98):
+No se si me expresé bien, me falta vocabulario para poder explicarlo bien
+13:45:30 - Maxi (@tholem98):
+Ahí esta, estaba en otra db. Disculpen. La cambié con use."nombre de la base de datos"
+13:51:04 - Emiliano Ferreyra (@emiliano21):
+TC?
+13:53:26 - Agustin Polo (@apolo_codes):
+holas, alguien sabe de un sitio que explique git para principiantes? ingles o espanol da lo mismo. es solo para usarlo de guia para hacerles un workshop rapido a unos chicos que son QA y tienen que versionar sus tests :smile:
+13:58:14 - Maxi (@tholem98):
+Entiendo todo lo que explica, te lo recomiendo
+
+<https://www.youtube.com/watch?v=HiXLkL42tMU>
+14:01:08 - Jorge Cano (@jorgeucano):
+<https://git-scm.com/book/es/v2>
+14:01:38 - Mateo Silguero (@mfsilguero):
+No explica todo, pero si como resolver errores <https://ohshitgit.com>
+14:04:02 - Agustin Mulet (@sugusin):
+TC = tarjeta de crédito
+14:08:02 - Agustin Polo (@apolo_codes):
+<@U1XSDSM4H> demasiado largo para un workshop cortito jaja
+14:08:17 - Jorge Cano (@jorgeucano):
+saca lo que necesitas
+14:08:29 - Jorge Cano (@jorgeucano):
+son 4 comandos git -(?)
+15:01:47 - Maxi (@tholem98):
+Tengo el siguiente inconveniente:
+
+Tengo esto en el style:
+```@font-face {
+   font-family:'Arvo';
+   src: url(<https://fonts.googleapis.com/css?family=Arvo:700>);
+}```
+
+Pero cuando lo aplico la letra toma el estilo del arvo regular y no del bold, no encontre cual es el problema. Intente tambien aplicandolo en &lt;link&gt;, o directamente en la etiqueta de texto pero siempre me aparece el regular
+15:07:00 - Juan Calou (@jcalou):
+proba agregarle font-weight: 700
+15:07:17 - Juan Calou (@jcalou):
+porque el src solo lo carga, pero no lo aplica
+15:09:55 - Julian (@jantonielli01):
+Btw, <@UH5L5P3FY>: <https://css-tricks.com/dont-just-copy-the-font-face-out-of-google-fonts-urls/>
+15:10:24 - Julian (@jantonielli01):
+<@U4T954YNS> Pero esa fuente que está cargando en teoria viene con ese font-weight baked in
+15:10:45 - Juan Calou (@jcalou):
+creo que el default es 400, en gral
+15:10:52 - Juan Calou (@jcalou):
+para font-weight
+15:10:58 - Juan Calou (@jcalou):
+y si no lo seteas no lo toma
+15:11:41 - Julian (@jantonielli01):
+Pero si descargas la fuente de la manera que maxi lo hizo, *solo* descarga la versión 700 <https://fonts.googleapis.com/css?family=Arvo:700>
+15:12:02 - Juan Calou (@jcalou):
+ok, pero te tomara la fallback a 400
+15:12:19 - Juan Calou (@jcalou):
+porque el weight es 400, y si no lo encuentra busca el fallback
+15:12:34 - Julian (@jantonielli01):
+Puede ser, la verdad no sé
+15:14:44 - Martín Valdés de León (@mvaldesdeleon):
+_creo_ que si le pasas un weight q no tenes explicitamente importado "hace lo que puede"
+15:14:52 - Martín Valdés de León (@mvaldesdeleon):
+es decir, carga la fuente, e intenta hacerla mas gordita o menos gordita
+15:15:03 - Martín Valdés de León (@mvaldesdeleon):
+pero te va a cargar la fuente, eso si
+15:23:35 - Maxi (@tholem98):
+Le cambie el font-weight como <@U4T954YNS> lo sugirió y no funcionó, porque la class estaba en un div y por alguna razon el texto no lo heredaba. Cuando modifiqué el atributo style en la etiqueta a ahí funcionó pero si o si tenia que especificar el font-weight para que se vea gordita. Muchas gracias
+15:57:40 - Daniel Broder (@dabroder):
+<https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF>
+16:10:26 - Juan Calou (@jcalou):
+claro, en gral es recomendable definir font-size, weight y line-height en el mismo elemento que lo necesita, un &lt;a&gt;, un &lt;p&gt; un &lt;span&gt; o lo que sea, sino la herencia hace lo que se le canta
+17:06:00 - a0viedo (@a0viedo):
+git-it, el workshop de nodeschool, ahora está en una app electron <https://github.com/jlord/git-it-electron>
+17:34:08 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+`font-weight` no es obligatorio, si cargas una tipografia regular, asi que en tu caso te falto definir `font-weight: 700` dentro de `@font-face` para 'mapear' todo correctamente
+17:37:12 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+la cascada funciona muy bien, yo no iria redefiniendo todos esos valores a cada elemento, si algo no se esta comportando como esperas quizas se este evidenciando otro problema, como por ejemplo selectores poco especificos que afectan mas elementos de los que deberian
+17:41:08 - Diego Harari (@diehara):
+miren que grosso!
+17:41:08 - Diego Harari (@diehara):
+<https://wesbos.com/drone-javascript/>
+17:41:54 - Martin Carrera (@mcarrera):
+Enter the giveaway at <https://developer.ibm.com/contest> (US/ Canada Only — sorry!)
+17:42:24 - Martin Carrera (@mcarrera):
+justo en el 3er mundo :three: :earth_americas:
+17:52:33 - Emiliano Ferreyra (@emiliano21):
+jajja
