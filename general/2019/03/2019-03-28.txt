@@ -1,0 +1,168 @@
+21:08:05 - Julian (@jantonielli01):
+Cuales son las cosas que no necesitaban solving?
+21:13:51 - Juan Bono (@juanbono):
+Cuando sea casi todo serverless seguro que hay cosas que van a dejar de importar (?)
+21:47:01 - Martín Aimar (@maimar):
+cloud is just someone else’s computer
+15:48:45 - nicolasbondancia (@nicolasbondancia):
+Hola! Qué tal? Estoy buscando algún servidor para hacer webs en Argentina qué funcione bien, que no sea extremadamente caro y que tengan buena atención a cliente. Venía laburando con hostinger pero hice un par de webs con WordPress y Woocommerce que andan lento por respuestas del servidor
+15:48:53 - nicolasbondancia (@nicolasbondancia):
+Y no me supieron solucionar nada
+15:52:31 - Nico (@nicokorn96):
+porque tiene que ser si o si argentino ?
+16:01:15 - Guido Vizoso (@guido.vizoso9):
+En <#CCDD7EBJM|hosting> te van a poder ayudar mejor <@U76C7PV52>
+16:02:15 - nicolasbondancia (@nicolasbondancia):
+Gracias!!!! (No tiene que ser argentino, solo que sirva bien en Argentina jajaj)
+16:16:47 - Mariano Ramonda (@ing.inf.mariano):
+just in case: <https://www.youtube.com/watch?v=w7KtOJWncnE>
+16:20:54 - Santiago Ruffino (@santi_0898):
+Hablo desde la ignorancia, pero parece muy vende "humo"
+16:21:06 - Martín Valdés de León (@mvaldesdeleon):
+Ojo igual, porque basta una masa critica de personas que "se crean que eso va a pasar" para generar una corrida
+16:21:10 - Martín Valdés de León (@mvaldesdeleon):
+y un consecuente corralito
+16:21:30 - Mariano Ramonda (@ing.inf.mariano):
+solo lo tire para que sepamos la resolucion que acaba de firmar el banco central
+16:21:32 - Marcos Casagrande (@marcoscvp90):
+y encima viniendo de un K... es exactamente lo que quieren que pase, que cunda el pánico.
+16:21:41 - Mariano Ramonda (@ing.inf.mariano):
+que pase despues, puede que nada, puede que corralito
+16:22:00 - Mariano Ramonda (@ing.inf.mariano):
+la cosa es que es una resolucion real
+16:22:04 - ari (@arieldiaz):
+pero puede pasar.. si los bancos no renuevan las leliq y van al dolar se pudre todo
+16:22:21 - Santiago Ruffino (@santi_0898):
+Obvio mariano, esta perfecto y gracias por compartir
+16:23:08 - Mariano Ramonda (@ing.inf.mariano):
+obviamente que  estas cosas las van a difundir los k, los cambiemos dudo que lo hagan
+16:23:31 - Martín Valdés de León (@mvaldesdeleon):
+al margen, como opinion personal, las chances de un corralito con este gobierno para mi son 0%
+16:23:37 - Martín Valdés de León (@mvaldesdeleon):
+antes que eso se van
+16:23:46 - Martín Valdés de León (@mvaldesdeleon):
+porque no tendrian manera de sostenerlo, desde lo ideologico
+16:24:08 - Martín Valdés de León (@mvaldesdeleon):
+seria como decirte que van a nombrar a cavallo ministro de economia otra vez
+16:24:33 - Mariano Ramonda (@ing.inf.mariano):
+alguien lo escucho entero? porque no me estarian dando los minutos me parece
+16:24:59 - Santiago Ruffino (@santi_0898):
+Voy por la mitad
+16:25:22 - Martin Carrera (@mcarrera):
+velocidad x1.25 ~ 1.5
+16:30:34 - Gonza Espeche (@espeche.g):
+No se puede escuchar a ese tipo después del "Ganó scioli por amplia diferencia"
+16:34:01 - Gonza Gluzman (@gonza):
+Creo que todo esto debería ir en <#C0PHBKNNA|forobardo>
+16:34:20 - Gonza Gluzman (@gonza):
+PERO, a mí no me extrañaría que esto termine en un corralito
+16:34:30 - Gonza Gluzman (@gonza):
+O sin corralito pero con un dólar por las re nubes
+16:35:57 - Gustavo Yauny (@gustavo.yauny):
+segun Clarin….. en una nota, se volvió atrás a una medida que se tomó en febrero
+16:36:13 - Gustavo Yauny (@gustavo.yauny):
+<https://www.clarin.com/economia/finanzas/nueva-norma-central-busca-bancos-trasladen-tasas-altas-plazos-fijos_0_FY34U9Kr8.html>
+16:36:14 - Gustavo Yauny (@gustavo.yauny):
+Mediante la comunicación A 6661, el organismo fijó que los bancos podrán tener Letras de Liquidez (Leliq) por hasta el 100% de su patrimonio y hasta el 100 % del promedio mensual de saldos de depósitos en pesos del mes en curso. Antes, los bancos podían tener Leliq por hasta el 65% de los depósitos del mes anterior.
+16:36:15 - Gustavo Yauny (@gustavo.yauny):
+.....
+16:36:19 - Gustavo Yauny (@gustavo.yauny):
+La medida que aplicó el Central va en la dirección contraria a otra que había publicado el 9 de febrero. En esa ocasión, cuando el dólar estaba bajando más de lo deseado, el organismo que conduce Guido Sandleris había ​limitado el monto máximo de Leliq que podrían tener los bancos desde el 100% al 65% de los depósito.
+16:38:02 - Mariano Ramonda (@ing.inf.mariano):
+lo puse aca por dos motivos, uno hay mas alcance y dos no estoy en forobardo
+16:38:44 - Santiago Ruffino (@santi_0898):
+Vamo a <#C0PHBKNNA|forobardo>
+16:38:45 - Mariano Ramonda (@ing.inf.mariano):
+claro, buscan que los bancos paguen mas tasas por que ahora el gobierno les va a estar regalando mas plata
+16:39:16 - Mariano Ramonda (@ing.inf.mariano):
+corto el movil aca porque no estoy en forobardo, salutes!
+16:47:07 - Gonza Gluzman (@gonza):
+Welcome to <#C0PHBKNNA|forobardo>!
+16:49:52 - Mariano Ramonda (@ing.inf.mariano):
+ya estuve, ya me fui, gracias, paso
+16:50:35 - Gonza Gluzman (@gonza):
+¯\_(ツ)_/¯
+21:08:05 - Julian (@jantonielli01):
+Cuales son las cosas que no necesitaban solving?
+21:13:51 - Juan Bono (@juanbono):
+Cuando sea casi todo serverless seguro que hay cosas que van a dejar de importar (?)
+21:47:01 - Martín Aimar (@maimar):
+cloud is just someone else’s computer
+15:48:45 - nicolasbondancia (@nicolasbondancia):
+Hola! Qué tal? Estoy buscando algún servidor para hacer webs en Argentina qué funcione bien, que no sea extremadamente caro y que tengan buena atención a cliente. Venía laburando con hostinger pero hice un par de webs con WordPress y Woocommerce que andan lento por respuestas del servidor
+15:48:53 - nicolasbondancia (@nicolasbondancia):
+Y no me supieron solucionar nada
+15:52:31 - Nico (@nicokorn96):
+porque tiene que ser si o si argentino ?
+16:01:15 - Guido Vizoso (@guido.vizoso9):
+En <#CCDD7EBJM|hosting> te van a poder ayudar mejor <@U76C7PV52>
+16:02:15 - nicolasbondancia (@nicolasbondancia):
+Gracias!!!! (No tiene que ser argentino, solo que sirva bien en Argentina jajaj)
+16:16:47 - Mariano Ramonda (@ing.inf.mariano):
+just in case: <https://www.youtube.com/watch?v=w7KtOJWncnE>
+16:20:54 - Santiago Ruffino (@santi_0898):
+Hablo desde la ignorancia, pero parece muy vende "humo"
+16:21:06 - Martín Valdés de León (@mvaldesdeleon):
+Ojo igual, porque basta una masa critica de personas que "se crean que eso va a pasar" para generar una corrida
+16:21:10 - Martín Valdés de León (@mvaldesdeleon):
+y un consecuente corralito
+16:21:30 - Mariano Ramonda (@ing.inf.mariano):
+solo lo tire para que sepamos la resolucion que acaba de firmar el banco central
+16:21:32 - Marcos Casagrande (@marcoscvp90):
+y encima viniendo de un K... es exactamente lo que quieren que pase, que cunda el pánico.
+16:21:41 - Mariano Ramonda (@ing.inf.mariano):
+que pase despues, puede que nada, puede que corralito
+16:22:00 - Mariano Ramonda (@ing.inf.mariano):
+la cosa es que es una resolucion real
+16:22:04 - ari (@arieldiaz):
+pero puede pasar.. si los bancos no renuevan las leliq y van al dolar se pudre todo
+16:22:21 - Santiago Ruffino (@santi_0898):
+Obvio mariano, esta perfecto y gracias por compartir
+16:23:08 - Mariano Ramonda (@ing.inf.mariano):
+obviamente que  estas cosas las van a difundir los k, los cambiemos dudo que lo hagan
+16:23:31 - Martín Valdés de León (@mvaldesdeleon):
+al margen, como opinion personal, las chances de un corralito con este gobierno para mi son 0%
+16:23:37 - Martín Valdés de León (@mvaldesdeleon):
+antes que eso se van
+16:23:46 - Martín Valdés de León (@mvaldesdeleon):
+porque no tendrian manera de sostenerlo, desde lo ideologico
+16:24:08 - Martín Valdés de León (@mvaldesdeleon):
+seria como decirte que van a nombrar a cavallo ministro de economia otra vez
+16:24:33 - Mariano Ramonda (@ing.inf.mariano):
+alguien lo escucho entero? porque no me estarian dando los minutos me parece
+16:24:59 - Santiago Ruffino (@santi_0898):
+Voy por la mitad
+16:25:22 - Martin Carrera (@mcarrera):
+velocidad x1.25 ~ 1.5
+16:30:34 - Gonza Espeche (@espeche.g):
+No se puede escuchar a ese tipo después del "Ganó scioli por amplia diferencia"
+16:34:01 - Gonza Gluzman (@gonza):
+Creo que todo esto debería ir en <#C0PHBKNNA|forobardo>
+16:34:20 - Gonza Gluzman (@gonza):
+PERO, a mí no me extrañaría que esto termine en un corralito
+16:34:30 - Gonza Gluzman (@gonza):
+O sin corralito pero con un dólar por las re nubes
+16:35:57 - Gustavo Yauny (@gustavo.yauny):
+segun Clarin….. en una nota, se volvió atrás a una medida que se tomó en febrero
+16:36:13 - Gustavo Yauny (@gustavo.yauny):
+<https://www.clarin.com/economia/finanzas/nueva-norma-central-busca-bancos-trasladen-tasas-altas-plazos-fijos_0_FY34U9Kr8.html>
+16:36:14 - Gustavo Yauny (@gustavo.yauny):
+Mediante la comunicación A 6661, el organismo fijó que los bancos podrán tener Letras de Liquidez (Leliq) por hasta el 100% de su patrimonio y hasta el 100 % del promedio mensual de saldos de depósitos en pesos del mes en curso. Antes, los bancos podían tener Leliq por hasta el 65% de los depósitos del mes anterior.
+16:36:15 - Gustavo Yauny (@gustavo.yauny):
+.....
+16:36:19 - Gustavo Yauny (@gustavo.yauny):
+La medida que aplicó el Central va en la dirección contraria a otra que había publicado el 9 de febrero. En esa ocasión, cuando el dólar estaba bajando más de lo deseado, el organismo que conduce Guido Sandleris había ​limitado el monto máximo de Leliq que podrían tener los bancos desde el 100% al 65% de los depósito.
+16:38:02 - Mariano Ramonda (@ing.inf.mariano):
+lo puse aca por dos motivos, uno hay mas alcance y dos no estoy en forobardo
+16:38:44 - Santiago Ruffino (@santi_0898):
+Vamo a <#C0PHBKNNA|forobardo>
+16:38:45 - Mariano Ramonda (@ing.inf.mariano):
+claro, buscan que los bancos paguen mas tasas por que ahora el gobierno les va a estar regalando mas plata
+16:39:16 - Mariano Ramonda (@ing.inf.mariano):
+corto el movil aca porque no estoy en forobardo, salutes!
+16:47:07 - Gonza Gluzman (@gonza):
+Welcome to <#C0PHBKNNA|forobardo>!
+16:49:52 - Mariano Ramonda (@ing.inf.mariano):
+ya estuve, ya me fui, gracias, paso
+16:50:35 - Gonza Gluzman (@gonza):
+¯\_(ツ)_/¯
