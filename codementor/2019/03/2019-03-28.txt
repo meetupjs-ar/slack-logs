@@ -1,0 +1,384 @@
+21:04:35 - Aldo Sorbara (@aldo1891):
+algun consejo para que te den bola? chat privado, request notes? o algo mas ?
+21:09:49 - Julian (@jantonielli01):
+Yo les hable inmediatamente por chat a todos los que les puse el I can help
+21:09:58 - Julian (@jantonielli01):
+De todas formas, me responden poco
+21:10:52 - Gonzalo González Mora (@gonzalogm):
+Imagino que cuando apenas arrancás debe estar más complicado, le deben dar bola a los que tienen muchos raitngs
+21:10:59 - Gonzalo González Mora (@gonzalogm):
+Como en todas estas plataformas
+21:11:46 - Julian (@jantonielli01):
+sep
+21:38:17 - Julian (@jantonielli01):
+la cantidad de pibes pidiendo ayuda con ejercicios en java es genial jaja
+22:36:34 - Marcos Casagrande (@marcoscvp90):
+Si, y lo peor Julián, es que todos esos pelotudos, lo tagean como "Javascript"
+22:36:46 - Marcos Casagrande (@marcoscvp90):
+Y no hay nada que me saque más de quisio que eso :cop:
+22:40:13 - Marcos Casagrande (@marcoscvp90):
+Hablarles directo. Pero tirale un texto que lo "atrape", ya que si no tenés reputación, mandando "I can help you" no ayudará mucho.
+22:40:48 - Julian (@jantonielli01):
+Jajaj yo no toco una línea de Java hace años 
+22:40:50 - Marcos Casagrande (@marcoscvp90):
+"Soy experto en X, ese error es algo muy común puedo resolverlo en pocos minutos, bla bla bla"
+22:40:55 - Julian (@jantonielli01):
+Pero agarre uno igual recién 
+22:41:17 - Julian (@jantonielli01):
+Hace un toque hice otro de haskell
+22:42:16 - Marcos Casagrande (@marcoscvp90):
+Pero bueno, los que recién arrancan, es *normal* hacer 1-5 sesiones la primera semana, es hasta tener algo de reputación, así que no se desanimen por eso digamos.
+22:42:59 - Aldo Sorbara (@aldo1891):
+ojala haga 5 sesiones la primer semana
+23:04:20 - Julian (@jantonielli01):
+Vos cuantas haces approx por semana, <@UGQTUDQSG>?
+23:13:18 - Marcos Casagrande (@marcoscvp90):
+Unas 20-25
+23:13:25 - Julian (@jantonielli01):
+que cheto
+23:14:27 - Marcos Casagrande (@marcoscvp90):
+Depende obviamente si estoy con otros proyectos o no, pero lo normal es eso. Lo máximo fueron 42.
+23:14:44 - Julian (@jantonielli01):
+Una banda
+23:15:45 - Gonzalo González Mora (@gonzalogm):
+:scream:
+23:16:26 - Marcos Casagrande (@marcoscvp90):
+Si, buena semana esa la verdad. La semana pasada creo que hice 33 igual. Pero lo normal una vez sos featured es 20-25 diría.
+23:17:01 - Marcos Casagrande (@marcoscvp90):
+Igual eso va variando, porque antes hacía sesiones muchas mas cortas, ahora la mayoría son de arriba de  40 minutos. 
+06:32:22 - Martín Aimar (@maimar):
+Me aprobaron :blush: 
+06:36:03 - Martín Aimar (@maimar):
+a todos les cayó el invite a codementor x también?
+09:44:06 - Luis Ventocilla (@lvsmix):
+el link de invitacion?
+09:44:15 - Luis Ventocilla (@lvsmix):
+creo que el historial lo borro
+09:45:58 - Martín Aimar (@maimar):
+está en el gist del topic
+09:57:16 - Luis Ventocilla (@lvsmix):
+joya, gracias
+10:26:53 - Martín Aimar (@maimar):
+qué cantidad de requests :open_mouth:
+11:36:13 - Martín Aimar (@maimar):
+che Marcos ante todo muchas gracias
+11:36:30 - Martín Aimar (@maimar):
+vos setupeaste transferwise ahí para que te paguen?
+11:37:32 - Marcos Casagrande (@marcoscvp90):
+De nada Martín!
+11:38:03 - Marcos Casagrande (@marcoscvp90):
+Si, yo uso TW. si no tenés la cuenta aún, te dejo mi referido.
+
+<http://transferwise.com/u/marcosc388|transferwise.com/u/marcosc388>
+11:38:24 - Marcos Casagrande (@marcoscvp90):
+Para que te garpen por TW, vas a tener que seleccionar *EUR*, aunque salga la opción de *USD* en CM, no funciona para Argentina eso.
+11:38:55 - Leandro Echevarria (@echevarrialeandro):
+<@U7MP5R4MC> Podrás agregar ese tip en el gist en algún rato libre?
+11:39:30 - Marcos Casagrande (@marcoscvp90):
+Lo de EUR lo dice <@U873ZQTEG>
+11:39:35 - Marcos Casagrande (@marcoscvp90):
+```
+¿Que medios de pago hay?
+
+Los que se pueden usar desde Argentina son: Payoneer, Transferwise (en EUR) y Paypal (No recomendado)
+Los que tengan cuenta de Transferwise europea, pueden hacer transferencias directamente en USD, los demás NO o queda en el limbo. En Payoneer todos pueden recibir USD.```
+11:40:09 - Leandro Echevarria (@echevarrialeandro):
+No dije nada :zipper_mouth_face:
+11:46:44 - Micael Robles (@micaelrobles):
+Yo ayer me hice cuenta en payoneer para ~evadir~ cobrar por ahí. Esa tarjeta se puede usar acá en cualquier lado sin problemas?
+11:49:04 - Martín Aimar (@maimar):
+si pero fijate los fees
+11:52:22 - Micael Robles (@micaelrobles):
+Hay fees para usarla también? Pensé q eran solo para extraer
+11:54:11 - Martín Aimar (@maimar):
+3.15 por operación
+21:04:35 - Aldo Sorbara (@aldo1891):
+algun consejo para que te den bola? chat privado, request notes? o algo mas ?
+21:09:49 - Julian (@jantonielli01):
+Yo les hable inmediatamente por chat a todos los que les puse el I can help
+21:09:58 - Julian (@jantonielli01):
+De todas formas, me responden poco
+21:10:52 - Gonzalo González Mora (@gonzalogm):
+Imagino que cuando apenas arrancás debe estar más complicado, le deben dar bola a los que tienen muchos raitngs
+21:10:59 - Gonzalo González Mora (@gonzalogm):
+Como en todas estas plataformas
+21:11:46 - Julian (@jantonielli01):
+sep
+21:38:17 - Julian (@jantonielli01):
+la cantidad de pibes pidiendo ayuda con ejercicios en java es genial jaja
+22:36:34 - Marcos Casagrande (@marcoscvp90):
+Si, y lo peor Julián, es que todos esos pelotudos, lo tagean como "Javascript"
+22:36:46 - Marcos Casagrande (@marcoscvp90):
+Y no hay nada que me saque más de quisio que eso :cop:
+22:40:13 - Marcos Casagrande (@marcoscvp90):
+Hablarles directo. Pero tirale un texto que lo "atrape", ya que si no tenés reputación, mandando "I can help you" no ayudará mucho.
+22:40:48 - Julian (@jantonielli01):
+Jajaj yo no toco una línea de Java hace años 
+22:40:50 - Marcos Casagrande (@marcoscvp90):
+"Soy experto en X, ese error es algo muy común puedo resolverlo en pocos minutos, bla bla bla"
+22:40:55 - Julian (@jantonielli01):
+Pero agarre uno igual recién 
+22:41:17 - Julian (@jantonielli01):
+Hace un toque hice otro de haskell
+22:42:16 - Marcos Casagrande (@marcoscvp90):
+Pero bueno, los que recién arrancan, es *normal* hacer 1-5 sesiones la primera semana, es hasta tener algo de reputación, así que no se desanimen por eso digamos.
+22:42:59 - Aldo Sorbara (@aldo1891):
+ojala haga 5 sesiones la primer semana
+23:04:20 - Julian (@jantonielli01):
+Vos cuantas haces approx por semana, <@UGQTUDQSG>?
+23:13:18 - Marcos Casagrande (@marcoscvp90):
+Unas 20-25
+23:13:25 - Julian (@jantonielli01):
+que cheto
+23:14:27 - Marcos Casagrande (@marcoscvp90):
+Depende obviamente si estoy con otros proyectos o no, pero lo normal es eso. Lo máximo fueron 42.
+23:14:44 - Julian (@jantonielli01):
+Una banda
+23:15:45 - Gonzalo González Mora (@gonzalogm):
+:scream:
+23:16:26 - Marcos Casagrande (@marcoscvp90):
+Si, buena semana esa la verdad. La semana pasada creo que hice 33 igual. Pero lo normal una vez sos featured es 20-25 diría.
+23:17:01 - Marcos Casagrande (@marcoscvp90):
+Igual eso va variando, porque antes hacía sesiones muchas mas cortas, ahora la mayoría son de arriba de  40 minutos. 
+06:32:22 - Martín Aimar (@maimar):
+Me aprobaron :blush: 
+06:36:03 - Martín Aimar (@maimar):
+a todos les cayó el invite a codementor x también?
+09:44:06 - Luis Ventocilla (@lvsmix):
+el link de invitacion?
+09:44:15 - Luis Ventocilla (@lvsmix):
+creo que el historial lo borro
+09:45:58 - Martín Aimar (@maimar):
+está en el gist del topic
+09:57:16 - Luis Ventocilla (@lvsmix):
+joya, gracias
+10:26:53 - Martín Aimar (@maimar):
+qué cantidad de requests :open_mouth:
+11:36:13 - Martín Aimar (@maimar):
+che Marcos ante todo muchas gracias
+11:36:30 - Martín Aimar (@maimar):
+vos setupeaste transferwise ahí para que te paguen?
+11:37:32 - Marcos Casagrande (@marcoscvp90):
+De nada Martín!
+11:38:03 - Marcos Casagrande (@marcoscvp90):
+Si, yo uso TW. si no tenés la cuenta aún, te dejo mi referido.
+
+<http://transferwise.com/u/marcosc388|transferwise.com/u/marcosc388>
+11:38:24 - Marcos Casagrande (@marcoscvp90):
+Para que te garpen por TW, vas a tener que seleccionar *EUR*, aunque salga la opción de *USD* en CM, no funciona para Argentina eso.
+11:38:55 - Leandro Echevarria (@echevarrialeandro):
+<@U7MP5R4MC> Podrás agregar ese tip en el gist en algún rato libre?
+11:39:30 - Marcos Casagrande (@marcoscvp90):
+Lo de EUR lo dice <@U873ZQTEG>
+11:39:35 - Marcos Casagrande (@marcoscvp90):
+```
+¿Que medios de pago hay?
+
+Los que se pueden usar desde Argentina son: Payoneer, Transferwise (en EUR) y Paypal (No recomendado)
+Los que tengan cuenta de Transferwise europea, pueden hacer transferencias directamente en USD, los demás NO o queda en el limbo. En Payoneer todos pueden recibir USD.```
+11:40:09 - Leandro Echevarria (@echevarrialeandro):
+No dije nada :zipper_mouth_face:
+11:46:44 - Micael Robles (@micaelrobles):
+Yo ayer me hice cuenta en payoneer para ~evadir~ cobrar por ahí. Esa tarjeta se puede usar acá en cualquier lado sin problemas?
+11:49:04 - Martín Aimar (@maimar):
+si pero fijate los fees
+11:52:22 - Micael Robles (@micaelrobles):
+Hay fees para usarla también? Pensé q eran solo para extraer
+11:54:11 - Martín Aimar (@maimar):
+3.15 por operación
+11:54:56 - Martín Aimar (@maimar):
+alguien había comentado que cobraba en payoneer y después se la pasaba a transferwise?
+12:00:29 - Marcos Casagrande (@marcoscvp90):
+Si, la tarjeta de payoneer, tiene fee al usarla porque la estás usando en una divisa en la cual la moneda no fue emitida y/o en una zona diferente a la de la tarjeta. El fee no es fijo, hablando con payoneer me dijeron que es *hasta* 3.15%, a veces, medio random no me cobran nada, otras si.
+12:00:45 - Marcos Casagrande (@marcoscvp90):
+Y podés hacer Payoneer &gt;  TW usando la tarjeta de débito de Payoneer.
+12:01:03 - Martín Aimar (@maimar):
+tendría alguna ventaja eso?
+12:02:28 - Marcos Casagrande (@marcoscvp90):
+Depende, lo bueno de tenerla en payoneer es que tenés la tarjeta para usar, y pagar servicios, como netflix, spotify etc en USD.
+12:02:49 - Marcos Casagrande (@marcoscvp90):
+también podés hacer mitad y mitad en CM, mitad de semanas a payoneer, mitad a TW.
+12:02:58 - Marcos Casagrande (@marcoscvp90):
+ahí ya depende de cada uno.
+12:03:54 - Martín Aimar (@maimar):
+sí tener la tarjeta de payoneer está bueno
+12:04:12 - Martín Aimar (@maimar):
+a mi se me venció y pedí la renovación pero me la mandaron y debe estar en algún cajón de la aduana
+12:15:05 - Luis Alvarez (@luistensai):
+no creo que la pare la aduana, pasa como correspondencia, sólo que tarda muchísimo en llegar
+12:15:34 - Luis Alvarez (@luistensai):
+pagar airbnb con la payoneer te salva del 21% jaja
+12:16:06 - Luis Alvarez (@luistensai):
+no hay wire transfer desde codementor, no?
+12:17:32 - Martín Aimar (@maimar):
+hay para cuenta de usa
+13:21:13 - Micael Robles (@micaelrobles):
+Tenes idea cuanto tarda máso?
+13:49:37 - Luis Alvarez (@luistensai):
+no tengo idea la verdad, siempre que se me venció me llegó antes de que pasara eso, cuando la pedí por primera vez tardó como 3 meses en llegarme
+14:14:57 - Marcos Casagrande (@marcoscvp90):
+A mi me tardó 2 semanas en llegar la tarjeta de Payoneer.
+14:37:23 - Micael Robles (@micaelrobles):
+like if you cried :cry:
+14:38:30 - Aldo Sorbara (@aldo1891):
+ese era el de la promise?
+14:38:35 - Micael Robles (@micaelrobles):
+si
+14:38:41 - Aldo Sorbara (@aldo1891):
+jaja si me mando lo mismo
+14:38:51 - Micael Robles (@micaelrobles):
+jajajajaja
+14:42:05 - Martín Aimar (@maimar):
+era fácil esa, la debe haber solucionado googleando
+14:42:47 - Marcos Casagrande (@marcoscvp90):
+Si, le hablamos todos a ese. Hay más de uno que se piensa que es StackOverflow. Y después cuando tiene que pagar tira bomba de humo.
+14:48:53 - Julian (@jantonielli01):
+Dejen de buitrearse
+14:49:33 - Aldo Sorbara (@aldo1891):
+estamos todos haciendo refresh cada X segundos?
+14:50:07 - Julian (@jantonielli01):
+Nop 
+14:50:21 - Julian (@jantonielli01):
+Yo recién almorcé y en un toque iba a empezar a laburar 
+14:50:35 - Julian (@jantonielli01):
+Estoy medio enfermo así que empiezo el día tipo 14:00 jaj
+14:53:15 - Martín Aimar (@maimar):
+no te caen las notificaciones?
+14:54:21 - Martín Aimar (@maimar):
+200/hr por ayuda en wordpress :suicide-rope:
+14:55:37 - Julian (@jantonielli01):
+algo q esta buggeado
+14:55:54 - Julian (@jantonielli01):
+es que en los freelos muestra el budget `$xxx/hr` y en las session solo `$xxx`
+14:55:59 - Julian (@jantonielli01):
+debería ser al reves
+14:56:00 - Aldo Sorbara (@aldo1891):
+si
+14:56:08 - Gonza Espeche (@espeche.g):
+jaja, se están canibalizando muchachos
+14:59:05 - Julian (@jantonielli01):
+Bueno ahí termine la session 4 
+14:59:09 - Julian (@jantonielli01):
+Bah, freelo
+14:59:21 - Julian (@jantonielli01):
+Era hacer una doubly linked list en Java jaja
+15:01:06 - Martín Aimar (@maimar):
+en serio los de vue no los agarra nadie
+15:01:39 - Julian (@jantonielli01):
+es que es un bajon
+15:02:05 - Micael Robles (@micaelrobles):
+yo agarro los de vue
+15:02:06 - Micael Robles (@micaelrobles):
+canté
+15:02:10 - Martín Aimar (@maimar):
+nah yo quiero che
+15:02:34 - Micael Robles (@micaelrobles):
+bueno
+15:02:37 - Micael Robles (@micaelrobles):
+que gane el que cobre menos
+15:02:39 - Micael Robles (@micaelrobles):
+ahre
+15:02:51 - Julian (@jantonielli01):
+ah, le hable al de la promise tambien
+15:02:52 - Julian (@jantonielli01):
+que boludo
+15:02:56 - Julian (@jantonielli01):
+era el de axios no?
+15:03:00 - Martín Aimar (@maimar):
+si
+15:03:06 - Julian (@jantonielli01):
+jajaja
+15:03:10 - Julian (@jantonielli01):
+vimos plata gratis
+15:03:18 - Micael Robles (@micaelrobles):
+jajajajaja
+15:03:23 - Micael Robles (@micaelrobles):
+low hanging fruit
+15:03:35 - Martín Aimar (@maimar):
+jaja la de cobrar los 15 por 1 minuto
+15:03:46 - Julian (@jantonielli01):
+Che igual eso no entendí como funciona bien
+15:03:54 - Julian (@jantonielli01):
+tuve una de 31min y me dio 31$
+15:04:11 - Julian (@jantonielli01):
+pense que serían 45$. Solo vale lo otro por el primer período?
+15:04:18 - Micael Robles (@micaelrobles):
+cobras el minuto en realidad
+15:04:21 - Micael Robles (@micaelrobles):
+con un minimo de 15
+15:04:30 - Julian (@jantonielli01):
+ah
+15:04:37 - Julian (@jantonielli01):
+que boludo jaj
+15:05:23 - Gabriel Fusca (@gfuscax):
+yo voy por la tercera session. Tuve una session de 5 minutos :stuck_out_tongue:
+15:05:35 - Julian (@jantonielli01):
+que capo
+15:05:38 - Julian (@jantonielli01):
+de que fueron?
+15:05:57 - Gabriel Fusca (@gfuscax):
+pero me senti medio ladri y le di algo más de ayuda porque se trabjo luego de que termino la session
+15:06:05 - Gabriel Fusca (@gfuscax):
+2 de python y 1 de redux
+15:07:26 - Marcos Casagrande (@marcoscvp90):
+Esto lo rompieron esta semana, antes estaba bien. Voy a reportarlo.
+15:09:45 - Marcos Casagrande (@marcoscvp90):
+buenísimo por esas sesiones. Se siente bien que tu tiempo sea valorado como corresponde :moneybag:
+15:10:23 - Micael Robles (@micaelrobles):
+che para los freelos tienen el mismo rate que para la sesiones?
+15:10:32 - Micael Robles (@micaelrobles):
+creo que me fui al carajo cobrando 60 la hora
+15:10:37 - Julian (@jantonielli01):
+es flat rate
+15:10:43 - Julian (@jantonielli01):
+pero son mas ratones con los que hablé
+15:13:35 - Marcos Casagrande (@marcoscvp90):
+Vos definís con el flaco lo que le cobrás. Yo siempre usé el mismo rate que tengo para las sesiones. Si tardo 1 hora, te cobro lo mismo que 1 hora de sesión.
+15:14:09 - Marcos Casagrande (@marcoscvp90):
+O sea, mientras el flaco te diga que si al precio que mandás ya está, es flat rate, y se acuerda de antemano.
+15:39:31 - Leandro Echevarria (@echevarrialeandro):
+Una pregunta de burrada, hablan mucho en las sesiones o codean mas de lo que hablan (mientras codean obvio que para eso pagan)?
+16:19:17 - ari (@arieldiaz):
+que manija me da este canal me dan ganas de dejar la facu y arrancar ingles a pleno:joy:
+16:20:50 - Marcos Casagrande (@marcoscvp90):
+Generalmente vas codeando y explicando un poco lo que vas haciendo o tenés que hacer. No es que tenés que relatar cada variable que declarás.
+16:21:21 - Leandro Echevarria (@echevarrialeandro):
+Copado
+16:46:57 - Gabriel Fusca (@gfuscax):
+hasta ahora fue hablar y ayudar a que codeen
+17:47:23 - Micael Robles (@micaelrobles):
+che y si hacemos sesiones entre nosotros para hacernos featured?
+17:47:29 - Micael Robles (@micaelrobles):
+:troll:
+17:48:04 - Rodrigo Ali (@rodrigojali):
+Y así es como codementor banneó Argentina de sus miembros. A lo Amazon.
+18:37:07 - Micael Robles (@micaelrobles):
+hoy tenia una session agendada a las 6 y me dejaron plantado :cry:
+20:04:34 - Julian (@jantonielli01):
+mandale 60
+20:04:39 - Martín Aimar (@maimar):
+me dice eso
+20:04:46 - Martín Aimar (@maimar):
+no es que no se pueda pero tira eso
+20:05:08 - Julian (@jantonielli01):
+no le dés bola
+20:23:51 - Marcos Casagrande (@marcoscvp90):
+"Por eso mismo estoy laburando acá, para tener un rate más alto"
+20:24:03 - Marcos Casagrande (@marcoscvp90):
+Siempre &gt; 60 USD
+20:32:49 - Martín Aimar (@maimar):
+puse 12usd/15min mi rate inicial hasta que vea un poco qué onda
+20:32:54 - Martín Aimar (@maimar):
+decís que no?
+20:43:47 - Gonzalo González Mora (@gonzalogm):
+para mi en sitios como este te juega en contra
+20:44:09 - Gonzalo González Mora (@gonzalogm):
+Onda “por qué cobrará menos que la mayoría? no sabrá tanto?”
+20:44:15 - Marcos Casagrande (@marcoscvp90):
+Lo que dice Gonzalo, 100%.
+20:44:40 - Marcos Casagrande (@marcoscvp90):
+Todos tienen 15/15 al menos, Un cliente no puede poner menos de 60/hr como su budget. Te perjudicás.
+20:45:04 - Marcos Casagrande (@marcoscvp90):
+La gente que está en CM, sabe que al menos va a pagar 60/hr, busca calidad, no precio.
+20:54:37 - Martín Aimar (@maimar):
+gotcha
