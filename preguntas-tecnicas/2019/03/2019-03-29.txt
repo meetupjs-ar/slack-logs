@@ -1,0 +1,334 @@
+21:12:56 - Maxi (@tholem98):
+Tengo span con un icono dentro de un h1 que dice "ingresar", cuando el font-size es de 15px o menos se posiciona al lado del texto pero con mayor tamaño se desplaza hacia abajo. Me gustaria saber cómo hacer para que queden uno al lado del otro con un tamaño de 33px. Todo dentro de un div col-md-3 mt-0
+21:13:49 - Maxi (@tholem98):
+Ahi lo solucioné, disculpen. Tenia el width, al 40%, lo cambie al 100% y ahora entra perfecto
+21:29:35 - Diego Herrera (@deherrera):
+buenas noches gente, tengo un problema que me esta quemando el bocho y ya no se que carajo probar
+21:29:48 - Diego Herrera (@deherrera):
+hay alguien por acá?
+21:30:21 - Gonzalo González Mora (@gonzalogm):
+Mandalo que por ahí alguien te puede ayudar
+21:33:05 - Diego Herrera (@deherrera):
+ok :smile:
+21:33:34 - Diego Herrera (@deherrera):
+bueno, el tema es asi, hice esta mini app, muy basica en react para ver el estado del tiempo es un ejercicio de Free Code Camp.
+21:34:01 - Diego Herrera (@deherrera):
+En mi compu anda bien, pero cuando la publico en gh-pages no funciona bien, es como que no actualiza la variable del "barrio".
+21:34:06 - Diego Herrera (@deherrera):
+El repo es este: <https://github.com/herreradiego/my_React_Weather_App>
+21:35:58 - Gonzalo González Mora (@gonzalogm):
+El link de GH pages cuál es?
+21:37:00 - Diego Herrera (@deherrera):
+veo que en la consola tira esos errores de arriba pero local en mi computadora funciona bien
+21:37:06 - Diego Herrera (@deherrera):
+el link es este: <https://herreradiego.github.io/my_React_Weather_App/>
+21:37:27 - Julian (@jantonielli01):
+Ahí tenes un error igual
+21:37:43 - Julian (@jantonielli01):
+Bastante claro : p
+21:38:08 - Julian (@jantonielli01):
+Te esta bloqueando esa request porque tu página está sobre *HTTPS*
+21:38:55 - Gonzalo González Mora (@gonzalogm):
+Sep, si le mandás al load unsafe scripts anda joya
+21:38:58 - Julian (@jantonielli01):
+Probá con esta api: <https://ipapi.co/json>
+21:39:05 - Gonzalo González Mora (@gonzalogm):
+Fijate de ver si tiene https esa web
+21:39:06 - Julian (@jantonielli01):
+que si acepta https
+21:39:49 - Julian (@jantonielli01):
+La razon por la que te anda en local es porque con localhost servís las cosas por *HTTP* (sin la *s*)
+21:39:56 - Julian (@jantonielli01):
+Entonces el browser no te bloquea nada
+21:44:50 - Diego Herrera (@deherrera):
+ahhh ok
+21:45:20 - Diego Herrera (@deherrera):
+ahora investigo chicos, mucha gracias
+21:45:49 - Diego Herrera (@deherrera):
+lo que me llama la atencion, es que debería marcar un error, en el texto donde dice conditions in....
+21:46:11 - Diego Herrera (@deherrera):
+porque supuestamente no puede "obtener" el nombre del barrio, por el error que ustedes me comentan, sin embargo pone "villa pueyrredon"
+21:47:24 - Diego Herrera (@deherrera):
+no deberia tirar un "undefined" donde yo llamo a {props.userData.subur}?
+22:06:15 - Diego Herrera (@deherrera):
+<@U7MP5R4MC> esta buena esa API pero es como media genérica ya que solo te tira la ciudad, la otra que usaba yo te tiraba el barrio :confused: igual gracias!
+23:46:41 - Julian (@jantonielli01):
+Se jaja te pase la primera que aparecía en google con https
+14:02:40 - Martín Aimar (@maimar):
+conocen alguna “librería” en el lenguaje que sea que escriba “a” o “an” de acuerdo a la palabra siguiente?
+14:06:30 - Julian (@jantonielli01):
+Debería ser bastante simple escribir una función que lo hago 
+14:06:57 - Martín Aimar (@maimar):
+no habría que tener un diccionario y hacerlo medio manual?
+14:08:17 - Sergio Daniel Xalambrí (@sergiodxa):
+en general es si la siguiente palabra empieza con una vocal usas `an`
+14:08:40 - Martín Valdés de León (@mvaldesdeleon):
+no te sirve guiarte por las letras, porque depende de la fonetica
+14:08:41 - Sergio Daniel Xalambrí (@sergiodxa):
+después podés poner casos especiales como `an HTTP`, `a user`, etc. que se pueden escribir
+14:08:48 - Martín Valdés de León (@mvaldesdeleon):
+`an understandment`, vs `a unicorn`
+14:09:09 - Martín Aimar (@maimar):
+claro, la regla general no es aplicable directamente
+14:09:34 - Martín Valdés de León (@mvaldesdeleon):
+estimo que buscar una libreria que corrija gramatica en si debe ser sencillo
+14:09:35 - Rodrigo Ali (@rodrigojali):
+Por ahi una regla general y un modulo que te exporte un objeto-diccionario de excepciones :stuck_out_tongue:
+14:09:35 - Martín Valdés de León (@mvaldesdeleon):
+te sirve eso?
+14:09:36 - Rodrigo Ali (@rodrigojali):
+Horrible
+14:09:43 - Martín Valdés de León (@mvaldesdeleon):
+o necesitas que si o si solo sea `a` vs `an` ?
+14:09:57 - Martín Valdés de León (@mvaldesdeleon):
+quiza podes agregar un filter a las sugerencias
+14:10:01 - Marcos Casagrande (@marcoscvp90):
+El tema es que la regla es para el sonido en realidad.
+14:10:14 - Marcos Casagrande (@marcoscvp90):
+Por eso las excepciones.
+14:10:29 - Julian (@jantonielli01):
+Las excepciones que no son excepciones 
+14:10:38 - Marcos Casagrande (@marcoscvp90):
+bueno claro, "excepciones"
+14:10:41 - Martín Aimar (@maimar):
+sssi, no necesito nada right now, pero pensaba que me lo podían llegar a pedir y quería ir viendo qué onda
+14:11:12 - Martín Aimar (@maimar):
+porque por ejemplo para pluralizar vi que se usa un diccionario
+14:11:47 - Julian (@jantonielli01):
+Las únicas palabras raras son las que empiezan con sonido de h creo 
+14:11:51 - Julian (@jantonielli01):
+Cómo HTTP 
+14:12:12 - Julian (@jantonielli01):
+Que las podes poner con ambas 
+14:12:25 - Julian (@jantonielli01):
+Pero tenes que pronunciar la h acorde
+14:12:34 - Martín Aimar (@maimar):
+quizás lo que estaría bueno sería algo que convierta la palabra a esos caracteres locos de la fonética
+14:12:59 - Juan Scolari (@juanscolari):
+<https://stackoverflow.com/questions/1288291/how-can-i-correctly-prefix-a-word-with-a-and-an/1288473#1288473>
+14:14:38 - Martín Aimar (@maimar):
+tremendo juan, los dirijo ahí cualquier cosa y con el punto 1 voy ganando tiempo
+14:15:05 - Juan Scolari (@juanscolari):
+jajajaaj, yo solo soy un proveedor de informacion
+14:16:03 - Julian (@jantonielli01):
+Bueno ya fue man 
+14:16:27 - Julian (@jantonielli01):
+Escribí literal `”a/an”` en cada palabra
+14:17:13 - Martín Aimar (@maimar):
+otra que todos y todas
+14:18:47 - Rodrigo Ali (@rodrigojali):
+O una NN y poné a entrenarla con muchos libros
+14:18:53 - Rodrigo Ali (@rodrigojali):
+Desde ahora hasta que te lo pidan
+14:19:39 - Juan Scolari (@juanscolari):
+<https://github.com/rigoneri/indefinite-article.js>
+14:19:55 - Juan Scolari (@juanscolari):
+hay que ver a cuantas les pega
+14:21:30 - Juan Scolari (@juanscolari):
+paso los test que tiraron ¯\_(ツ)_/¯¯
+14:22:17 - Martín Valdés de León (@mvaldesdeleon):
+proba con `zapallito`
+14:22:23 - Martín Aimar (@maimar):
+jajaj
+14:22:36 - Juan Scolari (@juanscolari):
+decime que te deberia dar asi lo truqueo de ultima jaj
+14:22:51 - Juan Scolari (@juanscolari):
+indefiniteArticle(‘zapallito’)
+“a”
+14:23:07 - Martín Valdés de León (@mvaldesdeleon):
+genial. asumo que defaultea a usar las letras.
+14:23:17 - Martín Aimar (@maimar):
+hay que mandarle pr para cambiar los indexOf por startsWith (?)
+14:26:34 - Juan Scolari (@juanscolari):
+Hace 7 años que no lo toca, no se si le dara mucha bola :smile:
+14:27:20 - Martín Aimar (@maimar):
+jajaj you got it
+14:58:35 - Leandro Echevarria (@echevarrialeandro):
+fork y lo hacemos en 5 min xd
+15:17:34 - Oscar (@odvs12):
+Hola, es normal que nvm me cree una carpeta ~ en el proyecto donde corro node?
+15:18:13 - a0viedo (@a0viedo):
+no es normal
+15:18:39 - a0viedo (@a0viedo):
+qué tenés en esa carpeta <@U5YDGD34Y>?
+15:21:35 - Oscar (@odvs12):
+Lo sospechaba :s, en la carpeta hay archivos de configuración de nvm, parece como si instalará ahí el node que voy a usar.  Me empezó a andar mal nvm desde que instale oh muy zsh. Estoy desde Linux on Windows (WSL)
+15:25:56 - a0viedo (@a0viedo):
+no usé zsh en WSL pero debería andar
+15:26:17 - a0viedo (@a0viedo):
+probá instalando nvm de nuevo
+15:27:41 - Oscar (@odvs12):
+Dale, gracias por la ayuda.
+15:30:56 - Aldo Sorbara (@aldo1891):
+<@U5YDGD34Y> exportaste el NVM_DIR en tu .zshrc ?
+15:32:45 - Oscar (@odvs12):
+Si pero lo quité porque me daba un error, voy a revisar esa parte
+15:33:20 - Aldo Sorbara (@aldo1891):
+deberia andar por ahi el tema
+21:12:56 - Maxi (@tholem98):
+Tengo span con un icono dentro de un h1 que dice "ingresar", cuando el font-size es de 15px o menos se posiciona al lado del texto pero con mayor tamaño se desplaza hacia abajo. Me gustaria saber cómo hacer para que queden uno al lado del otro con un tamaño de 33px. Todo dentro de un div col-md-3 mt-0
+21:13:49 - Maxi (@tholem98):
+Ahi lo solucioné, disculpen. Tenia el width, al 40%, lo cambie al 100% y ahora entra perfecto
+21:29:35 - Diego Herrera (@deherrera):
+buenas noches gente, tengo un problema que me esta quemando el bocho y ya no se que carajo probar
+21:29:48 - Diego Herrera (@deherrera):
+hay alguien por acá?
+21:30:21 - Gonzalo González Mora (@gonzalogm):
+Mandalo que por ahí alguien te puede ayudar
+21:33:05 - Diego Herrera (@deherrera):
+ok :smile:
+21:33:34 - Diego Herrera (@deherrera):
+bueno, el tema es asi, hice esta mini app, muy basica en react para ver el estado del tiempo es un ejercicio de Free Code Camp.
+21:34:01 - Diego Herrera (@deherrera):
+En mi compu anda bien, pero cuando la publico en gh-pages no funciona bien, es como que no actualiza la variable del "barrio".
+21:34:06 - Diego Herrera (@deherrera):
+El repo es este: <https://github.com/herreradiego/my_React_Weather_App>
+21:35:58 - Gonzalo González Mora (@gonzalogm):
+El link de GH pages cuál es?
+21:37:00 - Diego Herrera (@deherrera):
+veo que en la consola tira esos errores de arriba pero local en mi computadora funciona bien
+21:37:06 - Diego Herrera (@deherrera):
+el link es este: <https://herreradiego.github.io/my_React_Weather_App/>
+21:37:27 - Julian (@jantonielli01):
+Ahí tenes un error igual
+21:37:43 - Julian (@jantonielli01):
+Bastante claro : p
+21:38:08 - Julian (@jantonielli01):
+Te esta bloqueando esa request porque tu página está sobre *HTTPS*
+21:38:55 - Gonzalo González Mora (@gonzalogm):
+Sep, si le mandás al load unsafe scripts anda joya
+21:38:58 - Julian (@jantonielli01):
+Probá con esta api: <https://ipapi.co/json>
+21:39:05 - Gonzalo González Mora (@gonzalogm):
+Fijate de ver si tiene https esa web
+21:39:06 - Julian (@jantonielli01):
+que si acepta https
+21:39:49 - Julian (@jantonielli01):
+La razon por la que te anda en local es porque con localhost servís las cosas por *HTTP* (sin la *s*)
+21:39:56 - Julian (@jantonielli01):
+Entonces el browser no te bloquea nada
+21:44:50 - Diego Herrera (@deherrera):
+ahhh ok
+21:45:20 - Diego Herrera (@deherrera):
+ahora investigo chicos, mucha gracias
+21:45:49 - Diego Herrera (@deherrera):
+lo que me llama la atencion, es que debería marcar un error, en el texto donde dice conditions in....
+21:46:11 - Diego Herrera (@deherrera):
+porque supuestamente no puede "obtener" el nombre del barrio, por el error que ustedes me comentan, sin embargo pone "villa pueyrredon"
+21:47:24 - Diego Herrera (@deherrera):
+no deberia tirar un "undefined" donde yo llamo a {props.userData.subur}?
+22:06:15 - Diego Herrera (@deherrera):
+<@U7MP5R4MC> esta buena esa API pero es como media genérica ya que solo te tira la ciudad, la otra que usaba yo te tiraba el barrio :confused: igual gracias!
+23:46:41 - Julian (@jantonielli01):
+Se jaja te pase la primera que aparecía en google con https
+14:02:40 - Martín Aimar (@maimar):
+conocen alguna “librería” en el lenguaje que sea que escriba “a” o “an” de acuerdo a la palabra siguiente?
+14:06:30 - Julian (@jantonielli01):
+Debería ser bastante simple escribir una función que lo hago 
+14:06:57 - Martín Aimar (@maimar):
+no habría que tener un diccionario y hacerlo medio manual?
+14:08:17 - Sergio Daniel Xalambrí (@sergiodxa):
+en general es si la siguiente palabra empieza con una vocal usas `an`
+14:08:40 - Martín Valdés de León (@mvaldesdeleon):
+no te sirve guiarte por las letras, porque depende de la fonetica
+14:08:41 - Sergio Daniel Xalambrí (@sergiodxa):
+después podés poner casos especiales como `an HTTP`, `a user`, etc. que se pueden escribir
+14:08:48 - Martín Valdés de León (@mvaldesdeleon):
+`an understandment`, vs `a unicorn`
+14:09:09 - Martín Aimar (@maimar):
+claro, la regla general no es aplicable directamente
+14:09:34 - Martín Valdés de León (@mvaldesdeleon):
+estimo que buscar una libreria que corrija gramatica en si debe ser sencillo
+14:09:35 - Rodrigo Ali (@rodrigojali):
+Por ahi una regla general y un modulo que te exporte un objeto-diccionario de excepciones :stuck_out_tongue:
+14:09:35 - Martín Valdés de León (@mvaldesdeleon):
+te sirve eso?
+14:09:36 - Rodrigo Ali (@rodrigojali):
+Horrible
+14:09:43 - Martín Valdés de León (@mvaldesdeleon):
+o necesitas que si o si solo sea `a` vs `an` ?
+14:09:57 - Martín Valdés de León (@mvaldesdeleon):
+quiza podes agregar un filter a las sugerencias
+14:10:01 - Marcos Casagrande (@marcoscvp90):
+El tema es que la regla es para el sonido en realidad.
+14:10:14 - Marcos Casagrande (@marcoscvp90):
+Por eso las excepciones.
+14:10:29 - Julian (@jantonielli01):
+Las excepciones que no son excepciones 
+14:10:38 - Marcos Casagrande (@marcoscvp90):
+bueno claro, "excepciones"
+14:10:41 - Martín Aimar (@maimar):
+sssi, no necesito nada right now, pero pensaba que me lo podían llegar a pedir y quería ir viendo qué onda
+14:11:12 - Martín Aimar (@maimar):
+porque por ejemplo para pluralizar vi que se usa un diccionario
+14:11:47 - Julian (@jantonielli01):
+Las únicas palabras raras son las que empiezan con sonido de h creo 
+14:11:51 - Julian (@jantonielli01):
+Cómo HTTP 
+14:12:12 - Julian (@jantonielli01):
+Que las podes poner con ambas 
+14:12:25 - Julian (@jantonielli01):
+Pero tenes que pronunciar la h acorde
+14:12:34 - Martín Aimar (@maimar):
+quizás lo que estaría bueno sería algo que convierta la palabra a esos caracteres locos de la fonética
+14:12:59 - Juan Scolari (@juanscolari):
+<https://stackoverflow.com/questions/1288291/how-can-i-correctly-prefix-a-word-with-a-and-an/1288473#1288473>
+14:14:38 - Martín Aimar (@maimar):
+tremendo juan, los dirijo ahí cualquier cosa y con el punto 1 voy ganando tiempo
+14:15:05 - Juan Scolari (@juanscolari):
+jajajaaj, yo solo soy un proveedor de informacion
+14:16:03 - Julian (@jantonielli01):
+Bueno ya fue man 
+14:16:27 - Julian (@jantonielli01):
+Escribí literal `”a/an”` en cada palabra
+14:17:13 - Martín Aimar (@maimar):
+otra que todos y todas
+14:18:47 - Rodrigo Ali (@rodrigojali):
+O una NN y poné a entrenarla con muchos libros
+14:18:53 - Rodrigo Ali (@rodrigojali):
+Desde ahora hasta que te lo pidan
+14:19:39 - Juan Scolari (@juanscolari):
+<https://github.com/rigoneri/indefinite-article.js>
+14:19:55 - Juan Scolari (@juanscolari):
+hay que ver a cuantas les pega
+14:21:30 - Juan Scolari (@juanscolari):
+paso los test que tiraron ¯\_(ツ)_/¯¯
+14:22:17 - Martín Valdés de León (@mvaldesdeleon):
+proba con `zapallito`
+14:22:23 - Martín Aimar (@maimar):
+jajaj
+14:22:36 - Juan Scolari (@juanscolari):
+decime que te deberia dar asi lo truqueo de ultima jaj
+14:22:51 - Juan Scolari (@juanscolari):
+indefiniteArticle(‘zapallito’)
+“a”
+14:23:07 - Martín Valdés de León (@mvaldesdeleon):
+genial. asumo que defaultea a usar las letras.
+14:23:17 - Martín Aimar (@maimar):
+hay que mandarle pr para cambiar los indexOf por startsWith (?)
+14:26:34 - Juan Scolari (@juanscolari):
+Hace 7 años que no lo toca, no se si le dara mucha bola :smile:
+14:27:20 - Martín Aimar (@maimar):
+jajaj you got it
+14:58:35 - Leandro Echevarria (@echevarrialeandro):
+fork y lo hacemos en 5 min xd
+15:17:34 - Oscar (@odvs12):
+Hola, es normal que nvm me cree una carpeta ~ en el proyecto donde corro node?
+15:18:13 - a0viedo (@a0viedo):
+no es normal
+15:18:39 - a0viedo (@a0viedo):
+qué tenés en esa carpeta <@U5YDGD34Y>?
+15:21:35 - Oscar (@odvs12):
+Lo sospechaba :s, en la carpeta hay archivos de configuración de nvm, parece como si instalará ahí el node que voy a usar.  Me empezó a andar mal nvm desde que instale oh muy zsh. Estoy desde Linux on Windows (WSL)
+15:25:56 - a0viedo (@a0viedo):
+no usé zsh en WSL pero debería andar
+15:26:17 - a0viedo (@a0viedo):
+probá instalando nvm de nuevo
+15:27:41 - Oscar (@odvs12):
+Dale, gracias por la ayuda.
+15:30:56 - Aldo Sorbara (@aldo1891):
+<@U5YDGD34Y> exportaste el NVM_DIR en tu .zshrc ?
+15:32:45 - Oscar (@odvs12):
+Si pero lo quité porque me daba un error, voy a revisar esa parte
+15:33:20 - Aldo Sorbara (@aldo1891):
+deberia andar por ahi el tema
