@@ -1,0 +1,397 @@
+07:36:41 - Mariano Ramonda (@ing.inf.mariano):
+alguien conoce/tiene alguna referencia de <https://soshace.com/>?
+09:59:31 - Enoc Montiel (@enocmontiel):
+Yo estaba por hacer una entrevista hasta que me dijeron ```And one more question. Are you ready to use time tracker while working? We use <http://hubstaff.com> (a desktop timer that takes screenshots and measures activity).```
+09:59:57 - Enoc Montiel (@enocmontiel):
+:developers:
+10:00:39 - Enoc Montiel (@enocmontiel):
+Por ahi era de un cliente en particular…
+10:01:11 - Martin Bavio (@mbavio):
+a mi en mi primer trabajo remoto alla por el 2010 me pusieron uno de esos
+10:01:18 - Martin Bavio (@mbavio):
+nunca trabaje tanto :joy:
+10:01:20 - Rodrigo Juarez (@rjuarez):
+Hay que prender fuego todos los lugares que piden screenshots para laburar
+10:01:49 - Martin Bavio (@mbavio):
+peor es trabajar en globant :francella:
+10:02:32 - Leandro Echevarria (@echevarrialeandro):
+Creo que prefiero globant antes que un screenshot tracker :face_with_monocle:
+10:03:13 - Martin Bavio (@mbavio):
+“…prefiero Globant…” dijo nadie nunca
+10:03:22 - Jorge Cano (@jorgeucano):
+a mi me preguntaron que pensaba de eso
+10:03:46 - Jorge Cano (@jorgeucano):
+y mi respuesta fue… “si pensas que sacando screenshots vas a sacar mejores resultados, prefiero no entrar”
+10:04:07 - Jorge Cano (@jorgeucano):
+no me llamaron mas xD
+10:04:19 - Martin Bavio (@mbavio):
+yo creo que es una costumbre patetica, pero si uno esta por empezar a veces hay que hacer cosas aunque a uno le parezcan pateticas
+10:05:14 - Martin Bavio (@mbavio):
+Derecho de piso se llama. Idealmente no toma la forma de esta estupidez, pero si lo hace, creo que mas vale arrancar, juntar experiencia, ganar dolares y luego ya poder decir “metete los screenshots en el orto”
+10:05:39 - a0viedo (@a0viedo):
+nadie se pone a ver los screenshots para verificar además, es inviable
+10:05:45 - Martin Bavio (@mbavio):
+totalmente
+10:07:05 - Martín Aimar (@maimar):
+si realmente vale la pena un buen objetivo es trabajar para demostrar que no vale la pena trackear el tiempo
+10:07:24 - Rodrigo Juarez (@rjuarez):
+El tema es que Hubstaff además de screenshots te descuenta 10 mins si estuviste inactivo y boludeces por el estilo 
+10:08:27 - Rodrigo Juarez (@rjuarez):
+Te terminas estresando al pedo 
+10:08:41 - Martín Aimar (@maimar):
+nah eso ni en joda
+10:08:57 - Martin Bavio (@mbavio):
+jajaja posta?
+10:09:07 - Martin Bavio (@mbavio):
+que bajon ser el creador de una app tan amiga de la gorra
+10:09:49 - Santiago Ruffino (@santi_0898):
+Por Plata, hago una app que te de descargas eléctricas cada vez que tu código no compila. Jajaja
+10:10:08 - Martin Bavio (@mbavio):
+plata con mayuscula, alto cerdo capitalista (?)
+10:10:42 - Diego Harari (@diehara):
+Tan choto es global?
+10:10:47 - Santiago Ruffino (@santi_0898):
+El auto corrector me conoce. Jajaja
+10:10:51 - Diego Harari (@diehara):
+no sirve ni para arrancar como escuelita?
+10:11:24 - Santiago Ruffino (@santi_0898):
+Yo tuve una entrevista, y espero quedar. Jajaja
+10:13:58 - Martin Bavio (@mbavio):
+re sirve para arrancar como escuelita
+10:18:48 - Diego Ferrari (@die.a.ferrari):
+Ni idea, no la pagaba yo y fué hace como un año. Pero entiendo que están los precios en la web.
+11:13:48 - Aldo Gabriel Rojas (@aldogrojas5):
+Y si pones algún script q mueva el cursor para todos lados, otro q tipee cada determinada cantidad de tiempo, más una foto tuya en pose de laburo... es engañable? Te pones a mirar netflix y le metes eso... a la mierda el screenshot
+11:15:40 - Martín Valdés de León (@mvaldesdeleon):
+O, crazy idea, no labures para gente que te controla de ese modo.
+11:37:22 - Mariano Ramonda (@ing.inf.mariano):
+la verdad que es muy loco eso, es un toptal pero con un soft respirandote en el hombro
+11:37:36 - a0viedo (@a0viedo):
+pero quién te quita haberle ganado al sistema
+11:38:43 - Santiago Ruffino (@santi_0898):
+Siempre la satisfaccion es mayor si estas cagando a un software
+11:44:17 - Rodrigo Ali (@rodrigojali):
+Sin remera (?
+12:29:26 - Norman Perrin (@norman):
+En qué te afectaría que te controlen así? O sea pueden que te enganchen una foto abriendo slack, pero sería entendible supongo.
+12:30:12 - Leandro Echevarria (@echevarrialeandro):
+Personalmente, laburar con un software que me respire en el hombro así me estresa
+12:35:06 - Damian Diaz (@damianmdst):
+Y .. como afectar, afecta a la paciencia de la persona. Es como que estes codeando con el dedo en el culo. No debe estar bueno ..
+12:35:30 - Norman Perrin (@norman):
+Estaría bueno diferenciar que pueden controlarte sin molestarte tmb.
+
+El que te controlen y te estrese eso creo que sería otro problema si te estresa rendir cuentas. Hablo en general.
+Problema como que no podés trasparentar lo que hacés o que no podés justificar tu trabajo.
+12:36:26 - Norman Perrin (@norman):
+Lo escribí un poco mal.
+Lo que quiero decir es que una cosa es que te pregunten cómo venís cada 5 min personalmente, otra cosa es que corra un programa en background
+12:36:37 - Martin Carrera (@mcarrera):
+ambas cosas estan mal :joy:
+12:36:40 - Damian Diaz (@damianmdst):
+El micro management tampoco esta bueno eh
+12:36:41 - Damian Diaz (@damianmdst):
+jajaja
+12:36:55 - Martin Carrera (@mcarrera):
+hay gente que si no te ve que tenes el IDE abierto 9 horas al dia, piensa q no estas trabajando
+07:36:41 - Mariano Ramonda (@ing.inf.mariano):
+alguien conoce/tiene alguna referencia de <https://soshace.com/>?
+09:59:31 - Enoc Montiel (@enocmontiel):
+Yo estaba por hacer una entrevista hasta que me dijeron ```And one more question. Are you ready to use time tracker while working? We use <http://hubstaff.com> (a desktop timer that takes screenshots and measures activity).```
+09:59:57 - Enoc Montiel (@enocmontiel):
+:developers:
+10:00:39 - Enoc Montiel (@enocmontiel):
+Por ahi era de un cliente en particular…
+10:01:11 - Martin Bavio (@mbavio):
+a mi en mi primer trabajo remoto alla por el 2010 me pusieron uno de esos
+10:01:18 - Martin Bavio (@mbavio):
+nunca trabaje tanto :joy:
+10:01:20 - Rodrigo Juarez (@rjuarez):
+Hay que prender fuego todos los lugares que piden screenshots para laburar
+10:01:49 - Martin Bavio (@mbavio):
+peor es trabajar en globant :francella:
+10:02:32 - Leandro Echevarria (@echevarrialeandro):
+Creo que prefiero globant antes que un screenshot tracker :face_with_monocle:
+10:03:13 - Martin Bavio (@mbavio):
+“…prefiero Globant…” dijo nadie nunca
+10:03:22 - Jorge Cano (@jorgeucano):
+a mi me preguntaron que pensaba de eso
+10:03:46 - Jorge Cano (@jorgeucano):
+y mi respuesta fue… “si pensas que sacando screenshots vas a sacar mejores resultados, prefiero no entrar”
+10:04:07 - Jorge Cano (@jorgeucano):
+no me llamaron mas xD
+10:04:19 - Martin Bavio (@mbavio):
+yo creo que es una costumbre patetica, pero si uno esta por empezar a veces hay que hacer cosas aunque a uno le parezcan pateticas
+10:05:14 - Martin Bavio (@mbavio):
+Derecho de piso se llama. Idealmente no toma la forma de esta estupidez, pero si lo hace, creo que mas vale arrancar, juntar experiencia, ganar dolares y luego ya poder decir “metete los screenshots en el orto”
+10:05:39 - a0viedo (@a0viedo):
+nadie se pone a ver los screenshots para verificar además, es inviable
+10:05:45 - Martin Bavio (@mbavio):
+totalmente
+10:07:05 - Martín Aimar (@maimar):
+si realmente vale la pena un buen objetivo es trabajar para demostrar que no vale la pena trackear el tiempo
+10:07:24 - Rodrigo Juarez (@rjuarez):
+El tema es que Hubstaff además de screenshots te descuenta 10 mins si estuviste inactivo y boludeces por el estilo 
+10:08:27 - Rodrigo Juarez (@rjuarez):
+Te terminas estresando al pedo 
+10:08:41 - Martín Aimar (@maimar):
+nah eso ni en joda
+10:08:57 - Martin Bavio (@mbavio):
+jajaja posta?
+10:09:07 - Martin Bavio (@mbavio):
+que bajon ser el creador de una app tan amiga de la gorra
+10:09:49 - Santiago Ruffino (@santi_0898):
+Por Plata, hago una app que te de descargas eléctricas cada vez que tu código no compila. Jajaja
+10:10:08 - Martin Bavio (@mbavio):
+plata con mayuscula, alto cerdo capitalista (?)
+10:10:42 - Diego Harari (@diehara):
+Tan choto es global?
+10:10:47 - Santiago Ruffino (@santi_0898):
+El auto corrector me conoce. Jajaja
+10:10:51 - Diego Harari (@diehara):
+no sirve ni para arrancar como escuelita?
+10:11:24 - Santiago Ruffino (@santi_0898):
+Yo tuve una entrevista, y espero quedar. Jajaja
+10:13:58 - Martin Bavio (@mbavio):
+re sirve para arrancar como escuelita
+10:18:48 - Diego Ferrari (@die.a.ferrari):
+Ni idea, no la pagaba yo y fué hace como un año. Pero entiendo que están los precios en la web.
+11:13:48 - Aldo Gabriel Rojas (@aldogrojas5):
+Y si pones algún script q mueva el cursor para todos lados, otro q tipee cada determinada cantidad de tiempo, más una foto tuya en pose de laburo... es engañable? Te pones a mirar netflix y le metes eso... a la mierda el screenshot
+11:15:40 - Martín Valdés de León (@mvaldesdeleon):
+O, crazy idea, no labures para gente que te controla de ese modo.
+11:37:22 - Mariano Ramonda (@ing.inf.mariano):
+la verdad que es muy loco eso, es un toptal pero con un soft respirandote en el hombro
+11:37:36 - a0viedo (@a0viedo):
+pero quién te quita haberle ganado al sistema
+11:38:43 - Santiago Ruffino (@santi_0898):
+Siempre la satisfaccion es mayor si estas cagando a un software
+11:44:17 - Rodrigo Ali (@rodrigojali):
+Sin remera (?
+12:29:26 - Norman Perrin (@norman):
+En qué te afectaría que te controlen así? O sea pueden que te enganchen una foto abriendo slack, pero sería entendible supongo.
+12:30:12 - Leandro Echevarria (@echevarrialeandro):
+Personalmente, laburar con un software que me respire en el hombro así me estresa
+12:35:06 - Damian Diaz (@damianmdst):
+Y .. como afectar, afecta a la paciencia de la persona. Es como que estes codeando con el dedo en el culo. No debe estar bueno ..
+12:35:30 - Norman Perrin (@norman):
+Estaría bueno diferenciar que pueden controlarte sin molestarte tmb.
+
+El que te controlen y te estrese eso creo que sería otro problema si te estresa rendir cuentas. Hablo en general.
+Problema como que no podés trasparentar lo que hacés o que no podés justificar tu trabajo.
+12:36:26 - Norman Perrin (@norman):
+Lo escribí un poco mal.
+Lo que quiero decir es que una cosa es que te pregunten cómo venís cada 5 min personalmente, otra cosa es que corra un programa en background
+12:36:37 - Martin Carrera (@mcarrera):
+ambas cosas estan mal :joy:
+12:36:40 - Damian Diaz (@damianmdst):
+El micro management tampoco esta bueno eh
+12:36:41 - Damian Diaz (@damianmdst):
+jajaja
+12:36:55 - Martin Carrera (@mcarrera):
+hay gente que si no te ve que tenes el IDE abierto 9 horas al dia, piensa q no estas trabajando
+12:37:06 - Norman Perrin (@norman):
+Ese sería otro problema
+12:37:06 - Gonzalo González Mora (@gonzalogm):
+Creo que el tema es si se valora que cumplas los objetivos de tu laburo, o simplemente que estés sentado 8hs enfrente de la PC trabajando
+12:37:15 - Martin Carrera (@mcarrera):
+exacto
+12:37:25 - Martin Carrera (@mcarrera):
+el tema es que si te controlan con screenshots, es porque van a esperar q tengas el IDE abierto 9 horas al dia
+12:37:26 - Gonza Gluzman (@gonza):
+No sé uds, yo aún sin boludear demasiado, tengo el whatsapp web abierto
+12:37:28 - Gonzalo González Mora (@gonzalogm):
+A mi no me interesa trabajar en un lugar donde es lo 2do
+12:37:46 - Gonza Gluzman (@gonza):
+Mirá si aparece un screenshot de una conversación
+12:37:50 - Gonza Gluzman (@gonza):
+Es medio border
+12:38:38 - Norman Perrin (@norman):
+Todo lo que mencionan son otros problemas que surgen de pensar si los van a controlar o no. Justamente me parece un problema que no puedan decir que tienen wpp abierto cada tanto, o que salen a caminar cuando están quemados, etc
+12:40:40 - Martin Carrera (@mcarrera):
+creo que lo de <@U5L3AMCKT> venia mas por un lado de privacidad que otra cosa
+12:40:49 - Gonza Gluzman (@gonza):
+Eso
+12:41:01 - Gonza Gluzman (@gonza):
+O si entro a pagar una cuenta a mi homebanking
+12:43:24 - Norman Perrin (@norman):
+Mi respuesta general a eso sería parar el recorder, tomarte tus 10 min para el home banking y seguir trabajando dsps, pero no pasar eso como horas de trabajo. O de pasarlos agregarlo dsps.
+13:00:37 - Rodrigo Juarez (@rjuarez):
+Más de 3 / 4 horas de codeo personalmente por día no llego (sin quemarme), si las haces espaciadas esos breaks que te tomas en el medio los vas a cobrar (facturandole 7 / 8 horas) o vas a cobrar esas 3 / 4 horas con un margen más alto
+13:01:56 - Rodrigo Juarez (@rjuarez):
+Personalmente la persona que está del otro lado no entiende que las 8 horas de trabajo terminan siendo menos (y por eso prefiero no usar Hubstaff o trabajar con gente que trackee)
+13:02:18 - Leandro Echevarria (@echevarrialeandro):
+^
+13:02:49 - Norman Perrin (@norman):
+Sería un problema de comunicación y entendimiento
+13:08:42 - Diego Harari (@diehara):
+por mas crack que seas el cerebro se agota fisicamente despues de pensar 3,4 horas, esta comprobado que cuanto mas corta la jornada laboral, mas productivo es el laburo
+13:09:01 - Diego Harari (@diehara):
+Obvio no digo que labures 1 hora , pero 4,5 6, horas deberían ser lo que uno tendría que laburar
+13:09:51 - Diego Harari (@diehara):
+Esta lleno de notas como esta
+13:09:51 - Diego Harari (@diehara):
+<https://www.ft.com/content/d97bcb1e-b102-11e8-99ca-68cf89602132>
+13:10:02 - Norman Perrin (@norman):
+Aclaro por las dudas, no dije que se pueda trabajar 8hs full al día. Sino que el que no se pueda ser transparente sobre eso indica otro problema para mi
+13:16:30 - Santiago Ruffino (@santi_0898):
+Coincido en que la gente desconoce que estar trabajando para nosotros
+13:16:42 - Santiago Ruffino (@santi_0898):
+Osea, tener abierta una IDE no quiere deir que estas trabajando
+13:16:55 - Santiago Ruffino (@santi_0898):
+Y abrir Slack para preguntar algo tambien puede para algo del trabajo
+13:18:17 - gillchristian (@gillchristian):
+Abrir slack para <#C0PHBKNNA|forobardo> es parte del trabajo
+13:18:47 - Santiago Ruffino (@santi_0898):
+A mi me dijeron un par de veces el tema de Slack y dije "Mira, yo abro Slack y pregunto lo que necesito. Si no, me pongo a googlear y listo. Mientras el codigo funcione, yo saco las respuestas de donde puedo"
+13:19:31 - Santiago Ruffino (@santi_0898):
+Entre perder 20 minutos buscando en Stack Overflow y esas giladas, prefiero 5 minutos en Slack y listo
+13:24:40 - Ezequiel Gentile (@gentilmente):
+esos soft deben sacar capturas del display del laptop. ¿qué pasa si tenes varios monitores? En la foto salís, metes un gif que estás codeando como un campeón y ya. Digo, es obvio que lo primero que va a hacer un programador es hackear la vigilancia. Mala decisión del empleador, muy mala
+13:27:14 - Mariano Argañaras (@arga.mariano):
+Otra cosa es que si necesitas controlar a tus empleados, demostras falta de confianza
+13:27:32 - Mariano Argañaras (@arga.mariano):
+trackear ese tiempo no te da ninguna metrica util, es totalmente en vano
+13:27:47 - Mariano Argañaras (@arga.mariano):
+sumado a la falta de privacidad
+13:28:01 - Damian Diaz (@damianmdst):
+Es que la gente que hace las reglas justamente no viene del palo. Un ejemplo sencillo. Uso una pc del cliente con un proxy que me impide entrar a netflix. Pero hice un freelo pusheando a un repo random de un cliente mio y no paso nada.
+13:28:47 - Mariano Argañaras (@arga.mariano):
+yo por ejemplo no tengo drama de decir me tomo tiempo para esto, corto para lo otro. La transparencia no es un problema, pero a nadie le gusta codear con la supervisión constante
+13:33:35 - Enoc Montiel (@enocmontiel):
+Igual el laburo se ve en el repo y ya, no tenes que estar sacando screens a ver que hace, no hay razon para hacerlo si podes revisar los commits que mete.
+13:34:14 - Enoc Montiel (@enocmontiel):
+Ya de por si me dan cositas las VPN pero aja ahi no hay escapatoria, pero que me saquen screens nah
+13:35:59 - Enoc Montiel (@enocmontiel):
+Con la VPN del cliente que estoy ahora, abri un link turbio que me pasaron por whatsapp sin acordarme de la VPN y me salio la pantallota con mi user y un blocker de adult page jejeps
+13:36:08 - Gonza Gluzman (@gonza):
+Yendo a lo que apunto <@U21990LAH>, creo que lo mejor es decir: “voy a laburar x horas, pero voy a mechar con otras cosas”
+13:36:14 - Gonza Gluzman (@gonza):
+Porque eso es blanquear la realidad
+13:36:38 - Gonza Gluzman (@gonza):
+Y no creo tampoco que sea realista no cortar ni un segundo
+13:36:44 - Enoc Montiel (@enocmontiel):
+Pero eso no hay que blanquearlo, eso lo hace TODO el mundo
+13:36:49 - Gonza Gluzman (@gonza):
+Por eso
+13:37:29 - Gonza Gluzman (@gonza):
+Y volver al famoso `así que metete los screenshots en el orto`
+13:37:36 - Gonzalo González Mora (@gonzalogm):
+jaajaja
+13:37:39 - Enoc Montiel (@enocmontiel):
+Es mas, si pasa todo el dia en el codigo es porque no sabe una mierda y esta viendo que entiende :joy:
+13:37:48 - Gonza Gluzman (@gonza):
+jajajajaj
+13:39:44 - Enoc Montiel (@enocmontiel):
+No se si vieron la pagina del tracker con el que empezo esta charla, pero aqui estan las features <https://hubstaff.com/features>
+13:40:11 - Enoc Montiel (@enocmontiel):
+y tiene ```GPS tracking
+Record time on the road and at work sites with mobile-based time tracking. Your team can clock in and out from anywhere, and you'll get better job costing, scheduling, and payments.```
+13:40:15 - Enoc Montiel (@enocmontiel):
+:eyes:
+13:40:34 - Nicolas Accetta (@nicolas.accetta):
+diaggg
+13:41:04 - Aldo Sorbara (@aldo1891):
+que opinará el dev que hizo Hubstaff si alguien le dice que tiene que usarlo ? :thinking_face:
+13:41:08 - Enoc Montiel (@enocmontiel):
+Tenes mas libertad si te encierra en una celda con la compu pero sin el tracker
+13:42:58 - Damian Diaz (@damianmdst):
+Best response ever !
+13:48:48 - Rodrigo Ali (@rodrigojali):
+Yo me quedo con algo muy cierto que dijo <@U0TFEHWEA> una vez, o que yo lo recuerdo de la siguiente manera al menos:
+"Laburar de X a Y un día, o N horas por día, no quiere decir que estés codeando todas esas horas, si no que estás disponible laboralmente todas esas horas". En el sentido que... te dispersás en tu laburo porque al menos en este rubro si no lo hacés, entrás en burnout. Así que lees el diario, ves alguna boludez, lo que sea... y después volvés a "trabajar" per se, ya sea investigando, desarrollando, documentando, pensando una solución, etc.
+13:49:20 - Rodrigo Ali (@rodrigojali):
+Pero si te digo de laburar de 9:00 a 18:00 no quiere decir que me vas a tener todas esas horas codeando y nada más.
+13:51:24 - Rodrigo Juarez (@rjuarez):
+por lo que recuerdo le saca a todos los monitores
+13:59:48 - Gonza Gluzman (@gonza):
+<https://imgs.xkcd.com/comics/compiling.png>
+14:19:09 - Martín Valdés de León (@mvaldesdeleon):
+Personalmente, el problema en que me controlen las horas de actividad es que me caga el _margen de ganancia_.
+14:20:16 - Martín Valdés de León (@mvaldesdeleon):
+Dicho de otra manera: IMHO, las duraciones de un proyecto/task en general son "universales". Yo nunca paso mi estimativo real de lo que me lleva a mi hacer X task, estando 100% del tiempo en flow. Paso un estimativo de lo que le llevaria "a un sr dev promedio".
+14:20:40 - Martín Valdés de León (@mvaldesdeleon):
+Y poder hacer una tarea que estimo en "8 person hours" en 30 minutos, porque justo es en un area en la cual la descoso, es mi margen de ganancia.
+14:21:25 - Martín Valdés de León (@mvaldesdeleon):
+Por que hago esto? Porque si tengo que cobrarte la hora 16 veces mas cara que la hora promedio, seguramente no me contrates.
+14:25:13 - Martin Bavio (@mbavio):
+Que sos del Sargento Garcia?
+14:26:25 - Rodrigo Ali (@rodrigojali):
+Es que aparte hay otra cosa más, que está atada a lo que decís y que pasaron un video la otra vuelta relacionado al tema del cambio de Marca País de Argentina... y es que  "es lo que sale el laburo", no la hora de laburo en sí. Porque si no pasa lo que decís vos, tenés un área donde la descocés y porque laburaste más rápido que otra persona con menos expertise... ¿vas a cobrar menos? No tiene sentido.
+14:31:53 - Julian (@jantonielli01):
+Yo creo que la última vez que trabaje 8 horas en oficina, si codeaba 4 de esas era mucho 
+14:32:21 - Julian (@jantonielli01):
+Sorry not sorry 
+14:38:38 - Martin Bavio (@mbavio):
+quien codea 8 horas seguidas? un robot?
+14:43:11 - Juan Scolari (@juanscolari):
+necesitas un ayudin para estar codeando 8 horas seguidas
+14:48:04 - Gonza Espeche (@espeche.g):
+el ayudín de Swordfish :speak_no_evil:
+14:48:28 - Diego Ferrari (@die.a.ferrari):
+si seguis codeando con el ayudín de Swordfish sos un boludo jajaja
+14:48:38 - Gonza Espeche (@espeche.g):
+jajajaj
+15:26:27 - Rodrigo Ali (@rodrigojali):
+Adderall con Speed
+15:26:45 - Rodrigo Ali (@rodrigojali):
+20% speed, 30% coca cola, 50% adderall
+16:04:07 - Luis Alvarez (@luistensai):
+cuando me enteré que las bebidas energizantes tienen taurina no tomé ninguna más jaja
+16:04:26 - Luis Alvarez (@luistensai):
+ah... pero a la cerveza no puedo aflojarle :joy:
+16:05:11 - Agustin Polo (@apolo_codes):
+ Estas en contra de la astrologia(?
+16:38:56 - Marcos Chicote (@marcoschicote):
+uh acabo de tomar el primer redbull de mi vida jajaja q carajo pasa con la taurina?
+16:39:17 - Julian (@jantonielli01):
+es un asco
+16:39:23 - Marcos Chicote (@marcoschicote):
+en la internet dice que todo bien…
+16:39:24 - Marcos Chicote (@marcoschicote):
+<https://energydrink-ar.redbull.com/taurina-y-red-bull>
+16:40:04 - Marcos Chicote (@marcoschicote):
+:stuck_out_tongue_winking_eye:
+16:40:25 - Martin Gonzalez (@martin2786):
+Jaja y la pagina de Monsanto dice que no contaminan
+16:41:17 - Luis Alvarez (@luistensai):
+y la investigación es sponsoreada por red bull :joy:
+16:41:40 - Juan Scolari (@juanscolari):
+yo me acabo de comprar uno tambien, despues de ver esto
+16:42:15 - Marcos Chicote (@marcoschicote):
+y encima el texto y la imagen posterior dicen lo mismo….:agite:
+16:43:02 - Juan Scolari (@juanscolari):
+no dice nada la pagina jajajaj
+16:43:21 - Juan Scolari (@juanscolari):
+`¿SABÍAS QUE…?¿EL CUERPO DE UNA PERSONA DE 70 KG CONTIENE 70 VECES MÁS TAURINA QUE UNA LATA DE RED BULL?`
+16:43:29 - Agustin Mulet (@sugusin):
+Por lo que me dijeron siempre, te acelera un poco el SNC, nada má
+16:44:14 - Julian (@jantonielli01):
+claro, el snc
+16:45:31 - Marcos Chicote (@marcoschicote):
+yo voy a GNC
+16:47:25 - Agustin Mulet (@sugusin):
+Sistema Nervioso Central, por eso no recomiendan tomar depresores del snc como el alcohol junto con las bebidas energizantes
+17:32:19 - Rodrigo Ali (@rodrigojali):
+Ah mirá, yo tenía entendido que la taurina servía básicamente para extender el tiempo de un efecto en el sistema nervioso. Ya fue, hay que empezar a mezclar y hacer logs de todo
+17:34:39 - Martín Aimar (@maimar):
+también hay una sustancia “THC” no sé si alguien la conoce
+17:35:20 - Rodrigo Ali (@rodrigojali):
+No, contame más y de dónde conseguirla. Y cómo mezclarla con cosas. Total mañana es feriado, hoy me puedo quedar despierto hasta las 4:20 leyendo
+17:41:36 - Martin Bavio (@mbavio):
+Esa barba grita THC por sus pelos
+17:43:10 - Martín Aimar (@maimar):
+can’t argue with that logic
+17:45:03 - Martín Aimar (@maimar):
+<http://www.maps.org/news-letters/v18n1/v18n1-MAPS_24.pdf>
+17:48:48 - Rodrigo Ali (@rodrigojali):
+----------------------
+```I used only seventy-five micrograms because I was not interested in tripping, as I had a specific, limited and definite purpose for the use of LSD. While stimulated by the LSD I was able to get the entire system wholly in my mind at the same time. I spent some time mentally visualizing various aspects of the compiler,the language and the processing which would take place. I did discover three or four design inconsistencies while being stimulated by the effect of the LSD, and I made notes for later checking.```
+----------------------
+ES GENIAL ESTO
+19:11:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Jejejejejej la taurina no tiene ni hace nada. Lo q te pone el corazon en modo colibrí es la cafeína. Sino, si te comes un bifecito de higado salteado con cebolla o unas achuritas deberías andar loco de la cabeza
+19:19:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Groso! A mi me está pasando q cuando me trabo con algo, a la noche sueño la solución!
+Me levanto, anoto todo, porque las soluciones que se me ocurren son genialidades.
+A la mañana me levanto y cuando lo aplico, siento las carcajadas desde lo más profundo de la compu :man-facepalming:
