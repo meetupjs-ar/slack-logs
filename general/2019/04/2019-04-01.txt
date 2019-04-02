@@ -1,0 +1,242 @@
+09:30:09 - Brian Hume (@brianh20):
+buen dia! Alguien aca que trabaje (o haya trabajado)  en BairesDev ?
+10:54:30 - Carlos Manotas (@carlosmanotas):
+:speaking_head_in_silhouette:Empezamos el mes con todo tenemos meetup, sorry por las demoras
+<https://twitter.com/reactjs_ba/status/1112714386685218825>
+10:57:51 - Brian Hume (@brianh20):
+anyone?
+10:58:48 - Jorge Cano (@jorgeucano):
+feliz cumple <@U2NNKR8G7> :tada:
+11:00:28 - Jorge Cano (@jorgeucano):
+:thisisfine:
+11:01:22 - Luis Alvarez (@luistensai):
+no creo que sea un lugar donde quieras laburar... muchas malas exps leí en este slack... además de que son spammers a morir...
+11:01:26 - Carlos Manotas (@carlosmanotas):
+Feliz Cumpleaños srta <@U2NNKR8G7> :confetti_ball:
+11:01:59 - Luis Alvarez (@luistensai):
+feliz cumple!
+11:02:33 - Juan Bono (@juanbono):
+Feliz cumple!
+11:02:44 - Santiago Ruffino (@santi_0898):
+Feliz cumple <@U2NNKR8G7> !!
+11:02:45 - Camila Cepeda (@camilunghi):
+Graciasss!! :slightly_smiling_face:
+11:04:12 - Juan Scolari (@juanscolari):
+Felicidade! Y gracias por hacer tan grande esta comunidad!
+11:05:41 - Camila Cepeda (@camilunghi):
+Graciasss!! :slightly_smiling_face:
+11:05:54 - Camila Cepeda (@camilunghi):
+Gracias <@U9KMYNJMV> :slightly_smiling_face:
+11:06:03 - Camila Cepeda (@camilunghi):
+Gracias <@U6U3183U6> :slightly_smiling_face:
+11:08:12 - Mateo Silguero (@mfsilguero):
+<@U1XSDSM4H> te adelantaste al bot jaja
+11:08:21 - Mateo Silguero (@mfsilguero):
+feliz cumple <@U2NNKR8G7>!
+11:08:24 - Jorge Cano (@jorgeucano):
+jajaja es que salio a las 11
+11:08:31 - Jorge Cano (@jorgeucano):
+yo lo espere bastante xD
+11:08:49 - Camila Cepeda (@camilunghi):
+jajajajaj
+11:08:50 - Gonzalo González Mora (@gonzalogm):
+Bot vago, laburá!
+11:08:56 - Camila Cepeda (@camilunghi):
+gracias <@U7B6WSXJQ> :slightly_smiling_face:
+11:10:30 - Ezequiel Leites (@leites25):
+Feliz cumple <@U2NNKR8G7>
+11:11:34 - Camila Cepeda (@camilunghi):
+graciassss!
+11:24:34 - Brian Hume (@brianh20):
+contame mas
+11:27:09 - Luciano Muñoz (@luchisds):
+Feliz cumpleaños!!! :clap::clap::clap:
+11:42:50 - Lucas Accastello (@accastellolucas):
+Feliz cumple!!!! :birthday:
+12:16:28 - Pedro (@pedro461):
+comparto <https://www.pikapkg.com/blog/pika-web-a-future-without-webpack/>
+14:22:09 - Luis Ventocilla (@lvsmix):
+Feliz cumple <@U2NNKR8G7>
+14:48:41 - Camila Cepeda (@camilunghi):
+gracias <@U3G5S3FC2>
+14:51:30 - Agustin Mulet (@sugusin):
+Feliz cumple <@U2NNKR8G7> :slightly_smiling_face::birthday::birthday:
+15:34:45 - Camila Cepeda (@camilunghi):
+Gracias Agus!!!
+15:53:12 - Sergio Daniel Xalambrí (@sergiodxa):
+Feliz cumpleaños <@U2NNKR8G7>!!! :tada: :cake: :partyparrot: :gift: :raised_hands:
+15:54:24 - Camila Cepeda (@camilunghi):
+Gracias <@U09KF2RPU> :tada:
+16:55:01 - Lucas Alejo Bellesi (@lucasbellesipocho):
+consulta alguien usando brubank? podrian contar su experiencia hasta ahora?
+16:55:52 - Pedro (@pedro461):
+hola yo
+16:55:55 - Pedro (@pedro461):
+la verdad muy bueno
+16:56:00 - Pedro (@pedro461):
+por ahora cero problemas
+16:56:10 - Pedro (@pedro461):
+tienen buena cotización del dolar
+16:56:15 - Pedro (@pedro461):
+casi que lo podés usar como tu propia cueva jaja
+16:56:24 - Mati Dastugue (@matiasdastugue):
+<@UB8TTUYRH> usa brubank
+16:57:50 - Aldo Sorbara (@aldo1891):
+<@UB8TTUYRH>
+17:05:33 - Hernan Rajchert (@sherman):
+Yo sigo esperando que me manden la tarjeta :man-shrugging::skin-tone-2:
+17:05:46 - Hernan Rajchert (@sherman):
+hace 2 meses :grimacing:
+17:05:58 - Hernan Rajchert (@sherman):
+me parece que la mandaron algun dia que no estaba y no dejaron notita ni nada
+17:09:04 - Micael Robles (@micaelrobles):
+en la app no te aparece ese tracking <@U0DHEL1PC>?
+17:14:17 - Hernan Rajchert (@sherman):
+Esta asi hace un par de semanas
+17:15:09 - Brian Hume (@brianh20):
+es argentino eso?
+17:15:21 - Brian Hume (@brianh20):
+para que lo recomiendan?
+17:19:15 - Pedro (@pedro461):
+para vender dols
+17:20:46 - Hernan Rajchert (@sherman):
+O comprar... por ahora me fije y vi que casi siempre esta 10c mas barato que comprar usd por santander
+17:22:10 - Micael Robles (@micaelrobles):
+yo que vos contacto al support por el chat de la app
+17:22:14 - Micael Robles (@micaelrobles):
+responden bastante bien
+17:33:08 - Hernan Rajchert (@sherman):
+si, alli hable… mandaron la tarjeta 4 veces, no habia nadie (yo trabajo bastante desde casa :facepalm: ), y no dejaron papelito ni nada
+17:33:26 - Hernan Rajchert (@sherman):
+lo mandé al laburo que hay recepcion
+18:39:23 - Javier Alonso Shannon (@javier):
+no se cuanto es la cotizacion de brubank pero hace tiempo que vendo por <https://bullexchange.com.ar/BullExchange/Exchange>
+18:39:32 - Javier Alonso Shannon (@javier):
+creo que es de las mejores
+18:50:53 - Gonzalo González Mora (@gonzalogm):
+Sí, a mi me habían pasado esa y Balanz
+18:51:18 - Gonzalo González Mora (@gonzalogm):
+pero al fianl nunca me fije que onda las cotizacioens
+19:21:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Probaron averiguar con su contador de poner la plata en una comitente con un broker? Por lo general las comisiones son mucho mas bajas
+09:30:09 - Brian Hume (@brianh20):
+buen dia! Alguien aca que trabaje (o haya trabajado)  en BairesDev ?
+10:54:30 - Carlos Manotas (@carlosmanotas):
+:speaking_head_in_silhouette:Empezamos el mes con todo tenemos meetup, sorry por las demoras
+<https://twitter.com/reactjs_ba/status/1112714386685218825>
+10:57:51 - Brian Hume (@brianh20):
+anyone?
+10:58:48 - Jorge Cano (@jorgeucano):
+feliz cumple <@U2NNKR8G7> :tada:
+11:00:28 - Jorge Cano (@jorgeucano):
+:thisisfine:
+11:01:22 - Luis Alvarez (@luistensai):
+no creo que sea un lugar donde quieras laburar... muchas malas exps leí en este slack... además de que son spammers a morir...
+11:01:26 - Carlos Manotas (@carlosmanotas):
+Feliz Cumpleaños srta <@U2NNKR8G7> :confetti_ball:
+11:01:59 - Luis Alvarez (@luistensai):
+feliz cumple!
+11:02:33 - Juan Bono (@juanbono):
+Feliz cumple!
+11:02:44 - Santiago Ruffino (@santi_0898):
+Feliz cumple <@U2NNKR8G7> !!
+11:02:45 - Camila Cepeda (@camilunghi):
+Graciasss!! :slightly_smiling_face:
+11:04:12 - Juan Scolari (@juanscolari):
+Felicidade! Y gracias por hacer tan grande esta comunidad!
+11:05:41 - Camila Cepeda (@camilunghi):
+Graciasss!! :slightly_smiling_face:
+11:05:54 - Camila Cepeda (@camilunghi):
+Gracias <@U9KMYNJMV> :slightly_smiling_face:
+11:06:03 - Camila Cepeda (@camilunghi):
+Gracias <@U6U3183U6> :slightly_smiling_face:
+11:08:12 - Mateo Silguero (@mfsilguero):
+<@U1XSDSM4H> te adelantaste al bot jaja
+11:08:21 - Mateo Silguero (@mfsilguero):
+feliz cumple <@U2NNKR8G7>!
+11:08:24 - Jorge Cano (@jorgeucano):
+jajaja es que salio a las 11
+11:08:31 - Jorge Cano (@jorgeucano):
+yo lo espere bastante xD
+11:08:49 - Camila Cepeda (@camilunghi):
+jajajajaj
+11:08:50 - Gonzalo González Mora (@gonzalogm):
+Bot vago, laburá!
+11:08:56 - Camila Cepeda (@camilunghi):
+gracias <@U7B6WSXJQ> :slightly_smiling_face:
+11:10:30 - Ezequiel Leites (@leites25):
+Feliz cumple <@U2NNKR8G7>
+11:11:34 - Camila Cepeda (@camilunghi):
+graciassss!
+11:24:34 - Brian Hume (@brianh20):
+contame mas
+11:27:09 - Luciano Muñoz (@luchisds):
+Feliz cumpleaños!!! :clap::clap::clap:
+11:42:50 - Lucas Accastello (@accastellolucas):
+Feliz cumple!!!! :birthday:
+12:16:28 - Pedro (@pedro461):
+comparto <https://www.pikapkg.com/blog/pika-web-a-future-without-webpack/>
+14:22:09 - Luis Ventocilla (@lvsmix):
+Feliz cumple <@U2NNKR8G7>
+14:48:41 - Camila Cepeda (@camilunghi):
+gracias <@U3G5S3FC2>
+14:51:30 - Agustin Mulet (@sugusin):
+Feliz cumple <@U2NNKR8G7> :slightly_smiling_face::birthday::birthday:
+15:34:45 - Camila Cepeda (@camilunghi):
+Gracias Agus!!!
+15:53:12 - Sergio Daniel Xalambrí (@sergiodxa):
+Feliz cumpleaños <@U2NNKR8G7>!!! :tada: :cake: :partyparrot: :gift: :raised_hands:
+15:54:24 - Camila Cepeda (@camilunghi):
+Gracias <@U09KF2RPU> :tada:
+16:55:01 - Lucas Alejo Bellesi (@lucasbellesipocho):
+consulta alguien usando brubank? podrian contar su experiencia hasta ahora?
+16:55:52 - Pedro (@pedro461):
+hola yo
+16:55:55 - Pedro (@pedro461):
+la verdad muy bueno
+16:56:00 - Pedro (@pedro461):
+por ahora cero problemas
+16:56:10 - Pedro (@pedro461):
+tienen buena cotización del dolar
+16:56:15 - Pedro (@pedro461):
+casi que lo podés usar como tu propia cueva jaja
+16:56:24 - Mati Dastugue (@matiasdastugue):
+<@UB8TTUYRH> usa brubank
+16:57:50 - Aldo Sorbara (@aldo1891):
+<@UB8TTUYRH>
+17:05:33 - Hernan Rajchert (@sherman):
+Yo sigo esperando que me manden la tarjeta :man-shrugging::skin-tone-2:
+17:05:46 - Hernan Rajchert (@sherman):
+hace 2 meses :grimacing:
+17:05:58 - Hernan Rajchert (@sherman):
+me parece que la mandaron algun dia que no estaba y no dejaron notita ni nada
+17:09:04 - Micael Robles (@micaelrobles):
+en la app no te aparece ese tracking <@U0DHEL1PC>?
+17:14:17 - Hernan Rajchert (@sherman):
+Esta asi hace un par de semanas
+17:15:09 - Brian Hume (@brianh20):
+es argentino eso?
+17:15:21 - Brian Hume (@brianh20):
+para que lo recomiendan?
+17:19:15 - Pedro (@pedro461):
+para vender dols
+17:20:46 - Hernan Rajchert (@sherman):
+O comprar... por ahora me fije y vi que casi siempre esta 10c mas barato que comprar usd por santander
+17:22:10 - Micael Robles (@micaelrobles):
+yo que vos contacto al support por el chat de la app
+17:22:14 - Micael Robles (@micaelrobles):
+responden bastante bien
+17:33:08 - Hernan Rajchert (@sherman):
+si, alli hable… mandaron la tarjeta 4 veces, no habia nadie (yo trabajo bastante desde casa :facepalm: ), y no dejaron papelito ni nada
+17:33:26 - Hernan Rajchert (@sherman):
+lo mandé al laburo que hay recepcion
+18:39:23 - Javier Alonso Shannon (@javier):
+no se cuanto es la cotizacion de brubank pero hace tiempo que vendo por <https://bullexchange.com.ar/BullExchange/Exchange>
+18:39:32 - Javier Alonso Shannon (@javier):
+creo que es de las mejores
+18:50:53 - Gonzalo González Mora (@gonzalogm):
+Sí, a mi me habían pasado esa y Balanz
+18:51:18 - Gonzalo González Mora (@gonzalogm):
+pero al fianl nunca me fije que onda las cotizacioens
+19:21:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Probaron averiguar con su contador de poner la plata en una comitente con un broker? Por lo general las comisiones son mucho mas bajas
