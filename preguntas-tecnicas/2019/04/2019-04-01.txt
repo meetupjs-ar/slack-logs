@@ -1,0 +1,536 @@
+21:16:59 - Maxi (@tholem98):
+El sitio web esta completamente customizado por la clienta. Ella me dijo como la queria y las fucionalidades, ademas de los colores del frontend y me describio como queria algunas paginas, por lo que creo que deberia subirle el precio por la personalizacion
+21:38:08 - Maxi (@tholem98):
+Tengo problema con el siguiente codigo:
+
+```document.getElementById('prod-form')
+.addEventListener('submit', e =&gt;{
+  console.log('working')
+  const title = document.getElementById('title').value;
+  const talle = document.getElementById('talle').value;
+  const precio = document.getElementById('precio').value;
+  const image = document.getElementById('image').file;
+
+console.log(title,talle,precio,image)
+
+  e.preventDefault()
+})```
+
+No me consolea nada
+21:38:52 - Maxi (@tholem98):
+Este es el form:
+
+```&lt;form id="prod-form" method="POST" class="card card-body"&gt;
+                    &lt;div class="form-group"&gt;
+                        
+                        &lt;input type="text" id="title" class="form-control" placeholder="Nombre del Producto" autofocus&gt;
+                    &lt;/div&gt;
+                    &lt;div class="form-group"&gt;
+                        &lt;input type="text" id="talle" class="form-control" placeholder="talle"&gt;
+                    &lt;/div&gt;
+                    &lt;div class="form-group"&gt;
+                        &lt;input type="text" id="precio" class="form-control" placeholder="precio"&gt;
+                    &lt;/div&gt;
+                    &lt;div class="input-group mb-3"&gt;
+                        &lt;div class="custom-file"&gt;
+                            &lt;input type="file" class="custom-file-input" id="image"&gt;
+                            &lt;label for="image" class="custom-file-label"&gt;Subir Imagen&lt;/label&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;button class="btn btn-primary"&gt;Guardar Producto&lt;/button&gt;
+                &lt;/form&gt;```
+21:42:48 - Maxi (@tholem98):
+Es posible utilizar este codigo sin webpack? O para que esta forma de manejar eventos necesito si o si webpack?
+21:53:14 - Julian (@jantonielli01):
+Si, webpack no tiene nada que ver con eso : p
+21:53:25 - Julian (@jantonielli01):
+Creo que le falta type submit al botón 
+22:05:26 - Martín Aimar (@maimar):
+Probá poniendo el preventDefault primero que nada 
+22:39:08 - Maxi (@tholem98):
+Aah, bueno es que en un proyecto en el que usé webpack anduvo genial, y ahora que lo quise reutilizar en otro en el que no hago uso de webpack, es como si nunca usara ese manejador de eventos.
+
+Al no usar webpack es como que el archivo donde se encuentra ese codigo no se compila y queda aislado. Debo utilizar un "app.use" en el archivo routes para linkearlo y que sea utilizado?
+06:22:26 - Maxi (@tholem98):
+Lo mas caro que se puede cobrar una web es $15000 (US$300)?
+08:37:30 - Gonzalo González Mora (@gonzalogm):
+No, podés cobrar lo que quieras
+09:03:38 - Leandro Echevarria (@echevarrialeandro):
+De dónde nace ese número?
+09:06:23 - Martin Bavio (@mbavio):
+<@UH5L5P3FY> hay gente que cobra eso la hora
+09:14:34 - Gonza Espeche (@espeche.g):
+300 USD para un ecommerce es un regalo. Te la tomo para una página web estática, pero un ecommerce tiene bastante complejidad… carrito de compras, método de pago, inventario, manejo de stock… No sé como andará de bolsillo tu clienta, pero andá sondeando un numero no menor a 50 lucas.
+Por acá varios dijeron que la mejor forma es estimar cuantas horas te va a demorar hacerla, y a ese número multiplicarlo por el $/h de un sueldo normal en ARG multiplicado por 1,5.
+Igual es muy personal, no sé si la mina anda corta de prespuesto, que relación tenés, o si vos andas necesitando la guita.
+09:32:40 - Brian Hume (@brianh20):
+<@U75JU1TFS> hay muchos de esos en este slack? jajajaja
+igual no estoy de acuerdo tampoco
+09:32:50 - Brian Hume (@brianh20):
+a donde me anoto?
+09:32:51 - Brian Hume (@brianh20):
+:stuck_out_tongue:
+09:50:16 - Maxi (@tholem98):
+De shopify, lo mas caro que hay es $13000. Entonces cobrar $30k un ecommerce completamente personalizado esta mal?
+09:50:49 - Gonzalo González Mora (@gonzalogm):
+No, ni ahí, fijate que en el thread te contestaron
+09:51:07 - Gonzalo González Mora (@gonzalogm):
+Andate a All Threads aarriba de la lista de channels que ahí te va a aparecer la respuesta seguro
+09:54:41 - Maxi (@tholem98):
+Aaah, claro. Como en shopify el precio mas alto de un sitio es 13k supuse que no habia que superarlo por mucho. Dale, muchas gracias por la ayuda
+09:55:13 - Diego Harari (@diehara):
+a un amigo un estudio pro le cobraron 20 mil pesos en 2015
+09:55:16 - Diego Harari (@diehara):
+full page
+09:55:18 - Diego Harari (@diehara):
+con carrito etc
+09:55:28 - Diego Harari (@diehara):
+si es con diseño tambien
+09:55:32 - Diego Harari (@diehara):
+no podría bajar de 60k
+09:55:33 - Diego Harari (@diehara):
+minimo
+10:02:30 - Martin Bavio (@mbavio):
+No entiendo la comparacion con Shopify, de donde sacas ese $13000?
+10:03:01 - Martin Bavio (@mbavio):
+Sos conciente que un store en Shopify no necesita ser solo abierto, sino que tambien hay que hacer el theme y posiblemente algo de app development?
+10:11:33 - Juan Scolari (@juanscolari):
+Alibaba también sería un ecommerce, por 300 usd te lo compro :stuck_out_tongue:
+10:11:44 - Juan Scolari (@juanscolari):
+Ahora en serio, cobrale por las horas de laburo
+10:12:02 - Aldo Sorbara (@aldo1891):
+te lo compro a 25k y lo vendo a 150 :laughing:
+10:13:37 - Brian Hume (@brianh20):
+Te pago a vos 13 para que me hagas un e-commerce. Compro alibaba y lo doy de baja con un link al que hiciste vos. Espero a que suba de precio y lo vendo a la garcha 
+10:14:59 - Luis Alvarez (@luistensai):
+&gt; Ahora en serio, cobrale por las horas de laburo
+o conseguite un mejor cliente :wink:
+10:15:24 - Luis Alvarez (@luistensai):
+demanda hay, hay que buscarla
+10:15:46 - Juan Scolari (@juanscolari):
+Si, pero aca nadie quiere pagar nada
+10:21:42 - Maxi (@tholem98):
+Jajajja esta bien. Muchas gracias. Una consulta mas sobre precios: 
+
+Si es con codigo heredado debo bajar o subir el precio?
+10:22:14 - Martín Aimar (@maimar):
+subir
+10:23:37 - Martín Valdés de León (@mvaldesdeleon):
+Codigo Heredado yo pasaria primero un budget para "mirar el codigo y preparar el budget real"
+10:23:39 - Martín Valdés de León (@mvaldesdeleon):
+Onda 1 semana.
+10:23:48 - Martín Valdés de León (@mvaldesdeleon):
+No me puedo comprometer a nada sin antes ver lo que me van a encajar.
+10:25:08 - Agustin Polo (@apolo_codes):
+buenas, tengo un container de docker que siempre se me rompe al volver a la ofi del finde. lo bajo con `docker-compose down` y cuando le doy `docker-compose up -d` me tira un error asi
+```ERROR: for chronicall-web_dev_1  Cannot start service dev: driver failed programming external connectivity on endpoint chronicall-web_dev_1 (dcc0b99a6258f525a29cd2a4e86bc01b11a8683da18e3d8129131e448a52acf3): Error starting userland proxy: mkdir /port/tcp:0.0.0.0:19080:tcp:172.19.0.2:9080: input/output error
+
+ERROR: for dev  Cannot start service dev: driver failed programming external connectivity on endpoint chronicall-web_dev_1 (dcc0b99a6258f525a29cd2a4e86bc01b11a8683da18e3d8129131e448a52acf3): Error starting userland proxy: mkdir /port/tcp:0.0.0.0:19080:tcp:172.19.0.2:9080: input/output error
+ERROR: Encountered errors while bringing up the project.```
+entiendo que es algo de network pero como no se nada de esto yo le doy restart a docker completo y me termina andando el `up` :stuck_out_tongue:
+alguien sabe que puedo mirar para hacerle un poco mas de troubleshooting?
+10:25:46 - Agustin Polo (@apolo_codes):
+el container no figura dsps de darle `down` ni con `docker ps -a`
+10:30:32 - Martín Valdés de León (@mvaldesdeleon):
+En gral cuando las cosas se ponen feas, sale restartear el daemon.
+10:41:43 - Maxi (@tholem98):
+Que es un budget?
+10:43:20 - Gonzalo González Mora (@gonzalogm):
+el presupuesto, lo que tienen para gastar
+10:49:35 - Maxi (@tholem98):
+Gracias
+14:40:11 - Maxi (@tholem98):
+El problema es que me aparece un objeto vacio. Es como si no guardara el valor de ningun input
+14:42:19 - Leandro Echevarria (@echevarrialeandro):
+e.preventDefault deberia ser la primer linea denro del event listener
+14:46:21 - Maxi (@tholem98):
+Tampoco funciona, sigue mandando un objeto vacio, igual en otro proyecto me funcionaba bien con el e.preventDefault a lo ultimo, como que tomaba todo el submit y luego evitaba que reinicie
+
+Con esto recibo el post del form:
+
+```<http://router.post|router.post>('/', async (req,res)=&gt;{
+    try{
+
+    console.log('req.body:')
+    const {title, talle, precio} = req.body;
+    console.log(req.body)
+    const newProd = new Prod({title, talle, precio})
+    console.log(newProd)
+    await newProd.save()
+    res.json({message: 'Producto Guardado'})}
+    
+    catch(err){
+        console.log(err)
+    }
+})```
+14:47:17 - Leandro Echevarria (@echevarrialeandro):
+Y los inputs?
+14:49:20 - Maxi (@tholem98):
+Intente tomar los valores con ese document pero no lo estoy linkeando con el post y no se como. En otro proyecto use webpack para compilar todo pero en este decidi no usarlo y bueno, me marie un poco
+14:50:16 - Maxi (@tholem98):
+Y poner el document. dentro del post no funciona porque desconoce la variable
+14:50:37 - Leandro Echevarria (@echevarrialeandro):
+Igual ahi en el event listener no estás enviando nada, solo agarras las variables y ya
+14:52:21 - Maxi (@tholem98):
+```document.getElementById('prod-form')
+.addEventListener('submit', e =&gt;{
+  e.preventDefault()
+  console.log('working')
+  const title = document.getElementById('title').value;
+  const talle = document.getElementById('talle').value;
+  const precio = document.getElementById('precio').value;
+  const image = document.getElementById('image').file;
+
+//console.log(title,talle,precio,image)
+
+const formData = new FormData()
+    formData.append('image',image);
+    formData.append('title',title);
+    formData.append('talle',talle);
+    formData.append('precio',precio);
+
+  const prodService = new ProdService()
+console.log(formData)
+    prodService.postProd(formData)
+
+})```
+
+Ahi esta, eso estaba usando cuando vi que no funcionaba
+14:57:56 - Maxi (@tholem98):
+Creo que el problema esta en que no llamo al archivo donde se encuentra el eventListener desde ningun lado. En el post deberia llamarlo de alguna manera pero no se como.
+
+Lo unico que se me ocurre es rehacer el proyecto pero esta vez utilizar webpack para el front y la manipulacion de eventos. O tomar el form con un action="/newproduct" y pasarlo por el post pero termina estando TODO en un mismo archivo y carece de organizacion.
+
+Alguna solucion o recomendacion?
+15:17:38 - Martín Aimar (@maimar):
+tenés un gap ahí entre webpack y la manipulación de eventos porque son cosas que no tienen relación
+15:38:01 - Maxi (@tholem98):
+Jajaja es que dio la casualidad que me funcionó y ahora no, por eso
+17:58:18 - Hernan Rajchert (@sherman):
+Alguien vio algún plugin de VSCode que te permita marcar secciones de código usando comments tipo // ------ SOME SECTION
+17:58:38 - Hernan Rajchert (@sherman):
+y que despues te de navegación de código, ocultado o similar?
+18:01:02 - Martín Valdés de León (@mvaldesdeleon):
+A que te referis con navegacion?
+18:01:56 - Martín Aimar (@maimar):
+Tipo control F
+18:03:05 - Hernan Rajchert (@sherman):
+viste que el vscode tiene una sección de outline?
+18:03:18 - Hernan Rajchert (@sherman):
+por default usa los identificadores que reconoce
+18:05:20 - Hernan Rajchert (@sherman):
+me gustaria poder agrupar por secciones… normalmente lo hago haciendo un comentario como el que puse, a veces variando el formato… estaria piola que el editor me lo reconozca
+18:05:59 - Gustavo Machado (@machadogj):
+eso es muy VS :point_up:
+18:06:57 - Gustavo Machado (@machadogj):
+no me acuerdo como era, pero algo asi como `#region NOMBRE`, no?
+18:07:10 - Gustavo Machado (@machadogj):
+asi podias hacer tus archivos gigantes en paz :laughing:
+18:07:53 - Martín Valdés de León (@mvaldesdeleon):
+Sep. Region folds.
+18:10:16 - Hernan Rajchert (@sherman):
+Arriba los archivos gigantes de funciones chiquitas pero relacionadas a una misma entidad (?
+18:16:35 - Hernan Rajchert (@sherman):
+Alli lo encontré… sirve para hacer folding pero no lo agregan en el outline :confused:
+18:16:36 - Hernan Rajchert (@sherman):
+<https://youtu.be/xYyPAUukFfg?t=561>
+18:18:56 - Esteban Yañez (@eyanez):
+me suena a code smells eso…
+18:19:07 - Esteban Yañez (@eyanez):
+o antipattern, no me acuerdo en cual entraba
+18:20:01 - Hernan Rajchert (@sherman):
+es todo muy subjetivo…
+18:20:15 - Hernan Rajchert (@sherman):
+<https://www.youtube.com/watch?v=XpDsk374LDE>
+18:21:16 - Esteban Yañez (@eyanez):
+si, se que es subjetivo, pero puede traer quilombos las regions (me paso en un proyecto), por eso las evito cada vez que las veo
+18:21:18 - Hernan Rajchert (@sherman):
+son todas funciones chicas, todas relacionadas, pero son 22 veces por 4 cosas que tengo que hacer por cada bicho, y no es algo que pueda abstraer
+18:21:34 - Hernan Rajchert (@sherman):
+que problema te encontraste?
+18:21:59 - Esteban Yañez (@eyanez):
+se olvidaban de tocar cosas dentro de las regions
+18:22:04 - Hernan Rajchert (@sherman):
+aclaro que solo lo hago toplevel, vi que se puede hacer un region adentro de una funcion, eso si lo tomaria como antipattern
+18:22:21 - Esteban Yañez (@eyanez):
+claro, tenia esos casos
+18:22:59 - Hernan Rajchert (@sherman):
+osea, por cada “mini-feature” necesito definir dos tipos y dos funciones, las quiero agrupar para que sepas que esas son las 4 cosas (2 tipos 2 funciones) para el bicho X
+18:23:02 - Esteban Yañez (@eyanez):
+aclaro que era un proyecto legacy sin tests el que comento de las regions
+18:23:34 - Esteban Yañez (@eyanez):
+si, entiendo lo que necesitas
+18:23:36 - Hernan Rajchert (@sherman):
+porque sino lo que pasa es que medio que no sabes visualmente cuando empieza una mini-feature y termina otra
+18:53:34 - Luis Alvarez (@luistensai):
+no te sirve el symbol search?
+18:54:05 - Luis Alvarez (@luistensai):
+ctrl + shift + o
+21:16:59 - Maxi (@tholem98):
+El sitio web esta completamente customizado por la clienta. Ella me dijo como la queria y las fucionalidades, ademas de los colores del frontend y me describio como queria algunas paginas, por lo que creo que deberia subirle el precio por la personalizacion
+21:38:08 - Maxi (@tholem98):
+Tengo problema con el siguiente codigo:
+
+```document.getElementById('prod-form')
+.addEventListener('submit', e =&gt;{
+  console.log('working')
+  const title = document.getElementById('title').value;
+  const talle = document.getElementById('talle').value;
+  const precio = document.getElementById('precio').value;
+  const image = document.getElementById('image').file;
+
+console.log(title,talle,precio,image)
+
+  e.preventDefault()
+})```
+
+No me consolea nada
+21:38:52 - Maxi (@tholem98):
+Este es el form:
+
+```&lt;form id="prod-form" method="POST" class="card card-body"&gt;
+                    &lt;div class="form-group"&gt;
+                        
+                        &lt;input type="text" id="title" class="form-control" placeholder="Nombre del Producto" autofocus&gt;
+                    &lt;/div&gt;
+                    &lt;div class="form-group"&gt;
+                        &lt;input type="text" id="talle" class="form-control" placeholder="talle"&gt;
+                    &lt;/div&gt;
+                    &lt;div class="form-group"&gt;
+                        &lt;input type="text" id="precio" class="form-control" placeholder="precio"&gt;
+                    &lt;/div&gt;
+                    &lt;div class="input-group mb-3"&gt;
+                        &lt;div class="custom-file"&gt;
+                            &lt;input type="file" class="custom-file-input" id="image"&gt;
+                            &lt;label for="image" class="custom-file-label"&gt;Subir Imagen&lt;/label&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;button class="btn btn-primary"&gt;Guardar Producto&lt;/button&gt;
+                &lt;/form&gt;```
+21:42:48 - Maxi (@tholem98):
+Es posible utilizar este codigo sin webpack? O para que esta forma de manejar eventos necesito si o si webpack?
+21:53:14 - Julian (@jantonielli01):
+Si, webpack no tiene nada que ver con eso : p
+21:53:25 - Julian (@jantonielli01):
+Creo que le falta type submit al botón 
+22:05:26 - Martín Aimar (@maimar):
+Probá poniendo el preventDefault primero que nada 
+22:39:08 - Maxi (@tholem98):
+Aah, bueno es que en un proyecto en el que usé webpack anduvo genial, y ahora que lo quise reutilizar en otro en el que no hago uso de webpack, es como si nunca usara ese manejador de eventos.
+
+Al no usar webpack es como que el archivo donde se encuentra ese codigo no se compila y queda aislado. Debo utilizar un "app.use" en el archivo routes para linkearlo y que sea utilizado?
+06:22:26 - Maxi (@tholem98):
+Lo mas caro que se puede cobrar una web es $15000 (US$300)?
+08:37:30 - Gonzalo González Mora (@gonzalogm):
+No, podés cobrar lo que quieras
+09:03:38 - Leandro Echevarria (@echevarrialeandro):
+De dónde nace ese número?
+09:06:23 - Martin Bavio (@mbavio):
+<@UH5L5P3FY> hay gente que cobra eso la hora
+09:14:34 - Gonza Espeche (@espeche.g):
+300 USD para un ecommerce es un regalo. Te la tomo para una página web estática, pero un ecommerce tiene bastante complejidad… carrito de compras, método de pago, inventario, manejo de stock… No sé como andará de bolsillo tu clienta, pero andá sondeando un numero no menor a 50 lucas.
+Por acá varios dijeron que la mejor forma es estimar cuantas horas te va a demorar hacerla, y a ese número multiplicarlo por el $/h de un sueldo normal en ARG multiplicado por 1,5.
+Igual es muy personal, no sé si la mina anda corta de prespuesto, que relación tenés, o si vos andas necesitando la guita.
+09:32:40 - Brian Hume (@brianh20):
+<@U75JU1TFS> hay muchos de esos en este slack? jajajaja
+igual no estoy de acuerdo tampoco
+09:32:50 - Brian Hume (@brianh20):
+a donde me anoto?
+09:32:51 - Brian Hume (@brianh20):
+:stuck_out_tongue:
+09:50:16 - Maxi (@tholem98):
+De shopify, lo mas caro que hay es $13000. Entonces cobrar $30k un ecommerce completamente personalizado esta mal?
+09:50:49 - Gonzalo González Mora (@gonzalogm):
+No, ni ahí, fijate que en el thread te contestaron
+09:51:07 - Gonzalo González Mora (@gonzalogm):
+Andate a All Threads aarriba de la lista de channels que ahí te va a aparecer la respuesta seguro
+09:54:41 - Maxi (@tholem98):
+Aaah, claro. Como en shopify el precio mas alto de un sitio es 13k supuse que no habia que superarlo por mucho. Dale, muchas gracias por la ayuda
+09:55:13 - Diego Harari (@diehara):
+a un amigo un estudio pro le cobraron 20 mil pesos en 2015
+09:55:16 - Diego Harari (@diehara):
+full page
+09:55:18 - Diego Harari (@diehara):
+con carrito etc
+09:55:28 - Diego Harari (@diehara):
+si es con diseño tambien
+09:55:32 - Diego Harari (@diehara):
+no podría bajar de 60k
+09:55:33 - Diego Harari (@diehara):
+minimo
+10:02:30 - Martin Bavio (@mbavio):
+No entiendo la comparacion con Shopify, de donde sacas ese $13000?
+10:03:01 - Martin Bavio (@mbavio):
+Sos conciente que un store en Shopify no necesita ser solo abierto, sino que tambien hay que hacer el theme y posiblemente algo de app development?
+10:11:33 - Juan Scolari (@juanscolari):
+Alibaba también sería un ecommerce, por 300 usd te lo compro :stuck_out_tongue:
+10:11:44 - Juan Scolari (@juanscolari):
+Ahora en serio, cobrale por las horas de laburo
+10:12:02 - Aldo Sorbara (@aldo1891):
+te lo compro a 25k y lo vendo a 150 :laughing:
+10:13:37 - Brian Hume (@brianh20):
+Te pago a vos 13 para que me hagas un e-commerce. Compro alibaba y lo doy de baja con un link al que hiciste vos. Espero a que suba de precio y lo vendo a la garcha 
+10:14:59 - Luis Alvarez (@luistensai):
+&gt; Ahora en serio, cobrale por las horas de laburo
+o conseguite un mejor cliente :wink:
+10:15:24 - Luis Alvarez (@luistensai):
+demanda hay, hay que buscarla
+10:15:46 - Juan Scolari (@juanscolari):
+Si, pero aca nadie quiere pagar nada
+10:21:42 - Maxi (@tholem98):
+Jajajja esta bien. Muchas gracias. Una consulta mas sobre precios: 
+
+Si es con codigo heredado debo bajar o subir el precio?
+10:22:14 - Martín Aimar (@maimar):
+subir
+10:23:37 - Martín Valdés de León (@mvaldesdeleon):
+Codigo Heredado yo pasaria primero un budget para "mirar el codigo y preparar el budget real"
+10:23:39 - Martín Valdés de León (@mvaldesdeleon):
+Onda 1 semana.
+10:23:48 - Martín Valdés de León (@mvaldesdeleon):
+No me puedo comprometer a nada sin antes ver lo que me van a encajar.
+10:25:08 - Agustin Polo (@apolo_codes):
+buenas, tengo un container de docker que siempre se me rompe al volver a la ofi del finde. lo bajo con `docker-compose down` y cuando le doy `docker-compose up -d` me tira un error asi
+```ERROR: for chronicall-web_dev_1  Cannot start service dev: driver failed programming external connectivity on endpoint chronicall-web_dev_1 (dcc0b99a6258f525a29cd2a4e86bc01b11a8683da18e3d8129131e448a52acf3): Error starting userland proxy: mkdir /port/tcp:0.0.0.0:19080:tcp:172.19.0.2:9080: input/output error
+
+ERROR: for dev  Cannot start service dev: driver failed programming external connectivity on endpoint chronicall-web_dev_1 (dcc0b99a6258f525a29cd2a4e86bc01b11a8683da18e3d8129131e448a52acf3): Error starting userland proxy: mkdir /port/tcp:0.0.0.0:19080:tcp:172.19.0.2:9080: input/output error
+ERROR: Encountered errors while bringing up the project.```
+entiendo que es algo de network pero como no se nada de esto yo le doy restart a docker completo y me termina andando el `up` :stuck_out_tongue:
+alguien sabe que puedo mirar para hacerle un poco mas de troubleshooting?
+10:25:46 - Agustin Polo (@apolo_codes):
+el container no figura dsps de darle `down` ni con `docker ps -a`
+10:30:32 - Martín Valdés de León (@mvaldesdeleon):
+En gral cuando las cosas se ponen feas, sale restartear el daemon.
+10:41:43 - Maxi (@tholem98):
+Que es un budget?
+10:43:20 - Gonzalo González Mora (@gonzalogm):
+el presupuesto, lo que tienen para gastar
+10:49:35 - Maxi (@tholem98):
+Gracias
+14:40:11 - Maxi (@tholem98):
+El problema es que me aparece un objeto vacio. Es como si no guardara el valor de ningun input
+14:42:19 - Leandro Echevarria (@echevarrialeandro):
+e.preventDefault deberia ser la primer linea denro del event listener
+14:46:21 - Maxi (@tholem98):
+Tampoco funciona, sigue mandando un objeto vacio, igual en otro proyecto me funcionaba bien con el e.preventDefault a lo ultimo, como que tomaba todo el submit y luego evitaba que reinicie
+
+Con esto recibo el post del form:
+
+```<http://router.post|router.post>('/', async (req,res)=&gt;{
+    try{
+
+    console.log('req.body:')
+    const {title, talle, precio} = req.body;
+    console.log(req.body)
+    const newProd = new Prod({title, talle, precio})
+    console.log(newProd)
+    await newProd.save()
+    res.json({message: 'Producto Guardado'})}
+    
+    catch(err){
+        console.log(err)
+    }
+})```
+14:47:17 - Leandro Echevarria (@echevarrialeandro):
+Y los inputs?
+14:49:20 - Maxi (@tholem98):
+Intente tomar los valores con ese document pero no lo estoy linkeando con el post y no se como. En otro proyecto use webpack para compilar todo pero en este decidi no usarlo y bueno, me marie un poco
+14:50:16 - Maxi (@tholem98):
+Y poner el document. dentro del post no funciona porque desconoce la variable
+14:50:37 - Leandro Echevarria (@echevarrialeandro):
+Igual ahi en el event listener no estás enviando nada, solo agarras las variables y ya
+14:52:21 - Maxi (@tholem98):
+```document.getElementById('prod-form')
+.addEventListener('submit', e =&gt;{
+  e.preventDefault()
+  console.log('working')
+  const title = document.getElementById('title').value;
+  const talle = document.getElementById('talle').value;
+  const precio = document.getElementById('precio').value;
+  const image = document.getElementById('image').file;
+
+//console.log(title,talle,precio,image)
+
+const formData = new FormData()
+    formData.append('image',image);
+    formData.append('title',title);
+    formData.append('talle',talle);
+    formData.append('precio',precio);
+
+  const prodService = new ProdService()
+console.log(formData)
+    prodService.postProd(formData)
+
+})```
+
+Ahi esta, eso estaba usando cuando vi que no funcionaba
+14:57:56 - Maxi (@tholem98):
+Creo que el problema esta en que no llamo al archivo donde se encuentra el eventListener desde ningun lado. En el post deberia llamarlo de alguna manera pero no se como.
+
+Lo unico que se me ocurre es rehacer el proyecto pero esta vez utilizar webpack para el front y la manipulacion de eventos. O tomar el form con un action="/newproduct" y pasarlo por el post pero termina estando TODO en un mismo archivo y carece de organizacion.
+
+Alguna solucion o recomendacion?
+15:17:38 - Martín Aimar (@maimar):
+tenés un gap ahí entre webpack y la manipulación de eventos porque son cosas que no tienen relación
+15:38:01 - Maxi (@tholem98):
+Jajaja es que dio la casualidad que me funcionó y ahora no, por eso
+17:58:18 - Hernan Rajchert (@sherman):
+Alguien vio algún plugin de VSCode que te permita marcar secciones de código usando comments tipo // ------ SOME SECTION
+17:58:38 - Hernan Rajchert (@sherman):
+y que despues te de navegación de código, ocultado o similar?
+18:01:02 - Martín Valdés de León (@mvaldesdeleon):
+A que te referis con navegacion?
+18:01:56 - Martín Aimar (@maimar):
+Tipo control F
+18:03:05 - Hernan Rajchert (@sherman):
+viste que el vscode tiene una sección de outline?
+18:03:18 - Hernan Rajchert (@sherman):
+por default usa los identificadores que reconoce
+18:05:20 - Hernan Rajchert (@sherman):
+me gustaria poder agrupar por secciones… normalmente lo hago haciendo un comentario como el que puse, a veces variando el formato… estaria piola que el editor me lo reconozca
+18:05:59 - Gustavo Machado (@machadogj):
+eso es muy VS :point_up:
+18:06:57 - Gustavo Machado (@machadogj):
+no me acuerdo como era, pero algo asi como `#region NOMBRE`, no?
+18:07:10 - Gustavo Machado (@machadogj):
+asi podias hacer tus archivos gigantes en paz :laughing:
+18:07:53 - Martín Valdés de León (@mvaldesdeleon):
+Sep. Region folds.
+18:10:16 - Hernan Rajchert (@sherman):
+Arriba los archivos gigantes de funciones chiquitas pero relacionadas a una misma entidad (?
+18:16:35 - Hernan Rajchert (@sherman):
+Alli lo encontré… sirve para hacer folding pero no lo agregan en el outline :confused:
+18:16:36 - Hernan Rajchert (@sherman):
+<https://youtu.be/xYyPAUukFfg?t=561>
+18:18:56 - Esteban Yañez (@eyanez):
+me suena a code smells eso…
+18:19:07 - Esteban Yañez (@eyanez):
+o antipattern, no me acuerdo en cual entraba
+18:20:01 - Hernan Rajchert (@sherman):
+es todo muy subjetivo…
+18:20:15 - Hernan Rajchert (@sherman):
+<https://www.youtube.com/watch?v=XpDsk374LDE>
+18:21:16 - Esteban Yañez (@eyanez):
+si, se que es subjetivo, pero puede traer quilombos las regions (me paso en un proyecto), por eso las evito cada vez que las veo
+18:21:18 - Hernan Rajchert (@sherman):
+son todas funciones chicas, todas relacionadas, pero son 22 veces por 4 cosas que tengo que hacer por cada bicho, y no es algo que pueda abstraer
+18:21:34 - Hernan Rajchert (@sherman):
+que problema te encontraste?
+18:21:59 - Esteban Yañez (@eyanez):
+se olvidaban de tocar cosas dentro de las regions
+18:22:04 - Hernan Rajchert (@sherman):
+aclaro que solo lo hago toplevel, vi que se puede hacer un region adentro de una funcion, eso si lo tomaria como antipattern
+18:22:21 - Esteban Yañez (@eyanez):
+claro, tenia esos casos
+18:22:59 - Hernan Rajchert (@sherman):
+osea, por cada “mini-feature” necesito definir dos tipos y dos funciones, las quiero agrupar para que sepas que esas son las 4 cosas (2 tipos 2 funciones) para el bicho X
+18:23:02 - Esteban Yañez (@eyanez):
+aclaro que era un proyecto legacy sin tests el que comento de las regions
+18:23:34 - Esteban Yañez (@eyanez):
+si, entiendo lo que necesitas
+18:23:36 - Hernan Rajchert (@sherman):
+porque sino lo que pasa es que medio que no sabes visualmente cuando empieza una mini-feature y termina otra
+18:53:34 - Luis Alvarez (@luistensai):
+no te sirve el symbol search?
+18:54:05 - Luis Alvarez (@luistensai):
+ctrl + shift + o
