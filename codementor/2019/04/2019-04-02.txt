@@ -1,0 +1,64 @@
+23:06:39 - Julian (@jantonielli01):
+solo quiero comentarles que hoy hice $200 :heart::heart::heart:
+23:06:55 - Julian (@jantonielli01):
+tuve una sesion re larga de hora y media jajaj
+23:14:50 - Marcos Casagrande (@marcoscvp90):
+:clap:
+23:15:33 - Marcos Casagrande (@marcoscvp90):
+Lo bueno de esto, es que laburando 3 horas diarias, estás re hecho.
+23:17:17 - Gonzalo González Mora (@gonzalogm):
+_epetaculaaaa_ :clap:
+23:28:09 - Leandro Echevarria (@echevarrialeandro):
+Zarpadoooo
+23:46:40 - Julian (@jantonielli01):
+Se, mi goal hace tiempo es laburar 3/4 horas por día 
+13:25:06 - Marcos Casagrande (@marcoscvp90):
+Gente, un flaco de CM me habló para implementar unas funcionalidades en su web, un ecommerce, con Node.js/Mongo. A mi no me interesa, pero me preguntó si conozco a alguien que lo quiera tomar
+13:25:30 - Marcos Casagrande (@marcoscvp90):
+Acá están las especificaciones, si alguno lo quiere tomar que me diga, y se lo derivo
+13:47:15 - Gabriel Fusca (@gfuscax):
+<@UGQTUDQSG> tenes idea del deadline que tiene? La web en que está hecha?
+13:51:04 - Marcos Casagrande (@marcoscvp90):
+El front es plain HTML/CSS y JS
+13:52:28 - Marcos Casagrande (@marcoscvp90):
+Y tiene que estar terminado para el viernes.
+14:11:21 - Gabriel Fusca (@gfuscax):
+Consulta: sólo use 1:1 sessions, para freelance vos propones cuanto estimas que te sale cuando le haces la propuesta?
+14:29:18 - Marcos Casagrande (@marcoscvp90):
+exactamente, vos le decís: Te lo hago por XX.
+14:29:33 - Marcos Casagrande (@marcoscvp90):
+Ahí el flaco te va a decir, okay, o te dirá otro número, negocian y cierran.
+16:04:30 - Martín Aimar (@maimar):
+todavía no terminé el proceso de codementor x pero ya me piden que informe mi disponibilidad
+23:06:39 - Julian (@jantonielli01):
+solo quiero comentarles que hoy hice $200 :heart::heart::heart:
+23:06:55 - Julian (@jantonielli01):
+tuve una sesion re larga de hora y media jajaj
+23:14:50 - Marcos Casagrande (@marcoscvp90):
+:clap:
+23:15:33 - Marcos Casagrande (@marcoscvp90):
+Lo bueno de esto, es que laburando 3 horas diarias, estás re hecho.
+23:17:17 - Gonzalo González Mora (@gonzalogm):
+_epetaculaaaa_ :clap:
+23:28:09 - Leandro Echevarria (@echevarrialeandro):
+Zarpadoooo
+23:46:40 - Julian (@jantonielli01):
+Se, mi goal hace tiempo es laburar 3/4 horas por día 
+13:25:06 - Marcos Casagrande (@marcoscvp90):
+Gente, un flaco de CM me habló para implementar unas funcionalidades en su web, un ecommerce, con Node.js/Mongo. A mi no me interesa, pero me preguntó si conozco a alguien que lo quiera tomar
+13:25:30 - Marcos Casagrande (@marcoscvp90):
+Acá están las especificaciones, si alguno lo quiere tomar que me diga, y se lo derivo
+13:47:15 - Gabriel Fusca (@gfuscax):
+<@UGQTUDQSG> tenes idea del deadline que tiene? La web en que está hecha?
+13:51:04 - Marcos Casagrande (@marcoscvp90):
+El front es plain HTML/CSS y JS
+13:52:28 - Marcos Casagrande (@marcoscvp90):
+Y tiene que estar terminado para el viernes.
+14:11:21 - Gabriel Fusca (@gfuscax):
+Consulta: sólo use 1:1 sessions, para freelance vos propones cuanto estimas que te sale cuando le haces la propuesta?
+14:29:18 - Marcos Casagrande (@marcoscvp90):
+exactamente, vos le decís: Te lo hago por XX.
+14:29:33 - Marcos Casagrande (@marcoscvp90):
+Ahí el flaco te va a decir, okay, o te dirá otro número, negocian y cierran.
+16:04:30 - Martín Aimar (@maimar):
+todavía no terminé el proceso de codementor x pero ya me piden que informe mi disponibilidad
