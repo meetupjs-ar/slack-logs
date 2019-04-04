@@ -1,0 +1,306 @@
+21:43:43 - Marcos Casagrande (@marcoscvp90):
+Me acaba de llegar un mail de upwork, a partir de mayo, todos los connects serán pagos, 0.15$, cada uno, y la mayoría de laburos piden 2.
+21:55:37 - Julian (@jantonielli01):
+Malísimo 
+22:02:44 - Marcos Casagrande (@marcoscvp90):
+Para mi si, pero habrá que ver si es positivo o no. Quizás es la forma de evitar el overbidding que hay. Pero yo de por si ya no ganaba casi ningún laburo, no voy a empezar a pagar ahora :joy:
+23:32:42 - Martín Aimar (@maimar):
+Seguro que no es por april fools? 
+23:44:25 - Julian (@jantonielli01):
+No creo
+23:44:42 - Julian (@jantonielli01):
+Despues de pensarlo un toque creo que puede ser copado, como dice marcos
+23:57:23 - Marcos Casagrande (@marcoscvp90):
+No creo, ya eran pagos los connects a partir de 60, y no creo que hagan ese tipo de joda. Pero es posible que ayude a tener más laburos, aunque sea a costo de guita, igual con que agarres 1 laburo ya recuperaste la "inversión"
+23:58:47 - Julian (@jantonielli01):
+Btw, te robé un laburo de blockchain de CM, <@UGQTUDQSG> :stuck_out_tongue:
+00:05:17 - Marcos Casagrande (@marcoscvp90):
+`/kick @jjant `
+00:05:27 - Marcos Casagrande (@marcoscvp90):
+De que era? :joy:
+00:05:49 - Julian (@jantonielli01):
+Jajaj
+00:05:53 - Julian (@jantonielli01):
+Un tp de la facu parece
+00:05:57 - Julian (@jantonielli01):
+bastante heavy
+00:06:09 - Julian (@jantonielli01):
+Mira el tipo de preguntas que tiene
+00:06:18 - Julian (@jantonielli01):
+&gt;&gt;&gt; *1. Beyond Proof-of-Work*. Recall the Avalanche protocol, and the simpler instances on which it is based (Slush, Snowflake, etc.). Particularly, recall the Slush (the most basic instance, not Byzantine fault-tolerant) protocol which involves nodes which are initially uncolored, query a random sample of the network for a color, and respond to queries either with their color (if already colored) or with the color in the query before initiating their own query sampling.
+Describe why a network of honest (non-Byzantine) Slush nodes eventually reach consensus on a color.
+00:06:51 - Marcos Casagrande (@marcoscvp90):
+Como se llama el flaco? Porque ayer me pidieron hacer un TP de facu de blockchain y lo patee
+00:06:58 - Julian (@jantonielli01):
+a ver
+00:07:01 - Marcos Casagrande (@marcoscvp90):
+Picante el TP jaja
+00:07:08 - Julian (@jantonielli01):
+Victor D se llama
+00:07:13 - Julian (@jantonielli01):
+See, jodido
+00:07:22 - Julian (@jantonielli01):
+Estoy teniendo q leer un cacho del paper jajaj
+00:07:43 - Marcos Casagrande (@marcoscvp90):
+Si, Victor D, me pidió hace unos días
+00:07:47 - Julian (@jantonielli01):
+Tbh sé poco y nada de lo que pregunta el tp, pero bueh, se aprende
+00:07:48 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/m/dashboard/open-requests/6l34mcaoxa>
+00:08:02 - Marcos Casagrande (@marcoscvp90):
+Lo re ignoré, pagaba poco para ese assignment, y tampoco tengo la más puta idea de como hacerlo jaja.
+00:08:07 - Julian (@jantonielli01):
+Se, es ese
+00:10:30 - Marcos Casagrande (@marcoscvp90):
+Le sacaste buena plata?
+00:10:44 - Julian (@jantonielli01):
+350$
+00:11:03 - Julian (@jantonielli01):
+Será buena si no me toma demasiado jaja
+00:11:39 - Marcos Casagrande (@marcoscvp90):
+jaja. A mi justó me escribieron para un chat de <http://socket.io|socket.io>, que el flaco tiene que entregar en 4 horas :joy:
+00:12:02 - Julian (@jantonielli01):
+Jajaj lo vi también a ese
+00:12:05 - Julian (@jantonielli01):
+parecia plata ez
+00:12:44 - Marcos Casagrande (@marcoscvp90):
+jajajaja
+00:12:57 - Marcos Casagrande (@marcoscvp90):
+*es el mismo assignment que hice hace 5 meses para otro alumna*
+00:13:03 - Marcos Casagrande (@marcoscvp90):
+Tengo el chat hecho 100%.
+00:13:11 - Julian (@jantonielli01):
+Hace un toque me hablo uno para un proyecto de haskell, me puso "paying very well", veremos que considera muy bien
+00:13:13 - Julian (@jantonielli01):
+Jajajajaj
+00:13:16 - Julian (@jantonielli01):
+excelente
+00:13:25 - Marcos Casagrande (@marcoscvp90):
+200 USD, mismos requisitos, misma universidad.
+00:15:54 - Marcos Casagrande (@marcoscvp90):
+Es buenísimo esto, voy a cambiar el código un poco, y listo.
+00:16:16 - Gonzalo González Mora (@gonzalogm):
+jajaja un golazo
+00:16:27 - Julian (@jantonielli01):
+el otro día me hablo uno de mi facu por fb para que le haga un tp jaja
+00:16:47 - Gonzalo González Mora (@gonzalogm):
+“Buscame en Codementor” :troll::money_mouth_face:
+00:17:30 - Julian (@jantonielli01):
+Jaajj deberia haberle dicho eso
+00:30:24 - Marcos Casagrande (@marcoscvp90):
+Bueno me contrató para modificar el código del laburo viejo para que no sea igual :joy:. Los mejores $200 de mi vida
+00:36:18 - Julian (@jantonielli01):
+Jajajaj excelente 
+09:27:44 - Aldo Sorbara (@aldo1891):
+<@UGQTUDQSG> parecen funcionalidades solo de UI no? o hay que tocar algo en mongo ?
+09:59:44 - Marcos Casagrande (@marcoscvp90):
+Hay cosas de backend, hay que hacer ciertos chequeos en la base y guardar info
+10:12:32 - Aldo Sorbara (@aldo1891):
+seguro llegue tarde, pero sino, me interesa
+11:14:20 - Marcos Casagrande (@marcoscvp90):
+Ya consiguió a otro me dijo
+11:53:19 - Martín Aimar (@maimar):
+che hasta me pidieron el teléfono en la entrevista de cmx
+11:58:58 - Marcos Casagrande (@marcoscvp90):
+Si, para llamarte y tener una entrevista por ahí creo.
+11:59:56 - Marcos Casagrande (@marcoscvp90):
+Y volviendo al tema del laburo repetido, es clave guardarse todos los freelance que hacés en repos privados. Por si alguno los borraba.
+15:31:30 - Martín Aimar (@maimar):
+“We ask that you complete this small project within the next 7 days and please complete it in Vue.js as requested.” mirá <@U7MP5R4MC> si yo puedo pedir eso vos tranquilamente podés pedir de hacerlo en haskell
+15:45:56 - Marcos Casagrande (@marcoscvp90):
+A mi me preguntaron en que quería hacerlo, así que está copado eso, lo hacés en lo que te sientas más cómodo.
+15:47:31 - Julian (@jantonielli01):
+Ehh no entendí 
+15:47:38 - Julian (@jantonielli01):
+No dice que tenes que hacerlo en vue?
+15:47:53 - Martín Aimar (@maimar):
+te piden hacer un proyecto chiquito y vos podés elegir la tech
+15:48:13 - Julian (@jantonielli01):
+Ah, piola 
+15:48:18 - Julian (@jantonielli01):
+Pasalo 
+15:48:39 - Julian (@jantonielli01):
+Igual se me hace que si les mandas algo en un lenguaje muy raro te putearian jajaj
+15:48:41 - Julian (@jantonielli01):
+Pero ni idea
+15:48:56 - Martín Aimar (@maimar):
+si todavía no lo vi, porque no lo voy a hacer ahora y seguro te trackean todo estos flacos
+16:11:30 - Micael Robles (@micaelrobles):
+Hoy me depositaron la guita en payoneer :money_mouth_face:
+16:42:17 - Gonza Espeche (@espeche.g):
+bien ahí, ya podes dejarle el diezmo a marcos
+17:55:18 - Aldo Sorbara (@aldo1891):
+primer live session
+17:55:26 - Aldo Sorbara (@aldo1891):
+:fastparrot:
+17:55:43 - Gonzalo González Mora (@gonzalogm):
+Esoooo :clap::clap::clap:
+17:56:19 - Micael Robles (@micaelrobles):
+Vamoo :clap:
+18:01:22 - Marcos Casagrande (@marcoscvp90):
+Después paso a recolectar
+18:57:57 - Mariano Ramonda (@ing.inf.mariano):
+curiosidad, que tuviste que hacer?
+18:59:03 - Julian (@jantonielli01):
+No lo encontré :disappointed:
+19:05:32 - Micael Robles (@micaelrobles):
+No tendría problema :stuck_out_tongue:
+19:05:43 - Micael Robles (@micaelrobles):
+Después pasa tus honorarios (?
+19:36:51 - Martín Aimar (@maimar):
+Aplicá para CMX! 
+19:42:32 - Julian (@jantonielli01):
+Ah, que boludo
+21:43:43 - Marcos Casagrande (@marcoscvp90):
+Me acaba de llegar un mail de upwork, a partir de mayo, todos los connects serán pagos, 0.15$, cada uno, y la mayoría de laburos piden 2.
+21:55:37 - Julian (@jantonielli01):
+Malísimo 
+22:02:44 - Marcos Casagrande (@marcoscvp90):
+Para mi si, pero habrá que ver si es positivo o no. Quizás es la forma de evitar el overbidding que hay. Pero yo de por si ya no ganaba casi ningún laburo, no voy a empezar a pagar ahora :joy:
+23:32:42 - Martín Aimar (@maimar):
+Seguro que no es por april fools? 
+23:44:25 - Julian (@jantonielli01):
+No creo
+23:44:42 - Julian (@jantonielli01):
+Despues de pensarlo un toque creo que puede ser copado, como dice marcos
+23:57:23 - Marcos Casagrande (@marcoscvp90):
+No creo, ya eran pagos los connects a partir de 60, y no creo que hagan ese tipo de joda. Pero es posible que ayude a tener más laburos, aunque sea a costo de guita, igual con que agarres 1 laburo ya recuperaste la "inversión"
+23:58:47 - Julian (@jantonielli01):
+Btw, te robé un laburo de blockchain de CM, <@UGQTUDQSG> :stuck_out_tongue:
+00:05:17 - Marcos Casagrande (@marcoscvp90):
+`/kick @jjant `
+00:05:27 - Marcos Casagrande (@marcoscvp90):
+De que era? :joy:
+00:05:49 - Julian (@jantonielli01):
+Jajaj
+00:05:53 - Julian (@jantonielli01):
+Un tp de la facu parece
+00:05:57 - Julian (@jantonielli01):
+bastante heavy
+00:06:09 - Julian (@jantonielli01):
+Mira el tipo de preguntas que tiene
+00:06:18 - Julian (@jantonielli01):
+&gt;&gt;&gt; *1. Beyond Proof-of-Work*. Recall the Avalanche protocol, and the simpler instances on which it is based (Slush, Snowflake, etc.). Particularly, recall the Slush (the most basic instance, not Byzantine fault-tolerant) protocol which involves nodes which are initially uncolored, query a random sample of the network for a color, and respond to queries either with their color (if already colored) or with the color in the query before initiating their own query sampling.
+Describe why a network of honest (non-Byzantine) Slush nodes eventually reach consensus on a color.
+00:06:51 - Marcos Casagrande (@marcoscvp90):
+Como se llama el flaco? Porque ayer me pidieron hacer un TP de facu de blockchain y lo patee
+00:06:58 - Julian (@jantonielli01):
+a ver
+00:07:01 - Marcos Casagrande (@marcoscvp90):
+Picante el TP jaja
+00:07:08 - Julian (@jantonielli01):
+Victor D se llama
+00:07:13 - Julian (@jantonielli01):
+See, jodido
+00:07:22 - Julian (@jantonielli01):
+Estoy teniendo q leer un cacho del paper jajaj
+00:07:43 - Marcos Casagrande (@marcoscvp90):
+Si, Victor D, me pidió hace unos días
+00:07:47 - Julian (@jantonielli01):
+Tbh sé poco y nada de lo que pregunta el tp, pero bueh, se aprende
+00:07:48 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/m/dashboard/open-requests/6l34mcaoxa>
+00:08:02 - Marcos Casagrande (@marcoscvp90):
+Lo re ignoré, pagaba poco para ese assignment, y tampoco tengo la más puta idea de como hacerlo jaja.
+00:08:07 - Julian (@jantonielli01):
+Se, es ese
+00:10:30 - Marcos Casagrande (@marcoscvp90):
+Le sacaste buena plata?
+00:10:44 - Julian (@jantonielli01):
+350$
+00:11:03 - Julian (@jantonielli01):
+Será buena si no me toma demasiado jaja
+00:11:39 - Marcos Casagrande (@marcoscvp90):
+jaja. A mi justó me escribieron para un chat de <http://socket.io|socket.io>, que el flaco tiene que entregar en 4 horas :joy:
+00:12:02 - Julian (@jantonielli01):
+Jajaj lo vi también a ese
+00:12:05 - Julian (@jantonielli01):
+parecia plata ez
+00:12:44 - Marcos Casagrande (@marcoscvp90):
+jajajaja
+00:12:57 - Marcos Casagrande (@marcoscvp90):
+*es el mismo assignment que hice hace 5 meses para otro alumna*
+00:13:03 - Marcos Casagrande (@marcoscvp90):
+Tengo el chat hecho 100%.
+00:13:11 - Julian (@jantonielli01):
+Hace un toque me hablo uno para un proyecto de haskell, me puso "paying very well", veremos que considera muy bien
+00:13:13 - Julian (@jantonielli01):
+Jajajajaj
+00:13:16 - Julian (@jantonielli01):
+excelente
+00:13:25 - Marcos Casagrande (@marcoscvp90):
+200 USD, mismos requisitos, misma universidad.
+00:15:54 - Marcos Casagrande (@marcoscvp90):
+Es buenísimo esto, voy a cambiar el código un poco, y listo.
+00:16:16 - Gonzalo González Mora (@gonzalogm):
+jajaja un golazo
+00:16:27 - Julian (@jantonielli01):
+el otro día me hablo uno de mi facu por fb para que le haga un tp jaja
+00:16:47 - Gonzalo González Mora (@gonzalogm):
+“Buscame en Codementor” :troll::money_mouth_face:
+00:17:30 - Julian (@jantonielli01):
+Jaajj deberia haberle dicho eso
+00:30:24 - Marcos Casagrande (@marcoscvp90):
+Bueno me contrató para modificar el código del laburo viejo para que no sea igual :joy:. Los mejores $200 de mi vida
+00:36:18 - Julian (@jantonielli01):
+Jajajaj excelente 
+09:27:44 - Aldo Sorbara (@aldo1891):
+<@UGQTUDQSG> parecen funcionalidades solo de UI no? o hay que tocar algo en mongo ?
+09:59:44 - Marcos Casagrande (@marcoscvp90):
+Hay cosas de backend, hay que hacer ciertos chequeos en la base y guardar info
+10:12:32 - Aldo Sorbara (@aldo1891):
+seguro llegue tarde, pero sino, me interesa
+11:14:20 - Marcos Casagrande (@marcoscvp90):
+Ya consiguió a otro me dijo
+11:53:19 - Martín Aimar (@maimar):
+che hasta me pidieron el teléfono en la entrevista de cmx
+11:58:58 - Marcos Casagrande (@marcoscvp90):
+Si, para llamarte y tener una entrevista por ahí creo.
+11:59:56 - Marcos Casagrande (@marcoscvp90):
+Y volviendo al tema del laburo repetido, es clave guardarse todos los freelance que hacés en repos privados. Por si alguno los borraba.
+15:31:30 - Martín Aimar (@maimar):
+“We ask that you complete this small project within the next 7 days and please complete it in Vue.js as requested.” mirá <@U7MP5R4MC> si yo puedo pedir eso vos tranquilamente podés pedir de hacerlo en haskell
+15:45:56 - Marcos Casagrande (@marcoscvp90):
+A mi me preguntaron en que quería hacerlo, así que está copado eso, lo hacés en lo que te sientas más cómodo.
+15:47:31 - Julian (@jantonielli01):
+Ehh no entendí 
+15:47:38 - Julian (@jantonielli01):
+No dice que tenes que hacerlo en vue?
+15:47:53 - Martín Aimar (@maimar):
+te piden hacer un proyecto chiquito y vos podés elegir la tech
+15:48:13 - Julian (@jantonielli01):
+Ah, piola 
+15:48:18 - Julian (@jantonielli01):
+Pasalo 
+15:48:39 - Julian (@jantonielli01):
+Igual se me hace que si les mandas algo en un lenguaje muy raro te putearian jajaj
+15:48:41 - Julian (@jantonielli01):
+Pero ni idea
+15:48:56 - Martín Aimar (@maimar):
+si todavía no lo vi, porque no lo voy a hacer ahora y seguro te trackean todo estos flacos
+16:11:30 - Micael Robles (@micaelrobles):
+Hoy me depositaron la guita en payoneer :money_mouth_face:
+16:42:17 - Gonza Espeche (@espeche.g):
+bien ahí, ya podes dejarle el diezmo a marcos
+17:55:18 - Aldo Sorbara (@aldo1891):
+primer live session
+17:55:26 - Aldo Sorbara (@aldo1891):
+:fastparrot:
+17:55:43 - Gonzalo González Mora (@gonzalogm):
+Esoooo :clap::clap::clap:
+17:56:19 - Micael Robles (@micaelrobles):
+Vamoo :clap:
+18:01:22 - Marcos Casagrande (@marcoscvp90):
+Después paso a recolectar
+18:57:57 - Mariano Ramonda (@ing.inf.mariano):
+curiosidad, que tuviste que hacer?
+18:59:03 - Julian (@jantonielli01):
+No lo encontré :disappointed:
+19:05:32 - Micael Robles (@micaelrobles):
+No tendría problema :stuck_out_tongue:
+19:05:43 - Micael Robles (@micaelrobles):
+Después pasa tus honorarios (?
+19:36:51 - Martín Aimar (@maimar):
+Aplicá para CMX! 
+19:42:32 - Julian (@jantonielli01):
+Ah, que boludo
