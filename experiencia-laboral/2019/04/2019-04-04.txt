@@ -1,0 +1,356 @@
+10:20:01 - Ezequiel Golub (@ezequiel.golub):
+Yo laburé ~4 años en la maqui de niceto. Solo me robaron un cargador de celular en todo ese periodo, y medio que fue mala mia por no llevarmelo al terminar el día.
+10:20:07 - Ezequiel Golub (@ezequiel.golub):
+Internet es una mierda en la maqui, eso si
+12:12:16 - Rodrigo Ali (@rodrigojali):
+En La Maquinita de Córdoba, internet también anda bastante inestable.
+12:14:29 - Nico (@nicokorn96):
+yo estoy en la maquinita, y internet estos dias esta para pegarse un tiro
+12:16:34 - Santiago Ruffino (@santi_0898):
+En la oficina tenemos arnet, y el primer tecnico que vino a instalar el servicio dejo dos cables pasando por el marco de la puerta y la puerta. Cuando cerrabas la puerta, internet dejaba de andar por que se apretaban los cables
+12:16:50 - Santiago Ruffino (@santi_0898):
+(No porque "tapara" el cable, antes que me boludeen)
+12:40:11 - Pedro (@pedro461):
+vengan a NORTE Coworking, en Villa Allende Córdoba.. el internet anda bien y nadie roba a nadie :wink:
+15:10:06 - andres cenci (@andrescenci):
+Nubi me acaba de avisar por mail su nuevo esquema de tarifas.
+15:12:45 - Martín Valdés de León (@mvaldesdeleon):
+de 1999 usd a 2000 usd la tasa en dolares pasa de 35 a 50 =/
+15:12:50 - Martín Valdés de León (@mvaldesdeleon):
+saca siempre de a 1999
+15:13:11 - Martín Valdés de León (@mvaldesdeleon):
+en pesos esta bien, pasa de 10 a 10, asi que saca siempre al menos 2000
+15:14:32 - Jorge Cano (@jorgeucano):
+el 0,5% de 2000 no es 10 tambien :thinking_face:
+15:15:22 - Martín Valdés de León (@mvaldesdeleon):
+si, para los retiros en pesos los valores empalman bien
+15:15:25 - Jorge Cano (@jorgeucano):
+el problema seria a cuanto te toman el dolar
+15:15:29 - Martín Valdés de León (@mvaldesdeleon):
+pero dado que es 10 fija
+15:15:35 - Martín Valdés de León (@mvaldesdeleon):
+si sacas menos de 2000 el % es mayor a 0,5
+15:15:49 - Jorge Cano (@jorgeucano):
+seguiran tardando tanto tiempo?
+15:16:01 - Jorge Cano (@jorgeucano):
+la unica vez que los use
+15:16:04 - Jorge Cano (@jorgeucano):
+tardaron como 1 semana o algo asi
+15:16:34 - Martín Aimar (@maimar):
+tardan una banda
+15:16:39 - Martín Aimar (@maimar):
+la última vez tardaron 12 días creo
+15:16:54 - Jorge Cano (@jorgeucano):
+uhhh
+15:17:04 - Jorge Cano (@jorgeucano):
+el otro dia use transfewise y tardo 3 horas posta
+15:17:08 - Jorge Cano (@jorgeucano):
+pero clavadas 3 horas
+15:18:17 - Martín Aimar (@maimar):
+ah increíble, ya pedí que me manden a tw para las próximas
+15:18:27 - Jorge Cano (@jorgeucano):
+posta que muy bueno
+15:19:06 - Jorge Cano (@jorgeucano):
+y el otro que usaron conmigo fue OFX y tardo la primera vez 1 semana
+15:19:10 - Jorge Cano (@jorgeucano):
+la segunda 1 dia
+15:20:02 - Enzo Retamozo (@egr_96):
+Hola! una consulta medio nava, pero cuanto podría estar ganando un full stack en España ? Hablando en ciudades como Madrid o Barcelona
+15:20:40 - Jorge Cano (@jorgeucano):
+depende muchisimo
+15:20:42 - Jorge Cano (@jorgeucano):
+de la empresa y demas
+17:48:39 - Rodrigo Ali (@rodrigojali):
+Cuando yo averigüé, <@UE3C42RHR>, me dio un promedio de €65k/yr
+17:48:54 - Rodrigo Ali (@rodrigojali):
+Pero fue muy arbitrario, es como dice Jorge, me encontré con muchos numeros que me rompían el promedio
+17:49:43 - Rodrigo Ali (@rodrigojali):
+Yo averigüé para Barcelona, Valencia y Zaragoza
+17:58:09 - Ezequiel Leites (@leites25):
+Yo ayer estuve en un par de entrevistas para Barcelona y me ofrecian como SSR Full Stack JS con Ingles 50k
+17:58:46 - Rodrigo Ali (@rodrigojali):
+Ah, yo averigüé precio promedio Sr, debe ser entonces eso lo que me rompió los números.
+17:59:27 - Martin Gonzalez (@martin2786):
+Yo estuve averiguando tambien y lo maximo que me ofrecieron fue para senior 50k en Madrid y Barcelona. no vi quien ofrezca 65 la verdad
+17:59:51 - Martin Gonzalez (@martin2786):
+50 fue la excepcion, la mayoria estan entre 40 y 45
+18:00:23 - Martin Gonzalez (@martin2786):
+tenes que tener en cuenta que no tienen aguinaldo como aca
+18:00:23 - Rodrigo Ali (@rodrigojali):
+Igual no sé hasta qué punto rinde hacer eso, la verdad. Termina siendo "poca plata". €3k por mes o algo asi.
+18:00:55 - Rodrigo Ali (@rodrigojali):
+UK y Berlin vi que paga bastante mejor, Estocolmo también.
+18:01:09 - Julian (@jantonielli01):
+España es muy barato though 
+18:01:09 - Martin Gonzalez (@martin2786):
+no es poco por los costos que hay, 3k es un monton pero depende de cada caso, en mi caso con esposa e hija de 2 anios me queda corto
+18:01:22 - Julian (@jantonielli01):
+Alemania también 
+18:01:43 - Julian (@jantonielli01):
+Pero desp uk en general, y Londres, tiene un costo de vida mucho más alto 
+18:01:49 - Rodrigo Ali (@rodrigojali):
+Cuando averigüé en Numbeo y cuando fui de vacaciones, Barna me dio para una pareja sin hijos, unos €1.2k mensuales sin muchos lujos.
+18:01:50 - Martín Valdés de León (@mvaldesdeleon):
+Alemania Sr deberias poder negociarte un 80k/yr
+18:02:03 - Martín Valdés de León (@mvaldesdeleon):
+Obviamente te van a querer contratar por menos.
+18:05:33 - Rodrigo Ali (@rodrigojali):
+Igual yo medio que toco de oido, también averigüé  para frontend Jr y me tiró un €30k/yr
+18:05:37 - Rodrigo Ali (@rodrigojali):
+(para Barna)
+18:07:00 - Martin Gonzalez (@martin2786):
+yo tuve entrevistas en 3 empresas distintas para .net sr, una ofrecio 42, otra 45 y otra 50. Quizas no llegue a las empresas que ofrecen mas, principalmente porque no conozco mucho el mercado.
+18:07:11 - Martín Valdés de León (@mvaldesdeleon):
+Por lo que veo España no te rompe con los impuestos.
+18:07:16 - Martín Valdés de León (@mvaldesdeleon):
+30k son casi 2 lucas en mano
+18:07:22 - Martín Valdés de León (@mvaldesdeleon):
+50k son casi 3 lucas
+18:08:05 - Martín Valdés de León (@mvaldesdeleon):
+Si eso incluye salud para tu grupo familiar y las prestaciones publicas (educacion, etc.) son razonables, deberias estar en un nivel de vida razonable.
+18:08:35 - Martin Gonzalez (@martin2786):
+no se como funciona el tema salud, casi todas las empresas te ofrecen un plan privado.
+18:09:01 - Martín Valdés de León (@mvaldesdeleon):
+mientras que no tengas que poner mas guita vos todo bien
+18:11:03 - Martín Valdés de León (@mvaldesdeleon):
+Tambien fijate que onda los precios de alquiler.
+18:11:12 - Martín Valdés de León (@mvaldesdeleon):
+Para lo que te gustaria alquilar, en la zona que te gustaria alquilar.
+18:11:33 - Martín Valdés de León (@mvaldesdeleon):
+En general la rule of thumb es que los costos fijos de la vivienda no deberian ser mas que 1/3 de tu salario en mano
+18:19:01 - Diego Harari (@diehara):
+Volviendo a lo de nubi, tengan en cuenta
+18:19:07 - Diego Harari (@diehara):
+que Paypal =&gt; Nuvi
+18:19:14 - Diego Harari (@diehara):
+Nubi tambien hay un %
+18:19:34 - Diego Harari (@diehara):
+y con los salario de españa el otro día, postraron el video de un chaval llamado Victor Robles
+18:19:38 - Diego Harari (@diehara):
+tira unos sueldos de indigente
+18:19:40 - Diego Harari (@diehara):
+jr
+18:19:42 - Diego Harari (@diehara):
+800, 1200
+18:19:47 - Diego Harari (@diehara):
+sir 1800, 2200
+18:19:50 - Diego Harari (@diehara):
+sr 2800 aprox
+18:25:58 - Marcos Casagrande (@marcoscvp90):
+La salud allá es espectacular, no hay necesidad de tener un plan privado, los hospitales públicos a nivel infraestructura y profesionales son como los privados de acá, lo único que cambia es tenés que esperar un poco más para las consultas al ser público.
+18:30:08 - Marcos Casagrande (@marcoscvp90):
+Con un sueldo de 2800 en España se vive re bien, es muy por encima de la media el sueldo ese. Aún así un Sr puede tranquilamente llegar a 3500-4000€.
+18:31:43 - Marcos Casagrande (@marcoscvp90):
+Y obviamente también más, cosa que acá ninguna empresa paga arriba de 3000 USD (si me equivoco me encantaría que me digan que empresa así la recomiendo).
+18:41:26 - GAlvarado (@anzaldo.alvarado.gabr):
+un amigo me dijo que su amigo :smiley: en rappy esta cobrando 4000 USD Senior devops, y les pagan al tipo de cambio de fin de mes
+18:42:36 - Marcos Casagrande (@marcoscvp90):
+Solo un ejemplo €65-85k:  (5000-6500€ en 13 sueldos.)
+
+<https://stackoverflow.com/jobs/251430/principal-software-engineer-travelperk>
+18:43:03 - GAlvarado (@anzaldo.alvarado.gabr):
+sueldo bruto
+18:43:41 - Marcos Casagrande (@marcoscvp90):
+Se te va fácil 1k ahí, eso queda en 115-120k ARS
+18:44:18 - Marcos Casagrande (@marcoscvp90):
+Y eso son 2700 USD, que si bien está re bien, es lo que yo digo :slightly_smiling_face:
+18:45:27 - GAlvarado (@anzaldo.alvarado.gabr):
+bueno no habias especificado si era bruto o neto
+18:46:39 - Marcos Casagrande (@marcoscvp90):
+Lo sé, pero a mi me parece sin sentido hablar de salario bruto, a nadie le importa, solo a las empresas para aparentar más de lo que es. Lo que te entra al banco es lo único importante.
+18:48:20 - GAlvarado (@anzaldo.alvarado.gabr):
+see tal cual
+18:48:46 - Julian (@jantonielli01):
+A mi me ofrecieron 3k neto
+18:48:48 - Julian (@jantonielli01):
+En rappi
+18:49:02 - Julian (@jantonielli01):
+El salario de 30 repartidores jaja
+18:49:50 - Marcos Casagrande (@marcoscvp90):
+jajajaja
+18:50:37 - Marcos Casagrande (@marcoscvp90):
+Pero si, justo 3k es lo que sabía que pagan, hasta 120k ARS netos, que es un re sueldo para acá, pero debe ser el único.
+19:00:48 - Martin Gonzalez (@martin2786):
+Principal Software Engineer seria mas un arquitecto que un Sr
+19:14:45 - Marcos Casagrande (@marcoscvp90):
+Hasta dónde yo sé, Piden un senior. Que después se inventen un cargo extra puede ser, pero los requisitos para entrar es senior full stack developer.
+19:15:34 - Marcos Casagrande (@marcoscvp90):
+y es un ejemplo, no es la primera empresa que veo que ofrecen 70k+.
+10:20:01 - Ezequiel Golub (@ezequiel.golub):
+Yo laburé ~4 años en la maqui de niceto. Solo me robaron un cargador de celular en todo ese periodo, y medio que fue mala mia por no llevarmelo al terminar el día.
+10:20:07 - Ezequiel Golub (@ezequiel.golub):
+Internet es una mierda en la maqui, eso si
+12:12:16 - Rodrigo Ali (@rodrigojali):
+En La Maquinita de Córdoba, internet también anda bastante inestable.
+12:14:29 - Nico (@nicokorn96):
+yo estoy en la maquinita, y internet estos dias esta para pegarse un tiro
+12:16:34 - Santiago Ruffino (@santi_0898):
+En la oficina tenemos arnet, y el primer tecnico que vino a instalar el servicio dejo dos cables pasando por el marco de la puerta y la puerta. Cuando cerrabas la puerta, internet dejaba de andar por que se apretaban los cables
+12:16:50 - Santiago Ruffino (@santi_0898):
+(No porque "tapara" el cable, antes que me boludeen)
+12:40:11 - Pedro (@pedro461):
+vengan a NORTE Coworking, en Villa Allende Córdoba.. el internet anda bien y nadie roba a nadie :wink:
+15:10:06 - andres cenci (@andrescenci):
+Nubi me acaba de avisar por mail su nuevo esquema de tarifas.
+15:12:45 - Martín Valdés de León (@mvaldesdeleon):
+de 1999 usd a 2000 usd la tasa en dolares pasa de 35 a 50 =/
+15:12:50 - Martín Valdés de León (@mvaldesdeleon):
+saca siempre de a 1999
+15:13:11 - Martín Valdés de León (@mvaldesdeleon):
+en pesos esta bien, pasa de 10 a 10, asi que saca siempre al menos 2000
+15:14:32 - Jorge Cano (@jorgeucano):
+el 0,5% de 2000 no es 10 tambien :thinking_face:
+15:15:22 - Martín Valdés de León (@mvaldesdeleon):
+si, para los retiros en pesos los valores empalman bien
+15:15:25 - Jorge Cano (@jorgeucano):
+el problema seria a cuanto te toman el dolar
+15:15:29 - Martín Valdés de León (@mvaldesdeleon):
+pero dado que es 10 fija
+15:15:35 - Martín Valdés de León (@mvaldesdeleon):
+si sacas menos de 2000 el % es mayor a 0,5
+15:15:49 - Jorge Cano (@jorgeucano):
+seguiran tardando tanto tiempo?
+15:16:01 - Jorge Cano (@jorgeucano):
+la unica vez que los use
+15:16:04 - Jorge Cano (@jorgeucano):
+tardaron como 1 semana o algo asi
+15:16:34 - Martín Aimar (@maimar):
+tardan una banda
+15:16:39 - Martín Aimar (@maimar):
+la última vez tardaron 12 días creo
+15:16:54 - Jorge Cano (@jorgeucano):
+uhhh
+15:17:04 - Jorge Cano (@jorgeucano):
+el otro dia use transfewise y tardo 3 horas posta
+15:17:08 - Jorge Cano (@jorgeucano):
+pero clavadas 3 horas
+15:18:17 - Martín Aimar (@maimar):
+ah increíble, ya pedí que me manden a tw para las próximas
+15:18:27 - Jorge Cano (@jorgeucano):
+posta que muy bueno
+15:19:06 - Jorge Cano (@jorgeucano):
+y el otro que usaron conmigo fue OFX y tardo la primera vez 1 semana
+15:19:10 - Jorge Cano (@jorgeucano):
+la segunda 1 dia
+15:20:02 - Enzo Retamozo (@egr_96):
+Hola! una consulta medio nava, pero cuanto podría estar ganando un full stack en España ? Hablando en ciudades como Madrid o Barcelona
+15:20:40 - Jorge Cano (@jorgeucano):
+depende muchisimo
+15:20:42 - Jorge Cano (@jorgeucano):
+de la empresa y demas
+17:48:39 - Rodrigo Ali (@rodrigojali):
+Cuando yo averigüé, <@UE3C42RHR>, me dio un promedio de €65k/yr
+17:48:54 - Rodrigo Ali (@rodrigojali):
+Pero fue muy arbitrario, es como dice Jorge, me encontré con muchos numeros que me rompían el promedio
+17:49:43 - Rodrigo Ali (@rodrigojali):
+Yo averigüé para Barcelona, Valencia y Zaragoza
+17:58:09 - Ezequiel Leites (@leites25):
+Yo ayer estuve en un par de entrevistas para Barcelona y me ofrecian como SSR Full Stack JS con Ingles 50k
+17:58:46 - Rodrigo Ali (@rodrigojali):
+Ah, yo averigüé precio promedio Sr, debe ser entonces eso lo que me rompió los números.
+17:59:27 - Martin Gonzalez (@martin2786):
+Yo estuve averiguando tambien y lo maximo que me ofrecieron fue para senior 50k en Madrid y Barcelona. no vi quien ofrezca 65 la verdad
+17:59:51 - Martin Gonzalez (@martin2786):
+50 fue la excepcion, la mayoria estan entre 40 y 45
+18:00:23 - Martin Gonzalez (@martin2786):
+tenes que tener en cuenta que no tienen aguinaldo como aca
+18:00:23 - Rodrigo Ali (@rodrigojali):
+Igual no sé hasta qué punto rinde hacer eso, la verdad. Termina siendo "poca plata". €3k por mes o algo asi.
+18:00:55 - Rodrigo Ali (@rodrigojali):
+UK y Berlin vi que paga bastante mejor, Estocolmo también.
+18:01:09 - Julian (@jantonielli01):
+España es muy barato though 
+18:01:09 - Martin Gonzalez (@martin2786):
+no es poco por los costos que hay, 3k es un monton pero depende de cada caso, en mi caso con esposa e hija de 2 anios me queda corto
+18:01:22 - Julian (@jantonielli01):
+Alemania también 
+18:01:43 - Julian (@jantonielli01):
+Pero desp uk en general, y Londres, tiene un costo de vida mucho más alto 
+18:01:49 - Rodrigo Ali (@rodrigojali):
+Cuando averigüé en Numbeo y cuando fui de vacaciones, Barna me dio para una pareja sin hijos, unos €1.2k mensuales sin muchos lujos.
+18:01:50 - Martín Valdés de León (@mvaldesdeleon):
+Alemania Sr deberias poder negociarte un 80k/yr
+18:02:03 - Martín Valdés de León (@mvaldesdeleon):
+Obviamente te van a querer contratar por menos.
+18:05:33 - Rodrigo Ali (@rodrigojali):
+Igual yo medio que toco de oido, también averigüé  para frontend Jr y me tiró un €30k/yr
+18:05:37 - Rodrigo Ali (@rodrigojali):
+(para Barna)
+18:07:00 - Martin Gonzalez (@martin2786):
+yo tuve entrevistas en 3 empresas distintas para .net sr, una ofrecio 42, otra 45 y otra 50. Quizas no llegue a las empresas que ofrecen mas, principalmente porque no conozco mucho el mercado.
+18:07:11 - Martín Valdés de León (@mvaldesdeleon):
+Por lo que veo España no te rompe con los impuestos.
+18:07:16 - Martín Valdés de León (@mvaldesdeleon):
+30k son casi 2 lucas en mano
+18:07:22 - Martín Valdés de León (@mvaldesdeleon):
+50k son casi 3 lucas
+18:08:05 - Martín Valdés de León (@mvaldesdeleon):
+Si eso incluye salud para tu grupo familiar y las prestaciones publicas (educacion, etc.) son razonables, deberias estar en un nivel de vida razonable.
+18:08:35 - Martin Gonzalez (@martin2786):
+no se como funciona el tema salud, casi todas las empresas te ofrecen un plan privado.
+18:09:01 - Martín Valdés de León (@mvaldesdeleon):
+mientras que no tengas que poner mas guita vos todo bien
+18:11:03 - Martín Valdés de León (@mvaldesdeleon):
+Tambien fijate que onda los precios de alquiler.
+18:11:12 - Martín Valdés de León (@mvaldesdeleon):
+Para lo que te gustaria alquilar, en la zona que te gustaria alquilar.
+18:11:33 - Martín Valdés de León (@mvaldesdeleon):
+En general la rule of thumb es que los costos fijos de la vivienda no deberian ser mas que 1/3 de tu salario en mano
+18:19:01 - Diego Harari (@diehara):
+Volviendo a lo de nubi, tengan en cuenta
+18:19:07 - Diego Harari (@diehara):
+que Paypal =&gt; Nuvi
+18:19:14 - Diego Harari (@diehara):
+Nubi tambien hay un %
+18:19:34 - Diego Harari (@diehara):
+y con los salario de españa el otro día, postraron el video de un chaval llamado Victor Robles
+18:19:38 - Diego Harari (@diehara):
+tira unos sueldos de indigente
+18:19:40 - Diego Harari (@diehara):
+jr
+18:19:42 - Diego Harari (@diehara):
+800, 1200
+18:19:47 - Diego Harari (@diehara):
+sir 1800, 2200
+18:19:50 - Diego Harari (@diehara):
+sr 2800 aprox
+18:25:58 - Marcos Casagrande (@marcoscvp90):
+La salud allá es espectacular, no hay necesidad de tener un plan privado, los hospitales públicos a nivel infraestructura y profesionales son como los privados de acá, lo único que cambia es tenés que esperar un poco más para las consultas al ser público.
+18:30:08 - Marcos Casagrande (@marcoscvp90):
+Con un sueldo de 2800 en España se vive re bien, es muy por encima de la media el sueldo ese. Aún así un Sr puede tranquilamente llegar a 3500-4000€.
+18:31:43 - Marcos Casagrande (@marcoscvp90):
+Y obviamente también más, cosa que acá ninguna empresa paga arriba de 3000 USD (si me equivoco me encantaría que me digan que empresa así la recomiendo).
+18:41:26 - GAlvarado (@anzaldo.alvarado.gabr):
+un amigo me dijo que su amigo :smiley: en rappy esta cobrando 4000 USD Senior devops, y les pagan al tipo de cambio de fin de mes
+18:42:36 - Marcos Casagrande (@marcoscvp90):
+Solo un ejemplo €65-85k:  (5000-6500€ en 13 sueldos.)
+
+<https://stackoverflow.com/jobs/251430/principal-software-engineer-travelperk>
+18:43:03 - GAlvarado (@anzaldo.alvarado.gabr):
+sueldo bruto
+18:43:41 - Marcos Casagrande (@marcoscvp90):
+Se te va fácil 1k ahí, eso queda en 115-120k ARS
+18:44:18 - Marcos Casagrande (@marcoscvp90):
+Y eso son 2700 USD, que si bien está re bien, es lo que yo digo :slightly_smiling_face:
+18:45:27 - GAlvarado (@anzaldo.alvarado.gabr):
+bueno no habias especificado si era bruto o neto
+18:46:39 - Marcos Casagrande (@marcoscvp90):
+Lo sé, pero a mi me parece sin sentido hablar de salario bruto, a nadie le importa, solo a las empresas para aparentar más de lo que es. Lo que te entra al banco es lo único importante.
+18:48:20 - GAlvarado (@anzaldo.alvarado.gabr):
+see tal cual
+18:48:46 - Julian (@jantonielli01):
+A mi me ofrecieron 3k neto
+18:48:48 - Julian (@jantonielli01):
+En rappi
+18:49:02 - Julian (@jantonielli01):
+El salario de 30 repartidores jaja
+18:49:50 - Marcos Casagrande (@marcoscvp90):
+jajajaja
+18:50:37 - Marcos Casagrande (@marcoscvp90):
+Pero si, justo 3k es lo que sabía que pagan, hasta 120k ARS netos, que es un re sueldo para acá, pero debe ser el único.
+19:00:48 - Martin Gonzalez (@martin2786):
+Principal Software Engineer seria mas un arquitecto que un Sr
+19:14:45 - Marcos Casagrande (@marcoscvp90):
+Hasta dónde yo sé, Piden un senior. Que después se inventen un cargo extra puede ser, pero los requisitos para entrar es senior full stack developer.
+19:15:34 - Marcos Casagrande (@marcoscvp90):
+y es un ejemplo, no es la primera empresa que veo que ofrecen 70k+.
