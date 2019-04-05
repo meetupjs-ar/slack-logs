@@ -1,0 +1,281 @@
+22:34:06 - Aldo Sorbara (@aldo1891):
+fue re facil, habia un css que estaba mal y debuggeamos el codigo para arreglarlo,
+23:40:27 - Marcos Casagrande (@marcoscvp90):
+:devil_parrot:
+23:41:20 - Marcos Casagrande (@marcoscvp90):
+Ahora me voy a laburar a Upwork, ninguna sesión más tendré.
+00:06:52 - Mariano Ramonda (@ing.inf.mariano):
+todo para que veamos las 5 estrellas
+00:17:57 - Marcos Casagrande (@marcoscvp90):
+jaja, todos tienen 5 estrellas ahi,
+00:18:32 - Marcos Casagrande (@marcoscvp90):
+Vi un par de 4.8/9, pero son los menos
+16:33:29 - Martín Aimar (@maimar):
+un tipo me habló out of the blue hoy por un problema
+16:33:58 - Martín Aimar (@maimar):
+llegué tarde :upside_down_face:
+16:35:07 - Julian (@jantonielli01):
+Recién me hablo uno por salesforce jaja
+16:35:14 - Julian (@jantonielli01):
+Le dije hermano no tengo idea de eso 
+16:35:35 - Gonza Espeche (@espeche.g):
+"help me pls aim despereit"
+16:36:23 - Martín Aimar (@maimar):
+jajaj no sé pero buena onda, me dijo todo bien, si tengo alguna duda te voy a preguntar a vos
+22:34:06 - Aldo Sorbara (@aldo1891):
+fue re facil, habia un css que estaba mal y debuggeamos el codigo para arreglarlo,
+23:40:27 - Marcos Casagrande (@marcoscvp90):
+:devil_parrot:
+23:41:20 - Marcos Casagrande (@marcoscvp90):
+Ahora me voy a laburar a Upwork, ninguna sesión más tendré.
+00:06:52 - Mariano Ramonda (@ing.inf.mariano):
+todo para que veamos las 5 estrellas
+00:17:57 - Marcos Casagrande (@marcoscvp90):
+jaja, todos tienen 5 estrellas ahi,
+00:18:32 - Marcos Casagrande (@marcoscvp90):
+Vi un par de 4.8/9, pero son los menos
+16:33:29 - Martín Aimar (@maimar):
+un tipo me habló out of the blue hoy por un problema
+16:33:58 - Martín Aimar (@maimar):
+llegué tarde :upside_down_face:
+16:35:07 - Julian (@jantonielli01):
+Recién me hablo uno por salesforce jaja
+16:35:14 - Julian (@jantonielli01):
+Le dije hermano no tengo idea de eso 
+16:35:35 - Gonza Espeche (@espeche.g):
+"help me pls aim despereit"
+16:36:23 - Martín Aimar (@maimar):
+jajaj no sé pero buena onda, me dijo todo bien, si tengo alguna duda te voy a preguntar a vos
+16:46:34 - Mariano Ramonda (@ing.inf.mariano):
+me olvide que tengo hasta hoy para hacer un challenge :facepalm:
+16:46:56 - Mariano Ramonda (@ing.inf.mariano):
+me parece que me voy a CM a que me den una mano porque no tengo tiempo
+16:47:27 - Julian (@jantonielli01):
+Jajaj
+16:48:05 - Mariano Ramonda (@ing.inf.mariano):
+corrijo, me acabo de acordar
+16:48:24 - Mariano Ramonda (@ing.inf.mariano):
+TIL: challenges para los findes si estas trabajando
+16:48:30 - Julian (@jantonielli01):
+Un challenge de que era?
+16:49:02 - Mariano Ramonda (@ing.inf.mariano):
+una posicion front para la que aplique por recomendacion
+16:49:57 - Mariano Ramonda (@ing.inf.mariano):
+creo que tiene algo de redux y hace un año no lo uso, queria un rato para refrescar
+16:52:30 - Marcos Casagrande (@marcoscvp90):
+Casi: "Plis halp sir"
+17:01:03 - Julian (@jantonielli01):
+el código q mande para uno de los challenges de cmx da un asco terrible ajja
+17:08:17 - Martín Aimar (@maimar):
+Jajaj me pasó lo mismo 
+17:09:20 - Julian (@jantonielli01):
+el 2do me deja hacerlo en hask :haskell:
+17:09:24 - Julian (@jantonielli01):
+el primero no por alguna razon
+17:09:26 - Martín Aimar (@maimar):
+Daba para hacerlo lindo con recursión y terminé encadenando una cantidad absurda de ifs
+17:09:35 - Julian (@jantonielli01):
+JAJ
+17:09:39 - Julian (@jantonielli01):
+yo tambien basicamente
+17:09:59 - Julian (@jantonielli01):
+use un reduce que no andaba bien y lo parche con ifs hasta la muerte
+17:10:11 - Martín Aimar (@maimar):
+Jajaj totalmente 
+17:10:19 - Martín Aimar (@maimar):
+Era el del bowling? 
+17:11:42 - Mariano Ramonda (@ing.inf.mariano):
+como es el del bowling? tenes que implementar un tablero de puntajes?
+17:12:20 - Martín Aimar (@maimar):
+Calcular el puntaje de la una tarjeta de bowling 
+17:12:59 - Mariano Ramonda (@ing.inf.mariano):
+me lo podrias pasar?
+17:13:07 - Mariano Ramonda (@ing.inf.mariano):
+si es que lo tenes
+17:13:10 - Mariano Ramonda (@ing.inf.mariano):
+a la consigna digo
+17:13:18 - Martín Aimar (@maimar):
+El enunciado?
+17:13:22 - Mariano Ramonda (@ing.inf.mariano):
+si
+17:13:47 - Martín Aimar (@maimar):
+Después me fijo si está 
+17:13:55 - Julian (@jantonielli01):
+A mi me toco este de paginado
+17:14:17 - Martín Aimar (@maimar):
+A mi también 
+17:14:28 - Martín Aimar (@maimar):
+Fue el más fácil 
+17:15:03 - Mariano Ramonda (@ing.inf.mariano):
+me encantan estas cosas jajaj
+17:15:16 - Martín Aimar (@maimar):
+Jajaj si a mi también 
+17:35:09 - Mariano Ramonda (@ing.inf.mariano):
+cuanto tiempo te dieron para ese <@U7MP5R4MC>?
+17:35:38 - Julian (@jantonielli01):
+Ehh no se
+17:35:49 - Julian (@jantonielli01):
+La verdad es que empece el challenge ayer, el de la especificidad
+17:35:54 - Julian (@jantonielli01):
+Me olvide que lo estaba haciendo
+17:36:01 - Julian (@jantonielli01):
+Y lo abrí hoy y ahora lo estoy haciendo ajja
+17:36:16 - Julian (@jantonielli01):
+Lo hice tambien medio villero though
+17:36:21 - Julian (@jantonielli01):
+```module Qualified.Pagination where
+
+import Debug.Trace
+
+type Collection a = [a]
+type ItemsPerPage = Int
+
+(//) :: Int -&gt; Int -&gt; Float
+a // b = fromIntegral a / fromIntegral b
+
+itemCount :: Collection a -&gt; Int
+itemCount = length
+
+pageCount :: Collection a -&gt; ItemsPerPage -&gt; Int
+pageCount xs 0 = length xs
+pageCount xs n = ceiling (length xs // n)
+
+pageItemCount :: Collection a -&gt; ItemsPerPage -&gt; Int -&gt; Maybe Int
+pageItemCount xs n page =
+  let itemCount = length (drop (n * page) xs)
+      res c
+        | c &gt; n = Just n
+        | c == 0 = Nothing
+        | otherwise = Just c
+  in if page &gt;= 0 then res itemCount else Nothing
+
+pageIndex :: Show a =&gt; Collection a -&gt; ItemsPerPage -&gt; Int -&gt; Maybe Int
+pageIndex xs n item =
+  let pageNum = if n == 0 then item else floor (item // n)
+  in
+    if item &gt;= 0 &amp;&amp; item &lt; length xs then
+      Just pageNum
+    else
+      Nothing```
+17:36:39 - Julian (@jantonielli01):
+Ahí me salio el de los ten bowling pins
+17:36:48 - Julian (@jantonielli01):
+Si alguno quiere pasar la respuesta le agradezco
+17:43:06 - Leandro Echevarria (@echevarrialeandro):
+Pasen las consignas de los que hagan (si quieren). Para ejercitar diferentes lenguajes sirve
+17:43:16 - Leandro Echevarria (@echevarrialeandro):
+De paso a alguno que quiera aplicar soon le viene bien :stuck_out_tongue:
+17:44:00 - Mariano Ramonda (@ing.inf.mariano):
+por pura casualidad alguno aplico a Clevertech alguna vez?
+17:44:32 - Julian (@jantonielli01):
+Si 
+17:44:41 - Julian (@jantonielli01):
+Un amigo esta laburando ahí tmb 
+17:44:53 - Mariano Ramonda (@ing.inf.mariano):
+mira!
+17:45:01 - Mariano Ramonda (@ing.inf.mariano):
+hiciste el challenge?
+17:45:13 - Julian (@jantonielli01):
+Por si queres que alguien te refiera jaj
+17:45:16 - Julian (@jantonielli01):
+Si 
+17:45:57 - Mariano Ramonda (@ing.inf.mariano):
+interesante para preguntarle que onda laburar ahi, algunos en glassdoor dicen que hay burnout, eso es lo unico que no me cierra
+17:46:07 - Julian (@jantonielli01):
+Creo que era uno online re boludo y después uno takehome bastante heavy
+17:46:35 - Julian (@jantonielli01):
+Su laburo es re tranqui 
+17:46:43 - Julian (@jantonielli01):
+Codea un par de horitas por día y listo 
+17:46:48 - Mariano Ramonda (@ing.inf.mariano):
+ah bue
+17:47:02 - Mariano Ramonda (@ing.inf.mariano):
+esta &gt;= 30U$D?
+17:47:33 - Julian (@jantonielli01):
+Por hora decís?
+17:47:39 - Mariano Ramonda (@ing.inf.mariano):
+si
+17:47:51 - Julian (@jantonielli01):
+Creo que si 
+17:48:32 - Martín Aimar (@maimar):
+los test para verificar las respuestas son tremendamente exhaustivos
+17:48:46 - Mariano Ramonda (@ing.inf.mariano):
+aca lo que veo es esto
+17:49:05 - Mariano Ramonda (@ing.inf.mariano):
+parece que hay un unico assessment, pero tal vez hay uno despues de este
+17:50:26 - Julian (@jantonielli01):
+No me acuerdo todo
+17:50:32 - Julian (@jantonielli01):
+pero yo aplique al de react
+17:50:43 - Julian (@jantonielli01):
+Y te daban una app bastante grande, con como 150 tests
+17:50:52 - Julian (@jantonielli01):
+y la tarea era arreglar ~90 tests que fallaban
+17:51:01 - Julian (@jantonielli01):
+A mi me fue mal en esa
+17:51:03 - Mariano Ramonda (@ing.inf.mariano):
+tenia redux, no?
+17:51:07 - Julian (@jantonielli01):
+Creo que se
+17:51:13 - Julian (@jantonielli01):
+Duraba 3 horas creo
+17:51:29 - Julian (@jantonielli01):
+Yo mande la respuesta y me quedaron como 8 tests fallando, porque no tenia mas tiempo
+17:51:33 - Julian (@jantonielli01):
+y me rechazaron : p
+17:52:07 - Mariano Ramonda (@ing.inf.mariano):
+estoy muy oxidado con redux como para que me vaya bien
+17:52:25 - Julian (@jantonielli01):
+Igual el tuyo es full stack
+17:52:33 - Julian (@jantonielli01):
+Mi amigo aplico a ese tmb
+17:52:42 - Mariano Ramonda (@ing.inf.mariano):
+juaa de una
+17:52:47 - Julian (@jantonielli01):
+Creo que tenia 3 tests, uno de node que era mas q nada express
+17:52:48 - Mariano Ramonda (@ing.inf.mariano):
+yo pense que aplique a front end
+17:53:08 - Julian (@jantonielli01):
+Uno de mongo (a mi amigo le fue para el culo en esa porque nunca uso mongo jaj)
+17:53:12 - Julian (@jantonielli01):
+y una de front en vanilla mepa
+17:53:20 - Julian (@jantonielli01):
+O algo de react bien tranqui, no me acuerdo
+17:53:26 - Martín Aimar (@maimar):
+tan choto es redux?
+17:53:27 - Julian (@jantonielli01):
+Y pasó
+17:53:36 - Mariano Ramonda (@ing.inf.mariano):
+con mongo estoy bien, vanilla tambien, express hace rato no toco
+17:53:47 - Mariano Ramonda (@ing.inf.mariano):
+no es choto, pero tiene su API bien particular
+17:53:54 - Mariano Ramonda (@ing.inf.mariano):
+si, es un reducer al fin y al cabo
+17:54:05 - Martín Aimar (@maimar):
+ah es choto entonces
+17:54:09 - Mariano Ramonda (@ing.inf.mariano):
+pero en un challenge no podes estar muy pegado a la documentacion
+17:54:17 - Mariano Ramonda (@ing.inf.mariano):
+no suele darte el tiempo
+17:54:30 - Mariano Ramonda (@ing.inf.mariano):
+naaa aguante el reducer papa
+17:54:32 - Mariano Ramonda (@ing.inf.mariano):
+jajaj
+17:54:45 - Martín Aimar (@maimar):
+es lo análogo a vuex?
+17:54:51 - Julian (@jantonielli01):
+esta piola redux
+17:55:00 - Mariano Ramonda (@ing.inf.mariano):
+los challenges de algoritmia que muchos hacen con for, con un reducer y alguna cosa mas lo sacas en dos lineas
+17:55:12 - Julian (@jantonielli01):
+es medio mierda que no viene con nada para manejar async out of the box y hay 2000 opciones
+17:55:19 - Mariano Ramonda (@ing.inf.mariano):
+bueno, hago el challenge y pregunto express aca &gt;D
+17:55:29 - Julian (@jantonielli01):
+jaj yo de node no se nada
+17:56:56 - Mariano Ramonda (@ing.inf.mariano):
+tengo un trato, tiro el challenge aca, al que me da una mano despues le pago una sesion en CM y review 5 estrellas ^^
+17:57:06 - Mariano Ramonda (@ing.inf.mariano):
+ya estoy muy limado a esta hora para esto
+18:15:57 - Mariano Ramonda (@ing.inf.mariano):
+me toca SQL, tambien re oxidado -.-
