@@ -1,0 +1,823 @@
+21:40:29 - Gonza Espeche (@espeche.g):
+No los conozco pero deben sonar lindo
+08:44:51 - Emanuel Friedrich (@aemanuelfriedrich):
+che volviendo a hablar en serio
+08:44:57 - Emanuel Friedrich (@aemanuelfriedrich):
+comprarian usado? <https://articulo.mercadolibre.com.ar/MLA-774325889-auriculares-bose-quietcomfort-3-noise-cancelling-activo-_JM?quantity=1&amp;variation=34012239735>
+08:46:51 - Leandro Echevarria (@echevarrialeandro):
+Dice que los compró en 2009 el vendedor
+09:03:10 - Emanuel Friedrich (@aemanuelfriedrich):
+ahi vi, gracias por el dato
+09:03:53 - Emanuel Friedrich (@aemanuelfriedrich):
+capa me vaya a un taotronics q dicen q no esta tan mal
+09:08:05 - Santiago Ruffino (@santi_0898):
+Si o si buscas auriculares tipo "bocha"? Yo tengo unos shure intraurales, y son de lo mejor. No escuchas nada para afuera
+09:11:10 - Emanuel Friedrich (@aemanuelfriedrich):
+<@U9KMYNJMV> y en mi ignorancia pienso q hacen logran mas silencio, cuales tenes?
+09:12:49 - Santiago Ruffino (@santi_0898):
+Shure SE215
+09:13:37 - Santiago Ruffino (@santi_0898):
+Nunca use auriculares bocha de buenas marcas. Pero los shure los use en colectivos llenos de gente (pendejos principlamente) y no escuchas nada
+09:13:56 - Santiago Ruffino (@santi_0898):
+Pero te tienen que ser comodos tambien. Conozco gente que los intraurales les resultan molestos
+09:14:08 - Santiago Ruffino (@santi_0898):
+Y obviamente, la calidad es tremenda
+09:14:23 - Santiago Ruffino (@santi_0898):
+Son auriculares de monitoreo, para sonido profesional
+09:17:10 - Emanuel Friedrich (@aemanuelfriedrich):
+Dataso, gracias Santiago. No se si seran comodos pero valoro la opinion de buena mano y son menos costos q los bose,sony
+09:19:37 - Martin Bavio (@mbavio):
+<@U7YLPN5GV> dato importante de los Bose QC 35: la bateria es irremplazable y cambiarla cuesta casi mas que el producto en si. Por ende yo no compraria usado porque vas a estar mas cerca de la muerte de la bateria.
+09:20:36 - Martin Bavio (@mbavio):
+Y en modo _wired_ no se puede activar el noise cancelling, no al menos en los QC 35 I
+09:23:03 - a0viedo (@a0viedo):
+yo usé noise cancelling con el cable y tengo los QC 35 I
+09:26:43 - Emanuel Friedrich (@aemanuelfriedrich):
+gracias <@U75JU1TFS><@U06H27CM8>
+09:26:50 - Emanuel Friedrich (@aemanuelfriedrich):
+<@U9KMYNJMV> te consulto, el noise cancelling se puede activar idenpendientemente de que escuches musica o no? xq no suelo escuchar musica al trabajar e igual necesito el silencio
+09:27:26 - Martin Bavio (@mbavio):
+Como?
+09:28:06 - Santiago Ruffino (@santi_0898):
+No tiene noise cancelling activo. Es pasivo
+09:28:10 - Santiago Ruffino (@santi_0898):
+Osea, es "fisico"
+09:28:19 - Emanuel Friedrich (@aemanuelfriedrich):
+ahi voy entendiendo
+09:28:20 - a0viedo (@a0viedo):
+los sony MDR-1000X dicen que tiene mejor duración de batería y configuración más granular con respecto a la cancelación de ruido activa
+09:28:27 - Martin Bavio (@mbavio):
+se que en los II se puede, pero en los I nunca encontre como hacerlo
+09:28:57 - Santiago Ruffino (@santi_0898):
+Los auriculares tienen una forma que la goma y todo el plastico del auricular, "sellan" la parte de adentro de la oreja
+09:29:10 - a0viedo (@a0viedo):
+los QC35 (I o II) ya tienen un par de años en el mercado y se esperan los QC45 este año con viento a favor
+09:29:29 - Pedro (@pedro461):
+la cagada es que no tienen microfono esos Santiago
+09:30:01 - a0viedo (@a0viedo):
+enchufas el cable y lo prendes? si enchufas el cable y está apagado es como un auricular común y corriente
+09:30:38 - Martin Bavio (@mbavio):
+claro, pero el momento que enchufo el cable directamente no lo puedo prender
+09:30:41 - Santiago Ruffino (@santi_0898):
+De fabrica, no
+09:30:52 - a0viedo (@a0viedo):
+interesante
+09:30:54 - Martin Bavio (@mbavio):
+estamos hablando del cable de audio o del USB?
+09:30:55 - Santiago Ruffino (@santi_0898):
+Pero podrias comprar esto, y tenes con mic
+09:30:56 - Santiago Ruffino (@santi_0898):
+<https://articulo.mercadolibre.com.ar/MLA-779250996-auriculares-35mm-con-mic-para-shure-se215se315se425se535-_JM?matt_tool=33095920&amp;matt_word=NB&amp;gclid=CjwKCAjw-ZvlBRBbEiwANw9UWvJX3bGJVGWpNU2dVP5eaXu0f85cy7BnORh8gq6QaDA_tgxViboudRoCpR4QAvD_BwE&amp;quantity=1>
+09:31:02 - a0viedo (@a0viedo):
+cable de audio
+09:31:31 - Martin Bavio (@mbavio):
+Si claro, con eso probe. Que mierda les pasara…
+09:31:43 - a0viedo (@a0viedo):
+actualizaste el software?
+09:31:48 - a0viedo (@a0viedo):
+debería andar
+09:32:15 - Santiago Ruffino (@santi_0898):
+O tambien tenes esto, que es el el mismo auricular, con bluetooh y el cable
+09:32:16 - Santiago Ruffino (@santi_0898):
+<https://articulo.mercadolibre.com.ar/MLA-777375474-shure-se215-k-bt1-inhalambrico-bluetooth-sound-is-a-pedido-_JM?matt_tool=33095920&amp;matt_word=ALL&amp;gclid=CjwKCAjw-ZvlBRBbEiwANw9UWngcUTeO0wmzS4DfvpcGkhlrl9ND-YKzp890kIsWASrmBX3yeXwgbRoCAkIQAvD_BwE&amp;quantity=1>
+10:29:32 - Brian Hume (@brianh20):
+yo iba a comprar los Bose QC35 II y el dia que fui no tenia la tarjeta
+y el dia siguiente no tenian mas el descuento (subio de 300 a 350 usd)
+lo valen
+
+los de sony, tambien estan buenos y ademas tienen unos gestos copados.. (como que si apoyas la mano anula el noice cancelling y en lugar de pasar la señal inversa te manda el sonido de afuera por el mic)
+
+yo termine comprando unos JBL y no me arrepiento, suenan sarpado, tienen re buen alcance, vienen con un cable externo para conectarlo a otras cosas (como el control de la play y me toma el mic) y la bateria dura tanto que no se cuadno los cargo (o sea no es que'los cargo todos loslunes')
+el modelo es este: <https://www.jbl.com/bluetooth-headphones/JBL+E65BTNC.html>
+10:30:01 - Brian Hume (@brianh20):
+en la paginad e jbl en ese link estan sarpados en baratos aparte a mi no me salieron eso - realmente no le encontre contras
+10:30:15 - Micael Robles (@micaelrobles):
+Los shure se-215 los use un tiempo largo, me parecieron buenos pero quizas un poco incómodos. la aislación es buena pero pasiva. despues me compre unos sony wh-1000xm2 que sigo usando y me parecen los mejores auris que tuve en mi vida
+10:31:32 - Martín Aimar (@maimar):
+esos sony los vi cuando buscaba pero estaban más caros que los bose todavía
+10:31:43 - Leandro Echevarria (@echevarrialeandro):
+30k fua
+10:31:51 - Micael Robles (@micaelrobles):
+obviamente no los compren acá jajajaja
+10:32:34 - Brian Hume (@brianh20):
+30k para escuchar despacito :laughing:
+10:32:37 - Martín Aimar (@maimar):
+de los bose la única “queja” es que si los uso para hablar en un lugar que es un kilombo se mete mucho ruido por el mic
+10:35:04 - Santiago Ruffino (@santi_0898):
+Si gastan 30K en unos auriculares, quiero creer que por lo menos pagan Spotify premium. Y no usan la APK trucha
+10:35:55 - Martín Aimar (@maimar):
+todo flac
+10:36:00 - Micael Robles (@micaelrobles):
+claro. plan familiar :partyparrot:
+10:36:07 - Ezequiel Leites (@leites25):
+Podes colgarte del plan familiar de un amigo por 15p
+10:36:55 - Micael Robles (@micaelrobles):
+mas alla de la calidad de sonido, si viajas todos los dias en bondi/tren y tenes auris con cancelacion de ruido mejora mucho tu salud mental
+10:36:56 - ari (@adiaz):
+que apk trucha?
+10:36:57 - ari (@adiaz):
+jajajaja
+21:40:29 - Gonza Espeche (@espeche.g):
+No los conozco pero deben sonar lindo
+08:44:51 - Emanuel Friedrich (@aemanuelfriedrich):
+che volviendo a hablar en serio
+08:44:57 - Emanuel Friedrich (@aemanuelfriedrich):
+comprarian usado? <https://articulo.mercadolibre.com.ar/MLA-774325889-auriculares-bose-quietcomfort-3-noise-cancelling-activo-_JM?quantity=1&amp;variation=34012239735>
+08:46:51 - Leandro Echevarria (@echevarrialeandro):
+Dice que los compró en 2009 el vendedor
+09:03:10 - Emanuel Friedrich (@aemanuelfriedrich):
+ahi vi, gracias por el dato
+09:03:53 - Emanuel Friedrich (@aemanuelfriedrich):
+capa me vaya a un taotronics q dicen q no esta tan mal
+09:08:05 - Santiago Ruffino (@santi_0898):
+Si o si buscas auriculares tipo "bocha"? Yo tengo unos shure intraurales, y son de lo mejor. No escuchas nada para afuera
+09:11:10 - Emanuel Friedrich (@aemanuelfriedrich):
+<@U9KMYNJMV> y en mi ignorancia pienso q hacen logran mas silencio, cuales tenes?
+09:12:49 - Santiago Ruffino (@santi_0898):
+Shure SE215
+09:13:37 - Santiago Ruffino (@santi_0898):
+Nunca use auriculares bocha de buenas marcas. Pero los shure los use en colectivos llenos de gente (pendejos principlamente) y no escuchas nada
+09:13:56 - Santiago Ruffino (@santi_0898):
+Pero te tienen que ser comodos tambien. Conozco gente que los intraurales les resultan molestos
+09:14:08 - Santiago Ruffino (@santi_0898):
+Y obviamente, la calidad es tremenda
+09:14:23 - Santiago Ruffino (@santi_0898):
+Son auriculares de monitoreo, para sonido profesional
+09:17:10 - Emanuel Friedrich (@aemanuelfriedrich):
+Dataso, gracias Santiago. No se si seran comodos pero valoro la opinion de buena mano y son menos costos q los bose,sony
+09:19:37 - Martin Bavio (@mbavio):
+<@U7YLPN5GV> dato importante de los Bose QC 35: la bateria es irremplazable y cambiarla cuesta casi mas que el producto en si. Por ende yo no compraria usado porque vas a estar mas cerca de la muerte de la bateria.
+09:20:36 - Martin Bavio (@mbavio):
+Y en modo _wired_ no se puede activar el noise cancelling, no al menos en los QC 35 I
+09:23:03 - a0viedo (@a0viedo):
+yo usé noise cancelling con el cable y tengo los QC 35 I
+09:26:43 - Emanuel Friedrich (@aemanuelfriedrich):
+gracias <@U75JU1TFS><@U06H27CM8>
+09:26:50 - Emanuel Friedrich (@aemanuelfriedrich):
+<@U9KMYNJMV> te consulto, el noise cancelling se puede activar idenpendientemente de que escuches musica o no? xq no suelo escuchar musica al trabajar e igual necesito el silencio
+09:27:26 - Martin Bavio (@mbavio):
+Como?
+09:28:06 - Santiago Ruffino (@santi_0898):
+No tiene noise cancelling activo. Es pasivo
+09:28:10 - Santiago Ruffino (@santi_0898):
+Osea, es "fisico"
+09:28:19 - Emanuel Friedrich (@aemanuelfriedrich):
+ahi voy entendiendo
+09:28:20 - a0viedo (@a0viedo):
+los sony MDR-1000X dicen que tiene mejor duración de batería y configuración más granular con respecto a la cancelación de ruido activa
+09:28:27 - Martin Bavio (@mbavio):
+se que en los II se puede, pero en los I nunca encontre como hacerlo
+09:28:57 - Santiago Ruffino (@santi_0898):
+Los auriculares tienen una forma que la goma y todo el plastico del auricular, "sellan" la parte de adentro de la oreja
+09:29:10 - a0viedo (@a0viedo):
+los QC35 (I o II) ya tienen un par de años en el mercado y se esperan los QC45 este año con viento a favor
+09:29:29 - Pedro (@pedro461):
+la cagada es que no tienen microfono esos Santiago
+09:30:01 - a0viedo (@a0viedo):
+enchufas el cable y lo prendes? si enchufas el cable y está apagado es como un auricular común y corriente
+09:30:38 - Martin Bavio (@mbavio):
+claro, pero el momento que enchufo el cable directamente no lo puedo prender
+09:30:41 - Santiago Ruffino (@santi_0898):
+De fabrica, no
+09:30:52 - a0viedo (@a0viedo):
+interesante
+09:30:54 - Martin Bavio (@mbavio):
+estamos hablando del cable de audio o del USB?
+09:30:55 - Santiago Ruffino (@santi_0898):
+Pero podrias comprar esto, y tenes con mic
+09:30:56 - Santiago Ruffino (@santi_0898):
+<https://articulo.mercadolibre.com.ar/MLA-779250996-auriculares-35mm-con-mic-para-shure-se215se315se425se535-_JM?matt_tool=33095920&amp;matt_word=NB&amp;gclid=CjwKCAjw-ZvlBRBbEiwANw9UWvJX3bGJVGWpNU2dVP5eaXu0f85cy7BnORh8gq6QaDA_tgxViboudRoCpR4QAvD_BwE&amp;quantity=1>
+09:31:02 - a0viedo (@a0viedo):
+cable de audio
+09:31:31 - Martin Bavio (@mbavio):
+Si claro, con eso probe. Que mierda les pasara…
+09:31:43 - a0viedo (@a0viedo):
+actualizaste el software?
+09:31:48 - a0viedo (@a0viedo):
+debería andar
+09:32:15 - Santiago Ruffino (@santi_0898):
+O tambien tenes esto, que es el el mismo auricular, con bluetooh y el cable
+09:32:16 - Santiago Ruffino (@santi_0898):
+<https://articulo.mercadolibre.com.ar/MLA-777375474-shure-se215-k-bt1-inhalambrico-bluetooth-sound-is-a-pedido-_JM?matt_tool=33095920&amp;matt_word=ALL&amp;gclid=CjwKCAjw-ZvlBRBbEiwANw9UWngcUTeO0wmzS4DfvpcGkhlrl9ND-YKzp890kIsWASrmBX3yeXwgbRoCAkIQAvD_BwE&amp;quantity=1>
+10:29:32 - Brian Hume (@brianh20):
+yo iba a comprar los Bose QC35 II y el dia que fui no tenia la tarjeta
+y el dia siguiente no tenian mas el descuento (subio de 300 a 350 usd)
+lo valen
+
+los de sony, tambien estan buenos y ademas tienen unos gestos copados.. (como que si apoyas la mano anula el noice cancelling y en lugar de pasar la señal inversa te manda el sonido de afuera por el mic)
+
+yo termine comprando unos JBL y no me arrepiento, suenan sarpado, tienen re buen alcance, vienen con un cable externo para conectarlo a otras cosas (como el control de la play y me toma el mic) y la bateria dura tanto que no se cuadno los cargo (o sea no es que'los cargo todos loslunes')
+el modelo es este: <https://www.jbl.com/bluetooth-headphones/JBL+E65BTNC.html>
+10:30:01 - Brian Hume (@brianh20):
+en la paginad e jbl en ese link estan sarpados en baratos aparte a mi no me salieron eso - realmente no le encontre contras
+10:30:15 - Micael Robles (@micaelrobles):
+Los shure se-215 los use un tiempo largo, me parecieron buenos pero quizas un poco incómodos. la aislación es buena pero pasiva. despues me compre unos sony wh-1000xm2 que sigo usando y me parecen los mejores auris que tuve en mi vida
+10:31:32 - Martín Aimar (@maimar):
+esos sony los vi cuando buscaba pero estaban más caros que los bose todavía
+10:31:43 - Leandro Echevarria (@echevarrialeandro):
+30k fua
+10:31:51 - Micael Robles (@micaelrobles):
+obviamente no los compren acá jajajaja
+10:32:34 - Brian Hume (@brianh20):
+30k para escuchar despacito :laughing:
+10:32:37 - Martín Aimar (@maimar):
+de los bose la única “queja” es que si los uso para hablar en un lugar que es un kilombo se mete mucho ruido por el mic
+10:35:04 - Santiago Ruffino (@santi_0898):
+Si gastan 30K en unos auriculares, quiero creer que por lo menos pagan Spotify premium. Y no usan la APK trucha
+10:35:55 - Martín Aimar (@maimar):
+todo flac
+10:36:00 - Micael Robles (@micaelrobles):
+claro. plan familiar :partyparrot:
+10:36:07 - Ezequiel Leites (@leites25):
+Podes colgarte del plan familiar de un amigo por 15p
+10:36:55 - Micael Robles (@micaelrobles):
+mas alla de la calidad de sonido, si viajas todos los dias en bondi/tren y tenes auris con cancelacion de ruido mejora mucho tu salud mental
+10:36:56 - ari (@adiaz):
+que apk trucha?
+10:36:57 - ari (@adiaz):
+jajajaja
+10:37:05 - ari (@adiaz):
+:face_with_rolling_eyes:
+10:37:57 - Brian Hume (@brianh20):
+yo los mios no los saco de casa
+10:38:02 - Brian Hume (@brianh20):
+les llega a pasar algo y es un bajon
+10:38:17 - Luis Alvarez (@luistensai):
+qué tal el mic interno del jbl para calls? quisiera uno para eso mismo y la verdad no me animo, estoy muy acostumbrado a los mics externos...
+10:38:27 - Martín Aimar (@maimar):
+yo el otro día hice una daily sobre 4g caminando por la calle
+10:38:30 - Brian Hume (@brianh20):
+aparte me da cosa pensar "el tipo que tengo al lado sabra que tengo 15k apoyados en la cabeza"
+10:38:57 - Martín Aimar (@maimar):
+me dijeron que se dieron cuenta.
+10:39:00 - Brian Hume (@brianh20):
+va muy para adelante
+10:39:10 - Brian Hume (@brianh20):
+el otro dia estaban haciedno un arreglo en la calle y lo escuchaban mis compañeros
+10:39:32 - Brian Hume (@brianh20):
+jajajajaa pero el noice cancelling es para adentro! jajaja no en elmic!
+10:39:36 - Luis Alvarez (@luistensai):
+precisamente eso es lo que no quiero :joy:
+10:40:05 - Gonza Espeche (@espeche.g):
+tengo el QC 35 I y me funciona bien el noise cancelling con cable de audio, hace +2 años que lo tengo
+10:40:10 - Luis Alvarez (@luistensai):
+el mic del que tengo si hay ruido externo por lo gral no se escucha, y me escuchan bien cuando hablo...
+10:40:20 - Santiago Ruffino (@santi_0898):
+En el iPhone, es noise cancelling para ambas cosas
+10:40:24 - Luis Alvarez (@luistensai):
+por ahí tendría que ver de ponerle un mod mic a algún buen auri
+10:40:31 - Luis Alvarez (@luistensai):
+ese pinta bueno y tiene buen precio
+10:40:38 - Santiago Ruffino (@santi_0898):
+Trae un micro al lado de la camara, para tomar el sonido de afuera y cancela todo. Para que vos no escuches, y los otros tampoco
+11:13:34 - Brian Hume (@brianh20):
+hay una diferencia entre ruido y claridad
+11:13:44 - Brian Hume (@brianh20):
+no escuchaban ruido, escuchaban claramente el sonido
+11:13:49 - Brian Hume (@brianh20):
+entiendo que igual NO es lo que queres
+11:14:10 - Brian Hume (@brianh20):
+seguramente se puede tunear la sensibilidad. mi novia tambien trabaja en casa entonces yo lo tengo fuerte porque asi no estoy a los gritos
+11:15:58 - Luis Alvarez (@luistensai):
+claro claro, yo busco algo en lo que se me escuche a mi solo, porque por ahí me voy a trabajar a algún lugar ruidoso y es molesto para una call (eg: café)
+11:16:28 - Luis Alvarez (@luistensai):
+está muy bueno igual ese auri, lo voy a tener en cuenta, los otros están medio caros jaja! gracias por el dato!
+11:25:40 - Brian Hume (@brianh20):
+:+1: para servirle
+12:03:50 - Pedro (@pedro461):
+yo uso los de apple y se van a la bosta, que tanto quilombo.. a menos que seas musico o alto gamer
+12:05:04 - Santiago Ruffino (@santi_0898):
+Los Airpods?
+12:05:16 - Mati Dastugue (@matiasdastugue):
+Aguante los airpods papaaa
+12:05:35 - Pedro (@pedro461):
+seee
+12:05:49 - Aldo Sorbara (@aldo1891):
+dijo nadie nunca :open_mouth:
+12:05:54 - Pedro (@pedro461):
+camino por todo el coworking hablando con los airpods y andan de lujo
+12:06:08 - Pedro (@pedro461):
+buen sonido, buena bateria, buen micrófono
+12:06:15 - Pedro (@pedro461):
+para el uso que les doy no necesito más
+12:07:24 - Mati Dastugue (@matiasdastugue):
+Y son comodisimos
+12:07:55 - Pedro (@pedro461):
+tambien
+12:09:07 - Jorge Cano (@jorgeucano):
+use por un tiempo los  sennheiser hd 4.40 bt
+12:09:13 - Jorge Cano (@jorgeucano):
+y seran super comodos y buenos
+12:09:27 - Jorge Cano (@jorgeucano):
+ahora estoy con los bose qc35ii y son increiblemente mejores
+12:09:37 - Jorge Cano (@jorgeucano):
+los uso todo el dia y no me molestan en lo mas minimo
+12:09:46 - Jorge Cano (@jorgeucano):
+lo que me gusta mucho es que poder darle distintos niveles de noise canceling
+12:09:49 - Jorge Cano (@jorgeucano):
+y eso esta genial
+12:10:47 - Jorge Cano (@jorgeucano):
+otra cosa que me gusta de ambos modelos es que podes usar por bt o por cable
+12:19:47 - Martin Bavio (@mbavio):
+me vieron la cara entonces
+12:19:55 - Martin Bavio (@mbavio):
+voy a intentar actualizar el firmware a ver que pasa
+12:26:17 - a0viedo (@a0viedo):
+comparar auriculares sin cancelación de ruido activa con otros que lo tienen es comparar peras con manzanas
+12:26:29 - a0viedo (@a0viedo):
+estás hablando de otro presupuesto también
+12:30:05 - Pedro (@pedro461):
+me gustan pero los veo como muy aparatosos, en días de calor te transpiras todo.. soy minimalista :stuck_out_tongue:
+12:30:53 - Jorge Cano (@jorgeucano):
+El primero no tiene cancelación pero son súper cerrados y bloquean mucho ruido 
+12:31:52 - Santiago Ruffino (@santi_0898):
+Odio los auriculares bochas.
+12:32:37 - Martín Aimar (@maimar):
+vos estás hablando de mortadela santi
+12:42:10 - Martín Valdés de León (@mvaldesdeleon):
+que seria un "auricular bocha"?
+12:43:14 - Gonzalo González Mora (@gonzalogm):
+Uno cerrado imagino
+12:43:23 - Luis Alvarez (@luistensai):
+qué auris suelen usar para calls?
+12:43:40 - Aldo Sorbara (@aldo1891):
+hangouts
+12:43:50 - Luis Alvarez (@luistensai):
+perdón, me refería a auriculares
+12:44:03 - Gonzalo González Mora (@gonzalogm):
+Cualquier auri
+12:45:31 - Rodrigo Ali (@rodrigojali):
+Supongo que se refiere a los over-ear
+12:45:36 - Luis Alvarez (@luistensai):
+me gustaría encontrar algo que me sirva tanto para música como para calls, pero los que vienen bluetooth con mic interno me dan un poco de cosa, suelen tomar todo el ruido del ambiente
+12:45:56 - Rodrigo Ali (@rodrigojali):
+`Circumaurales`
+12:47:02 - Santiago Ruffino (@santi_0898):
+:point_up_2::skin-tone-2:  eso. No sabia el nombre
+12:47:26 - Santiago Ruffino (@santi_0898):
+Siempre trato de hacer las calls desde el celular, y uso mi earpods. Los auriculares que tenemos en la oficina son peores que mis codigos
+12:48:34 - Luis Alvarez (@luistensai):
+no se escucha el ruido de la ofi con el airpod?
+12:49:10 - Rodrigo Ali (@rodrigojali):
+Push to talk :stuck_out_tongue:
+12:50:43 - Aldo Gabriel Rojas (@aldogrojas5):
+No me gusta ser el q la baja... pero esto es para los q usan airpods... <https://www.google.com/amp/s/www.techtimes.com/amp/articles/239565/20190313/more-than-250-scientists-warn-wireless-devices-such-as-apples-airpods-pose-cancer-risk.htm>
+12:51:00 - Aldo Gabriel Rojas (@aldogrojas5):
+Aguanten los que vienen con cable :agite2:
+12:52:04 - Nicolás Micó (@nicolasmp920):
+Buenas gente les hago una consulta, alguno trabajó alguna vez con las APIs de google spreadsheets para obtener un JSON con las respuestas de un Google Forms?
+12:52:05 - Rodrigo Ali (@rodrigojali):
+`poses cancer risk`, siempre me resultó tan vago eso en notas de diarios y tal.
+12:53:31 - Gonzalo González Mora (@gonzalogm):
+El de los eventos de Meetup me parece, nos é si es open source
+12:56:45 - Mateo Silguero (@mfsilguero):
+Si, el bot de los calendarios usa la libreria gsheets, para consultar un spreadsheets con los resultados de un google form
+12:58:38 - Mateo Silguero (@mfsilguero):
+podes ver el repo <https://github.com/meetupjs-ar/calendar-bot>
+12:58:55 - Gonzalo González Mora (@gonzalogm):
+<https://github.com/meetupjs-ar/calendar-bot>
+12:58:58 - Gonzalo González Mora (@gonzalogm):
+Ah justo jaja
+13:03:03 - Santiago Ruffino (@santi_0898):
+Yo lo hago con Python :smile:
+13:07:20 - Nicolás Micó (@nicolasmp920):
+Gracias!
+13:08:28 - Nicolás Micó (@nicolasmp920):
+No consulta el calendario únicamente?
+13:09:40 - Gonzalo González Mora (@gonzalogm):
+<https://github.com/meetupjs-ar/google-spreadsheet-api> ese? fijate el repo de meetup sino
+13:16:51 - Nicolás Micó (@nicolasmp920):
+Gracias!
+13:29:34 - Brian Hume (@brianh20):
+Para los que se acueden, el otro dia pregunte si alguien trabajaba o trabajo en BairesDev
+Para que sepan, pase por todo el proceso de entrevistas y finalmente hoy me mandaron la oferta economica por mail: no cumple NINGUNA de las condiciones pactadas en la entrevista inicial empezando por que me ofrecen el 25% (SI LEYERON BIEN) del sueldo que pedi
+13:29:39 - Brian Hume (@brianh20):
+No se tomen la molestia
+13:30:47 - Martín Aimar (@maimar):
+yo no había hablado nada del sueldo antes de que me hicieran la propuesta económica, me ofrecieron 65000 brutos, quedó ahí
+13:31:06 - Marcos Casagrande (@marcoscvp90):
+_Plot twist_: Pidió 1 palo verde.
+13:31:08 - Leandro Echevarria (@echevarrialeandro):
+Que desperdicio de tiempo, un garrón
+13:31:14 - Martín Aimar (@maimar):
+enero de este año
+13:32:49 - Martín Valdés de León (@mvaldesdeleon):
+Que falta de respeto.
+13:33:10 - Brian Hume (@brianh20):
+Worst case, ponele que me ofrecian MI SUELDO
+pero me ofrecieron el 50% de mi sueldo ( o menos )
+13:33:10 - Martín Valdés de León (@mvaldesdeleon):
+Ademas, la unica opcion es que _realmente_ se pensaban que ibas a aceptar.
+13:33:18 - Pedro (@pedro461):
+yo les digo “esto es lo que cobro, si lo podes pagar hagamos la entrevista”…
+13:33:22 - Martín Valdés de León (@mvaldesdeleon):
+Porque tambien son ellos los que pierden tiempo entrevistandote.
+13:33:23 - Brian Hume (@brianh20):
+YO HICE ESO!!!!
+13:33:30 - Brian Hume (@brianh20):
+Los esquive 20 veces
+13:33:40 - Brian Hume (@brianh20):
+y para acceder a la entrevista puse las condiciones antes
+13:33:45 - Gonzalo González Mora (@gonzalogm):
+Buen dato, gracias por avisar
+13:33:47 - Brian Hume (@brianh20):
+para que no me llamen
+13:34:07 - Gonzalo González Mora (@gonzalogm):
+Les dijiste algo dsp de la oferta?
+13:34:11 - Martín Aimar (@maimar):
+uh si me llamaron mil veces, por teléfono también
+13:34:13 - Brian Hume (@brianh20):
+me llego recien
+13:34:21 - Leandro Echevarria (@echevarrialeandro):
+Mandales un papiro
+13:34:26 - Brian Hume (@brianh20):
+la verdad, me la hcieron facil porque no me queria cambiar
+13:34:34 - Brian Hume (@brianh20):
+una cosa menos en el marote
+13:34:37 - Brian Hume (@brianh20):
+pero que verguenza igual
+13:34:41 - Gonzalo González Mora (@gonzalogm):
+Deciles que son un chiste y que les vas a decir a tus colegas que te hicieron perder el tiempo, así dejan de pelotudear
+13:35:04 - Gonzalo González Mora (@gonzalogm):
+No entiendo qué ganan haciendo eso, posta, malísimo
+13:35:12 - Gonzalo González Mora (@gonzalogm):
+Pierden tiempo las dos partes y quedan para el orto
+13:36:06 - Luis Alvarez (@luistensai):
+no paro de leer malas opiniones de BairesDev
+13:36:23 - Luis Alvarez (@luistensai):
+debería estar dentro de las primeras en el hall of shame
+13:37:07 - Santiago Ruffino (@santi_0898):
+Deci que tenes influencia en MeetupJS. Si no mejoran los sueldos, se quedan sin devs de este Slack
+13:37:17 - Santiago Ruffino (@santi_0898):
+Y ahi es cuando yo tengo una minima posibilidad de entrar
+13:37:45 - Martín Valdés de León (@mvaldesdeleon):
+:joy:
+13:39:18 - Martín Valdés de León (@mvaldesdeleon):
+y aun asi bairesdev esta en el top10 de openqube
+13:39:33 - Juan Scolari (@juanscolari):
+estaba leyendo justo
+13:39:36 - Juan Scolari (@juanscolari):
+pero mira por ej
+13:39:37 - Brian Hume (@brianh20):
+Si, les pienso decir la verdad
+13:39:41 - Martín Valdés de León (@mvaldesdeleon):
+mejor que meli
+13:39:42 - Martín Valdés de León (@mvaldesdeleon):
+xD
+13:40:11 - Juan Scolari (@juanscolari):
+mmmm
+13:40:15 - Brian Hume (@brianh20):
+jajajaja si esas dos las vi
+13:40:18 - Brian Hume (@brianh20):
+me mate de risa
+13:40:53 - Brian Hume (@brianh20):
+a veces quisiera interactuar con mas gente
+13:41:10 - Santiago Ruffino (@santi_0898):
+JAJAJAJAJAJA
+13:41:13 - Juan Scolari (@juanscolari):
+sospechosamente arrancan muy mal y despues mejoran notablemente
+13:42:31 - Brian Hume (@brianh20):
+Bueno nada, para que sepan y que se sepa. NO pierdan tiempo con esta gente a menos de que NO tengan trabajo y bueno, prefieran eso a salir a robar.
+13:42:34 - Juan Scolari (@juanscolari):
+de las 19 que tienen para mi 9 son fake
+13:42:53 - Santiago Ruffino (@santi_0898):
+Si estuviera donde trabajo, pondria "Me gustaria socializar con menos gente. O no socializar"
+13:44:52 - Hernan Rajchert (@sherman):
+Pone en opencube la exp de recruiting
+13:47:24 - Martín Valdés de León (@mvaldesdeleon):
+el tema de las encuestas anonimas es que aun si no fuesen  inventadas por la empresa, tenes 0 contexto de la persona
+13:47:38 - Martín Valdés de León (@mvaldesdeleon):
+quiza para alguien que es su primer laburo las condiciones no son tan malas
+13:49:34 - Juan Scolari (@juanscolari):
+seguramente, pero que le hagan perder el tiempo como le hicieron a los chicos, ofreciendoles mucho menos despues de hacer todo el proceso es otra cosa
+13:50:02 - Martín Valdés de León (@mvaldesdeleon):
+Si, eso es totalmente absurdo.
+13:50:18 - Juan Scolari (@juanscolari):
+no se entiende, porque a ellos tambien les lleva trabajo
+13:50:18 - Martín Valdés de León (@mvaldesdeleon):
+Porque ellos estan gastando tiempo y guita en entrevistarte.
+13:50:25 - Martín Valdés de León (@mvaldesdeleon):
+Si no firmas toda esa guita va a la basura.
+13:50:35 - Martín Valdés de León (@mvaldesdeleon):
+Pasarte una oferta del 25% de lo que pretendes no tiene sentido.
+13:50:42 - Juan Scolari (@juanscolari):
+agree
+13:51:34 - Luis Alvarez (@luistensai):
+me lo hicieron una vez en globant
+13:56:06 - Santiago Ruffino (@santi_0898):
+Yo pondria buenas criticas en cualquier empresa. Todo me parece bueno ?)
+13:59:50 - Brian Hume (@brianh20):
+donde esta esa seccion?
+14:17:59 - Mati Dastugue (@matiasdastugue):
+Hoy en dia que no causa cancer? Respiras y ya tenes riesgo de cancer.
+14:18:44 - Martín Aimar (@maimar):
+pero hay cosas que dan más cáncer que otras
+14:27:03 - Pedro (@pedro461):
+literal, esta mañana me llamó un recruiter y me dijo la oferta, le dije que por ese sueldo no estaba interesado, y me dijo “queres igual pasar por el proceso para saber mas de qeu se trata?” le dije “la verdad que no, sería perdida de tiempo para ambos, si estas dispuestos a pagar X entonces si charlemos”
+14:27:41 - Rodrigo Ali (@rodrigojali):
+JAJAJAJAJA
+14:28:04 - ari (@adiaz):
+cortita
+14:28:07 - Rodrigo Ali (@rodrigojali):
+"Señor, ¿quiere comprar un modem nuevo?"
+"No, la verdad que no me interesa"
+"¿Pero no querés que te mandemos uno así lo ves en tus manos?"
+14:31:41 - Hernan Rajchert (@sherman):
+nono, digo como si trabajases alli
+14:31:51 - Hernan Rajchert (@sherman):
+pero contas la historia de recruitment
+14:36:55 - Brian Hume (@brianh20):
+la mande
+14:36:59 - Brian Hume (@brianh20):
+pero no creo que pase la revision
+14:47:13 - Luciana Portias (@lportias):
+Yo tengo una amiga en RRHH y a veces a ella le pagan por entrevista hecha.. y no por persona que entra a la empresa
+14:48:30 - ari (@adiaz):
+pero calculo que los candidatos los aprueba la empresa
+14:48:43 - ari (@adiaz):
+hace como un primer filtro
+14:50:05 - Luciana Portias (@lportias):
+:woman-shrugging:
+14:52:34 - Brian Hume (@brianh20):
+Lo bueno es que con esta información mejoraste la imagen que tenemos de los recruiters en general.
+14:52:42 - Gonza Gluzman (@gonza):
+Le pagan _a veces_?
+14:52:51 - Gonza Gluzman (@gonza):
+:thinking_face:
+14:53:20 - Luciana Portias (@lportias):
+jajaja...ella en particular es una genia, pero me he encontrado con algunes que es para matarles...
+14:53:57 - Martín Aimar (@maimar):
+a veces por entrevista hecha y a veces por entrevista no hecha
+14:54:18 - Luciana Portias (@lportias):
+Algunas empresas no les importa tanto que entre la gente, sino que haya entrevistas para esos puestos...
+14:55:04 - Sergio Daniel Xalambrí (@sergiodxa):
+WTF?
+14:55:11 - Sergio Daniel Xalambrí (@sergiodxa):
+osea entrevistan por entrevistar?
+14:55:51 - Ezequiel Leites (@leites25):
+Me parece rarisimo eso
+14:55:51 - Hernan Rajchert (@sherman):
+cumplir estadisticas
+14:56:11 - Brian Hume (@brianh20):
+y.. yo te aseguro que si tienen que rodar cabezas en rrhh viene el manager y los pone a entrevitar hasta el que pase por la calle para decir que estan a tope
+14:56:37 - Ezequiel Leites (@leites25):
+Aunque por como te hacen seguimiento, entiendo que algunos rrhh deben cobrar un fee por llegar a X etapas, ya que aunque no pases una entrevista tecnica, ellos el laburo lo hicieron
+14:56:59 - Brian Hume (@brianh20):
+que paja tomar entrvistas todo el dia no?
+14:57:14 - Ezequiel Leites (@leites25):
+Nosotros en donde laburaba habiamos contratado BairesDev como agencia para contratar devs, pero nos mandaban perfiles que a veces ni jrs eran
+14:57:35 - Sergio Daniel Xalambrí (@sergiodxa):
+BairesDev no era como un globant?
+14:57:39 - Ezequiel Leites (@leites25):
+Ya es una paja estar siendo entrevistado varias veces en el dia, asi que imaginate
+14:57:39 - Luciana Portias (@lportias):
+hay dos entrevistas telefonicas que tuve que creo que son para el hall of fame... una me pedia que fuera ingeniera en sistemas de la UTN Y licenciada en diseño grafico de la UBA.... y ser menor de 30 años...
+y a segunda una mina a la que le mande mi mail con la remuneracion pretendia y cuando me llama para la entrevista yo estaba en el subte, hice la entrevista ahi y al final me pide la remuneracion pretendida y le dijo que en el subte no se la puedo decir y que, ademas, ESTABA EN EL MAIL (mail en el que les pase mi telefono, por que sino no tenian como contactarse conmigo)... a lo que la piba dice "no tengo ese mail" :face_with_rolling_eyes:
+14:57:42 - Sergio Daniel Xalambrí (@sergiodxa):
+siempre ignoré sus emails
+14:58:11 - Ezequiel Leites (@leites25):
+Entiendo que tienen devs para desarrollos propios, pero tambien funcionan como recruiters o como agencia de devs
+14:58:23 - Ezequiel Leites (@leites25):
+Tipo, los 2 o 3 que entraron les pagaba BairesDev
+14:58:31 - Ezequiel Leites (@leites25):
+Y les daban maquina, libreria, etc
+14:58:48 - Luciana Portias (@lportias):
+yo tuve una epoca de 2 o 3 entrevistas por semana.. llego un momento que no sabia de que empresa estabamos hablando...
+14:59:27 - Juan Scolari (@juanscolari):
+Como outsourcing?
+14:59:40 - Ezequiel Leites (@leites25):
+Si, ya cuando se te juntan muchos es hasta cansador. Yo me pedi un dia en el laburo y me coordine 7 entrevistas, una atras de otra, todas online obviamente. Un par de ingles, termine agotado y a la ultima me di de baja directamente
+15:00:20 - Luciana Portias (@lportias):
+como empresa tercerizada...
+15:00:24 - Ezequiel Leites (@leites25):
+El tema es que todas lleven diferentes procesos, porque capas tenes una de 2 entrevistas y otra que lleva como 3 o 4 y llevan diferente tiempo, no sabes si esperar terminar a la ultima, si agarrar la primera que te cerro bien o que onda
+15:00:39 - ari (@adiaz):
+libreria a que te referis?
+15:00:46 - ari (@adiaz):
+cuadernos? jajaj
+15:00:56 - Mariano Ramonda (@ing.inf.mariano):
+IMO juegan a la ruleta, el costo de entrevistar mucho aunque no acepten no importa cuando enganchan a alguien con sus propuestas economicas
+15:01:09 - Ezequiel Leites (@leites25):
+Si, cuadernos, lapiceras, calculadora, etc
+15:01:10 - Sergio Daniel Xalambrí (@sergiodxa):
+osea si alguien completa el proceso de entrevista con BairesDev entra a otra empresa a entra a BairesDev y labura para otra empresa? :thinking_face:
+15:01:42 - Ezequiel Leites (@leites25):
+Tipo, venian a "usar" la oficina, pero todo lo demas se lo daba BairesDev. Es mas tenian una persona asignada que le traia los recibos de sueldo y todo eso
+15:02:10 - Luciana Portias (@lportias):
+sep... yo tuve una en la que me hicieron 2 entrevistas en ingles, con una prueba tecnica en el medio, me hicieron ir a las oficinas a tener una tercera entrevista y quedo ahi... los queria matar
+15:02:26 - Ezequiel Leites (@leites25):
+No sé, uno de los chicos dijeron que tienen una oficina cerca del Luna Park y laburan ahi, pero no se si para proyectos que toma BairesDev o remoteando para otras empresas
+15:02:52 - Sergio Daniel Xalambrí (@sergiodxa):
+capaz para proyectos de otros paises?
+15:02:53 - Ezequiel Leites (@leites25):
+Por lo menos en ese entonces, el unico pibe que quedo, paso a ser contratado por la empresa porque BairesDev le pagaba nada en relacion a lo poco que ofrecia la empresa en la que estaba
+15:03:28 - Luciana Portias (@lportias):
+Bueno, Accenture e ITR hacen eso... contratan gente para poblar los proyectos de otras empresas...
+15:04:07 - Luciana Portias (@lportias):
+a esas empresas les conviene por que tecnicamente no tienen gente a cargo...
+15:04:13 - Ezequiel Leites (@leites25):
+El problema es que no te den un feedback real. Tipo, no estan obligados a tomarte, uno a veces mismo sabe cuando no va a quedar, yo personalmente sigo por los tests y todo, porque suma. Pero que te digan no quedaste y no te den un feedback no me gusta. Decime, pedis mucho y me quedo tranquilo, o no, la verdad que no nos gusto tal y tal cosa, por mas chocante que pueda ser
+15:12:00 - Luciana Portias (@lportias):
+se, eso seria genial, pero no todas las empresas lo hacen...
+15:14:22 - Rodrigo Ali (@rodrigojali):
+Claro, a Globant medio que también. No sé si es exactamente así pero estoy convencido que en la mayoría de los casos
+15:14:57 - Sergio Daniel Xalambrí (@sergiodxa):
+pero globant tiene oficinas propias
+15:15:05 - Sergio Daniel Xalambrí (@sergiodxa):
+osea laburas para proyectos de otros, pero en Globant
+15:15:08 - Ezequiel Leites (@leites25):
+Por el momento a mi ninguna me dio feedback, a excepcion de algunas que me habian dado el ok y les dije que seguia por otro lado
+15:15:30 - Sergio Daniel Xalambrí (@sergiodxa):
+por lo que entiendo BairesDev te contrata a vos, pero vas a la oficina de otra empresa a laburar para otra empresa
+15:15:43 - Rodrigo Ali (@rodrigojali):
+Ah, lol. "te prestan"
+15:15:47 - Rodrigo Ali (@rodrigojali):
+Qué trucazo.
+15:16:25 - Martín Aimar (@maimar):
+a mi me ofrecían 100% remoto
+15:18:44 - Martín Valdés de León (@mvaldesdeleon):
+Hay que arrancar con el mercado de pases de devs.
+15:19:19 - Rodrigo Ali (@rodrigojali):
+¿Podrías explayarte? quiero saber más.
+15:20:57 - Ezequiel Leites (@leites25):
+Seria espectacular que los recruiter fueran una onda representantes de devs
+15:21:15 - Leandro Echevarria (@echevarrialeandro):
+Ideal world
+15:21:45 - Ezequiel Leites (@leites25):
+Tipo un recruiter ganando no sé, 100 / 150 usd por cada dev por mes y todo el dia buscando propuestas mejores o cada X meses
+15:22:10 - Rodrigo Ali (@rodrigojali):
+UN recruiter ganando el 20% de lo que facture su dev
+15:22:10 - Ezequiel Leites (@leites25):
+Los jugadores de eSports lo deben tener y es basicamente un trabajo
+15:22:14 - Sergio Daniel Xalambrí (@sergiodxa):
+osea vos querés ser Eric Elliot y tener tu propio JS Cheerleader?
+15:22:19 - Martín Valdés de León (@mvaldesdeleon):
+mandas a tu manager a las entrevistas
+15:22:32 - Martín Valdés de León (@mvaldesdeleon):
+"Avisame cuando haya una oferta"
+15:23:14 - Ezequiel Leites (@leites25):
+Activate farm mode
+15:23:15 - Martín Valdés de León (@mvaldesdeleon):
+<https://i.kym-cdn.com/entries/icons/mobile/000/023/397/C-658VsXoAo3ovC.jpg>
+15:23:59 - Gonza Gluzman (@gonza):
+Yo estoy buscando sponsor
+15:24:38 - Sergio Daniel Xalambrí (@sergiodxa):
+que los devs no se auto sponsorean poniendo stickers de su laburo o las techs que usan?
+15:24:45 - Martín Valdés de León (@mvaldesdeleon):
+osea, si "fuese aceptable" mandar a alguien a negociar mi salario x mi, x ej
+15:24:47 - Sergio Daniel Xalambrí (@sergiodxa):
+o swag de eventos?
+15:24:48 - Martín Valdés de León (@mvaldesdeleon):
+yo le doy un %
+15:25:42 - Martín Valdés de León (@mvaldesdeleon):
+pq la verdad, entrar a posta conseguir multiples ofertas decentes en paralelo para empezar a leveragearlas, es una paja tremenda
+15:25:44 - Gonzalo González Mora (@gonzalogm):
+Claro, no para las entrevistas de última pero para negociar el número
+15:25:49 - Martín Valdés de León (@mvaldesdeleon):
+sin lugar a dudas pagaria por el servicio
+15:26:00 - Sergio Daniel Xalambrí (@sergiodxa):
+DevSponsor as a Service
+15:26:03 - Sergio Daniel Xalambrí (@sergiodxa):
+sponsors.dev
+15:26:26 - Sergio Daniel Xalambrí (@sergiodxa):
+está disponible por si alguien quiere hacerse la empresa
+15:26:31 - Sergio Daniel Xalambrí (@sergiodxa):
+y cobrarle 20% de su sueldo a <@U0TFEHWEA>
+15:26:45 - Rodrigo Ali (@rodrigojali):
+Apa.
+15:28:02 - Martin Bavio (@mbavio):
+oh la vieja conversacion del representante de devs :slightly_smiling_face:
+15:28:11 - Martin Bavio (@mbavio):
+alta goldmine
+15:28:15 - Matías Gabriel (@matiasgnu):
+Jajaja
+15:28:32 - Hernan Rajchert (@sherman):
+yo tengo mi propio sticker :sweat_smile:
+15:28:33 - Rodrigo Ali (@rodrigojali):
+Encima si lo pensás dos segundos, no hace falta que sea un HR
+15:28:37 - Rodrigo Ali (@rodrigojali):
+Puede ser cualquiera.
+15:28:53 - Martin Bavio (@mbavio):
+en realidad deberia ser un ex dev asi te _entiende_
+15:28:57 - Rodrigo Ali (@rodrigojali):
+Puedo ser yo, total con 2 chistes tengo en el bolsillo a cualquiera.
+15:29:22 - Gonzalo González Mora (@gonzalogm):
+Claro, un ex dev bien caradura que te venda como el mejor del universo
+15:29:39 - Matías Gabriel (@matiasgnu):
+Che saben si se puede cargar sube en algún lugar de universitaria?
+15:30:31 - Sergio Daniel Xalambrí (@sergiodxa):
+todavía nadie encontró una forma de hacerle un hack a las sube para cargarle crédito sin pagar nada?
+15:30:56 - Leandro Echevarria (@echevarrialeandro):
+Maybe nadie buscó
+15:31:01 - Ezequiel Leites (@leites25):
+Nadie lo debe haber probado
+15:31:06 - Leandro Echevarria (@echevarrialeandro):
+Hagamos hackaton un finde
+15:31:12 - Martín Aimar (@maimar):
+un tipo había hecho un análisis tremendo de eso
+15:31:23 - Ezequiel Leites (@leites25):
+Ahora que tenes al aparatito para acreditar el pago, quizas sea mas facil
+15:31:35 - Leandro Echevarria (@echevarrialeandro):
+Tenes que lograr cargar en el server el pedido de carga de tu tarjeta
+15:31:38 - Martín Aimar (@maimar):
+<https://www.reddit.com/r/argentina/comments/a0rpj7/hacking_tarjeta_sube/>
+15:31:38 - Esteban Yañez (@eyanez):
+en algun momento habia una forma
+15:31:49 - German Gonzalez (@gercho):
+quizas flasheo pero no te pueden trackear por el numero de sube? obvio que podes comprar una trucha en cualqueir lado, pero me imagino algo como que te trackean en que bondi viajas, que hora, que dias y te ponen
+15:32:06 - Sergio Daniel Xalambrí (@sergiodxa):
+recuerdo cuando salió que decían que sí
+15:32:07 - Juan Scolari (@juanscolari):
+al principio podias trackear cualquier tarjeta
+15:32:21 - German Gonzalez (@gercho):
+obviamente es dificil que te enganche pero nunca digas nunca
+15:32:28 - Leandro Echevarria (@echevarrialeandro):
+Ahora para cargarla tenes que tener asociada una cuenta al nro de tarjeta. Pero haces la cuenta con cualquier nombre y blah
+15:32:36 - Leandro Echevarria (@echevarrialeandro):
+(para cargarla con el cel)
+15:33:22 - Matías Gabriel (@matiasgnu):
+Cuando la cargas con el cel no tenes que apoyarla en alguna máquina después?
+15:33:43 - Leandro Echevarria (@echevarrialeandro):
+No no
+15:33:53 - Leandro Echevarria (@echevarrialeandro):
+Despues en casa voy a leer tranca ese reddit :clap::skin-tone-4:
+15:34:12 - Maxi (@tholem98):
+Podes usar el NFC del celular o apoyarla en la terminar sube
+15:34:50 - Maxi (@tholem98):
+Para acreditar tu carga en la tarjeta
+15:37:29 - Ezequiel Leites (@leites25):
+TL;DR: De la app de SUBE saque las claves de la tarjeta, se pueden hacer copias del saldo y restaurarlo, y viajar gratis por un dia porque se te bloquea al otro.
+
+Falta ver algunas cositas para hacer una app que cargue saldo, pero no es trivial. Si se logra hacer, se podria viajar gratis con tarjetas chinas.
+15:38:10 - Sergio Daniel Xalambrí (@sergiodxa):
+según el post si el tipo logra hacer un request fake al server de sube para decirle al server cuanto se cargó tendría que comprarse un aparato por amazon que cuesta 300 dólares para hacer todo eso
+15:38:32 - Sergio Daniel Xalambrí (@sergiodxa):
+osea 300 dólares + tiempo en aduana + cuanto te obliguen a pagar = capaz viajes gratis de por vida en sube
+15:39:10 - Sergio Daniel Xalambrí (@sergiodxa):
+&gt; TL;DR: De la app de SUBE saque las claves de la tarjeta, se pueden hacer copias del saldo y restaurarlo, y viajar gratis por un dia porque se te bloquea al otro.
+&gt; Falta ver algunas cositas para hacer una app que cargue saldo, pero no es trivial. Si se logra hacer, se podria viajar gratis con tarjetas chinas.
+15:39:42 - Luis Alvarez (@luistensai):
+ya existían apps para hacer eso mismo, clonar el saldo
+15:39:58 - Luis Alvarez (@luistensai):
+creo que al tiempo se te bloqueaba la tarjeta
+15:40:05 - Luis Alvarez (@luistensai):
+pero bien de :rat: ajjajaja
+15:40:11 - Sergio Daniel Xalambrí (@sergiodxa):
+al día se supone
+15:40:25 - Sergio Daniel Xalambrí (@sergiodxa):
+porque el server dice el post que una vez al día verifica las transacciones
+15:40:26 - Ezequiel Leites (@leites25):
+Si, aca dice que basicamente solo se podria viajar gratis con una tarjeta china que puedas cambiarle el UID
+15:40:45 - Sergio Daniel Xalambrí (@sergiodxa):
+osea te podés cargar 100k falsos y viajar gratis todas las veces que quieras un día
+15:40:45 - Leandro Echevarria (@echevarrialeandro):
+Trucazo. Seria lindo el experimento
+15:40:51 - Sergio Daniel Xalambrí (@sergiodxa):
+y se bloquea la tarjeta
+15:41:22 - Luis Alvarez (@luistensai):
+este fue tremendo
+15:41:25 - Luis Alvarez (@luistensai):
+<https://www.infobae.com/sociedad/2016/10/20/un-hombre-viajo-gratis-estafando-a-aerolineas-argentinas/>
+15:41:28 - Ezequiel Leites (@leites25):
+Totalmente, despues probar con la de los fichines y jugar Daytona gratis todo un dia
+15:41:43 - Luis Alvarez (@luistensai):
+`Reconoció su responsabilidad pero pidió que no le quiten los puntos.`
+15:41:45 - Luis Alvarez (@luistensai):
+:joy:
+15:42:07 - Leandro Echevarria (@echevarrialeandro):
+Con lograr hacer la request fake al server de sube y verificar esa penetración creo que daría por cerrada una buena fase del experimento
+15:42:19 - Sergio Daniel Xalambrí (@sergiodxa):
+`Fumarola` es un apellido posta?
+15:43:01 - Ezequiel Leites (@leites25):
+Ahi habria que agarrar uno de los aparatitos de los kioscos / subte seguramente, o tratar de ver la request que hace MercadoPago
+15:43:17 - Luis Alvarez (@luistensai):
+yo tengo un amigo con un apellido similar, así que no lo dudaría
+15:44:20 - Sergio Daniel Xalambrí (@sergiodxa):
+&gt;  El único dato verdadero era siempre su nombre y su DNI. Por eso en Aerolíneas no podían unir el rompecabezas para saber que el fraude lo repetía la misma persona.
+15:44:27 - Sergio Daniel Xalambrí (@sergiodxa):
+usaba su nombre y DNI, pero no se daban cuenta?
+15:46:23 - Martín Valdés de León (@mvaldesdeleon):
+&gt;Era tan buen pasajero
+Cargaba las valijas y se quedaba despues del viaje a ayudar a limpiar?
+15:46:34 - Martín Valdés de León (@mvaldesdeleon):
+Daba una mano repartiendo las viandas?
+15:47:01 - Sergio Daniel Xalambrí (@sergiodxa):
+&gt; se negó a declarar y luego fue liberado
+15:47:25 - Sergio Daniel Xalambrí (@sergiodxa):
+<@U0TFEHWEA> piloteaba el avión mientras el piloto iba al baño
+15:47:46 - Martín Valdés de León (@mvaldesdeleon):
+Se bajaba a mirar si hay espacio para estacionar.
+15:47:50 - Santiago Ruffino (@santi_0898):
+Era hermano mio
+15:47:50 - Martín Valdés de León (@mvaldesdeleon):
+Y le daba señas.
+15:49:18 - Sergio Daniel Xalambrí (@sergiodxa):
+le servía café a las azafatas
+15:49:19 - Leandro Echevarria (@echevarrialeandro):
+Jajajajaaj la verdad
+15:53:49 - Micael Robles (@micaelrobles):
+en la Fadu, planta baja hay una terminal de carga de sube me parece
+16:08:31 - Luis Alvarez (@luistensai):
+/gif fake news
+16:08:45 - Luis Alvarez (@luistensai):
+Infobae you are fake news
