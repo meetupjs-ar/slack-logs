@@ -1,0 +1,182 @@
+21:34:42 - Julian (@jantonielli01):
+que onda la call de CMX?
+21:34:56 - Julian (@jantonielli01):
+<@U86N8M2JK> ya hiciste ese test de CT?
+21:36:08 - Marcos Casagrande (@marcoscvp90):
+hay 2, una técnica y otra para conocerte digamos.
+21:36:44 - Julian (@jantonielli01):
+Ah, si, ahí vi. Tengo la introductory ahora
+21:36:53 - Martín Aimar (@maimar):
+la que fue para conocerme fue bastante larga, casi media hora
+21:37:00 - Marcos Casagrande (@marcoscvp90):
+La técnica es con un dev que labura en CMX, la otra con alguien de Codementor, generalmente con Melody.
+21:37:18 - Marcos Casagrande (@marcoscvp90):
+Si, dura bastante, la tuviste con Melody, <@UC1QYJACE>?
+21:37:26 - Martín Aimar (@maimar):
+no con un tal renato
+21:37:31 - Julian (@jantonielli01):
+La de conocerte es puro chamuyo imagino
+21:37:36 - Julian (@jantonielli01):
+La tecnica que tal?
+21:38:02 - Marcos Casagrande (@marcoscvp90):
+Ah miento, tuve 3, una con un flaco la introductory, para evaluar nivel de inglés y hablar un poco. la Técnica con un flaco de CMX, y la on boarding con Melody
+21:38:13 - Martín Aimar (@maimar):
+creo que la técnica es sobre el proyecto que te piden después de la introductory
+21:40:30 - Mariano Ramonda (@ing.inf.mariano):
+recien hice dormir a mis hijos, ahora la arranco :man-facepalming:
+21:41:04 - Mariano Ramonda (@ing.inf.mariano):
+estaba mirando una cheetsheet de redux, con eso tengo que andar
+21:42:12 - Martín Aimar (@maimar):
+tempranito
+21:43:16 - Mariano Ramonda (@ing.inf.mariano):
+que poca onda hacer esto a esta hora jajajj
+22:07:26 - Leandro Echevarria (@echevarrialeandro):
+Si precisas algo de SQL avisa nomas
+22:07:32 - Leandro Echevarria (@echevarrialeandro):
+Si estoy en la pc te tiro un cable
+22:16:15 - Mariano Ramonda (@ing.inf.mariano):
+genio!
+22:17:15 - Mariano Ramonda (@ing.inf.mariano):
+sin querer queriendo creo que encontre un repo con el ejercicio de redux :open_mouth:
+22:17:53 - Leandro Echevarria (@echevarrialeandro):
+Saaaaaabe :partyparrot:
+22:17:54 - Leandro Echevarria (@echevarrialeandro):
+Viva github
+01:15:52 - Mariano Ramonda (@ing.inf.mariano):
+pude con el challenge ^.^
+01:16:05 - Mariano Ramonda (@ing.inf.mariano):
+despues se los paso si a alguien le interesa
+01:24:02 - Julian (@jantonielli01):
+Qué tal era?
+01:34:22 - Mariano Ramonda (@ing.inf.mariano):
+el de Redux, un repo con unos 15 TODOs, algunos "aca falta algo" y otros "aca hay algo equivocado"
+01:34:33 - Mariano Ramonda (@ing.inf.mariano):
+el grueso bastante simples, un par me costaron
+01:36:52 - Mariano Ramonda (@ing.inf.mariano):
+el de SQL:
+tablas
+```
+create table books(id int, title varchar(250), year int, author varchar(250));
+create table reviewers(id int, name varchar(250));
+create table ratings(reviewer_id int, book_id int, rating int, rating_date date);
+```
+
+solucion
+```
+SELECT DISTINCT re1.name, re2.name
+FROM reviewers re1, reviewers re2, ratings ra1, ratings ra2
+WHERE ra1.book_id = ra2.book_id
+AND ra1.reviewer_id = re1.id
+AND ra2.reviewer_id = re2.id
+AND re1.name &lt; re2.name
+ORDER BY re1.name, re2.name;
+```
+01:37:21 - Mariano Ramonda (@ing.inf.mariano):
+tranqui, pero me llevo mas de los 30 minutos que te estiman
+01:37:58 - Mariano Ramonda (@ing.inf.mariano):
+hacia mas de un año no escribia una query sql
+01:38:49 - Mariano Ramonda (@ing.inf.mariano):
+puedo saber como se llama tu amigo que trabaja en Clevertech? acabo de ver el /team y esta lleno de Argentinos (muchos con foto)
+06:56:44 - Leandro Echevarria (@echevarrialeandro):
+Que te corran con 30 min me da por las bolas (con challenges en gral)
+06:56:51 - Leandro Echevarria (@echevarrialeandro):
+Subitelo a un gist si queres y lo dejamos pinneado
+10:38:58 - Gonza Onisimchuk (@gonzaonisimchuk):
+y los joins en sql? :stuck_out_tongue: jaja
+13:24:37 - Julian (@jantonielli01):
+Si, Ramiro Olivera 
+18:21:46 - Mariano Ramonda (@ing.inf.mariano):
+en este pais el equivalente a 60 dolares es mucha cerveza
+18:46:09 - Martín Aimar (@maimar):
+1 birra 1 dólar
+21:34:42 - Julian (@jantonielli01):
+que onda la call de CMX?
+21:34:56 - Julian (@jantonielli01):
+<@U86N8M2JK> ya hiciste ese test de CT?
+21:36:08 - Marcos Casagrande (@marcoscvp90):
+hay 2, una técnica y otra para conocerte digamos.
+21:36:44 - Julian (@jantonielli01):
+Ah, si, ahí vi. Tengo la introductory ahora
+21:36:53 - Martín Aimar (@maimar):
+la que fue para conocerme fue bastante larga, casi media hora
+21:37:00 - Marcos Casagrande (@marcoscvp90):
+La técnica es con un dev que labura en CMX, la otra con alguien de Codementor, generalmente con Melody.
+21:37:18 - Marcos Casagrande (@marcoscvp90):
+Si, dura bastante, la tuviste con Melody, <@UC1QYJACE>?
+21:37:26 - Martín Aimar (@maimar):
+no con un tal renato
+21:37:31 - Julian (@jantonielli01):
+La de conocerte es puro chamuyo imagino
+21:37:36 - Julian (@jantonielli01):
+La tecnica que tal?
+21:38:02 - Marcos Casagrande (@marcoscvp90):
+Ah miento, tuve 3, una con un flaco la introductory, para evaluar nivel de inglés y hablar un poco. la Técnica con un flaco de CMX, y la on boarding con Melody
+21:38:13 - Martín Aimar (@maimar):
+creo que la técnica es sobre el proyecto que te piden después de la introductory
+21:40:30 - Mariano Ramonda (@ing.inf.mariano):
+recien hice dormir a mis hijos, ahora la arranco :man-facepalming:
+21:41:04 - Mariano Ramonda (@ing.inf.mariano):
+estaba mirando una cheetsheet de redux, con eso tengo que andar
+21:42:12 - Martín Aimar (@maimar):
+tempranito
+21:43:16 - Mariano Ramonda (@ing.inf.mariano):
+que poca onda hacer esto a esta hora jajajj
+22:07:26 - Leandro Echevarria (@echevarrialeandro):
+Si precisas algo de SQL avisa nomas
+22:07:32 - Leandro Echevarria (@echevarrialeandro):
+Si estoy en la pc te tiro un cable
+22:16:15 - Mariano Ramonda (@ing.inf.mariano):
+genio!
+22:17:15 - Mariano Ramonda (@ing.inf.mariano):
+sin querer queriendo creo que encontre un repo con el ejercicio de redux :open_mouth:
+22:17:53 - Leandro Echevarria (@echevarrialeandro):
+Saaaaaabe :partyparrot:
+22:17:54 - Leandro Echevarria (@echevarrialeandro):
+Viva github
+01:15:52 - Mariano Ramonda (@ing.inf.mariano):
+pude con el challenge ^.^
+01:16:05 - Mariano Ramonda (@ing.inf.mariano):
+despues se los paso si a alguien le interesa
+01:24:02 - Julian (@jantonielli01):
+Qué tal era?
+01:34:22 - Mariano Ramonda (@ing.inf.mariano):
+el de Redux, un repo con unos 15 TODOs, algunos "aca falta algo" y otros "aca hay algo equivocado"
+01:34:33 - Mariano Ramonda (@ing.inf.mariano):
+el grueso bastante simples, un par me costaron
+01:36:52 - Mariano Ramonda (@ing.inf.mariano):
+el de SQL:
+tablas
+```
+create table books(id int, title varchar(250), year int, author varchar(250));
+create table reviewers(id int, name varchar(250));
+create table ratings(reviewer_id int, book_id int, rating int, rating_date date);
+```
+
+solucion
+```
+SELECT DISTINCT re1.name, re2.name
+FROM reviewers re1, reviewers re2, ratings ra1, ratings ra2
+WHERE ra1.book_id = ra2.book_id
+AND ra1.reviewer_id = re1.id
+AND ra2.reviewer_id = re2.id
+AND re1.name &lt; re2.name
+ORDER BY re1.name, re2.name;
+```
+01:37:21 - Mariano Ramonda (@ing.inf.mariano):
+tranqui, pero me llevo mas de los 30 minutos que te estiman
+01:37:58 - Mariano Ramonda (@ing.inf.mariano):
+hacia mas de un año no escribia una query sql
+01:38:49 - Mariano Ramonda (@ing.inf.mariano):
+puedo saber como se llama tu amigo que trabaja en Clevertech? acabo de ver el /team y esta lleno de Argentinos (muchos con foto)
+06:56:44 - Leandro Echevarria (@echevarrialeandro):
+Que te corran con 30 min me da por las bolas (con challenges en gral)
+06:56:51 - Leandro Echevarria (@echevarrialeandro):
+Subitelo a un gist si queres y lo dejamos pinneado
+10:38:58 - Gonza Onisimchuk (@gonzaonisimchuk):
+y los joins en sql? :stuck_out_tongue: jaja
+13:24:37 - Julian (@jantonielli01):
+Si, Ramiro Olivera 
+18:21:46 - Mariano Ramonda (@ing.inf.mariano):
+en este pais el equivalente a 60 dolares es mucha cerveza
+18:46:09 - Martín Aimar (@maimar):
+1 birra 1 dólar
