@@ -1,0 +1,263 @@
+23:19:15 - Ezequiel Leites (@leites25):
+Que copado o que locura que paguen eso, hablando de como tienen a los “empleados” visibles
+08:48:42 - Nicolas Taboada (@ntaboada93):
+Villa crespo?
+09:25:32 - Martín Valdés de León (@mvaldesdeleon):
+Diria que para un _Principal_ 70 es poco
+09:26:56 - Martín Valdés de León (@mvaldesdeleon):
+Lo que si, no se fien un carajo de Equity en VC-funded startups.
+09:28:50 - Martín Valdés de León (@mvaldesdeleon):
+<https://twitter.com/wycats/status/1111829245804732416>
+09:28:55 - Martín Valdés de León (@mvaldesdeleon):
+(thread)
+10:00:35 - Marcos Casagrande (@marcoscvp90):
+85K Euros (95k USD) no me parece poco para un lead software, me parece bastante buen sueldo, también hay que pensar que en España no están los sueldos de USA o UK, pero el costo de vida es menor.
+10:01:25 - Martín Valdés de León (@mvaldesdeleon):
+"Principal" en general es un cargo al mismo nivel salarial que "Director".
+10:01:36 - Martín Valdés de León (@mvaldesdeleon):
+No es "Lead", no es "Senior".
+10:02:26 - Rodrigo Ali (@rodrigojali):
+Cuando yo usé una calculadora impositiva (para estimar) me dio que en mi caso (en pareja, sin hijos, etc etc etc...) que me retenían ~27% del sueldo :open_mouth:
+
+¿A vos qué numero te dio? ¿O en otros paises te retienen más?
+10:03:02 - Martín Valdés de León (@mvaldesdeleon):
+<https://cincodias.elpais.com/herramientas/calculadora-sueldo-neto/#tabla_resultados> aca me tiro un ~23%
+10:04:19 - Martín Valdés de León (@mvaldesdeleon):
+A mi me descuentan tipo el 40% del salario bruto.
+10:04:24 - Martín Valdés de León (@mvaldesdeleon):
+(En Alemania)
+10:04:58 - Martín Valdés de León (@mvaldesdeleon):
+dicho de otro modo: 50k/yr en España me da el mismo salario en mano que 60k/yr en Alemania
+10:06:16 - Rodrigo Ali (@rodrigojali):
+Claro, entiendo. En un rato pruebo esa calc, gracias Martin :open_mouth:
+10:08:55 - Marcos Casagrande (@marcoscvp90):
+Técnicamente es Senior. Que en la empresa le pogan otro cargo, no significa que el no sea un Senior Dev. De todas formas me sigue pareciendo un buen sueldo, en España los directores ganan eso.
+10:10:15 - Martín Valdés de León (@mvaldesdeleon):
+? La gracia de cargos como Staff, Distinguished, Principal, etc, es que efectivamente no son Senior, sino que son niveles por encima de Sr.
+23:19:15 - Ezequiel Leites (@leites25):
+Que copado o que locura que paguen eso, hablando de como tienen a los “empleados” visibles
+08:48:42 - Nicolas Taboada (@ntaboada93):
+Villa crespo?
+09:25:32 - Martín Valdés de León (@mvaldesdeleon):
+Diria que para un _Principal_ 70 es poco
+09:26:56 - Martín Valdés de León (@mvaldesdeleon):
+Lo que si, no se fien un carajo de Equity en VC-funded startups.
+09:28:50 - Martín Valdés de León (@mvaldesdeleon):
+<https://twitter.com/wycats/status/1111829245804732416>
+09:28:55 - Martín Valdés de León (@mvaldesdeleon):
+(thread)
+10:00:35 - Marcos Casagrande (@marcoscvp90):
+85K Euros (95k USD) no me parece poco para un lead software, me parece bastante buen sueldo, también hay que pensar que en España no están los sueldos de USA o UK, pero el costo de vida es menor.
+10:01:25 - Martín Valdés de León (@mvaldesdeleon):
+"Principal" en general es un cargo al mismo nivel salarial que "Director".
+10:01:36 - Martín Valdés de León (@mvaldesdeleon):
+No es "Lead", no es "Senior".
+10:02:26 - Rodrigo Ali (@rodrigojali):
+Cuando yo usé una calculadora impositiva (para estimar) me dio que en mi caso (en pareja, sin hijos, etc etc etc...) que me retenían ~27% del sueldo :open_mouth:
+
+¿A vos qué numero te dio? ¿O en otros paises te retienen más?
+10:03:02 - Martín Valdés de León (@mvaldesdeleon):
+<https://cincodias.elpais.com/herramientas/calculadora-sueldo-neto/#tabla_resultados> aca me tiro un ~23%
+10:04:19 - Martín Valdés de León (@mvaldesdeleon):
+A mi me descuentan tipo el 40% del salario bruto.
+10:04:24 - Martín Valdés de León (@mvaldesdeleon):
+(En Alemania)
+10:04:58 - Martín Valdés de León (@mvaldesdeleon):
+dicho de otro modo: 50k/yr en España me da el mismo salario en mano que 60k/yr en Alemania
+10:06:16 - Rodrigo Ali (@rodrigojali):
+Claro, entiendo. En un rato pruebo esa calc, gracias Martin :open_mouth:
+10:08:55 - Marcos Casagrande (@marcoscvp90):
+Técnicamente es Senior. Que en la empresa le pogan otro cargo, no significa que el no sea un Senior Dev. De todas formas me sigue pareciendo un buen sueldo, en España los directores ganan eso.
+10:10:15 - Martín Valdés de León (@mvaldesdeleon):
+? La gracia de cargos como Staff, Distinguished, Principal, etc, es que efectivamente no son Senior, sino que son niveles por encima de Sr.
+10:10:27 - Martín Valdés de León (@mvaldesdeleon):
+Si usas esos nombres para chamuyar, tu ladder es una truchada.
+10:12:35 - Martin Gonzalez (@martin2786):
+Es un tema de definicion del puesto, uno puede ser senior por la experiencia que tiene pero para ser principal necesitas skills que van mas alla de cuantos años hayas programado o cuanto sepas tecnicamente, muchos skills de liderazgo, presentacion, negociacion, trato con clientes, etc. Osea que es un senior pero no un senior developer normal.
+10:13:46 - Martín Valdés de León (@mvaldesdeleon):
+Por eso las empresas mas grandes tienen ladders bien definidos. Fijate en <http://levels.fyi> x ej
+10:14:10 - Martín Valdés de León (@mvaldesdeleon):
+Hay bastante mas por arriba de "Senior".
+10:14:16 - Marcos Casagrande (@marcoscvp90):
+Claro, yo lo que digo, es que el Principal, Staff o como lo quieras llamar, es defnitivamente un puesto con mayor responsabilidad a un simple dev. Pero la seniority de esos, siguen siendo Senior devs, manejandonos en las 3 seniorities establecidas de junior/semi/senior
+10:14:29 - Martín Valdés de León (@mvaldesdeleon):
+Es que la escala de 3 niveles es limitadisima.
+10:14:59 - Martín Valdés de León (@mvaldesdeleon):
+Terminas llamando "senior" al que tiene 5 años y al que tiene 20 años de exp.
+10:15:24 - Marcos Casagrande (@marcoscvp90):
+Pero es lo general en el sector, después cada empresa le mete los nombres que quieran, yo he visto gente con puestos ultra inventados solo válidos en esa empresa.
+10:15:47 - Martín Valdés de León (@mvaldesdeleon):
+Chequea el link que puse, en general esos niveles son legit y te los reconocen cuando te moves de empresa a empresa.
+10:15:52 - Marcos Casagrande (@marcoscvp90):
+Es un problema entonces del sector, yo estoy de acuerdo que no es lo mismo un senior de 5, uno de 10, y uno de 15. Pero no hay un consenso sobre esto.
+10:15:54 - Martín Valdés de León (@mvaldesdeleon):
+Google te respeta los niveles de MSFT y demas.
+10:16:33 - Marcos Casagrande (@marcoscvp90):
+Google Fellow es la primera vez que lo escucho, y supongo que es interno de Google no?
+10:16:54 - Marcos Casagrande (@marcoscvp90):
+Ignorá el comentario, es solo para Google eso.
+10:17:05 - Martín Valdés de León (@mvaldesdeleon):
+Deben ser 100 en todo el mundo en ese nivel, o algo asi.
+10:17:19 - Marcos Casagrande (@marcoscvp90):
+A lo que voy, Si bien esan esos niveles, cada empresa usa algo diferente, no hay un estandar.
+10:17:24 - Martín Valdés de León (@mvaldesdeleon):
+Pero la idea es que podes comparar como se traduce "Google Fellow" a una oferta de FB o Apple o whatever.
+10:17:43 - Martín Valdés de León (@mvaldesdeleon):
+Los dptos de HR estan al tanto de los niveles de la competencia.
+10:17:59 - Marcos Casagrande (@marcoscvp90):
+Si, pero no técnicamente es whatever, solo empresas reconocidas.
+10:18:08 - Marcos Casagrande (@marcoscvp90):
+Como te definís vos, para un puesto.
+10:18:52 - Marcos Casagrande (@marcoscvp90):
+Ojo, yo entiendo lo que decís, y estamos de acuerdo en que la seniority es diferente, pero a lo que voy yo es que no hay consenso.
+10:19:32 - Martín Valdés de León (@mvaldesdeleon):
+En general el factor discriminante para mi no es tanto cuan conocida sea la empresa, sino el tamaño. Cuando tu empresa empieza a tener varios cientos de devs, si tratas al de 5 y al de 20 años de igual manera, el de 20 años se va.
+10:19:34 - Marcos Casagrande (@marcoscvp90):
+No creo que tengas que decir: "Mirá la web esa y fijate a que correspondo en tu empresa"
+10:19:47 - Martín Valdés de León (@mvaldesdeleon):
+Y eso te obliga a tener que crear opciones de carrera que no sean management.
+10:26:30 - Marcos Casagrande (@marcoscvp90):
+Eso tal cual, para mi tiene que haber miles de escalas, solo digo que no están generalizadas y la mayoría de empresas no las tienen.
+11:10:10 - Nico (@nicokorn96):
+centro
+11:10:35 - Nico (@nicokorn96):
+por?
+14:05:27 - GAlvarado (@anzaldo.alvarado.gabr):
+en una charla casual dices que laburas en rappy y ya te imaginan con una Bicicleta jaja
+14:34:01 - Ezequiel Leites (@leites25):
+Podes programar arriba de una bicicleta :thinking_face:
+14:34:31 - Ezequiel Leites (@leites25):
+Justo ayer hablabamos de que a uno de mis conocidos le habian ofrecido esa guita en Rappi y deciamos, deben estar mintiendo
+16:35:05 - Pablo Mendez (@mendev):
+Buenas! UNa consulta, a alguien le ha llegado una oferta o ha escuchado de una compañia lamada Altran?
+16:35:33 - Pablo Mendez (@mendev):
+me contactaron desde esta compañia para laburar como Fullstack developer en Barcelona
+16:36:13 - Aldo Sorbara (@aldo1891):
+<@U56LXLZEH> yo tuve una primera entrevista con ellos
+16:36:31 - Pablo Mendez (@mendev):
+nada mas que parece medio raro como se manejan y lo cual me dio desconfianza, aunque me puse a buscar Altran y, obviamente existe pero bueno, tal vez a alguien haya tenido contacto con ellos
+16:36:47 - Pablo Mendez (@mendev):
+genial Aldo
+16:36:53 - Aldo Sorbara (@aldo1891):
+que es lo que te parecio raro?
+16:37:22 - Pablo Mendez (@mendev):
+emmm.....la persona que me llamó parecia algo desorganizada
+16:37:33 - Pablo Mendez (@mendev):
+pero me mencionó toda la información de forma bastante correcta
+16:38:10 - Aldo Sorbara (@aldo1891):
+tuve una entrevista inicial con gente de rrhh, me parecio bastante bueno, y despues me mandaron un ejercicio para hacer, que era bastante largo y en ese momento no tenia tiempo ni ganas de hacerlo asi que desistí.
+16:38:13 - Pablo Mendez (@mendev):
+y dado a que no tenia un familiar directo q viviera en España tenia que averiguar como hacer ese trámite y que iban a tardar un poco
+16:38:17 - Pablo Mendez (@mendev):
+despues no me contactó nunca mas
+16:38:24 - Aldo Sorbara (@aldo1891):
+que raro
+16:38:29 - Pablo Mendez (@mendev):
+eso fue hace un mes aprox
+16:38:39 - Aldo Sorbara (@aldo1891):
+con quien hablaste? a mi al dia me mandaron el ejercicio
+16:39:08 - Pablo Mendez (@mendev):
+y hace unos dias me llegó un mail de Altran pidiendo autorización para ciertas cosas que, REALMENTE NO ENTENDI, y le mande mensaje por linkedin a esta persona que trabaja en Altran y nunca me contestó
+16:40:16 - Pablo Mendez (@mendev):
+me contactó una persona llamada "Natalia Diez Delgado"
+16:40:42 - Aldo Sorbara (@aldo1891):
+a mi otra persona, y el mail que decis es para algo relacionado a la "proteccion de datos"
+16:40:48 - Pablo Mendez (@mendev):
+es mas, tuvimos una call y me dijo de un ejercicio pero que todavia no me lo mandaba por este tema de que queria verificar estos datos primero
+16:40:56 - Pablo Mendez (@mendev):
+exacto
+16:41:21 - Aldo Sorbara (@aldo1891):
+en teoria hay una ley que obliga a que aceptes estar en su base de datos, en teoria es una ley de españa, como no segui con las entrevistas nunca firme eso asi que no sabria decirte cuan real es
+16:41:30 - Pablo Mendez (@mendev):
+"Aceptación Policita GDPR Altran"
+16:41:52 - Aldo Sorbara (@aldo1891):
+es raro lo que me decis de que tenian que averiguar porque yo estaba en la misma situacion y a mi me mandaron los ejercicios jaja
+16:42:17 - Pablo Mendez (@mendev):
+"Información Básica de protección de datos de Altran Innovacion S.L."
+16:42:57 - Pablo Mendez (@mendev):
+:man-shrugging:
+16:43:29 - Pablo Mendez (@mendev):
+yo no le di aceptar ni nada porque sinceramente no se bien de que trata
+16:43:40 - Aldo Sorbara (@aldo1891):
+si, en teoria hay una ley
+16:44:06 - Pablo Mendez (@mendev):
+por eso traté de contactar a esta persona que le mande el mensaje, es mas, despues de haberle mandado mensaje le mande solicitud para conectar la cual me aceptó pero nunca me contestó el mensaje
+16:44:34 - Pablo Mendez (@mendev):
+por eso digo que me parece algo "raro" pero tal vez la mina que me contactó es "rara"
+16:45:08 - Aldo Sorbara (@aldo1891):
+si, tal vez no quieren seguir pero no entiendo pq no te dicen "no" y listo
+16:45:22 - Gonzalo González Mora (@gonzalogm):
+Sí, en EU hay una política nueva de privacidad, fue por la cual muchos sitios empezaron a poner el checkeo de cookies y demás
+16:45:53 - Gonzalo González Mora (@gonzalogm):
+pero abarca muchas cosas así que puede ser eso
+16:45:53 - Gonzalo González Mora (@gonzalogm):
+<https://en.wikipedia.org/wiki/General_Data_Protection_Regulation>
+16:53:46 - Martín Valdés de León (@mvaldesdeleon):
+Como dice Gonzalo, tienen que hacer un disclosure de como piensan manejar tus datos personales.
+16:54:19 - Martín Valdés de León (@mvaldesdeleon):
+Avisarte si otras companias van a usar la informacion (x ej, para chequear tus antecedentes) y demas, y los tiempos de retencion. Y pedirte que fimes y los autorizes.
+16:54:51 - Martín Valdés de León (@mvaldesdeleon):
+En cualquier momento podes revocar la autorizacion y exigir que eliminen toda la informacion tuya.
+16:55:16 - Martín Valdés de León (@mvaldesdeleon):
+es boilerplate legal
+16:55:44 - Sergio Daniel Xalambrí (@sergiodxa):
+<@UDJJ1RZT5> lo de las cookies lleva años en europa
+16:55:47 - Martín Valdés de León (@mvaldesdeleon):
+Es totalmente real y EU-wide.
+16:56:10 - Gonzalo González Mora (@gonzalogm):
+Mmm sí? Fue el año pasado el boom de eso me parece
+16:56:33 - Gonzalo González Mora (@gonzalogm):
+Pero puedo estar equivocado, no sé
+16:56:56 - Sergio Daniel Xalambrí (@sergiodxa):
+lo de usar cookies existe desde que estaba en secundaria, y eso fue hace más de una década
+los de GDPR hizo que cambien muchas cosas de los terminos y condiciones de uso y de las políticas de privacidad
+16:57:27 - Gonzalo González Mora (@gonzalogm):
+Claro, creo que me estoy confundiendo
+16:57:28 - Sergio Daniel Xalambrí (@sergiodxa):
+capaz con GDPR se volvieron más estrictos con lo de las cookies también?
+16:57:41 - Martín Valdés de León (@mvaldesdeleon):
+Con GDPR tienen que pedirte permiso para usar cookies para trackearte
+16:57:43 - Martín Valdés de León (@mvaldesdeleon):
+y esas cosas
+16:57:43 - Gonzalo González Mora (@gonzalogm):
+Lo del año pasado fue de GPDR uqe actualizaron todas las privacy policies, pero tmb me parece que emepzaron a poner todas las webs el popup de cookies
+16:57:44 - Martín Valdés de León (@mvaldesdeleon):
+AFAIK
+16:57:50 - Gonzalo González Mora (@gonzalogm):
+Claro
+16:58:12 - Gonzalo González Mora (@gonzalogm):
+Antes eran pocas las que lo tenían y ahora la gran mayoría
+16:58:28 - Sergio Daniel Xalambrí (@sergiodxa):
+pero el popup de que usan cookies es pre GDPR
+16:58:57 - Martín Valdés de León (@mvaldesdeleon):
+&gt;Until now, compliance with this law meant a statement placed at the bottom or at the top of the website, that lets the user know cookies are being used. Most of us are familiar with the famous phrase “By using this website, you accept cookies” or something similar. This informed users, it’s true, but did it really give them an alternative? The GDPR aims to change this in the future, by giving users a real and informed choice.
+16:59:00 - Martín Valdés de León (@mvaldesdeleon):
+eso es la diferencia
+16:59:06 - Martín Valdés de León (@mvaldesdeleon):
+la EU Cookie Law obligaba a AVISAR
+16:59:15 - Martín Valdés de León (@mvaldesdeleon):
+pero no a pedir (ni documentar) el consenso
+16:59:23 - Sergio Daniel Xalambrí (@sergiodxa):
+ahhh
+16:59:29 - Sergio Daniel Xalambrí (@sergiodxa):
+mira vos, eso si no tenía idea
+16:59:56 - Sergio Daniel Xalambrí (@sergiodxa):
+osea pre GDPR el popup solo decía "usamos cookies" pero ahora tienen que guardar en algún lado que aceptaste eso?
+17:00:20 - Martín Valdés de León (@mvaldesdeleon):
+<https://eugdprcompliant.com/cookies-consent-gdpr/>
+17:00:24 - Martín Valdés de León (@mvaldesdeleon):
+leyendo sobre cookies y gdpr
+17:00:29 - Martín Valdés de León (@mvaldesdeleon):
+el sitio te avisa que usa cookies
+17:00:35 - Martín Valdés de León (@mvaldesdeleon):
+y que tenes q aceptar x gdpr
+17:00:36 - Martín Valdés de León (@mvaldesdeleon):
+xD
+17:00:57 - Sergio Daniel Xalambrí (@sergiodxa):
+el uso de cookies debería estar metido en los browsers, al intentar setear una cookie por primera vez el browser debería pedirte permiso y sino bloquear, en vez de ser un popup horrible diferente en cada sitio
+17:01:29 - Martín Valdés de León (@mvaldesdeleon):
+salvo que la cookie mas invasiva es de google que oh casualidad es el mayor browser vendor
+17:01:30 - Martín Valdés de León (@mvaldesdeleon):
+usa brave
+17:45:24 - Pablo Mendez (@mendev):
+ok, entonces le entrego mi alma tranquilamente
