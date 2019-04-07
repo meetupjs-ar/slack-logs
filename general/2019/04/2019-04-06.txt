@@ -1,0 +1,72 @@
+06:29:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Buenos días gente! Alguno tiene referencias de Avature?
+09:21:34 - Gonza Espeche (@espeche.g):
+Aldo, te conviene hacer este tipo de consultas en <#C54TWDKN1|experiencia-laboral>
+10:00:55 - Emanuel Friedrich (@aemanuelfriedrich):
+Hola gente, como estan?
+10:01:41 - Emanuel Friedrich (@aemanuelfriedrich):
+Conocen un servicio like Heroku pero con soporte para sqlite3? Estoy clasificando mails para mi tesis con una mini app node.js y necesito soporte para sqlite3 para poder clasificarlos en la nube
+10:03:35 - Martín Valdés de León (@mvaldesdeleon):
+No podes usar Docker en Heroku?
+10:03:49 - Emanuel Friedrich (@aemanuelfriedrich):
+no idea
+10:04:02 - Martín Valdés de León (@mvaldesdeleon):
+creo que si, y ahi podrias tener una imagen docker con tu app node + sqlite
+10:04:24 - Emanuel Friedrich (@aemanuelfriedrich):
+genial, buena esa asi aprendo a hacer un dock desde 0 q lo necesito
+10:05:22 - Martín Valdés de León (@mvaldesdeleon):
+la otra es que no uses sqlite, sino cualquier otra base sql
+10:05:28 - Martín Valdés de León (@mvaldesdeleon):
+Heroku ofrece Postgres as a service
+10:06:39 - Emanuel Friedrich (@aemanuelfriedrich):
+si, he usado mucho heroku. Pero ya lo hicimos en sqlite y no tnemos mucho tiempo ademas q sqlite nos da unas ventajas para nuestro caso
+10:06:46 - Martín Valdés de León (@mvaldesdeleon):
+por ultimo lo mas extremo seria algo tipo <https://github.com/kripken/sql.js/>
+10:07:00 - Martín Valdés de León (@mvaldesdeleon):
+pero ni idea cuan viable sea usar eso for real
+10:07:20 - Emanuel Friedrich (@aemanuelfriedrich):
+Gracias martin, muy util
+10:07:35 - Martín Valdés de León (@mvaldesdeleon):
+:+1:
+10:07:55 - Martín Valdés de León (@mvaldesdeleon):
+A recibirse nomas!
+10:08:29 - Emanuel Friedrich (@aemanuelfriedrich):
+amén
+11:43:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias <@UBVFLQKNV>!
+06:29:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Buenos días gente! Alguno tiene referencias de Avature?
+09:21:34 - Gonza Espeche (@espeche.g):
+Aldo, te conviene hacer este tipo de consultas en <#C54TWDKN1|experiencia-laboral>
+10:00:55 - Emanuel Friedrich (@aemanuelfriedrich):
+Hola gente, como estan?
+10:01:41 - Emanuel Friedrich (@aemanuelfriedrich):
+Conocen un servicio like Heroku pero con soporte para sqlite3? Estoy clasificando mails para mi tesis con una mini app node.js y necesito soporte para sqlite3 para poder clasificarlos en la nube
+10:03:35 - Martín Valdés de León (@mvaldesdeleon):
+No podes usar Docker en Heroku?
+10:03:49 - Emanuel Friedrich (@aemanuelfriedrich):
+no idea
+10:04:02 - Martín Valdés de León (@mvaldesdeleon):
+creo que si, y ahi podrias tener una imagen docker con tu app node + sqlite
+10:04:24 - Emanuel Friedrich (@aemanuelfriedrich):
+genial, buena esa asi aprendo a hacer un dock desde 0 q lo necesito
+10:05:22 - Martín Valdés de León (@mvaldesdeleon):
+la otra es que no uses sqlite, sino cualquier otra base sql
+10:05:28 - Martín Valdés de León (@mvaldesdeleon):
+Heroku ofrece Postgres as a service
+10:06:39 - Emanuel Friedrich (@aemanuelfriedrich):
+si, he usado mucho heroku. Pero ya lo hicimos en sqlite y no tnemos mucho tiempo ademas q sqlite nos da unas ventajas para nuestro caso
+10:06:46 - Martín Valdés de León (@mvaldesdeleon):
+por ultimo lo mas extremo seria algo tipo <https://github.com/kripken/sql.js/>
+10:07:00 - Martín Valdés de León (@mvaldesdeleon):
+pero ni idea cuan viable sea usar eso for real
+10:07:20 - Emanuel Friedrich (@aemanuelfriedrich):
+Gracias martin, muy util
+10:07:35 - Martín Valdés de León (@mvaldesdeleon):
+:+1:
+10:07:55 - Martín Valdés de León (@mvaldesdeleon):
+A recibirse nomas!
+10:08:29 - Emanuel Friedrich (@aemanuelfriedrich):
+amén
+11:43:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias <@UBVFLQKNV>!
