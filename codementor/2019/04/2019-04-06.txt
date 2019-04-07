@@ -1,0 +1,150 @@
+21:05:18 - Julian (@jantonielli01):
+recien cobre 60$ por 5 lineas de código
+21:05:36 - Julian (@jantonielli01):
+on the flip side, me tomaron 30min+ esas 5 lineas
+21:07:30 - Mariano Ramonda (@ing.inf.mariano):
+haskell?
+21:16:23 - Julian (@jantonielli01):
+Sep
+21:17:36 - Julian (@jantonielli01):
+Era en un ejercicio que le pedían implementar un cacho de un interprete de un lenguaje
+21:17:43 - Julian (@jantonielli01):
+Borrando los comments que le puse, son estas 7 lineas
+```interp env (LetRecFuns defs body) =
+  let newEnv :: Map String Value
+      newEnv = Map.fromList (map (processDef (Map.union newEnv env)) defs)
+  in interp newEnv body
+
+processDef :: Map String Value -&gt; (String, String, Expr) -&gt; (String, Value)
+processDef someEnv (fnName, argName, body) =
+  (fnName, VClosure someEnv argName body)
+```
+21:17:49 - Julian (@jantonielli01):
+Era bastante complicado
+21:44:30 - Mariano Ramonda (@ing.inf.mariano):
+eso si que esta copado de CM, podes redituar lenguajes no mainstreams
+21:50:19 - Mariano Ramonda (@ing.inf.mariano):
+yo le estoy metiendo a este, muy de a poco pero voy, <http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/>, te parece buena idea? siempre me sirven recomendaciones de material
+21:50:32 - Mariano Ramonda (@ing.inf.mariano):
+perdon por el off-topic muchachos
+21:50:40 - Julian (@jantonielli01):
+No lo conozco a ese! A ver
+21:50:47 - Leandro Echevarria (@echevarrialeandro):
+De bardo off topiqueando (?
+21:51:29 - Julian (@jantonielli01):
+No me importa off-topickear si es para evangelizar hask  :v
+21:52:14 - Leandro Echevarria (@echevarrialeandro):
+Si es pa' aprender vale todo
+21:52:30 - Julian (@jantonielli01):
+Se ve bien ese tutorial
+21:52:57 - Julian (@jantonielli01):
+Muchos recomiendan el libro <http://haskellbook.com/>, esta muy bueno
+21:53:07 - Julian (@jantonielli01):
+Lo único es que va bastante lento
+21:54:07 - Julian (@jantonielli01):
+Te diría que sigas ese que estas usando y cuando lo termines te paso cosas mas avanzadas
+21:57:30 - Julian (@jantonielli01):
+Btw, unite a <#C3A5KNEV7|functional>
+21:57:39 - Julian (@jantonielli01):
+Somos el grupo mas cool de meetupjs
+22:06:20 - Mariano Ramonda (@ing.inf.mariano):
+bueno.. me sentia muy jr cuando estuve, por eso me fui jjajaja
+22:21:42 - Julian (@jantonielli01):
+Jajaj no pasa nada, si queres mutealo y cuando tengas alguna duda preguntás ahí y listo
+22:21:46 - Julian (@jantonielli01):
+lo que te sea mas util
+23:40:48 - Gonza Espeche (@espeche.g):
+De total outsider pregunto, que tiene de bueno Haskell?
+23:47:23 - Julian (@jantonielli01):
+Es lo más funcional qué hay: *todas* las funciones son puras, y todos los valores inmutables 
+23:47:42 - Julian (@jantonielli01):
+Eso de por si ya hace mucho código mucho más entendible mas fácilmente 
+23:47:51 - Julian (@jantonielli01):
+Y tiene un sistema de tipos muy copado
+00:02:09 - Gonza Espeche (@espeche.g):
+pinta interesante
+00:02:17 - Gonza Espeche (@espeche.g):
+me voy a sumar a las lecturas
+00:19:58 - Julian (@jantonielli01):
+De una pap 
+12:24:59 - Leandro Echevarria (@echevarrialeandro):
+Mi primer paso va a ser elixir creo
+14:41:27 - Julian (@jantonielli01):
+Elixir es fp? Ni idea 
+14:43:21 - Leandro Echevarria (@echevarrialeandro):
+Si si, fp backend
+21:05:18 - Julian (@jantonielli01):
+recien cobre 60$ por 5 lineas de código
+21:05:36 - Julian (@jantonielli01):
+on the flip side, me tomaron 30min+ esas 5 lineas
+21:07:30 - Mariano Ramonda (@ing.inf.mariano):
+haskell?
+21:16:23 - Julian (@jantonielli01):
+Sep
+21:17:36 - Julian (@jantonielli01):
+Era en un ejercicio que le pedían implementar un cacho de un interprete de un lenguaje
+21:17:43 - Julian (@jantonielli01):
+Borrando los comments que le puse, son estas 7 lineas
+```interp env (LetRecFuns defs body) =
+  let newEnv :: Map String Value
+      newEnv = Map.fromList (map (processDef (Map.union newEnv env)) defs)
+  in interp newEnv body
+
+processDef :: Map String Value -&gt; (String, String, Expr) -&gt; (String, Value)
+processDef someEnv (fnName, argName, body) =
+  (fnName, VClosure someEnv argName body)
+```
+21:17:49 - Julian (@jantonielli01):
+Era bastante complicado
+21:44:30 - Mariano Ramonda (@ing.inf.mariano):
+eso si que esta copado de CM, podes redituar lenguajes no mainstreams
+21:50:19 - Mariano Ramonda (@ing.inf.mariano):
+yo le estoy metiendo a este, muy de a poco pero voy, <http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/>, te parece buena idea? siempre me sirven recomendaciones de material
+21:50:32 - Mariano Ramonda (@ing.inf.mariano):
+perdon por el off-topic muchachos
+21:50:40 - Julian (@jantonielli01):
+No lo conozco a ese! A ver
+21:50:47 - Leandro Echevarria (@echevarrialeandro):
+De bardo off topiqueando (?
+21:51:29 - Julian (@jantonielli01):
+No me importa off-topickear si es para evangelizar hask  :v
+21:52:14 - Leandro Echevarria (@echevarrialeandro):
+Si es pa' aprender vale todo
+21:52:30 - Julian (@jantonielli01):
+Se ve bien ese tutorial
+21:52:57 - Julian (@jantonielli01):
+Muchos recomiendan el libro <http://haskellbook.com/>, esta muy bueno
+21:53:07 - Julian (@jantonielli01):
+Lo único es que va bastante lento
+21:54:07 - Julian (@jantonielli01):
+Te diría que sigas ese que estas usando y cuando lo termines te paso cosas mas avanzadas
+21:57:30 - Julian (@jantonielli01):
+Btw, unite a <#C3A5KNEV7|functional>
+21:57:39 - Julian (@jantonielli01):
+Somos el grupo mas cool de meetupjs
+22:06:20 - Mariano Ramonda (@ing.inf.mariano):
+bueno.. me sentia muy jr cuando estuve, por eso me fui jjajaja
+22:21:42 - Julian (@jantonielli01):
+Jajaj no pasa nada, si queres mutealo y cuando tengas alguna duda preguntás ahí y listo
+22:21:46 - Julian (@jantonielli01):
+lo que te sea mas util
+23:40:48 - Gonza Espeche (@espeche.g):
+De total outsider pregunto, que tiene de bueno Haskell?
+23:47:23 - Julian (@jantonielli01):
+Es lo más funcional qué hay: *todas* las funciones son puras, y todos los valores inmutables 
+23:47:42 - Julian (@jantonielli01):
+Eso de por si ya hace mucho código mucho más entendible mas fácilmente 
+23:47:51 - Julian (@jantonielli01):
+Y tiene un sistema de tipos muy copado
+00:02:09 - Gonza Espeche (@espeche.g):
+pinta interesante
+00:02:17 - Gonza Espeche (@espeche.g):
+me voy a sumar a las lecturas
+00:19:58 - Julian (@jantonielli01):
+De una pap 
+12:24:59 - Leandro Echevarria (@echevarrialeandro):
+Mi primer paso va a ser elixir creo
+14:41:27 - Julian (@jantonielli01):
+Elixir es fp? Ni idea 
+14:43:21 - Leandro Echevarria (@echevarrialeandro):
+Si si, fp backend
