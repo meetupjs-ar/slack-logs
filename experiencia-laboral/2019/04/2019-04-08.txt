@@ -1,0 +1,734 @@
+09:38:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola gente! Alguien que haya tenido hace poco su primera entrevista laboral o que tenga un amigo o conocido para preguntarle: qué tipo de problemas te hacen resolver en una entrevista técnica? Nivel de dificultad más q nada
+09:47:27 - Jesus Africano (@jesus.africano):
+creo que varia muchisimo de la empresa y el senority para el que estas aplicando
+09:49:22 - ari (@adiaz):
+una vez me tomaron cosas como esta --&gt; <http://www.disfrutalasmatematicas.com/puzzles/cruce-pollo-solucion.html>
+09:59:29 - Luciana Portias (@lportias):
+depende muchisimo de para que puesto es, el señority y la emrpesa en particular
+10:09:53 - Aldo Gabriel Rojas (@aldogrojas5):
+Por eso preguntaba para la primera... cuando es para iniciar con un primer trabajo
+10:10:51 - Martín Valdés de León (@mvaldesdeleon):
+FWIW, cuando entrevistamos trainees/students no les damos ningun "problema a resolver"
+10:10:57 - Nicolas Gerenstein (@nicolas.gerenstein):
+Aldo, como estas? En donde trabajo yo generalmente hacemos un examen técnico dependiendo el seniority que buscamos, generalmente suele ser un ABM con alguna complejidad lógica para resolver a nivel de BD para ver si conoce de normalización, etc
+10:11:11 - Martín Valdés de León (@mvaldesdeleon):
+es mas una charla sobre que teconolgias usaron/vieron en la facu, si hicieron algun proyecto del que quieran mencionar algo, etc.
+10:11:15 - Martín Valdés de León (@mvaldesdeleon):
+pero no los ponemos a codear
+10:12:02 - Martín Valdés de León (@mvaldesdeleon):
+si queres practicar codiging diria que arranques a hacer ejercicios de leetcode nivel basico/intermedio
+10:12:37 - Martín Valdés de León (@mvaldesdeleon):
+idealmente, elegi algunas empresas donde NO te interese laburar y aplica
+10:12:43 - Martín Valdés de León (@mvaldesdeleon):
+y fijate de primera mano que te evaluan y como
+10:12:51 - Martín Valdés de León (@mvaldesdeleon):
+asi podes prepararte para las empresas donde SI te interesaria laburar
+10:13:00 - Martín Valdés de León (@mvaldesdeleon):
+yo suelo hacer eso
+10:14:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Muy buena!!
+10:15:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias <@U0TFEHWEA>!
+10:47:21 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+<@UGW464VJS> yo trabajo en Endava  BsAs, y para nada pedimos 5 años de exp minimo, Rosario podria estar en busqueda diferente, pero solo por el momento
+10:49:21 - Aldo Gabriel Rojas (@aldogrojas5):
+Si, entiendo, yo comenté lo que me respondió una recruiter de acá de Rosario. Pero tb un amigo de mi hermano labura en endava rosario y le comentó q tal vez tomaban juniors
+10:49:52 - Aldo Gabriel Rojas (@aldogrojas5):
+Pero todavía no había nada armado como para que eso pase por el momento
+11:07:55 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+es cierto que hasta hace poco no se tomaban Juniors, eso cambio ahora, pero podrian estar coordinando los equipos.
+
+Me quedo la duda, asi que voy a averiguar en que anda Rosario
+11:44:05 - Damian Cipolat (@damian.cipolat):
+consulta alguno tiene referencias de la empresa cognitiva?
+11:50:13 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+<@UGW464VJS> me acaban de confirmar que si se esta tomando devs con menos de 2 años de experiencia en Rosario
+12:04:12 - Germán Burgardt (@germanandresburgardt):
+Gente vengo a pedirles consejo, tuve una entrevista en la que me senté con un chico de rrhh y un lider técnico y básicamente charlamos como una hora (previamente tuve una charla como de 40min con una recluiter en la que hablamos bastaaante de mi experiencia laboral). El chico de rrhh me contó beneficiones y me habló de la empresa, y después yo conté toda mi exp laboral. La charla fluyó muy bien todo el tiempo, intercalando charlas sobre tecnologías/experiencias laborales con el lider técnico.
+La propuesta hablaba de un frontend con bastante exp en Angular, y un poco de backend (en lineas generales). La cosa es que al final de la entrevista me hablaron de un puesto senior, y yo me esperaba algo mas semisenior.
+Yo les fui claro, hablé de mi experiencia todo el tiempo, sin exagerar ni mentir nada y la charla se dió con mucha naturalidad. Supongo que ellos tienen experiencia entrevistando y sacando el seniority de alguien (es una empresa grande).
+La cuestión es que quedaron muy contentos (según la recluiter) y yo estoy re cagado. Será que me estoy apurando mucho? Tambien estoy cagado de tener gente a cargo, nunca tuve. Les pregunté bien como sería el día a día digamos, y nunca hablaron de que iba a tener gente a cargo. Supongo que eso te lo dicen. En fin me da miedo no cumplir las expectativas, algún consejo? Perdón por hacerla tan larga, no pude resumir mas
+12:07:04 - Rodrigo Ali (@rodrigojali):
+Uhm, hasta donde tengo entendido, la seniority la pone una empresa en realidad, y cada empresa maneja qué consideran ellos en cada seniority. ASí que si para ellos sos Sr, entonces sos Sr y ya.
+12:07:17 - Rodrigo Ali (@rodrigojali):
+Yo en tu lugar, vería si me interesa lo que me proponen, y si me interesa, acepto.
+12:07:26 - Rodrigo Ali (@rodrigojali):
+Digamos, si hubiera un fallo ahí, no sería tuyo por aceptar.
+12:07:34 - Mateo Silguero (@mfsilguero):
+Te diria que no le tengas tanto miedo al cambio, siempre hay una primera vez
+12:07:38 - Juan Scolari (@juanscolari):
+Dale para adelante, toda experiencia nueva va a generar ansiedad e incertidumbre. Es una oportunidad para dar un paso mas y si a vos te cierra intentalo. Tomalo como un desafio y ponele ganas para llevarlo a cabo, vas a aprender una banda
+12:07:48 - Rodrigo Ali (@rodrigojali):
+Claro, en algún momento vas a ser "Sr por primera vez" jajaja
+12:07:57 - Rodrigo Ali (@rodrigojali):
+Felicitaciones, BTW (Y)
+12:08:08 - Mateo Silguero (@mfsilguero):
+Y generalmente no te van a lanzar y que te hagas cargo de todo de una, sino que vas a ir agarrando responsabilidades evolutivamente
+12:08:26 - Mateo Silguero (@mfsilguero):
+y te vas a ir acomodando
+12:08:34 - Mateo Silguero (@mfsilguero):
+o eso seria lo ideal jajaj
+12:10:16 - Martín Valdés de León (@mvaldesdeleon):
+Dale para adelante con toda.
+12:10:32 - Martín Valdés de León (@mvaldesdeleon):
+Crecer siempre implica tener que trabajar afuera de tu confort zone.
+12:11:07 - Martín Valdés de León (@mvaldesdeleon):
+Hay que aprender a sentirse comodo estando incomodo, o estando en puestos donde no vas a tener todas las respuestas de entrada y te las vas a tener que rebuscar.
+12:14:43 - Germán Burgardt (@germanandresburgardt):
+Gracias gente! Esa es la mentalidad que estoy intentando tener! Y que opinan de que un senior tenga gente a cargo? En gral es así? A grandes rasgos digo, entendiendo que cada empresa define los seniority como se les canta
+12:15:11 - Damian Cipolat (@damian.cipolat):
+No tengas miedo de cambiar, de un que un sr tenga gente a cargo y no me parece tan coherente es un puesto mas de team leader ese,
+12:15:17 - Martín Valdés de León (@mvaldesdeleon):
+En general es normal que tengas que coordinar tareas para el resto del equipo.
+12:15:40 - Rodrigo Ali (@rodrigojali):
+Yo creo que lo de "tener gente a cargo" aplica más a management que a la seniority, lo veo más como un rol
+12:15:46 - Rodrigo Ali (@rodrigojali):
+Claro
+12:15:50 - Martín Valdés de León (@mvaldesdeleon):
+Fijate si vas a estar en un rol que REALMENTE sea de Management.
+12:16:03 - Martín Valdés de León (@mvaldesdeleon):
+Es decir, 1-on-1's, Performance reviews, Discusiones salariales, etc
+12:16:05 - Rodrigo Ali (@rodrigojali):
+Pero por ej yo he laburado en lugares donde los Sr podían ser "lideres" o "especialistas", y los lideres eran los que tenian gente a cargo, los especialistas no.
+12:16:17 - Damian Cipolat (@damian.cipolat):
+El tema q muchas veces piden sr + team leader y estas en 2 quilombos a la vez de manejar un equipo y manejar bardos de un nivel tecnico muchisimo mas alto
+12:16:25 - Martín Valdés de León (@mvaldesdeleon):
+Eso seria un poco mas arriesgado de su parte, si no tenes experiencia en esas areas.
+12:16:35 - Martín Valdés de León (@mvaldesdeleon):
+Pero si consideralo una chance para vos moverte para ese lado si te interesa.
+12:16:35 - Rodrigo Ali (@rodrigojali):
+^claro
+12:17:05 - Martín Valdés de León (@mvaldesdeleon):
+A priori asumiria que las responsabilidades van a ser mas las de definir el backlog, asignar tickets, code review, etc.
+12:17:10 - Martín Valdés de León (@mvaldesdeleon):
+Que seria liderazgo tecnico.
+12:17:18 - Germán Burgardt (@germanandresburgardt):
+Claro entiendo perfecto, por lo que entendí es púramente técnico, y nada de management
+12:17:28 - Damian Cipolat (@damian.cipolat):
+debe ser mas technical leader
+12:17:30 - Damian Cipolat (@damian.cipolat):
+que es un poco eso
+12:17:48 - Damian Cipolat (@damian.cipolat):
+que dice Martin, esta bueno pero si te va sacar claramente de tu zona de comfort asi que preparate para el desafio
+12:19:03 - Martín Valdés de León (@mvaldesdeleon):
+IMHO lo que mas me costo es aprender a delegar tareas a gente que se que le va a llevar mas tiempo.
+12:19:11 - Martín Valdés de León (@mvaldesdeleon):
+porque hay mejores usos de _tu_ tiempo
+12:19:20 - Martín Valdés de León (@mvaldesdeleon):
+en general tu tarea es asegurarte que todos los demas devs puedan laburar
+12:19:34 - Martín Valdés de León (@mvaldesdeleon):
+que haya tasks bien definidas, etc.
+12:19:35 - Jorge Cano (@jorgeucano):
++1 a eso Martin
+12:19:42 - Jorge Cano (@jorgeucano):
+a mi tambien me costo decir “agarra esto que tengo yo”
+12:19:49 - Jorge Cano (@jorgeucano):
+y no amontonar tareas
+12:19:55 - Martín Valdés de León (@mvaldesdeleon):
+Totalmente.
+12:20:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial!!!! Te mando msj por dm
+12:20:05 - Jorge Cano (@jorgeucano):
+pero cuando tenes un punto un poco mas “arriba”
+12:20:05 - Martín Valdés de León (@mvaldesdeleon):
+Aprender a no ser el bottleneck de un equipo es lo mas jodido.
+12:20:09 - Jorge Cano (@jorgeucano):
+te toca entender desde otro punto
+12:20:14 - Jorge Cano (@jorgeucano):
+y tratar de que el equipo trabaje con vos
+12:20:16 - Jorge Cano (@jorgeucano):
+y no vos por el equipo
+12:20:50 - Martín Valdés de León (@mvaldesdeleon):
+Trata de que no haya nada que "solo vos puedas hacer".
+12:20:53 - Martín Valdés de León (@mvaldesdeleon):
+Nunca.
+12:21:23 - Damian Cipolat (@damian.cipolat):
+Muy bueno esto, (Trata de que no haya nada que "solo vos puedas hacer".) lo vi tantas veces y lo sigo viendo
+12:21:26 - Germán Burgardt (@germanandresburgardt):
+Muchas gracias gente, me voy a anotar todo esto en algun lado. Me sirve un monton
+12:21:27 - Jorge Cano (@jorgeucano):
+a mi me usan mucho de punto de consultas
+12:21:53 - Jorge Cano (@jorgeucano):
+entonces al final me dejo un tiempo para poder responder dudas y demas
+12:28:17 - Martin Bavio (@mbavio):
+Fake it till you make it
+12:28:52 - Martin Bavio (@mbavio):
+Felicitaciones <@UCBK6KBMM>!
+12:32:10 - Martin Bavio (@mbavio):
+Este punto, creo que yo que es el punto clave para diferenciar a una persona semi senior de una persona senior. El semi senior viene navegando en la cresta de la ola de su ego y cree que puede hacerlo todo y que todo debe pasar por el. El senior se da cuenta que eso no escala, y que debe delegar para tener salud.
+12:32:16 - Martin Bavio (@mbavio):
+Aplica a la vida tambien imho.
+12:32:35 - Martín Valdés de León (@mvaldesdeleon):
+Si, esa fue mi forma de verlo tb.
+09:38:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola gente! Alguien que haya tenido hace poco su primera entrevista laboral o que tenga un amigo o conocido para preguntarle: qué tipo de problemas te hacen resolver en una entrevista técnica? Nivel de dificultad más q nada
+09:47:27 - Jesus Africano (@jesus.africano):
+creo que varia muchisimo de la empresa y el senority para el que estas aplicando
+09:49:22 - ari (@adiaz):
+una vez me tomaron cosas como esta --&gt; <http://www.disfrutalasmatematicas.com/puzzles/cruce-pollo-solucion.html>
+09:59:29 - Luciana Portias (@lportias):
+depende muchisimo de para que puesto es, el señority y la emrpesa en particular
+10:09:53 - Aldo Gabriel Rojas (@aldogrojas5):
+Por eso preguntaba para la primera... cuando es para iniciar con un primer trabajo
+10:10:51 - Martín Valdés de León (@mvaldesdeleon):
+FWIW, cuando entrevistamos trainees/students no les damos ningun "problema a resolver"
+10:10:57 - Nicolas Gerenstein (@nicolas.gerenstein):
+Aldo, como estas? En donde trabajo yo generalmente hacemos un examen técnico dependiendo el seniority que buscamos, generalmente suele ser un ABM con alguna complejidad lógica para resolver a nivel de BD para ver si conoce de normalización, etc
+10:11:11 - Martín Valdés de León (@mvaldesdeleon):
+es mas una charla sobre que teconolgias usaron/vieron en la facu, si hicieron algun proyecto del que quieran mencionar algo, etc.
+10:11:15 - Martín Valdés de León (@mvaldesdeleon):
+pero no los ponemos a codear
+10:12:02 - Martín Valdés de León (@mvaldesdeleon):
+si queres practicar codiging diria que arranques a hacer ejercicios de leetcode nivel basico/intermedio
+10:12:37 - Martín Valdés de León (@mvaldesdeleon):
+idealmente, elegi algunas empresas donde NO te interese laburar y aplica
+10:12:43 - Martín Valdés de León (@mvaldesdeleon):
+y fijate de primera mano que te evaluan y como
+10:12:51 - Martín Valdés de León (@mvaldesdeleon):
+asi podes prepararte para las empresas donde SI te interesaria laburar
+10:13:00 - Martín Valdés de León (@mvaldesdeleon):
+yo suelo hacer eso
+10:14:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Muy buena!!
+10:15:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias <@U0TFEHWEA>!
+10:47:21 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+<@UGW464VJS> yo trabajo en Endava  BsAs, y para nada pedimos 5 años de exp minimo, Rosario podria estar en busqueda diferente, pero solo por el momento
+10:49:21 - Aldo Gabriel Rojas (@aldogrojas5):
+Si, entiendo, yo comenté lo que me respondió una recruiter de acá de Rosario. Pero tb un amigo de mi hermano labura en endava rosario y le comentó q tal vez tomaban juniors
+10:49:52 - Aldo Gabriel Rojas (@aldogrojas5):
+Pero todavía no había nada armado como para que eso pase por el momento
+11:07:55 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+es cierto que hasta hace poco no se tomaban Juniors, eso cambio ahora, pero podrian estar coordinando los equipos.
+
+Me quedo la duda, asi que voy a averiguar en que anda Rosario
+11:44:05 - Damian Cipolat (@damian.cipolat):
+consulta alguno tiene referencias de la empresa cognitiva?
+11:50:13 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+<@UGW464VJS> me acaban de confirmar que si se esta tomando devs con menos de 2 años de experiencia en Rosario
+12:04:12 - Germán Burgardt (@germanandresburgardt):
+Gente vengo a pedirles consejo, tuve una entrevista en la que me senté con un chico de rrhh y un lider técnico y básicamente charlamos como una hora (previamente tuve una charla como de 40min con una recluiter en la que hablamos bastaaante de mi experiencia laboral). El chico de rrhh me contó beneficiones y me habló de la empresa, y después yo conté toda mi exp laboral. La charla fluyó muy bien todo el tiempo, intercalando charlas sobre tecnologías/experiencias laborales con el lider técnico.
+La propuesta hablaba de un frontend con bastante exp en Angular, y un poco de backend (en lineas generales). La cosa es que al final de la entrevista me hablaron de un puesto senior, y yo me esperaba algo mas semisenior.
+Yo les fui claro, hablé de mi experiencia todo el tiempo, sin exagerar ni mentir nada y la charla se dió con mucha naturalidad. Supongo que ellos tienen experiencia entrevistando y sacando el seniority de alguien (es una empresa grande).
+La cuestión es que quedaron muy contentos (según la recluiter) y yo estoy re cagado. Será que me estoy apurando mucho? Tambien estoy cagado de tener gente a cargo, nunca tuve. Les pregunté bien como sería el día a día digamos, y nunca hablaron de que iba a tener gente a cargo. Supongo que eso te lo dicen. En fin me da miedo no cumplir las expectativas, algún consejo? Perdón por hacerla tan larga, no pude resumir mas
+12:07:04 - Rodrigo Ali (@rodrigojali):
+Uhm, hasta donde tengo entendido, la seniority la pone una empresa en realidad, y cada empresa maneja qué consideran ellos en cada seniority. ASí que si para ellos sos Sr, entonces sos Sr y ya.
+12:07:17 - Rodrigo Ali (@rodrigojali):
+Yo en tu lugar, vería si me interesa lo que me proponen, y si me interesa, acepto.
+12:07:26 - Rodrigo Ali (@rodrigojali):
+Digamos, si hubiera un fallo ahí, no sería tuyo por aceptar.
+12:07:34 - Mateo Silguero (@mfsilguero):
+Te diria que no le tengas tanto miedo al cambio, siempre hay una primera vez
+12:07:38 - Juan Scolari (@juanscolari):
+Dale para adelante, toda experiencia nueva va a generar ansiedad e incertidumbre. Es una oportunidad para dar un paso mas y si a vos te cierra intentalo. Tomalo como un desafio y ponele ganas para llevarlo a cabo, vas a aprender una banda
+12:07:48 - Rodrigo Ali (@rodrigojali):
+Claro, en algún momento vas a ser "Sr por primera vez" jajaja
+12:07:57 - Rodrigo Ali (@rodrigojali):
+Felicitaciones, BTW (Y)
+12:08:08 - Mateo Silguero (@mfsilguero):
+Y generalmente no te van a lanzar y que te hagas cargo de todo de una, sino que vas a ir agarrando responsabilidades evolutivamente
+12:08:26 - Mateo Silguero (@mfsilguero):
+y te vas a ir acomodando
+12:08:34 - Mateo Silguero (@mfsilguero):
+o eso seria lo ideal jajaj
+12:10:16 - Martín Valdés de León (@mvaldesdeleon):
+Dale para adelante con toda.
+12:10:32 - Martín Valdés de León (@mvaldesdeleon):
+Crecer siempre implica tener que trabajar afuera de tu confort zone.
+12:11:07 - Martín Valdés de León (@mvaldesdeleon):
+Hay que aprender a sentirse comodo estando incomodo, o estando en puestos donde no vas a tener todas las respuestas de entrada y te las vas a tener que rebuscar.
+12:14:43 - Germán Burgardt (@germanandresburgardt):
+Gracias gente! Esa es la mentalidad que estoy intentando tener! Y que opinan de que un senior tenga gente a cargo? En gral es así? A grandes rasgos digo, entendiendo que cada empresa define los seniority como se les canta
+12:15:11 - Damian Cipolat (@damian.cipolat):
+No tengas miedo de cambiar, de un que un sr tenga gente a cargo y no me parece tan coherente es un puesto mas de team leader ese,
+12:15:17 - Martín Valdés de León (@mvaldesdeleon):
+En general es normal que tengas que coordinar tareas para el resto del equipo.
+12:15:40 - Rodrigo Ali (@rodrigojali):
+Yo creo que lo de "tener gente a cargo" aplica más a management que a la seniority, lo veo más como un rol
+12:15:46 - Rodrigo Ali (@rodrigojali):
+Claro
+12:15:50 - Martín Valdés de León (@mvaldesdeleon):
+Fijate si vas a estar en un rol que REALMENTE sea de Management.
+12:16:03 - Martín Valdés de León (@mvaldesdeleon):
+Es decir, 1-on-1's, Performance reviews, Discusiones salariales, etc
+12:16:05 - Rodrigo Ali (@rodrigojali):
+Pero por ej yo he laburado en lugares donde los Sr podían ser "lideres" o "especialistas", y los lideres eran los que tenian gente a cargo, los especialistas no.
+12:16:17 - Damian Cipolat (@damian.cipolat):
+El tema q muchas veces piden sr + team leader y estas en 2 quilombos a la vez de manejar un equipo y manejar bardos de un nivel tecnico muchisimo mas alto
+12:16:25 - Martín Valdés de León (@mvaldesdeleon):
+Eso seria un poco mas arriesgado de su parte, si no tenes experiencia en esas areas.
+12:16:35 - Martín Valdés de León (@mvaldesdeleon):
+Pero si consideralo una chance para vos moverte para ese lado si te interesa.
+12:16:35 - Rodrigo Ali (@rodrigojali):
+^claro
+12:17:05 - Martín Valdés de León (@mvaldesdeleon):
+A priori asumiria que las responsabilidades van a ser mas las de definir el backlog, asignar tickets, code review, etc.
+12:17:10 - Martín Valdés de León (@mvaldesdeleon):
+Que seria liderazgo tecnico.
+12:17:18 - Germán Burgardt (@germanandresburgardt):
+Claro entiendo perfecto, por lo que entendí es púramente técnico, y nada de management
+12:17:28 - Damian Cipolat (@damian.cipolat):
+debe ser mas technical leader
+12:17:30 - Damian Cipolat (@damian.cipolat):
+que es un poco eso
+12:17:48 - Damian Cipolat (@damian.cipolat):
+que dice Martin, esta bueno pero si te va sacar claramente de tu zona de comfort asi que preparate para el desafio
+12:19:03 - Martín Valdés de León (@mvaldesdeleon):
+IMHO lo que mas me costo es aprender a delegar tareas a gente que se que le va a llevar mas tiempo.
+12:19:11 - Martín Valdés de León (@mvaldesdeleon):
+porque hay mejores usos de _tu_ tiempo
+12:19:20 - Martín Valdés de León (@mvaldesdeleon):
+en general tu tarea es asegurarte que todos los demas devs puedan laburar
+12:19:34 - Martín Valdés de León (@mvaldesdeleon):
+que haya tasks bien definidas, etc.
+12:19:35 - Jorge Cano (@jorgeucano):
++1 a eso Martin
+12:19:42 - Jorge Cano (@jorgeucano):
+a mi tambien me costo decir “agarra esto que tengo yo”
+12:19:49 - Jorge Cano (@jorgeucano):
+y no amontonar tareas
+12:19:55 - Martín Valdés de León (@mvaldesdeleon):
+Totalmente.
+12:20:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial!!!! Te mando msj por dm
+12:20:05 - Jorge Cano (@jorgeucano):
+pero cuando tenes un punto un poco mas “arriba”
+12:20:05 - Martín Valdés de León (@mvaldesdeleon):
+Aprender a no ser el bottleneck de un equipo es lo mas jodido.
+12:20:09 - Jorge Cano (@jorgeucano):
+te toca entender desde otro punto
+12:20:14 - Jorge Cano (@jorgeucano):
+y tratar de que el equipo trabaje con vos
+12:20:16 - Jorge Cano (@jorgeucano):
+y no vos por el equipo
+12:20:50 - Martín Valdés de León (@mvaldesdeleon):
+Trata de que no haya nada que "solo vos puedas hacer".
+12:20:53 - Martín Valdés de León (@mvaldesdeleon):
+Nunca.
+12:21:23 - Damian Cipolat (@damian.cipolat):
+Muy bueno esto, (Trata de que no haya nada que "solo vos puedas hacer".) lo vi tantas veces y lo sigo viendo
+12:21:26 - Germán Burgardt (@germanandresburgardt):
+Muchas gracias gente, me voy a anotar todo esto en algun lado. Me sirve un monton
+12:21:27 - Jorge Cano (@jorgeucano):
+a mi me usan mucho de punto de consultas
+12:21:53 - Jorge Cano (@jorgeucano):
+entonces al final me dejo un tiempo para poder responder dudas y demas
+12:28:17 - Martin Bavio (@mbavio):
+Fake it till you make it
+12:28:52 - Martin Bavio (@mbavio):
+Felicitaciones <@UCBK6KBMM>!
+12:32:10 - Martin Bavio (@mbavio):
+Este punto, creo que yo que es el punto clave para diferenciar a una persona semi senior de una persona senior. El semi senior viene navegando en la cresta de la ola de su ego y cree que puede hacerlo todo y que todo debe pasar por el. El senior se da cuenta que eso no escala, y que debe delegar para tener salud.
+12:32:16 - Martin Bavio (@mbavio):
+Aplica a la vida tambien imho.
+12:32:35 - Martín Valdés de León (@mvaldesdeleon):
+Si, esa fue mi forma de verlo tb.
+12:32:49 - Martín Valdés de León (@mvaldesdeleon):
+No importa cuan GROSO (?) sea, tengo solo 24hs al dia y dos manos para tipear codigo.
+12:33:01 - Martín Valdés de León (@mvaldesdeleon):
+Eso es un upper bound que no vas a poder superar nunca, salvo que te escales como persona.
+12:33:12 - Martin Bavio (@mbavio):
+es que llega a un punto que sos tan groso, que podes soltar y confiar en otros.
+12:33:40 - Santiago Ruffino (@santi_0898):
+Abran hilo para no robarle el protagonismo a German. Alguien que haya hecho entrevista en MercadoLibre como back?
+12:34:02 - Martin Bavio (@mbavio):
+justamente creo ese “tan groso” es darse cuenta que uno no es tan groso como se cree, y que necesita del tiempo de otros para pasar al siguiente nivel.
+12:34:15 - Martin Bavio (@mbavio):
+pero el ego es… complicado. No?
+12:34:28 - Damian Cipolat (@damian.cipolat):
+Me sumo en no robarle el protagonismo a German pero si alguno conoce algo de cognitiva chifle
+12:35:21 - Martín Valdés de León (@mvaldesdeleon):
+Sep.
+12:35:47 - Martin Bavio (@mbavio):
+Yo si hubiera entrado a Amazon y encima metiendoles el modo remoto, me creeria Dios. :eyes:
+12:37:02 - Martín Valdés de León (@mvaldesdeleon):
+Yo estoy intentando aplacar el impostor syndrome, porque los primeros 6 meses son "periodo de prueba".
+12:37:11 - Martín Valdés de León (@mvaldesdeleon):
+¯\_(ツ)_/¯
+12:37:34 - Martin Bavio (@mbavio):
+te hacen firmar un contrato por 6 meses _de prueba_?
+12:37:55 - Martín Valdés de León (@mvaldesdeleon):
+Nono, esta todo en el contrato normal, es comun en alemania.
+12:38:15 - Martín Valdés de León (@mvaldesdeleon):
+Los primeros n meses son "periodo de prueba", durante esos meses te pueden rajar con 2 semanas de preaviso.
+12:38:17 - Martín Valdés de León (@mvaldesdeleon):
+Y sin causa.
+12:38:41 - Martin Bavio (@mbavio):
+mira vos, que terminos tan protectores para las empresas.
+12:38:45 - Martin Bavio (@mbavio):
+casi como aca (?)
+12:39:12 - Martín Valdés de León (@mvaldesdeleon):
+Dps del periodo de prueba estas en planta, y no te pueden rajar sin causa.
+12:39:34 - Martín Valdés de León (@mvaldesdeleon):
+(Asumiendo que tenes un contrato ilimitado, que suele ser lo normal en estos casos)
+12:39:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Felicitaciones <@UCBK6KBMM>!!!!!
+12:40:01 - Martín Valdés de León (@mvaldesdeleon):
+Lo que es un pijazo es que el preaviso para renunciar es de 3 meses (en general). Y en algunas empresas tipo SAP, 6 meses.
+12:43:51 - Martin Bavio (@mbavio):
+ah es una banda de tiempo
+12:44:04 - Martin Bavio (@mbavio):
+lo bueno es que vas a tener cuenta de Chime :stuck_out_tongue:
+12:46:15 - Martín Valdés de León (@mvaldesdeleon):
+Estoy ansioso de tener el email del laburo asi veo el foro privado en Blind
+12:52:31 - Martin Bavio (@mbavio):
+tengo un amigo que entro a Amazon que se llama Alfonso Maschio
+12:52:41 - Martin Bavio (@mbavio):
+le dieron <mailto:maschia@amazon.com|maschia@amazon.com> :joy:
+12:52:43 - Martin Bavio (@mbavio):
+lo mataron
+13:01:32 - Germán Burgardt (@germanandresburgardt):
+Gracias gente! Mañana tengo el psicotécnico y de ahí me mandan una propuesta ( o un rechazo). Al parecer quedaron muy muy contentos, según la recluiter, y la entrevista fue bastante bien, así que veremos que pasa
+13:31:01 - Adrián Velasco (@adrivelasco1506):
+Felicitaciones!
+13:57:36 - Germán Burgardt (@germanandresburgardt):
+Gracias!
+17:30:42 - Pablo Mendez (@mendev):
+que piensan de tomar evaluaciones técnicas por medio de Hackerrank?
+17:30:58 - Pablo Mendez (@mendev):
+me refiero a evaluaciones de ingreso...
+17:31:57 - Pablo Mendez (@mendev):
+nunca me fue bien jajaja igual hice 2 en mi vida pero nunca me fue bien. Capaz que eso indica que no soy bueno...
+17:32:25 - Pablo Mendez (@mendev):
+aunque lo que creo es que no es exactamente el contexto en el que laburarias todos los dias...
+17:33:09 - Pablo Mendez (@mendev):
+tampoco sabria decir si el resultado de ese hackerrank indicaria que no soy "apto" para ese laburo...
+17:33:13 - Julian (@jantonielli01):
+A mi me hincha mucho los huevos
+17:33:30 - Julian (@jantonielli01):
+Me parecen una verga las entrevistas de ese estilo
+17:33:47 - Rodrigo Ali (@rodrigojali):
+A mi también. Salvo que sea para algo donde vas a hacer mucha algoritmia pura y dura
+17:34:02 - Rodrigo Ali (@rodrigojali):
+Onda "resolveme este problema con grafos, de 0"
+17:34:08 - Julian (@jantonielli01):
+Safan las que son automatizadas y que con que pasen los tests esté todo ok, porque es un filtro rapido y lest, pero ponerme a optimizar una mierda que ordene arboles en vivo es una estupidez
+17:34:16 - Rodrigo Ali (@rodrigojali):
+Claro jajaja
+17:34:30 - Martín Valdés de León (@mvaldesdeleon):
+Diria que depende. Cosas nivel basico/medio, en general lo unico que quieren ver es "si podes codear to spec".
+17:34:35 - Rodrigo Ali (@rodrigojali):
+Y cuando ves lo que hace la empresa, hace outputs en excel
+17:34:37 - Martín Valdés de León (@mvaldesdeleon):
+Porque son algoritmos que deberias poder googlear.
+17:34:59 - Martín Valdés de León (@mvaldesdeleon):
+En general es un filtro antes de una primer entrevista de verdad.
+17:35:22 - Julian (@jantonielli01):
+Se, pero en muchos lugares esa es la entrevista de _verdad_
+17:35:22 - Martín Valdés de León (@mvaldesdeleon):
+Y no deberia llevarte mucho.
+17:35:26 - Julian (@jantonielli01):
+que es una pelotudez
+17:35:39 - Pablo Mendez (@mendev):
+igual los que me han tocado es hacer ejercicios con tiempo determinado. Por ejemplo 3 ejercicios en 1 hora y 30 min
+17:35:47 - Martín Valdés de León (@mvaldesdeleon):
+Sep.
+17:36:02 - Rodrigo Ali (@rodrigojali):
+Se
+17:36:14 - Martín Valdés de León (@mvaldesdeleon):
+Para mi depende de la dificultad del problema. En general deberian ser cosas que te lleva 5' codear si ya las sabes.
+17:36:24 - Martín Valdés de León (@mvaldesdeleon):
+Y deducibles si no las sabes.
+17:36:40 - Rodrigo Ali (@rodrigojali):
+Y googleables para implementar
+17:36:44 - Martín Valdés de León (@mvaldesdeleon):
+Onda, "balancear parentesis".
+17:36:50 - Rodrigo Ali (@rodrigojali):
+No te digo copypastear codigo pero si la idea del algoritmo
+17:37:01 - Martín Valdés de León (@mvaldesdeleon):
+listar todas las palabras de 5 letras en un juego de boggle
+17:37:29 - Pablo Mendez (@mendev):
+claro, es que por ejemplo recuerdo uno que me tocó y los primeros test que corrió los pasó trnaqui y justo los demás ni me daba la posibilidad de poder testearlo en un IDE que seria lo que siempre haces, dia a dia
+17:38:45 - Martín Valdés de León (@mvaldesdeleon):
+Que se yo. Para mi en cierta forma hay que aceptar que es una forma normal de evaluar, y hay que acostumbrarse a tirar codigo en editores online y eso. Agradece que no es whiteboard.
+17:38:46 - Pablo Mendez (@mendev):
+o sea, no me daba los inputs que estaba metiendo
+17:39:01 - Martín Valdés de León (@mvaldesdeleon):
+Todos esos sitios te dejan practicar por tu cuenta.
+17:39:12 - Rodrigo Ali (@rodrigojali):
+Bueno, a mi en una entrevista de esas me pasaban un array de números. El array representaba una colección de ciudades, que estaban conectadas según el indice y su valor (por ejemplo, indice 0, valor 9, las ciudades 0 y 9 estaban conectadas directamente). Entonces yo tenía que devolver un array que listara todas las ciudades que se encontraban en todas las distancias desde la capital.
+
+Por ejemplo si el numero más alto era un 12, entonces tenía que devolver un array de 12 elementos (donde cada indice representa "distancia") y poner como valores de los indices, la cantidad de ciudades que cumplían esa distancia desde la capital. Si había 0 ciudades en una distancia determinada, entonces devolver 0 como valor de ese indice.
+17:39:14 - Santiago Ruffino (@santi_0898):
+Nunca habia visto hackerrank
+17:39:15 - Rodrigo Ali (@rodrigojali):
+Y fue como...
+17:39:16 - Santiago Ruffino (@santi_0898):
+Vamos a ver que tan mal estoy
+17:40:11 - Julian (@jantonielli01):
+Si, para mí tenes que bancartela un toque y practicar por un tiempo esos ejercicios
+17:40:21 - Julian (@jantonielli01):
+Aceptando que son una verga, pero bué
+17:40:21 - Pablo Mendez (@mendev):
+yo creo que hacer un test con hackerrank no te permite conocer el potencial que puede tener la persona realmente
+17:40:39 - Julian (@jantonielli01):
+El libro *cracking the coding interview* es bueno para eso
+17:40:42 - Martín Valdés de León (@mvaldesdeleon):
+<@UFFG5EPGU> podra sonarte re forzado eso, pero vas a tener meetings con clientes que van a ser peor
+17:40:51 - Martín Valdés de León (@mvaldesdeleon):
+:smile:
+17:40:55 - Pablo Mendez (@mendev):
+por supuesto que si los hace todo bien, lo vas a citar para la proxima entrevista pero no creo que sea algo que te permita evaluar verdaderamente el potencial..
+17:40:57 - Rodrigo Ali (@rodrigojali):
+Por suerte no me pasó todavía en las meetings que tuve jajaja
+17:41:09 - Julian (@jantonielli01):
+Es un filtro más
+17:41:14 - Martín Valdés de León (@mvaldesdeleon):
+otra que el que va a la ferreteria a pedir "El cosito para el coso"
+17:41:20 - Rodrigo Ali (@rodrigojali):
+Pero como dice Pablo, yo creo que depende mucho, y debería ser relacionado a lo que aplicás.
+17:42:02 - Martín Valdés de León (@mvaldesdeleon):
+Anyway, te estan describiendo un grafo con n nodos y n aristas.
+17:42:11 - Rodrigo Ali (@rodrigojali):
+Si, y nunca hice ejercicios de grafos :stuck_out_tongue:
+17:42:12 - Martín Valdés de León (@mvaldesdeleon):
+Y te estan pidiendo que hagas un BFS y lleves la cuenta.
+17:42:15 - Rodrigo Ali (@rodrigojali):
+De pedo lo pude identificar como tal
+17:42:37 - Martín Valdés de León (@mvaldesdeleon):
+podes implementarlo de modo naive, mutando todo
+17:42:43 - Martín Valdés de León (@mvaldesdeleon):
+pintando las ciudades que visitaste
+17:42:46 - Rodrigo Ali (@rodrigojali):
+Onda yo apliqué como frontend y me tiraron eso y fue como unexpected para mi
+17:42:46 - Martín Valdés de León (@mvaldesdeleon):
+y deberia salirte
+17:42:56 - Martín Valdés de León (@mvaldesdeleon):
+igual para frontend es cualquiera eso
+17:43:02 - Rodrigo Ali (@rodrigojali):
+That's my point
+17:43:10 - Martín Valdés de León (@mvaldesdeleon):
+_solo_ me pareceria aceptable si es en vivo, y e interviewer te va guiando/tirando pistas
+17:43:24 - Martín Valdés de León (@mvaldesdeleon):
+pq again, la idea es ver si podes entender el problema, encararlo
+17:43:24 - Rodrigo Ali (@rodrigojali):
+Claro, ahí te lo puedo llegar a entender
+17:43:28 - Martín Valdés de León (@mvaldesdeleon):
+no si ya sabes la respuesta de memoria
+17:43:35 - Rodrigo Ali (@rodrigojali):
+Si sabés preguntar, cómo preguntar, pensar en voz alta la solución, recibir feedback
+17:43:35 - Rodrigo Ali (@rodrigojali):
+Etc
+17:43:51 - Julian (@jantonielli01):
+Aunque por el otro lado, es un test de CS básico. Capaz quieren checkear eso
+17:44:06 - Julian (@jantonielli01):
+Cualquier pibe que haga hecho un par de cuatris en una fac ya se cruzo con ese problema
+17:44:13 - Julian (@jantonielli01):
+Entonces es googlear el algoritmo y listo
+17:44:43 - Julian (@jantonielli01):
+Que tan relevante es esto a codear frontend es otra pregunta :stuck_out_tongue:
+17:44:45 - Rodrigo Ali (@rodrigojali):
+Yo hice la facu hace 10 años, algo recuerdo haber visto alguna vez, similar (no eso, porque Sistemas era medio raro), y no me acordaba cómo es ese tipo de problemas :stuck_out_tongue:
+17:45:02 - Rodrigo Ali (@rodrigojali):
+"Hice" as in "Cursé tercer año regularizado y dropié"
+17:45:17 - Rodrigo Ali (@rodrigojali):
+Pero de nuevo, fue por hackerrank, para frontend Jr
+17:45:30 - Rodrigo Ali (@rodrigojali):
+¯\_(ツ)_/¯
+17:46:25 - Santiago Ruffino (@santi_0898):
+Yo no me acuerdo los algoritmos de ordenamiento de listas
+17:46:34 - Santiago Ruffino (@santi_0898):
+Ni los tiempos de ejecucion de cada uno
+17:46:48 - Martín Valdés de León (@mvaldesdeleon):
+merge sort es piola y re intuitivo de implementar
+17:47:02 - Julian (@jantonielli01):
+Con que te acuerdes los nombres y los puedas entender rapido al googlearlos, ya estás
+17:47:07 - Julian (@jantonielli01):
+mergesort es lo más
+17:47:20 - Pablo Miceli (@pablomiceli24):
+Yo tuve que hacer un hackerrank para frontend hace poco, tenia que hacer un form y que pase los tests... estaban mal los tests xD. Todavía no se si eso era parte de la prueba o no
+17:48:10 - Rodrigo Ali (@rodrigojali):
+Me acuerdo un loco en reddit creo que fue, que mostró el sleepsort jajaja, era genial
+17:48:17 - Gonza Espeche (@espeche.g):
+Codewars está bueno
+17:48:30 - Julian (@jantonielli01):
+radixsort tmb es flashero
+17:48:31 - Santiago Ruffino (@santi_0898):
+Solo me acuerdo del Bubble, pero ni ahi de como funcionana
+17:49:01 - Martín Valdés de León (@mvaldesdeleon):
+heapsort es piola pq de paso aprendes a hacer heaps
+17:49:13 - Martín Valdés de León (@mvaldesdeleon):
+y no vas a pechearla la proxima vez que armes un dijkstra o a*
+17:49:29 - Rodrigo Ali (@rodrigojali):
+Más despacio cerebrito
+17:49:41 - Rodrigo Ali (@rodrigojali):
+No llego a googlear todo
+17:50:01 - Julian (@jantonielli01):
+no me acuerdo como era heapsort, solo lo de los arrays-arboles mágicos
+17:50:34 - Martín Valdés de León (@mvaldesdeleon):
+metes toda la data en un heap
+17:50:39 - Martín Valdés de León (@mvaldesdeleon):
+que mantiene una relacion de orden
+17:50:41 - Martín Valdés de León (@mvaldesdeleon):
+y dps la sacas
+17:50:44 - Martín Valdés de León (@mvaldesdeleon):
+ordenada
+17:54:04 - Gonza Gluzman (@gonza):
+Creo que con esa info la sigo pecheando si tengo que armar un dijkstra (sea lo que sea)
+17:54:37 - Gonza Gluzman (@gonza):
+Yo sólo recuerdo cómo implementar quicksort y bubblesort
+17:55:08 - Pablo Miceli (@pablomiceli24):
+acordarse cosas no sirve nada, que se acuerde google :stuck_out_tongue:
+17:55:37 - Martín Valdés de León (@mvaldesdeleon):
+acordarse la implementacion en general no es necesario, pero si ayuda saber los nombres/keywords que tenes que darle a google
+17:55:39 - Pablo Miceli (@pablomiceli24):
+y digo eso por que tengo re mala memoria y estoy resentido
+17:56:37 - Martín Valdés de León (@mvaldesdeleon):
+ademas, en general todos estos problemas son encarables y resolvibles por tu cuenta, no es que si no sabes la respuesta cagaste.
+17:56:43 - Julian (@jantonielli01):
+un libro copado y re fumado de esas cosas es Purely Functional Data Structures
+17:56:48 - Julian (@jantonielli01):
+por si a alguno le interesa eso
+17:56:48 - Martín Valdés de León (@mvaldesdeleon):
+seguramente no sea la solucion optima, pero deberias poder escribir algo.
+17:56:56 - Pablo Miceli (@pablomiceli24):
+una vez me habia hecho sitio personal, y habia puesto "buscador en google profesional" o algo así
+17:57:00 - Pablo Miceli (@pablomiceli24):
+mis amigos se me cagaban de risa
+17:57:04 - Pablo Miceli (@pablomiceli24):
+pero sigo sosteniendo que es una re skill
+17:57:27 - Julian (@jantonielli01):
+es literal la top skill para devs imo
+17:57:51 - Santiago Ruffino (@santi_0898):
+Best StackOverflow searcher ?)
+17:57:54 - Gonzalo González Mora (@gonzalogm):
+jajaj
+17:58:12 - Pablo Miceli (@pablomiceli24):
+el copy pasta mas rapido del oeste
+17:58:38 - Gonzalo González Mora (@gonzalogm):
+Pero sí, es zarpado cómo se nota la dif en alguien que busca todo el día como un dev a una persona que no lo hace. La diferencia de velocidad de cómo buscar y scannear una web o buscar keywords es enorme.
+17:58:39 - Rodrigo Ali (@rodrigojali):
+Mi pareja encuentra cosas en Google que yo no puedo, así que doy fe que es una real skill.
+17:58:51 - Rodrigo Ali (@rodrigojali):
+Tecnopatía creo que se llama la habilidad :stuck_out_tongue:
+18:00:31 - Santiago Ruffino (@santi_0898):
+Un compañero del trabajo no podia encontrar en internet como cambiar la hora de su reloj
+18:00:39 - Santiago Ruffino (@santi_0898):
+Llegue yo y lo encontre en 15 segundos
+18:00:54 - Santiago Ruffino (@santi_0898):
+Igual, gracias a este Slack, me esta quedando obsoleta esa tecnica
+18:05:07 - Gonza Gluzman (@gonza):
+El famoso full slack dev!
+18:28:47 - Leandro Doldán (@leandromdoldan):
+Tengo una consulta para gente que esté laburando hace muchos años, esté en posiciones senior, y/o se considere MUY bueno en lo que hace
+18:29:12 - Leandro Doldán (@leandromdoldan):
+Si volvieran a tener 18 hoy en día ¿Estudiarían una carrera de grado?
+18:29:41 - Leandro Doldán (@leandromdoldan):
+Siento que todas las horas en la facultad las podría estar invirtiendo en muchos libros y muchos cursos
+18:31:07 - Marcos Casagrande (@marcoscvp90):
+Yo personalmente no, pero dejé la carrera después del primer año, y no me arrepiento.
+18:32:06 - Marcos Casagrande (@marcoscvp90):
+Pero depende de cada uno eso, lo que me funciona a mi, no necesariamente le funcione a otro.
+18:33:11 - Martín Valdés de León (@mvaldesdeleon):
+Yo volveria a estudiar, pero mi truco es que lo que estudie no tiene nada que ver con lo que hago.
+18:33:37 - Gonza Gluzman (@gonza):
+Cuánto te queda para terminar?
+18:34:05 - Gonza Gluzman (@gonza):
+Yo conocí gente muy piola (desde lo humano y desde lo técnico) en la facultad
+18:34:22 - Gonza Gluzman (@gonza):
+Y meterme de ayudante me hizo crecer muchísimo
+18:35:21 - Gonza Gluzman (@gonza):
+Pero terminé abandonando y me arrepiento de no haber hecho una de dos:
+1. meterle a full para sacarme la carrera de encima cuando todavía podían mantenerme mis viejos
+2. abandonar muuucho antes la facu
+18:35:27 - Leandro Doldán (@leandromdoldan):
+Qué estudiarías Martín? Qué ventaja creés que te daría?
+18:36:26 - Leandro Doldán (@leandromdoldan):
+Por qué sería ese segundo punto Gonzalo? El primero lo comparto plenamente
+18:36:58 - Leandro Doldán (@leandromdoldan):
+En segundo año, pero encuentro demasiado demandante laburar siete horas y cursar hasta las once. Capaz es un tema de la UBA
+18:37:23 - Gonza Gluzman (@gonza):
+Porque el ROI me terminó dando medio mal por haberle dedicado demasiado tiempo
+18:37:43 - Julian (@jantonielli01):
+Yo estoy terminando este año la fac 
+18:38:09 - Gonza Gluzman (@gonza):
+Vamos todos a tirarte huevos y harina <@U7MP5R4MC>
+18:38:09 - Julian (@jantonielli01):
+La verdad me dio muchísima paja 
+18:38:10 - Julian (@jantonielli01):
+Y los primeros años fue muy estresante porque hice toda la carrera laburando
+18:38:39 - Gonza Gluzman (@gonza):
+El tema es cuánto te cuesta obtener en la facu y fuera de la facu lo que estás buscando
+18:39:18 - Julian (@jantonielli01):
+Y, que se yo, yo empecé a laburar en backend sin saber que era una base de datos 
+18:39:30 - Julian (@jantonielli01):
+Y lo vi en la fac 2 años después jaj
+18:40:08 - Gonza Gluzman (@gonza):
+Yo me metí en la UTN a hacer ing. en Sistemas, luego de un tiempo llegué a la conclusión de que hacer software no tiene casi relación con las ingenierías (y sigo estando de acuerdo con esa conclusión)
+18:40:12 - Leandro Doldán (@leandromdoldan):
+Qué estudiás Julian? Volviendo el tiempo atrás ¿Volverías a hacer la carrera?
+18:40:33 - Gonza Gluzman (@gonza):
+Entonces la mayoría de las materias que tuve que fumarme me parecen al pedo (para hacer software)
+18:41:09 - Gonza Gluzman (@gonza):
+En contraposición, en un momento me anoté en Filosofía en la UBA, y encontré que algunas cosas me servían para programar mejor :sweat_smile:
+18:41:27 - Gonza Gluzman (@gonza):
+Con esto no quiero decir en absoluto que sea completamente al pedo estudiar Ing. en Sistemas en la UTN
+18:41:45 - Gonza Gluzman (@gonza):
+Pero sí que es MUCHO tiempo y esfuerzo para lo que te da
+18:45:44 - Martín Valdés de León (@mvaldesdeleon):
+Yo estudie Quimica.
+18:45:52 - Martín Valdés de León (@mvaldesdeleon):
+Creo que cualquier Ciencia Exacta es buena eleccion.
+18:46:02 - Martín Valdés de León (@mvaldesdeleon):
+Pero en general, lo que tengas ganas de aprender.
+18:46:58 - Martín Valdés de León (@mvaldesdeleon):
+No se si _ventaja_, pero aporta un monton de experiencias.
+18:59:40 - Luciana Portias (@lportias):
+Eso es lo más importante, ya sea para js o para css (el otro día una diseñadora me pregunto si se podía “limitar un texto y ponerle los 3 puntitos” y mi respuesta fue “si, pero aguantame que lo googleo por que de memoria ni idea” :stuck_out_tongue_winking_eye:
+19:02:47 - Juan Scolari (@juanscolari):
+<@U0TFEHWEA> tenes idea como esta la oferta laboral para ingenieros quimicos en alemania? tengo un amigo que esta por recibirse y le gustaria ir (sabe aleman tambien)
+19:11:00 - Luciana Portias (@lportias):
+Yo hice diseño multimedial en la Da Vinci... termine la cursada, pero no di los últimos finales que me quedaron. Un par de años más tarde recursé las materias con el objetivo de terminar todo y me di cuenta de varias cosas... 
+1) todos los finales en la DV son en grupo y se me hizo re difícil encontrar gente que quisiera hacer grupo conmigo
+2) en mi carrera laboral nunca me pidieron un título, siempre fue más importante la experiencia 
+3) es difícil que una carrera (por más que sea una corta de 3 años) no se quede en la historia en cuanto a lenguajes de programación 
+Así que más que nada por el 3, si tuviera que hacer todo de nuevo, me pagaría los cursos de codeacademy o similar y trataría de adelantarme con las últimas tecnologías 
+19:12:45 - Gonza Gluzman (@gonza):
+Ojo que los fundamentos de programación son muuuucho más estables que los lenguajes de moda
+19:12:52 - Gonza Gluzman (@gonza):
+Por eso recomiendo Mumuki
+19:13:12 - Leandro Echevarria (@echevarrialeandro):
+Si tuviera que hacer una carrera de grado teniendo 18 de nuevo y sabiendo como es el tema, elegiria alguna que me de fuerte en cuanto a abstracciones, modelos y esa clase de cosas
+19:13:15 - Martín Valdés de León (@mvaldesdeleon):
+jaj, ni idea
+19:13:19 - Martín Valdés de León (@mvaldesdeleon):
+en la puta vida labure de quimico
+19:13:47 - Julian (@jantonielli01):
+Ingeniería en informática en el Itba 
+19:14:55 - Julian (@jantonielli01):
+Me lo pregunto seguido, me inclino hacia el no
+19:15:48 - Leandro Echevarria (@echevarrialeandro):
+Tambien porque me interesan esos temas, no de mandado a la guerra :stuck_out_tongue:
+19:26:14 - Juan Scolari (@juanscolari):
+le voy a decir que se ponga a programar :smile:
+19:40:14 - Leandro Doldán (@leandromdoldan):
+Priorizarías una carrera como Ciencias de la Computación, por ejemplo, por sobre trabajar?
+19:41:06 - Aldo Gabriel Rojas (@aldogrojas5):
+Yo un poco me arrepiento... hice 6 años en una técnica. Me metí en medicina, terminé la carrera, hice 2 especialidades y ahora estoy arrancando con esto... pero por otro lado, las experiencias fueron enriquecedoras en otros aspectos fuera del laboral
+19:44:00 - Martín Aimar (@maimar):
+yo arrancaría lo antes posible a hacer deporte
+19:44:19 - Leandro Echevarria (@echevarrialeandro):
+Hoy por hoy no. Si volvemos a los 18 con el conocimiento de hoy tampoco lo haria. Haria la carrera a la par y demas pero ya teniendo un trabajo en el rubro no lo dejaria de lado por una carrera universitaria
+19:45:08 - Juan Bono (@juanbono):
+Para mí depende de si te parecen divertidos los temas que vas a estudiar, como decía gonza, hay muchas materias que no te afectan directamente a la hora de codear. Pero que son muy interesantes (se me vienen a la mente análisis de señales, teoría de control, simulación). Además que conoces mucha gente y cosas asi. Ahora sí querés hacer una carrera con la mentalidad de que te posibilite mejorar en tu trabajo, no estoy muy seguro de que sea lo mejor. Porque los planes de carrera suelen estar desactualizados (no siempre igual eh) y te vas a comer varias materias teóricas que capaz no le encuentres aplicación (dependiendo de a qué te dediques, por ejemplo tuve compañeros que le fueron mucho más útiles las materias de electrónica/control que a mí debido a que no se tiraron para la parte de programación)
+19:52:32 - Juan Bono (@juanbono):
+Jajaj Martín el otro día encontré algo que capaz te guste  <https://santafe.edu/news-center/news/cost-computation>
+19:54:43 - Luciana Portias (@lportias):
+Por otro lado las experiencias laborales fuera del rubro también aportan... mi primer laburo fue en investigación de mercado y cuando me metí a codear era la única que hacía UX (que todavía ni si quiera era una disciplina reconocida)
+20:05:47 - Juan Scolari (@juanscolari):
+los que vienen de otro palo tienen la posibilidad de implementar un proyecto relacionado a lo que estudiaron y sacan lo mejor de los dos mundos
+20:06:48 - Juan Scolari (@juanscolari):
+si sos medico y te mandas a hacer una startup de medicina suma mucho
+20:18:13 - Aldo Gabriel Rojas (@aldogrojas5):
+Jejejeje si se te ocurre alguna idea copada contame! Estoy armando algo para mi laburo pero está verdolaga
+20:24:49 - Pablo Miceli (@pablomiceli24):
+yo si volviera a los 18, haría el primer año de la facu como para tener una base minima y buscaría laburo al toque. Me paso como un boludo que empece a laburar cuando era alumno mas avanzado en la carrera, y me di cuenta que no sabia una mierda realmente.
+20:38:02 - Juan Scolari (@juanscolari):
+- Recetas electronicas
+- Consultas digitales con profesionales
+- Deteccion de enfermedades a traves de ecografias/radiografias
+20:39:00 - Juan Scolari (@juanscolari):
+<https://angel.co/companies?teches[]=Healthcare>
+20:59:46 - Gonza Gluzman (@gonza):
+Yo creo que me iría de joda todo el tiempo :fernet2:
