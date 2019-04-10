@@ -1,0 +1,730 @@
+09:34:42 - Ezequiel Gentile (@gentilmente):
+¿qué tipo de programación te atrae? saber eso es importante, por mas que luego decidas cambiar de rumbo. Pero encarar por un lado que no te motive puede hacer que pienses que no es para vos.
+10:01:47 - Jhon (@jhonzuritaz695):
+Hice un curso introductorio de programación, comit, quería empezar por lo básico. 
+HTML css javascript, después profundizar en PHP .net etc, bueno soy muy nuevo así q imagino que en el proceso tb iré encontrando mi camino para lo que me apasione.
+10:03:12 - Jhon (@jhonzuritaz695):
+Pasa que encontré este instituto que me cobra 16 lucas por cuatri. Teclab.
+10:03:34 - Jhon (@jhonzuritaz695):
+Se me hizo un montón los 4 cuatris
+10:04:09 - Jhon (@jhonzuritaz695):
+Por eso me animé a pedir opiniones acá. Por ahí saben de alguno tb bueno q no sea tan alto el costo
+10:21:12 - Mariano Argañaras (@arga.mariano):
+Te diria que mas que PHP  y .Net vayas por Python
+10:23:01 - Rodrigo Ali (@rodrigojali):
+<@U3PGN6TMH> si te sirve, yo hice solamente FreeCodeCamp y cuando terminé todo lo relacionado a frontend, salí a buscar laburo como si no hubiera mañana y conseguí.
+10:23:35 - Rodrigo Ali (@rodrigojali):
+Ahora reformularon los paths y está (para mi) actualizado y mejor planteado.
+10:25:40 - Luis Alvarez (@luistensai):
+yo te diría que te especialices en una tech, con javascript podés meterte en todo el stack (back y front), no sé para qué necesitarías otro lenguaje si querés hacer web
+10:25:53 - Martín Aimar (@maimar):
+se acaba el mundo, vamos a buscar laburo
+10:26:28 - Maxi (@tholem98):
+O nodejs tambien que ayuda bastante a diversificarte e ir probando, con el mismo lenguaje hasta ver qué te gusta
+10:28:47 - Luciana Portias (@lportias):
+Ni te gastes con php... HTML, CSS (y algun preprocesador), Javascript, Angular y/o React y no vas a necesitar mas nada en la vida.. jejeje
+10:55:28 - Jhon (@jhonzuritaz695):
+Claro.   Seguro en el proceso  iré encontrando gente copada como uds que tengan experiencias para saber cuáles sirven más q las demás .
+10:56:22 - Jhon (@jhonzuritaz695):
+Empezar es lo difícil ya q para los q arrancamos de lo básico es como, hay diez mil caminos por donde voy :joy:
+10:57:59 - Jhon (@jhonzuritaz695):
+Que copado maestro! Eso tb espero ya sea autodidacta o con instituto.   Quiero laburar de esto. Aunque tb estoy haciendo psicología en la UBA
+10:58:06 - Jhon (@jhonzuritaz695):
+Dos cosas q me apasionan
+11:00:26 - Ezequiel Gentile (@gentilmente):
+entonces dale para el lado de Psi cognitiva y metete con Inteligencia Artificial. NI mires web
+11:01:01 - Ezequiel Gentile (@gentilmente):
+Pyhton es buena entrada, se popularizó mucho en IA
+11:04:02 - javier jimenez (@pablojavierjimenez):
+oooo hay frameworks que no conocia :francella:
+<https://medium.freecodecamp.org/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075>
+11:05:08 - Mati Dastugue (@matiasdastugue):
+￼Hay algunas que son librerias, no frameworks igual
+11:07:17 - Martín Aimar (@maimar):
+tomeito, tomato..
+11:08:10 - javier jimenez (@pablojavierjimenez):
+seee ya se,
+creo que no es la parte importante de ... bla etc.
+11:10:06 - Emiliano Ferreyra (@emiliano21):
+eliminaron el canal de forobardo puede ser?
+11:10:20 - Santiago Ruffino (@santi_0898):
+Se llama <#C0PHBKNNA|random>
+11:10:23 - Mateo Silguero (@mfsilguero):
+Se le cambio el nombre a <#C0PHBKNNA|random>
+11:10:44 - Mateo Silguero (@mfsilguero):
+en el mismo channel se explica el motivo
+11:10:51 - Julian (@jantonielli01):
+Me sacaron lo que más quería, si 
+11:10:54 - Julian (@jantonielli01):
+Bue
+11:13:12 - Luciana Portias (@lportias):
+obvio... a esta altura php ya casi que ni se usa, asi que seria perder el tiempo, pero todo framework o libreria con javascript va como piña
+11:26:24 - Brian Hume (@brianh20):
+entonces ahora la cuestion existencial de si existe o no el full stack se "debate" en random?
+11:26:25 - Brian Hume (@brianh20):
+jjajajajaja
+11:27:28 - Martín Aimar (@maimar):
+a las manos, en las meetups
+09:34:42 - Ezequiel Gentile (@gentilmente):
+¿qué tipo de programación te atrae? saber eso es importante, por mas que luego decidas cambiar de rumbo. Pero encarar por un lado que no te motive puede hacer que pienses que no es para vos.
+10:01:47 - Jhon (@jhonzuritaz695):
+Hice un curso introductorio de programación, comit, quería empezar por lo básico. 
+HTML css javascript, después profundizar en PHP .net etc, bueno soy muy nuevo así q imagino que en el proceso tb iré encontrando mi camino para lo que me apasione.
+10:03:12 - Jhon (@jhonzuritaz695):
+Pasa que encontré este instituto que me cobra 16 lucas por cuatri. Teclab.
+10:03:34 - Jhon (@jhonzuritaz695):
+Se me hizo un montón los 4 cuatris
+10:04:09 - Jhon (@jhonzuritaz695):
+Por eso me animé a pedir opiniones acá. Por ahí saben de alguno tb bueno q no sea tan alto el costo
+10:21:12 - Mariano Argañaras (@arga.mariano):
+Te diria que mas que PHP  y .Net vayas por Python
+10:23:01 - Rodrigo Ali (@rodrigojali):
+<@U3PGN6TMH> si te sirve, yo hice solamente FreeCodeCamp y cuando terminé todo lo relacionado a frontend, salí a buscar laburo como si no hubiera mañana y conseguí.
+10:23:35 - Rodrigo Ali (@rodrigojali):
+Ahora reformularon los paths y está (para mi) actualizado y mejor planteado.
+10:25:40 - Luis Alvarez (@luistensai):
+yo te diría que te especialices en una tech, con javascript podés meterte en todo el stack (back y front), no sé para qué necesitarías otro lenguaje si querés hacer web
+10:25:53 - Martín Aimar (@maimar):
+se acaba el mundo, vamos a buscar laburo
+10:26:28 - Maxi (@tholem98):
+O nodejs tambien que ayuda bastante a diversificarte e ir probando, con el mismo lenguaje hasta ver qué te gusta
+10:28:47 - Luciana Portias (@lportias):
+Ni te gastes con php... HTML, CSS (y algun preprocesador), Javascript, Angular y/o React y no vas a necesitar mas nada en la vida.. jejeje
+10:55:28 - Jhon (@jhonzuritaz695):
+Claro.   Seguro en el proceso  iré encontrando gente copada como uds que tengan experiencias para saber cuáles sirven más q las demás .
+10:56:22 - Jhon (@jhonzuritaz695):
+Empezar es lo difícil ya q para los q arrancamos de lo básico es como, hay diez mil caminos por donde voy :joy:
+10:57:59 - Jhon (@jhonzuritaz695):
+Que copado maestro! Eso tb espero ya sea autodidacta o con instituto.   Quiero laburar de esto. Aunque tb estoy haciendo psicología en la UBA
+10:58:06 - Jhon (@jhonzuritaz695):
+Dos cosas q me apasionan
+11:00:26 - Ezequiel Gentile (@gentilmente):
+entonces dale para el lado de Psi cognitiva y metete con Inteligencia Artificial. NI mires web
+11:01:01 - Ezequiel Gentile (@gentilmente):
+Pyhton es buena entrada, se popularizó mucho en IA
+11:04:02 - javier jimenez (@pablojavierjimenez):
+oooo hay frameworks que no conocia :francella:
+<https://medium.freecodecamp.org/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075>
+11:05:08 - Mati Dastugue (@matiasdastugue):
+￼Hay algunas que son librerias, no frameworks igual
+11:07:17 - Martín Aimar (@maimar):
+tomeito, tomato..
+11:08:10 - javier jimenez (@pablojavierjimenez):
+seee ya se,
+creo que no es la parte importante de ... bla etc.
+11:10:06 - Emiliano Ferreyra (@emiliano21):
+eliminaron el canal de forobardo puede ser?
+11:10:20 - Santiago Ruffino (@santi_0898):
+Se llama <#C0PHBKNNA|random>
+11:10:23 - Mateo Silguero (@mfsilguero):
+Se le cambio el nombre a <#C0PHBKNNA|random>
+11:10:44 - Mateo Silguero (@mfsilguero):
+en el mismo channel se explica el motivo
+11:10:51 - Julian (@jantonielli01):
+Me sacaron lo que más quería, si 
+11:10:54 - Julian (@jantonielli01):
+Bue
+11:13:12 - Luciana Portias (@lportias):
+obvio... a esta altura php ya casi que ni se usa, asi que seria perder el tiempo, pero todo framework o libreria con javascript va como piña
+11:26:24 - Brian Hume (@brianh20):
+entonces ahora la cuestion existencial de si existe o no el full stack se "debate" en random?
+11:26:25 - Brian Hume (@brianh20):
+jjajajajaja
+11:27:28 - Martín Aimar (@maimar):
+a las manos, en las meetups
+11:27:57 - Santiago Ruffino (@santi_0898):
+Paintball y se soluciona todo
+11:28:43 - Luciana Portias (@lportias):
+sos de los que si creen en eso o de los que no?
+11:34:31 - Pedro (@pedro461):
+no quiero ponerme a bardear, pero no existe el fullstack, es algo marketinero :slightly_smiling_face:
+11:35:17 - Pedro (@pedro461):
+si podés decir onda fullstack orientado a frontend.. y capaz te la acepto jajaja
+11:35:38 - Jhon (@jhonzuritaz695):
+Sabés que escuche mucho eso.. que se revalorizo un montón phyton por el tema AI
+11:36:19 - Marcos Casagrande (@marcoscvp90):
+Para mi si existe. No existe tal cosa como full stack junior.
+11:37:13 - Luciana Portias (@lportias):
+yo tengo un ex compañero que se presentaba como full stak y cada vez que se le movia el margen un texto entraba en panico :face_with_rolling_eyes::rolling_on_the_floor_laughing:
+11:37:28 - Mendo (@nicolas.mendonca):
+Uh que divertido, llegue justo para ver el forobardo. Ya vuelvo, voy a buscar los pochoclos
+11:37:30 - Pedro (@pedro461):
+jajaa
+11:37:38 - Gonza Espeche (@espeche.g):
+Para mi si, es el concepto de ser un todo terreno, por más que la tengas más clara en el front o back. Es poder y saber moverse entre ambos.
+11:38:18 - Pedro (@pedro461):
+me pasa lo mismo, me contrataron como fullstack, yo le sdije (pero soy frontend eh!)… y me dijeron “si si no importa”… me dan algo d ebackend y para hacer una boludes me la paso stackoverfleando
+11:38:18 - Marcos Casagrande (@marcoscvp90):
+Otra cosa es que haya mucho chanta, pero en si, existe.
+11:38:20 - Pablo Miceli (@pablomiceli24):
+yo conozco gente que la tiene muy clara en front y en back, que son?
+11:38:37 - Pedro (@pedro461):
+obviamente siempre lo hago, pero es una cuestion tambieen de gustos.. a mi me gusta mucho pero mucho laburar el front
+11:38:42 - Pedro (@pedro461):
+y poco pero muy poco el back
+11:39:19 - Pedro (@pedro461):
+no tiene que ver si la tenes clara o no… para mi es una cuestion de gustos.. capaz no conocí hasta ahora alguien que le de lo mismo hacer una cosa o la otra
+11:39:33 - Pedro (@pedro461):
+siempre hay una preferencia
+11:39:33 - Martín Aimar (@maimar):
+a mi me gustan por igual
+11:39:38 - Pedro (@pedro461):
+sos groso
+11:39:50 - Pedro (@pedro461):
+y el primero que conozco jaja
+11:39:53 - Pablo Miceli (@pablomiceli24):
+pero tu "titulo" es en base a tu conocimiento, no lo que te gusta hacer supongo
+11:39:55 - Martín Aimar (@maimar):
+pero sólo con las herramientas que me gustan
+11:40:26 - Pedro (@pedro461):
+no pienso así.. o sea, una cosa es un título.. pero lo que haces, si podés haces lo que te gusta
+11:40:40 - Pedro (@pedro461):
+ahi ta, como dice martín, solo con las herramientas que le gustan
+11:40:44 - Pedro (@pedro461):
+opino exactamente igual
+11:41:07 - Pedro (@pedro461):
+te puedo hacer back, pero si me das javascript, el resto no me pinta ni un poquito
+11:43:07 - Marcos Casagrande (@marcoscvp90):
+El tema para mi no es "te puedo hacer", sino hacerlo bien, te guste o no te guste el área. Ahí está la diferencia creo yo. Cuando te manejas muy bien en las dos/tres áreas sos full stack, a eso hace referencia el término.
+11:43:08 - Pedro (@pedro461):
+igual, en mi opinion, fullstack es un término que inventaron para ahorrarse un sueldo
+11:43:09 - Pedro (@pedro461):
+jajjaja
+11:43:37 - Julian (@jantonielli01):
+Y para mandarte a hacer cosas random paja "total sabés hacer todo"
+11:43:38 - Marcos Casagrande (@marcoscvp90):
+Todo lo contrario, si sos full stack bueno, podes cobrar más.
+11:43:51 - Santiago Ruffino (@santi_0898):
+Full Stack para mi es decir "Puedo hacer lo que me des"
+11:44:02 - Pedro (@pedro461):
+podras cobrar más, nunca dos sueldos de Sr
+11:44:03 - Marcos Casagrande (@marcoscvp90):
+Acá el problema no es si existe el full stack o no, es el mal uso de la palabra creo yo.
+11:44:13 - Marcos Casagrande (@marcoscvp90):
+Pero no trabajas 16 horas.
+11:44:16 - Santiago Ruffino (@santi_0898):
+Hay gente que no puede tirar nada de HTML, y hay gente que no puede hacer una peticion a una DB
+11:44:35 - Pedro (@pedro461):
+yo como frontend cobro mas que cuando me contrataron como fullstack… onda en el front es donde me destaco… el resto es cháchara
+11:44:36 - Mendo (@nicolas.mendonca):
+Para mi nada evita que uno pueda aprender sobre front y sobre back al mismo tiempo. Obviamente uno nunca llega a aprender todo (y menos en nuestro rubro). Pero podes aprender lo suficiente como para llegar a hacer muy buen laburo en las dos areas digamos. Y si te sentis comodo, podes identificarte como fullstack tranquilamente....
+11:44:54 - Mendo (@nicolas.mendonca):
+Independientemente de que te sientas mas habil con una cosa que con la otra, o te guste mas una que la otra
+11:45:00 - Luciana Portias (@lportias):
+no se olviden del css... que cada vez somos menos los que realmente sabemos
+11:45:32 - Sebastian Waisbrot (@seppo0010):
+cada vez es más difícil css
+11:45:40 - Pedro (@pedro461):
+amo CSS
+11:45:49 - Pedro (@pedro461):
+no se metan con mi querido cascade
+11:45:53 - Sebastian Waisbrot (@seppo0010):
+en js por lo menos simplifican cosas
+11:45:55 - Julian (@jantonielli01):
+lol
+11:45:59 - Julian (@jantonielli01):
+justo te gusta la peor parte
+11:45:59 - Luciana Portias (@lportias):
+<@UGLH5CM8B> no te conozco y ya te quiero
+11:46:01 - Sebastian Waisbrot (@seppo0010):
+en css me parece que agregan
+11:46:06 - Pedro (@pedro461):
+jajaj, gracia Luciana
+11:46:40 - Martín Aimar (@maimar):
+a mi también me gusta css
+11:47:09 - Pedro (@pedro461):
+ojo, no dije que “me gusta” CSS dije “amo” CSS
+11:47:22 - Martín Aimar (@maimar):
+ah no boludeces no
+11:47:29 - Pedro (@pedro461):
+jajaja
+11:48:00 - Pedro (@pedro461):
+esta la hice yo.. “con amor” <https://github.com/tretapey/raisincss>
+11:48:19 - Pedro (@pedro461):
+ya me la criticaste antes Martín, solo aprovecho para volver a compartirla jaja
+11:48:52 - Martín Aimar (@maimar):
+tailwind v1 está a la vuelta de la esquina :upside_down_face:
+11:49:05 - Pedro (@pedro461):
+jajaj
+11:49:12 - Julian (@jantonielli01):
+alta paja css
+11:49:13 - Pedro (@pedro461):
+ya te dije que tiene diferencias y muchas
+11:49:33 - Julian (@jantonielli01):
+lo peor de la gente que le gusta es que cuando lo criticas te dicen "pero es porque vos no entendes css !!!11"
+11:49:41 - Julian (@jantonielli01):
+lol
+11:49:59 - Luciana Portias (@lportias):
+claramente
+11:50:02 - Pedro (@pedro461):
+jaja, es verdad algunos dicen eso.. pero yo creo que no es que no lo entiendan, es que no lo usaron tanto
+11:50:15 - Pedro (@pedro461):
+al tiempo es algo como natural
+11:50:16 - Pedro (@pedro461):
+jaja
+11:50:30 - Pedro (@pedro461):
+como andar en bici
+11:50:31 - Pedro (@pedro461):
+:stuck_out_tongue:
+11:50:44 - Sebastian Waisbrot (@seppo0010):
+como chocarse la cabeza con la pared suficientes veces, la pared empieza a tener forma de tu cabeza
+11:50:45 - Gonza Gluzman (@gonza):
+O como morir
+11:50:49 - Julian (@jantonielli01):
+Nah, yo hago front hace años, y se que css tiene tantos, o más, problemas como JS
+11:50:52 - Pedro (@pedro461):
+jajajaja
+11:50:53 - Julian (@jantonielli01):
+Pero bueh
+11:50:57 - Julian (@jantonielli01):
+Fanaticos hay en todos lados
+11:50:58 - Luciana Portias (@lportias):
+jajaja, o que no empezaron dandose la cabeza contra el photoshop y el illustrator para diseñar algo y cuando empezaron a tirar codigo en css encontraron LA herramienta
+11:51:31 - Pedro (@pedro461):
+buen punto!… todo cambia cuando te metes a aprender del diseñador y te das cuenta que tiene mucho sentido
+11:51:40 - Gonza Gluzman (@gonza):
+Estás transitando el camino hacia el backend… en unos años vas a laburar exclusivamente con el vim :joy:
+11:51:55 - Pedro (@pedro461):
+eee que te metes con vim?? jajja
+11:52:05 - Pedro (@pedro461):
+aguante VIM y CSS y VUE
+11:52:13 - Pedro (@pedro461):
+:heart_eyes:
+11:54:13 - Sebastian Waisbrot (@seppo0010):
+el tema con css+html es que el problema es difícil
+las otras APIs que resuelen problemas análogos en otras plataformas (autolayout en iOS, lo que sea que use android hoy en día, gtk/qt en desktop, ncurses en la terminal) también son un bardo
+11:56:07 - Pedro (@pedro461):
+me tengo que poner a ver eso ya que d emobile nada de nada
+11:56:14 - Pedro (@pedro461):
+pero me imagino que deben ser un bardo
+11:56:25 - Sebastian Waisbrot (@seppo0010):
+era lindo hace unos 10 años
+11:56:31 - Sebastian Waisbrot (@seppo0010):
+cuando el tamaño de la pantalla era fijo
+11:56:35 - Sebastian Waisbrot (@seppo0010):
+y usabas todo absoluto
+12:00:26 - Pedro (@pedro461):
+jajaj el 11 de Mayo doy una charla en la webconf acá en Córdoba y voy a hablar justamente de la “evolución” (si así puede decirse) a la hora de implementar layouts, pero desde el punto de vista web, no mobile..
+12:00:42 - Pedro (@pedro461):
+mucho CSS y HTML, como me gusta :slightly_smiling_face:
+12:02:27 - Luis Alvarez (@luistensai):
+si sabés back + front + aws/cloud + containerization + orchestration + etc - css = mega full stack :dealwithitparrot:
+12:02:47 - Pedro (@pedro461):
+“- CSS”??
+12:03:03 - Pedro (@pedro461):
+sos como un fullstack sin CSS??.. entonces sos un muy buen backend
+12:03:05 - Pedro (@pedro461):
+:wink:
+12:03:19 - Pablo Miceli (@pablomiceli24):
+full stack contiene a devops?
+12:03:40 - Pedro (@pedro461):
+devops + QA + DBA + Backend + Frontend
+12:03:41 - Juan Scolari (@juanscolari):
+como que no hay full stack, es como los Saiyajin, pocos pero salvamos el universo (?
+12:03:49 - Luciana Portias (@lportias):
+despues pasa el link si hay live streaming!!!
+12:04:05 - Pedro (@pedro461):
+dale, supongo que habrá, no se no estoy en la organización jeje
+12:04:29 - Pedro (@pedro461):
+no se si habrá, pero estimo que si.. <https://webconf.tech/>
+12:04:38 - Pedro (@pedro461):
+ahi te pasé el link
+12:04:51 - Luciana Portias (@lportias):
+genial!!, gracias!!
+12:05:20 - Luciana Portias (@lportias):
+yo tengo una idea para una charla, pero todavia no me puse a ver donde ni como...
+12:05:47 - Pedro (@pedro461):
+anotate para alguna meetup
+12:06:00 - Luciana Portias (@lportias):
+no se si a ustedes les pasa, pero hay un tema de falta de comunicacion entre el ux, el diseñador y el FE que no esta bueno
+12:06:30 - Luciana Portias (@lportias):
+si, tengo que ver a quien le interesaria ese tema..
+12:06:40 - Sebastian Waisbrot (@seppo0010):
+en nardoz seguro que entra
+12:06:56 - Luciana Portias (@lportias):
+nardoz?
+12:07:04 - Pedro (@pedro461):
+mi charla se llamaba “llevarse bien con el diseñador”.. porq les parecía que no explicaba mucho la cambié a “una historia de layouts” pero justamente hago incapié entre la comunicación front y design
+12:07:05 - Sebastian Waisbrot (@seppo0010):
+<https://www.meetup.com/Nardoz/>
+12:07:07 - Luis Alvarez (@luistensai):
+hay un gap entre cada uno de los roles creo ux, diseño y FE
+12:07:31 - Luis Alvarez (@luistensai):
+a veces los diseñadores no saben cómo funciona el FE y los FE no saben cómo mejorar UX y así...
+12:07:39 - Sebastian Waisbrot (@seppo0010):
+los temas suelen ser muy variados
+12:07:58 - Pedro (@pedro461):
+y como las herramientas fueron evolucionando para adpatarse mas al diseño, o sea a la cabeza del diseñador
+12:08:01 - Luciana Portias (@lportias):
+y el diseñador se ofende si el FE le viene a decir que no es funcional el diseño
+12:08:12 - Luis Alvarez (@luistensai):
+tal cual
+12:09:05 - Juan Scolari (@juanscolari):
+es una buena idea
+12:09:05 - Pedro (@pedro461):
+por eso es importante tener una buena comunicación front y diseñador
+12:09:58 - Pedro (@pedro461):
+ahora en el front por suerte las herramientas se adaptan muy bien, pero hace falta que los diseñadores se metan un poco más también.. yo laburo con el mismo diseñador siempre y me entiendo bien con él, eso es clave.. y el tipo es tan groso que aprendió a maquetar html y css..
+12:12:17 - Luciana Portias (@lportias):
+si, yo me sente a enseñarles un poco de maquetado a las diseñadoras con las que estoy laburando ahora.. no se por que en esta empresa quieren que las diseñadoras entregen las maquetas ya hechas, y ellas solo saben maquetar con Bootstrap... y las webs a las que van esas landings NO TIENEN ESO! :facepalm2:
+12:12:53 - Ezequiel Leites (@leites25):
+Igual es un valor agregado importante que los diseñadores sepan maquetar
+12:13:08 - Luciana Portias (@lportias):
+:heart_eyes:
+12:13:10 - Ezequiel Leites (@leites25):
+Si saben maquetar se pueden tirar a vender templates
+12:14:02 - Sebastian Waisbrot (@seppo0010):
+y diseñan sabiendo qué se puede hacer, qué es fácil
+12:14:06 - Luciana Portias (@lportias):
+si, pero si tenes una plataforma en angular y tenes que maquetar una landing para esa plataforma no haces un html puro con bootstrap....
+12:14:09 - Sebastian Waisbrot (@seppo0010):
+aunque no maqueten, saber maquetar suma bocha para diseñadores
+12:14:31 - Pedro (@pedro461):
+suma muchísimo
+12:14:42 - Rodrigo Ali (@rodrigojali):
+Unicornios :unicorn_face:
+12:14:50 - Pedro (@pedro461):
+pero si, tienen que salirse de bootstrap IMO
+12:14:58 - Ezequiel Leites (@leites25):
+Nosotros les enseñamos a maquetar y tocar algunas cosas de js a los diseñadores y empezaron a jugar con mas cosas y teniamos menos rebotes
+12:15:05 - Diego Ferrari (@die.a.ferrari):
+también suma mucho para los desarrolladores que los diseñadores sepan maquetar
+12:15:14 - Ezequiel Leites (@leites25):
+Editaban cosas con el inspector y nos tiraban directo los cambios a modificar ya aprobados por ellos
+12:15:22 - Pedro (@pedro461):
+tambien suma que el desarrollador sepa conceptos básicos de diseño
+12:15:28 - Pedro (@pedro461):
+el frontend
+12:15:30 - Rodrigo Ali (@rodrigojali):
+Igual todo este gran flujo de mensajes iba a <#C6PJH6JP3|rant> :stuck_out_tongue:
+12:15:32 - Juan Scolari (@juanscolari):
+de maquetar, de manejarse con componentes
+12:16:22 - Luciana Portias (@lportias):
+tal cual, hoy un diseñador que no sabe nada de front no sirve.. jejeje
+12:19:58 - Pedro (@pedro461):
+rant es como el random?
+12:20:27 - Diego Ferrari (@die.a.ferrari):
+rant es como el ex forobardo
+12:40:57 - Martin Bavio (@mbavio):
+<https://www.netlify.com/products/dev/>
+12:44:29 - Luis Alvarez (@luistensai):
+rant es para quejarse, me base en un channel de nardoz y en <https://devrant.com/feed> :stuck_out_tongue:
+12:47:01 - Brian Hume (@brianh20):
+De pronto cai en random y no me di cuenta?
+12:47:46 - Luis Alvarez (@luistensai):
+renombraron #forobardo a <#C0PHBKNNA|random>
+12:48:50 - Brian Hume (@brianh20):
+jajajlo decia por el debate (evidente que se iba a armar) con lo de full stack
+12:48:51 - Brian Hume (@brianh20):
+ya fu
+12:50:47 - Santiago Ruffino (@santi_0898):
+Si alguien dice "full stack", automaticamente ese channel se convierte en <#C0PHBKNNA|random>
+12:53:09 - Brian Hume (@brianh20):
+te conteste aparte porque prefiero evitar los piedrazos :rolling_on_the_floor_laughing:
+12:53:52 - Luis Alvarez (@luistensai):
+ahh... estuve lerdo, sorry jaja
+12:55:37 - Sergio Daniel Xalambrí (@sergiodxa):
+wow, en ZEIT querían hacer eso, Netlify les ganó
+13:40:45 - Luciana Portias (@lportias):
+:rolling_on_the_floor_laughing:
+13:50:25 - Maxi (@tholem98):
+Que significa "maquetar"? Es decir, en que consiste?
+13:50:46 - Gonzalo González Mora (@gonzalogm):
+Transformar un diseño en HTML y CSS
+13:50:47 - Ezequiel Leites (@leites25):
+Pasar el diseño a html / css
+13:50:49 - Martín Valdés de León (@mvaldesdeleon):
+transformar un jpg en html+css
+13:51:12 - Martín Aimar (@maimar):
+entre las tres opciones me quedo con la segunda (?)
+13:51:25 - Sebastian Waisbrot (@seppo0010):
+convertir una imagen a html,css
+13:51:45 - Ezequiel Leites (@leites25):
+`imagen.jpg` -&gt; `imagen.html`
+13:52:28 - Sergio Daniel Xalambrí (@sergiodxa):
+`&lt;img src="imagen.jpg" /&gt;`
+13:52:56 - Martín Valdés de León (@mvaldesdeleon):
+Mas aggiornado, Sketch.
+13:53:15 - Ezequiel Leites (@leites25):
+`class="img-responsive"`
+13:53:15 - Martín Aimar (@maimar):
+o figma
+13:53:36 - Maxi (@tholem98):
+Mmm... no entendi, devuelta? Naah, es broma. Muchas gracias
+13:53:41 - Sergio Daniel Xalambrí (@sergiodxa):
+`srcset` en realidad, para cambiar de imagen :stuck_out_tongue:
+13:53:55 - Ezequiel Leites (@leites25):
+Ahi ya habria que tener varias imagenes, mucho laburo
+13:54:27 - Sergio Daniel Xalambrí (@sergiodxa):
+cierto, los diseñadores solo hacen el desktop
+13:54:41 - Ezequiel Leites (@leites25):
+Quien te conoce Mobile First
+13:54:48 - Sergio Daniel Xalambrí (@sergiodxa):
+para eso mejor lo pasamos a un layout con HTML y CSS real
+13:55:15 - Martín Aimar (@maimar):
+cómo se dice en inglés?
+13:55:26 - Sergio Daniel Xalambrí (@sergiodxa):
+maquetator?
+13:55:38 - Sergio Daniel Xalambrí (@sergiodxa):
+web designer creo que es el termino más cercano
+13:58:08 - Ezequiel Leites (@leites25):
+CSS Developer :css3_color:
+13:58:16 - Martín Aimar (@maimar):
+mejor el viejo y querido map
+13:58:29 - Martín Aimar (@maimar):
+bueno, “querido” es un decir
+13:58:41 - Ezequiel Leites (@leites25):
+Cuando recien arrancaba, no borraba Dreamweaver solamente para hacer maps xD
+13:59:18 - Santiago Ruffino (@santi_0898):
+Si existe el "Web Designer" tambien existe el "Web Developer"
+13:59:18 - Santiago Ruffino (@santi_0898):
+?
+13:59:25 - Rodrigo Ali (@rodrigojali):
+Si
+13:59:27 - Rodrigo Ali (@rodrigojali):
+De hecho si.
+13:59:33 - Brian Hume (@brianh20):
+Y el Web On
+13:59:36 - Brian Hume (@brianh20):
+:hatching_chick:
+13:59:39 - Brian Hume (@brianh20):
+Jajajjajaa
+13:59:57 - Rodrigo Ali (@rodrigojali):
+Siempre vi los roles diferenciados en muchas cosas que he leído, entre "diseño" y "desarrollo"
+14:00:08 - Santiago Ruffino (@santi_0898):
+Que ganas de complicar todo
+14:00:13 - Santiago Ruffino (@santi_0898):
+Ya no se que soy.
+14:00:26 - Ezequiel Leites (@leites25):
+Full Stack Ruffino
+14:01:14 - Ezequiel Leites (@leites25):
+De hecho, los cursos de diseño web, eran dreamweaver, fireworks y flash, eran mas para diseñar que programar. Desarrollo web ya agarrabas js
+14:01:23 - Martín Aimar (@maimar):
+as3
+14:01:55 - Luciana Portias (@lportias):
+años despues de que deje de usar el DW, tuve que mapear una imagen para ponerle links y encontre una web muy copada que me mapeaba la imagen, asi que no necesite nunca mas el DW
+14:02:09 - Santiago Ruffino (@santi_0898):
+Encima, despues te meten los "UI/UX Developers"
+14:02:17 - Santiago Ruffino (@santi_0898):
+Para una pagina web
+14:02:18 - Ezequiel Leites (@leites25):
+Sigue vivo todavia en el Suite de Adobe?
+14:02:27 - Martín Aimar (@maimar):
+había uno de esos que ponía los tags en mayúscula no?
+14:02:30 - Santiago Ruffino (@santi_0898):
+Y despues el "Web Designer"
+14:02:35 - Santiago Ruffino (@santi_0898):
+Web Developer
+14:03:02 - Santiago Ruffino (@santi_0898):
+Y una startup de 4 personas termina teniendo un arbol jerarquico de 25 puestos, con 4 personas
+14:03:09 - Luciana Portias (@lportias):
+Como sufri el Flash!!!
+14:03:15 - Brian Hume (@brianh20):
+Full Ruffino 
+14:04:14 - Luciana Portias (@lportias):
+Si, una de las diseñadoras de mi laburo todvia maqueta en DW.. casi la mato cuando lo vi
+14:04:24 - Ezequiel Leites (@leites25):
+UI quizas esta de siempre, pero UX es algo mas moderno desde mi punto de vista por el hecho de hoy tener muchos dispositivos y demas cosas que quizas si tenes que tener mas en cuenta la experiencia del usuario que años atras
+14:05:47 - Martín Aimar (@maimar):
+me acuerdo que por ahí te encontrabas con todo `&lt;HTML&gt;&lt;HEAD&gt;&lt;/HEAD&gt;&lt;BODY&gt;&lt;H1&gt;` y así
+14:06:22 - Ezequiel Leites (@leites25):
+FrontPage creo que era siempre en mayusculas
+14:09:37 - Rodrigo Ali (@rodrigojali):
+Claro, igual UX es mucho más complejo que sencillamente la responsiveness
+14:10:16 - Rodrigo Ali (@rodrigojali):
+Acá en D! por ejemplo (segun lo que entiendo) UX está como "dividido" en 3 patas: Diseño, Investigación y Contenido
+14:10:26 - Ezequiel Leites (@leites25):
+Claro, es mas de analisis que diseño en si
+14:10:32 - Rodrigo Ali (@rodrigojali):
+Depende
+14:11:13 - Rodrigo Ali (@rodrigojali):
+Research hace bocha de análisis, Diseño hace (valga la redundancia) bocha de diseño, Contenido se encarga de ver cómo organizar y explicar la información que ves
+14:11:26 - Rodrigo Ali (@rodrigojali):
+Es posta re complejo, más de lo que pensaba.
+14:11:29 - Luciana Portias (@lportias):
+si y le tabulado de DW es un asco
+14:11:54 - Ezequiel Leites (@leites25):
+Es un mundo nuevo :mindblown:
+14:12:00 - Ezequiel Leites (@leites25):
+Esta copado
+14:12:17 - Rodrigo Ali (@rodrigojali):
+A mi me encanta, pero me quedo a un lado porque si me pongo a leer y aprender eso, me distraigo re fácil
+14:12:52 - Martín Aimar (@maimar):
+cómo puede ser un asco?
+14:13:55 - Luciana Portias (@lportias):
+te auto completa el codigo y te deja todo mal tabulado, posta, te marea MAL
+14:14:33 - Leandro Echevarria (@echevarrialeandro):
+Lo que mas me gusta de UX es que incluye desarrollo y en el último tiempo se le está dando importancia como el desarrollo IT
+14:14:43 - Leandro Echevarria (@echevarrialeandro):
+Sino no estaría en este equipo de despe (?
+14:29:38 - Gonza Gluzman (@gonza):
+<https://youtu.be/hZ1Rb9hC4JY>
+15:04:58 - Martin Bavio (@mbavio):
+zarpado
+15:05:12 - Martin Bavio (@mbavio):
+me atrevo a decir que hasta es la forma mas facil de probar lambdas en local hoy en dia
+15:05:54 - Sergio Daniel Xalambrí (@sergiodxa):
+ajá, en ZEIT quieren hacer `now dev` para correr lambdas de Now v2 en local
+15:06:07 - Sergio Daniel Xalambrí (@sergiodxa):
+pero Netlify Dev se ve muy groso
+15:06:16 - Martin Bavio (@mbavio):
+me copa mas el release cycle de netlify que el de zeit
+15:06:25 - Martin Bavio (@mbavio):
+como que iteran mas rapido
+15:06:52 - Martin Bavio (@mbavio):
+zeit de repente te manda un v2 que cambia todo el paradigma y adios lo que habias hecho, como les paso a varios que lo usaba por el soporte de docker
+15:07:36 - Martin Bavio (@mbavio):
+`now dev`creo que se lo vi a rauch decirlo en spectrum ni bien salio v2
+15:07:40 - Martin Bavio (@mbavio):
+cuanto hace de eso ya?
+15:07:54 - Sergio Daniel Xalambrí (@sergiodxa):
+en ZEIT hay muchos cambios low level que no notas, cosas de performance que optimizan siempre, al menos cuando estaba ahí era así
+15:08:06 - Sergio Daniel Xalambrí (@sergiodxa):
+desde que salió v2 casi medio año ya
+17:03:46 - Jorge Cano (@jorgeucano):
+buenas buenas
+17:04:08 - Jorge Cano (@jorgeucano):
+digamos que a un “amigo” hoy se le cayo cafe en el magic trackpad y en el teclado
+17:04:17 - Jorge Cano (@jorgeucano):
+y necesita un mouse hasta que viaje de nuevo
+17:04:31 - Jorge Cano (@jorgeucano):
+mirando mercadolibre hay mouse de 300 pesos a como 3 mil dolares
+17:04:36 - Jorge Cano (@jorgeucano):
+que le recomendarian a mi amigo :stuck_out_tongue:
+17:04:57 - Gonzalo González Mora (@gonzalogm):
+espero que tu amigo no esté usando esa pc en este momento y esté secando todo
+17:04:57 - Luciana Portias (@lportias):
+el de 300p... :face_with_rolling_eyes:
+17:05:03 - Jorge Cano (@jorgeucano):
+nono
+17:05:09 - Jorge Cano (@jorgeucano):
+eran perisfericos
+17:05:12 - Jorge Cano (@jorgeucano):
+la pc esta sanita
+17:05:14 - Sergio Daniel Xalambrí (@sergiodxa):
+si no vas a jugar o diseñar diría que cualquier mouse safa hasta conseguir uno bueno más barato
+17:05:16 - Gonzalo González Mora (@gonzalogm):
+Ahh :ok_hand:
+17:05:17 - Martín Valdés de León (@mvaldesdeleon):
+el tecladoes salvable que se yo
+17:05:25 - Martín Valdés de León (@mvaldesdeleon):
+pero tenes q limpiar tecla por tecla
+17:05:26 - Jorge Cano (@jorgeucano):
+el teclado esta en arroz me conto xD
+17:05:34 - Jorge Cano (@jorgeucano):
+pero es el de mac :stuck_out_tongue:
+17:05:34 - Martín Valdés de León (@mvaldesdeleon):
+por el pegote
+17:05:47 - Jorge Cano (@jorgeucano):
+asi que no se que tan salvable sea… espero que mucho muy
+17:05:54 - Martín Valdés de León (@mvaldesdeleon):
+yo tire coca en la macbook. fueron unas horas de limpieza pero se salvo sin dramas.
+17:05:55 - Gonzalo González Mora (@gonzalogm):
+Mouse hoy en día cualquiera zafa salvo que sea muuuy trucho
+17:06:05 - Martín Valdés de León (@mvaldesdeleon):
+no las ultimas con el teclado superbazofia, las anteriores
+17:06:58 - Santiago Ruffino (@santi_0898):
+Que raro, hoy a alguien en mi Twitter le paso lo mismo
+17:06:58 - Santiago Ruffino (@santi_0898):
+<https://twitter.com/jorgeucano/status/1115611807144714240>
+17:07:24 - Santiago Ruffino (@santi_0898):
+Que chico que es el mundo... A alguien que sigo se le cae el cafe, y a tu amigo tambien
+17:07:54 - Rodrigo Ali (@rodrigojali):
+Arriba del cinto, por favor, nada de golpes bajos.
+17:08:52 - Rodrigo Ali (@rodrigojali):
+$300, total es un hotfix hasta que tu ameo viaje de nuevo y lo reemplace.
+17:15:44 - Luis Alvarez (@luistensai):
+si sólo usás macbook/trackpad, un mouse comunacho va, los logitech M280 están buenos
+17:16:07 - Luis Alvarez (@luistensai):
+están un poco más de $300, pero rinden
+17:16:40 - Martín Aimar (@maimar):
+tenés una desktop Jorge?
+17:16:54 - Gonza Gluzman (@gonza):
+Podés comprarte de esto también: <https://articulo.mercadolibre.com.ar/MLA-635823516-vaso-infantil-avent-magico-200ml-involcable-con-manijas-tapa-_JM?quantity=1&amp;variation=32413330032>
+17:19:05 - Luis Alvarez (@luistensai):
+apple doesn't support coffee
+17:19:41 - Sergio Daniel Xalambrí (@sergiodxa):
+necesitas iCoffee, es igual a Coffee, pero más caro y con una manzana en la taza
+17:23:21 - Jorge Cano (@jorgeucano):
+nop es notebook
+17:23:24 - Jorge Cano (@jorgeucano):
+pero esta como desktop
+17:24:14 - Jorge Cano (@jorgeucano):
+el mouse the lac ompu esta muy pero muy alto para usarlo
+17:25:55 - Luis Alvarez (@luistensai):
+ahhh... es el magic tracpad externo
+17:26:01 - Jorge Cano (@jorgeucano):
+exacto
+17:26:03 - Jorge Cano (@jorgeucano):
+la compu esta bien
+17:26:11 - Luis Alvarez (@luistensai):
+menos mal :sweat_smile:
+17:26:15 - Luis Alvarez (@luistensai):
+igual re-salados están esos :disappointed:
+17:26:21 - Jorge Cano (@jorgeucano):
+siii ni hablar
+17:26:38 - Gonza Gluzman (@gonza):
+Ahora quedaron dulces, el café tenía azúcar
+17:26:43 - Jorge Cano (@jorgeucano):
+no
+17:26:45 - Jorge Cano (@jorgeucano):
+0 azucar
+17:26:49 - Gonza Gluzman (@gonza):
+jaajajaj
+17:31:34 - Juan Scolari (@juanscolari):
+Hay un meetup de Cobol? Wow
+17:32:23 - Enzo Retamozo (@egr_96):
+hola chicos, como están
+17:32:30 - Enzo Retamozo (@egr_96):
+saben de algunos podcast de programacion
+17:32:33 - Enzo Retamozo (@egr_96):
+o cosas por el estilo
+17:32:33 - Enzo Retamozo (@egr_96):
+jajajaja
+17:32:43 - Enzo Retamozo (@egr_96):
+o de :javascript:
+17:33:08 - cryser (@carlosryser):
+yo estoy escuchando cafe con java que en realidad habla de la gente de sistemas, nada que ver con java jaja
+17:33:13 - cryser (@carlosryser):
+esta piola
+17:37:13 - Enzo Retamozo (@egr_96):
+claro yo encontre varios asi jajaja pero nada, quiza algo que te deje mas un valor agregado
+17:38:05 - Enzo Retamozo (@egr_96):
+mas que un loco tirando cosas al azar del mundo IT
+17:39:42 - Gonza Espeche (@espeche.g):
+de la mano del loco Wes Bos y Scott Tolinksi:
+<https://syntax.fm/>
+17:40:36 - Martín Aimar (@maimar):
+<http://www.fullstackradio.com>
+17:40:37 - Gonza Espeche (@espeche.g):
+y en castellano tenes WTFront
+17:49:37 - Enzo Retamozo (@egr_96):
+gracias gonza!!!!
+17:49:49 - Enzo Retamozo (@egr_96):
+me viene excelente para entrenar el odio también
+17:53:22 - Gonza Espeche (@espeche.g):
+para entrenar el *odio* también podes subirte al subte en hora pico :joy:
+17:56:05 - Enzo Retamozo (@egr_96):
+ajjajajjajaja
+17:56:16 - Enzo Retamozo (@egr_96):
+o i d o
+17:56:17 - Enzo Retamozo (@egr_96):
+:disappointed:
+17:56:26 - Rodrigo Ali (@rodrigojali):
+Rozando el límite del <#C6PJH6JP3|rant> :stuck_out_tongue:
+17:56:41 - Rodrigo Ali (@rodrigojali):
+Tiende a, pero nunca llega.
+17:56:56 - Enzo Retamozo (@egr_96):
+no entiendo bien igual por que se cambio de random a rant
+17:57:05 - Enzo Retamozo (@egr_96):
+va, no sigo mucho los hilos
+17:57:15 - Enzo Retamozo (@egr_96):
+salvo cuando hay forobardo :eyes:
+17:57:37 - Gonzalo González Mora (@gonzalogm):
+se cambio de forobardo a random en realidad
+17:59:23 - Gonzalo González Mora (@gonzalogm):
+<https://meetupjs.slack.com/archives/C0PHBKNNA/p1554740192784000>
+18:00:53 - Enzo Retamozo (@egr_96):
+ah ok! ahora si, que raro igual que alguien se haya pasado de rosca con algun comment
+20:08:48 - Brian Hume (@brianh20):
+Alguien uso node con el calendario de Mac? Busque en el canal de #nuncaTePasoEnLaVida pero no habia
