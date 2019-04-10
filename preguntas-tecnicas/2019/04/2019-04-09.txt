@@ -1,0 +1,190 @@
+12:21:43 - Alex Ruzzarin (@alexruzzarin):
+tengo el :thumbsup: de la empresa para comprarlo, pero todavia no lo hice por falta de tiempo. Si alguien lo compra, comparte la experiencia
+12:34:33 - Gonzalo González Mora (@gonzalogm):
+A mi me gustó, no hay muchos cursos del estilo. Yo había hecho otro hace un tiempo tmb que explicaba bastante. El tema con testing es que hay varios approaches y algunos sugieren unas cosas, otros la contraria, entonces como que es medio complicado saber qué hacer jaj igual recién arranco con todo lo que es TDD
+12:34:39 - Sergio Daniel Xalambrí (@sergiodxa):
+mi empresa lo compró, lo tomé casi todo, está bueno, al principio te muestra como hacer tu propio framework de testing a mano para que entiendas como funciona y veas que no es magia
+12:35:43 - Gustavo Machado (@machadogj):
+&gt; al principio te muestra como hacer tu propio framework de testing a mano
+me remonta al libro “the art of unit testing”
+13:12:43 - German Gonzalez (@gercho):
+Alguien usa windows e intento setupear una app node + express + Knex  + postgre ?
+13:12:49 - German Gonzalez (@gercho):
+Tengo mil problemas
+13:12:53 - German Gonzalez (@gercho):
+Sobre todo con postgre 
+13:23:40 - Daniel Broder (@dabroder):
+podrías dockerizar el postgres (aclaro no uso windows)
+13:25:00 - Martín Valdés de León (@mvaldesdeleon):
+Conta un poco mas. Yo tampoco uso windows ni use esa combinacion, pero _a priori_ no deberian haber problemas.
+13:25:29 - Martín Valdés de León (@mvaldesdeleon):
+Asumiendo que es una maquina de desarrollo, corre PostgreSQL como una app mas, que escuche en localhost, y configura Knex para conectarte nuevamente via localhost.
+13:30:06 - German Gonzalez (@gercho):
+Si perdón, en realidad solo queria saber si alguien usando windows habia intentado correr este setup sin problemas.
+13:31:10 - German Gonzalez (@gercho):
+me paso que por ejemplo, cuando queria hacer una migration con knex `knex migrations:make {name}` me decia que me faltaba la propiedad `client` en el `knexfile.js`. Yo instalé el setup con `npm i --save pg` y en la propiedad client que mencione, puse `pg`. Luego, intenté cambiar a postresql como explica la doc y tambien me fallaba
+13:32:20 - Brian Hume (@brianh20):
+docker a mi me trajo muchos dolores de cabeza en windows
+13:36:49 - Martín Valdés de León (@mvaldesdeleon):
+si te dice que falta una propiedad en el archivo y la propiedad esta, pareceria que no esta encontrando al archivo
+13:36:54 - Martín Valdés de León (@mvaldesdeleon):
+o esta cargando otro y no el que vos pensas
+13:37:27 - German Gonzalez (@gercho):
+buen punto. voy a chequear esto
+13:37:58 - Martín Valdés de León (@mvaldesdeleon):
+Uno de los mejores tips que le puedo dar a cualquier programador: Confia en los mensajes de error.
+13:54:38 - Rodrigo Ali (@rodrigojali):
+Holi, una consulta, voy a ver si me puedo explicar...
+
+Laburo en un proyecto que usa Intellij como IDE, el proyecto está en Java (back, v1.8 zulu) y entre otras cosas usa Angular 2+. Parte de los comandos que se corren para levantar el front, tiene un script que corre `webpack --env=dev --watch --progress --colors`, lo que yo entiendo es que ese `--watch` le pone watchers a los files del proyecto y si los archivos cambian, refresca la UI de mi  local env para reflejar el cambio. El problema es que hoy no está pasando eso, se hacen los cambios, se guardan en el archivo, pero no se dispara el refresh en el browser de mi local.
+
+Mi corazonada es que tiene que ver con que usamos Intellij como IDE para buildear y compilar todo, entonces lo que yo creo (pero no sé cómo hacer analisis de ésto) es que ALGO hace Intellij a nivel memoria y evita que los watchers (que tengo entendido son del file system del OS) vean esos cambios que están pasando en memoria de Intellij. ¿Alguien tiene un centro para tirar?
+13:55:02 - Nico (@nicokorn96):
+ah habia que pagarlo? pense que era free
+13:58:39 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.jetbrains.com/help/idea/system-settings.html> fijate lo de "Safe write"
+14:01:08 - Rodrigo Ali (@rodrigojali):
+Ahora lo busco y lo pruebo, muchas gracias Martin por el centro :open_mouth:
+14:18:29 - Mariano Ramonda (@ing.inf.mariano):
+es pago, con un fuerte descuento para Argentina
+14:26:20 - Daniel Agustín Tradito (@datradito):
+70% off argentina, te queda u$80 aprox
+14:30:38 - Rodrigo Ali (@rodrigojali):
+Lo probé (lo tenía tildado), también probé otras configuraciones de settings en ese apartado. No me funcó. Viendo la terminal donde tnego corriendo el `--watch` funca joya, detecta el cambio on-save y re-compila (también lo hacía antes) pero no se refleja el cambio en el browser.
+
+Lo que tengo que hacer es parar el "Run Configuration" que tengo corriendo en Intellij para levantar el proyecto, volverlo a correr, y cuando vuelve a correr ahí si me toma los cambios que hice en los archivos.
+14:30:40 - Rodrigo Ali (@rodrigojali):
+=(
+14:42:24 - Sergio Daniel Xalambrí (@sergiodxa):
+para todo latam creo que es el descuento
+14:43:03 - Mariano Ramonda (@ing.inf.mariano):
+si, y seguramente otros paises "emergentes"
+14:43:45 - Sergio Daniel Xalambrí (@sergiodxa):
+descuento para pobres básicamente
+14:43:48 - Sergio Daniel Xalambrí (@sergiodxa):
+igual que wesbos
+14:49:09 - Mariano Ramonda (@ing.inf.mariano):
+exactamente
+14:49:43 - Nico (@nicokorn96):
+jaajaaajaja no sabia
+14:49:49 - Nico (@nicokorn96):
+vale la pena?
+14:50:34 - Nico (@nicokorn96):
+<@U09KF2RPU> no comprendo bien en que me serviria
+15:00:04 - Sergio Daniel Xalambrí (@sergiodxa):
+en que te serviría el curso? es para aprender de testing en javascript, especialmente frontend, especialmente react
+15:00:23 - Sergio Daniel Xalambrí (@sergiodxa):
+te enseña linters, jest, cypress, react-testing-library
+15:04:18 - Mariano Ramonda (@ing.inf.mariano):
+si lees la landing page te sacas todas las dudas
+15:06:50 - Nico (@nicokorn96):
+entendi entendi :slightly_smiling_face:
+15:48:12 - Rodrigo Ali (@rodrigojali):
+Bueno, lo pongo acá por las dudas que no se pierda con la solución:
+
+TL;DR = webpack (no me fijé si cosas como grunt y gulp) watchea cambios en los archivos para triggerear cambios en la UI y no se integra bien con Intellij por default.
+
+El setup de mi proyecto corre Java y adentro tiene una webapp que corre Angular. Entonces lo que tuve que hacer fue:
+
+1) Desactivar la opción "Safe Write" que compartió <@U0TFEHWEA>. La idea es que guardemos explícitamente los cambios en el archivo que estamos watcheando y no en un temp file.
+*CTRL+ALT+S &gt; Appearence &amp; Behavior &gt; System Settings &gt; Synchronization &gt; Use "safe write"*
+2) Esperar a que el watcher triggeree la re-compilación del *bundle.js*
+3) Buildear de nuevo el proyecto (no hacer Run de nuevo, si no Build, con el martillito)
+4) "Empty Cache and Hard Reload" (con devtools abierto, click derecho en el Refresh button del browser).
+
+A algunas personas no les hace falta esto por su configuración de proyecto, generalmente con desactivar la opción Safe Write alcanza.
+12:21:43 - Alex Ruzzarin (@alexruzzarin):
+tengo el :thumbsup: de la empresa para comprarlo, pero todavia no lo hice por falta de tiempo. Si alguien lo compra, comparte la experiencia
+12:34:33 - Gonzalo González Mora (@gonzalogm):
+A mi me gustó, no hay muchos cursos del estilo. Yo había hecho otro hace un tiempo tmb que explicaba bastante. El tema con testing es que hay varios approaches y algunos sugieren unas cosas, otros la contraria, entonces como que es medio complicado saber qué hacer jaj igual recién arranco con todo lo que es TDD
+12:34:39 - Sergio Daniel Xalambrí (@sergiodxa):
+mi empresa lo compró, lo tomé casi todo, está bueno, al principio te muestra como hacer tu propio framework de testing a mano para que entiendas como funciona y veas que no es magia
+12:35:43 - Gustavo Machado (@machadogj):
+&gt; al principio te muestra como hacer tu propio framework de testing a mano
+me remonta al libro “the art of unit testing”
+13:12:43 - German Gonzalez (@gercho):
+Alguien usa windows e intento setupear una app node + express + Knex  + postgre ?
+13:12:49 - German Gonzalez (@gercho):
+Tengo mil problemas
+13:12:53 - German Gonzalez (@gercho):
+Sobre todo con postgre 
+13:23:40 - Daniel Broder (@dabroder):
+podrías dockerizar el postgres (aclaro no uso windows)
+13:25:00 - Martín Valdés de León (@mvaldesdeleon):
+Conta un poco mas. Yo tampoco uso windows ni use esa combinacion, pero _a priori_ no deberian haber problemas.
+13:25:29 - Martín Valdés de León (@mvaldesdeleon):
+Asumiendo que es una maquina de desarrollo, corre PostgreSQL como una app mas, que escuche en localhost, y configura Knex para conectarte nuevamente via localhost.
+13:30:06 - German Gonzalez (@gercho):
+Si perdón, en realidad solo queria saber si alguien usando windows habia intentado correr este setup sin problemas.
+13:31:10 - German Gonzalez (@gercho):
+me paso que por ejemplo, cuando queria hacer una migration con knex `knex migrations:make {name}` me decia que me faltaba la propiedad `client` en el `knexfile.js`. Yo instalé el setup con `npm i --save pg` y en la propiedad client que mencione, puse `pg`. Luego, intenté cambiar a postresql como explica la doc y tambien me fallaba
+13:32:20 - Brian Hume (@brianh20):
+docker a mi me trajo muchos dolores de cabeza en windows
+13:36:49 - Martín Valdés de León (@mvaldesdeleon):
+si te dice que falta una propiedad en el archivo y la propiedad esta, pareceria que no esta encontrando al archivo
+13:36:54 - Martín Valdés de León (@mvaldesdeleon):
+o esta cargando otro y no el que vos pensas
+13:37:27 - German Gonzalez (@gercho):
+buen punto. voy a chequear esto
+13:37:58 - Martín Valdés de León (@mvaldesdeleon):
+Uno de los mejores tips que le puedo dar a cualquier programador: Confia en los mensajes de error.
+13:54:38 - Rodrigo Ali (@rodrigojali):
+Holi, una consulta, voy a ver si me puedo explicar...
+
+Laburo en un proyecto que usa Intellij como IDE, el proyecto está en Java (back, v1.8 zulu) y entre otras cosas usa Angular 2+. Parte de los comandos que se corren para levantar el front, tiene un script que corre `webpack --env=dev --watch --progress --colors`, lo que yo entiendo es que ese `--watch` le pone watchers a los files del proyecto y si los archivos cambian, refresca la UI de mi  local env para reflejar el cambio. El problema es que hoy no está pasando eso, se hacen los cambios, se guardan en el archivo, pero no se dispara el refresh en el browser de mi local.
+
+Mi corazonada es que tiene que ver con que usamos Intellij como IDE para buildear y compilar todo, entonces lo que yo creo (pero no sé cómo hacer analisis de ésto) es que ALGO hace Intellij a nivel memoria y evita que los watchers (que tengo entendido son del file system del OS) vean esos cambios que están pasando en memoria de Intellij. ¿Alguien tiene un centro para tirar?
+13:55:02 - Nico (@nicokorn96):
+ah habia que pagarlo? pense que era free
+13:58:39 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.jetbrains.com/help/idea/system-settings.html> fijate lo de "Safe write"
+14:01:08 - Rodrigo Ali (@rodrigojali):
+Ahora lo busco y lo pruebo, muchas gracias Martin por el centro :open_mouth:
+14:18:29 - Mariano Ramonda (@ing.inf.mariano):
+es pago, con un fuerte descuento para Argentina
+14:26:20 - Daniel Agustín Tradito (@datradito):
+70% off argentina, te queda u$80 aprox
+14:30:38 - Rodrigo Ali (@rodrigojali):
+Lo probé (lo tenía tildado), también probé otras configuraciones de settings en ese apartado. No me funcó. Viendo la terminal donde tnego corriendo el `--watch` funca joya, detecta el cambio on-save y re-compila (también lo hacía antes) pero no se refleja el cambio en el browser.
+
+Lo que tengo que hacer es parar el "Run Configuration" que tengo corriendo en Intellij para levantar el proyecto, volverlo a correr, y cuando vuelve a correr ahí si me toma los cambios que hice en los archivos.
+14:30:40 - Rodrigo Ali (@rodrigojali):
+=(
+14:42:24 - Sergio Daniel Xalambrí (@sergiodxa):
+para todo latam creo que es el descuento
+14:43:03 - Mariano Ramonda (@ing.inf.mariano):
+si, y seguramente otros paises "emergentes"
+14:43:45 - Sergio Daniel Xalambrí (@sergiodxa):
+descuento para pobres básicamente
+14:43:48 - Sergio Daniel Xalambrí (@sergiodxa):
+igual que wesbos
+14:49:09 - Mariano Ramonda (@ing.inf.mariano):
+exactamente
+14:49:43 - Nico (@nicokorn96):
+jaajaaajaja no sabia
+14:49:49 - Nico (@nicokorn96):
+vale la pena?
+14:50:34 - Nico (@nicokorn96):
+<@U09KF2RPU> no comprendo bien en que me serviria
+15:00:04 - Sergio Daniel Xalambrí (@sergiodxa):
+en que te serviría el curso? es para aprender de testing en javascript, especialmente frontend, especialmente react
+15:00:23 - Sergio Daniel Xalambrí (@sergiodxa):
+te enseña linters, jest, cypress, react-testing-library
+15:04:18 - Mariano Ramonda (@ing.inf.mariano):
+si lees la landing page te sacas todas las dudas
+15:06:50 - Nico (@nicokorn96):
+entendi entendi :slightly_smiling_face:
+15:48:12 - Rodrigo Ali (@rodrigojali):
+Bueno, lo pongo acá por las dudas que no se pierda con la solución:
+
+TL;DR = webpack (no me fijé si cosas como grunt y gulp) watchea cambios en los archivos para triggerear cambios en la UI y no se integra bien con Intellij por default.
+
+El setup de mi proyecto corre Java y adentro tiene una webapp que corre Angular. Entonces lo que tuve que hacer fue:
+
+1) Desactivar la opción "Safe Write" que compartió <@U0TFEHWEA>. La idea es que guardemos explícitamente los cambios en el archivo que estamos watcheando y no en un temp file.
+*CTRL+ALT+S &gt; Appearence &amp; Behavior &gt; System Settings &gt; Synchronization &gt; Use "safe write"*
+2) Esperar a que el watcher triggeree la re-compilación del *bundle.js*
+3) Buildear de nuevo el proyecto (no hacer Run de nuevo, si no Build, con el martillito)
+4) "Empty Cache and Hard Reload" (con devtools abierto, click derecho en el Refresh button del browser).
+
+A algunas personas no les hace falta esto por su configuración de proyecto, generalmente con desactivar la opción Safe Write alcanza.
