@@ -1,0 +1,328 @@
+21:18:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Hace unos días creo q hablabamos en el general de eso... Acá en Rosario al menos, seguimos en los años 50 en la mayoría de los santorios y hospitales... hay algunos casos que no, pero en el mejor de los casos tienen las compus en red... de cable físico...
+21:20:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Es un mundo inexplorado el de los registros en digital. En un par de sanatorios tienen unos sistemas de facturación y de historia clinica donde la interfaz está en código ascii...
+21:34:05 - Juan Scolari (@juanscolari):
+Pensalo como que es una oportunidad
+21:34:32 - Juan Scolari (@juanscolari):
+Son un monton de clientes que tienen un problema que en otras partes del mundo lo estan empezando a resolver con estas herramientas
+08:20:51 - Martín Valdés de León (@mvaldesdeleon):
+Piola!
+09:27:07 - Luciano Muñoz (@luchisds):
+Si volviera a los 18 compro dolares
+09:30:17 - Santiago Ruffino (@santi_0898):
+Mis 18 fueron hace dos años. No se si aprendi mucho. Jajaja
+09:31:15 - Santiago Ruffino (@santi_0898):
+Peeeero, compraria dolares. Y le daria mas bola a las pocas materias que hice de la facutlad
+09:36:16 - Enzo Retamozo (@egr_96):
+RT :arrows_counterclockwise:
+09:44:51 - Nicolas Gerenstein (@nicolas.gerenstein):
+Si volviera a los 18 compro bitcoin
+09:47:18 - Matias Daniel Torre (@mtorre4580):
+Hola gente alguno tiene experiencia con la empresa endava ? 
+09:49:50 - Guido Vizoso (@guido.vizoso9):
+<@UA0CMN95W> Tengo un amigo que labura ahí hace varios años
+09:54:55 - Martin Gonzalez (@martin2786):
+<@UA0CMN95W> Yo trabajo ahi, tambien <@U3BFF2QH4>
+10:39:27 - Damian Cipolat (@damian.cipolat):
+Plenamente me paso igual, solo que me pase a una privada pòr que me quedaba mas cerca y era menos complicado todo lo que veia. En la UTN me canse de aprender cosas que para el mercado no me sirvieran, y ellos te las enseñan como que es lo mejor del mundo ni hablar del nivel de exigencia sumamente algo al pedo.
+10:55:20 - Santiago Ruffino (@santi_0898):
+Alguien tiene una buena pagina para hacer CVs?
+10:55:29 - Martin Carrera (@mcarrera):
+novoresume
+10:55:32 - Santiago Ruffino (@santi_0898):
+Acabo de encontrar una de puta madre, pero cuando termine todo, me tira que es paga.
+10:55:43 - Federico A. Sawady O'Connor (@sawady.faso):
+no quiero sonar pedante, pero en latex me quedan muy bien
+10:55:48 - Federico A. Sawady O'Connor (@sawady.faso):
+hay unos templates copados
+10:55:50 - Federico A. Sawady O'Connor (@sawady.faso):
+los hago con overleaf
+10:56:17 - Santiago Ruffino (@santi_0898):
+Tenes que pagar algo para poder descargar el PDF?
+10:56:25 - Santiago Ruffino (@santi_0898):
+Me gustaba la idea, pero necesito algo rapido. Je
+10:57:13 - Martín Aimar (@maimar):
+enhancv es gratis por un mes
+10:57:38 - Gonza Espeche (@espeche.g):
+te re cabió
+10:58:14 - Luciana Portias (@lportias):
+Chicos, Linkedin te deja bajar un pdf... no sera lo mas lindo del mundo, pero tiene toda la info del perfil...
+11:00:06 - Martín Aimar (@maimar):
+ahí probé el de linkedin
+11:00:11 - Martín Aimar (@maimar):
+no es lo más lindo del mundo
+11:00:29 - Luciana Portias (@lportias):
+no dije que era llindo
+11:00:33 - Leandro Echevarria (@echevarrialeandro):
+Inversión si está realmente buena
+11:02:00 - Santiago Ruffino (@santi_0898):
+Obvio. A mi me parecio un buen CV. No me paso la tarjeta para pagar
+11:02:01 - Santiago Ruffino (@santi_0898):
+Jajaja
+11:02:16 - Martin Carrera (@mcarrera):
+si es de 1 hoja y usas las cosas free, no. Si haces de mas de 1 hoja o usas cosas pagas, si
+11:02:31 - Leandro Echevarria (@echevarrialeandro):
+Nooo que garompa
+11:02:39 - Martin Carrera (@mcarrera):
+Igual pensa pagar 10 usd por un CV como una inversion
+11:02:43 - Martin Carrera (@mcarrera):
+es plata? si
+11:02:54 - Martin Carrera (@mcarrera):
+pero se supone que el beneficio que te da tiene que ser INFINITAMENTE mayor
+11:03:07 - Santiago Ruffino (@santi_0898):
+Obvio
+11:03:10 - Santiago Ruffino (@santi_0898):
+No me molesta pagar
+11:03:21 - Santiago Ruffino (@santi_0898):
+Estaba dispuesot a pagar el que hice, pero mi tarjeta no pasa cobros internacionales
+11:08:07 - Santiago Ruffino (@santi_0898):
+Listo, acabo de comprar mi CV
+11:08:47 - Ezequiel Gentile (@gentilmente):
+template de google docs hace lo que promete
+11:09:22 - Federico A. Sawady O'Connor (@sawady.faso):
+not bad at all
+11:09:50 - Santiago Ruffino (@santi_0898):
+No me gustaron muchos los templates. Hay muchas paginas, pero son los tipicos CV todos escritos feo, que te hacen ponderar tu conocimiento, tus hobbies y esas cosas
+11:10:03 - Santiago Ruffino (@santi_0898):
+Si alguien quiere un CV, se lo hago y le cobro barato ?)
+11:10:05 - Dario Miñones (@dminones):
+<https://jsonresume.org>
+11:10:40 - Dario Miñones (@dminones):
+Eso de tener la data en Json y poder generar distintos me encanto. Tiene para hacerlo pdf o publicarlo online. 
+11:10:59 - Dario Miñones (@dminones):
+Va hacerlo html sería. Después vos lo pones online si queres 
+11:12:17 - Federico A. Sawady O'Connor (@sawady.faso):
+claro, por esto te decía latex, mirá el template que usé una vuelta
+11:12:19 - Martín Aimar (@maimar):
+cuando se me venció el trial de enhancv lo copié y lo puse online
+11:12:30 - Federico A. Sawady O'Connor (@sawady.faso):
+le mandás las secciones que quieras, fin
+11:13:38 - Santiago Ruffino (@santi_0898):
+Esta bueno
+11:13:50 - Santiago Ruffino (@santi_0898):
+Lo voy a tener en cuenta
+11:14:41 - Martín Aimar (@maimar):
+<https://twitter.com/dimasc_io/status/1112153142416728064>
+11:17:27 - Leandro Echevarria (@echevarrialeandro):
+Noooo qué hijo de puta el chabón
+11:17:48 - Diego Feresin (@diegoferesin):
+<https://chrome.google.com/webstore/detail/ceev-linkedin-resume-crea/ffambokgnjpejefnjbbdfpfjkoeikjom?hl=en-US>
+11:18:01 - Martín Aimar (@maimar):
+es buenísima la fotito que ni le cambió el nombre al archivo
+11:18:11 - Diego Feresin (@diegoferesin):
+Extensión para Chrome, toma tu perfil de Linkedin y lo hace CV
+11:19:00 - Leandro Echevarria (@echevarrialeandro):
+Ni un poco bien la hizo
+11:19:05 - cryser (@carlosryser):
+<@UG2QK9A66> si me permitis te corrijo una pavada que vi en tu cv, el pasado de write es wrote. Por la parte donde dice writed a book
+11:20:19 - Federico A. Sawady O'Connor (@sawady.faso):
+sí sorry, es viejo, lo mandé de ejemplo, igual gracias!!
+11:21:26 - Federico A. Sawady O'Connor (@sawady.faso):
+esas cosas te liquidan? jaja
+11:21:40 - Federico A. Sawady O'Connor (@sawady.faso):
+porque se inglés, pero se me escapan las tortugas
+11:23:54 - GAlvarado (@anzaldo.alvarado.gabr):
+por ahi lei que la diferencia entre un software developer normalito hace software para agencias de publicidad, paginas web,  etc, y un software engineer hace software de ingenieria mas complejo tipo autocad, civil3D, y esas aplicaciones locas que usan para quimica, ingenieria civil, y demas
+11:25:05 - Gonza Gluzman (@gonza):
+Puro humo
+11:25:17 - Gonza Gluzman (@gonza):
+jajjajaja
+11:25:40 - Gonza Gluzman (@gonza):
+La ing. es fisicoquímica aplicada a transformar el mundo físico
+11:26:06 - Gonza Gluzman (@gonza):
+El software no pertenece al mundo físico, entonces no tiene casi relación
+11:26:27 - GAlvarado (@anzaldo.alvarado.gabr):
+seria muy complicado ver a alguien sin educacion "formal" trabajando en grandes empresas con aplicacinoes complejas
+11:26:49 - GAlvarado (@anzaldo.alvarado.gabr):
+si te sirve para hacer apps medio pelo, paginitas web, lalnding pages y demas
+11:28:41 - GAlvarado (@anzaldo.alvarado.gabr):
+seeee en teoria la ing en sistemas es un invento, que deriva de la lic en informatica que es una ciencia pura y natural
+11:28:41 - Gonza Gluzman (@gonza):
+:thinking_face:
+11:28:51 - Diego Ferrari (@die.a.ferrari):
+jajajja mal
+11:28:54 - cryser (@carlosryser):
+no creo que te liquidan, no es tu primer idioma asique siempre y cuando no haya muchos errores. Ademas siempre te pueden hacer charlar un poco para ver el nivel real que manejas
+11:29:07 - Diego Ferrari (@die.a.ferrari):
+btw el sitio me copó
+11:29:11 - Pablo Miceli (@pablomiceli24):
+mal, todos sabemos que hay que robar un poquito de cada lado (?
+11:30:08 - Gonza Espeche (@espeche.g):
+juega twitter para seguir temas de frontend, etc etc ?
+11:30:16 - Damian Cipolat (@damian.cipolat):
+Es humo vi gerentes q no estudiaron IT manejar gerencias de sistemas
+11:30:29 - Martín Aimar (@maimar):
+para seguir temas de todo básicamente
+11:30:44 - GAlvarado (@anzaldo.alvarado.gabr):
+bueno gerencia es un cargo mas administrativo tb
+11:31:26 - Gonza Espeche (@espeche.g):
+pero digo, hay algún nicho de devs que sean activos y tiren buena data?
+11:31:44 - Martín Aimar (@maimar):
+bocha
+14:53:28 - Hernan Rajchert (@sherman):
+google docs FTW
+21:18:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Hace unos días creo q hablabamos en el general de eso... Acá en Rosario al menos, seguimos en los años 50 en la mayoría de los santorios y hospitales... hay algunos casos que no, pero en el mejor de los casos tienen las compus en red... de cable físico...
+21:20:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Es un mundo inexplorado el de los registros en digital. En un par de sanatorios tienen unos sistemas de facturación y de historia clinica donde la interfaz está en código ascii...
+21:34:05 - Juan Scolari (@juanscolari):
+Pensalo como que es una oportunidad
+21:34:32 - Juan Scolari (@juanscolari):
+Son un monton de clientes que tienen un problema que en otras partes del mundo lo estan empezando a resolver con estas herramientas
+08:20:51 - Martín Valdés de León (@mvaldesdeleon):
+Piola!
+09:27:07 - Luciano Muñoz (@luchisds):
+Si volviera a los 18 compro dolares
+09:30:17 - Santiago Ruffino (@santi_0898):
+Mis 18 fueron hace dos años. No se si aprendi mucho. Jajaja
+09:31:15 - Santiago Ruffino (@santi_0898):
+Peeeero, compraria dolares. Y le daria mas bola a las pocas materias que hice de la facutlad
+09:36:16 - Enzo Retamozo (@egr_96):
+RT :arrows_counterclockwise:
+09:44:51 - Nicolas Gerenstein (@nicolas.gerenstein):
+Si volviera a los 18 compro bitcoin
+09:47:18 - Matias Daniel Torre (@mtorre4580):
+Hola gente alguno tiene experiencia con la empresa endava ? 
+09:49:50 - Guido Vizoso (@guido.vizoso9):
+<@UA0CMN95W> Tengo un amigo que labura ahí hace varios años
+09:54:55 - Martin Gonzalez (@martin2786):
+<@UA0CMN95W> Yo trabajo ahi, tambien <@U3BFF2QH4>
+10:39:27 - Damian Cipolat (@damian.cipolat):
+Plenamente me paso igual, solo que me pase a una privada pòr que me quedaba mas cerca y era menos complicado todo lo que veia. En la UTN me canse de aprender cosas que para el mercado no me sirvieran, y ellos te las enseñan como que es lo mejor del mundo ni hablar del nivel de exigencia sumamente algo al pedo.
+10:55:20 - Santiago Ruffino (@santi_0898):
+Alguien tiene una buena pagina para hacer CVs?
+10:55:29 - Martin Carrera (@mcarrera):
+novoresume
+10:55:32 - Santiago Ruffino (@santi_0898):
+Acabo de encontrar una de puta madre, pero cuando termine todo, me tira que es paga.
+10:55:43 - Federico A. Sawady O'Connor (@sawady.faso):
+no quiero sonar pedante, pero en latex me quedan muy bien
+10:55:48 - Federico A. Sawady O'Connor (@sawady.faso):
+hay unos templates copados
+10:55:50 - Federico A. Sawady O'Connor (@sawady.faso):
+los hago con overleaf
+10:56:17 - Santiago Ruffino (@santi_0898):
+Tenes que pagar algo para poder descargar el PDF?
+10:56:25 - Santiago Ruffino (@santi_0898):
+Me gustaba la idea, pero necesito algo rapido. Je
+10:57:13 - Martín Aimar (@maimar):
+enhancv es gratis por un mes
+10:57:38 - Gonza Espeche (@espeche.g):
+te re cabió
+10:58:14 - Luciana Portias (@lportias):
+Chicos, Linkedin te deja bajar un pdf... no sera lo mas lindo del mundo, pero tiene toda la info del perfil...
+11:00:06 - Martín Aimar (@maimar):
+ahí probé el de linkedin
+11:00:11 - Martín Aimar (@maimar):
+no es lo más lindo del mundo
+11:00:29 - Luciana Portias (@lportias):
+no dije que era llindo
+11:00:33 - Leandro Echevarria (@echevarrialeandro):
+Inversión si está realmente buena
+11:02:00 - Santiago Ruffino (@santi_0898):
+Obvio. A mi me parecio un buen CV. No me paso la tarjeta para pagar
+11:02:01 - Santiago Ruffino (@santi_0898):
+Jajaja
+11:02:16 - Martin Carrera (@mcarrera):
+si es de 1 hoja y usas las cosas free, no. Si haces de mas de 1 hoja o usas cosas pagas, si
+11:02:31 - Leandro Echevarria (@echevarrialeandro):
+Nooo que garompa
+11:02:39 - Martin Carrera (@mcarrera):
+Igual pensa pagar 10 usd por un CV como una inversion
+11:02:43 - Martin Carrera (@mcarrera):
+es plata? si
+11:02:54 - Martin Carrera (@mcarrera):
+pero se supone que el beneficio que te da tiene que ser INFINITAMENTE mayor
+11:03:07 - Santiago Ruffino (@santi_0898):
+Obvio
+11:03:10 - Santiago Ruffino (@santi_0898):
+No me molesta pagar
+11:03:21 - Santiago Ruffino (@santi_0898):
+Estaba dispuesot a pagar el que hice, pero mi tarjeta no pasa cobros internacionales
+11:08:07 - Santiago Ruffino (@santi_0898):
+Listo, acabo de comprar mi CV
+11:08:47 - Ezequiel Gentile (@gentilmente):
+template de google docs hace lo que promete
+11:09:22 - Federico A. Sawady O'Connor (@sawady.faso):
+not bad at all
+11:09:50 - Santiago Ruffino (@santi_0898):
+No me gustaron muchos los templates. Hay muchas paginas, pero son los tipicos CV todos escritos feo, que te hacen ponderar tu conocimiento, tus hobbies y esas cosas
+11:10:03 - Santiago Ruffino (@santi_0898):
+Si alguien quiere un CV, se lo hago y le cobro barato ?)
+11:10:05 - Dario Miñones (@dminones):
+<https://jsonresume.org>
+11:10:40 - Dario Miñones (@dminones):
+Eso de tener la data en Json y poder generar distintos me encanto. Tiene para hacerlo pdf o publicarlo online. 
+11:10:59 - Dario Miñones (@dminones):
+Va hacerlo html sería. Después vos lo pones online si queres 
+11:12:17 - Federico A. Sawady O'Connor (@sawady.faso):
+claro, por esto te decía latex, mirá el template que usé una vuelta
+11:12:19 - Martín Aimar (@maimar):
+cuando se me venció el trial de enhancv lo copié y lo puse online
+11:12:30 - Federico A. Sawady O'Connor (@sawady.faso):
+le mandás las secciones que quieras, fin
+11:13:38 - Santiago Ruffino (@santi_0898):
+Esta bueno
+11:13:50 - Santiago Ruffino (@santi_0898):
+Lo voy a tener en cuenta
+11:14:41 - Martín Aimar (@maimar):
+<https://twitter.com/dimasc_io/status/1112153142416728064>
+11:17:27 - Leandro Echevarria (@echevarrialeandro):
+Noooo qué hijo de puta el chabón
+11:17:48 - Diego Feresin (@diegoferesin):
+<https://chrome.google.com/webstore/detail/ceev-linkedin-resume-crea/ffambokgnjpejefnjbbdfpfjkoeikjom?hl=en-US>
+11:18:01 - Martín Aimar (@maimar):
+es buenísima la fotito que ni le cambió el nombre al archivo
+11:18:11 - Diego Feresin (@diegoferesin):
+Extensión para Chrome, toma tu perfil de Linkedin y lo hace CV
+11:19:00 - Leandro Echevarria (@echevarrialeandro):
+Ni un poco bien la hizo
+11:19:05 - cryser (@carlosryser):
+<@UG2QK9A66> si me permitis te corrijo una pavada que vi en tu cv, el pasado de write es wrote. Por la parte donde dice writed a book
+11:20:19 - Federico A. Sawady O'Connor (@sawady.faso):
+sí sorry, es viejo, lo mandé de ejemplo, igual gracias!!
+11:21:26 - Federico A. Sawady O'Connor (@sawady.faso):
+esas cosas te liquidan? jaja
+11:21:40 - Federico A. Sawady O'Connor (@sawady.faso):
+porque se inglés, pero se me escapan las tortugas
+11:23:54 - GAlvarado (@anzaldo.alvarado.gabr):
+por ahi lei que la diferencia entre un software developer normalito hace software para agencias de publicidad, paginas web,  etc, y un software engineer hace software de ingenieria mas complejo tipo autocad, civil3D, y esas aplicaciones locas que usan para quimica, ingenieria civil, y demas
+11:25:05 - Gonza Gluzman (@gonza):
+Puro humo
+11:25:17 - Gonza Gluzman (@gonza):
+jajjajaja
+11:25:40 - Gonza Gluzman (@gonza):
+La ing. es fisicoquímica aplicada a transformar el mundo físico
+11:26:06 - Gonza Gluzman (@gonza):
+El software no pertenece al mundo físico, entonces no tiene casi relación
+11:26:27 - GAlvarado (@anzaldo.alvarado.gabr):
+seria muy complicado ver a alguien sin educacion "formal" trabajando en grandes empresas con aplicacinoes complejas
+11:26:49 - GAlvarado (@anzaldo.alvarado.gabr):
+si te sirve para hacer apps medio pelo, paginitas web, lalnding pages y demas
+11:28:41 - GAlvarado (@anzaldo.alvarado.gabr):
+seeee en teoria la ing en sistemas es un invento, que deriva de la lic en informatica que es una ciencia pura y natural
+11:28:41 - Gonza Gluzman (@gonza):
+:thinking_face:
+11:28:51 - Diego Ferrari (@die.a.ferrari):
+jajajja mal
+11:28:54 - cryser (@carlosryser):
+no creo que te liquidan, no es tu primer idioma asique siempre y cuando no haya muchos errores. Ademas siempre te pueden hacer charlar un poco para ver el nivel real que manejas
+11:29:07 - Diego Ferrari (@die.a.ferrari):
+btw el sitio me copó
+11:29:11 - Pablo Miceli (@pablomiceli24):
+mal, todos sabemos que hay que robar un poquito de cada lado (?
+11:30:08 - Gonza Espeche (@espeche.g):
+juega twitter para seguir temas de frontend, etc etc ?
+11:30:16 - Damian Cipolat (@damian.cipolat):
+Es humo vi gerentes q no estudiaron IT manejar gerencias de sistemas
+11:30:29 - Martín Aimar (@maimar):
+para seguir temas de todo básicamente
+11:30:44 - GAlvarado (@anzaldo.alvarado.gabr):
+bueno gerencia es un cargo mas administrativo tb
+11:31:26 - Gonza Espeche (@espeche.g):
+pero digo, hay algún nicho de devs que sean activos y tiren buena data?
+11:31:44 - Martín Aimar (@maimar):
+bocha
+14:53:28 - Hernan Rajchert (@sherman):
+google docs FTW
