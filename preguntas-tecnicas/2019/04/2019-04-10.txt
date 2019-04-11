@@ -1,0 +1,320 @@
+22:05:31 - German Gonzalez (@gercho):
+El error que reporté hoy sobre postgre
+22:06:01 - German Gonzalez (@gercho):
+dice que falta la prpiedad client pero acá se puede ver que existe
+22:06:37 - German Gonzalez (@gercho):
+a alguien le paso esto?
+22:18:07 - Marcos Casagrande (@marcoscvp90):
+Como estás usando 'knex` mostrá como lo llamás.
+22:18:15 - Marcos Casagrande (@marcoscvp90):
+Capaz no le llega `.dev`
+22:20:07 - German Gonzalez (@gercho):
+lo instale localmente y luego global
+22:20:14 - German Gonzalez (@gercho):
+al principio usaba npx knex ...
+22:20:20 - German Gonzalez (@gercho):
+luego lo instale global
+22:21:38 - Marcos Casagrande (@marcoscvp90):
+estás usando `knex` globalmente?
+22:22:06 - German Gonzalez (@gercho):
+primero lo instale solo en el proyecto y lo corria con npx
+22:22:10 - German Gonzalez (@gercho):
+Luego global para ver que onda
+22:22:18 - German Gonzalez (@gercho):
+pienso eliminarlo global y solo usarlo en cada proyecto
+22:22:25 - German Gonzalez (@gercho):
+(btw, que me recomendas)
+22:22:26 - Marcos Casagrande (@marcoscvp90):
+Probá `development`
+22:23:02 - German Gonzalez (@gercho):
+Jajajaja sos un genio
+22:23:03 - Marcos Casagrande (@marcoscvp90):
+Y nunca global la verdad, los únicos packages que instalo global, son tools onda `nodemon`, no un package que usás en el código.
+22:23:17 - German Gonzalez (@gercho):
+no me iba a dar cuenta nunca
+22:23:33 - Marcos Casagrande (@marcoscvp90):
+:partyparrot:
+22:23:50 - Marcos Casagrande (@marcoscvp90):
+por las dudas, no es `prod` sino `production`
+22:23:55 - Marcos Casagrande (@marcoscvp90):
+cuando lo corras en prod :slightly_smiling_face:
+22:24:41 - German Gonzalez (@gercho):
+si, ahora le voy a dar más bola a estos namings
+22:24:44 - German Gonzalez (@gercho):
+mil gracias chabon
+22:24:52 - Marcos Casagrande (@marcoscvp90):
+de nada!
+04:02:07 - Martín Valdés de León (@mvaldesdeleon):
+completando, hoy en dia ya no hay necesidad de instalar algo global. si queres que tu proyecto use un cli como parte del dev toolchain, agregalo a devDependencies y correlo con `npx` dentro del dir del proyecto
+09:33:37 - Lucas Accastello (@accastellolucas):
+Gente, les hago una consulta. Estoy trabajando un proyecto que cuenta con una sitio institucional y desde ahí se da acceso a un login que lleva a un sistema administrativo. Estoy trabajando con Angular 7. La consulta es: ¿Recomiendan no utilizar Angular para crear el sitio institucional por el SEO? ¿Piensan que tal vez no hace falta utilizar el framework para crear un sitio con 4 páginas?. Nuestra preocupación es el SEO. Obviamente la única parte que necesitamos que Google indexe es este sitio. Conozco de Angular Universal pero no creo que sea necesario. ¿Es posible tener el sitio institucional fuera del proyecto Angular y luego al loguearse entrar al sistema? Gracias
+09:38:53 - Pablo Miceli (@pablomiceli24):
+Donde yo laburaba antes hacian eso, para la landing usaban algo más SEO friendly (no recuerdo qué). Y despues tenían un subdominio tipo <http://app.sarasasite.com|app.sarasasite.com> donde tenian la app en react
+09:39:01 - Pablo Miceli (@pablomiceli24):
+creo que es algo re comun eso
+09:41:55 - Juan Scolari (@juanscolari):
+Si fuera yo, lo haria con vanilla js a un cdn y listo. Con Angular deberias pensar en hacerlo con ssr, porque el seo que te da sino es medio medio. El login lo podes hacer tranquilamente como dijo pablo, mandandolo a un subdominio
+09:42:31 - Juan Scolari (@juanscolari):
+opinion nomas
+09:44:56 - Martín Aimar (@maimar):
+también <http://prerender.io|prerender.io> si pueden
+09:54:38 - Jonatan Salas (@jsalas):
+Si ya lo tenés con angular, podes hacer prerendering, usando la API de Puppeteer, entonces, cuando alguien pide las páginas institucionales las prerenderizas, y las podes mantener cacheadas, con NGINX, o un VARNISH o lo que tengas adelante que se encargue de exponer tu app y el sitio a internet.
+10:04:44 - Lucas Accastello (@accastellolucas):
+Claro, es más o menos lo que me imaginaba. Seguramente vamos a utilizar un subdominio porque no tenemos experiencia en prerenderizado. Gracias.
+10:16:58 - Brian Hume (@brianh20):
+Alguien uso node con el calendario de Mac? Busque en el canal de #nuncaTePasoEnLaVida pero no habia
+11:45:56 - Santiago Ruffino (@santi_0898):
+Alguien trabaja/trabajo con Instapage?
+13:41:29 - Santiago Ruffino (@santi_0898):
+Cambio pregunta. Alguien usa la API de Google Ads?
+15:10:09 - Sebastian Villalba (@sebillac81):
+Hola, alguien peleó con Cypress con Windows Auth? Necesito pasar las credentials pero no me da mucha bola. Estuve probando con el plugin cypress-ntlm-auth pero hasta ahora no me anduvo. O sea...sigue sin pasar las credenciales. (lo estoy usando para Angular)
+15:15:59 - Mateo Silguero (@mfsilguero):
+Si uso cypress, pero nunca esa libreria. Te indica algun error puntual ?
+15:37:57 - Sebastian Villalba (@sebillac81):
+me rebota la API con 401
+15:38:26 - Sebastian Villalba (@sebillac81):
+o sea tengo mi App Angular, y se comunica con una API por windows auth
+15:38:36 - Sebastian Villalba (@sebillac81):
+todo local por el momento
+15:40:12 - Sebastian Villalba (@sebillac81):
+fuera de cypress funciona bien, pero con Cypress me lo rebota. Desde el browser que abre Cypress quiero entrar a algún endpoint de mi Api y también me tira 401. Es como que ese browser no tiene mis credenciales. Quiero ver la manera que las tenga. Por eso me puse a ver este plugin, pero hasta ahora no noté diferencia
+15:40:30 - Sebastian Villalba (@sebillac81):
+en que escenario lo estás usando <@U7B6WSXJQ>?
+15:59:35 - Mateo Silguero (@mfsilguero):
+Cypress abre una instancia de chrome nueva, y no guarda cache ni nada, la refresca cada vez que corres los tests
+16:00:17 - Mateo Silguero (@mfsilguero):
+Nunca use esa libreria de auth, pero con respecto a cypress, tuve algunas limitaciones en cuanto a pegarle a dominios distintos al que estas corriendo, y manipulando iframes
+16:20:01 - Sebastian Villalba (@sebillac81):
+entiendo que no estas usando windows Auth, no?
+16:29:35 - Mateo Silguero (@mfsilguero):
+No, pero si cypress
+17:09:19 - Mariano Argañaras (@arga.mariano):
+buenas gente, tengo un slider (onda los input type range) totalmente custom, y necesito agregarle steps. Por ej, del 1 al 100, que vaya de 5 en 5. Alguna idea de como hacerlo matematicamente?
+17:11:18 - Martín Aimar (@maimar):
+input type range acepta un atributo `step`
+17:11:41 - Martín Valdés de León (@mvaldesdeleon):
+pero tiene uno custom
+17:11:57 - Martín Aimar (@maimar):
+tengo que leer mejor
+17:12:17 - Martín Valdés de León (@mvaldesdeleon):
+en algun lugar tenes un cacho de codigo que responde a la posicion del mouse y ajusta la UI y demas. ahi vas a tener que agregar logica para "redondear" los valores a uno de los steps validos
+17:13:25 - Martín Valdés de León (@mvaldesdeleon):
+de alguna manera ya estas mapeando la posicion del mouse a un valor entre 1 y 100
+17:13:34 - Martín Valdés de León (@mvaldesdeleon):
+lo que tenes q agregar es la parte de redondear
+17:13:45 - Martín Valdés de León (@mvaldesdeleon):
+dividi el valor por el tamaño del step, ahora tenes un numero con decimales
+17:14:09 - Martín Valdés de León (@mvaldesdeleon):
+redondealo usando Round
+17:14:25 - Martín Valdés de León (@mvaldesdeleon):
+(No Floor, No Ceil, No Trunc, *Round*)
+17:14:34 - Martín Valdés de León (@mvaldesdeleon):
+Multiplica el resultado por el tamaño del step, y ese es el valor que deberias usar.
+17:18:23 - Mariano Argañaras (@arga.mariano):
+perfecto, es justo lo que necesitaba
+17:18:33 - Mariano Argañaras (@arga.mariano):
+voy a probarlo. Gracias Martin, que grande!
+17:35:15 - david garcia (@manuonda):
+disculpen , como estan?. No sabia muy bien donde preguntar..sobre la compra de templates para una aplicacion en Ionic.
+17:35:21 - david garcia (@manuonda):
+que paginame pueden recomendar ?
+17:36:52 - Martín Aimar (@maimar):
+hay uno oficial <https://market.ionicframework.com/themes>
+17:46:34 - david garcia (@manuonda):
+gracias
+18:44:29 - Ezequiel Gentile (@gentilmente):
+Buenas. Quiero descargarme una serie de imágenes de este sitio
+<https://es.slideshare.net/felixsigno/tendencias-de-estudio-en-cognicin-creatividad-y-aprendizaje>
+y veo que están así:
+```&lt;div class="slide_container" style="width: 100%;"&gt;
+  &lt;section data-index="1" class="slide show" itemprop="image" style="position: relative;"&gt;
+    &lt;img class="slide_image" src="<https://image1.jpg?cb=1554640511>"&gt;  
+  &lt;/section&gt;
+  &lt;section data-index="2" class="slide" style="position: relative;"&gt;
+    &lt;i class="fa fa-spinner fa-spin"&gt;&lt;/i&gt;
+    &lt;img class="slide_image" src="" data-small="<https://image2.jpg?cb=1554640511>"&gt;
+  &lt;/section&gt;```
+
+Entonces quiero aprender TDD y scrapping para bajarme esas imágenes pero básicamente porque es divertido
+¿cómo lo encararían uds?
+yo pienso algo en node que vaya a la url, busque las section y tome de ahí las src de las img y descargarlas en algún lado.
+pero el testing no se como armarlo, y lo otro tampoco pero me parece mas fácil creo :sweat_smile:
+18:47:28 - Martín Valdés de León (@mvaldesdeleon):
+yo partiria el problema en tres modulos:
+1. algo que recibe una url y te trae el html
+2. algo que recibe un html, te corre un selector y te trae un atributo de los elementos matcheados
+3. algo que recibe una url y te trae una imagen
+18:48:00 - Martín Valdés de León (@mvaldesdeleon):
+dps cada modulo podes seguir partiendolo en mas cachitos como tengas ganas/en funcion de que libs vayas a usar
+18:48:13 - Martín Valdés de León (@mvaldesdeleon):
+pero ya vas teniendo cosas del estilo "para X input espero Y output"
+18:48:22 - Martín Valdés de León (@mvaldesdeleon):
+que podes codificar en un test
+18:48:36 - Juan Scolari (@juanscolari):
+si es por bajar las imagenes nomas podes descargar la presentacion en pdf
+18:49:49 - Ezequiel Gentile (@gentilmente):
+siiii, es para aprender TDD y scrap, para enseñarle a unos alumnos
+18:50:18 - Juan Scolari (@juanscolari):
+ah, joya, hacele caso a martin entonces
+22:05:31 - German Gonzalez (@gercho):
+El error que reporté hoy sobre postgre
+22:06:01 - German Gonzalez (@gercho):
+dice que falta la prpiedad client pero acá se puede ver que existe
+22:06:37 - German Gonzalez (@gercho):
+a alguien le paso esto?
+22:18:07 - Marcos Casagrande (@marcoscvp90):
+Como estás usando 'knex` mostrá como lo llamás.
+22:18:15 - Marcos Casagrande (@marcoscvp90):
+Capaz no le llega `.dev`
+22:20:07 - German Gonzalez (@gercho):
+lo instale localmente y luego global
+22:20:14 - German Gonzalez (@gercho):
+al principio usaba npx knex ...
+22:20:20 - German Gonzalez (@gercho):
+luego lo instale global
+22:21:38 - Marcos Casagrande (@marcoscvp90):
+estás usando `knex` globalmente?
+22:22:06 - German Gonzalez (@gercho):
+primero lo instale solo en el proyecto y lo corria con npx
+22:22:10 - German Gonzalez (@gercho):
+Luego global para ver que onda
+22:22:18 - German Gonzalez (@gercho):
+pienso eliminarlo global y solo usarlo en cada proyecto
+22:22:25 - German Gonzalez (@gercho):
+(btw, que me recomendas)
+22:22:26 - Marcos Casagrande (@marcoscvp90):
+Probá `development`
+22:23:02 - German Gonzalez (@gercho):
+Jajajaja sos un genio
+22:23:03 - Marcos Casagrande (@marcoscvp90):
+Y nunca global la verdad, los únicos packages que instalo global, son tools onda `nodemon`, no un package que usás en el código.
+22:23:17 - German Gonzalez (@gercho):
+no me iba a dar cuenta nunca
+22:23:33 - Marcos Casagrande (@marcoscvp90):
+:partyparrot:
+22:23:50 - Marcos Casagrande (@marcoscvp90):
+por las dudas, no es `prod` sino `production`
+22:23:55 - Marcos Casagrande (@marcoscvp90):
+cuando lo corras en prod :slightly_smiling_face:
+22:24:41 - German Gonzalez (@gercho):
+si, ahora le voy a dar más bola a estos namings
+22:24:44 - German Gonzalez (@gercho):
+mil gracias chabon
+22:24:52 - Marcos Casagrande (@marcoscvp90):
+de nada!
+04:02:07 - Martín Valdés de León (@mvaldesdeleon):
+completando, hoy en dia ya no hay necesidad de instalar algo global. si queres que tu proyecto use un cli como parte del dev toolchain, agregalo a devDependencies y correlo con `npx` dentro del dir del proyecto
+09:33:37 - Lucas Accastello (@accastellolucas):
+Gente, les hago una consulta. Estoy trabajando un proyecto que cuenta con una sitio institucional y desde ahí se da acceso a un login que lleva a un sistema administrativo. Estoy trabajando con Angular 7. La consulta es: ¿Recomiendan no utilizar Angular para crear el sitio institucional por el SEO? ¿Piensan que tal vez no hace falta utilizar el framework para crear un sitio con 4 páginas?. Nuestra preocupación es el SEO. Obviamente la única parte que necesitamos que Google indexe es este sitio. Conozco de Angular Universal pero no creo que sea necesario. ¿Es posible tener el sitio institucional fuera del proyecto Angular y luego al loguearse entrar al sistema? Gracias
+09:38:53 - Pablo Miceli (@pablomiceli24):
+Donde yo laburaba antes hacian eso, para la landing usaban algo más SEO friendly (no recuerdo qué). Y despues tenían un subdominio tipo <http://app.sarasasite.com|app.sarasasite.com> donde tenian la app en react
+09:39:01 - Pablo Miceli (@pablomiceli24):
+creo que es algo re comun eso
+09:41:55 - Juan Scolari (@juanscolari):
+Si fuera yo, lo haria con vanilla js a un cdn y listo. Con Angular deberias pensar en hacerlo con ssr, porque el seo que te da sino es medio medio. El login lo podes hacer tranquilamente como dijo pablo, mandandolo a un subdominio
+09:42:31 - Juan Scolari (@juanscolari):
+opinion nomas
+09:44:56 - Martín Aimar (@maimar):
+también <http://prerender.io|prerender.io> si pueden
+09:54:38 - Jonatan Salas (@jsalas):
+Si ya lo tenés con angular, podes hacer prerendering, usando la API de Puppeteer, entonces, cuando alguien pide las páginas institucionales las prerenderizas, y las podes mantener cacheadas, con NGINX, o un VARNISH o lo que tengas adelante que se encargue de exponer tu app y el sitio a internet.
+10:04:44 - Lucas Accastello (@accastellolucas):
+Claro, es más o menos lo que me imaginaba. Seguramente vamos a utilizar un subdominio porque no tenemos experiencia en prerenderizado. Gracias.
+10:16:58 - Brian Hume (@brianh20):
+Alguien uso node con el calendario de Mac? Busque en el canal de #nuncaTePasoEnLaVida pero no habia
+11:45:56 - Santiago Ruffino (@santi_0898):
+Alguien trabaja/trabajo con Instapage?
+13:41:29 - Santiago Ruffino (@santi_0898):
+Cambio pregunta. Alguien usa la API de Google Ads?
+15:10:09 - Sebastian Villalba (@sebillac81):
+Hola, alguien peleó con Cypress con Windows Auth? Necesito pasar las credentials pero no me da mucha bola. Estuve probando con el plugin cypress-ntlm-auth pero hasta ahora no me anduvo. O sea...sigue sin pasar las credenciales. (lo estoy usando para Angular)
+15:15:59 - Mateo Silguero (@mfsilguero):
+Si uso cypress, pero nunca esa libreria. Te indica algun error puntual ?
+15:37:57 - Sebastian Villalba (@sebillac81):
+me rebota la API con 401
+15:38:26 - Sebastian Villalba (@sebillac81):
+o sea tengo mi App Angular, y se comunica con una API por windows auth
+15:38:36 - Sebastian Villalba (@sebillac81):
+todo local por el momento
+15:40:12 - Sebastian Villalba (@sebillac81):
+fuera de cypress funciona bien, pero con Cypress me lo rebota. Desde el browser que abre Cypress quiero entrar a algún endpoint de mi Api y también me tira 401. Es como que ese browser no tiene mis credenciales. Quiero ver la manera que las tenga. Por eso me puse a ver este plugin, pero hasta ahora no noté diferencia
+15:40:30 - Sebastian Villalba (@sebillac81):
+en que escenario lo estás usando <@U7B6WSXJQ>?
+15:59:35 - Mateo Silguero (@mfsilguero):
+Cypress abre una instancia de chrome nueva, y no guarda cache ni nada, la refresca cada vez que corres los tests
+16:00:17 - Mateo Silguero (@mfsilguero):
+Nunca use esa libreria de auth, pero con respecto a cypress, tuve algunas limitaciones en cuanto a pegarle a dominios distintos al que estas corriendo, y manipulando iframes
+16:20:01 - Sebastian Villalba (@sebillac81):
+entiendo que no estas usando windows Auth, no?
+16:29:35 - Mateo Silguero (@mfsilguero):
+No, pero si cypress
+17:09:19 - Mariano Argañaras (@arga.mariano):
+buenas gente, tengo un slider (onda los input type range) totalmente custom, y necesito agregarle steps. Por ej, del 1 al 100, que vaya de 5 en 5. Alguna idea de como hacerlo matematicamente?
+17:11:18 - Martín Aimar (@maimar):
+input type range acepta un atributo `step`
+17:11:41 - Martín Valdés de León (@mvaldesdeleon):
+pero tiene uno custom
+17:11:57 - Martín Aimar (@maimar):
+tengo que leer mejor
+17:12:17 - Martín Valdés de León (@mvaldesdeleon):
+en algun lugar tenes un cacho de codigo que responde a la posicion del mouse y ajusta la UI y demas. ahi vas a tener que agregar logica para "redondear" los valores a uno de los steps validos
+17:13:25 - Martín Valdés de León (@mvaldesdeleon):
+de alguna manera ya estas mapeando la posicion del mouse a un valor entre 1 y 100
+17:13:34 - Martín Valdés de León (@mvaldesdeleon):
+lo que tenes q agregar es la parte de redondear
+17:13:45 - Martín Valdés de León (@mvaldesdeleon):
+dividi el valor por el tamaño del step, ahora tenes un numero con decimales
+17:14:09 - Martín Valdés de León (@mvaldesdeleon):
+redondealo usando Round
+17:14:25 - Martín Valdés de León (@mvaldesdeleon):
+(No Floor, No Ceil, No Trunc, *Round*)
+17:14:34 - Martín Valdés de León (@mvaldesdeleon):
+Multiplica el resultado por el tamaño del step, y ese es el valor que deberias usar.
+17:18:23 - Mariano Argañaras (@arga.mariano):
+perfecto, es justo lo que necesitaba
+17:18:33 - Mariano Argañaras (@arga.mariano):
+voy a probarlo. Gracias Martin, que grande!
+17:35:15 - david garcia (@manuonda):
+disculpen , como estan?. No sabia muy bien donde preguntar..sobre la compra de templates para una aplicacion en Ionic.
+17:35:21 - david garcia (@manuonda):
+que paginame pueden recomendar ?
+17:36:52 - Martín Aimar (@maimar):
+hay uno oficial <https://market.ionicframework.com/themes>
+17:46:34 - david garcia (@manuonda):
+gracias
+18:44:29 - Ezequiel Gentile (@gentilmente):
+Buenas. Quiero descargarme una serie de imágenes de este sitio
+<https://es.slideshare.net/felixsigno/tendencias-de-estudio-en-cognicin-creatividad-y-aprendizaje>
+y veo que están así:
+```&lt;div class="slide_container" style="width: 100%;"&gt;
+  &lt;section data-index="1" class="slide show" itemprop="image" style="position: relative;"&gt;
+    &lt;img class="slide_image" src="<https://image1.jpg?cb=1554640511>"&gt;  
+  &lt;/section&gt;
+  &lt;section data-index="2" class="slide" style="position: relative;"&gt;
+    &lt;i class="fa fa-spinner fa-spin"&gt;&lt;/i&gt;
+    &lt;img class="slide_image" src="" data-small="<https://image2.jpg?cb=1554640511>"&gt;
+  &lt;/section&gt;```
+
+Entonces quiero aprender TDD y scrapping para bajarme esas imágenes pero básicamente porque es divertido
+¿cómo lo encararían uds?
+yo pienso algo en node que vaya a la url, busque las section y tome de ahí las src de las img y descargarlas en algún lado.
+pero el testing no se como armarlo, y lo otro tampoco pero me parece mas fácil creo :sweat_smile:
+18:47:28 - Martín Valdés de León (@mvaldesdeleon):
+yo partiria el problema en tres modulos:
+1. algo que recibe una url y te trae el html
+2. algo que recibe un html, te corre un selector y te trae un atributo de los elementos matcheados
+3. algo que recibe una url y te trae una imagen
+18:48:00 - Martín Valdés de León (@mvaldesdeleon):
+dps cada modulo podes seguir partiendolo en mas cachitos como tengas ganas/en funcion de que libs vayas a usar
+18:48:13 - Martín Valdés de León (@mvaldesdeleon):
+pero ya vas teniendo cosas del estilo "para X input espero Y output"
+18:48:22 - Martín Valdés de León (@mvaldesdeleon):
+que podes codificar en un test
+18:48:36 - Juan Scolari (@juanscolari):
+si es por bajar las imagenes nomas podes descargar la presentacion en pdf
+18:49:49 - Ezequiel Gentile (@gentilmente):
+siiii, es para aprender TDD y scrap, para enseñarle a unos alumnos
+18:50:18 - Juan Scolari (@juanscolari):
+ah, joya, hacele caso a martin entonces
