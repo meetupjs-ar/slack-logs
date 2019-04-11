@@ -1,0 +1,491 @@
+21:02:09 - Martín Aimar (@maimar):
+<@UGQTUDQSG> Felipe dice que ya puso el cdn pero no mejora mucho el tiempo de carga 
+21:02:42 - Martín Aimar (@maimar):
+Me parece que npi cómo troubleshootear eso
+21:46:34 - Marcos Casagrande (@marcoscvp90):
+Ni idea que problema tiene. Si no sabés decile y listo, no pasa nada
+08:19:59 - Mariano Ramonda (@ing.inf.mariano):
+Tarde pero tal vez ayuda
+08:20:52 - Mariano Ramonda (@ing.inf.mariano):
+Si lo que pasas a cdn es un .js al tag script tendrías que agregarle “defer” si queres ganar en performance de carga
+08:22:22 - Mariano Ramonda (@ing.inf.mariano):
+Para css hay un tag rel=“preload”
+09:20:49 - Aldo Sorbara (@aldo1891):
+Ayer hice una sesión de 2 hs
+09:20:55 - Aldo Sorbara (@aldo1891):
+:fastparrot:
+09:22:10 - Martín Aimar (@maimar):
+/gif make it rain
+09:31:45 - Mariano Ramonda (@ing.inf.mariano):
+:dollarparrot
+12:00:52 - Federico A. Sawady O'Connor (@sawady.faso):
+acá ta
+12:00:55 - Federico A. Sawady O'Connor (@sawady.faso):
+no sabía de este canal
+12:00:57 - Federico A. Sawady O'Connor (@sawady.faso):
+una pregunta
+12:01:04 - Federico A. Sawady O'Connor (@sawady.faso):
+qué le mandaron en "Tax Information"?
+12:02:16 - Aldo Sorbara (@aldo1891):
+ya no me acuerdo y ahora no me deja ni ver ni editar el form
+12:02:25 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja me imaginé
+12:02:27 - Aldo Sorbara (@aldo1891):
+pero no era nada complicado, la mayoria de cosas era para gente que reside en USA
+12:02:51 - Federico A. Sawady O'Connor (@sawady.faso):
+porque lo que se me ocurría es que la guita pase a payoneer, para poder usarla
+12:02:54 - Federico A. Sawady O'Connor (@sawady.faso):
+es lo que conviene?
+12:03:28 - Aldo Sorbara (@aldo1891):
+aca varios usamos payoneer, yo por ahora no tuve problemas. Otros usan transferwise
+12:04:24 - Federico A. Sawady O'Connor (@sawady.faso):
+lo que me gustó de payoneer es que te dan la tarjeta mastercard, el otro no lo conozco, voy a investigar
+12:04:36 - Federico A. Sawady O'Connor (@sawady.faso):
+yo la verdad nunca recibí pagos del exterior
+12:04:40 - Federico A. Sawady O'Connor (@sawady.faso):
+pero me está interesando el tema
+12:04:52 - Federico A. Sawady O'Connor (@sawady.faso):
+y esto de codementor me agrada, se me hace llevadero
+12:06:00 - Aldo Sorbara (@aldo1891):
+yo tengo la tarjeta y no tuve problemas
+12:06:26 - Marcos Casagrande (@marcoscvp90):
+ya estás adentro <@UG2QK9A66>? pasá perfil, así te stalkeamos :joy:
+12:08:17 - Federico A. Sawady O'Connor (@sawady.faso):
+<https://www.codementor.io/sawadyfaso>
+12:08:26 - Juan Scolari (@juanscolari):
+lo usan como mentores o para buscar freelos?
+21:02:09 - Martín Aimar (@maimar):
+<@UGQTUDQSG> Felipe dice que ya puso el cdn pero no mejora mucho el tiempo de carga 
+21:02:42 - Martín Aimar (@maimar):
+Me parece que npi cómo troubleshootear eso
+21:46:34 - Marcos Casagrande (@marcoscvp90):
+Ni idea que problema tiene. Si no sabés decile y listo, no pasa nada
+08:19:59 - Mariano Ramonda (@ing.inf.mariano):
+Tarde pero tal vez ayuda
+08:20:52 - Mariano Ramonda (@ing.inf.mariano):
+Si lo que pasas a cdn es un .js al tag script tendrías que agregarle “defer” si queres ganar en performance de carga
+08:22:22 - Mariano Ramonda (@ing.inf.mariano):
+Para css hay un tag rel=“preload”
+09:20:49 - Aldo Sorbara (@aldo1891):
+Ayer hice una sesión de 2 hs
+09:20:55 - Aldo Sorbara (@aldo1891):
+:fastparrot:
+09:22:10 - Martín Aimar (@maimar):
+/gif make it rain
+09:31:45 - Mariano Ramonda (@ing.inf.mariano):
+:dollarparrot
+12:00:52 - Federico A. Sawady O'Connor (@sawady.faso):
+acá ta
+12:00:55 - Federico A. Sawady O'Connor (@sawady.faso):
+no sabía de este canal
+12:00:57 - Federico A. Sawady O'Connor (@sawady.faso):
+una pregunta
+12:01:04 - Federico A. Sawady O'Connor (@sawady.faso):
+qué le mandaron en "Tax Information"?
+12:02:16 - Aldo Sorbara (@aldo1891):
+ya no me acuerdo y ahora no me deja ni ver ni editar el form
+12:02:25 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja me imaginé
+12:02:27 - Aldo Sorbara (@aldo1891):
+pero no era nada complicado, la mayoria de cosas era para gente que reside en USA
+12:02:51 - Federico A. Sawady O'Connor (@sawady.faso):
+porque lo que se me ocurría es que la guita pase a payoneer, para poder usarla
+12:02:54 - Federico A. Sawady O'Connor (@sawady.faso):
+es lo que conviene?
+12:03:28 - Aldo Sorbara (@aldo1891):
+aca varios usamos payoneer, yo por ahora no tuve problemas. Otros usan transferwise
+12:04:24 - Federico A. Sawady O'Connor (@sawady.faso):
+lo que me gustó de payoneer es que te dan la tarjeta mastercard, el otro no lo conozco, voy a investigar
+12:04:36 - Federico A. Sawady O'Connor (@sawady.faso):
+yo la verdad nunca recibí pagos del exterior
+12:04:40 - Federico A. Sawady O'Connor (@sawady.faso):
+pero me está interesando el tema
+12:04:52 - Federico A. Sawady O'Connor (@sawady.faso):
+y esto de codementor me agrada, se me hace llevadero
+12:06:00 - Aldo Sorbara (@aldo1891):
+yo tengo la tarjeta y no tuve problemas
+12:06:26 - Marcos Casagrande (@marcoscvp90):
+ya estás adentro <@UG2QK9A66>? pasá perfil, así te stalkeamos :joy:
+12:08:17 - Federico A. Sawady O'Connor (@sawady.faso):
+<https://www.codementor.io/sawadyfaso>
+12:08:26 - Juan Scolari (@juanscolari):
+lo usan como mentores o para buscar freelos?
+12:08:29 - Federico A. Sawady O'Connor (@sawady.faso):
+no se rían (?
+12:08:36 - Federico A. Sawady O'Connor (@sawady.faso):
+yo por ahora estoy sólo mentoreando
+12:08:44 - Federico A. Sawady O'Connor (@sawady.faso):
+vi un para de freelos pero no me convencieron
+12:08:54 - Juan Scolari (@juanscolari):
+inglish o spanish?
+12:09:01 - Federico A. Sawady O'Connor (@sawady.faso):
+esto para mi va a ser como el Uber de la gente común jaja
+12:09:08 - Federico A. Sawady O'Connor (@sawady.faso):
+pero para programadores
+12:09:15 - Juan Scolari (@juanscolari):
+no conocia
+12:09:21 - Marcos Casagrande (@marcoscvp90):
+Es un 90% sesiones en vivo, no es tanto onda "mentor" de profesor.
+12:09:36 - Marcos Casagrande (@marcoscvp90):
+Es más que nada, necesito un senior que encuentre el error o me haga esta funcionalidad.
+12:09:37 - Adrián Velasco (@adrivelasco1506):
+jajaja tal cua
+12:10:04 - Marcos Casagrande (@marcoscvp90):
+O sino "laburos freelance en vivo"
+12:10:07 - Juan Scolari (@juanscolari):
+yo creo que soy bueno encontrando errores
+12:10:08 - Federico A. Sawady O'Connor (@sawady.faso):
+las que yo hice como puse que soy profesor, me caen alumnos, les voy explicando la solución paso a paso
+12:10:15 - Juan Scolari (@juanscolari):
+podria hacerme una vida de eso :thinking_face:
+12:10:22 - Marcos Casagrande (@marcoscvp90):
+O sea, yo estoy hace 2 meses haciendole un chatbot a un flaco, 1 hora por día, porque el quiere ir aprendiendo.
+12:10:33 - Federico A. Sawady O'Connor (@sawady.faso):
+claaaro, esa la posta
+12:10:35 - Federico A. Sawady O'Connor (@sawady.faso):
+cliente fijo
+12:10:47 - Federico A. Sawady O'Connor (@sawady.faso):
+yo tengo un flaco que me dijo que me va a necesitar todo el semestre
+12:10:53 - Marcos Casagrande (@marcoscvp90):
+Después tenés freelance jobs, sobretodo laburos de facultad.
+12:11:14 - Martín Aimar (@maimar):
+está hablando del faso?
+12:11:22 - Marcos Casagrande (@marcoscvp90):
+Pero el groso de laburo es en vivo, en inglés, a no ser que te toque algún latino/español, que debe ser el 1% del sitio o menos.
+12:13:57 - Juan Scolari (@juanscolari):
+de haskell te piden?
+12:14:51 - Federico A. Sawady O'Connor (@sawady.faso):
+jajaj puta madre me quedó faso de Google seguro
+12:14:57 - Federico A. Sawady O'Connor (@sawady.faso):
+son mis iniciales (?
+12:15:19 - Federico A. Sawady O'Connor (@sawady.faso):
+si, tuve 2 sesiones hoy sobre Haskell
+12:15:29 - Federico A. Sawady O'Connor (@sawady.faso):
+llegué a este paso
+12:15:32 - Federico A. Sawady O'Connor (@sawady.faso):
+y no entiendo
+12:15:44 - Federico A. Sawady O'Connor (@sawady.faso):
+tengo que llegar ese formulario
+12:15:58 - Marcos Casagrande (@marcoscvp90):
+No, ese formulario es solo si sos US resident o citizen
+12:16:54 - Federico A. Sawady O'Connor (@sawady.faso):
+ah ok
+12:17:04 - Federico A. Sawady O'Connor (@sawady.faso):
+entonces por qué me lo mostró :no_mouth:
+12:17:18 - Marcos Casagrande (@marcoscvp90):
+seguramente seleccionaste una opción incorrecta antes.
+12:17:41 - Juan Scolari (@juanscolari):
+puse el filtro en mentores de node.js y me sale marcos entre los primeros, clap clap
+12:20:23 - Marcos Casagrande (@marcoscvp90):
+El buscador es pésimo la verdad igual.
+12:21:02 - Marcos Casagrande (@marcoscvp90):
+Porque no está ordenado por las validaciones en la tag por ejemplo, y ese Mark Tellez, tiene menos sesiones que yo, menos reviews, y menos validaciones en Node.js
+12:21:48 - Juan Scolari (@juanscolari):
+por que sera?
+12:21:51 - Marcos Casagrande (@marcoscvp90):
+y de hecho tiene 3 reviews de 4 estrellas...
+12:22:00 - Federico A. Sawady O'Connor (@sawady.faso):
+pero se llama Mark (?
+12:22:34 - Marcos Casagrande (@marcoscvp90):
+Pasa constantemente eso, el ordenamiento "selectivo", gente que aparece ahí sin ningun tipo de sentido.
+12:23:11 - Juan Scolari (@juanscolari):
+Igual tambien esta este ponele Johnny B. (Ionică Bizău)
+12:23:29 - Juan Scolari (@juanscolari):
+que tiene unas cuantas reviews y esta mas abajo
+12:23:47 - Marcos Casagrande (@marcoscvp90):
+No, pero ese está *offline*
+12:24:01 - Marcos Casagrande (@marcoscvp90):
+el sorting es online featured &gt; offline featured &gt; online &gt; offline
+12:24:16 - Marcos Casagrande (@marcoscvp90):
+y en teoría: sesiones/reviews es el orden dentro de esos parámetros.
+12:25:42 - Juan Scolari (@juanscolari):
+featured vos pagas para salir o te ponen ellos?
+12:25:55 - Federico A. Sawady O'Connor (@sawady.faso):
+che y está bien que le mandé 15 dólares cada 15 min?
+12:25:58 - Federico A. Sawady O'Connor (@sawady.faso):
+me pareció razonable
+12:26:20 - Federico A. Sawady O'Connor (@sawady.faso):
+pero vi otra gente que arranca la cabeza
+12:26:28 - Federico A. Sawady O'Connor (@sawady.faso):
+sin remordimientos jaja
+12:26:37 - Martín Aimar (@maimar):
+igual eso se puede modificar antes de arrancar la sesión?
+12:26:41 - Federico A. Sawady O'Connor (@sawady.faso):
+sep
+12:26:44 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/TQWVahx.png>
+12:26:47 - Federico A. Sawady O'Connor (@sawady.faso):
+se puede
+12:26:54 - Marcos Casagrande (@marcoscvp90):
+Es que mirá, gano en todas las comparaciones, y el sale primero..
+12:27:15 - Marcos Casagrande (@marcoscvp90):
+Podés meter tarifa por usuario antes de arrancar la sesión
+12:27:46 - Gonzalo González Mora (@gonzalogm):
+Meté 25 la hora y fijate qué onda jaja
+12:27:47 - Marcos Casagrande (@marcoscvp90):
+Es la mejor tarifa para arrancar, si ponés más sin reputación te va a costar agarrar sesiones:
+12:27:55 - Gonzalo González Mora (@gonzalogm):
+los 15min digo
+12:27:56 - Martín Aimar (@maimar):
+claro cobrá como la gente si querés salir primero
+12:28:07 - Federico A. Sawady O'Connor (@sawady.faso):
+claro eso es cierto
+12:28:22 - Marcos Casagrande (@marcoscvp90):
+Es que en la comparación se valora más que sea más barato..
+12:28:29 - Marcos Casagrande (@marcoscvp90):
+:thumbsup:  tiene la comparacion de precio
+12:28:42 - Gonzalo González Mora (@gonzalogm):
+Ah es verdad
+12:28:53 - Federico A. Sawady O'Connor (@sawady.faso):
+para mi 20 está bien entonces
+12:29:00 - Federico A. Sawady O'Connor (@sawady.faso):
+arranqué con 15 para ver qué onda nomás
+12:29:31 - Gonzalo González Mora (@gonzalogm):
+Yo si supiera lo que saben uds sería alto mercenario :knife:
+12:30:05 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja no tenés que ser crack
+12:30:42 - Juan Scolari (@juanscolari):
+posta, te estan cagando :smile:
+12:31:22 - Juan Scolari (@juanscolari):
+eso arreglan de antemano o puede salir alguno en el momento que te diga che, sale una live?
+12:31:23 - Aldo Sorbara (@aldo1891):
+jajaja la mejor definicion de todas
+12:33:56 - Aldo Sorbara (@aldo1891):
+yo hice cosas de css javascript, muy tranquilo todo, no habia que ser muy crack
+12:35:15 - Gonzalo González Mora (@gonzalogm):
+Me voy a tener que registrar entonces jajaja
+12:35:17 - Adrián Velasco (@adrivelasco1506):
+pasen perfiles así nos hacemos follow for follow like girls
+12:35:39 - Martín Aimar (@maimar):
+dale
+12:35:42 - Martín Aimar (@maimar):
+bff
+12:35:44 - Martín Aimar (@maimar):
+<https://www.codementor.io/martinaimar>
+12:36:16 - Marcos Casagrande (@marcoscvp90):
+Estoy re caliente con ese Mark Tellez jaja
+12:36:40 - Marcos Casagrande (@marcoscvp90):
+sessions / Node.js validations
+
+*Yo:* 684 / 44 = 15,54
+*Mark Tellez:* 661 / 23 = 28,73
+*Johny B:* 1588 / 51 = 31,13
+*Usman Ibrahim:* 1091 / 26 = 46,96
+*Jessamyn Smith:* 3072 / 39 = 78,76
+12:39:39 - Juan Scolari (@juanscolari):
+jajajaj
+12:39:57 - Federico A. Sawady O'Connor (@sawady.faso):
+jajaj
+12:41:02 - Juan Scolari (@juanscolari):
+la estrella es el follow?
+12:42:45 - Marcos Casagrande (@marcoscvp90):
+Que estrella?
+12:44:09 - Marcos Casagrande (@marcoscvp90):
+Los nuevos pueden revisar esta wiki: <https://gist.github.com/jjant/1ea469c8778198f36c9745be7bdbbc34>
+12:44:47 - Marcos Casagrande (@marcoscvp90):
+Ah, eso es favoritos
+12:45:00 - Marcos Casagrande (@marcoscvp90):
+El follow es el botón de follow que aparece por algún lado en el perfil.
+12:45:16 - Marcos Casagrande (@marcoscvp90):
+Es para marcar a mentors o clientes como favoritos, así los encontrás más fácil en el chat.
+12:46:01 - Juan Scolari (@juanscolari):
+ni sale en el perfil el follow
+12:46:03 - Juan Scolari (@juanscolari):
+ararisimo
+12:46:38 - Marcos Casagrande (@marcoscvp90):
+Sos mentor o usuario?
+12:46:58 - Juan Scolari (@juanscolari):
+buena pregunta
+12:47:10 - Juan Scolari (@juanscolari):
+creo que no puse nada
+12:47:17 - Juan Scolari (@juanscolari):
+si puse debo haber puesto mentor igual
+14:05:31 - Julian (@jantonielli01):
+Yo no encontré el follow tampoco 
+14:05:38 - Julian (@jantonielli01):
+Pero capaz soy un bobo
+14:06:51 - Aldo Sorbara (@aldo1891):
+yo tampoco lo veo, pero lo gracioso es que si veo los "followers" a esos si puedo hacerle follow :open_mouth:
+14:09:11 - Julian (@jantonielli01):
+Se jajaj me pasó lo mismo 
+14:12:44 - Marcos Casagrande (@marcoscvp90):
+no busquen excusas, siganme (?)
+14:12:54 - Marcos Casagrande (@marcoscvp90):
+follow 4 follow :joy:
+14:15:08 - Juan Scolari (@juanscolari):
+todos queremos seguirte pero te robaron el boton de follow jaj
+14:15:28 - Juan Scolari (@juanscolari):
+debe haber sido tu amigo Markitoz Tellez
+14:26:38 - Marcos Casagrande (@marcoscvp90):
+Les mandé mail para que me expliquen el search
+14:28:21 - Julian (@jantonielli01):
+Hajajaj 
+14:28:30 - Julian (@jantonielli01):
+Sos un histérico chabon 
+14:30:44 - Marcos Casagrande (@marcoscvp90):
+1) Sí
+2) Salir primero en el search te da laburo, es fundado el histeriquismo.
+14:31:23 - Julian (@jantonielli01):
+Sep lo sé 
+14:40:42 - Marcos Casagrande (@marcoscvp90):
+De paso descubro una mafia de cometas para salir primero en el buscador
+14:42:20 - Mariano Ramonda (@ing.inf.mariano):
+Mark encourages you to go for $25/15mins
+14:43:07 - Gonzalo González Mora (@gonzalogm):
+_We use Machine Learning™ and AI™ to get you the best search results_
+14:50:21 - Marcos Casagrande (@marcoscvp90):
+Me lo iba a subir cuando llegue a las 1000 sesiones en 2-3 meses, pero capaz ocurre antes.
+14:51:40 - Juan Scolari (@juanscolari):
+hay que aprovecharte ahora que esta la oferta
+14:51:51 - Juan Scolari (@juanscolari):
+o mejor preguntar por aca que sale gratis :smile:
+14:52:12 - Juan Scolari (@juanscolari):
+despues comenta si te repondieron lo del search que me interesa
+14:55:09 - Marcos Casagrande (@marcoscvp90):
+Si si, apenas me respondan voy a tirar acá como "funciona". Para mi tienen un botón interno de destacar. Porque siempre hay un par de perfiles que están por ahí sin lógica alguna.
+14:56:05 - Martín Aimar (@maimar):
+como mercadolibre
+14:56:12 - Martín Aimar (@maimar):
+que ordenás por precio y siempre sale cualquier cosa
+14:58:20 - Juan Scolari (@juanscolari):
+usan Algolia para la search
+14:58:50 - Marcos Casagrande (@marcoscvp90):
+Está trending topic este channel hoy, muchas incorporaciones.
+15:11:28 - Aldo Sorbara (@aldo1891):
+si
+15:11:37 - Aldo Sorbara (@aldo1891):
+los rumores son ciertos
+15:11:55 - Aldo Sorbara (@aldo1891):
+solo tienen que depositarme 20 dolares cada uno y se convierten en freelancers
+15:12:00 - Aldo Sorbara (@aldo1891):
+ahora dejo mi cbu
+15:46:33 - Marcos Casagrande (@marcoscvp90):
+Los nuevos que van entrando, puede revisar esta wiki: <https://gist.github.com/jjant/1ea469c8778198f36c9745be7bdbbc34>
+15:59:19 - Federico A. Sawady O'Connor (@sawady.faso):
+oh, excelente
+17:27:53 - Julian (@jantonielli01):
+bueno ahí lo pude seguir a <@UGQTUDQSG>
+17:27:58 - Julian (@jantonielli01):
+a traves de los followers de otro lmao
+17:41:55 - Marcos Casagrande (@marcoscvp90):
+Jajajaja capaz te puedo seguir a través de mis followers
+17:43:39 - Marcos Casagrande (@marcoscvp90):
+Ahí fue
+17:50:34 - Juan Scolari (@juanscolari):
+pasa el follow del follow
+17:50:54 - Julian (@jantonielli01):
+ajaj
+17:50:58 - Julian (@jantonielli01):
+lo pueden seguir a marcos desde aca
+17:50:59 - Julian (@jantonielli01):
+<https://www.codementor.io/julianantonielli/followers>
+17:51:16 - Julian (@jantonielli01):
+btw, esta buggeado el titulo y dice `undefinedJulian Antonielli` lmao
+17:51:25 - Juan Scolari (@juanscolari):
+excelente
+17:51:26 - Juan Scolari (@juanscolari):
+jajaj
+17:51:49 - Juan Scolari (@juanscolari):
+te seguiria, but tu sabes
+17:52:15 - Juan Scolari (@juanscolari):
+ah, ahi te pude seguir desde la de marcos
+17:56:17 - Julian (@jantonielli01):
+Éramos tan pobres 
+18:02:13 - Gabriel Fusca (@gfuscax):
+ahi le di follow a los que encontre marcos, julian y juan
+18:05:03 - Gabriel Fusca (@gfuscax):
+haciendo eso mismo que decia <@U7MP5R4MC>
+18:06:19 - Gabriel Fusca (@gfuscax):
+si le doy follow a mi mismo tira 409 :troll:
+18:11:28 - Martín Aimar (@maimar):
+jajajaj
+18:11:41 - Martín Aimar (@maimar):
+no anda nada, pero te tira 409 cuando algo no se puede
+18:12:03 - Julian (@jantonielli01):
+Hajaja 
+18:47:02 - Marcos Casagrande (@marcoscvp90):
+Miren, cliente tóxico, la mina que no me dejaba programar ni testear el código, porque no quería que le vea la IP de le terminal (127.0.0.1)
+18:47:19 - Marcos Casagrande (@marcoscvp90):
+```
+Most unprofessional mentor experience ever. Left our session with unfinished code and after multiple requests to reschedule to finish it, he's never available and doesn't communicate that. If you want to learn, get a different mentor. He treats his live sessions like a freelance gig, just writing code for you, instead of actually trying to get you to understand the material. Also, he was complaining that I was pausing the screen share too frequently- if the mentee wants to pause the screen share to hide private information, the mentor should respect that. Please remember that a live session is for you to help your students, not for you to just get things done your way. Unprofessional and does not communicate well.
+```
+18:47:22 - Marcos Casagrande (@marcoscvp90):
+*Also, he was complaining that I was pausing the screen share too frequently*
+18:47:53 - Marcos Casagrande (@marcoscvp90):
+Le abrí un request a CM, a ver que hacen, sino le tendré que dar la guita, pero me la venía venir cuando no paraba de pausar la pantalla, y nunca me dejó testear el script.
+18:51:01 - Julian (@jantonielli01):
+lmao
+18:51:17 - Julian (@jantonielli01):
+Que hija de puta
+18:51:21 - Julian (@jantonielli01):
+Cuanta $$ era?
+18:51:22 - Adrián Velasco (@adrivelasco1506):
+mi perfil es <https://codementor.io/adrianvelasco> btw
+18:51:25 - Marcos Casagrande (@marcoscvp90):
+o sea, le hice el script *100%* y funciona, solo que no sabe correrlo, porque no me dejaba correrlo.
+18:51:48 - Marcos Casagrande (@marcoscvp90):
+Le tira un error porque no tiene las variables de entorno, que ella pidió que sean variables de entorno. y entonces el script "está mal"
+18:52:49 - Marcos Casagrande (@marcoscvp90):
+Ahí le dejé un review equivalente así nadie tiene una sesión con ella
+18:53:10 - Juan Scolari (@juanscolari):
+tu opinion cual es de por que hizo quilombo?
+18:53:24 - Marcos Casagrande (@marcoscvp90):
+Porque me dijo si quería tener una sesión con ella recién
+18:53:26 - Marcos Casagrande (@marcoscvp90):
+y le dije que no
+18:53:32 - Marcos Casagrande (@marcoscvp90):
+y a los 5 minutos, puso esa review.
+18:53:40 - Juan Scolari (@juanscolari):
+flasho?
+18:53:49 - Juan Scolari (@juanscolari):
+se arrepintio y no queria pagar?
+18:53:54 - Julian (@jantonielli01):
+leiste la historia ayer/el otro dia?
+18:53:54 - Marcos Casagrande (@marcoscvp90):
+es una pelotudita, cada 5 minutos pausaba el screen sharing.
+18:53:58 - Julian (@jantonielli01):
+era alta imbecil jaja
+18:54:17 - Juan Scolari (@juanscolari):
+jajajaj
+18:54:50 - Juan Scolari (@juanscolari):
+la psiquis de los clientes es todo un misterio
+18:55:45 - Juan Scolari (@juanscolari):
+seguido
+19:08:12 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/sarahdes115>
+19:08:19 - Marcos Casagrande (@marcoscvp90):
+Eviten a esa mina si les habla.
+19:08:37 - Julian (@jantonielli01):
+hoy vi que el conchudo que no me pago el laburo a mi
+19:08:40 - Julian (@jantonielli01):
+se cambió el nombre jaj
+19:08:47 - Leandro Echevarria (@echevarrialeandro):
+Jajajaja un atrevido
+19:09:07 - Leandro Echevarria (@echevarrialeandro):
+Contestenle a la mina "If you will be pausing the screen every five minutes, go fuck off" :agite:
+19:09:13 - Leandro Echevarria (@echevarrialeandro):
+(joda, obvio)
+19:09:27 - Julian (@jantonielli01):
+mira la review de marcos jajaja
+19:09:30 - Julian (@jantonielli01):
+se inspiró
+19:09:59 - Marcos Casagrande (@marcoscvp90):
+Voy a poner su perfil en mi perfil, así todo el mundo sabe lo forra que es
+19:10:12 - Leandro Echevarria (@echevarrialeandro):
+JAJAJAJ Excelente esa
+19:10:21 - Leandro Echevarria (@echevarrialeandro):
+Pasa la review que le hizo Marcos asi me rio un rato
+19:10:39 - Gonzalo González Mora (@gonzalogm):
+jaja pongan la review que no la puedo ver, debe ser pq no estoy registrado
+19:11:58 - Leandro Echevarria (@echevarrialeandro):
+Majestuoso :clap::skin-tone-4:
+19:14:33 - Marcos Casagrande (@marcoscvp90):
+Flor de pelotuda, ahora se hace la vícitima
+19:15:27 - Leandro Echevarria (@echevarrialeandro):
+No quedan grabadaas las sesiones? La comeria toda frente a CM
+20:13:53 - Aldo Sorbara (@aldo1891):
+she thinks she has the google algorithm in her computer :laughing:
+20:28:20 - Ale Miralles (@amiralles):
+Esta semana meti dos sesiones y un freelo. Nada mal code mentor, eh… jajaja
+20:29:17 - Ale Miralles (@amiralles):
+Por suerte muy copados todos. Esperemos que siga asi.
