@@ -1,0 +1,558 @@
+00:02:19 - Rodrigo Avila (@rodrigo398):
+cracks !
+09:50:19 - kblok (@kblok):
+<https://www.coursera.org/gsi/> Argentina #1 en tecnología en Coursera
+09:50:21 - kblok (@kblok):
+<https://pages.coursera-for-business.org/rs/748-MIV-116/images/global-skills-index.pdf?utm_medium=coursera&amp;utm_source=small-org&amp;utm_campaign=website&amp;utm_content=gsi-small-org-ty-middle-download-gsi>
+10:00:07 - Daniel Agustín Tradito (@datradito):
+:clap::clap::clap::clap:
+10:25:29 - Cristhian Duran (@cris):
+en un ratito publicamos el primer meetup.js del 2019! :clap:
+10:26:00 - Cristhian Duran (@cris):
+:hamburgerparrot:
+10:27:43 - Santiago Ruffino (@santi_0898):
+Wuuuuu
+11:15:36 - Cristhian Duran (@cris):
+vamooo
+11:16:02 - Cristhian Duran (@cris):
+gracias a <@UCNG4E5B8> y a <@U5PDPG8FM> por coparse en dar una charla
+11:17:11 - Hernan Rajchert (@sherman):
+Anotado :sunglasses:
+11:17:43 - Hernan Rajchert (@sherman):
+Hay que estar atento porque cocodrilo que duerme... jquery
+11:18:22 - Juan Scolari (@juanscolari):
+son todos rapidos aca
+11:19:10 - Cristhian Duran (@cris):
+jajajajajajjajajajajajajjaa
+11:19:33 - Cristhian Duran (@cris):
+no digas jquery que viene el mercenario de gonza a decir que no está muerto y bla
+11:19:34 - Lupe (@lportias):
+:face_with_rolling_eyes: como las medias del CSSConf?
+11:21:04 - Lupe (@lportias):
+fui la unica que estuvo en la CSSConf el año pasado??
+11:21:14 - Cristhian Duran (@cris):
+yo fui!
+11:21:23 - Cristhian Duran (@cris):
+muy buenas las medias :slightly_smiling_face:
+11:21:26 - Brian Hume (@brianh20):
+Bien eh! ustedes sigan haciendo eventos los miercoles!
+11:21:27 - Brian Hume (@brianh20):
+jajajaja
+11:21:50 - Lupe (@lportias):
+a mi me quedan grandes!!! :joy:
+11:22:07 - Cristhian Duran (@cris):
+noooo, que garrón, a mi me quedan justitas
+11:22:39 - Cristhian Duran (@cris):
+NOOO
+11:23:05 - Juan Scolari (@juanscolari):
+la proxima meetup.js que sea solo de jquery v1
+11:23:20 - Lupe (@lportias):
+que envidia!
+11:34:23 - Leandro Echevarria (@echevarrialeandro):
+Meh estoy en mardel ese miercoles :disappointed:
+11:35:59 - Martín Aimar (@maimar):
+traé alfajores
+11:41:59 - Luis Ventocilla (@lvsmix):
+Anotado
+11:47:43 - Leandro Echevarria (@echevarrialeandro):
+Soy de allá, le digo a mi hermana que me vaya comprando un par :stuck_out_tongue:
+12:24:53 - mflir (@mflir):
+ya hay lista de espera :disappointed: y muchos asistentes hombres y pocas mujeres cof cof
+14:03:30 - Gonza Gluzman (@gonza):
+Holi, aquí el mercenario
+14:03:33 - Gonza Gluzman (@gonza):
+jajajaj
+14:06:56 - Santiago Ruffino (@santi_0898):
+Hablando de full stack. Resultados de Stack Overflow
+14:34:10 - Daniel Agustín Tradito (@datradito):
+Alguien de Angular que le de una mano a Santander....jjaj
+14:34:52 - Sebastian Waisbrot (@seppo0010):
+pero... es un error de conexión
+14:36:38 - Lupe (@lportias):
+jajajaja... si supieras lo que sufrieron para sacar el nuevo homebanking del santarder...
+14:36:47 - Lupe (@lportias):
+eso es un error "simple"
+14:37:16 - Martín Aimar (@maimar):
+el mail con 500 unreads, cómo podés vivir con eso?
+14:37:35 - Daniel Agustín Tradito (@datradito):
+solo esa plataforma no linkea
+14:38:19 - Daniel Agustín Tradito (@datradito):
+Y ese es el personal, si vieras el laboral...:zany_face:
+14:38:19 - Leandro Echevarria (@echevarrialeandro):
+Las oficinas de santander para ese release tenian mas matafuegos a mano que botellas de cualquier cosa seguro
+14:38:49 - Mateo Silguero (@mfsilguero):
+No puedo tener mails sin leer jajaj
+14:40:07 - Daniel Agustín Tradito (@datradito):
+solo hace 15 días recién  solucionaron un pop up cuando hacías el login de homebanking...
+14:44:50 - Lupe (@lportias):
+los ambientes de QA se caian cada dos por tres, banelco no respondia la mitad de las veces... el proyecto era de 2 años.. van por el 4to y recien ahora salieron masivamente
+14:45:58 - Lupe (@lportias):
+(trabaje en ese proyecto por un año y monedas y todavia tengo gente que esta tratando de sacarlo a prod como se debe)
+14:46:46 - Cristhian Duran (@cris):
+podemos dejar de hablar de esto? mi dinero está ahí, me pone mal :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:
+14:49:13 - Ezequiel Leites (@leites25):
+Idem
+14:49:26 - Leandro Echevarria (@echevarrialeandro):
+Same :disappointed:
+14:50:24 - Lupe (@lportias):
+:zipper_mouth_face:
+14:52:44 - Gonza Gluzman (@gonza):
+La posta es no tener dinero
+14:53:02 - Lupe (@lportias):
+o guardarlo debajo del colchon
+14:54:22 - Franco Carrizo Passarino (@francocarrizopassarin):
+jajajajajaja
+14:55:07 - Juan Scolari (@juanscolari):
+bitcoin es mas estable que la pagina del santander
+14:56:31 - Gabriel Montes (@gabriel):
+<@U5L3AMCKT> no vas a durar mucho sin dinero… :laughing:
+14:59:59 - Gonza Gluzman (@gonza):
+`Con dinero o sin dinero hago siempre lo que quiero...` :musical_note:
+15:11:52 - Brian Hume (@brianh20):
+El Santander compro al Citibank
+15:11:55 - Brian Hume (@brianh20):
+Ni te cuento como funcionaba el citibank
+15:12:00 - Luciano Muñoz (@luchisds):
+Dale Santander mandate otro "mi vieja mula ya no es lo que era" :pray:
+15:13:36 - Santiago Ruffino (@santi_0898):
+Por favor
+15:13:37 - Santiago Ruffino (@santi_0898):
+Jajaja
+15:13:44 - Santiago Ruffino (@santi_0898):
+Igual, porque tienen estos bancos?
+15:14:00 - Santiago Ruffino (@santi_0898):
+Yo, si quiero usar cuenta sueldo, tengo que usar Santander porque es el que tiene la empresa
+15:14:55 - Gonza Gluzman (@gonza):
+Yo tengo mi propio banco, el otro día me di un crédito hipotecario
+15:18:21 - Sebastian Waisbrot (@seppo0010):
+podés exigirle a tu empresa que te deposite en otro banco
+15:18:46 - Sebastian Waisbrot (@seppo0010):
+yo tenía icbc, acá ofrecen río o francés y les dije que ni en pedo
+15:19:01 - Santiago Ruffino (@santi_0898):
+Sisi, eso lo se. Yo estoy cobrando en Wilobank, proximamente en Brubank. Pero me descuentan IIBB
+15:24:39 - Gonza Gluzman (@gonza):
+Bueno, nada que ver con lo que se venía hablando, pero quería compartirles este comentario de una amiga, que es un mimito al alma de todxs nosotrxs :heart:
+15:25:06 - Martín Valdés de León (@mvaldesdeleon):
+We're all in this together
+15:25:29 - Sergio Daniel Xalambrí (@sergiodxa):
+A muchos en otros palos les enseñan a competir 
+15:25:35 - Rodrigo Ali (@rodrigojali):
+Es que es posta. A mi me pasó exactamente lo mismo
+15:25:46 - Rodrigo Ali (@rodrigojali):
+Entrás a este rubro y decis "woa, ¿me estás tratando como un ser humano?"
+15:25:59 - Rodrigo Ali (@rodrigojali):
+Y te parece lo más raro del mundo, y no lo entendés. Tu cabeza no lo entiende.
+15:26:25 - Rodrigo Ali (@rodrigojali):
+Que en general no tengas un jefe respirándote en la nuca y controlando cada minuto de laburo que hacés también es brutal
+15:26:30 - Sebastian Waisbrot (@seppo0010):
+¿Será porque hay tanta demanda que no llegamos al punto de ganancia 0?
+15:26:38 - Rodrigo Ali (@rodrigojali):
+Casi seguro.
+15:26:50 - Rodrigo Ali (@rodrigojali):
+No sé si será lo único pero influye muchísimo
+15:27:03 - Santiago Ruffino (@santi_0898):
+A mi mi jefe me dice "Y que onda? A vos te ayudan de onda, y te pasan codigo sin problema?" Y le digo "Si, Me ayudan, yo cuando puedo ayudo y listo. Equilibrio"
+15:27:21 - Rodrigo Ali (@rodrigojali):
+Ay no.
+15:27:25 - Rodrigo Ali (@rodrigojali):
+Cagaste.
+15:27:37 - Sebastian Waisbrot (@seppo0010):
+kinda related <https://www.youtube.com/watch?v=u6XAPnuFjJc>
+15:27:40 - Rodrigo Ali (@rodrigojali):
+Ahora tu jefe va a pensar que básicamente puede poner a cualquiera ahí y gratis :stuck_out_tongue:
+15:27:43 - Leandro Echevarria (@echevarrialeandro):
+Es excelente la comunidad. Automaticamente los `rockstars`, egocentricos, etc etc quedan "afuera", es como una autopurga
+15:27:43 - Sergio Daniel Xalambrí (@sergiodxa):
+Ahora te van a pedir que labures mas 
+15:27:56 - Rodrigo Ali (@rodrigojali):
+Nos* (?
+15:28:03 - Santiago Ruffino (@santi_0898):
+Ya estoy bsucando cambiar de laburo, asi que cuando lo haga, no me calienta que me digan. Jajaja
+15:28:11 - Sergio Daniel Xalambrí (@sergiodxa):
+Indirectamente si :P
+15:28:26 - Rodrigo Ali (@rodrigojali):
+Full Stack Ruffino
+15:28:27 - Santiago Ruffino (@santi_0898):
+Cuando sepa el nombre de mi reemplazo si me despiden, les aviso asi no lo ayudan ?)
+15:28:33 - Rodrigo Ali (@rodrigojali):
+JAJAJAJA
+15:28:40 - Santiago Ruffino (@santi_0898):
+:middle_finger::skin-tone-2:
+00:02:19 - Rodrigo Avila (@rodrigo398):
+cracks !
+09:50:19 - kblok (@kblok):
+<https://www.coursera.org/gsi/> Argentina #1 en tecnología en Coursera
+09:50:21 - kblok (@kblok):
+<https://pages.coursera-for-business.org/rs/748-MIV-116/images/global-skills-index.pdf?utm_medium=coursera&amp;utm_source=small-org&amp;utm_campaign=website&amp;utm_content=gsi-small-org-ty-middle-download-gsi>
+10:00:07 - Daniel Agustín Tradito (@datradito):
+:clap::clap::clap::clap:
+10:25:29 - Cristhian Duran (@cris):
+en un ratito publicamos el primer meetup.js del 2019! :clap:
+10:26:00 - Cristhian Duran (@cris):
+:hamburgerparrot:
+10:27:43 - Santiago Ruffino (@santi_0898):
+Wuuuuu
+11:15:36 - Cristhian Duran (@cris):
+vamooo
+11:16:02 - Cristhian Duran (@cris):
+gracias a <@UCNG4E5B8> y a <@U5PDPG8FM> por coparse en dar una charla
+11:17:11 - Hernan Rajchert (@sherman):
+Anotado :sunglasses:
+11:17:43 - Hernan Rajchert (@sherman):
+Hay que estar atento porque cocodrilo que duerme... jquery
+11:18:22 - Juan Scolari (@juanscolari):
+son todos rapidos aca
+11:19:10 - Cristhian Duran (@cris):
+jajajajajajjajajajajajajjaa
+11:19:33 - Cristhian Duran (@cris):
+no digas jquery que viene el mercenario de gonza a decir que no está muerto y bla
+11:19:34 - Lupe (@lportias):
+:face_with_rolling_eyes: como las medias del CSSConf?
+11:21:04 - Lupe (@lportias):
+fui la unica que estuvo en la CSSConf el año pasado??
+11:21:14 - Cristhian Duran (@cris):
+yo fui!
+11:21:23 - Cristhian Duran (@cris):
+muy buenas las medias :slightly_smiling_face:
+11:21:26 - Brian Hume (@brianh20):
+Bien eh! ustedes sigan haciendo eventos los miercoles!
+11:21:27 - Brian Hume (@brianh20):
+jajajaja
+11:21:50 - Lupe (@lportias):
+a mi me quedan grandes!!! :joy:
+11:22:07 - Cristhian Duran (@cris):
+noooo, que garrón, a mi me quedan justitas
+11:22:39 - Cristhian Duran (@cris):
+NOOO
+11:23:05 - Juan Scolari (@juanscolari):
+la proxima meetup.js que sea solo de jquery v1
+11:23:20 - Lupe (@lportias):
+que envidia!
+11:34:23 - Leandro Echevarria (@echevarrialeandro):
+Meh estoy en mardel ese miercoles :disappointed:
+11:35:59 - Martín Aimar (@maimar):
+traé alfajores
+11:41:59 - Luis Ventocilla (@lvsmix):
+Anotado
+11:47:43 - Leandro Echevarria (@echevarrialeandro):
+Soy de allá, le digo a mi hermana que me vaya comprando un par :stuck_out_tongue:
+12:24:53 - mflir (@mflir):
+ya hay lista de espera :disappointed: y muchos asistentes hombres y pocas mujeres cof cof
+14:03:30 - Gonza Gluzman (@gonza):
+Holi, aquí el mercenario
+14:03:33 - Gonza Gluzman (@gonza):
+jajajaj
+14:06:56 - Santiago Ruffino (@santi_0898):
+Hablando de full stack. Resultados de Stack Overflow
+14:34:10 - Daniel Agustín Tradito (@datradito):
+Alguien de Angular que le de una mano a Santander....jjaj
+14:34:52 - Sebastian Waisbrot (@seppo0010):
+pero... es un error de conexión
+14:36:38 - Lupe (@lportias):
+jajajaja... si supieras lo que sufrieron para sacar el nuevo homebanking del santarder...
+14:36:47 - Lupe (@lportias):
+eso es un error "simple"
+14:37:16 - Martín Aimar (@maimar):
+el mail con 500 unreads, cómo podés vivir con eso?
+14:37:35 - Daniel Agustín Tradito (@datradito):
+solo esa plataforma no linkea
+14:38:19 - Daniel Agustín Tradito (@datradito):
+Y ese es el personal, si vieras el laboral...:zany_face:
+14:38:19 - Leandro Echevarria (@echevarrialeandro):
+Las oficinas de santander para ese release tenian mas matafuegos a mano que botellas de cualquier cosa seguro
+14:38:49 - Mateo Silguero (@mfsilguero):
+No puedo tener mails sin leer jajaj
+14:40:07 - Daniel Agustín Tradito (@datradito):
+solo hace 15 días recién  solucionaron un pop up cuando hacías el login de homebanking...
+14:44:50 - Lupe (@lportias):
+los ambientes de QA se caian cada dos por tres, banelco no respondia la mitad de las veces... el proyecto era de 2 años.. van por el 4to y recien ahora salieron masivamente
+14:45:58 - Lupe (@lportias):
+(trabaje en ese proyecto por un año y monedas y todavia tengo gente que esta tratando de sacarlo a prod como se debe)
+14:46:46 - Cristhian Duran (@cris):
+podemos dejar de hablar de esto? mi dinero está ahí, me pone mal :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:
+14:49:13 - Ezequiel Leites (@leites25):
+Idem
+14:49:26 - Leandro Echevarria (@echevarrialeandro):
+Same :disappointed:
+14:50:24 - Lupe (@lportias):
+:zipper_mouth_face:
+14:52:44 - Gonza Gluzman (@gonza):
+La posta es no tener dinero
+14:53:02 - Lupe (@lportias):
+o guardarlo debajo del colchon
+14:54:22 - Franco Carrizo Passarino (@francocarrizopassarin):
+jajajajajaja
+14:55:07 - Juan Scolari (@juanscolari):
+bitcoin es mas estable que la pagina del santander
+14:56:31 - Gabriel Montes (@gabriel):
+<@U5L3AMCKT> no vas a durar mucho sin dinero… :laughing:
+14:59:59 - Gonza Gluzman (@gonza):
+`Con dinero o sin dinero hago siempre lo que quiero...` :musical_note:
+15:11:52 - Brian Hume (@brianh20):
+El Santander compro al Citibank
+15:11:55 - Brian Hume (@brianh20):
+Ni te cuento como funcionaba el citibank
+15:12:00 - Luciano Muñoz (@luchisds):
+Dale Santander mandate otro "mi vieja mula ya no es lo que era" :pray:
+15:13:36 - Santiago Ruffino (@santi_0898):
+Por favor
+15:13:37 - Santiago Ruffino (@santi_0898):
+Jajaja
+15:13:44 - Santiago Ruffino (@santi_0898):
+Igual, porque tienen estos bancos?
+15:14:00 - Santiago Ruffino (@santi_0898):
+Yo, si quiero usar cuenta sueldo, tengo que usar Santander porque es el que tiene la empresa
+15:14:55 - Gonza Gluzman (@gonza):
+Yo tengo mi propio banco, el otro día me di un crédito hipotecario
+15:18:21 - Sebastian Waisbrot (@seppo0010):
+podés exigirle a tu empresa que te deposite en otro banco
+15:18:46 - Sebastian Waisbrot (@seppo0010):
+yo tenía icbc, acá ofrecen río o francés y les dije que ni en pedo
+15:19:01 - Santiago Ruffino (@santi_0898):
+Sisi, eso lo se. Yo estoy cobrando en Wilobank, proximamente en Brubank. Pero me descuentan IIBB
+15:24:39 - Gonza Gluzman (@gonza):
+Bueno, nada que ver con lo que se venía hablando, pero quería compartirles este comentario de una amiga, que es un mimito al alma de todxs nosotrxs :heart:
+15:25:06 - Martín Valdés de León (@mvaldesdeleon):
+We're all in this together
+15:25:29 - Sergio Daniel Xalambrí (@sergiodxa):
+A muchos en otros palos les enseñan a competir 
+15:25:35 - Rodrigo Ali (@rodrigojali):
+Es que es posta. A mi me pasó exactamente lo mismo
+15:25:46 - Rodrigo Ali (@rodrigojali):
+Entrás a este rubro y decis "woa, ¿me estás tratando como un ser humano?"
+15:25:59 - Rodrigo Ali (@rodrigojali):
+Y te parece lo más raro del mundo, y no lo entendés. Tu cabeza no lo entiende.
+15:26:25 - Rodrigo Ali (@rodrigojali):
+Que en general no tengas un jefe respirándote en la nuca y controlando cada minuto de laburo que hacés también es brutal
+15:26:30 - Sebastian Waisbrot (@seppo0010):
+¿Será porque hay tanta demanda que no llegamos al punto de ganancia 0?
+15:26:38 - Rodrigo Ali (@rodrigojali):
+Casi seguro.
+15:26:50 - Rodrigo Ali (@rodrigojali):
+No sé si será lo único pero influye muchísimo
+15:27:03 - Santiago Ruffino (@santi_0898):
+A mi mi jefe me dice "Y que onda? A vos te ayudan de onda, y te pasan codigo sin problema?" Y le digo "Si, Me ayudan, yo cuando puedo ayudo y listo. Equilibrio"
+15:27:21 - Rodrigo Ali (@rodrigojali):
+Ay no.
+15:27:25 - Rodrigo Ali (@rodrigojali):
+Cagaste.
+15:27:37 - Sebastian Waisbrot (@seppo0010):
+kinda related <https://www.youtube.com/watch?v=u6XAPnuFjJc>
+15:27:40 - Rodrigo Ali (@rodrigojali):
+Ahora tu jefe va a pensar que básicamente puede poner a cualquiera ahí y gratis :stuck_out_tongue:
+15:27:43 - Leandro Echevarria (@echevarrialeandro):
+Es excelente la comunidad. Automaticamente los `rockstars`, egocentricos, etc etc quedan "afuera", es como una autopurga
+15:27:43 - Sergio Daniel Xalambrí (@sergiodxa):
+Ahora te van a pedir que labures mas 
+15:27:56 - Rodrigo Ali (@rodrigojali):
+Nos* (?
+15:28:03 - Santiago Ruffino (@santi_0898):
+Ya estoy bsucando cambiar de laburo, asi que cuando lo haga, no me calienta que me digan. Jajaja
+15:28:11 - Sergio Daniel Xalambrí (@sergiodxa):
+Indirectamente si :P
+15:28:26 - Rodrigo Ali (@rodrigojali):
+Full Stack Ruffino
+15:28:27 - Santiago Ruffino (@santi_0898):
+Cuando sepa el nombre de mi reemplazo si me despiden, les aviso asi no lo ayudan ?)
+15:28:33 - Rodrigo Ali (@rodrigojali):
+JAJAJAJA
+15:28:40 - Santiago Ruffino (@santi_0898):
+:middle_finger::skin-tone-2:
+15:38:48 - Luis Alvarez (@luistensai):
+esto también pasa en este rubro, hay algunos que te hacen llenar timesheets y te preguntan por qué tardaste tanto o cuánto en tal task...
+15:40:18 - Rodrigo Ali (@rodrigojali):
+Claro, pero vos lo dijiste, "algunos", para mi y hasta donde sé, no es normal. Y de última tenés tanto mercado (al menos en desarrollo web) que si no te gusta, podés cambiar relativamente fácil.
+15:41:25 - Luis Alvarez (@luistensai):
+claro, en general no es así, pero existir existen jajajaj
+15:48:56 - Rodrigo Ali (@rodrigojali):
+No creo en las brujas pero que las hay...
+15:50:28 - Pablo Miceli (@pablomiceli24):
+ni me imagino como sería laburar en este rubro sin ese "espiritu de colaboración" que hay en la comunidad
+15:51:01 - Gonza Gluzman (@gonza):
+Seríamos todxs re junior sin la ayuda de la comunidad
+15:51:46 - Pablo Miceli (@pablomiceli24):
+Osea cada cosa que googleamos en 10 minutos, podrían ser horas o dias...
+15:52:40 - Ari Sanguinetti (@arielsanguinetti):
+yo tengo brubank, pero todavia le falta para muchas cosas, como pagar servicios o transferencias internacionales...
+15:55:13 - Sergio Daniel Xalambrí (@sergiodxa):
+estaríamos programando como en los 90, hoy
+15:55:20 - Sergio Daniel Xalambrí (@sergiodxa):
+sin cosas muy avanzadas a nivel frontend
+15:55:29 - Sergio Daniel Xalambrí (@sergiodxa):
+porque en cada proyectos todos reinventarían la rueda
+16:01:57 - Ezequiel Leites (@leites25):
+Tendrias que leer los errores, para saber que googlear y  no copypastear como viene a ver si hay algun resultado :grimacing:
+16:07:03 - Brian Hume (@brianh20):
+Si, los ultimos que programaron Google sin usar Google fueron ellos mismos (?)
+16:18:28 - Daniel Agustín Tradito (@datradito):
+usaban AltaVista...
+16:18:36 - Ari Sanguinetti (@arielsanguinetti):
+AOL (?)
+16:18:54 - Lupe (@lportias):
+yo tenia mail de altavista!!
+16:18:59 - Daniel Agustín Tradito (@datradito):
+jajaj
+16:19:13 - Cristhian Duran (@cris):
+_a algunos se les cae una sota_
+16:19:15 - Daniel Agustín Tradito (@datradito):
+90 generation detected
+16:19:24 - Rodrigo Ali (@rodrigojali):
+Usaban bing
+16:19:28 - Lupe (@lportias):
+80's... a mucha honra!
+16:19:37 - Sergio Daniel Xalambrí (@sergiodxa):
+Yahoo! Search
+16:19:38 - Daniel Agustín Tradito (@datradito):
+:clap::clap::clap::clap::clap:
+16:19:41 - Sergio Daniel Xalambrí (@sergiodxa):
+y hosteaban en Geocities
+16:19:41 - Cristhian Duran (@cris):
+<@U04346585> que usaban en ese momento ya que no había google?
+16:19:43 - Gonzalo González Mora (@gonzalogm):
+Astalavista :cry:
+16:20:10 - Lupe (@lportias):
+yahoo...
+16:20:22 - Daniel Agustín Tradito (@datradito):
+msn....
+16:20:28 - Lupe (@lportias):
+ICQ
+16:20:35 - Lupe (@lportias):
+y/o MIRC
+16:20:56 - Martín Aimar (@maimar):
+yahoo powered by google
+16:21:04 - Daniel Agustín Tradito (@datradito):
+nunca mas un chat like historietas...
+16:21:18 - Gonzalo González Mora (@gonzalogm):
+El glorioso MS Chat
+16:21:28 - Daniel Agustín Tradito (@datradito):
+yeah baby!
+16:21:52 - Lupe (@lportias):
+que venia con windows!!
+16:22:22 - Daniel Agustín Tradito (@datradito):
+lo instalabas aparte dsps
+16:22:30 - Daniel Agustín Tradito (@datradito):
+y te podias bajas los fondos
+16:22:45 - Lupe (@lportias):
+y le ponias los emojis que querias
+16:23:02 - Daniel Broder (@dabroder):
+`MSN Messenger` que tiempos
+16:23:06 - Lupe (@lportias):
+yo me llevaba un pendrive de compu en compu con mis emojis preferidos
+16:24:03 - Mariano Ramonda (@ing.inf.mariano):
+hosteaba en los pocos megas que me incluia el servicio DialUp de 56kbps :smile: (7 horas mensuales, BTW)
+16:24:14 - Gonzalo González Mora (@gonzalogm):
+Me acuerdo guardar backup de los chats de eso para no pederlas, qué loco
+16:24:26 - Gonzalo González Mora (@gonzalogm):
+Era unos XML creo
+16:24:48 - Lupe (@lportias):
+o los pegabas en word y los formateabas para que quedaran lindos
+16:25:05 - Lupe (@lportias):
+(nerd y diseñadora tenia que ser)
+16:25:07 - Lupe (@lportias):
+jejeje
+16:25:10 - Gonzalo González Mora (@gonzalogm):
+jajaj
+16:25:22 - Martín Aimar (@maimar):
+uhh los pasaba a cd los logs
+16:26:01 - Lupe (@lportias):
+yo todavia tengo mis backups de musica en dvds.... pero no tengo compu con lectora...
+16:26:20 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+extraño de altavista y excite que decian el porcentaje de coincidencia entre tu búsqueda y los resultados
+16:26:49 - Martín Aimar (@maimar):
+si yo tengo una banda de dvds con música que bajaba de un tracker de FLAC
+16:27:21 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+ayer encontré los mios, tambien me falta la lectora
+16:38:24 - Lupe (@lportias):
+ahi me acorde del nombre!! yo bajaba musica del napster..
+16:39:26 - Gonzalo González Mora (@gonzalogm):
+jaja sii con dial up dejandolo una bocha de tiempo
+16:39:32 - Gonzalo González Mora (@gonzalogm):
+Y que no se te corte internet pq no tenías resume
+16:39:49 - Gonzalo González Mora (@gonzalogm):
+Hasta que salió el Kazaa, DC++, etc
+16:40:12 - Lupe (@lportias):
+obvio... pero recuerdo que me pasaba horas abriendo ventanas nuevas y buscando "musica relacionada".. descubri cada locura asi
+16:41:17 - Sergio Gianazza (@gianu):
+<@U24KJ4JET> como dijeron, yo era fanatico de Altavista
+16:41:21 - Sergio Gianazza (@gianu):
+no tenia ads, como yahoo
+16:42:01 - Cristhian Duran (@cris):
+no conozco el internet sin ads (creo)
+16:45:16 - Martín Aimar (@maimar):
+y el audiogalaxy?
+16:46:23 - Gonzalo González Mora (@gonzalogm):
+paaa me había olvidado ese
+16:47:23 - Sergio Gianazza (@gianu):
+y cuando te creias que eras el pirata mayor de internet y entrabas en astalavista a buscar cracks?
+16:48:02 - Sergio Gianazza (@gianu):
+<@U24KJ4JET> yo llegue a entrar a algunos BBS, agarré la ultima ola, pero accedi a mas de uno
+16:48:22 - Martín Aimar (@maimar):
+7res(7)sie7es (!)
+16:49:36 - Martin Carrera (@mcarrera):
+cuanta gente vieja hay aca :agite:
+16:53:10 - Juan Scolari (@juanscolari):
+viejos son los trapos (frases de viejos)
+16:53:19 - Ari Sanguinetti (@arielsanguinetti):
+alguno tenía dirección de email @infovia.com.ar? jejeje
+16:53:51 - Gonza Gluzman (@gonza):
+Yo me conectaba con tutopía
+16:54:45 - Martín Aimar (@maimar):
+yo instalaba gratis1 en escuelas
+17:09:29 - Cristhian Duran (@cris):
+viejo es el viento y todavía sopla :agite:  <@U1H94SP4J>
+17:13:58 - Gonza Gluzman (@gonza):
+Alta frase, no la tenía
+17:15:58 - Luis Ventocilla (@lvsmix):
+Alguien se acuerda Musicmatch Jukebox??
+17:16:20 - Luis Ventocilla (@lvsmix):
+Una lagrima cae sobre mi mejilla
+17:16:33 - Luis Ventocilla (@lvsmix):
+el otro dia lo encontre en un cd viejo que tenia
+17:17:03 - Martín Aimar (@maimar):
+si malísimo..
+17:17:33 - Martín Aimar (@maimar):
+foobar2000 jugaba
+17:18:38 - Lupe (@lportias):
+hablando de historia....
+17:18:40 - Lupe (@lportias):
+<https://www.spacejam.com/archive/spacejam/movie/jam.htm>
+17:18:44 - Gonzalo González Mora (@gonzalogm):
+Yo seguía usando foobar2000 hasta hace poco que me pasé a :green_apple:
+17:18:48 - Luis Ventocilla (@lvsmix):
+Half life
+17:18:51 - Luis Ventocilla (@lvsmix):
+juegazo
+17:18:53 - Luis Ventocilla (@lvsmix):
+jaja
+17:21:11 - Sergio Gianazza (@gianu):
+y cuando no estaba gmail y necesitabas tener espacio copado (y obvio que no querias usar hotmail), tenias una cuenta @gmx.de
+17:25:29 - Tincho (@tinchoforever):
+Hey
+17:25:55 - Tincho (@tinchoforever):
+de casualidad hay alguien de Salta o zonas aledañas, con <@U7SAHQB4K> estamos organizando un ¿BeerJS? para la semana del 23 al 26 de Abril
+17:26:00 - Tincho (@tinchoforever):
+tirennos privado y armamos
+17:26:04 - Tincho (@tinchoforever):
+*EN SALTA eh
+17:26:20 - Cristhian Duran (@cris):
+hay tweet para darle difusión?
+17:26:37 - Tincho (@tinchoforever):
+AHORA LE METO MANIJA
+17:26:40 - Cristhian Duran (@cris):
+JAJA
+17:26:50 - Tincho (@tinchoforever):
+si vamos a ser <@U7SAHQB4K> y yo, vamos solitos y listo jajaja
+17:26:54 - Tincho (@tinchoforever):
+ahora tiro tweet
+17:27:04 - Cristhian Duran (@cris):
+jajaja dale, compartilo que le doy difusión :slightly_smiling_face:
+17:30:23 - Brian Hume (@brianh20):
+tanto throwback me hizo acordar a cuando encontras un bug re obvio y nadie le da bola
+17:30:24 - Brian Hume (@brianh20):
+<https://youtu.be/WohcOQZBJas?t=31>
+17:32:46 - Tincho (@tinchoforever):
+<https://twitter.com/tincho_for_ever/status/1116076443170160640> cc <@U24KJ4JET>
+17:34:56 - Cristhian Duran (@cris):
+done
+17:51:57 - Lupe (@lportias):
+Ya hace 7 años DW era tan basofia que los manuales se usaban de stand para monitores :joy:
