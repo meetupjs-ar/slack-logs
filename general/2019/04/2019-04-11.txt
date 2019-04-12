@@ -1,0 +1,308 @@
+08:58:03 - Tama. Sebastián. (@sebastian227):
+Hola mundo! Soy un desarrollador Front-End entusiasta. Actualmente trabajo como maquetador en React para una empresa de Turismo.
+09:55:41 - Cristhian Duran (@cris):
+bienvenido! fijate en los channels, hay muchos que te pueden interesar :slightly_smiling_face:
+11:22:15 - Martin Bavio (@mbavio):
+sobretodo forobarAHNOPARA
+11:28:34 - Sergio Daniel Xalambrí (@sergiodxa):
+lo único que extraño de forobardo es poder poner #forobardo, poner <#C0PHBKNNA|random> queda raro cuando haces forobardo y <#C6PJH6JP3|rant> no cubre todas las posibilidades
+11:30:52 - Martín Aimar (@maimar):
+quizás el que necesitamos es #unpopular-opinion
+11:31:50 - Gonza Gluzman (@gonza):
+O que vuelva #forobardo y listo ¯\_(ツ)_/¯
+11:35:39 - Jorge Cano (@jorgeucano):
+<https://twitter.com/aallan/status/1116342608110944256>
+12:17:49 - ari (@arieldiaz):
+Alguien hizo el curso de full stack en Acamica o el de programacion web en IT master? es para un amigo que quiere arrancar y  quiere que sea presencial
+12:22:27 - Brian Hume (@brianh20):
+Yo soy mentor del curso de fullstack de acamica
+12:22:30 - Brian Hume (@brianh20):
+online
+12:22:34 - Brian Hume (@brianh20):
+si te puedo aportar algo de info
+12:22:36 - Brian Hume (@brianh20):
+escribime
+12:38:13 - Aldo Gabriel Rojas (@aldogrojas5):
+Haaaaarmosooo!
+13:16:50 - Cristian Flores (@cristianflores.ee):
+Consulta chicos, me entregaron un servidor físico para montar una app nodejs (express.js)
+13:16:56 - Cristian Flores (@cristianflores.ee):
+No tiene nada la maquina
+13:17:04 - Cristian Flores (@cristianflores.ee):
+que SO sería mejor instalar?
+13:17:19 - Cristian Flores (@cristianflores.ee):
+ubuntu server, centos, otro? o da lo mismo
+13:26:42 - Sebastian Waisbrot (@seppo0010):
+cualquier distro con la que te sientas cómodo te va a servir
+14:44:16 - Daniel Broder (@dabroder):
+ubuntu sale de una, pero te va a convenir agregar las fuentes de APT <https://github.com/nodesource/distributions> para instalar las últimas versiones de node.js
+15:09:02 - Gian Masto (@gianmasto1):
+Holaaa :slightly_smiling_face:
+15:09:33 - Leandro Echevarria (@echevarrialeandro):
+Tiene beneficios instalar node desde las fuentes que con scripts como nvm? Personalmente siempre preferí esto último porque me queda muy cómodo para cambiar versiones y ese tipo de cosas
+15:10:03 - Enzo Retamozo (@egr_96):
+yo hice la capacitación full stack, en mi experiencia puedo decirte que sirve al 100%, porque además tienen muchisimos contactos para hacerte entrar a laburar cuando estas terminando, por otro lado tambien va a depender de las ganas que le pongas vos para terminar todos los tps (son 10), se pone cada vez mas heavy la cosa .
+15:10:19 - Sergio Daniel Xalambrí (@sergiodxa):
+<@UHMEMGWBT> :wave:
+15:10:24 - Rodrigo Ali (@rodrigojali):
+Yo uso NVM por eso que acabás de decir, si tenés que ir cambiando entre versiones es RE comodo
+15:10:35 - Rodrigo Ali (@rodrigojali):
+Igual que SDKMan
+15:10:46 - Leandro Echevarria (@echevarrialeandro):
+O uso algun script que descargue node en la version que le pase por param directamente
+15:10:57 - Leandro Echevarria (@echevarrialeandro):
+Pero nunca lo hago desde las fuentes
+15:11:01 - Rodrigo Ali (@rodrigojali):
+Y... pasa que ya tenés la solución enlatada.
+15:11:16 - Sergio Daniel Xalambrí (@sergiodxa):
+antes de nvm se usaba los sources para Linux
+15:11:18 - Rodrigo Ali (@rodrigojali):
+Y que funca y tiene soporte por un team
+15:11:20 - Sergio Daniel Xalambrí (@sergiodxa):
+te hacías clon del repo
+15:11:28 - Rodrigo Ali (@rodrigojali):
+Claro.
+15:11:28 - Sergio Daniel Xalambrí (@sergiodxa):
+y construías Node desde cero
+15:11:44 - Sergio Daniel Xalambrí (@sergiodxa):
+después nvm y Nodesource hicieron todo más fácil
+15:11:59 - Aldo Sorbara (@aldo1891):
+aguante NVM
+15:12:44 - Sergio Daniel Xalambrí (@sergiodxa):
+o te instalas yarn y ya trae Node
+15:15:58 - Daniel Broder (@dabroder):
+la cuestión es `production` o `development`? Para desarrollo `nvm` es la que va, pero no se actualiza solo. Para producción en mejor APT porque tenés los updates
+15:17:01 - Sergio Daniel Xalambrí (@sergiodxa):
+para producción usaría algo que siempre me traiga Node LTS
+15:17:14 - Sergio Daniel Xalambrí (@sergiodxa):
+y no instalaría Node a mano
+15:17:33 - Sergio Daniel Xalambrí (@sergiodxa):
+aunque sea un container de Docker que se traiga Node
+15:42:16 - Cristhian Duran (@cris):
+me sorprende que no para de entrar gente aún cuando no hicimos un meetup en el año todavía
+15:42:29 - Cristhian Duran (@cris):
+no es que difundimos algo en particular tampoco
+15:42:49 - Cristhian Duran (@cris):
+bienvenidos y bienvenidas
+15:42:50 - Rodrigo Ali (@rodrigojali):
+No es que USTEDES DESDE LA ORGANIZACIÓN hayan difundido algo en particular.
+15:42:51 - Lupe (@lportias):
+en la meetup de React de la otra semana los publicitaron bastante
+15:43:03 - Rodrigo Ali (@rodrigojali):
+Yo por ej le paso este meetup a prácticamente cuanto dev que sepa algo de JS me encuentro
+15:43:23 - Cristhian Duran (@cris):
+grandes colegas en la meetup de React, los queremos a todos y todas, menos a Manotas :eyes:
+15:43:32 - Lupe (@lportias):
+yo estoy haciendo eso con la gente que me cae bien.. ejejeje
+15:43:42 - Lupe (@lportias):
+(mala, me dicen....)
+15:44:07 - Lucas Accastello (@accastellolucas):
+Creo que llegué por <@UFFG5EPGU> a través del slack de BeerJS cba. Un grande
+15:45:27 - Sergio Daniel Xalambrí (@sergiodxa):
+Yo siempre los recomiendo a devs de otros países como una buena comunidad online
+15:45:32 - Hernan Rajchert (@sherman):
+hermoso el comentario de <@U0KHX8CN6> el otro dia en la meetup de react :heart:
+15:45:37 - Sergio Daniel Xalambrí (@sergiodxa):
+Hay un par de Peru acá que conozco 
+15:46:54 - Gian Masto (@gianmasto1):
+Yo los conocí por Reddit, buscando alguna comunidad de desarrolladores marplatenses, lo más cercano que encontré fue esto
+15:47:01 - Cristhian Duran (@cris):
+en el grupo de facebook está entrando mucha gente de la plata y de mar del plata, pero ahí si que no hay mucho movimiento, solo publicamos los eventos
+15:48:18 - Leandro Echevarria (@echevarrialeandro):
+<@UHMEMGWBT> Soy de mardel y no conozco ninguna de allá :disappointed:
+15:51:40 - Gian Masto (@gianmasto1):
+Se podría armar algo quizás, así tenemos nuestras propias ediciones de las meetups jajaja
+15:51:57 - Sergio Daniel Xalambrí (@sergiodxa):
+Meetup.js MDQ
+15:53:00 - Sergio Daniel Xalambrí (@sergiodxa):
+hay que llevar Meetup.js a todo Argentina y de ahí a latam
+15:54:16 - Martín Valdés de León (@mvaldesdeleon):
+Estan grabando/streameando las meetups?
+15:55:18 - Ezequiel Leites (@leites25):
+Yo obligue a mi equipo a que se metieran
+15:57:26 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://www.youtube.com/channel/UCosDO1DDQBkKkmmIJaOdyXQ/videos>
+15:58:58 - Cristhian Duran (@cris):
+grabando y dejando reseña escrita
+15:58:58 - Cristhian Duran (@cris):
+<https://meetupjs.com.ar/articulos/resena-meetup-noviembre-2018.html>
+15:59:57 - Martín Valdés de León (@mvaldesdeleon):
+muy bueno!
+16:04:58 - Leandro Echevarria (@echevarrialeandro):
+Vivo en bs as ahora, pero viajo generalmente los findes largos para mardel jaaj
+16:08:36 - Lupe (@lportias):
+:joy: :+1:
+16:28:17 - ari (@arieldiaz):
+gracias por la data!
+16:33:49 - Brian Hume (@brianh20):
+solo con la gente que me cae bien jajajajaaj
+16:46:15 - Cristian Flores (@cristianflores.ee):
+Disculpa lo renovato, pero entonces instalo ubunt server y luego ejecuto las instrucciones de esa repo?
+16:57:59 - Daniel Broder (@dabroder):
+yes
+16:58:30 - Daniel Broder (@dabroder):
+si es un server que vas a poner de producción
+16:59:29 - Daniel Broder (@dabroder):
+es más var a tener que tener algo que lo vuelva a levantar si se cae
+17:40:10 - Cristian Flores (@cristianflores.ee):
+muchas gracias, soy muy novato, algun artículo, libro o algo que recomiendes? :slightly_smiling_face:
+17:40:38 - Cristian Flores (@cristianflores.ee):
+he hecho apps pero nunca me ha tocado despliegue
+17:43:12 - Daniel Broder (@dabroder):
+me fijo en un rato y te paso links
+18:54:27 - Damian Diaz (@damianmdst):
+Gente pregunta, tienen de casualidad (falle en mi busqueda en google) un styleguide o conventions de como nombrrar files de graphql y demas? Estoy wrappeando una API y me gustaria realizar buenas practicas, la arquitectura tiene algunas en graphql-yoga pero de conventions de files y demas no vi demasiado.
+08:58:03 - Tama. Sebastián. (@sebastian227):
+Hola mundo! Soy un desarrollador Front-End entusiasta. Actualmente trabajo como maquetador en React para una empresa de Turismo.
+09:55:41 - Cristhian Duran (@cris):
+bienvenido! fijate en los channels, hay muchos que te pueden interesar :slightly_smiling_face:
+11:22:15 - Martin Bavio (@mbavio):
+sobretodo forobarAHNOPARA
+11:28:34 - Sergio Daniel Xalambrí (@sergiodxa):
+lo único que extraño de forobardo es poder poner #forobardo, poner <#C0PHBKNNA|random> queda raro cuando haces forobardo y <#C6PJH6JP3|rant> no cubre todas las posibilidades
+11:30:52 - Martín Aimar (@maimar):
+quizás el que necesitamos es #unpopular-opinion
+11:31:50 - Gonza Gluzman (@gonza):
+O que vuelva #forobardo y listo ¯\_(ツ)_/¯
+11:35:39 - Jorge Cano (@jorgeucano):
+<https://twitter.com/aallan/status/1116342608110944256>
+12:17:49 - ari (@arieldiaz):
+Alguien hizo el curso de full stack en Acamica o el de programacion web en IT master? es para un amigo que quiere arrancar y  quiere que sea presencial
+12:22:27 - Brian Hume (@brianh20):
+Yo soy mentor del curso de fullstack de acamica
+12:22:30 - Brian Hume (@brianh20):
+online
+12:22:34 - Brian Hume (@brianh20):
+si te puedo aportar algo de info
+12:22:36 - Brian Hume (@brianh20):
+escribime
+12:38:13 - Aldo Gabriel Rojas (@aldogrojas5):
+Haaaaarmosooo!
+13:16:50 - Cristian Flores (@cristianflores.ee):
+Consulta chicos, me entregaron un servidor físico para montar una app nodejs (express.js)
+13:16:56 - Cristian Flores (@cristianflores.ee):
+No tiene nada la maquina
+13:17:04 - Cristian Flores (@cristianflores.ee):
+que SO sería mejor instalar?
+13:17:19 - Cristian Flores (@cristianflores.ee):
+ubuntu server, centos, otro? o da lo mismo
+13:26:42 - Sebastian Waisbrot (@seppo0010):
+cualquier distro con la que te sientas cómodo te va a servir
+14:44:16 - Daniel Broder (@dabroder):
+ubuntu sale de una, pero te va a convenir agregar las fuentes de APT <https://github.com/nodesource/distributions> para instalar las últimas versiones de node.js
+15:09:02 - Gian Masto (@gianmasto1):
+Holaaa :slightly_smiling_face:
+15:09:33 - Leandro Echevarria (@echevarrialeandro):
+Tiene beneficios instalar node desde las fuentes que con scripts como nvm? Personalmente siempre preferí esto último porque me queda muy cómodo para cambiar versiones y ese tipo de cosas
+15:10:03 - Enzo Retamozo (@egr_96):
+yo hice la capacitación full stack, en mi experiencia puedo decirte que sirve al 100%, porque además tienen muchisimos contactos para hacerte entrar a laburar cuando estas terminando, por otro lado tambien va a depender de las ganas que le pongas vos para terminar todos los tps (son 10), se pone cada vez mas heavy la cosa .
+15:10:19 - Sergio Daniel Xalambrí (@sergiodxa):
+<@UHMEMGWBT> :wave:
+15:10:24 - Rodrigo Ali (@rodrigojali):
+Yo uso NVM por eso que acabás de decir, si tenés que ir cambiando entre versiones es RE comodo
+15:10:35 - Rodrigo Ali (@rodrigojali):
+Igual que SDKMan
+15:10:46 - Leandro Echevarria (@echevarrialeandro):
+O uso algun script que descargue node en la version que le pase por param directamente
+15:10:57 - Leandro Echevarria (@echevarrialeandro):
+Pero nunca lo hago desde las fuentes
+15:11:01 - Rodrigo Ali (@rodrigojali):
+Y... pasa que ya tenés la solución enlatada.
+15:11:16 - Sergio Daniel Xalambrí (@sergiodxa):
+antes de nvm se usaba los sources para Linux
+15:11:18 - Rodrigo Ali (@rodrigojali):
+Y que funca y tiene soporte por un team
+15:11:20 - Sergio Daniel Xalambrí (@sergiodxa):
+te hacías clon del repo
+15:11:28 - Rodrigo Ali (@rodrigojali):
+Claro.
+15:11:28 - Sergio Daniel Xalambrí (@sergiodxa):
+y construías Node desde cero
+15:11:44 - Sergio Daniel Xalambrí (@sergiodxa):
+después nvm y Nodesource hicieron todo más fácil
+15:11:59 - Aldo Sorbara (@aldo1891):
+aguante NVM
+15:12:44 - Sergio Daniel Xalambrí (@sergiodxa):
+o te instalas yarn y ya trae Node
+15:15:58 - Daniel Broder (@dabroder):
+la cuestión es `production` o `development`? Para desarrollo `nvm` es la que va, pero no se actualiza solo. Para producción en mejor APT porque tenés los updates
+15:17:01 - Sergio Daniel Xalambrí (@sergiodxa):
+para producción usaría algo que siempre me traiga Node LTS
+15:17:14 - Sergio Daniel Xalambrí (@sergiodxa):
+y no instalaría Node a mano
+15:17:33 - Sergio Daniel Xalambrí (@sergiodxa):
+aunque sea un container de Docker que se traiga Node
+15:42:16 - Cristhian Duran (@cris):
+me sorprende que no para de entrar gente aún cuando no hicimos un meetup en el año todavía
+15:42:29 - Cristhian Duran (@cris):
+no es que difundimos algo en particular tampoco
+15:42:49 - Cristhian Duran (@cris):
+bienvenidos y bienvenidas
+15:42:50 - Rodrigo Ali (@rodrigojali):
+No es que USTEDES DESDE LA ORGANIZACIÓN hayan difundido algo en particular.
+15:42:51 - Lupe (@lportias):
+en la meetup de React de la otra semana los publicitaron bastante
+15:43:03 - Rodrigo Ali (@rodrigojali):
+Yo por ej le paso este meetup a prácticamente cuanto dev que sepa algo de JS me encuentro
+15:43:23 - Cristhian Duran (@cris):
+grandes colegas en la meetup de React, los queremos a todos y todas, menos a Manotas :eyes:
+15:43:32 - Lupe (@lportias):
+yo estoy haciendo eso con la gente que me cae bien.. ejejeje
+15:43:42 - Lupe (@lportias):
+(mala, me dicen....)
+15:44:07 - Lucas Accastello (@accastellolucas):
+Creo que llegué por <@UFFG5EPGU> a través del slack de BeerJS cba. Un grande
+15:45:27 - Sergio Daniel Xalambrí (@sergiodxa):
+Yo siempre los recomiendo a devs de otros países como una buena comunidad online
+15:45:32 - Hernan Rajchert (@sherman):
+hermoso el comentario de <@U0KHX8CN6> el otro dia en la meetup de react :heart:
+15:45:37 - Sergio Daniel Xalambrí (@sergiodxa):
+Hay un par de Peru acá que conozco 
+15:46:54 - Gian Masto (@gianmasto1):
+Yo los conocí por Reddit, buscando alguna comunidad de desarrolladores marplatenses, lo más cercano que encontré fue esto
+15:47:01 - Cristhian Duran (@cris):
+en el grupo de facebook está entrando mucha gente de la plata y de mar del plata, pero ahí si que no hay mucho movimiento, solo publicamos los eventos
+15:48:18 - Leandro Echevarria (@echevarrialeandro):
+<@UHMEMGWBT> Soy de mardel y no conozco ninguna de allá :disappointed:
+15:51:40 - Gian Masto (@gianmasto1):
+Se podría armar algo quizás, así tenemos nuestras propias ediciones de las meetups jajaja
+15:51:57 - Sergio Daniel Xalambrí (@sergiodxa):
+Meetup.js MDQ
+15:53:00 - Sergio Daniel Xalambrí (@sergiodxa):
+hay que llevar Meetup.js a todo Argentina y de ahí a latam
+15:54:16 - Martín Valdés de León (@mvaldesdeleon):
+Estan grabando/streameando las meetups?
+15:55:18 - Ezequiel Leites (@leites25):
+Yo obligue a mi equipo a que se metieran
+15:57:26 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://www.youtube.com/channel/UCosDO1DDQBkKkmmIJaOdyXQ/videos>
+15:58:58 - Cristhian Duran (@cris):
+grabando y dejando reseña escrita
+15:58:58 - Cristhian Duran (@cris):
+<https://meetupjs.com.ar/articulos/resena-meetup-noviembre-2018.html>
+15:59:57 - Martín Valdés de León (@mvaldesdeleon):
+muy bueno!
+16:04:58 - Leandro Echevarria (@echevarrialeandro):
+Vivo en bs as ahora, pero viajo generalmente los findes largos para mardel jaaj
+16:08:36 - Lupe (@lportias):
+:joy: :+1:
+16:28:17 - ari (@arieldiaz):
+gracias por la data!
+16:33:49 - Brian Hume (@brianh20):
+solo con la gente que me cae bien jajajajaaj
+16:46:15 - Cristian Flores (@cristianflores.ee):
+Disculpa lo renovato, pero entonces instalo ubunt server y luego ejecuto las instrucciones de esa repo?
+16:57:59 - Daniel Broder (@dabroder):
+yes
+16:58:30 - Daniel Broder (@dabroder):
+si es un server que vas a poner de producción
+16:59:29 - Daniel Broder (@dabroder):
+es más var a tener que tener algo que lo vuelva a levantar si se cae
+17:40:10 - Cristian Flores (@cristianflores.ee):
+muchas gracias, soy muy novato, algun artículo, libro o algo que recomiendes? :slightly_smiling_face:
+17:40:38 - Cristian Flores (@cristianflores.ee):
+he hecho apps pero nunca me ha tocado despliegue
+17:43:12 - Daniel Broder (@dabroder):
+me fijo en un rato y te paso links
+18:54:27 - Damian Diaz (@damianmdst):
+Gente pregunta, tienen de casualidad (falle en mi busqueda en google) un styleguide o conventions de como nombrrar files de graphql y demas? Estoy wrappeando una API y me gustaria realizar buenas practicas, la arquitectura tiene algunas en graphql-yoga pero de conventions de files y demas no vi demasiado.
