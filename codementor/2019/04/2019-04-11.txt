@@ -1,0 +1,452 @@
+23:06:42 - Marcos Casagrande (@marcoscvp90):
+Esta mina en particular grabó la sesión, pero no le conviene mostrarla porque sale perdiendo.
+23:07:19 - Marcos Casagrande (@marcoscvp90):
+pero yo no grabé, una cagada la verdad.
+07:23:21 - Martín Aimar (@maimar):
+después de mandar el small project me dijeron que no me pueden meter en cmx porque tengo que tener más sesiones
+07:23:34 - Martín Aimar (@maimar):
+ellos mismos me invitaron inmediatamente después de aprobarme el perfil
+09:20:16 - Gonzalo González Mora (@gonzalogm):
+:face_palm:
+09:20:20 - Gonzalo González Mora (@gonzalogm):
+Deciles eso jajaja
+09:25:25 - Martín Aimar (@maimar):
+si ya les mandé
+09:25:45 - Martín Aimar (@maimar):
+o sea me dejaron llegar bastante lejos en el proceso como para decirme eso
+09:26:22 - Martín Aimar (@maimar):
+y siempre la misma sarasa “we think you might be a good fit here at CMX”
+09:26:50 - Martín Aimar (@maimar):
+quizás la invitación me llegó por un bug de la plataforma
+09:34:44 - Mariano Ramonda (@ing.inf.mariano):
+yo minimamente bardearia
+09:35:14 - Mariano Ramonda (@ing.inf.mariano):
+todo ese tiempo fue perdido si nunca vas a estar en CMX
+09:38:46 - Martín Aimar (@maimar):
+totalmente, usé tiempo de mi laburo para eso
+23:06:42 - Marcos Casagrande (@marcoscvp90):
+Esta mina en particular grabó la sesión, pero no le conviene mostrarla porque sale perdiendo.
+23:07:19 - Marcos Casagrande (@marcoscvp90):
+pero yo no grabé, una cagada la verdad.
+07:23:21 - Martín Aimar (@maimar):
+después de mandar el small project me dijeron que no me pueden meter en cmx porque tengo que tener más sesiones
+07:23:34 - Martín Aimar (@maimar):
+ellos mismos me invitaron inmediatamente después de aprobarme el perfil
+09:20:16 - Gonzalo González Mora (@gonzalogm):
+:face_palm:
+09:20:20 - Gonzalo González Mora (@gonzalogm):
+Deciles eso jajaja
+09:25:25 - Martín Aimar (@maimar):
+si ya les mandé
+09:25:45 - Martín Aimar (@maimar):
+o sea me dejaron llegar bastante lejos en el proceso como para decirme eso
+09:26:22 - Martín Aimar (@maimar):
+y siempre la misma sarasa “we think you might be a good fit here at CMX”
+09:26:50 - Martín Aimar (@maimar):
+quizás la invitación me llegó por un bug de la plataforma
+09:34:44 - Mariano Ramonda (@ing.inf.mariano):
+yo minimamente bardearia
+09:35:14 - Mariano Ramonda (@ing.inf.mariano):
+todo ese tiempo fue perdido si nunca vas a estar en CMX
+09:38:46 - Martín Aimar (@maimar):
+totalmente, usé tiempo de mi laburo para eso
+09:38:51 - Federico A. Sawady O'Connor (@sawady.faso):
+yo recién tuve una sesión con un centro educativo de la India
+09:39:00 - Federico A. Sawady O'Connor (@sawady.faso):
+les cobré 20 dólares la hora
+09:39:06 - Federico A. Sawady O'Connor (@sawady.faso):
+daban pena
+09:39:15 - Federico A. Sawady O'Connor (@sawady.faso):
+los re cagaron con una DB que les armaron
+09:39:22 - Federico A. Sawady O'Connor (@sawady.faso):
+tenían un MongoDB con un sólo documento
+09:39:24 - Federico A. Sawady O'Connor (@sawady.faso):
+todo metido ahí
+09:39:34 - Leandro Echevarria (@echevarrialeandro):
+Uhh que pijazo
+09:39:47 - Federico A. Sawady O'Connor (@sawady.faso):
+yo se lo llegué a separar en colecciones ahí en la sesión
+09:39:53 - Federico A. Sawady O'Connor (@sawady.faso):
+pero le dije que estaba al horno
+09:40:02 - Federico A. Sawady O'Connor (@sawady.faso):
+que tenía que rehacer todas las queries que me mostró
+09:40:09 - Federico A. Sawady O'Connor (@sawady.faso):
+para colmo tiene 209 microservicios. WTF
+09:40:15 - Leandro Echevarria (@echevarrialeandro):
+209!!!!????
+09:40:16 - Federico A. Sawady O'Connor (@sawady.faso):
+la re flashearon
+09:40:18 - Federico A. Sawady O'Connor (@sawady.faso):
+si si
+09:40:20 - Leandro Echevarria (@echevarrialeandro):
+Paaaa
+09:40:20 - Luis Alvarez (@luistensai):
+```you're in the oven friend```
+09:40:22 - Gonzalo González Mora (@gonzalogm):
+juajuajua
+09:40:25 - Federico A. Sawady O'Connor (@sawady.faso):
+y le pregunté si usaba AWS Lambda o algo así
+09:40:27 - Federico A. Sawady O'Connor (@sawady.faso):
+dijo que no
+09:40:29 - Federico A. Sawady O'Connor (@sawady.faso):
+contenedores normales
+09:41:02 - Leandro Echevarria (@echevarrialeandro):
+Inmantenible siendo un centro educativo
+09:41:13 - Federico A. Sawady O'Connor (@sawady.faso):
+claro por eso
+09:41:19 - Federico A. Sawady O'Connor (@sawady.faso):
+andá a saber la guita que gastaron en eso
+09:41:30 - Leandro Echevarria (@echevarrialeandro):
+Pobres que perno
+09:41:30 - Federico A. Sawady O'Connor (@sawady.faso):
+desarrollan actividades para su web
+09:41:33 - Federico A. Sawady O'Connor (@sawady.faso):
+como 1500 actividades
+09:42:01 - Gonzalo González Mora (@gonzalogm):
+Qué garrón
+09:42:17 - Federico A. Sawady O'Connor (@sawady.faso):
+pero flashero, rompieron el límite de capacidad de los documentos Mongo
+09:42:18 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja
+09:42:21 - Federico A. Sawady O'Connor (@sawady.faso):
+nunca lo había llegado a ver
+09:42:32 - Federico A. Sawady O'Connor (@sawady.faso):
+16MB creo que es
+09:42:33 - Gonzalo González Mora (@gonzalogm):
+Claro, pero qué onda, nunca vieron el más pedorro tuto de Mongo? WTF
+09:42:36 - Gonzalo González Mora (@gonzalogm):
+Sep ,16MB
+09:42:42 - Gonzalo González Mora (@gonzalogm):
+Qué bizarro
+09:42:43 - Federico A. Sawady O'Connor (@sawady.faso):
+andá a saber quién se lo hizo
+09:42:47 - Federico A. Sawady O'Connor (@sawady.faso):
+otro indio falopa seguro
+09:42:50 - Gonzalo González Mora (@gonzalogm):
+jajaj si
+09:42:59 - Federico A. Sawady O'Connor (@sawady.faso):
+si a duras penas me podía pagar a mi jaja
+09:43:07 - Gonzalo González Mora (@gonzalogm):
+Y qué onda, para todo parseaban el objeto ese?
+09:43:14 - Federico A. Sawady O'Connor (@sawady.faso):
+si
+09:43:19 - Federico A. Sawady O'Connor (@sawady.faso):
+no se lo traían
+09:43:22 - Federico A. Sawady O'Connor (@sawady.faso):
+usaban como agregaciones
+09:43:28 - Federico A. Sawady O'Connor (@sawady.faso):
+y se traían partes
+09:43:32 - Gonzalo González Mora (@gonzalogm):
+jaja
+09:43:34 - Federico A. Sawady O'Connor (@sawady.faso):
+o algo así llegue a ver
+09:43:35 - Gonzalo González Mora (@gonzalogm):
+qué delirio
+09:44:02 - Federico A. Sawady O'Connor (@sawady.faso):
+se complica cuando no te dejan ver el repo igual
+09:44:12 - Federico A. Sawady O'Connor (@sawady.faso):
+me pasteaba código a lo loco
+09:44:32 - Martín Aimar (@maimar):
+me la re baja que pase eso, hay gente que hace cualquier cosa y cobra
+09:45:00 - Gonzalo González Mora (@gonzalogm):
+Mal, qué bronca
+09:45:02 - Federico A. Sawady O'Connor (@sawady.faso):
+sep
+09:45:09 - Leandro Echevarria (@echevarrialeandro):
+Y muchos lo saben y aún asi se aprovechan
+09:45:09 - Gonzalo González Mora (@gonzalogm):
+Les chupa un huevo todo
+09:45:37 - Federico A. Sawady O'Connor (@sawady.faso):
+muchos además no saben cómo funciona la plataforma
+09:45:40 - Federico A. Sawady O'Connor (@sawady.faso):
+llegan re desesperados
+09:45:54 - Mariano Ramonda (@ing.inf.mariano):
+ojo, eso pasa en todos lados eh
+09:46:01 - Federico A. Sawady O'Connor (@sawady.faso):
+porque ponele, no saben que existe CodementorX
+09:46:07 - Mariano Ramonda (@ing.inf.mariano):
+con devs que estan en un laburo fijo tambien
+09:46:23 - Martín Aimar (@maimar):
+la verdad tenés razón, y en otros rubros también
+09:46:23 - Gonzalo González Mora (@gonzalogm):
+Sí, obvio, y en otros rubros tmb, pero no deja de ser una cagada mandarte a hace cosas sabiendo tan poco
+09:46:37 - Mariano Ramonda (@ing.inf.mariano):
+lo unico que puede filtrar eso es un superior que si sepa y se de cuenta de que el dev no sabe
+09:46:53 - Federico A. Sawady O'Connor (@sawady.faso):
+sí, difícil
+09:47:01 - Mariano Ramonda (@ing.inf.mariano):
+peeero, hay muchos superiores que tampoco saben
+09:47:06 - Federico A. Sawady O'Connor (@sawady.faso):
+sin ir más lejos laburo en un lugar donde los devs vendieron humo a lo loco jaja
+09:47:12 - Federico A. Sawady O'Connor (@sawady.faso):
+terminé reescribiendo bocha de cosas
+09:47:21 - Federico A. Sawady O'Connor (@sawady.faso):
+va, los nuevos devs y yo
+09:47:31 - Federico A. Sawady O'Connor (@sawady.faso):
+va, un nuevo dev y yo jaja
+09:47:35 - Federico A. Sawady O'Connor (@sawady.faso):
+el resto se fue
+09:47:35 - Mariano Ramonda (@ing.inf.mariano):
+laburo en una startup de SF, hay muy poco nivel tecnico
+09:47:58 - Mariano Ramonda (@ing.inf.mariano):
+le veo poca vida a la codebase actual
+09:48:16 - Martín Aimar (@maimar):
+sí a mi me pasa tb
+09:48:25 - Federico A. Sawady O'Connor (@sawady.faso):
+re off-topic, a veces me pongo a pensar si existe alta burbuja, pero luego pienso en mecánicos que cagan a la gente y se me pasa jaja
+09:48:37 - Martín Aimar (@maimar):
+me pasaron un proyecto que iba por el sprint 3 y ni siquiera estaba bien el modelo de datos
+09:48:38 - Mariano Ramonda (@ing.inf.mariano):
+pfff es en todos los rubros
+09:49:16 - Federico A. Sawady O'Connor (@sawady.faso):
+trabajo en un proyecto de 2 años de desarrollo, y sigue mal el modelo
+09:49:33 - Leandro Echevarria (@echevarrialeandro):
+No hay rubro que se salve
+09:51:15 - Mariano Ramonda (@ing.inf.mariano):
+el mio tiene casi 3 años, DB noSQL, sin documentacion, cualquiera agrega/elimina lo que quiere, mal indexada, un desastre
+09:52:08 - Leandro Echevarria (@echevarrialeandro):
+Me dan ganas de llorar todas esas cosas. No soy el mejor dev del mundo, pero al menos me gusta intentar hacer las cosas bien, y no mandarme dos veces la misma cagada :rolling_on_the_floor_laughing:
+09:52:28 - Luis Alvarez (@luistensai):
+yo estoy en una startup en Canadá, similares condiciones, recién ahora después de 3 años está un poco más estable
+09:52:57 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja parece terapia de grupo ya
+09:53:05 - Mariano Ramonda (@ing.inf.mariano):
+jajjaja
+09:53:06 - Luis Alvarez (@luistensai):
+tengo ganas de buscar al que eligió usar nosql para guardar data relacional y :agite:
+09:53:18 - Martín Aimar (@maimar):
+qué loco igual que pase tanto
+09:53:22 - Martín Aimar (@maimar):
+termina todo saliendo a las trompadas
+09:53:26 - Martín Aimar (@maimar):
+parchado hasta las bolas
+09:53:36 - Mariano Ramonda (@ing.inf.mariano):
+eligen noSQL basicamente porque no saben SQL
+09:53:42 - Mariano Ramonda (@ing.inf.mariano):
+para mi es asi de simple
+09:53:57 - Federico A. Sawady O'Connor (@sawady.faso):
+sí, es el mayor error de los últimos tiempos ese
+09:54:01 - Luis Alvarez (@luistensai):
+sí, dicen "ahh... no tenemos un schema para esto... y vamo a darle..."
+09:54:09 - Martín Aimar (@maimar):
+hay un poco de hype ahí
+09:54:12 - Federico A. Sawady O'Connor (@sawady.faso):
+todos me salen con "pero el esquema de tablas no es flexible"
+09:54:51 - Federico A. Sawady O'Connor (@sawady.faso):
+ok, si tenés una tabla de 150GB y agregar una columna es prohibitivo, puede ser, ponele
+09:54:58 - Mariano Ramonda (@ing.inf.mariano):
+a mi el mejor conocimiento que me dejo la universidad fue saber modelar y usar DBs relacionales
+09:54:59 - Federico A. Sawady O'Connor (@sawady.faso):
+pero te va a pasar lo mismo en cualquier lado
+09:55:08 - Gonzalo González Mora (@gonzalogm):
+En mi caso fue hype y el famoso “total es un MVP, después se cambia para el posta”, cosa que nunca pasó y seguimos con la misma codebase de cuando arrancó el MVP
+09:55:13 - Mariano Ramonda (@ing.inf.mariano):
+para mi tiene cierto grado de dificultad
+09:55:29 - Mariano Ramonda (@ing.inf.mariano):
+por eso, cada vez mas gente se vuelca por noSQL
+09:55:36 - Mariano Ramonda (@ing.inf.mariano):
+mas facil, sale con fritas
+09:55:39 - Gonzalo González Mora (@gonzalogm):
+Sep
+09:55:42 - Gonzalo González Mora (@gonzalogm):
+Dsp la re comés
+09:55:46 - Martín Aimar (@maimar):
+andá a quieriarla bien después
+09:55:55 - Gonzalo González Mora (@gonzalogm):
+Y un montónd e startups de hace 3 años cayeron en esa volteada
+09:55:59 - Federico A. Sawady O'Connor (@sawady.faso):
+siempre está la moda de bardear lo viejo, sin ir más lejos hay demasiado delirio alrededor de scrum muchas veces, no podés afrontar un proyecto de 3 años sin pensar más lejos que un par de sprints
+09:56:23 - Federico A. Sawady O'Connor (@sawady.faso):
+ese es otro error que veo demasiado
+09:58:45 - Mariano Ramonda (@ing.inf.mariano):
+IMO, no se puede esperar mucho crecimiento profesional en una startup, o seran las menos
+09:59:15 - Martín Aimar (@maimar):
+si podés ponerte más o menos en rol de lead puede sumar un poco
+09:59:30 - Martín Aimar (@maimar):
+para aprender un poco de management
+09:59:32 - Martín Aimar (@maimar):
+si te interesa bah
+10:02:05 - Leandro Echevarria (@echevarrialeandro):
+Cuando el jefe se de vuelta le vuelo mongo para meter postgres
+10:04:12 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja excelente idea, he hecho un par de jugadas similares. Encima le estás haciendo un bien, no es un capricho en general.
+10:05:32 - Gonzalo González Mora (@gonzalogm):
+En mi laburo lo pensaron pero es una tarea bastante grande. Vos migraste algunos NoSQL a SQL Fede? Qué experiencia tuviste?
+10:06:39 - Leandro Echevarria (@echevarrialeandro):
+Es algo costoso en mi opinión, pero puede ser una muy buena experiencia con frutos grosos
+10:06:43 - Leandro Echevarria (@echevarrialeandro):
+Si las cosas se encararon bien
+10:06:59 - Federico A. Sawady O'Connor (@sawady.faso):
+mirá, en los proyectos donde realmente usaban NoSQL como base relacional, anduvo bien, el tema es la migración de las queries, las cosas que tienen que ver con el ORM, etc.
+10:07:57 - Federico A. Sawady O'Connor (@sawady.faso):
+muchas soluciones que propuse fueron iterativas, porque una gran verdad de Mongo es que las colecciones no son transaccionales (sólo los documentos inviduales lo son), entonces generalmente no había mucho problema con traer parte de los datos de SQL y otros de MongoDB, y mergear en la API (si no era prohibitivo)
+10:08:45 - Federico A. Sawady O'Connor (@sawady.faso):
+Hay un proyecto en el que funcionó perfecto de una, estaba hecho Laravel. Descubrí que puede tener campos que vienen de distintas bases de datos, e incluso te puede resolver los joins (sí, una locura). En ese proyecto fue bastante fácil.
+10:09:57 - Federico A. Sawady O'Connor (@sawady.faso):
+Después en otros proyectos les recomendé que no migren a SQL, porque si bien a veces hay que correr aggregations haciendo joins, el tipo de queries que hacían, la cantidad de tráfico que tenían, no iba bien con SQL.
+10:12:21 - Marcos Casagrande (@marcoscvp90):
+```
+Thanks for asking. Please know that we take into account other factors that aren't shown on mentor profiles such as private ratings, activeness, reply rates etc.
+```
+10:12:46 - Martín Aimar (@maimar):
+:humo:
+10:13:24 - Aldo Sorbara (@aldo1891):
+:caruso:.random()
+10:13:39 - Juan Scolari (@juanscolari):
+disappointed but not surprised
+10:13:58 - Gonzalo González Mora (@gonzalogm):
+Claro, de una. Sí, la verdad es un laburo bastante grande y en el proyecto donde estoy somos 2 devs de back nomás, así que cuando uno piensa el tradeoff de la migración vs sacar nuevos features, ni lo dudan y van por lo segundo jaja y es entendible. Por ahora la venimos piloteando pero es un garrón y hay cosas que no se pueden hacer porque sabés que no van a ser performantes
+10:14:19 - Juan Scolari (@juanscolari):
+hay que hacer un curso de seo y posicionamiento en codementor
+10:14:31 - Leandro Echevarria (@echevarrialeandro):
+El laburo groso groso es ese de cambiar las queries/orm. Interesante pero no deja de ser un laburazo
+10:14:33 - Federico A. Sawady O'Connor (@sawady.faso):
+claro exacto, pasa lo mismo en la empresa en la que estoy, inviable la migración por ahora
+10:14:39 - Leandro Echevarria (@echevarrialeandro):
+Laravel cada día sorprende más
+10:14:45 - Leandro Echevarria (@echevarrialeandro):
+Tiene que haber Laravels en todos los lenguajes jaja
+10:14:45 - Aldo Sorbara (@aldo1891):
+en 2 dias hice 2 sesiones y un freelo, 220 dolares :fastparrot:
+10:14:55 - Federico A. Sawady O'Connor (@sawady.faso):
+todos bardean a PHP, yo uso Laravel para muchas cosas, va como piña
+10:15:03 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja ojalaaaa
+10:15:10 - Federico A. Sawady O'Connor (@sawady.faso):
+me voy a hacer un Laravel para Node
+10:15:13 - Federico A. Sawady O'Connor (@sawady.faso):
+hype del hype sería
+10:15:19 - Federico A. Sawady O'Connor (@sawady.faso):
+un metahype
+10:15:30 - Leandro Echevarria (@echevarrialeandro):
+10k pf. isi mani
+10:15:35 - Federico A. Sawady O'Connor (@sawady.faso):
+hay algo llamado loopback, pero me pareció una cagada
+10:15:36 - Leandro Echevarria (@echevarrialeandro):
+isi laif
+10:16:01 - Daniel Broder (@dabroder):
+hice una tecnicatura y comparto (además de la prog. estructurada)
+10:16:23 - Leandro Echevarria (@echevarrialeandro):
+Si no necesitás concurrencia y todas esas sarasas cuasi real time, Laravel en general anda excelente
+10:16:40 - Leandro Echevarria (@echevarrialeandro):
+Sale el port para Node con concurrencia y juegos de azar
+10:35:06 - Mariano Ramonda (@ing.inf.mariano):
+cuanto tiempo en total total podrias calcular que te llevaron esas 2 sesiones y 1 freelo? sumando todo, desde que esas mirando el dashboard de CM hasta que terminaste de entregar el freelo
+12:17:15 - Aldo Sorbara (@aldo1891):
+1,5 el freelo
+12:17:21 - Aldo Sorbara (@aldo1891):
+30 min una sesion
+12:17:29 - Aldo Sorbara (@aldo1891):
+1:30/2hs otra sesion
+13:49:19 - Aldo Sorbara (@aldo1891):
+buenas
+13:49:28 - Aldo Sorbara (@aldo1891):
+alguno sabe como funciona el "code review"
+13:49:34 - Aldo Sorbara (@aldo1891):
+dice 80/hr
+13:49:42 - Aldo Sorbara (@aldo1891):
+no entiendo si el tiene que aceptar mi "i can help"
+13:49:48 - Aldo Sorbara (@aldo1891):
+o como seria el proceso para cobrar
+14:06:23 - Marcos Casagrande (@marcoscvp90):
+Funcionan igual que los freelance jobs. Mete la guita en escrow, cuando terminás, marcás "completado"
+14:17:19 - Aldo Sorbara (@aldo1891):
+gracias
+14:59:15 - Gabriel Fusca (@gfuscax):
+gracias <@UGQTUDQSG> por el follow back jeje
+15:09:04 - Julian (@jantonielli01):
+Que hijo de puta, el pibe que nunca me pago el laburo 
+15:09:16 - Julian (@jantonielli01):
+Me reporto con codementor por hacerle la tarea de la facultad 
+15:09:40 - Julian (@jantonielli01):
+Y me mandaron que si lo hacía otra vez me podían bannear la cuenta 
+15:09:49 - Leandro Echevarria (@echevarrialeandro):
+WAAAAAAAAAAAAAAAAT]
+15:09:55 - Leandro Echevarria (@echevarrialeandro):
+SI EL TE PIDIO QUE SE LA HAGAS
+15:09:57 - Leandro Echevarria (@echevarrialeandro):
+HIJODEPUTA
+15:10:02 - Leandro Echevarria (@echevarrialeandro):
+Que bronca la gente chota
+15:10:04 - Julian (@jantonielli01):
+Si 
+15:10:12 - Julian (@jantonielli01):
+Unas ganas de cagarlo a piñas
+15:10:23 - Leandro Echevarria (@echevarrialeandro):
+LE rompería todos los huesos a esa gente :grimacing:
+15:12:11 - Rodrigo Ali (@rodrigojali):
+Al pedo encima, porque eso es daño puro, no tiene otro propósito.
+15:13:10 - Leandro Echevarria (@echevarrialeandro):
+Encima que no le pagó y ÉL le dijo que le haga la tarea, va y lo reporta
+15:13:13 - Leandro Echevarria (@echevarrialeandro):
+Que sorete
+15:13:35 - Julian (@jantonielli01):
+Posta, totalmente 
+15:15:27 - Rodrigo Ali (@rodrigojali):
+Pero no entiendo, ¿hay alguna clausula de CM que te impida hacer tarea a pibes? ¿Entonces vos como CM deberías reportar una request que veas con eso? No entiendo si no por qué el enforcement se hace sobre vos y no sobre el pibe.
+15:20:15 - Julian (@jantonielli01):
+Me pusieron que no podes hacer “graded assignments/homework” 
+15:20:34 - Gonzalo González Mora (@gonzalogm):
+Uff qué cagada
+15:20:36 - Gonzalo González Mora (@gonzalogm):
+Alto hdp
+15:20:51 - Gonzalo González Mora (@gonzalogm):
+Se ve que fue a los TOS para ver cómo te podía cagar
+15:22:06 - Julian (@jantonielli01):
+Sep, me cabio por boludo 
+15:22:12 - Julian (@jantonielli01):
+Pero que cara rota el flaco 
+15:23:51 - Gonzalo González Mora (@gonzalogm):
+Mal, un hdp
+15:23:57 - Gonzalo González Mora (@gonzalogm):
+Tal vez yal a venía haciendo hace rato
+15:24:08 - Gonzalo González Mora (@gonzalogm):
+Sino muy raro que justo en esta se haga el boludo y sepa hacer eso
+15:24:16 - Gonzalo González Mora (@gonzalogm):
+y te aprieta con eso
+15:45:48 - Marcos Casagrande (@marcoscvp90):
+Es un hijo de mil puta. Ahí es cuando tenes que saber el nombre y reportarlo en la universidad
+15:46:31 - Marcos Casagrande (@marcoscvp90):
+Si, se puede reportar, y una de las opciones es justamente; tarea/examen
+15:46:55 - Rodrigo Ali (@rodrigojali):
+Igual re heavy jajaja, le cabe daño por otario no más.
+15:47:32 - Rodrigo Ali (@rodrigojali):
+Onda si te tomaste el tiempo y esfuerzo de reportarme de mala leche (para generar daño no más), entonces te cabe que yo te reporte a tu facultad (wherever it is) con screenshots y todo mostrando eso.
+15:49:06 - Marcos Casagrande (@marcoscvp90):
+Yo si me hace eso, le hago el laburo y me reporta, le mando todo a la facultad, que lo echen, así aprende que en la vida todo tiene consecuencias.
+15:50:00 - Marcos Casagrande (@marcoscvp90):
+Generalmente te pasan el assignment completo, con nombre de facultad y todo. Muchos hasta me dan login de su campus online. Así que reportar es una boludez en la mayoría de los casos
+15:51:46 - Adrián Velasco (@adrivelasco1506):
+no entendí y como hizo para no pagarte?
+16:02:01 - Charly Frutos (@carlos):
+Depende de que facultad sea también, si mandás un screenshot con eso a la UBA ponele va directo a /dev/null
+16:02:44 - Charly Frutos (@carlos):
+Pero supongo por otro lado que los que pagan en CM son de universidades first world
+16:07:05 - Marcos Casagrande (@marcoscvp90):
+Al menos los que yo tuve, la mayoría son de Harvard, Stanford y similares.
+16:17:16 - Charly Frutos (@carlos):
+Claaaro, en ese caso si
+17:12:35 - Julian (@jantonielli01):
+woah
+17:12:44 - Julian (@jantonielli01):
+La última vez que withdrawee tardó 2 semanas
+17:12:52 - Julian (@jantonielli01):
+vamos a ver si no es chamuyo
+17:21:54 - Ari Sanguinetti (@arielsanguinetti):
+puede ser que tarde en aparecer el boton para "become a mentor"?
+17:23:01 - Julian (@jantonielli01):
+A que te referís?
+17:23:40 - Ari Sanguinetti (@arielsanguinetti):
+hice el perfil y todo siguiendo el gist, pero no tengo para become a mentor, llegue tarde? solo puedo buscar freelancers o mandar code review
+17:34:19 - Gabriel Fusca (@gfuscax):
+Desde donde hiciste withdraw?
+17:53:58 - Julian (@jantonielli01):
+Payoneer
+17:54:40 - Julian (@jantonielli01):
+<@UHRT1R5R6> en <https://www.codementor.io/> aparece abajo
+18:54:01 - Ari Sanguinetti (@arielsanguinetti):
+ahhh estaba ahi nomas, maldito CTRL + F "become a mentor" (?)
+19:30:51 - Marcos Casagrande (@marcoscvp90):
+de Payoneer a banco de acá? Que banco?
+19:35:55 - Julian (@jantonielli01):
+A Galicia, pero parece fake news 
