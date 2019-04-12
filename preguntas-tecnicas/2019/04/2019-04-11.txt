@@ -1,0 +1,176 @@
+12:53:51 - Wilfredo Alcala (@alcalawilfre):
+Buen día gente, una consulta:
+
+Estoy armando un Dashboard para mostrar ciertas métricas.. Hay un servicio que extrae la data que necesita mostrar el dashboard y la almacena en otra BD que es la que consume el API del dashboard.. El problema es que estamos replicando mucha data para que los queries vayan más rápido, entonces casi que cada gráfico tiene su propia tabla, ejemplo: `clicks per hour grouped by users` El problema es que parece que la BD nos está comiendo mucha RAM por las agrupaciones..  Primera vez que trabajo en un proyecto como este, por lo que no sé bien si conviene tener muchas tablas separadas por cada gráfico con la info procesada que necesite el gráfico, o suelen hacer muchos `SELECT COUNT`  a una misma tabla? Agradezco de antemano cualquier sugerencia
+12:55:35 - Ari Sanguinetti (@arielsanguinetti):
+necesitas real-time o podes hacer caching fuerte?
+12:58:26 - Wilfredo Alcala (@alcalawilfre):
+near realtime
+12:58:57 - Wilfredo Alcala (@alcalawilfre):
+Tenemos gráficos de resolución por minuto con delay de unos 8m
+13:01:59 - Wilfredo Alcala (@alcalawilfre):
+Estamos usando influxb, alguno la ha usado? Es bastante buena para queriar datas en función del tiempo pero a la vez como que crea todas las posibles comibinaciones de cada posible value que pueda tomar un field, y eso nos está matando la ram
+14:18:20 - Gustavo Machado (@machadogj):
+la consulta esta filtrada por campos? o es la misma siempre?
+14:34:34 - Wilfredo Alcala (@alcalawilfre):
+Siempre filtrada, cada user ve data distinta
+15:56:09 - Hernan Rajchert (@sherman):
+Alguien conoce un scrapper que te permita hacer un “recording” de una sesion web?
+15:56:44 - Hernan Rajchert (@sherman):
+no recording en sentido de grabar un video de lo que haces, sino que la forma de indicar qué/cómo scrapear sea haciendo un record de lo que yo hago…
+17:15:29 - Gustavo Machado (@machadogj):
+<@U0DHEL1PC> algo asi?
+<https://chrome.google.com/webstore/detail/casperjs-recorder/gdngefcfkilenchnbnmhcmkjainidbjp?hl=en>
+17:16:20 - Hernan Rajchert (@sherman):
+puede ser… va por ese lado
+17:16:21 - Gustavo Machado (@machadogj):
+si queres algo mas aaS, fijate <http://import.io|import.io>
+17:17:12 - Gustavo Machado (@machadogj):
+alguna libreria para manejo de errores (del estilo de verror) para node.js que recomienden?
+19:01:43 - Luciano Muñoz (@luchisds):
+Buenas tardes gente, a ver si alguien me puede guiar con lo siguiente: tengo varios objetos en un array, y tengo que hacer un request POST a un API con la data del objeto.  Una vez que se mandan todos los requests necesito quedarme solo con los que devolvieron status 400 para que el usuario corrija la data y los vuelva a enviar.
+19:02:10 - Luciano Muñoz (@luchisds):
+Tienen idea como hacer para encadenar los requests y poder chequear al final el resultado de cada uno?
+19:02:34 - Martín Aimar (@maimar):
+podés usar `Promise.all`
+19:03:34 - Sergio Daniel Xalambrí (@sergiodxa):
+:point_up:
+19:03:50 - Sergio Daniel Xalambrí (@sergiodxa):
+y el resultado que va a ser un array lo filtras con Array#filter
+19:04:35 - Sergio Daniel Xalambrí (@sergiodxa):
+````const responses = (await Promise.all(objects.map(object =&gt; fetch(object))).filter(response =&gt; response.status === 400)```
+19:04:50 - Sergio Daniel Xalambrí (@sergiodxa):
+algo así, pero no estoy seguro que response.status exista o tenga ese nombre
+19:05:42 - Ari Sanguinetti (@arielsanguinetti):
+ojo que Promise.all va a mandar los 400 requests en simultaneo...
+19:06:32 - Sergio Daniel Xalambrí (@sergiodxa):
+sí, es en paralelo
+19:06:56 - Sergio Daniel Xalambrí (@sergiodxa):
+si los necesitas en serie tendrías que hacer algo que vaya iterando por el array y hasta no recibir respuesta no procesas el siguiente
+19:07:12 - Martín Aimar (@maimar):
+son 400?
+19:07:14 - Sergio Daniel Xalambrí (@sergiodxa):
+igual son status 400 no 400 requests (creo)
+19:09:26 - Martín Aimar (@maimar):
+y si son muchos por ahí también se puede hacer un mix de las dos cosas
+19:09:52 - Sergio Daniel Xalambrí (@sergiodxa):
+claro, podría hacer batches
+19:10:04 - Sergio Daniel Xalambrí (@sergiodxa):
+como 10 request en paralelo, se guarda los status 400 y vuelve hasta terminar
+19:12:42 - Ari Sanguinetti (@arielsanguinetti):
+<@U09KF2RPU> sisisi se me mezclaron los numeros jeje
+19:13:54 - Sergio Daniel Xalambrí (@sergiodxa):
+cuando dijiste eso tuve que volver a leer para estar seguro de que no decía 400 requests :stuck_out_tongue:
+19:14:27 - Ari Sanguinetti (@arielsanguinetti):
+<@U6N4V23MW> también dependiendo la librería que uses para mandar los requests podrías usar events para hacer un catch de los requests que te devuelven 400
+19:14:47 - Ari Sanguinetti (@arielsanguinetti):
+es la hora (?)
+19:18:56 - Luciano Muñoz (@luchisds):
+Estoy usando `axios` pero voy a ver como es lo de `Promise.all` también. Muchas gracias a todos por la data, seguramente en alguna parte me trabe y vuelva a preguntar :grin:
+19:19:18 - Martín Aimar (@maimar):
+axios tiene un método para hacer eso también
+19:19:18 - Julian (@jantonielli01):
+Es lo mismo, las requests de axios devuelven promises
+19:19:49 - Martín Aimar (@maimar):
+```
+axios.all([getUserAccount(), getUserPermissions()])
+  .then(axios.spread(function (acct, perms) {
+    // Both requests are now complete
+  }));
+```
+19:21:25 - Daniel Broder (@dabroder):
+<https://github.com/jshttp/http-errors>
+19:24:13 - Luciano Muñoz (@luchisds):
+:point_up: Genial Martin, eso era lo que necesitaba, me lo pase de largo en la documentación se ve
+19:28:06 - Martín Aimar (@maimar):
+creo que lo podés reemplazar por la función nativa con la misma sintaxis prácticamente
+19:28:27 - Julian (@jantonielli01):
+Sep 
+12:53:51 - Wilfredo Alcala (@alcalawilfre):
+Buen día gente, una consulta:
+
+Estoy armando un Dashboard para mostrar ciertas métricas.. Hay un servicio que extrae la data que necesita mostrar el dashboard y la almacena en otra BD que es la que consume el API del dashboard.. El problema es que estamos replicando mucha data para que los queries vayan más rápido, entonces casi que cada gráfico tiene su propia tabla, ejemplo: `clicks per hour grouped by users` El problema es que parece que la BD nos está comiendo mucha RAM por las agrupaciones..  Primera vez que trabajo en un proyecto como este, por lo que no sé bien si conviene tener muchas tablas separadas por cada gráfico con la info procesada que necesite el gráfico, o suelen hacer muchos `SELECT COUNT`  a una misma tabla? Agradezco de antemano cualquier sugerencia
+12:55:35 - Ari Sanguinetti (@arielsanguinetti):
+necesitas real-time o podes hacer caching fuerte?
+12:58:26 - Wilfredo Alcala (@alcalawilfre):
+near realtime
+12:58:57 - Wilfredo Alcala (@alcalawilfre):
+Tenemos gráficos de resolución por minuto con delay de unos 8m
+13:01:59 - Wilfredo Alcala (@alcalawilfre):
+Estamos usando influxb, alguno la ha usado? Es bastante buena para queriar datas en función del tiempo pero a la vez como que crea todas las posibles comibinaciones de cada posible value que pueda tomar un field, y eso nos está matando la ram
+14:18:20 - Gustavo Machado (@machadogj):
+la consulta esta filtrada por campos? o es la misma siempre?
+14:34:34 - Wilfredo Alcala (@alcalawilfre):
+Siempre filtrada, cada user ve data distinta
+15:56:09 - Hernan Rajchert (@sherman):
+Alguien conoce un scrapper que te permita hacer un “recording” de una sesion web?
+15:56:44 - Hernan Rajchert (@sherman):
+no recording en sentido de grabar un video de lo que haces, sino que la forma de indicar qué/cómo scrapear sea haciendo un record de lo que yo hago…
+17:15:29 - Gustavo Machado (@machadogj):
+<@U0DHEL1PC> algo asi?
+<https://chrome.google.com/webstore/detail/casperjs-recorder/gdngefcfkilenchnbnmhcmkjainidbjp?hl=en>
+17:16:20 - Hernan Rajchert (@sherman):
+puede ser… va por ese lado
+17:16:21 - Gustavo Machado (@machadogj):
+si queres algo mas aaS, fijate <http://import.io|import.io>
+17:17:12 - Gustavo Machado (@machadogj):
+alguna libreria para manejo de errores (del estilo de verror) para node.js que recomienden?
+19:01:43 - Luciano Muñoz (@luchisds):
+Buenas tardes gente, a ver si alguien me puede guiar con lo siguiente: tengo varios objetos en un array, y tengo que hacer un request POST a un API con la data del objeto.  Una vez que se mandan todos los requests necesito quedarme solo con los que devolvieron status 400 para que el usuario corrija la data y los vuelva a enviar.
+19:02:10 - Luciano Muñoz (@luchisds):
+Tienen idea como hacer para encadenar los requests y poder chequear al final el resultado de cada uno?
+19:02:34 - Martín Aimar (@maimar):
+podés usar `Promise.all`
+19:03:34 - Sergio Daniel Xalambrí (@sergiodxa):
+:point_up:
+19:03:50 - Sergio Daniel Xalambrí (@sergiodxa):
+y el resultado que va a ser un array lo filtras con Array#filter
+19:04:35 - Sergio Daniel Xalambrí (@sergiodxa):
+````const responses = (await Promise.all(objects.map(object =&gt; fetch(object))).filter(response =&gt; response.status === 400)```
+19:04:50 - Sergio Daniel Xalambrí (@sergiodxa):
+algo así, pero no estoy seguro que response.status exista o tenga ese nombre
+19:05:42 - Ari Sanguinetti (@arielsanguinetti):
+ojo que Promise.all va a mandar los 400 requests en simultaneo...
+19:06:32 - Sergio Daniel Xalambrí (@sergiodxa):
+sí, es en paralelo
+19:06:56 - Sergio Daniel Xalambrí (@sergiodxa):
+si los necesitas en serie tendrías que hacer algo que vaya iterando por el array y hasta no recibir respuesta no procesas el siguiente
+19:07:12 - Martín Aimar (@maimar):
+son 400?
+19:07:14 - Sergio Daniel Xalambrí (@sergiodxa):
+igual son status 400 no 400 requests (creo)
+19:09:26 - Martín Aimar (@maimar):
+y si son muchos por ahí también se puede hacer un mix de las dos cosas
+19:09:52 - Sergio Daniel Xalambrí (@sergiodxa):
+claro, podría hacer batches
+19:10:04 - Sergio Daniel Xalambrí (@sergiodxa):
+como 10 request en paralelo, se guarda los status 400 y vuelve hasta terminar
+19:12:42 - Ari Sanguinetti (@arielsanguinetti):
+<@U09KF2RPU> sisisi se me mezclaron los numeros jeje
+19:13:54 - Sergio Daniel Xalambrí (@sergiodxa):
+cuando dijiste eso tuve que volver a leer para estar seguro de que no decía 400 requests :stuck_out_tongue:
+19:14:27 - Ari Sanguinetti (@arielsanguinetti):
+<@U6N4V23MW> también dependiendo la librería que uses para mandar los requests podrías usar events para hacer un catch de los requests que te devuelven 400
+19:14:47 - Ari Sanguinetti (@arielsanguinetti):
+es la hora (?)
+19:18:56 - Luciano Muñoz (@luchisds):
+Estoy usando `axios` pero voy a ver como es lo de `Promise.all` también. Muchas gracias a todos por la data, seguramente en alguna parte me trabe y vuelva a preguntar :grin:
+19:19:18 - Martín Aimar (@maimar):
+axios tiene un método para hacer eso también
+19:19:18 - Julian (@jantonielli01):
+Es lo mismo, las requests de axios devuelven promises
+19:19:49 - Martín Aimar (@maimar):
+```
+axios.all([getUserAccount(), getUserPermissions()])
+  .then(axios.spread(function (acct, perms) {
+    // Both requests are now complete
+  }));
+```
+19:21:25 - Daniel Broder (@dabroder):
+<https://github.com/jshttp/http-errors>
+19:24:13 - Luciano Muñoz (@luchisds):
+:point_up: Genial Martin, eso era lo que necesitaba, me lo pase de largo en la documentación se ve
+19:28:06 - Martín Aimar (@maimar):
+creo que lo podés reemplazar por la función nativa con la misma sintaxis prácticamente
+19:28:27 - Julian (@jantonielli01):
+Sep 
