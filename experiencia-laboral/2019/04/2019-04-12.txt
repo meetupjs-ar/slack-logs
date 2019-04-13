@@ -1,0 +1,278 @@
+22:14:52 - Adrián Velasco (@adrivelasco1506):
+Estimados, alguno le tocó hacer un test técnico a través de Codility? <https://www.codility.com/>
+22:21:26 - German Gonzalez (@gercho):
+A <@U9KMYNJMV> creo
+22:34:30 - Julian (@jantonielli01):
+A mi tmb. Por?
+22:42:47 - Leandro Echevarria (@echevarrialeandro):
+Jajajajajajjaja
+23:02:53 - Ezequiel Leites (@leites25):
+Yo en un rato tengo que hacer uno
+04:30:19 - a0viedo (@a0viedo):
+hice los tests de toptal creo por codility
+07:46:37 - Aldo Gabriel Rojas (@aldogrojas5):
+Che, después pasen lo que les hicieron hacer si se acuerdan!
+09:12:33 - Adrián Velasco (@adrivelasco1506):
+era para saber que tipo de ejercicios podían llegar a tomar pero ya me imagino por donde viene la mano, debe ser una especie de HackerRank y problemas algorítmicos en los que siempre me van mal :joy:
+09:31:55 - Pablo Mescher (@pablomescher):
+Yo hice los primeros 2 de ejemplo y son interesantes
+09:32:57 - Pablo Mescher (@pablomescher):
+Aprendí que si haces toString(2) de un número te da la representación en binario por ejemplo
+10:01:32 - Gonza Espeche (@espeche.g):
+<http://www.codewars.com|www.codewars.com> está es buena tambien para practicar. Lo que tiene de copado es que se puede hacer un clan de “MeetupJs” ponele, y te arma un ranking y vas viendo como otros cranearon la solución a un mismo ejercicio
+10:05:13 - Jesus Africano (@jesus.africano):
+recuerdo que alguna vez llegue a practicar en uno que ahora no recuerdo el nombre, era algo como kata no se bien. Se que me gustaba porque luego que aplicacbas tu solicion podias ver un raking de soluciones al mismo problema mas votadas y siempre me sorprendia la forma como otros resolvian lo mismo
+10:09:00 - Juan Scolari (@juanscolari):
+se podria crear el clan
+10:11:07 - Leandro Echevarria (@echevarrialeandro):
+Mandemos clan si se puede crear
+10:14:24 - Gonza Espeche (@espeche.g):
+<@UEE1QEDHQ> si… en Codewars son las katas
+10:15:00 - Jesus Africano (@jesus.africano):
+si ahora que la veo justo era esa jajajajaja :sweat_smile:
+10:15:28 - Gonza Espeche (@espeche.g):
+esta bueno por que estas horas con uno, y la solución más votada es una linea sola bien ninja. Te sentis un soquete pero aprendes banda
+10:16:09 - Jesus Africano (@jesus.africano):
+totalmente sientes que no sabes nada, pero lo bueno es que se aprende mucho de esas soluciones
+10:24:55 - Juan Scolari (@juanscolari):
+no encontraba el boton submit, anda mal el scroll, tuve que achicar el zoom
+10:41:15 - Leandro Doldán (@leandromdoldan):
+Consideran que sirve hacer ejercicios de esas páginas como hobby? O rinde más hacer proyectos difectamente?
+10:43:20 - Mariano Ramonda (@ing.inf.mariano):
+servir te van a servir, porque es lo que muchas empresas usan como filtro tecnico
+10:43:30 - cryser (@carlosryser):
+me parece que te sirven para aprender conceptos, tecnicismos y detalles del lenguaje,, mientras que en los proyectos aprendes a resolver problemas mas alla del lenguaje, si resolves un proyecto en un lenguaje lo resolves en cualquiera
+10:43:49 - Pablo Mescher (@pablomescher):
+no te van a dar skills de ingeniería pero sirven para el caso raro donde necesitás hacer un algoritmo complejo
+10:43:55 - Mariano Ramonda (@ing.inf.mariano):
+yo en las ultimas semanas hice un challenge de devskiller y otro de hackerranck, para empresas de buen porte
+10:44:15 - Mariano Ramonda (@ing.inf.mariano):
+o sea, es muy probable encontrarse con esos challenges cuando apliques
+10:46:00 - Pablo Mescher (@pablomescher):
+claro, en ese sentido te sirve. En un sentido mas general, creo que entrenan skills distintos. Armarte un toy project te enseña cómo organizar tu código, aprendés del tooling del lenguaje que elegiste, como usar git, como escribir algo que dentro de 2 meses cuando lo vuelvas a leer se siga entendiendo.. etc
+10:46:35 - Pablo Mescher (@pablomescher):
+codility/hackerrank y eso te enseñan a "get things done". Tenés 2 horas para resolver este problema. DO IT
+10:47:20 - Pablo Mescher (@pablomescher):
+y de paso repasás algoritmos y cosas esotéricas del lenguaje como operadores binarios, modulo y etc
+10:48:08 - Martín Valdés de León (@mvaldesdeleon):
+_en general_ diria que a priori no hace falta practica regularmente haciendo coding exercises
+10:49:08 - Martín Valdés de León (@mvaldesdeleon):
+ese tipo de practica te va a servir en el contexto de "hacer mas coding challenges", y en la vida real eso sucede en casos bastante limitados
+1. entrevistas para empresas grandes tipo google, etc.
+2. competencias de programacion
+10:49:51 - Martín Valdés de León (@mvaldesdeleon):
+lo cual no quiere decir que si tenes tiempo e interes personal, no hagas lo que tengas ganas.
+10:50:28 - Martín Valdés de León (@mvaldesdeleon):
+pero si tu idea es "hago coding exercises y dps PROFIT", diria que eso solo es valido si tus objetivos son alguno de los dos que puse aca arriba
+10:55:51 - Gonza Espeche (@espeche.g):
+Yo lo veo como hobbie… no me voy a hacer un animal de la programación por hacer esos ejercicios, pero si de a poco vas ganando agilidad para resolverlos
+10:57:47 - Mariano Ramonda (@ing.inf.mariano):
+yo recomendaria lo siguiente, si vas a aplicar a X empresa, averiguate que usan de antemano y practica desde los faciles a los dificiles, todos los que puedas
+10:58:04 - Mariano Ramonda (@ing.inf.mariano):
+directo al grano
+10:58:36 - Mariano Ramonda (@ing.inf.mariano):
+si despues no quedas, seguramente cuando apliques en otro lugar toda esa practica acumulada te va a servir
+11:08:21 - Rodrigo Ali (@rodrigojali):
+Sep, igual en muchos lugares tenés experiencias de gente aplicando a empresas grandes
+11:08:42 - Rodrigo Ali (@rodrigojali):
+Y todo lo que leí se podría resumir a grosso modo en un "si vas a hacer entrevistas para un mostro, preparate con 2 meses de anticipación"
+11:11:59 - Martín Valdés de León (@mvaldesdeleon):
+en general la gente que arma los posts esos de medium "como consegui ofertas con todas las empresas" estan 6-12 meses dandole duro a leetcode
+11:12:01 - Martín Valdés de León (@mvaldesdeleon):
+mas que 2
+11:13:48 - Damian Cipolat (@damian.cipolat):
+Soy igual estar todos los dias en mi depto me resultaria muy duro, tal vez podria experimentar ir a un coworking y ver que onda
+11:14:00 - Martín Valdés de León (@mvaldesdeleon):
+pero el punto es que practicar "ejercicios de programacion" te hace bueno para resolver "ejercicios de programacion"
+11:14:04 - Martín Valdés de León (@mvaldesdeleon):
+no se traduce en otro skill
+11:14:33 - Pablo Miceli (@pablomiceli24):
+Yo lo veo como ejercicio mental tambien
+11:15:03 - Mariano Ramonda (@ing.inf.mariano):
+claro, por eso es muy util para pasar la parte tecnica de un proceso completo de entrevista
+11:15:24 - Mariano Ramonda (@ing.inf.mariano):
+si quedas, seguramente eso no es aplicable (o muy poco) al trabajo que hagas
+11:16:02 - Mariano Ramonda (@ing.inf.mariano):
+pero el challenge esta ahi, y si no lo pasas el proceso se corta
+11:16:54 - Lupe (@lportias):
+yo labure 2 años en mi casa... el ultimo año cortaba todo s las 6 y me iba a hacer sociales mientras tomaba clases de salsa
+13:53:05 - Diego Harari (@diehara):
+Buenas! una consulta a alguno le transfirieron plata del exterior de banco a banco digamos
+13:53:09 - Diego Harari (@diehara):
+saben el costo?
+13:53:53 - Agustin Polo (@apolo_codes):
+depende el banco
+13:54:22 - Gonzalo González Mora (@gonzalogm):
+Sep y varia mucho según dijeron. Nacion aparentemente tenía la menor comisión
+13:55:18 - Gonza Espeche (@espeche.g):
++1 channel “Finanzas y Legales”
+13:55:35 - Mariano Ramonda (@ing.inf.mariano):
+el nacion por transferencias de hasta 15k dolares, tiene un costo fijo de U$D25+iva
+13:55:59 - Mariano Ramonda (@ing.inf.mariano):
+U$D30,25 que te cobran en pesos
+13:58:00 - Gonza Espeche (@espeche.g):
+Si, Nación se comentó varias veces como uno de los más “rendidores”
+14:05:12 - Ezequiel Leites (@leites25):
+A que se debe el costo? Porque justamente hace un par de dias llame a Santander para consultar eso mismo y me dijeron que la transferencia solo tiene costo para el que envia, no para el que recibe
+14:09:23 - Sergio Daniel Xalambrí (@sergiodxa):
+es el costo de "podemos cobrarte lo que querramos y si no jodete no recibas guita"
+14:09:45 - Luis Alvarez (@luistensai):
+no es así, Santander te cobra aprox 65 + IVA
+está en la sección de comex del banco
+14:10:04 - Luis Alvarez (@luistensai):
+hasta un tope, luego es el 0.1% + IVA
+14:17:29 - Marcos Casagrande (@marcoscvp90):
+El Galicia creo que es uno de los que más te mata con la comisión de transferencias internacionales
+14:43:57 - Ari Sanguinetti (@arielsanguinetti):
+el Santander cobra una comisión
+14:44:57 - Ari Sanguinetti (@arielsanguinetti):
+creo que tengo la tabla en algun lado
+14:47:47 - Ari Sanguinetti (@arielsanguinetti):
+son 2 comisiones por transferencia: COBRO DE COMISIÓN POR LIQUIDACIÓN ACREDITACIÓN DIRECTA y COBRO DE COMISIÓN POR CANJE O ARBITRAJE
+14:48:03 - Ari Sanguinetti (@arielsanguinetti):
+sino me equivoco una es para la trasnferencia y otra para que te quede en USD
+15:01:22 - Ezequiel Leites (@leites25):
+Lindo curro
+15:02:23 - Ari Sanguinetti (@arielsanguinetti):
+antes de que tengan el Citi tambien te desaparecian unos 17USD cada 1000USD por "bancos intermediarios" jejeje
+16:00:51 - Gonzalo González Mora (@gonzalogm):
+Alguno tuvo experiencias con Santex?
+22:14:52 - Adrián Velasco (@adrivelasco1506):
+Estimados, alguno le tocó hacer un test técnico a través de Codility? <https://www.codility.com/>
+22:21:26 - German Gonzalez (@gercho):
+A <@U9KMYNJMV> creo
+22:34:30 - Julian (@jantonielli01):
+A mi tmb. Por?
+22:42:47 - Leandro Echevarria (@echevarrialeandro):
+Jajajajajajjaja
+23:02:53 - Ezequiel Leites (@leites25):
+Yo en un rato tengo que hacer uno
+04:30:19 - a0viedo (@a0viedo):
+hice los tests de toptal creo por codility
+07:46:37 - Aldo Gabriel Rojas (@aldogrojas5):
+Che, después pasen lo que les hicieron hacer si se acuerdan!
+09:12:33 - Adrián Velasco (@adrivelasco1506):
+era para saber que tipo de ejercicios podían llegar a tomar pero ya me imagino por donde viene la mano, debe ser una especie de HackerRank y problemas algorítmicos en los que siempre me van mal :joy:
+09:31:55 - Pablo Mescher (@pablomescher):
+Yo hice los primeros 2 de ejemplo y son interesantes
+09:32:57 - Pablo Mescher (@pablomescher):
+Aprendí que si haces toString(2) de un número te da la representación en binario por ejemplo
+10:01:32 - Gonza Espeche (@espeche.g):
+<http://www.codewars.com|www.codewars.com> está es buena tambien para practicar. Lo que tiene de copado es que se puede hacer un clan de “MeetupJs” ponele, y te arma un ranking y vas viendo como otros cranearon la solución a un mismo ejercicio
+10:05:13 - Jesus Africano (@jesus.africano):
+recuerdo que alguna vez llegue a practicar en uno que ahora no recuerdo el nombre, era algo como kata no se bien. Se que me gustaba porque luego que aplicacbas tu solicion podias ver un raking de soluciones al mismo problema mas votadas y siempre me sorprendia la forma como otros resolvian lo mismo
+10:09:00 - Juan Scolari (@juanscolari):
+se podria crear el clan
+10:11:07 - Leandro Echevarria (@echevarrialeandro):
+Mandemos clan si se puede crear
+10:14:24 - Gonza Espeche (@espeche.g):
+<@UEE1QEDHQ> si… en Codewars son las katas
+10:15:00 - Jesus Africano (@jesus.africano):
+si ahora que la veo justo era esa jajajajaja :sweat_smile:
+10:15:28 - Gonza Espeche (@espeche.g):
+esta bueno por que estas horas con uno, y la solución más votada es una linea sola bien ninja. Te sentis un soquete pero aprendes banda
+10:16:09 - Jesus Africano (@jesus.africano):
+totalmente sientes que no sabes nada, pero lo bueno es que se aprende mucho de esas soluciones
+10:24:55 - Juan Scolari (@juanscolari):
+no encontraba el boton submit, anda mal el scroll, tuve que achicar el zoom
+10:41:15 - Leandro Doldán (@leandromdoldan):
+Consideran que sirve hacer ejercicios de esas páginas como hobby? O rinde más hacer proyectos difectamente?
+10:43:20 - Mariano Ramonda (@ing.inf.mariano):
+servir te van a servir, porque es lo que muchas empresas usan como filtro tecnico
+10:43:30 - cryser (@carlosryser):
+me parece que te sirven para aprender conceptos, tecnicismos y detalles del lenguaje,, mientras que en los proyectos aprendes a resolver problemas mas alla del lenguaje, si resolves un proyecto en un lenguaje lo resolves en cualquiera
+10:43:49 - Pablo Mescher (@pablomescher):
+no te van a dar skills de ingeniería pero sirven para el caso raro donde necesitás hacer un algoritmo complejo
+10:43:55 - Mariano Ramonda (@ing.inf.mariano):
+yo en las ultimas semanas hice un challenge de devskiller y otro de hackerranck, para empresas de buen porte
+10:44:15 - Mariano Ramonda (@ing.inf.mariano):
+o sea, es muy probable encontrarse con esos challenges cuando apliques
+10:46:00 - Pablo Mescher (@pablomescher):
+claro, en ese sentido te sirve. En un sentido mas general, creo que entrenan skills distintos. Armarte un toy project te enseña cómo organizar tu código, aprendés del tooling del lenguaje que elegiste, como usar git, como escribir algo que dentro de 2 meses cuando lo vuelvas a leer se siga entendiendo.. etc
+10:46:35 - Pablo Mescher (@pablomescher):
+codility/hackerrank y eso te enseñan a "get things done". Tenés 2 horas para resolver este problema. DO IT
+10:47:20 - Pablo Mescher (@pablomescher):
+y de paso repasás algoritmos y cosas esotéricas del lenguaje como operadores binarios, modulo y etc
+10:48:08 - Martín Valdés de León (@mvaldesdeleon):
+_en general_ diria que a priori no hace falta practica regularmente haciendo coding exercises
+10:49:08 - Martín Valdés de León (@mvaldesdeleon):
+ese tipo de practica te va a servir en el contexto de "hacer mas coding challenges", y en la vida real eso sucede en casos bastante limitados
+1. entrevistas para empresas grandes tipo google, etc.
+2. competencias de programacion
+10:49:51 - Martín Valdés de León (@mvaldesdeleon):
+lo cual no quiere decir que si tenes tiempo e interes personal, no hagas lo que tengas ganas.
+10:50:28 - Martín Valdés de León (@mvaldesdeleon):
+pero si tu idea es "hago coding exercises y dps PROFIT", diria que eso solo es valido si tus objetivos son alguno de los dos que puse aca arriba
+10:55:51 - Gonza Espeche (@espeche.g):
+Yo lo veo como hobbie… no me voy a hacer un animal de la programación por hacer esos ejercicios, pero si de a poco vas ganando agilidad para resolverlos
+10:57:47 - Mariano Ramonda (@ing.inf.mariano):
+yo recomendaria lo siguiente, si vas a aplicar a X empresa, averiguate que usan de antemano y practica desde los faciles a los dificiles, todos los que puedas
+10:58:04 - Mariano Ramonda (@ing.inf.mariano):
+directo al grano
+10:58:36 - Mariano Ramonda (@ing.inf.mariano):
+si despues no quedas, seguramente cuando apliques en otro lugar toda esa practica acumulada te va a servir
+11:08:21 - Rodrigo Ali (@rodrigojali):
+Sep, igual en muchos lugares tenés experiencias de gente aplicando a empresas grandes
+11:08:42 - Rodrigo Ali (@rodrigojali):
+Y todo lo que leí se podría resumir a grosso modo en un "si vas a hacer entrevistas para un mostro, preparate con 2 meses de anticipación"
+11:11:59 - Martín Valdés de León (@mvaldesdeleon):
+en general la gente que arma los posts esos de medium "como consegui ofertas con todas las empresas" estan 6-12 meses dandole duro a leetcode
+11:12:01 - Martín Valdés de León (@mvaldesdeleon):
+mas que 2
+11:13:48 - Damian Cipolat (@damian.cipolat):
+Soy igual estar todos los dias en mi depto me resultaria muy duro, tal vez podria experimentar ir a un coworking y ver que onda
+11:14:00 - Martín Valdés de León (@mvaldesdeleon):
+pero el punto es que practicar "ejercicios de programacion" te hace bueno para resolver "ejercicios de programacion"
+11:14:04 - Martín Valdés de León (@mvaldesdeleon):
+no se traduce en otro skill
+11:14:33 - Pablo Miceli (@pablomiceli24):
+Yo lo veo como ejercicio mental tambien
+11:15:03 - Mariano Ramonda (@ing.inf.mariano):
+claro, por eso es muy util para pasar la parte tecnica de un proceso completo de entrevista
+11:15:24 - Mariano Ramonda (@ing.inf.mariano):
+si quedas, seguramente eso no es aplicable (o muy poco) al trabajo que hagas
+11:16:02 - Mariano Ramonda (@ing.inf.mariano):
+pero el challenge esta ahi, y si no lo pasas el proceso se corta
+11:16:54 - Lupe (@lportias):
+yo labure 2 años en mi casa... el ultimo año cortaba todo s las 6 y me iba a hacer sociales mientras tomaba clases de salsa
+13:53:05 - Diego Harari (@diehara):
+Buenas! una consulta a alguno le transfirieron plata del exterior de banco a banco digamos
+13:53:09 - Diego Harari (@diehara):
+saben el costo?
+13:53:53 - Agustin Polo (@apolo_codes):
+depende el banco
+13:54:22 - Gonzalo González Mora (@gonzalogm):
+Sep y varia mucho según dijeron. Nacion aparentemente tenía la menor comisión
+13:55:18 - Gonza Espeche (@espeche.g):
++1 channel “Finanzas y Legales”
+13:55:35 - Mariano Ramonda (@ing.inf.mariano):
+el nacion por transferencias de hasta 15k dolares, tiene un costo fijo de U$D25+iva
+13:55:59 - Mariano Ramonda (@ing.inf.mariano):
+U$D30,25 que te cobran en pesos
+13:58:00 - Gonza Espeche (@espeche.g):
+Si, Nación se comentó varias veces como uno de los más “rendidores”
+14:05:12 - Ezequiel Leites (@leites25):
+A que se debe el costo? Porque justamente hace un par de dias llame a Santander para consultar eso mismo y me dijeron que la transferencia solo tiene costo para el que envia, no para el que recibe
+14:09:23 - Sergio Daniel Xalambrí (@sergiodxa):
+es el costo de "podemos cobrarte lo que querramos y si no jodete no recibas guita"
+14:09:45 - Luis Alvarez (@luistensai):
+no es así, Santander te cobra aprox 65 + IVA
+está en la sección de comex del banco
+14:10:04 - Luis Alvarez (@luistensai):
+hasta un tope, luego es el 0.1% + IVA
+14:17:29 - Marcos Casagrande (@marcoscvp90):
+El Galicia creo que es uno de los que más te mata con la comisión de transferencias internacionales
+14:43:57 - Ari Sanguinetti (@arielsanguinetti):
+el Santander cobra una comisión
+14:44:57 - Ari Sanguinetti (@arielsanguinetti):
+creo que tengo la tabla en algun lado
+14:47:47 - Ari Sanguinetti (@arielsanguinetti):
+son 2 comisiones por transferencia: COBRO DE COMISIÓN POR LIQUIDACIÓN ACREDITACIÓN DIRECTA y COBRO DE COMISIÓN POR CANJE O ARBITRAJE
+14:48:03 - Ari Sanguinetti (@arielsanguinetti):
+sino me equivoco una es para la trasnferencia y otra para que te quede en USD
+15:01:22 - Ezequiel Leites (@leites25):
+Lindo curro
+15:02:23 - Ari Sanguinetti (@arielsanguinetti):
+antes de que tengan el Citi tambien te desaparecian unos 17USD cada 1000USD por "bancos intermediarios" jejeje
+16:00:51 - Gonzalo González Mora (@gonzalogm):
+Alguno tuvo experiencias con Santex?
