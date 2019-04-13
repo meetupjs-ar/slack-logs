@@ -1,0 +1,240 @@
+21:36:34 - German Gonzalez (@gercho):
+Buenas. Consulta, quizás sea una idiotez jajaja. Vendo del palo de .NET y Async Await tengo entendido que se usa para liberar el thread y que no se quede esperando en algunos casos como leer una db, etc. Esto hace que performe mejor. Pero en node, y acá quizás estoy diciendo una burrada, tengo entendido que node es un solo thread non blocking por lo que no estaría entendiendo la función del Async Await (me sirve para ordenar las promises)
+21:36:54 - German Gonzalez (@gercho):
+Sigue cumpliendo la misma función que mencione sobre .net?
+21:39:00 - Dario Miñones (@dminones):
+En realidad no es que Async await te liberan el thread. Para  usar await tenes q tener una promise. Con lo cual ese código es asincrónico. 
+21:39:20 - Dario Miñones (@dminones):
+Pero await hace q se vea como sincrónico. 
+21:41:19 - Dario Miñones (@dminones):
+Si vos tenes una func q devuelve una promise. Podes hacer ‘obtenerPromise().then(procesar)’o podes hacer ‘const result = await obtenerPromise(); procesar(result)’
+21:41:50 - Dario Miñones (@dminones):
+En cualquier caso corre en un solo thread pero sin bloquear la Ejecución de cualquier otra cosa 
+21:42:14 - Rodrigo Ali (@rodrigojali):
+Claro, y aparte de eso es en parte como decís, el engine donde corre JS es single thread
+21:43:01 - Rodrigo Ali (@rodrigojali):
+Y como dice Dario, el await hace que se obtenga el valor de una promesa que fue devuelta.
+21:45:22 - German Gonzalez (@gercho):
+Claro, yo hago mi código más “limpio” sin encadenar mil .then 
+21:45:37 - German Gonzalez (@gercho):
+Pero decís en cuanto a performance, tiene algo que ver?
+21:47:31 - Julian (@jantonielli01):
+Son dos modelos de concurrencia. A priori no tiene que ver con performance 
+21:47:58 - Julian (@jantonielli01):
+Los lenguajes normales suelen usar multithreading para cosas como servers, entonces podes usar cosas bloqueantes sin drama 
+21:48:35 - Julian (@jantonielli01):
+En JS por “razones” solo tenes un thread, entonces la única opción que tenes es usar IO no bloqueante 
+21:48:58 - Marcos Casagrande (@marcoscvp90):
+técnicamente Node no es single threaded, pero Javascript es.
+21:49:21 - Marcos Casagrande (@marcoscvp90):
+A Germán le comento.
+21:49:37 - Julian (@jantonielli01):
+Maso, yo me puedo hacer un engine de js multithreaded y problem solved 
+21:50:33 - Marcos Casagrande (@marcoscvp90):
+El estandar dice que no podés :trollface:
+21:50:53 - Julian (@jantonielli01):
+Alto bobo el que lo escribió entonces 
+21:50:58 - Julian (@jantonielli01):
+Pero no me sorprende :v
+21:52:53 - Julian (@jantonielli01):
+Pero bueno, en fin, async/await son solo syntax sobre promises/then
+21:53:24 - German Gonzalez (@gercho):
+Claro, a eso iba. Yo lo estoy usando con el fin de no tener que hacer .then mil veces y que el código se lea mejor
+21:54:07 - Julian (@jantonielli01):
+Sep, that’s it 
+15:02:21 - david garcia (@manuonda):
+Hola que tal buenas tardes, queriqa preguntarles tengo 4 archivos para conectarme a una vpn : 376344C79A11E6A2.pem , cacert.pem , david.pem y prueba-client.ovpn
+15:03:01 - david garcia (@manuonda):
+estoy usando ubuntu, estos archivos para conectarse a un VPN tengo que copiarlos en una carpeta como /etc/openvpn/
+15:03:02 - david garcia (@manuonda):
+?
+15:03:32 - david garcia (@manuonda):
+y como puedo activar una vpn y otra puesto que en esta carpeta ya tengo algunos archivos de certificados en una vpn..
+15:03:46 - david garcia (@manuonda):
+y quisera poder cambiar o habilitar una u otra..gracias.
+15:31:38 - Diego Ferrari (@die.a.ferrari):
+A ver si alguno sabe, no encontré solución, tengo un div scrollable con otros div dentro y quiero darle una default position a ese scroll para que el usuario arranque viendo un div en particular
+15:33:01 - Martín Aimar (@maimar):
+podés usar `scrollTo`, quizás `scrollIntoView`
+15:33:05 - Rodrigo Ali (@rodrigojali):
+Con scrollTop y scrollLeft podés sacar la posición de un elemento, con un query selector agarrá el elemento que te pinte, le sacás las dos properties, y listo
+15:33:12 - Rodrigo Ali (@rodrigojali):
+Claro, y después usás scrollTo
+15:33:57 - Rodrigo Ali (@rodrigojali):
+O podés pasarle en duro los valores que sacaste de las dos props que mencioné primero al document
+15:34:01 - Diego Ferrari (@die.a.ferrari):
+a ver lo voy a probar, gracias!
+15:34:37 - Martín Valdés de León (@mvaldesdeleon):
+Me parece que esta faltando `child.offsetTop` en la receta.
+15:35:44 - Rodrigo Ali (@rodrigojali):
+Nunca usé esa property :open_mouth:
+15:35:47 - Martín Valdés de León (@mvaldesdeleon):
+Y la idea seria settear el scrollTop del padre al offsetTop del child que queres mostrar
+15:37:27 - Martín Aimar (@maimar):
+hay varias de scroll, está `scrollBy` también
+15:41:01 - Mariano Ramonda (@ing.inf.mariano):
+Alguien sabe si se puede hacer un link para agregar un shortcut en el home del telefono a una PWA en la misma app, sin que el usuario tenga que hacerlo manualmente con el broswer? creo que no se puede tal vez me equivoco
+15:42:24 - Sergio Daniel Xalambrí (@sergiodxa):
+si es una PWA tengo entendido que al instalarla aparece el ícono para abrirla
+15:42:34 - Sergio Daniel Xalambrí (@sergiodxa):
+o a que te referís con shortcut?
+15:48:53 - Mariano Ramonda (@ing.inf.mariano):
+ejemplo <https://www.windguru.cz/apps.php>
+15:49:16 - Mariano Ramonda (@ing.inf.mariano):
+esta gente le dice al usuario como hacer con el browser para generar el shortcut en el home del cel
+15:49:22 - Mariano Ramonda (@ing.inf.mariano):
+ahora, eso no es muy user friendly
+15:49:51 - Diego Ferrari (@die.a.ferrari):
+podes hacer una push notification preguntándole al usuario si queire instalarla
+15:49:52 - Mariano Ramonda (@ing.inf.mariano):
+me gustaria implementar un link dentro de la app, que lance el popup del browser para agregar la app al home
+15:50:34 - Sergio Daniel Xalambrí (@sergiodxa):
+ahh, es que si hace eso no es una PWA
+15:50:43 - Sergio Daniel Xalambrí (@sergiodxa):
+la PWA después de usarla unos minutos se auto ofrece a instalar
+15:50:47 - Sergio Daniel Xalambrí (@sergiodxa):
+y genera el shortcut
+15:51:30 - Sergio Daniel Xalambrí (@sergiodxa):
+eso es solo agregar el link a un sitio en el home
+15:51:31 - Mariano Ramonda (@ing.inf.mariano):
+tenes algun ejemplo on top off your head?
+15:51:49 - Sergio Daniel Xalambrí (@sergiodxa):
+<http://mobile.twitter.com|mobile.twitter.com> debería ofrecerse a instalar
+15:51:52 - Diego Ferrari (@die.a.ferrari):
+a esto me refería
+15:52:21 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://developers.google.com/web/fundamentals/app-install-banners/>
+15:55:16 - Mariano Ramonda (@ing.inf.mariano):
+gracias!!
+16:03:57 - Mariano Ramonda (@ing.inf.mariano):
+no estaria sucediendo esto de que me pregunte para crear el shortcut, puede tener que ver que estoy en iOS? imagino que no, pero no estoy haciendo nada raro
+16:08:23 - Sergio Daniel Xalambrí (@sergiodxa):
+en iOS no funcionan del todo las PWA, puede que sea eso
+16:16:12 - Mariano Ramonda (@ing.inf.mariano):
+la hermosa manzana
+16:16:14 - Mariano Ramonda (@ing.inf.mariano):
+gracias de nuevo
+16:57:21 - Luciano Muñoz (@luchisds):
+<https://stackoverflow.com/questions/54001523/is-add-to-home-screen-feature-of-pwa-supports-in-ios>
+16:57:31 - Luciano Muñoz (@luchisds):
+Fijate si te sirve algo de eso Mariano
+21:36:34 - German Gonzalez (@gercho):
+Buenas. Consulta, quizás sea una idiotez jajaja. Vendo del palo de .NET y Async Await tengo entendido que se usa para liberar el thread y que no se quede esperando en algunos casos como leer una db, etc. Esto hace que performe mejor. Pero en node, y acá quizás estoy diciendo una burrada, tengo entendido que node es un solo thread non blocking por lo que no estaría entendiendo la función del Async Await (me sirve para ordenar las promises)
+21:36:54 - German Gonzalez (@gercho):
+Sigue cumpliendo la misma función que mencione sobre .net?
+21:39:00 - Dario Miñones (@dminones):
+En realidad no es que Async await te liberan el thread. Para  usar await tenes q tener una promise. Con lo cual ese código es asincrónico. 
+21:39:20 - Dario Miñones (@dminones):
+Pero await hace q se vea como sincrónico. 
+21:41:19 - Dario Miñones (@dminones):
+Si vos tenes una func q devuelve una promise. Podes hacer ‘obtenerPromise().then(procesar)’o podes hacer ‘const result = await obtenerPromise(); procesar(result)’
+21:41:50 - Dario Miñones (@dminones):
+En cualquier caso corre en un solo thread pero sin bloquear la Ejecución de cualquier otra cosa 
+21:42:14 - Rodrigo Ali (@rodrigojali):
+Claro, y aparte de eso es en parte como decís, el engine donde corre JS es single thread
+21:43:01 - Rodrigo Ali (@rodrigojali):
+Y como dice Dario, el await hace que se obtenga el valor de una promesa que fue devuelta.
+21:45:22 - German Gonzalez (@gercho):
+Claro, yo hago mi código más “limpio” sin encadenar mil .then 
+21:45:37 - German Gonzalez (@gercho):
+Pero decís en cuanto a performance, tiene algo que ver?
+21:47:31 - Julian (@jantonielli01):
+Son dos modelos de concurrencia. A priori no tiene que ver con performance 
+21:47:58 - Julian (@jantonielli01):
+Los lenguajes normales suelen usar multithreading para cosas como servers, entonces podes usar cosas bloqueantes sin drama 
+21:48:35 - Julian (@jantonielli01):
+En JS por “razones” solo tenes un thread, entonces la única opción que tenes es usar IO no bloqueante 
+21:48:58 - Marcos Casagrande (@marcoscvp90):
+técnicamente Node no es single threaded, pero Javascript es.
+21:49:21 - Marcos Casagrande (@marcoscvp90):
+A Germán le comento.
+21:49:37 - Julian (@jantonielli01):
+Maso, yo me puedo hacer un engine de js multithreaded y problem solved 
+21:50:33 - Marcos Casagrande (@marcoscvp90):
+El estandar dice que no podés :trollface:
+21:50:53 - Julian (@jantonielli01):
+Alto bobo el que lo escribió entonces 
+21:50:58 - Julian (@jantonielli01):
+Pero no me sorprende :v
+21:52:53 - Julian (@jantonielli01):
+Pero bueno, en fin, async/await son solo syntax sobre promises/then
+21:53:24 - German Gonzalez (@gercho):
+Claro, a eso iba. Yo lo estoy usando con el fin de no tener que hacer .then mil veces y que el código se lea mejor
+21:54:07 - Julian (@jantonielli01):
+Sep, that’s it 
+15:02:21 - david garcia (@manuonda):
+Hola que tal buenas tardes, queriqa preguntarles tengo 4 archivos para conectarme a una vpn : 376344C79A11E6A2.pem , cacert.pem , david.pem y prueba-client.ovpn
+15:03:01 - david garcia (@manuonda):
+estoy usando ubuntu, estos archivos para conectarse a un VPN tengo que copiarlos en una carpeta como /etc/openvpn/
+15:03:02 - david garcia (@manuonda):
+?
+15:03:32 - david garcia (@manuonda):
+y como puedo activar una vpn y otra puesto que en esta carpeta ya tengo algunos archivos de certificados en una vpn..
+15:03:46 - david garcia (@manuonda):
+y quisera poder cambiar o habilitar una u otra..gracias.
+15:31:38 - Diego Ferrari (@die.a.ferrari):
+A ver si alguno sabe, no encontré solución, tengo un div scrollable con otros div dentro y quiero darle una default position a ese scroll para que el usuario arranque viendo un div en particular
+15:33:01 - Martín Aimar (@maimar):
+podés usar `scrollTo`, quizás `scrollIntoView`
+15:33:05 - Rodrigo Ali (@rodrigojali):
+Con scrollTop y scrollLeft podés sacar la posición de un elemento, con un query selector agarrá el elemento que te pinte, le sacás las dos properties, y listo
+15:33:12 - Rodrigo Ali (@rodrigojali):
+Claro, y después usás scrollTo
+15:33:57 - Rodrigo Ali (@rodrigojali):
+O podés pasarle en duro los valores que sacaste de las dos props que mencioné primero al document
+15:34:01 - Diego Ferrari (@die.a.ferrari):
+a ver lo voy a probar, gracias!
+15:34:37 - Martín Valdés de León (@mvaldesdeleon):
+Me parece que esta faltando `child.offsetTop` en la receta.
+15:35:44 - Rodrigo Ali (@rodrigojali):
+Nunca usé esa property :open_mouth:
+15:35:47 - Martín Valdés de León (@mvaldesdeleon):
+Y la idea seria settear el scrollTop del padre al offsetTop del child que queres mostrar
+15:37:27 - Martín Aimar (@maimar):
+hay varias de scroll, está `scrollBy` también
+15:41:01 - Mariano Ramonda (@ing.inf.mariano):
+Alguien sabe si se puede hacer un link para agregar un shortcut en el home del telefono a una PWA en la misma app, sin que el usuario tenga que hacerlo manualmente con el broswer? creo que no se puede tal vez me equivoco
+15:42:24 - Sergio Daniel Xalambrí (@sergiodxa):
+si es una PWA tengo entendido que al instalarla aparece el ícono para abrirla
+15:42:34 - Sergio Daniel Xalambrí (@sergiodxa):
+o a que te referís con shortcut?
+15:48:53 - Mariano Ramonda (@ing.inf.mariano):
+ejemplo <https://www.windguru.cz/apps.php>
+15:49:16 - Mariano Ramonda (@ing.inf.mariano):
+esta gente le dice al usuario como hacer con el browser para generar el shortcut en el home del cel
+15:49:22 - Mariano Ramonda (@ing.inf.mariano):
+ahora, eso no es muy user friendly
+15:49:51 - Diego Ferrari (@die.a.ferrari):
+podes hacer una push notification preguntándole al usuario si queire instalarla
+15:49:52 - Mariano Ramonda (@ing.inf.mariano):
+me gustaria implementar un link dentro de la app, que lance el popup del browser para agregar la app al home
+15:50:34 - Sergio Daniel Xalambrí (@sergiodxa):
+ahh, es que si hace eso no es una PWA
+15:50:43 - Sergio Daniel Xalambrí (@sergiodxa):
+la PWA después de usarla unos minutos se auto ofrece a instalar
+15:50:47 - Sergio Daniel Xalambrí (@sergiodxa):
+y genera el shortcut
+15:51:30 - Sergio Daniel Xalambrí (@sergiodxa):
+eso es solo agregar el link a un sitio en el home
+15:51:31 - Mariano Ramonda (@ing.inf.mariano):
+tenes algun ejemplo on top off your head?
+15:51:49 - Sergio Daniel Xalambrí (@sergiodxa):
+<http://mobile.twitter.com|mobile.twitter.com> debería ofrecerse a instalar
+15:51:52 - Diego Ferrari (@die.a.ferrari):
+a esto me refería
+15:52:21 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://developers.google.com/web/fundamentals/app-install-banners/>
+15:55:16 - Mariano Ramonda (@ing.inf.mariano):
+gracias!!
+16:03:57 - Mariano Ramonda (@ing.inf.mariano):
+no estaria sucediendo esto de que me pregunte para crear el shortcut, puede tener que ver que estoy en iOS? imagino que no, pero no estoy haciendo nada raro
+16:08:23 - Sergio Daniel Xalambrí (@sergiodxa):
+en iOS no funcionan del todo las PWA, puede que sea eso
+16:16:12 - Mariano Ramonda (@ing.inf.mariano):
+la hermosa manzana
+16:16:14 - Mariano Ramonda (@ing.inf.mariano):
+gracias de nuevo
+16:57:21 - Luciano Muñoz (@luchisds):
+<https://stackoverflow.com/questions/54001523/is-add-to-home-screen-feature-of-pwa-supports-in-ios>
+16:57:31 - Luciano Muñoz (@luchisds):
+Fijate si te sirve algo de eso Mariano
