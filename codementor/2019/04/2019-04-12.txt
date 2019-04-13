@@ -1,0 +1,1082 @@
+01:14:01 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/hendrixer>
+01:14:33 - Marcos Casagrande (@marcoscvp90):
+Alguien lo conoce? 5 años de experiencia y es el mejor en Javascript del mundo. #legit
+01:28:27 - Aldo Sorbara (@aldo1891):
+Un genio jajajaja
+01:30:30 - Aldo Sorbara (@aldo1891):
+JavaScript
+- 5 years experience
+I speak JavaScript as a language
+01:31:08 - Julian (@jantonielli01):
+Terrible virgo ese Scott moss 
+01:31:20 - Julian (@jantonielli01):
+Tiene un repo con 1900 estrellas <https://github.com/Hendrixer>
+08:33:16 - Marcos Casagrande (@marcoscvp90):
+Si un repo con 1900 stars te hace de los top javascript developers del mundo, que mal estamos :joy:
+09:08:52 - Juan Scolari (@juanscolari):
+dejalo venderse, un poco de humo
+09:27:25 - Marcos Casagrande (@marcoscvp90):
+Es demasiado igual
+09:28:55 - Marcos Casagrande (@marcoscvp90):
+- "I'm considered one of the best JavaScript engineers in the industry.". *Por su vieja*
+- "I'm considered one of the best and well known Angular developers in the world". Nunca usé Angular, pero...
+09:31:03 - Juan Scolari (@juanscolari):
+no habia entrado al link
+09:31:08 - Juan Scolari (@juanscolari):
+“0 sessions” :smile:
+09:34:32 - Juan Scolari (@juanscolari):
+che, cuando hacen sessions ponen alguna referencia, tipo el lenguaje de programacion?
+09:34:53 - GAlvarado (@anzaldo.alvarado.gabr):
+Ese tipo tb es profesor en frontendmasters
+09:39:31 - Marcos Casagrande (@marcoscvp90):
+A lo que voy, quién lo considera de los mejores del mundo, nunca escuché a nadie.
+09:40:35 - Marcos Casagrande (@marcoscvp90):
+Lo que veo, de todos los cursos, es "introduction to"...
+09:41:00 - Marcos Casagrande (@marcoscvp90):
+Es un vende humo
+09:41:16 - Juan Scolari (@juanscolari):
+Si, pero no te hagas mala sangre :smile:
+09:41:33 - Marcos Casagrande (@marcoscvp90):
+jajajaja, es que lo ví, y me saca esa gente
+09:41:35 - Juan Scolari (@juanscolari):
+A menos que empiece a escalar y te robe clientes jajaj
+09:41:41 - Juan Scolari (@juanscolari):
+Como tu otro amigo
+09:44:30 - Marcos Casagrande (@marcoscvp90):
+Nah ese gil no le roba a nadie
+11:02:38 - Federico A. Sawady O'Connor (@sawady.faso):
+es como la droga esto
+11:02:41 - Federico A. Sawady O'Connor (@sawady.faso):
+no puedo parar jaja
+11:02:56 - Federico A. Sawady O'Connor (@sawady.faso):
+en 2 minuto me hago alto guiso
+11:03:01 - Mariano Ramonda (@ing.inf.mariano):
+jajaj cuantas metiste?
+11:03:12 - Federico A. Sawady O'Connor (@sawady.faso):
+ayer le metí bastante
+11:03:23 - Federico A. Sawady O'Connor (@sawady.faso):
+junté $175 en 2 días, pero no laburando a full tampoco
+11:03:48 - Federico A. Sawady O'Connor (@sawady.faso):
+igual tuve suerte, la mayoría eran giladas
+11:03:55 - Mariano Ramonda (@ing.inf.mariano):
+en horas cuanto te llevo? contando la parte administrativa?
+11:04:10 - Federico A. Sawady O'Connor (@sawady.faso):
+ponele que fue un poco más que una jornada laboral
+11:04:13 - Federico A. Sawady O'Connor (@sawady.faso):
+9 hs ponele
+11:04:22 - Federico A. Sawady O'Connor (@sawady.faso):
+o sea, incluyendo el chateo previo, ponele
+11:04:33 - Mariano Ramonda (@ing.inf.mariano):
+claro, para mi todo eso suma
+11:04:39 - Mariano Ramonda (@ing.inf.mariano):
+no es solo lo que dura la sesion
+11:04:43 - Federico A. Sawady O'Connor (@sawady.faso):
+no por eso
+11:04:51 - Federico A. Sawady O'Connor (@sawady.faso):
+ponele que hay sesiones que duraban 30 min, 15 min
+11:04:56 - Federico A. Sawady O'Connor (@sawady.faso):
+metí 3 de una hora
+11:04:57 - Mariano Ramonda (@ing.inf.mariano):
+desde que estas mirando el dashboard
+11:05:04 - Federico A. Sawady O'Connor (@sawady.faso):
+yo ahora quiero sumar sesiones
+11:05:09 - Marcos Casagrande (@marcoscvp90):
+Eso es al principio igual. Después es todo más rápido. No miras más el dashboard.
+11:05:14 - Mariano Ramonda (@ing.inf.mariano):
+claro, cortas y que sumen al total
+11:05:16 - Federico A. Sawady O'Connor (@sawady.faso):
+va, estoy probando, me copa
+11:05:25 - Marcos Casagrande (@marcoscvp90):
+O sea, llega un punto que rechazas sesiones
+11:05:33 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja y si, no das abasto
+11:05:43 - Federico A. Sawady O'Connor (@sawady.faso):
+hay una que le entendí re mal lo que quería, era una gilada y pagaba una bocha
+11:05:50 - Federico A. Sawady O'Connor (@sawady.faso):
+era un freelo
+11:06:07 - Federico A. Sawady O'Connor (@sawady.faso):
+eso tampoco lo entendí al principio, que había 1:1 y freelance
+11:06:25 - Federico A. Sawady O'Connor (@sawady.faso):
+porque estuve viendo lo de CodementorX y pensé que todo lo freelance iba por ahí
+11:06:32 - Federico A. Sawady O'Connor (@sawady.faso):
+(estoy en el segundo paso de aprobación)
+11:19:55 - Rodrigo Ali (@rodrigojali):
+Igual por lo que entiendo Fede sacaste unos ~USD 20/hr; ¿les termina rindiendo eso? ¿Lo usan como side cash o como main income?
+11:21:27 - Gonzalo González Mora (@gonzalogm):
+El tema es que al principio cuesta más pq etnés que buscar el laburo,d sp te llega solo y rinde más
+11:21:33 - Marcos Casagrande (@marcoscvp90):
+20*176 = $3520
+11:22:14 - Gonzalo González Mora (@gonzalogm):
+155 lucas para empezar no está nada mal jajaja
+11:22:40 - Rodrigo Ali (@rodrigojali):
+No pero pará, no entiendo la matemática de Marcos.
+11:22:50 - Gonzalo González Mora (@gonzalogm):
+20 días hábiles
+11:22:52 - Marcos Casagrande (@marcoscvp90):
+22 días hábiles tiene 1 mes normal
+11:22:55 - Rodrigo Ali (@rodrigojali):
+Ah si si
+11:23:10 - Mariano Ramonda (@ing.inf.mariano):
+suelo usar 160 horas para calcular ingresos mensuales
+11:23:18 - Rodrigo Ali (@rodrigojali):
+Yo lo veía más como un rate por hora, en plan cuánto te rinde por hora vs. otras ofertas
+11:23:31 - Rodrigo Ali (@rodrigojali):
+Por ejemplo laburo remoto, que también son 160 horas mensuales
+11:23:33 - Marcos Casagrande (@marcoscvp90):
+Está mal igual esas 160, en ningún laburo laburás 160, 170 es más cercano.
+11:23:35 - Mariano Ramonda (@ing.inf.mariano):
+pero si, 20/h es un buen rate, mas aun para recien empezar
+11:23:45 - Mariano Ramonda (@ing.inf.mariano):
+no te tomas feriados?
+01:14:01 - Marcos Casagrande (@marcoscvp90):
+<https://www.codementor.io/hendrixer>
+01:14:33 - Marcos Casagrande (@marcoscvp90):
+Alguien lo conoce? 5 años de experiencia y es el mejor en Javascript del mundo. #legit
+01:28:27 - Aldo Sorbara (@aldo1891):
+Un genio jajajaja
+01:30:30 - Aldo Sorbara (@aldo1891):
+JavaScript
+- 5 years experience
+I speak JavaScript as a language
+01:31:08 - Julian (@jantonielli01):
+Terrible virgo ese Scott moss 
+01:31:20 - Julian (@jantonielli01):
+Tiene un repo con 1900 estrellas <https://github.com/Hendrixer>
+08:33:16 - Marcos Casagrande (@marcoscvp90):
+Si un repo con 1900 stars te hace de los top javascript developers del mundo, que mal estamos :joy:
+09:08:52 - Juan Scolari (@juanscolari):
+dejalo venderse, un poco de humo
+09:27:25 - Marcos Casagrande (@marcoscvp90):
+Es demasiado igual
+09:28:55 - Marcos Casagrande (@marcoscvp90):
+- "I'm considered one of the best JavaScript engineers in the industry.". *Por su vieja*
+- "I'm considered one of the best and well known Angular developers in the world". Nunca usé Angular, pero...
+09:31:03 - Juan Scolari (@juanscolari):
+no habia entrado al link
+09:31:08 - Juan Scolari (@juanscolari):
+“0 sessions” :smile:
+09:34:32 - Juan Scolari (@juanscolari):
+che, cuando hacen sessions ponen alguna referencia, tipo el lenguaje de programacion?
+09:34:53 - GAlvarado (@anzaldo.alvarado.gabr):
+Ese tipo tb es profesor en frontendmasters
+09:39:31 - Marcos Casagrande (@marcoscvp90):
+A lo que voy, quién lo considera de los mejores del mundo, nunca escuché a nadie.
+09:40:35 - Marcos Casagrande (@marcoscvp90):
+Lo que veo, de todos los cursos, es "introduction to"...
+09:41:00 - Marcos Casagrande (@marcoscvp90):
+Es un vende humo
+09:41:16 - Juan Scolari (@juanscolari):
+Si, pero no te hagas mala sangre :smile:
+09:41:33 - Marcos Casagrande (@marcoscvp90):
+jajajaja, es que lo ví, y me saca esa gente
+09:41:35 - Juan Scolari (@juanscolari):
+A menos que empiece a escalar y te robe clientes jajaj
+09:41:41 - Juan Scolari (@juanscolari):
+Como tu otro amigo
+09:44:30 - Marcos Casagrande (@marcoscvp90):
+Nah ese gil no le roba a nadie
+11:02:38 - Federico A. Sawady O'Connor (@sawady.faso):
+es como la droga esto
+11:02:41 - Federico A. Sawady O'Connor (@sawady.faso):
+no puedo parar jaja
+11:02:56 - Federico A. Sawady O'Connor (@sawady.faso):
+en 2 minuto me hago alto guiso
+11:03:01 - Mariano Ramonda (@ing.inf.mariano):
+jajaj cuantas metiste?
+11:03:12 - Federico A. Sawady O'Connor (@sawady.faso):
+ayer le metí bastante
+11:03:23 - Federico A. Sawady O'Connor (@sawady.faso):
+junté $175 en 2 días, pero no laburando a full tampoco
+11:03:48 - Federico A. Sawady O'Connor (@sawady.faso):
+igual tuve suerte, la mayoría eran giladas
+11:03:55 - Mariano Ramonda (@ing.inf.mariano):
+en horas cuanto te llevo? contando la parte administrativa?
+11:04:10 - Federico A. Sawady O'Connor (@sawady.faso):
+ponele que fue un poco más que una jornada laboral
+11:04:13 - Federico A. Sawady O'Connor (@sawady.faso):
+9 hs ponele
+11:04:22 - Federico A. Sawady O'Connor (@sawady.faso):
+o sea, incluyendo el chateo previo, ponele
+11:04:33 - Mariano Ramonda (@ing.inf.mariano):
+claro, para mi todo eso suma
+11:04:39 - Mariano Ramonda (@ing.inf.mariano):
+no es solo lo que dura la sesion
+11:04:43 - Federico A. Sawady O'Connor (@sawady.faso):
+no por eso
+11:04:51 - Federico A. Sawady O'Connor (@sawady.faso):
+ponele que hay sesiones que duraban 30 min, 15 min
+11:04:56 - Federico A. Sawady O'Connor (@sawady.faso):
+metí 3 de una hora
+11:04:57 - Mariano Ramonda (@ing.inf.mariano):
+desde que estas mirando el dashboard
+11:05:04 - Federico A. Sawady O'Connor (@sawady.faso):
+yo ahora quiero sumar sesiones
+11:05:09 - Marcos Casagrande (@marcoscvp90):
+Eso es al principio igual. Después es todo más rápido. No miras más el dashboard.
+11:05:14 - Mariano Ramonda (@ing.inf.mariano):
+claro, cortas y que sumen al total
+11:05:16 - Federico A. Sawady O'Connor (@sawady.faso):
+va, estoy probando, me copa
+11:05:25 - Marcos Casagrande (@marcoscvp90):
+O sea, llega un punto que rechazas sesiones
+11:05:33 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja y si, no das abasto
+11:05:43 - Federico A. Sawady O'Connor (@sawady.faso):
+hay una que le entendí re mal lo que quería, era una gilada y pagaba una bocha
+11:05:50 - Federico A. Sawady O'Connor (@sawady.faso):
+era un freelo
+11:06:07 - Federico A. Sawady O'Connor (@sawady.faso):
+eso tampoco lo entendí al principio, que había 1:1 y freelance
+11:06:25 - Federico A. Sawady O'Connor (@sawady.faso):
+porque estuve viendo lo de CodementorX y pensé que todo lo freelance iba por ahí
+11:06:32 - Federico A. Sawady O'Connor (@sawady.faso):
+(estoy en el segundo paso de aprobación)
+11:19:55 - Rodrigo Ali (@rodrigojali):
+Igual por lo que entiendo Fede sacaste unos ~USD 20/hr; ¿les termina rindiendo eso? ¿Lo usan como side cash o como main income?
+11:21:27 - Gonzalo González Mora (@gonzalogm):
+El tema es que al principio cuesta más pq etnés que buscar el laburo,d sp te llega solo y rinde más
+11:21:33 - Marcos Casagrande (@marcoscvp90):
+20*176 = $3520
+11:22:14 - Gonzalo González Mora (@gonzalogm):
+155 lucas para empezar no está nada mal jajaja
+11:22:40 - Rodrigo Ali (@rodrigojali):
+No pero pará, no entiendo la matemática de Marcos.
+11:22:50 - Gonzalo González Mora (@gonzalogm):
+20 días hábiles
+11:22:52 - Marcos Casagrande (@marcoscvp90):
+22 días hábiles tiene 1 mes normal
+11:22:55 - Rodrigo Ali (@rodrigojali):
+Ah si si
+11:23:10 - Mariano Ramonda (@ing.inf.mariano):
+suelo usar 160 horas para calcular ingresos mensuales
+11:23:18 - Rodrigo Ali (@rodrigojali):
+Yo lo veía más como un rate por hora, en plan cuánto te rinde por hora vs. otras ofertas
+11:23:31 - Rodrigo Ali (@rodrigojali):
+Por ejemplo laburo remoto, que también son 160 horas mensuales
+11:23:33 - Marcos Casagrande (@marcoscvp90):
+Está mal igual esas 160, en ningún laburo laburás 160, 170 es más cercano.
+11:23:35 - Mariano Ramonda (@ing.inf.mariano):
+pero si, 20/h es un buen rate, mas aun para recien empezar
+11:23:45 - Mariano Ramonda (@ing.inf.mariano):
+no te tomas feriados?
+11:24:06 - Mariano Ramonda (@ing.inf.mariano):
+igual es por una cuestion de redondeo
+11:24:09 - Marcos Casagrande (@marcoscvp90):
+No necesito feriados si laburo 80-100 horas al mes.
+11:24:22 - Marcos Casagrande (@marcoscvp90):
+O sea, técnicamente me tomo 1 semana al mes.
+11:24:25 - Mariano Ramonda (@ing.inf.mariano):
+bueno, pero eso no es un calculo estandar
+11:24:38 - Mariano Ramonda (@ing.inf.mariano):
+el calculo estandar es full time, 160h/m
+11:24:45 - Rodrigo Ali (@rodrigojali):
+Yo pensaba que gente con buena seniority podría sacar un poco más por su hora en USD laburando freelo/remoto, a eso iba preguntando si se consideraba un buen rate y si lo usaban como main income o si era más en plan plata adicional a sus laburos principales
+11:24:52 - Marcos Casagrande (@marcoscvp90):
+No cambia mucho, $3200 USD.
+11:25:04 - Mariano Ramonda (@ing.inf.mariano):
+por eso lo usual es ver salarios, por ejemplo, de $4000 al mes, eso significa $25 la hora
+11:25:09 - Marcos Casagrande (@marcoscvp90):
+Igual 20$ la hora es poco, yo la media del primer mes, fue 45/hr
+11:25:16 - Rodrigo Ali (@rodrigojali):
+A eso iba.
+11:25:48 - Marcos Casagrande (@marcoscvp90):
+Ojo, no digo que laburé 160 horas, pero las horas que laburé, fueron a ese rate.
+11:26:05 - Rodrigo Ali (@rodrigojali):
+Lo que yo tenía entendido como "bandas normales" para remoto/freelo era algo así como:
+Jr = 10~20/hr
+Ssr = 20~35/hr
+Sr = &gt;40/hr
+11:26:11 - Mariano Ramonda (@ing.inf.mariano):
+ese se un rate freelance mas normal
+11:26:20 - Mariano Ramonda (@ing.inf.mariano):
+de hecho el rate freelance es el mas alto
+11:26:34 - Rodrigo Ali (@rodrigojali):
+Claro, porque hacés vos todo, incluido conseguir clientes
+11:26:38 - Rodrigo Ali (@rodrigojali):
+Bah, supongo.
+11:26:40 - Marcos Casagrande (@marcoscvp90):
+Y una vez ya llegué a ser featured, mi rate está por arriba de 80, unos 100.
+11:26:47 - Mariano Ramonda (@ing.inf.mariano):
+por obvias razones: es de tiempo acotado, solo se paga lo que se trabaja, no incluye tiempo adminitrativo, ni vacaciones, ni feriados, nada
+11:26:50 - Federico A. Sawady O'Connor (@sawady.faso):
+ojo eh, dije que estuve 9 hs dedicado a la plataforma
+11:26:54 - Mariano Ramonda (@ing.inf.mariano):
+TIENE que ser el mas alto
+11:26:56 - Federico A. Sawady O'Connor (@sawady.faso):
+no que laburé 9 horas con gente
+11:27:28 - Mariano Ramonda (@ing.inf.mariano):
+claro, el tiempo que pases haciendo cualquier cosa relacionada a CM tiene que contar en tu calculo, sea lo que sea
+11:27:35 - Mariano Ramonda (@ing.inf.mariano):
+si no, es un calculo errado
+11:28:06 - Mariano Ramonda (@ing.inf.mariano):
+por lo que dice marcos con el tiempo te evitas mirar el dashboard y estarias "perdiendo" menos tiempo administrativo
+11:28:08 - Federico A. Sawady O'Connor (@sawady.faso):
+eso obtuve digamos
+11:28:41 - Mariano Ramonda (@ing.inf.mariano):
+yo por ejemplo trabajo 8 horas por dia sin controlar, ahora mismo, chateando con ustedes, "estoy cobrando", pero claramente mi rate es mas bajao que 45/h
+11:28:54 - Marcos Casagrande (@marcoscvp90):
+Depende como lo hagas igual, hay que saber optimizar, no hace falta estar mirando el dashboard constantemente, yo el primer mes estaba tirado en la cama viendo netflix, con la notebook cerca para las notificaciones, salía, miraba medio segundo, y seguía viendo netflix.
+11:29:32 - Marcos Casagrande (@marcoscvp90):
+Entonces ahí es cuando empezás a disfrutar la vida freelance
+11:29:33 - Mariano Ramonda (@ing.inf.mariano):
+si, el independent contractor no es taaan distinto
+11:29:42 - Mariano Ramonda (@ing.inf.mariano):
+cuando no te controlan, obiamente
+11:30:09 - Rodrigo Ali (@rodrigojali):
+Uhm, comprendo, gracias por el insight gente. Los sigo mirando en silencio, hagan de cuenta como que no estoy acá :eyes:
+11:30:54 - Federico A. Sawady O'Connor (@sawady.faso):
+lo que me encanta de este tipo de laburos es que no tenés esa presión de "estoy en horario laboral"
+11:30:58 - Federico A. Sawady O'Connor (@sawady.faso):
+si estoy roto me duermo una siesta
+11:31:16 - Federico A. Sawady O'Connor (@sawady.faso):
+hay un par que les dije "me aguantás una horita?"
+11:31:28 - Mariano Ramonda (@ing.inf.mariano):
+si lo compras con un laburo onsite, esto es la gloria
+11:31:49 - Federico A. Sawady O'Connor (@sawady.faso):
+a mi igual siempre me dio cagazo ser freelance, pienso que no tenés estabilidad
+11:31:53 - Mariano Ramonda (@ing.inf.mariano):
+si lo comparas con un 100% remoto con horario flexible, es bastante parecido
+11:31:59 - Federico A. Sawady O'Connor (@sawady.faso):
+pero ya fue, creo que voy a freelancear en no mucho tiempo
+11:32:04 - Mariano Ramonda (@ing.inf.mariano):
+en algunas cosas, en otras no, obviamente
+11:32:11 - Marcos Casagrande (@marcoscvp90):
+<@UG2QK9A66> la verdad todos me decían eso
+11:32:30 - Mariano Ramonda (@ing.inf.mariano):
+no existe la estabalidad
+11:32:33 - Mariano Ramonda (@ing.inf.mariano):
+es una sensacion
+11:32:47 - Marcos Casagrande (@marcoscvp90):
+me encanta la no estabilidad
+11:32:51 - Mariano Ramonda (@ing.inf.mariano):
+lo que tenes es tu conocimiento, con eso estas hecho
+11:32:52 - Federico A. Sawady O'Connor (@sawady.faso):
+se, 80 mil es lo que gano jaja
+11:32:56 - Federico A. Sawady O'Connor (@sawady.faso):
+justo en el clavo
+11:33:06 - Federico A. Sawady O'Connor (@sawady.faso):
+y vi que puede ser bocha más aprovechando mis skills
+11:33:20 - Federico A. Sawady O'Connor (@sawady.faso):
+pasa que en mi laburo no los aprovecho porque surge X tarea boluda que lleva tiempo y no es redituable
+11:34:02 - Marcos Casagrande (@marcoscvp90):
+Igual, cuando ya llevás un par de meses, ya sabés tu piso y tu techo (de momento me di cuenta que no hay techo)
+11:34:11 - Marcos Casagrande (@marcoscvp90):
+Entonces si es estable en esos parámetros.
+11:34:26 - Rodrigo Ali (@rodrigojali):
+Claro, el punto es... ¿para qué buscás estabilidad laboral si lo que te importa es estabilidad financiera? ¿DE qué te sirve laburar todos los meses para obtener un sueldo que no te tiene conforme? En cambio laburando un mes freelo por ahí sacás (en mi caso al menos, si lo hiciera) entre 3 y 7 veces mi sueldo. Por lo que laburar un mes freelo me representaría entre 2 y 6 meses "de changüi" para conseguir otras cosas. Suponiendo que consegui un solo proyecto de 30 días.
+11:34:28 - Federico A. Sawady O'Connor (@sawady.faso):
+ponele, mi principal skill es PF, en Haskell, metí uno de Haskell al toque, y uno me dijo que por ahí el finde me daba un laburo
+11:34:42 - Federico A. Sawady O'Connor (@sawady.faso):
+en estos momentos codeo CSS :male-firefighter:
+11:34:46 - Marcos Casagrande (@marcoscvp90):
+y lo bueno es, necesitás más plata, laburás un poco más, y te pagan las horas extras, a un rate que no existe acá.
+11:34:50 - Gonzalo González Mora (@gonzalogm):
+Además que estabilidad en sistemas? si en menos de 1 mes estás laburando de nuevo si llega a explotar codementor ponele
+11:35:21 - Gonzalo González Mora (@gonzalogm):
+para otros rubros ponele, pero en sistemas no tiene sentido. Con freelance te armás un colchón enorme para el “mientras tanto”
+11:35:26 - Federico A. Sawady O'Connor (@sawady.faso):
+se, exacto, es lo que entendí en los últimos tiempos
+11:35:39 - Gonzalo González Mora (@gonzalogm):
+salvo que te la delires todos los meses en el casino
+11:35:40 - Gonzalo González Mora (@gonzalogm):
+:joy:
+11:35:41 - Marcos Casagrande (@marcoscvp90):
+A ver, la realidad es esta, un senior/semi, laburando para afuera freelance, en 2-3 meses saca su sueldo *anual*.
+11:35:52 - Rodrigo Ali (@rodrigojali):
+Claro.
+11:35:53 - Marcos Casagrande (@marcoscvp90):
+Si eso no es estabilidad, no sé que es.
+11:36:37 - Federico A. Sawady O'Connor (@sawady.faso):
+si, posta
+11:36:40 - Rodrigo Ali (@rodrigojali):
+Aparte eso te da la capacidad de tomar decisiones que no existían antes, como laburar menos tiempo y seguir viviendo, elegir cuándo laburás y cuándo no. Elegir si querés viajar cuando te pinte o no. O por ahi te pinta hoarderear plata como un sacado y laburás todos los días 12 horas.
+11:37:14 - Rodrigo Ali (@rodrigojali):
+Capaz que no te pinta ganar USD 4k por mes, con USD 2k capaz que estás re bien en tu estilo de vida y de repente te ves laburando la mitad de horas por día. O laburás semana de por medio.
+11:37:31 - Marcos Casagrande (@marcoscvp90):
+Exacto, es que si tu objetivo es ganar 2k, eso lo podés hacer tranquilamente en 1 semana
+11:37:39 - Marcos Casagrande (@marcoscvp90):
+y laburás 1 semana al mes, 3 de vacaciones, todos los meses.
+11:38:15 - Gonzalo González Mora (@gonzalogm):
+Pa, lpm, me voy a tener que registrar en Codementor de una vez
+11:38:19 - Gonzalo González Mora (@gonzalogm):
+Aunque sea para agarrar giladas
+11:38:39 - Marcos Casagrande (@marcoscvp90):
+Es que es lo que dijo Rodri, te da libertad de hacer lo que quieras, los límites los ponés vos, y no tus ~explotadores~ jefes.
+11:38:45 - Rodrigo Ali (@rodrigojali):
+Yo estoy forjándome para llegar a Ssr o Sr y empezar a hacer este tipo de cosas.
+11:40:27 - Juan Scolari (@juanscolari):
+muy enriquecedor todo lo que tiraron :clap:
+11:40:53 - Mariano Ramonda (@ing.inf.mariano):
+dato extra, nunca dejen de estudiar ingles
+11:41:02 - Mariano Ramonda (@ing.inf.mariano):
+si todavia no lo hacen , arranquen hoy
+11:41:21 - Rodrigo Ali (@rodrigojali):
+Eso es algo que siempre les digo a amigos que quieren cambiar de rubro y están estudiando para hacerlo.
+11:41:27 - Mariano Ramonda (@ing.inf.mariano):
+ese skill no se aprende como la API de un packete npm
+11:42:03 - Martín Aimar (@maimar):
+importantísimo, yo considero que estoy “bastante bien” y en cada reunión que tengo en inglés me doy cuenta que me falta bocha
+11:42:25 - Juan Scolari (@juanscolari):
+que recomendarian para mejorarlo?
+11:42:34 - Mariano Ramonda (@ing.inf.mariano):
+es mas, si no tienen hijos, vayan a vivir un tiempo a algun pais donde se hable ingles, ni lo duden
+11:42:48 - Juan Scolari (@juanscolari):
+es justo lo que estoy por hacer
+11:43:15 - Martín Aimar (@maimar):
+lo que más hay que practicar es hablar para mi
+11:43:30 - Rodrigo Ali (@rodrigojali):
+IMO, para mejorar tu inglés las soluciones más eficientes son:
+1) Profesor particular que sepa inglés de Sistemas
+2) Ir a reuniones donde la gente hable en inglés, hay muchos grupos sociales que lo hacen
+3) Cursos y carreras cortas
+11:44:15 - Rodrigo Ali (@rodrigojali):
+Y bueno irse a vivir a otro país donde se hable inglés es meterte de geta, onda, si no aprendés no vas a sobrevivir.
+11:45:09 - Marcos Casagrande (@marcoscvp90):
+buscate una novia de un país angloparlante
+11:45:14 - Rodrigo Ali (@rodrigojali):
+Pero en resumen, vas a aprender un lenguaje entre más expuesto estés a ese lenguaje, y vas a aprender la parte que corresponda a esa exposición.
+
+Si aprendiste jugando, vas a aprender mucho sobre ese lingo, si aprendiste programando, vas a aprender mucho sobre ese lingo, y así.
+11:45:34 - Juan Scolari (@juanscolari):
+jajaj que grande
+11:47:57 - Juan Scolari (@juanscolari):
+aprendi en curso e hice el first de chico, pero mucha falta de practica de hablar
+11:48:22 - Juan Scolari (@juanscolari):
+algun cliente para afuera, creo que lo que mas me sirvio fue hacer un viaje
+11:48:31 - Juan Scolari (@juanscolari):
+pero siento que tengo que mejorarlo bastante
+11:50:04 - German Gonzalez (@gercho):
+Leyendo todo esto que ponen, me doy cuenta que cobro miseria por todo lo que hago
+11:50:05 - German Gonzalez (@gercho):
+Jajaja
+11:50:27 - German Gonzalez (@gercho):
+y no por 'todo lo que hago' soy un crack. Si no por la relacion carga laboral - sueldo
+11:51:22 - Rodrigo Ali (@rodrigojali):
+Yo no me siento mal porque entiendo que es relativo al contexto del país. Si laburás para USA por ejemplo, el costo de vida es diferente entre Argentina y USA. A nosotros nos RE rinde porque en USD tenemos un costo de vida relativamente barato y nuestro promedio salarial es también relativamente bajo...
+11:52:01 - Rodrigo Ali (@rodrigojali):
+Yo por ej estoy cobrando ARS 45k/month como Jr y considero que es un sueldazo (más para un Jr) en Argentina, el promedio debe andar por los ARS 23k
+11:52:07 - Gonzalo González Mora (@gonzalogm):
+Si fueran clientes de Argentina con los que laburás, sí, pero las empresas laburanc on clientes de afuera y cobran en dólares
+11:52:09 - Rodrigo Ali (@rodrigojali):
+(hablo de promedio salarial en Argentina)
+11:52:12 - Gonzalo González Mora (@gonzalogm):
+y se llevan toda la diferencia
+11:52:21 - Rodrigo Ali (@rodrigojali):
+Nah obvio, igual eso ya es otra discusión IMO
+11:52:48 - Rodrigo Ali (@rodrigojali):
+India por ej saca todavía más ganancia que Argentina si labura para USA
+11:55:26 - German Gonzalez (@gercho):
+Bruto? Yo estoy igual pero en mano
+11:55:41 - Rodrigo Ali (@rodrigojali):
+También tenés empresas como Globant que te contratan como Jr/Ssr y te venden como Sr afuera :stuck_out_tongue:, pero bueno, eso te da la pauta que vos te podrías vender solo para afuera como Sr o "persona que te va a apagar los incendios"
+11:55:59 - Rodrigo Ali (@rodrigojali):
+Es un estimativo el que tiré, mi sueldo bruto es ARS 57k
+11:56:39 - Rodrigo Ali (@rodrigojali):
+A mi por ejemplo me falta mucho esa "viveza" de venderme así, siento que me falta muchísimo todavía para poder pensar en laburar para afuera.
+11:58:53 - Juan Scolari (@juanscolari):
+vos le pones mucha garra rodri, debes estar creciendo a lo loco
+12:03:15 - Rodrigo Ali (@rodrigojali):
+Awww gracias, esperemos que sea así :open_mouth:
+12:21:03 - Marcos Casagrande (@marcoscvp90):
+45k como Jr es un re sueldo la verdad, para acá
+12:21:24 - Marcos Casagrande (@marcoscvp90):
+Con esa escala salarial, el senior debería estar en 3k USD neto, lo cual no estaría mal.
+12:30:50 - Gabriel Dominguez (@gabidominguez):
+Creo que ya lo dijeron pero lo recomiendan para jrs? Aunque sea laburos mínimos de front?
+12:30:55 - Federico A. Sawady O'Connor (@sawady.faso):
+vital
+12:31:24 - Federico A. Sawady O'Connor (@sawady.faso):
+yo uso openenglish con 1:1, me funca pero ya sabía inglés desde antes, sólo lo mejoro
+12:31:24 - Mariano Ramonda (@ing.inf.mariano):
+yo como jr no pensaria en CM
+12:31:31 - Mariano Ramonda (@ing.inf.mariano):
+ni laburar ya mismo para afuera
+12:31:43 - Mariano Ramonda (@ing.inf.mariano):
+a menos que puedas ir a vivir a otro pais
+12:31:50 - Federico A. Sawady O'Connor (@sawady.faso):
+pero cómo te vas a vivir a un país sin visa? porque quiero hacerlo pero sin ser ilegal (?
+12:31:54 - Marcos Casagrande (@marcoscvp90):
+Honestamente para junior no recomiendo ni CM, ni freelance como dice Mariano.
+12:32:01 - Mariano Ramonda (@ing.inf.mariano):
+pero estando aca, la posta es enganchar alguna empresa que te page para capacitarte
+12:32:14 - Mariano Ramonda (@ing.inf.mariano):
+algunas tienen openings para jrs
+12:32:55 - Marcos Casagrande (@marcoscvp90):
+Es dificil bancartela como junior freelance. Es a partir de semi senior CM, ya de por si sería difícil que te acepten a no ser que mientas descarado en tu perfil.
+12:32:56 - Mariano Ramonda (@ing.inf.mariano):
+la podes pasar mal como jr con la exigencia de CM o freelancers, porque no te va a rendir
+12:33:18 - Marcos Casagrande (@marcoscvp90):
+Cuanto llevás laburando Gabriel?
+12:33:23 - Gabriel Dominguez (@gabidominguez):
+En donde estoy me pagaron la suscripcion a Platzi :innocent:
+12:33:28 - Federico A. Sawady O'Connor (@sawady.faso):
+yo estoy en 2k USD como senior monotributista, para mi está bien, pero se que se puede lograr más
+12:34:06 - Gabriel Dominguez (@gabidominguez):
+Tenia pensado arrancar con algunos freelos por CM viendo todo lo que comentan como para arrancar
+12:34:41 - Gabriel Dominguez (@gabidominguez):
+Como dev, 1 año. Hace 2/3 que me capacito por mi cuenta
+12:35:51 - Mariano Ramonda (@ing.inf.mariano):
+entonces en donde estas no esta tan mal
+12:35:59 - Mariano Ramonda (@ing.inf.mariano):
+aprovecha el material de Platzi
+12:36:19 - Mariano Ramonda (@ing.inf.mariano):
+cuando sientas que te queda corto, es tiempo de ir al proximo level
+12:37:27 - Gonza Espeche (@espeche.g):
+pasa que este canal te ceba mucho
+12:37:45 - Gabriel Dominguez (@gabidominguez):
+Bueno, a seguir de a poco entonces. Gracias a todos
+12:37:55 - Gabriel Dominguez (@gabidominguez):
+Totalmente jaja
+12:37:58 - Mariano Ramonda (@ing.inf.mariano):
+es que ustedes imaginan a marcos revolcandose en dolares, tomando un martini
+12:38:06 - Mariano Ramonda (@ing.inf.mariano):
+in the end, es trabajar
+12:38:13 - Mariano Ramonda (@ing.inf.mariano):
+y se avanza, pero no de golpe
+12:39:20 - Gonza Espeche (@espeche.g):
+pasa que uno se pone ansioso… y encima el dolar subiendo tampoco ayuda
+12:42:50 - Marcos Casagrande (@marcoscvp90):
+Esperaría al menos 1 año más antes de intentar buscar algo para afuera o freelance.
+12:43:28 - Marcos Casagrande (@marcoscvp90):
+/gif Huell breaking bad dollar
+12:43:32 - Marcos Casagrande (@marcoscvp90):
+#fail
+12:43:57 - Gonzalo González Mora (@gonzalogm):
+#doblefail :joy:
+12:44:03 - Marcos Casagrande (@marcoscvp90):
+jajaja, nadie vio nada.
+12:44:11 - Gonza Espeche (@espeche.g):
+ajajj no vi nada pero seguro fue un lindo fail
+12:44:16 - Gonzalo González Mora (@gonzalogm):
+:see_no_evil: :speak_no_evil:
+12:45:07 - Gabriel Dominguez (@gabidominguez):
+Genial, gracias por el consejo!
+12:45:23 - Gonza Espeche (@espeche.g):
+toy igual que vos Rodri, peleandola para Ssr
+12:45:40 - Marcos Casagrande (@marcoscvp90):
+Pero en ese tiempo, podés ir mejorando tu inglés si no sos bilingüe.
+12:45:51 - Gonza Espeche (@espeche.g):
+creo que la papa está en pegar un laburo remoto en USD o irse a laburar afuera
+12:47:05 - Gabriel Dominguez (@gabidominguez):
+En eso estoy! Para escribir no tengo mucho drama pero a la hora de hablar soy medio simio pronunciando
+12:50:24 - Federico A. Sawady O'Connor (@sawady.faso):
+sí, coincido con Marcos
+12:50:49 - Federico A. Sawady O'Connor (@sawady.faso):
+si ganás buenos skills laburando con gente que te sepa couchear vas a poder hacer bocha de cosas de mejor manera
+12:51:40 - Gabriel Dominguez (@gabidominguez):
+Excelente, gracias nuevamente! :smile:
+12:57:43 - Marcos Casagrande (@marcoscvp90):
+Esa es la estabilidad que tenés al laburar freelance para el exterior.
+13:01:10 - Gonza Espeche (@espeche.g):
+Si, de una. Re va este channel para saber cuanto puede ganar uno comparado con otros top countries. También sirve para los aspirantes a Ssr/Sr a mantenerse motivados
+13:19:32 - Juan Scolari (@juanscolari):
+consegui laburo con relocation, me sponsorean la visa
+13:20:55 - Juan Scolari (@juanscolari):
+tenes que chequearte los requisitos de cada pais
+13:20:58 - Juan Scolari (@juanscolari):
+a donde te queres ir?
+13:31:17 - Federico A. Sawady O'Connor (@sawady.faso):
+mirá, tengo primos en España, amo el país, me encantaría poder vivir ahí.
+13:31:30 - Federico A. Sawady O'Connor (@sawady.faso):
+Pero estoy abierto a otras opciones jaja.
+13:32:06 - Federico A. Sawady O'Connor (@sawady.faso):
+Y la verdad no encontré empresas españolas que sponsoreen visas. Muchas alemanas, holandesas, EE UU, etc.
+13:36:57 - Juan Scolari (@juanscolari):
+tenes posibilidad de conseguir ciudadania europea?
+13:40:09 - Juan Scolari (@juanscolari):
+chequeate
+<https://angel.co/jobs#find/f!%7B%22visa%22%3Atrue%2C%22locations%22%3A%5B%221642-Europe%22%5D%7D>
+13:40:39 - Juan Scolari (@juanscolari):
+tenes que loguearte primero parece
+13:41:09 - Juan Scolari (@juanscolari):
+<https://relocate.me/>
+13:41:35 - Juan Scolari (@juanscolari):
+si vas con alguna empresa que te sponsoree es mas facil conseguir
+13:41:45 - Juan Scolari (@juanscolari):
+o estas buscando para vivir alla pero laburar freelo?
+13:55:16 - Adrián Velasco (@adrivelasco1506):
+es un sueldazo si es en mano
+13:55:30 - Adrián Velasco (@adrivelasco1506):
+pero igualmente vi tu perfil y sin pensar mucho se nota que la tenés clara jajaja
+14:03:41 - Adrián Velasco (@adrivelasco1506):
+alguno de este channel ya está trabajando o buscando proyectos freelance de corto - largo plazo para afuera? sé que el valor por hora a diferencia de codementor puede ser mucho menor, pero teniendo 40 hs semanales fijas a 30usd es un golazo también
+14:05:56 - Martín Aimar (@maimar):
+yo estoy trabajando así
+14:07:39 - Adrián Velasco (@adrivelasco1506):
+¿y utilizaste alguna plataforma para buscar o simplemente por contacto? un amigo que también está en un proyecto me recomendó y por suerte avancé en el proceso digamos
+14:09:38 - Martín Aimar (@maimar):
+Tuve suerte en encontrar a un tipo que buscaba gente en el slack de tailwind css
+14:10:57 - Rodrigo Ali (@rodrigojali):
+Mal.
+14:11:20 - Martín Aimar (@maimar):
+Hablamos un poco, le gustó cómo trabajo y empezamos, no entrevista, no challenge, no nada
+14:13:33 - Marcos Casagrande (@marcoscvp90):
+Yo tengo 3 clientes por fuera, bastante recuerrentes, que suelen pedir proyectos de 1-2 semanas de desarrollo. 1 quedó después de una sesión de CM, y otros 2 me contactaron directamente.
+14:13:48 - Rodrigo Ali (@rodrigojali):
+Puede ser, yo estaba muy ansioso (tengo problemas de ansiedad que por suerte estoy aprendiendo a manejar) y quería todo YA. Entendí que fuera de la parte técnica netamente de programación hay mil cosas más que hacen a la seniority y fui bajando varios cambios. Ahora lo que hago es ponerme una meta de "2 o 3 años formales" como dev, y recién ahí empezar a ver de tirar para empezar laburos cortos freelo, onda entre 1 y 3 meses.
+
+La otra es irme para europa con la ciudadanía española, pero por ahora lo tengo frenado por cuestiones personales.
+14:14:14 - Marcos Casagrande (@marcoscvp90):
+Hay un mix entre suerte, y tener un perfil online "atractivo" para que si alguien anda buscando, salgas ahí.
+14:17:16 - Adrián Velasco (@adrivelasco1506):
+como dijeron para mí es ultra necesario tener 3 años de experiencia y laburar con gente copada que te pueda dar una mano y mismo transmitirte buenos hábitos dentro de la programación como también enseñarte cosas nuevas
+14:17:57 - Adrián Velasco (@adrivelasco1506):
+de hecho, me da cosa el ser freelance por miedo a perder eso que sólo conseguís estando en una oficina rodeado de cracks (si es que los hay en donde estás jaja)
+14:18:32 - Adrián Velasco (@adrivelasco1506):
+muy copado, como tiene que ser
+14:23:18 - Martín Aimar (@maimar):
+Hace poco me llegaron dos contactos por <http://angel.co|angel.co> de la nada
+14:24:44 - Marcos Casagrande (@marcoscvp90):
+Esa es otra, meterte en cuanta página freelance exista, eventualmente te van a ir llegando cosas. Una vez tenés varios clientes, con el boca en boca, mientras hagas las cosas bien ya estás <@UALD7P7EW>
+14:28:55 - Martín Aimar (@maimar):
+De las cosas que miro yo, <http://larajobs.com|larajobs.com>, <http://vuejobs.com|vuejobs.com> suelen tener cosas copadas, después obviamente <http://remoteok.io|remoteok.io>, weworkremotely, está lleno
+14:38:03 - Juan Scolari (@juanscolari):
+vos marcos tu fuente principal es codementor o freelos?
+14:38:16 - ari (@adiaz):
+referidos
+14:38:23 - ari (@adiaz):
+:joy:
+14:38:43 - Juan Scolari (@juanscolari):
+los ingresos quise decir
+14:39:01 - Juan Scolari (@juanscolari):
+para saber si se puede vivir de cm :stuck_out_tongue: o que tanto representa
+14:40:43 - Lucas Accastello (@accastellolucas):
+:raised_back_of_hand:
+14:43:41 - Lucas Accastello (@accastellolucas):
+Creo que no quedan dudas que se puede vivir de CM, si vivimos con sueldos en ARS... jaja
+14:44:49 - Marcos Casagrande (@marcoscvp90):
+Lo bueno es compaginar los 2, estoy haciendo freelance, apenas me sale una sesión en CM la hago, y sigo laburando en lo otro.
+14:44:56 - Marcos Casagrande (@marcoscvp90):
+De esa forma, no tenés "tiempo muerto" o tiempo no pago.
+14:45:10 - Juan Scolari (@juanscolari):
+excelente
+14:45:36 - Marcos Casagrande (@marcoscvp90):
+Entonces ya sea un freelance offline de CM o algo por fuera, la sesión siempre tiene prioridad, porque el freelance lo vas haciendo en tiempo muerto.
+14:45:52 - Marcos Casagrande (@marcoscvp90):
+Obviamente, si necesitás entregar el freelance en 1 hora, y no llegás, fuck the session, pero se entiende.
+14:46:12 - Aldo Sorbara (@aldo1891):
+yo hice 400 y pico de dolares en 3 dias(sin exagerar), y haciendolo en mis tiempos libres (laburo en relacion de dependencia de 9 a 18), 2:30 hs por dia maximo. Tal vez es una racha positiva, pero si se mantiene este ritmo estamos hablando de 100 lucas mes
+14:47:06 - Federico A. Sawady O'Connor (@sawady.faso):
+na, tengo ciertos skills y carezco de otros. Y sí, es en mano, no me quejo, sólo digo que no hay que quedarse en el molde sabiendo que uno puede ir por más (tampoco soy tan ambicioso con el dinero, hablo de los otros beneficios también)
+14:47:23 - Marcos Casagrande (@marcoscvp90):
+Es que, es imposible que un semi/sr con inglés, no le sea más rentable CM que laburo de Argentina, 1.5 horas de CM, ya es más que 8 horas de laburo en Argentina.
+14:47:31 - Federico A. Sawady O'Connor (@sawady.faso):
+y... laburar de freelo sería ideal
+14:47:35 - Federico A. Sawady O'Connor (@sawady.faso):
+para no vender mi alma
+14:47:59 - Federico A. Sawady O'Connor (@sawady.faso):
+pero bueno, hoy día trabajo para una empresa, sería cambiar de país jaja
+14:49:05 - Juan Scolari (@juanscolari):
+si, me pudrio el tema del sueldo en pesos y la desactualizacion constante
+14:49:17 - Aldo Sorbara (@aldo1891):
+sumale ganancias
+14:49:19 - Aldo Sorbara (@aldo1891):
+que te cogen
+14:49:39 - Juan Scolari (@juanscolari):
+bueno, pero impuestos “tenes que” pagar de todas formas
+14:49:43 - Aldo Sorbara (@aldo1891):
+si
+14:50:06 - Aldo Sorbara (@aldo1891):
+pero no se si siendo monotributista "zafo" mas, ahi estoy hablando sin saber :stuck_out_tongue:
+14:50:14 - Juan Scolari (@juanscolari):
+si haces las cosas por la via legal en todos los paises te matan
+14:50:22 - Gonzalo González Mora (@gonzalogm):
+Si no te pasás a responsable inscripto, zafás con monotributo
+14:50:35 - Gonzalo González Mora (@gonzalogm):
+pero si facturás todo y laburás para afuera es difícil no pasarse
+14:50:36 - Marcos Casagrande (@marcoscvp90):
+Igual, no todos los países te matan, Argentina es el segundo país con más presion tributaria del mundo.
+14:50:57 - Juan Scolari (@juanscolari):
+despues de uruguay?
+14:51:01 - Marcos Casagrande (@marcoscvp90):
+Acá nos cagan, porque pagás mas impuestos que en el primer mundo, y no tenés los servicios del primer mundo.
+14:51:09 - Marcos Casagrande (@marcoscvp90):
+No, uruguay al lado de Argentina, es un chiste.
+14:51:14 - Gonzalo González Mora (@gonzalogm):
+Y el tema es que no se de ve la devolución. A mi no me jodería pagar el 50% como en los países nórdicos si tengo ese estándar de vida y funcionamiento del Estado
+14:51:26 - Juan Scolari (@juanscolari):
+habia visto una encuesta una vez que nos ponian segundo despues de uruguay para freelo
+14:52:16 - Juan Scolari (@juanscolari):
+segundo en el final de la escala claro jaj
+14:52:48 - Marcos Casagrande (@marcoscvp90):
+Es lo que digo, acá pagás impuestos, para después pagar una prepaga, porque el hospital público se cae a pedazos
+14:52:50 - Federico A. Sawady O'Connor (@sawady.faso):
+yo facturando a una empresa no pago casi nada de impuestos
+14:52:53 - Federico A. Sawady O'Connor (@sawady.faso):
+hay un par de trucazos
+14:53:01 - Mariano Ramonda (@ing.inf.mariano):
+IMO, comparar cualquier posibilidad de laburo para USA/EUR con sueldos argentinos yo no tiene que ser siquiera analizado
+14:53:10 - Federico A. Sawady O'Connor (@sawady.faso):
+pero no se como es contra el exterior
+14:53:25 - Mariano Ramonda (@ing.inf.mariano):
+la respuesta es siempre si, te va a llegar mucha mas plata a tu bolsillo trabajando para el exterior
+14:53:46 - Marcos Casagrande (@marcoscvp90):
+`evadacius!;!;!;!;!;!;!`
+14:54:26 - Mariano Ramonda (@ing.inf.mariano):
+despues, cuando ya trabajas para el exterior comienza un nuevo tema, que es ver donde y como trabajar para el exterior para que rinda mas
+14:54:36 - Mariano Ramonda (@ing.inf.mariano):
+esa es otra etapa me parece
+14:54:41 - Juan Scolari (@juanscolari):
+rep checa tiene politicas tributarias copadas
+14:54:52 - Juan Scolari (@juanscolari):
+si alguno me quiere acompañar :smile:
+14:54:53 - Mariano Ramonda (@ing.inf.mariano):
+saltar del sueldo en pesos, hay que hacerlo con cualquier oportunidad que se de
+14:55:40 - Juan Scolari (@juanscolari):
+depende que sueldo en dolares tambien
+14:56:39 - Mariano Ramonda (@ing.inf.mariano):
+con 12 la hora ya estas en 80k pesos haciendo 160 horas al mes
+14:56:54 - Federico A. Sawady O'Connor (@sawady.faso):
+claro es lo que yo hago
+14:57:00 - Federico A. Sawady O'Connor (@sawady.faso):
+limpios
+14:57:00 - Juan Scolari (@juanscolari):
+pero no son iguales que 80k en relacion de dep
+14:57:01 - Adrián Velasco (@adrivelasco1506):
+Lo desmotivamente que tiene trabajar acá, es que como dijeron varios en otro channel, si no te cambias de trabajo cada 6 meses - 1 año el sueldo se te queda atrás con mucha facilidad. Y estar cambiando de trabajo es un pijazo, porque el "buscar trabajo" frecuentemente es un trabajo también.
+14:57:10 - Gonza Espeche (@espeche.g):
+Buena data, gracias por compartirla 
+14:57:14 - Mariano Ramonda (@ing.inf.mariano):
+y no, porque te llegan mas a tus bolsillos
+14:57:21 - Juan Scolari (@juanscolari):
+tenes que descontar el aguinaldo, las vacaciones y los feriados
+14:57:39 - Mariano Ramonda (@ing.inf.mariano):
+no adhiero tanto he
+14:57:52 - Mariano Ramonda (@ing.inf.mariano):
+yo ahora mismo estoy buscando, y como ya tengo un buen trabajo, lo puedo hacer muy tranquilo
+14:57:53 - Ari Sanguinetti (@arielsanguinetti):
+Para hacer #TodoClean, es el limite de monotributo maxima categoria, seria pagar 4k pesos y podes facturar algo asi como 90k pesos o 2200USD
+14:58:00 - Mariano Ramonda (@ing.inf.mariano):
+eligiendo bien
+14:58:09 - Ari Sanguinetti (@arielsanguinetti):
+4k pesos mensuales
+14:58:17 - Federico A. Sawady O'Connor (@sawady.faso):
+claro yo facturo eso, 90k pesos aprox
+14:58:34 - Federico A. Sawady O'Connor (@sawady.faso):
+y pago 500 pesos por mes
+14:58:37 - Federico A. Sawady O'Connor (@sawady.faso):
+entre IIBB y AFIP
+14:58:44 - Juan Scolari (@juanscolari):
+o facturar 6 meses 4400 y 6 meses de vacaciones/laburito en rel dep
+14:58:44 - Federico A. Sawady O'Connor (@sawady.faso):
+pago aparte la prepaga
+14:59:37 - Ari Sanguinetti (@arielsanguinetti):
+dale que so' vo'!
+14:59:50 - Ari Sanguinetti (@arielsanguinetti):
+IIBB es si no estas en CABA creo
+15:00:09 - Juan Scolari (@juanscolari):
+depende para quien factures
+15:00:09 - Federico A. Sawady O'Connor (@sawady.faso):
+claro yo soy del conurbano y tengo convenio multilateral
+15:00:23 - Federico A. Sawady O'Connor (@sawady.faso):
+significa que puedo facturar a capital y a BS AS también
+15:00:27 - Ari Sanguinetti (@arielsanguinetti):
+quizas la posta es tener un laburito part-time en relacion de dependencia para la prepaga y un extra + monotributo full-power (?)
+15:00:31 - Mariano Ramonda (@ing.inf.mariano):
+donde trabajas que haces esa tramoya Fede?
+15:00:36 - Juan Scolari (@juanscolari):
+<#CGY85V6BU|codementor> is the new #finanzas channel? :smile:
+15:00:47 - Ari Sanguinetti (@arielsanguinetti):
+para clientes en el exterior no pagas nada, ni ganancias jeje
+15:00:57 - Juan Scolari (@juanscolari):
+si, ganancias pagas
+15:01:10 - Gonza Espeche (@espeche.g):
+A un pibe de Mercado Libre lo llamaron para laburar en Rep Checa con 3 años en iOS. Le garparon todos los pelpas 
+15:01:42 - Ari Sanguinetti (@arielsanguinetti):
+como monotributista?
+15:01:51 - Juan Scolari (@juanscolari):
+Sebastian?
+15:01:53 - Federico A. Sawady O'Connor (@sawady.faso):
+posta no puedo decirlo jaja
+15:02:13 - Mariano Ramonda (@ing.inf.mariano):
+jjajajja
+15:02:19 - Mariano Ramonda (@ing.inf.mariano):
+muy turbio
+15:03:12 - Adrián Velasco (@adrivelasco1506):
+pero no figura en tu perfil de codementor? jaja
+15:03:14 - Juan Scolari (@juanscolari):
+como RI decia, como monotributo es parte del impuesto integrado, que no es nada
+15:04:11 - Ari Sanguinetti (@arielsanguinetti):
+lo mejor de todo? esta charla se archiva en el github de Meetupjs #HolaAFIP (?)
+15:04:17 - Juan Scolari (@juanscolari):
+de los que vi me parece que los que tienen visas mas faciles para freelo son dinamarca e irlanda, pero hasta ahi se. Yo estaba por sacar la de rep checa con la ayuda de la empresa pero al final vamos a entrar como empleados
+15:04:24 - Adrián Velasco (@adrivelasco1506):
+<@UG2QK9A66> off topic, cómo encontraste codementor? no lo conoce casi nadie, por lo menos yo porque me lo pasó Marcos
+15:04:47 - Federico A. Sawady O'Connor (@sawady.faso):
+de STRV?
+15:05:23 - Federico A. Sawady O'Connor (@sawady.faso):
+pero cómo lo declarás? es una transferencia desde el exterior?
+15:05:29 - Juan Scolari (@juanscolari):
+ahi arranco a laburar el mes que viene
+15:05:39 - Federico A. Sawady O'Connor (@sawady.faso):
+yo fui al evento
+15:05:51 - Federico A. Sawady O'Connor (@sawady.faso):
+llegué hasta el proyecto técnico que te hacen hacer
+15:05:55 - Federico A. Sawady O'Connor (@sawady.faso):
+pero no tuve tiempo :cry:
+15:06:01 - Ari Sanguinetti (@arielsanguinetti):
+que lindo relocation
+15:06:16 - Juan Scolari (@juanscolari):
+me perdi, declarar que cosa?
+15:06:50 - Juan Scolari (@juanscolari):
+yo agarre uno que tenian en un curso que dieron y me robe las ideas :smile:
+15:06:51 - Marcos Casagrande (@marcoscvp90):
+habría que sacar este canal de ahí...
+15:07:07 - Juan Scolari (@juanscolari):
+si, era bastante largo para hacer
+15:09:43 - Ari Sanguinetti (@arielsanguinetti):
+es una transferencia a cliente del exterior, podes hacer factura C o factura E
+15:09:55 - Ari Sanguinetti (@arielsanguinetti):
+factura a cliente del exterior
+15:10:10 - Ari Sanguinetti (@arielsanguinetti):
+de hecho con esa factura, tampoco estas obligado a traer la guita, la podes dejar afuera entiendo
+15:10:39 - Julian (@jantonielli01):
+Che funciono re piola lo de Payoneer a Galicia 
+15:10:42 - Julian (@jantonielli01):
+Ya tengo la guita 
+15:10:51 - Marcos Casagrande (@marcoscvp90):
+cuanto te sacaron?
+15:11:03 - Marcos Casagrande (@marcoscvp90):
+A mi en su momento me cogieron, nunca más lo usé
+15:11:23 - Rodrigo Ali (@rodrigojali):
+Yo creo que mucha gente de este slack se está perdiendo bocha de información por no estar en este channel :stuck_out_tongue:
+15:11:25 - Luis Alvarez (@luistensai):
+a mi los chotos de payoneer nunca me activaron la opción para transferir a banco local
+15:11:30 - Rodrigo Ali (@rodrigojali):
+Info que escapa de Codementor
+15:11:38 - Rodrigo Ali (@rodrigojali):
+#finanzas-y-silvio should happen
+15:11:53 - Marcos Casagrande (@marcoscvp90):
+Es la cueva del freelancer esto, info confidencial.
+15:11:59 - Luis Alvarez (@luistensai):
+cargué toda la info del banco pero nunca me lo aprobaron
+15:12:08 - Marcos Casagrande (@marcoscvp90):
+Habría que parar ese bot que postea todo open source jaja
+15:12:33 - Aldo Sorbara (@aldo1891):
+<@U7MP5R4MC> cuanto te sacaron?
+15:12:46 - Marcos Casagrande (@marcoscvp90):
+Le llegó 2 USD.
+15:14:08 - Gonza Espeche (@espeche.g):
+jaja, fija que voy a preguntar acá cuando me toque cobrar algo _offshore_
+15:14:51 - Julian (@jantonielli01):
+0 de Galicia so far 
+15:15:09 - Julian (@jantonielli01):
+Pero creo que después te llega una comisión en pesos tipo 800 mangos
+15:15:14 - Marcos Casagrande (@marcoscvp90):
+Esperá al lunes
+15:15:37 - Juan Scolari (@juanscolari):
+Tengo entendido que esta para ciertos canales nomas
+15:15:55 - Marcos Casagrande (@marcoscvp90):
+En este está.
+15:16:05 - Juan Scolari (@juanscolari):
+oh :stuck_out_tongue:
+15:16:32 - Gonza Espeche (@espeche.g):
+Si, jaja. Me contó un amigo que está laburando ahí
+15:16:38 - Gonza Espeche (@espeche.g):
+Que onda, Checa se puso de moda?
+15:17:53 - Juan Scolari (@juanscolari):
+que chico que es el mundo jajaj
+15:18:17 - Rodrigo Ali (@rodrigojali):
+<#CHNL3EA4R|finanzas-y-legales> ahí lo creé, el que se quiera sumar, bienvenido
+15:18:19 - Juan Scolari (@juanscolari):
+La empresa esa vino a reclutar a bs as en febrero, de aca hasta ahora quedamos tres
+15:18:19 - Martín Aimar (@maimar):
+una consulta, a los tipos les hablan desde las request notes o desde la ventanita de message?
+15:18:30 - Juan Scolari (@juanscolari):
+2 de ios y yo como back
+15:18:57 - Gonza Espeche (@espeche.g):
+Que bien, te felicito, tremenda experiencia! Y te acomodan los pelpas y todo ten points?
+15:19:16 - Juan Scolari (@juanscolari):
+Esa es la cueva del lobo
+15:19:42 - Rodrigo Ali (@rodrigojali):
+Se le puede cambiar tranquilamente el nombre eh :stuck_out_tongue:, yo lo pensaría.
+15:20:04 - Juan Scolari (@juanscolari):
+no es todo taaaaaaaan magico, de hecho mil vueltas para arrancar ahora
+15:22:17 - Martín Aimar (@maimar):
+tiré un par de i can help y les mando mensajito pero ni pelota por ahora
+15:22:42 - Aldo Sorbara (@aldo1891):
+message directo
+15:22:53 - Aldo Sorbara (@aldo1891):
+algunos responden otros no
+15:26:32 - Gonza Espeche (@espeche.g):
+ah que garcha, pintaba realmente mágico, pero buen, sera el pijazo inicial hasta estar alla tomando una cerveza a 0,10 ctvs de dolar
+15:32:01 - Juan Scolari (@juanscolari):
+mal jajaj, yo les voy tirando update de como viene la cosa
+15:32:23 - Juan Scolari (@juanscolari):
+lo que si, fui a la oficina alla y esta muy bien puesta, al lado del centro
+15:32:47 - Gonza Espeche (@espeche.g):
+Uff… que locura, olvidate, no volves mas a ARG
+15:43:40 - Marcos Casagrande (@marcoscvp90):
+Martín, la request notes no sirven de nada, no sé ni para que están. Mensaje directo siempre, pero al principio no te dan bola, tenés que ser muy rápido.
+15:44:19 - Marcos Casagrande (@marcoscvp90):
+Pensá que el flaco cuando crea la request, ya le salen los top mentors como recomendados, y después los "I can help" que llegan están destacado los featured.
+15:44:30 - Aldo Sorbara (@aldo1891):
+y cuando ves que estan  "in session" es como un golpe al corazon :broken_heart:
+15:45:00 - Marcos Casagrande (@marcoscvp90):
+Básicamente al principio, o es alguna cosa poco común como Haskell, o esas cosas raras que maneja <@U7MP5R4MC>, o sos el más rápido del oeste, o gente como yo te va a sacar todo.
+15:45:12 - Martín Aimar (@maimar):
+peor que estén offline a los 5 minutos de hacer el request
+15:45:45 - Marcos Casagrande (@marcoscvp90):
+Ojo, yo al principio tiré varios manotazos de ahogado, y escribí a gente que hace 3 horas creo la request, y el flaco por algún motivo recién volvía a la compu y la hice yo.
+15:46:00 - Adrián Velasco (@adrivelasco1506):
+es peor que esa sensación cuando salías y te querías levantar a esa compañera del colegio/facultad/otro que tanto te gustaba hasta que un día sube una foto a las redes sociales con otro flaco y te das cuenta que *dormiste like a champ*
+15:46:00 - Marcos Casagrande (@marcoscvp90):
+O me ocurrió un par de veces, que el flaco pasó por 2-3 mentors antes y no pudo resolverla.
+15:46:23 - Marcos Casagrande (@marcoscvp90):
+Así que el mensajito tiralo siempre, a veces vuelve, aunque esté en sesión.
+15:49:57 - Martín Aimar (@maimar):
+sí quiero meter alguna
+15:50:00 - Martín Aimar (@maimar):
+para agradarles a los de cmx
+16:05:44 - Martín Aimar (@maimar):
+pf ahí salió uno de 200/hr
+16:05:49 - Marcos Casagrande (@marcoscvp90):
+Igual lo mejor es cuando Adri, lo ve en sesión, y el flaco está en Sesión conmigo.
+16:06:44 - Martín Aimar (@maimar):
+“papi hay una tarántula gigante” - “no puedo, estoy en codementor” - “me come papá” - “codementor”
+16:07:33 - Gabriel Fusca (@gfuscax):
+van cambiando la tarifa de la session en función del expected bugget?
+16:07:35 - Rodrigo Ali (@rodrigojali):
+"Me compro un hijo mañana, fue"
+16:08:35 - Adrián Velasco (@adrivelasco1506):
+fue difícil el proceso?
+16:09:10 - Adrián Velasco (@adrivelasco1506):
+debería probar jaja
+16:09:16 - Marcos Casagrande (@marcoscvp90):
+MIren lo hermoso que es Codementor.
+16:09:21 - Martín Aimar (@maimar):
+venía bien pero después de mandar el proyecto que me pidieron me dijeron que tendría que tener un perfil más fuerte en CM
+16:09:30 - Martín Aimar (@maimar):
+ni idea, ellos me mandaron la invitación ¯\_(ツ)_/¯
+16:10:56 - Marcos Casagrande (@marcoscvp90):
+15 USD, por decirle: "I can meet in 1 hour"
+16:11:09 - Marcos Casagrande (@marcoscvp90):
+Por que me daba paja hacerlo ahora
+16:11:27 - Juan Scolari (@juanscolari):
+faltaba terminar un capitulo de la serie?
+16:11:27 - Gonzalo González Mora (@gonzalogm):
+:heart_eyes_cat:
+16:11:43 - Marcos Casagrande (@marcoscvp90):
+comí bocha y tengo una pachorra terrible. Sillón a muerte
+16:12:10 - Juan Scolari (@juanscolari):
+jajaj, igual habla muy bien de como venis laburando, bien ahi :clapping:
+16:16:03 - Julian (@jantonielli01):
+“Cosas raras” jajjaj
+16:22:44 - Marcos Casagrande (@marcoscvp90):
+"F#"...
+16:25:33 - Luis Alvarez (@luistensai):
+acabo de registrar mi cuenta en Santander, no sé por qué la de BBVA quedó colgada...
+16:26:00 - Luis Alvarez (@luistensai):
+si no entiendo mal, y la cuenta es en USD, deberían cobrarme 1,50 por transferencia?
+16:26:37 - Luis Alvarez (@luistensai):
+ahora la pregunta es si el banco local cobra algo por recibir esa plata, avisá si el Galicia te sacó algo, yo la semana que viene pruebo mandar plata de payoneer al Santander :grimacing:
+16:42:34 - Julian (@jantonielli01):
+Payoneer me cobró 11 usd por sacar 550 
+16:42:54 - Julian (@jantonielli01):
+Las veces que me transferí a Galicia dólares desde el exterior me cobro 800 pesos fijos
+16:44:38 - Marcos Casagrande (@marcoscvp90):
+esos 550 USD los convertís a pesos después?
+16:54:16 - Julian (@jantonielli01):
+Generalmente si 
+17:07:39 - Marcos Casagrande (@marcoscvp90):
+Te voy a hacer unas cuentas rápidas
+17:16:02 - Marcos Casagrande (@marcoscvp90):
+Payo &gt; Galicia
+```
+550 - 11 = 539;
+539 USD * 41,1 ARS = 22152,9 ARS
+22152,9 - 800 = 21352,9
+```
+TW &gt; Galicia
+```
+550 USD = 485€
+485€ &gt; ARS = 22.836,10$
+```
+Puede haber una comisión de un 1% en la conversión de USD a EUR, pero serían 200-300$ para ese monto, quizás 22500$
+17:16:21 - Marcos Casagrande (@marcoscvp90):
+Pasando de CM a TW directo, si vas a usar pesos, esos 550 USD, son 1 luca más al menos.
+17:18:34 - Luis Alvarez (@luistensai):
+te llegaron en pesos o dólares de payoneer?
+17:18:46 - Marcos Casagrande (@marcoscvp90):
+Llegan dólares.
+17:18:51 - Luis Alvarez (@luistensai):
+oka, cool
+17:18:53 - ari (@arieldiaz):
+alguien vio algo de "sharepoint" ?:face_with_rolling_eyes:
+17:19:26 - Marcos Casagrande (@marcoscvp90):
+Pero usando banco Galicia, TW es mucho mejor, ahí en el thread le hice el cálculo.
+17:20:46 - Marcos Casagrande (@marcoscvp90):
+La diferencia es más que nada, además de la comisión, la tasa de conversión de Pesos que tiene TW, que es al menos 1$ mayor que la del Galicia
+17:21:54 - Marcos Casagrande (@marcoscvp90):
+<http://transferwise.com/u/marcosc388|transferwise.com/u/marcosc388>
+17:22:04 - Marcos Casagrande (@marcoscvp90):
+Vivo de referir (?)
+17:45:26 - Federico A. Sawady O'Connor (@sawady.faso):
+me lo recomendó un amigo
+17:46:47 - Federico A. Sawady O'Connor (@sawady.faso):
+uh buenísimo, yo puse la cuenta de Santander en Payoneer, pero quería probar la tarjeta que te dan
+17:46:58 - Federico A. Sawady O'Connor (@sawady.faso):
+la guita queda en Payoneer y la gastas con la tarjeta no? alguién lo probó?
+17:47:10 - Federico A. Sawady O'Connor (@sawady.faso):
+soy alto noob recibiendo guita del exterior a Payoneer
+17:47:50 - Federico A. Sawady O'Connor (@sawady.faso):
+posta? factura C?? con algún trámite que haya que hacer tipo algún formulario?
+17:48:24 - Federico A. Sawady O'Connor (@sawady.faso):
+me mató, no era la mejor semana para mi, igual me dijeron que podía volver a intentar, pero me dio paja, y no estoy seguro de irme a Republica Checa jaja
+17:49:12 - Federico A. Sawady O'Connor (@sawady.faso):
+claro, copado. La cagada de trabajar para una empresa que te hace una visa tengo entendi que es que no podes cambiar de trabajo o la perdés
+17:51:10 - Martín Aimar (@maimar):
+tuve una sesión! la tuve que refundear
+17:51:22 - Marcos Casagrande (@marcoscvp90):
+Si, queda en payoneer, a no ser que te la mandes al Santander. Yo tengo la tarjeta, va de 10
+17:51:39 - Marcos Casagrande (@marcoscvp90):
+Jajaja, que pasó?
+17:52:03 - Marcos Casagrande (@marcoscvp90):
+Pero bueno, cosas que pasan, lo importante es si sabes que no vas a sacarlo, cortar rápido y no perder tiempo.
+17:52:17 - Martín Aimar (@maimar):
+qué se yo, cayó un flaco que ni tenía para hablar, ni compartir pantalla ni nada, con un html de mierda para pegarle a una api y la api tiraba problema de CORS y no sé, era una boludez pero no lo pude hacer andar acá
+17:52:46 - Martín Aimar (@maimar):
+es que era una boludez pero bueh, no anduvo
+17:52:47 - Marcos Casagrande (@marcoscvp90):
+Es una garcha cuando no comparten etc, se complica mucho laburar.
+17:53:08 - Martín Aimar (@maimar):
+claro si yo lo puedo hacer en su entorno es una cosa, para replicarlo acá es otra
+17:53:25 - Martín Aimar (@maimar):
+no meten review si hay refund no?
+17:57:36 - Juan Scolari (@juanscolari):
+claro, ahi en rep checa por ej tenes las dos visas de laburo
+- La “Freelancer” -&gt; por un año, podes hacer lo que se te cante como freelo, es mas dificil de sacar, pagas impuestos por tu cuenta
+- La de “Employee” -&gt; por dos años, atada a la empresa, si te vas se corta la visa, a menos que consigas otra empresa que te sponsoree. Que llegado al caso no se si es taaaanto drama
+17:58:12 - Juan Scolari (@juanscolari):
+El resto de los paises desconozco, debe haber cosas similares, cuestion de averiguar
+17:58:43 - Marcos Casagrande (@marcoscvp90):
+no, no puede, y si puso review, y hacés refund desaparece.
+17:59:25 - Juan Scolari (@juanscolari):
+venite que va a estar re bueno jaj, cualquier cosa me podes preguntar por privado
+18:03:45 - Gabriel Fusca (@gfuscax):
+che consulta para poder tener un link para referir tenes que ser featured?
+18:03:58 - Gabriel Fusca (@gfuscax):
+no encuentro eso :stuck_out_tongue:
+18:07:15 - Marcos Casagrande (@marcoscvp90):
+Sabés que no es por ser featured, lo eliminaron hace poco, no sé por qué es, pero estaría bueno que alguno pregunte de los que no tienen el link.
+18:07:41 - Marcos Casagrande (@marcoscvp90):
+Usuarios a partir de cierta fecha ya no tienen el link de referido.
+18:10:38 - Gabriel Fusca (@gfuscax):
+ahh oki
+18:10:44 - Gabriel Fusca (@gfuscax):
+veo si pregunto
+19:07:24 - Martín Aimar (@maimar):
+era el goma este <https://www.codementor.io/brian911>
+19:07:42 - Martín Aimar (@maimar):
+voy a empezar a ver los perfiles antes de ofrecer ayuda
+19:16:29 - Marcos Casagrande (@marcoscvp90):
+Si, igual generalmente te das cuenta rápido si es un pete o no
+19:16:40 - Marcos Casagrande (@marcoscvp90):
+Podríamos hacer una pete list acá.
+19:17:29 - Marcos Casagrande (@marcoscvp90):
+Y hacemos una extensión, que cuando estés hablando con alguien de la lista, te tire unos random gifs en el medio de la pantalla.
+19:34:34 - Ari Sanguinetti (@arielsanguinetti):
+Factura C entiendo, tenes el canal <#CHNL3EA4R|finanzas-y-legales> para consultar...
+19:52:27 - Julian (@jantonielli01):
+Sep, la tarjeta de una. Yo me pase al banco porque necesitaba pesos cash.
