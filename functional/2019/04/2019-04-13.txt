@@ -1,0 +1,24 @@
+06:34:33 - Martín Valdés de León (@mvaldesdeleon):
+<https://twitter.com/impurepics/status/1116796154874871810>
+06:34:57 - Martín Valdés de León (@mvaldesdeleon):
+piola esas funciones locas de groupby, en especial las que te arman arrays/objetos json
+06:35:15 - Martín Valdés de León (@mvaldesdeleon):
+y tb no sabia que podes hacer group by con moving windows
+06:36:05 - Martín Valdés de León (@mvaldesdeleon):
+<https://dev.mysql.com/doc/refman/8.0/en/window-functions-usage.html>
+08:36:15 - Martín Valdés de León (@mvaldesdeleon):
+<https://mobile.twitter.com/jusrin00/status/1117009711273058304>
+19:20:17 - Julian (@jantonielli01):
+<https://mobile.twitter.com/importantshock/status/1117078384520069120>
+06:34:33 - Martín Valdés de León (@mvaldesdeleon):
+<https://twitter.com/impurepics/status/1116796154874871810>
+06:34:57 - Martín Valdés de León (@mvaldesdeleon):
+piola esas funciones locas de groupby, en especial las que te arman arrays/objetos json
+06:35:15 - Martín Valdés de León (@mvaldesdeleon):
+y tb no sabia que podes hacer group by con moving windows
+06:36:05 - Martín Valdés de León (@mvaldesdeleon):
+<https://dev.mysql.com/doc/refman/8.0/en/window-functions-usage.html>
+08:36:15 - Martín Valdés de León (@mvaldesdeleon):
+<https://mobile.twitter.com/jusrin00/status/1117009711273058304>
+19:20:17 - Julian (@jantonielli01):
+<https://mobile.twitter.com/importantshock/status/1117078384520069120>
