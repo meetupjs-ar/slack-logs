@@ -1,0 +1,48 @@
+00:44:52 - Alan Becker Capuyá (@alandooz):
+Alguien con experiencia en lambda y api gateway?
+08:54:39 - Leandro Doldán (@leandromdoldan):
+Hay algún channel de mobile?
+10:42:24 - Maxi (@tholem98):
+Alguien programo alguna vez en arduino? Tengo una serie de erorres que no me deja avanzar haga lo que haga
+10:43:38 - Martín Valdés de León (@mvaldesdeleon):
+Para los 3, como recomendacion general: Pregunten/cuenten directamente el problema que tiene, en lugar de preguntar si alguien tiene idea de X.
+10:43:52 - Martín Valdés de León (@mvaldesdeleon):
+Y ante la duda de canales, <#C06DX6V1R|preguntas-tecnicas>
+10:44:16 - Maxi (@tholem98):
+Gracias, mil disculpas
+10:46:01 - Martín Valdés de León (@mvaldesdeleon):
+Nah, no es problema :smile:
+11:00:07 - Martín Aimar (@maimar):
+yo hice algunas cosas con arduino
+18:01:29 - Leandro Doldán (@leandromdoldan):
+Lo mío era curiosidad igual jajaja. Dudas matutinas (?
+20:41:32 - Santiago Ruffino (@santi_0898):
+Hola gente! Alguien vivo por ahi? Estoy haciendo unos ejercicios de Codility y estoy medio clavado porque no termino de entender una consigna
+20:41:46 - Santiago Ruffino (@santi_0898):
+El que este con ganas de ayudar, que me tire mensaje, asi no spameo por aca
+20:42:13 - Leandro Echevarria (@echevarrialeandro):
+Mandame si queres que tengo media hora al pedo
+00:44:52 - Alan Becker Capuyá (@alandooz):
+Alguien con experiencia en lambda y api gateway?
+08:54:39 - Leandro Doldán (@leandromdoldan):
+Hay algún channel de mobile?
+10:42:24 - Maxi (@tholem98):
+Alguien programo alguna vez en arduino? Tengo una serie de erorres que no me deja avanzar haga lo que haga
+10:43:38 - Martín Valdés de León (@mvaldesdeleon):
+Para los 3, como recomendacion general: Pregunten/cuenten directamente el problema que tiene, en lugar de preguntar si alguien tiene idea de X.
+10:43:52 - Martín Valdés de León (@mvaldesdeleon):
+Y ante la duda de canales, <#C06DX6V1R|preguntas-tecnicas>
+10:44:16 - Maxi (@tholem98):
+Gracias, mil disculpas
+10:46:01 - Martín Valdés de León (@mvaldesdeleon):
+Nah, no es problema :smile:
+11:00:07 - Martín Aimar (@maimar):
+yo hice algunas cosas con arduino
+18:01:29 - Leandro Doldán (@leandromdoldan):
+Lo mío era curiosidad igual jajaja. Dudas matutinas (?
+20:41:32 - Santiago Ruffino (@santi_0898):
+Hola gente! Alguien vivo por ahi? Estoy haciendo unos ejercicios de Codility y estoy medio clavado porque no termino de entender una consigna
+20:41:46 - Santiago Ruffino (@santi_0898):
+El que este con ganas de ayudar, que me tire mensaje, asi no spameo por aca
+20:42:13 - Leandro Echevarria (@echevarrialeandro):
+Mandame si queres que tengo media hora al pedo
