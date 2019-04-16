@@ -1,0 +1,403 @@
+07:20:22 - Maxi (@tholem98):
+Tengo este error al intentar instalar firmata-party
+
+Alguien sabe que significa? Y como podria solucionarlo?
+
+```&gt; serialport@6.2.2 install C:\Users\Maxi Lopez\Desktop\Nodejs\Hardware\Led2\node_modules\avrgirl-arduino\node_modules\serialport
+&gt; prebuild-install || node-gyp rebuild
+
+prebuild-install WARN install No prebuilt binaries found (target=11.6.0 runtime=node arch=x64 platform=win32)
+
+C:\Users\Maxi Lopez\Desktop\Nodejs\Hardware\Led2\node_modules\avrgirl-arduino\node_modules\serialport&gt;if not defined npm_config_node_gyp (node "C:\Program Files\nodejs\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node "C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js" rebuild )
+gyp ERR! configure error
+gyp ERR! stack Error: Command failed: C:\Python37\python.EXE -c import sys; print "%s.%s.%s" % sys.version_info[:3];gyp ERR! stack   File "&lt;string&gt;", line 1
+gyp ERR! stack     import sys; print "%s.%s.%s" % sys.version_info[:3];
+gyp ERR! stack                                ^
+gyp ERR! stack SyntaxError: invalid syntax
+gyp ERR! stack
+gyp ERR! stack     at ChildProcess.exithandler (child_process.js:294:12)
+gyp ERR! stack     at ChildProcess.emit (events.js:188:13)gyp ERR! stack     at maybeClose (internal/child_process.js:978:16)
+gyp ERR! stack     at Process.ChildProcess._handle.onexit
+(internal/child_process.js:265:5)
+gyp ERR! System Windows_NT 10.0.17134
+gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"
+gyp ERR! cwd C:\Users\Maxi Lopez\Desktop\Nodejs\Hardware\Led2\node_modules\avrgirl-arduino\node_modules\serialport
+gyp ERR! node -v v11.6.0
+gyp ERR! node-gyp -v v3.8.0
+gyp ERR! not ok
+npm WARN led2@1.0.0 No description
+npm WARN led2@1.0.0 No repository field.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! serialport@6.2.2 install: `prebuild-install || node-gyp rebuild`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the serialport@6.2.2 install script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Maxi Lopez\AppData\Roaming\npm-cache\_logs\2019-04-08T20_37_25_234Z-debug.log```
+07:24:49 - Pato (@pato):
+creo que es porque tenes configurada la version de python 3
+07:24:52 - Pato (@pato):
+y tendriasu qe tener la 2.7
+07:25:00 - Pato (@pato):
+googleate como configurar python 2 en node
+07:25:18 - Pato (@pato):
+ese gyp que se usa para buildear algunas cosas cuando instlas paquetes
+07:25:25 - Pato (@pato):
+tiene una dependencia con python 2.7
+07:25:54 - Pato (@pato):
+creo que podes hacer algo como:
+npm install --python=python2.7
+07:26:06 - Pato (@pato):
+fijate de tener instalado python 2 tmaiben, ademas de configurarlo
+07:26:22 - Pato (@pato):
+<https://www.python.org/download/releases/2.7/>
+07:27:02 - Pato (@pato):
+y despues podes mandarle
+&gt;npm config set python python2.7
+07:27:19 - Pato (@pato):
+puede que tengas que cerrar abri la consola o pegarle una reiniciada
+07:27:29 - Pato (@pato):
+para que se actualice la vairable de path en windows
+07:56:00 - Maxi (@tholem98):
+Dale, muchas gracias. Voy a probar eso
+09:19:01 - Santiago Ruffino (@santi_0898):
+Hola gente! Alguien que trabaje o conozca algo de Instapage? Estoy teniendo problemas con unas integraciones, y estoy casi seguro que es problema de la plataforma
+07:20:22 - Maxi (@tholem98):
+Tengo este error al intentar instalar firmata-party
+
+Alguien sabe que significa? Y como podria solucionarlo?
+
+```&gt; serialport@6.2.2 install C:\Users\Maxi Lopez\Desktop\Nodejs\Hardware\Led2\node_modules\avrgirl-arduino\node_modules\serialport
+&gt; prebuild-install || node-gyp rebuild
+
+prebuild-install WARN install No prebuilt binaries found (target=11.6.0 runtime=node arch=x64 platform=win32)
+
+C:\Users\Maxi Lopez\Desktop\Nodejs\Hardware\Led2\node_modules\avrgirl-arduino\node_modules\serialport&gt;if not defined npm_config_node_gyp (node "C:\Program Files\nodejs\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node "C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\bin\node-gyp.js" rebuild )
+gyp ERR! configure error
+gyp ERR! stack Error: Command failed: C:\Python37\python.EXE -c import sys; print "%s.%s.%s" % sys.version_info[:3];gyp ERR! stack   File "&lt;string&gt;", line 1
+gyp ERR! stack     import sys; print "%s.%s.%s" % sys.version_info[:3];
+gyp ERR! stack                                ^
+gyp ERR! stack SyntaxError: invalid syntax
+gyp ERR! stack
+gyp ERR! stack     at ChildProcess.exithandler (child_process.js:294:12)
+gyp ERR! stack     at ChildProcess.emit (events.js:188:13)gyp ERR! stack     at maybeClose (internal/child_process.js:978:16)
+gyp ERR! stack     at Process.ChildProcess._handle.onexit
+(internal/child_process.js:265:5)
+gyp ERR! System Windows_NT 10.0.17134
+gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"
+gyp ERR! cwd C:\Users\Maxi Lopez\Desktop\Nodejs\Hardware\Led2\node_modules\avrgirl-arduino\node_modules\serialport
+gyp ERR! node -v v11.6.0
+gyp ERR! node-gyp -v v3.8.0
+gyp ERR! not ok
+npm WARN led2@1.0.0 No description
+npm WARN led2@1.0.0 No repository field.
+
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! serialport@6.2.2 install: `prebuild-install || node-gyp rebuild`
+npm ERR! Exit status 1
+npm ERR!
+npm ERR! Failed at the serialport@6.2.2 install script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Maxi Lopez\AppData\Roaming\npm-cache\_logs\2019-04-08T20_37_25_234Z-debug.log```
+07:24:49 - Pato (@pato):
+creo que es porque tenes configurada la version de python 3
+07:24:52 - Pato (@pato):
+y tendriasu qe tener la 2.7
+07:25:00 - Pato (@pato):
+googleate como configurar python 2 en node
+07:25:18 - Pato (@pato):
+ese gyp que se usa para buildear algunas cosas cuando instlas paquetes
+07:25:25 - Pato (@pato):
+tiene una dependencia con python 2.7
+07:25:54 - Pato (@pato):
+creo que podes hacer algo como:
+npm install --python=python2.7
+07:26:06 - Pato (@pato):
+fijate de tener instalado python 2 tmaiben, ademas de configurarlo
+07:26:22 - Pato (@pato):
+<https://www.python.org/download/releases/2.7/>
+07:27:02 - Pato (@pato):
+y despues podes mandarle
+&gt;npm config set python python2.7
+07:27:19 - Pato (@pato):
+puede que tengas que cerrar abri la consola o pegarle una reiniciada
+07:27:29 - Pato (@pato):
+para que se actualice la vairable de path en windows
+07:56:00 - Maxi (@tholem98):
+Dale, muchas gracias. Voy a probar eso
+09:19:01 - Santiago Ruffino (@santi_0898):
+Hola gente! Alguien que trabaje o conozca algo de Instapage? Estoy teniendo problemas con unas integraciones, y estoy casi seguro que es problema de la plataforma
+10:09:45 - Santiago Ruffino (@santi_0898):
+Jodo de nuevo. Tengo instalado un certificado HTTPS en mi droplet, y todo lo que entra SIN puerto, redirige al puerto 8069. Necesito instalar el certificado HTTPS en mi puerto 5000 que tengo un docker corriendo.
+10:09:56 - Santiago Ruffino (@santi_0898):
+Como puedo agregar el HTTPS a ese puerto, sin romper todo lo otro?
+10:11:53 - Martín Valdés de León (@mvaldesdeleon):
+lo mas facil es instalar nginx en el droplet
+10:11:59 - Martín Valdés de León (@mvaldesdeleon):
+firewallear todo salvo nginx dde el mundo exterior
+10:12:15 - Martín Valdés de León (@mvaldesdeleon):
+poner TLS/SSL en nginx, y reverse proxy a lo que quieras (en tu caso, el docker)
+10:12:47 - Santiago Ruffino (@santi_0898):
+Perfecto, gracias :+1::skin-tone-2:
+10:38:18 - Ariel Mergen (@carlosariel.mergen):
+Muy buenos días! estoy aprendiendo React y me encuentro con una duda. Estoy haciendo un crud y luego de hacer el alta de un registro, redirijo al listado principal y lo que me sucede es que no me actualiza la lista de elementos. Tiene algo que ver React Router en todo esto? muchísimas gracias de antemano.
+10:39:00 - Leandro Echevarria (@echevarrialeandro):
+Cuando se monta el componente que contiene la lista, tiene que ir a buscar la data de la lista para que se actualice
+10:41:16 - Ariel Mergen (@carlosariel.mergen):
+Muchagracias <@U873ZQTEG> te cuento que estoy usando react-cache
+10:41:25 - Rodrigo Ali (@rodrigojali):
+¿Tenés a mano el código de cómo se carga la lista y cómo estás actualizándola?
+10:41:42 - Rodrigo Ali (@rodrigojali):
+BTW, por si te sirve, hay un channel <#C045DPHNR|reactjs>
+10:42:08 - Ariel Mergen (@carlosariel.mergen):
+``` import {unstable_createResource as createResource} from "react-cache";
+import {fetchAll as warningFetchAll} from "./../../utils/warning";
+
+const resultToResourceData = ([warning]) =&gt; ({
+  warning
+});
+
+const fetchResourceData = () =&gt;
+  Promise.all([warningFetchAll()]).then(resultToResourceData);
+
+const listPageResource = createResource(fetchResourceData);
+
+export default listPageResource;```
+10:42:39 - Ariel Mergen (@carlosariel.mergen):
+si refresco la página con f5 vuelve a consultar.
+10:43:54 - Rodrigo Ali (@rodrigojali):
+No sé cómo funca react-cache la verdad porque nunca lo usé, pero asumo que te está cacheando los datos para no volver a llamar al servicio que sea para traer datos.
+10:44:07 - Rodrigo Ali (@rodrigojali):
+Sorry =(
+10:45:38 - Ariel Mergen (@carlosariel.mergen):
+claro precisamente eso me sucede, habra alguna forma de hacer un reaload ? por otro lado <@UFFG5EPGU>  muchas gracias estaba consultando en react
+10:46:21 - Martín Aimar (@maimar):
+cómo es tu `componentDidMount`?
+10:46:55 - Ariel Mergen (@carlosariel.mergen):
+estoy usando hooks
+10:47:20 - Ariel Mergen (@carlosariel.mergen):
+``` const ListPage = (props: Props) =&gt; {
+  const resourceData = listPageResource.read();
+  return render(props, resourceData, useState(initialState));
+};```
+10:47:32 - Ariel Mergen (@carlosariel.mergen):
+esta es la page que toma los datos
+10:51:08 - Ari Sanguinetti (@arielsanguinetti):
+como configuraste el hook?
+10:52:15 - Ariel Mergen (@carlosariel.mergen):
+``` import React, {useState} from "react";
+import styled, {css} from "styled-components";
+
+import ListPageView from "./ListPageView";
+import listPageResource from "./listPageResource";
+import withSuspense from "../../../../../utils/react/withSuspense";
+
+const initialState = {};
+
+type Props = {||};
+
+const getPropsFromResourceData = ({warning}) =&gt; {
+  return {
+    warningFormMessage: warning
+  };
+};
+
+const render = (props, resourceData, [state, updateState]) =&gt; (
+  &lt;ListPageView {...state} {...getPropsFromResourceData(resourceData)} /&gt;
+);
+
+const ListPage = (props: Props) =&gt; {
+  const resourceData = listPageResource.read();
+  return render(props, resourceData, useState(initialState));
+};
+
+export default withSuspense(() =&gt; &lt;Loading&gt;Loading&lt;/Loading&gt;)(ListPage);```
+10:53:36 - Ari Sanguinetti (@arielsanguinetti):
+tendrias que usar useEffect para que actualice
+10:55:14 - Ari Sanguinetti (@arielsanguinetti):
+useEffect es el “reemplazo” de componentDidMount y componentDidUpdate
+10:56:43 - Ariel Mergen (@carlosariel.mergen):
+useEffect lo utilizaría en el render?
+10:59:40 - Ari Sanguinetti (@arielsanguinetti):
+sep
+11:01:55 - Ari Sanguinetti (@arielsanguinetti):
+lo unico, fijate de no hacer return de una funcion dentro del useEffect, si devolves una funcion, se va a ejecutar como funcionaba el componentWillUnmount
+11:57:14 - Ariel Mergen (@carlosariel.mergen):
+<@UHRT1R5R6> trate de usar el effect pero no puede
+11:57:36 - Ariel Mergen (@carlosariel.mergen):
+```const ListPage = (props: Props) =&gt;
+  render(props, listPageResource.read(), useState(initialState)); ```
+11:59:30 - Ariel Mergen (@carlosariel.mergen):
+Podré molestarte con una mano?
+12:05:51 - Ari Sanguinetti (@arielsanguinetti):
+Estoy en wl subte camino al laburo
+12:06:35 - Ari Sanguinetti (@arielsanguinetti):
+Mandame por DM si querés veo cuando llego a oa oficina
+12:07:22 - Ariel Mergen (@carlosariel.mergen):
+ahh perdon, dale si no es molestia te escribo gracias!
+12:48:25 - Pato (@pato):
+dale, despues contá como te fue
+14:33:23 - Fernando Pelliccioni (@fpelliccioni):
+buenas, alguno configuró un `Azure Point-To-Site VPN` desde Fedora alguna vez?
+15:41:19 - Maxi (@tholem98):
+Me sucedio algo extraño y no se bien donde consultar. Espero puedan ayudarme y si no es el lugar para preguntar me lo hagan saber y sepan disculpar:
+
+Estoy en una pagina llamada <http://freelancer.com|freelancer.com> donde de vez en cuando me postulo para proyectos de desarrollo, hoy al medio dia me postulé a uno en el que pedian desarrollar un sitioweb con un template personalizado, y me contactaron, me pidieron que les hable por skype y en skype me dijeron que lo que necesitaban era que yo me hiciera una cuenta en upwork, no se si lo conocen, y les vendiera la cuenta. 
+
+Alguien sabe algo al respecto o pueda orientarme sobre eso? Ya que me parecio sumamente extraño
+15:42:11 - Dario Miñones (@dminones):
+creo que alguien habia comentado que en algunos paises no pueden crear cuenta
+15:42:13 - Gonzalo González Mora (@gonzalogm):
+A mi me contactaron hace poco en LinkedIn por eos, aparentemente en China está blockeado
+15:42:20 - Dario Miñones (@dminones):
+entonces buscan este truco
+15:42:21 - Gonzalo González Mora (@gonzalogm):
+Pero no revisé
+15:43:39 - Maxi (@tholem98):
+Aah, si. Me comentó que no podia hacerse una cuenta nueva porque su direccion IP ya habia sido usada con otra cuenta que tuvo y que no puede usar
+15:44:09 - Maxi (@tholem98):
+Entonces dicen que es algo comun y que aproveche?
+16:50:02 - Gonza Espeche (@espeche.g):
+es algo medio turbina ya de por si… andá a saber si upwork se pone la gorra y le baja la caña a cualquier involucrado
+16:54:12 - Santiago Ruffino (@santi_0898):
+Biyuya facil, pero turbia
+16:55:51 - Martín Valdés de León (@mvaldesdeleon):
+Yo me abstendria. Anda a saber si no terminas dps en alguna blacklist porque estas poniendo tu nombre.
+16:56:19 - Martín Valdés de León (@mvaldesdeleon):
+Si es por evitar un region lock de IP podrian usar una VPN, y gastar la guita en eso.
+17:06:34 - Roberto (@robertojosebrizuela):
+Hola gente! alguien que me de una mano con este error. intento instalar jspdf en un server , agradecido el que me tire un centro
+17:07:28 - Santiago Ruffino (@santi_0898):
+Tenes git instalado en el server?
+17:08:06 - Roberto (@robertojosebrizuela):
+no
+17:08:47 - Roberto (@robertojosebrizuela):
+pero queria evitar instalarlo, busque el error y no entiendo que pasa
+17:08:48 - Santiago Ruffino (@santi_0898):
+Proba de instalarlo. Porque cuando estas haciendo el `npm install` hay un comando "interno" que usa git
+17:11:06 - Roberto (@robertojosebrizuela):
+ahora me genera un poco de desconfianza el uso de jspdf , jeje
+17:11:31 - Roberto (@robertojosebrizuela):
+no se si alguien habra tenido kilombos usandola
+17:12:44 - Roberto (@robertojosebrizuela):
+gracias <@U9KMYNJMV>, si no encuentro alguna soluciona mas especifica instalo git en el server
+17:14:46 - Santiago Ruffino (@santi_0898):
+Parece que es la forma de instalar ese modulo. Como si no estuviera en algun lado "oficial", entonces tiene que buscar el repo en GitHub
+17:14:51 - Marcos Casagrande (@marcoscvp90):
+Esa es la solución igual, instalar git, porque algunas dependencias se instalan vía git.
+17:14:56 - Santiago Ruffino (@santi_0898):
+Igual, espera que alguien mas te conteste :+1::skin-tone-2:
+17:15:31 - Marcos Casagrande (@marcoscvp90):
+si algo en el package.json tiene: `github:repo/foo`, NPM va a pullearlo de ahí, y para eso necesita git.
+17:16:33 - Marcos Casagrande (@marcoscvp90):
+De hecho ahí en el error te tira cual es dicha dependencia, es: `fileSaver.js`
+17:17:30 - Roberto (@robertojosebrizuela):
+gracias <@UGQTUDQSG> :+1:
+17:19:18 - Marcos Casagrande (@marcoscvp90):
+La última versión no usa git, fijate que estés instalando la última, mirá los commits:
+
+*Acá se agregó la dependencia vía git*
+<https://github.com/MrRio/jsPDF/commit/55c48519c0a12f79f89a30b91f73630060e7480c#diff-b9cfc7f2cdf78a7f4b91a753d10865a2>
+
+Pero en la última versión ya no la tiene vía git.
+17:19:36 - Marcos Casagrande (@marcoscvp90):
+Acá hizo el revert: <https://github.com/MrRio/jsPDF/commit/63ec96332049f86095fdba97b5b842f7277104e8#diff-b9cfc7f2cdf78a7f4b91a753d10865a2>
+17:25:14 - Roberto (@robertojosebrizuela):
+estoy usando la ultima marcos
+17:28:10 - Daniel Broder (@dabroder):
+<@UBRUYAQ79> `jspdf` es una librería client side, no creo que ande derecho en node.js
+17:31:30 - Roberto (@robertojosebrizuela):
+y como seria el deploy entonces <@U362CHTL7>, no me ubico ahora
+17:31:38 - Marcos Casagrande (@marcoscvp90):
+tendrás cacheado <@UBRUYAQ79>, porque no tienen dependencias con git la última, tirá: `npm install jspdf@1.5.3`
+17:31:55 - Daniel Broder (@dabroder):
+ahh entendí mal
+17:33:27 - Roberto (@robertojosebrizuela):
+no marcos sigue igual
+17:33:28 - Daniel Broder (@dabroder):
+ahí vi
+17:33:41 - Daniel Broder (@dabroder):
+<https://cdn.jsdelivr.net/npm/jspdf@1.5.3/package.json>
+17:34:34 - Daniel Broder (@dabroder):
+`"file-saver": "eligrey/FileSaver.js#1.3.8"` que macana
+17:36:08 - Daniel Broder (@dabroder):
+tiene una dependencia directa a un repo
+17:36:54 - Roberto (@robertojosebrizuela):
+entonces tendria que instalar git en el server?, segun esto
+17:38:23 - Marcos Casagrande (@marcoscvp90):
+Es raro, entonces no actualizó, ahí te digo que versión podés usar, porque en master está fixeado.
+17:38:39 - Marcos Casagrande (@marcoscvp90):
+Yo supuse que lo que estaba en github era lo que tenía en npm, ahí te digo que versión tenés que instalar
+17:39:37 - Marcos Casagrande (@marcoscvp90):
+Hacelo con la 1.5.2
+17:39:44 - Marcos Casagrande (@marcoscvp90):
+`npm install jspdf@1.5.2`
+17:39:53 - Marcos Casagrande (@marcoscvp90):
+<https://github.com/MrRio/jsPDF/blob/v1.5.2/package.json>
+17:41:28 - Roberto (@robertojosebrizuela):
+esa anduvo marcos genial, la 1.5.2
+17:41:47 - Roberto (@robertojosebrizuela):
+entonces sera que hay diferencias entre la version de git y la de npm?
+17:42:05 - Marcos Casagrande (@marcoscvp90):
+Se ve que va a hacer un release nuevo, la 1.5.4 sin github.
+17:42:34 - Marcos Casagrande (@marcoscvp90):
+Entonces ahí está la diferencia, entre lo que está en NPM y master.
+17:43:32 - Daniel Broder (@dabroder):
+probablemente hay diff, alguna vez tuve que buildearla con rollup para poder importarla con webpack
+17:45:19 - Roberto (@robertojosebrizuela):
+gracias <@U362CHTL7> y <@UGQTUDQSG> por su ayuda!
+17:47:27 - Martín Valdés de León (@mvaldesdeleon):
+En general no hay ninguna garantia de que el codigo que esta en github sea lo que esta publicado a npm. Es una de las limitaciones.
+17:47:55 - Martín Valdés de León (@mvaldesdeleon):
+(Y tampoco es requisito alguno que el codigo este publicado en algun lado, para subir algo a npm)
+17:57:51 - Maxi (@tholem98):
+Necesito consumir una api que me proporciona una empresa, generalmente estoy acostumbrado a generarlas yo con mongoose y consumirlas por allí. Asi que no se como obtener el json de allí en mi get. Se que quiero utilizar un res.json() y pasarle adentro el objeto con todos los datos pero no se como guardar esos datos. Generalmente lo hacia llamando a un schema de mongoose y obteniendo todo con find(). Ahi paso el codigo
+17:59:28 - Maxi (@tholem98):
+```
+request({
+  method: 'GET',
+  url: '<https://aerolab-challenge.now.sh/products>',
+  headers: {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+    'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Y2IxMTNiMWVhMWExMjAwNmNiNjUxMzAiLCJpYXQiOjE1NTUxMDg3ODV9.x9a4_E5eVwnjOmpagTFKJYxP1bC2QMOjiGyUuWHf3us'
+  }}, function (error, response, body) {
+  console.log('Status:', response.statusCode);
+  console.log('Headers:', JSON.stringify(response.headers));
+  console.log('Response:', body); //este console.log me consolea lo que quiero enviar al res.json( ) del app.get
+  
+});
+
+app.get('/', async (request,res)=&gt;{
+    res.json(request.body)
+})
+```
+18:03:02 - Gonzalo González Mora (@gonzalogm):
+Llamá a ese request dentro de tu app.get
+18:03:14 - Gonzalo González Mora (@gonzalogm):
+Y en evz del console log le mandás el res.json
+18:09:43 - Maxi (@tholem98):
+Dale, muchas gracias. Ahi funcionó. Habia intentado eso pero con el res.json( ) por fuera del request({ }).
+18:26:33 - Gonzalo González Mora (@gonzalogm):
+Claro. Si lo hacés fuera del request, otdavía no vas a tener la respuesta de la API entonces no vas a devolver nada
+18:26:44 - Gonzalo González Mora (@gonzalogm):
+Porque es asincrónica la llamada
+18:29:40 - Maxi (@tholem98):
+Claro, si. El json que obtuve tiene barras (\) entre cada valor, clave, y entre si. Y cuando escribo ```body.name``` por ejemplo, obtengo un undefine
+18:30:34 - Marcos Casagrande (@marcoscvp90):
+Es que no es un `object`, es una `string`, `JSON.parse(body)` o sino `json: true` como option a `request`
+18:32:50 - Maxi (@tholem98):
+Aaaaah, cierto!!
+18:37:08 - Maxi (@tholem98):
+Muchas gracias
+19:18:20 - Fernando Pelliccioni (@fpelliccioni):
+Nadie?
+20:23:21 - Luis Alvarez (@luistensai):
+por ahí podrías preguntar en nardoz :trollface:
