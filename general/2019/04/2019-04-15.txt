@@ -1,0 +1,152 @@
+03:19:43 - Martín Valdés de León (@mvaldesdeleon):
+eso, pregunta directo
+04:53:28 - a0viedo (@a0viedo):
+después veo de agregarlo, los entornos necesitan tokens por lo que por eso la configuración no es pública
+10:05:47 - Martin Carrera (@mcarrera):
+<#C1PK6J98Q|react-native>
+10:28:26 - Cristhian Duran (@cris):
+cuando redacte la lista de mandamientos (? de meetup.js voy a poner como primer punto: _PROHIBIDO preguntar si alguien usa/conoce X, preguntar directamente_
+10:31:57 - Cristhian Duran (@cris):
+anímense a preguntar :slightly_smiling_face:
+10:34:40 - Santiago Ruffino (@santi_0898):
+Era para no spamear el grupo con una consiga, por eso preferia que alguien me ayude por privado. Como no era consulta tipo "No me funciona X libreria de Python", y era tipo "No entiendo este enunciado" no me parecia mandarlo en el channel
+10:35:02 - Cristhian Duran (@cris):
+no es mala la intención, está genial
+10:35:36 - Cristhian Duran (@cris):
+pero no es nada privado y todos y todas nos enriquecemos de leer esas cosas, siempre está bueno tocar de oído cosas que uno no hace
+11:08:27 - Sebastian Waisbrot (@seppo0010):
+personalmente no respondería a "alguien sabe de python" pero si hay una pregunta de python y sé la respuesta sí respondería
+11:14:19 - Sergio Daniel Xalambrí (@sergiodxa):
+<@U9KMYNJMV> el problema es lo que dice <@U24KJ4JET>, si preguntan en público se benefician todos con la respuesta
+11:14:47 - Sergio Daniel Xalambrí (@sergiodxa):
+si preguntan por privado solo te beneficias vos, es egoista
+11:15:41 - Santiago Ruffino (@santi_0898):
+Claro, esta perfecto. Normalmente pregunto directamente, pero bueno, no me parecio la situacion para hacerlo. Pero no hay drama, entiendo perfectamente el punto
+11:15:46 - Santiago Ruffino (@santi_0898):
+Despues, les comparto las consignas
+11:15:59 - Santiago Ruffino (@santi_0898):
+Anoche tuve que hacer 3 ejercicios para una entrevista, y los enunciados estaban medios raros
+11:18:39 - Ezequiel Leites (@leites25):
+Si, en Codility son medio raros, tuve un ejercicio que no entendia lo que hacia el método a refactorizar y nada, estaba perdiendo mucho tiempo :man-shrugging:
+11:24:14 - Martín Valdés de León (@mvaldesdeleon):
+A mi me gusta tratar de ayudar aun si no se, muchas veces he respondido preguntas que ni tenia idea pero con la info que postearon pude conseguir la respuesta.
+16:52:44 - Gonza Espeche (@espeche.g):
+recomiendan para proyectos freelance usar la database gratuita de firebase?
+17:00:36 - Marcos Casagrande (@marcoscvp90):
+Definí freelance. Porque me parece que te estás refiriendo a proyectos chicos que estés haciendo por ahí, no?
+17:20:52 - Martín Aimar (@maimar):
+lo que te recomiendo es que no lo pongas en tu cuenta personal
+17:21:05 - Gonza Espeche (@espeche.g):
+Si, es algo chico que ni a palos supera la zona gratuita. Pasa que veo que es bastante fácil de configurar, y tengo dudas de la confiabilidad de estos servicios de backend para futuros proyectos también.
+17:22:38 - Gonza Espeche (@espeche.g):
+oka <@UC1QYJACE>, y por que lo decís?
+17:24:07 - Martín Aimar (@maimar):
+porque el día de mañana cuando te quieras desligar el proyecto lo tenés metido en tu cuenta, y quizás en algún momento se pone a facturar y es un bajón la situación
+17:24:48 - Lupe (@lportias):
+Seguro que ya lo vieron... pero esta bueno!!
+17:25:02 - Rodrigo Ali (@rodrigojali):
+No puede fallar.
+17:25:26 - Gonza Espeche (@espeche.g):
+ah, buen punto ese.
+17:28:20 - Gonza Espeche (@espeche.g):
+y generalmente que usan para manejarle el backend a un proyecto front?
+17:28:37 - Martín Aimar (@maimar):
+depende la complejidad, qué tenés que hacer?
+17:33:35 - Gonza Espeche (@espeche.g):
+una herramienta que genere códigos QR y los guarde en una BD
+19:17:34 - Pato (@pato):
+che para trabajar con bases de datos postgres, recomiendan algo que no sea pg admin?
+19:17:40 - Pato (@pato):
+(estoy desde mac)
+19:19:28 - Silvio Messina (@smessina):
+<@U5EM9L9T3> Sequel Pro
+19:19:39 - Pato (@pato):
+a ver eso, gracias Silvio
+19:20:16 - Pato (@pato):
+por lo que veo dice que es para mysql, funca con postgres tmb <@U86A4QH8U>?
+19:21:29 - Martín Aimar (@maimar):
+tableplus <@U5EM9L9T3>
+19:21:39 - Pato (@pato):
+a ver esa, gracias Martín
+19:22:54 - Silvio Messina (@smessina):
+Creo que habia instalado un conector de 3ero :S
+19:24:41 - Pato (@pato):
+ahhhhh, tiene sentido
+19:24:42 - Pato (@pato):
+graciasss
+03:19:43 - Martín Valdés de León (@mvaldesdeleon):
+eso, pregunta directo
+04:53:28 - a0viedo (@a0viedo):
+después veo de agregarlo, los entornos necesitan tokens por lo que por eso la configuración no es pública
+10:05:47 - Martin Carrera (@mcarrera):
+<#C1PK6J98Q|react-native>
+10:28:26 - Cristhian Duran (@cris):
+cuando redacte la lista de mandamientos (? de meetup.js voy a poner como primer punto: _PROHIBIDO preguntar si alguien usa/conoce X, preguntar directamente_
+10:31:57 - Cristhian Duran (@cris):
+anímense a preguntar :slightly_smiling_face:
+10:34:40 - Santiago Ruffino (@santi_0898):
+Era para no spamear el grupo con una consiga, por eso preferia que alguien me ayude por privado. Como no era consulta tipo "No me funciona X libreria de Python", y era tipo "No entiendo este enunciado" no me parecia mandarlo en el channel
+10:35:02 - Cristhian Duran (@cris):
+no es mala la intención, está genial
+10:35:36 - Cristhian Duran (@cris):
+pero no es nada privado y todos y todas nos enriquecemos de leer esas cosas, siempre está bueno tocar de oído cosas que uno no hace
+11:08:27 - Sebastian Waisbrot (@seppo0010):
+personalmente no respondería a "alguien sabe de python" pero si hay una pregunta de python y sé la respuesta sí respondería
+11:14:19 - Sergio Daniel Xalambrí (@sergiodxa):
+<@U9KMYNJMV> el problema es lo que dice <@U24KJ4JET>, si preguntan en público se benefician todos con la respuesta
+11:14:47 - Sergio Daniel Xalambrí (@sergiodxa):
+si preguntan por privado solo te beneficias vos, es egoista
+11:15:41 - Santiago Ruffino (@santi_0898):
+Claro, esta perfecto. Normalmente pregunto directamente, pero bueno, no me parecio la situacion para hacerlo. Pero no hay drama, entiendo perfectamente el punto
+11:15:46 - Santiago Ruffino (@santi_0898):
+Despues, les comparto las consignas
+11:15:59 - Santiago Ruffino (@santi_0898):
+Anoche tuve que hacer 3 ejercicios para una entrevista, y los enunciados estaban medios raros
+11:18:39 - Ezequiel Leites (@leites25):
+Si, en Codility son medio raros, tuve un ejercicio que no entendia lo que hacia el método a refactorizar y nada, estaba perdiendo mucho tiempo :man-shrugging:
+11:24:14 - Martín Valdés de León (@mvaldesdeleon):
+A mi me gusta tratar de ayudar aun si no se, muchas veces he respondido preguntas que ni tenia idea pero con la info que postearon pude conseguir la respuesta.
+16:52:44 - Gonza Espeche (@espeche.g):
+recomiendan para proyectos freelance usar la database gratuita de firebase?
+17:00:36 - Marcos Casagrande (@marcoscvp90):
+Definí freelance. Porque me parece que te estás refiriendo a proyectos chicos que estés haciendo por ahí, no?
+17:20:52 - Martín Aimar (@maimar):
+lo que te recomiendo es que no lo pongas en tu cuenta personal
+17:21:05 - Gonza Espeche (@espeche.g):
+Si, es algo chico que ni a palos supera la zona gratuita. Pasa que veo que es bastante fácil de configurar, y tengo dudas de la confiabilidad de estos servicios de backend para futuros proyectos también.
+17:22:38 - Gonza Espeche (@espeche.g):
+oka <@UC1QYJACE>, y por que lo decís?
+17:24:07 - Martín Aimar (@maimar):
+porque el día de mañana cuando te quieras desligar el proyecto lo tenés metido en tu cuenta, y quizás en algún momento se pone a facturar y es un bajón la situación
+17:24:48 - Lupe (@lportias):
+Seguro que ya lo vieron... pero esta bueno!!
+17:25:02 - Rodrigo Ali (@rodrigojali):
+No puede fallar.
+17:25:26 - Gonza Espeche (@espeche.g):
+ah, buen punto ese.
+17:28:20 - Gonza Espeche (@espeche.g):
+y generalmente que usan para manejarle el backend a un proyecto front?
+17:28:37 - Martín Aimar (@maimar):
+depende la complejidad, qué tenés que hacer?
+17:33:35 - Gonza Espeche (@espeche.g):
+una herramienta que genere códigos QR y los guarde en una BD
+19:17:34 - Pato (@pato):
+che para trabajar con bases de datos postgres, recomiendan algo que no sea pg admin?
+19:17:40 - Pato (@pato):
+(estoy desde mac)
+19:19:28 - Silvio Messina (@smessina):
+<@U5EM9L9T3> Sequel Pro
+19:19:39 - Pato (@pato):
+a ver eso, gracias Silvio
+19:20:16 - Pato (@pato):
+por lo que veo dice que es para mysql, funca con postgres tmb <@U86A4QH8U>?
+19:21:29 - Martín Aimar (@maimar):
+tableplus <@U5EM9L9T3>
+19:21:39 - Pato (@pato):
+a ver esa, gracias Martín
+19:22:54 - Silvio Messina (@smessina):
+Creo que habia instalado un conector de 3ero :S
+19:24:41 - Pato (@pato):
+ahhhhh, tiene sentido
+19:24:42 - Pato (@pato):
+graciasss
