@@ -1,0 +1,651 @@
+09:02:01 - Mariano Ramonda (@ing.inf.mariano):
+<https://overreacted.io/things-i-dont-know-as-of-2018/>
+09:33:36 - Gonza Espeche (@espeche.g):
+```Serverless. Also sounds cool. Never tried it. I don't have a clear idea of how that model changes backend programming (if it does at all).```
+Adhiero en esta.
+11:20:51 - Martin Gonzalez (@martin2786):
+Buenas! Que opinan de ofertas como estas? me parece muuy bajo el sueldo y que tienen muchos beneficios absurdos como las 2 meriendas con galletitas.
+11:21:42 - Rodrigo Ali (@rodrigojali):
+Depende, ¿para qué puesto y seniority es, y en que provincia?
+11:21:57 - Rodrigo Ali (@rodrigojali):
+A mi me parece "oferta para Ssr en Córdoba promedio"
+11:22:05 - Gonza Gluzman (@gonza):
+`Meriendas con galletitas 2 veces por semana`??
+11:22:08 - Pablo Miceli (@pablomiceli24):
+yo estoy en ese rango q_q
+11:22:14 - Gonza Gluzman (@gonza):
+Todo bien, pero ese beneficio los hace quedar mal
+11:22:18 - Gonza Gluzman (@gonza):
+Mejor no ponerlo
+11:22:36 - Lucas Goncalves (@goncalveslucasv):
+Mal jajaja
+11:22:48 - Juan Scolari (@juanscolari):
+`sillón masajeador`
+11:23:00 - Lupe (@lportias):
+me mato lo del Paruqe Las Heras!!! no es un beneficio de la empresa... es un beneficio de la zona!!
+11:23:08 - Lucas Goncalves (@goncalveslucasv):
+65k brutos son 1.2k usd en mano
+11:23:09 - Martin Gonzalez (@martin2786):
+Es en recoleta, no especifica seniority pero estos son los requerimientos:
+Desarrollador/a .NET para aplicaciones hechas a medida:
+
+Conocimientos técnicos requeridos
+Excluyente
+● C# 4.5 o superior
+● <http://ASP.NET|ASP.NET> MVC 4 o superior
+● Razor
+● Microsoft SQL Server 2008 o superior
+● Web Api
+Deseable
+● AngularJS
+● Angular 4 o superior
+● Javascript, JQuery
+● Net Core
+● WCF
+● Git
+11:23:16 - Lupe (@lportias):
+(a menos que te den las lonas y la comida para el picnic)
+11:23:17 - Leandro Echevarria (@echevarrialeandro):
+`gastamos en beneficios garompa para no pagarles mas sueldo`
+11:23:42 - Gonza Gluzman (@gonza):
+Pero beneficios *muy* garompa
+11:23:51 - Juan Scolari (@juanscolari):
+trabaje al lado de parque las heras y nunca aproveche esos beneficios :smile:
+11:23:54 - Gonzalo González Mora (@gonzalogm):
+Encima 2 veces por semana :rat:
+11:24:01 - Gonza Gluzman (@gonza):
+Falta que pongan `Papel higiénico doble hoja`
+11:24:05 - Gonzalo González Mora (@gonzalogm):
+jajajajajajajajajaj
+11:24:13 - Gonzalo González Mora (@gonzalogm):
+Te faltó `los viernes`
+11:24:42 - Rodrigo Ali (@rodrigojali):
+Para Buenos Aires me parece poco =(
+11:24:49 - Lupe (@lportias):
+yo tambien... nunca se me ocurrio ir a almorzar a la plaza... y estuve mas de 10 años ahi cerca...
+11:25:21 - Rodrigo Ali (@rodrigojali):
+¿Netos*?
+11:25:51 - Pablo Miceli (@pablomiceli24):
+yo no entiendo mucho ese approach de "llenar de beneficios" a los empleados. Si a la hora de elegir laburo, esas cosas se ignoran por completo.. no te va a ayudar a retener gente, o si?
+11:26:24 - Marcos Casagrande (@marcoscvp90):
+El beneficio que suma al sueldo si, pero si el sueldo es malísimo, no suma nada.
+11:26:50 - Leandro Echevarria (@echevarrialeandro):
+Se "supone" que usan consultoras y toda una sarta de chamuyos para sondear el mercado a ver qué ofrecen. Me parece que hacen muy mal el laburo porque siguen ofreciendo todas esas porquerias
+11:26:53 - Marcos Casagrande (@marcoscvp90):
+O sea, si te ofrecen almuerzo gratis todos los días, sabés que ahí estás ahorrando 2 lucas por ejemplo.
+11:26:54 - Lupe (@lportias):
+si te dan el almuerzo es un tema... por que realmente a fin de mes es un dineral... pero despues si tienen galletitas, nacks o te o cafe es al re pedo
+11:27:11 - Lupe (@lportias):
+<@UGQTUDQSG> o mas!!
+11:27:13 - Rodrigo Ali (@rodrigojali):
+Es que para mi ya no deberían ser considerados "beneficios".
+11:27:21 - Pablo Miceli (@pablomiceli24):
+claro, el amuerzo gratis es un re buen beneficio por ejemplo
+11:27:26 - Marcos Casagrande (@marcoscvp90):
+Si, puse una media, pero yo me gastaba 3-4 en almorzar todos los meses.
+11:27:27 - Rodrigo Ali (@rodrigojali):
+O sea, posta, ¿por qué es un "beneficio" si todas las empresas IT ya lo hacen?
+11:27:47 - Rodrigo Ali (@rodrigojali):
+No estás sobresaliendo sobre las otras, no estás dando un "beneficio" real.
+11:27:55 - Juan Scolari (@juanscolari):
+pedias delivery todos los dias como Paola Krum? :stuck_out_tongue:
+11:28:16 - Charly Frutos (@carlos):
+jajjajjaja genial lo de las galletitas 2 veces por semana
+11:28:17 - Juan Scolari (@juanscolari):
+porque es chamuyo para rellenar la hoja
+11:28:31 - Charly Frutos (@carlos):
+como vas a poner eso
+11:28:36 - ari (@adiaz):
+jajajajajaa
+11:28:45 - Juan Scolari (@juanscolari):
+como cuando ponemos falopa que no suma en el cv
+11:28:53 - Marcos Casagrande (@marcoscvp90):
+Hay beneficios útiles y otros no tanto. Ponele a la gente que va al gimnasio, si le ofrecen membresía, le suma al sueldo, a mi que no voy, no me va ni me viene, prefiero que me pague 1 luca extra.
+11:29:03 - Rodrigo Ali (@rodrigojali):
+Es como poner "hice el primario acá, y el secundario allá, y un terciario allá" en un CV. Si hiciste un terciario, se sobre-entiende que tenés los otros 2. Si estás en IT, se entiende que esos "beneficios" ya los estás dando de cajón.
+11:29:12 - Charly Frutos (@carlos):
+Claro, uno me mandó un CV y puso el nombre del jardín de infantes al que fue, esa es la otra cara de la moneda
+11:29:18 - Marcos Casagrande (@marcoscvp90):
+jajajaja
+11:29:20 - Lupe (@lportias):
+claro... yo a hora de beneficios veo la distancia que tengo que viajar, si dan almuerzo o no... si hay bonos... el resto no me sirve nada... por que generalmente soy muy fifi con los tes, entonces me llevo yo.. y como estoy con una dieta especifica lo es snacks los tengo prohibidos...
+11:29:44 - Rodrigo Ali (@rodrigojali):
+De una Marcos, pero hay beneficios generalistas como "pagarte el sueldo" por ejemplo que aplican A TODOS. Darte X días de WFH a la semana que aplican a TODOS, etc.
+11:29:45 - Pablo Miceli (@pablomiceli24):
+estas diciendo que mi curso de cocina no suma? las recetas son algoritmos (?
+11:29:58 - Charly Frutos (@carlos):
+Encima el nombre del jardín de infantes era "El trencito chú-chú" o algo así. Obviamente lei hasta ahi
+11:30:01 - Marcos Casagrande (@marcoscvp90):
+Me gusta el buen comer, que puedo decir jaja.
+11:30:03 - Rodrigo Ali (@rodrigojali):
+Está bueno tener beneficios en gimnasios, lugares para comprar ropa, etc? seguro. Pero para mi son menos "importantes" que los otros
+09:02:01 - Mariano Ramonda (@ing.inf.mariano):
+<https://overreacted.io/things-i-dont-know-as-of-2018/>
+09:33:36 - Gonza Espeche (@espeche.g):
+```Serverless. Also sounds cool. Never tried it. I don't have a clear idea of how that model changes backend programming (if it does at all).```
+Adhiero en esta.
+11:20:51 - Martin Gonzalez (@martin2786):
+Buenas! Que opinan de ofertas como estas? me parece muuy bajo el sueldo y que tienen muchos beneficios absurdos como las 2 meriendas con galletitas.
+11:21:42 - Rodrigo Ali (@rodrigojali):
+Depende, ¿para qué puesto y seniority es, y en que provincia?
+11:21:57 - Rodrigo Ali (@rodrigojali):
+A mi me parece "oferta para Ssr en Córdoba promedio"
+11:22:05 - Gonza Gluzman (@gonza):
+`Meriendas con galletitas 2 veces por semana`??
+11:22:08 - Pablo Miceli (@pablomiceli24):
+yo estoy en ese rango q_q
+11:22:14 - Gonza Gluzman (@gonza):
+Todo bien, pero ese beneficio los hace quedar mal
+11:22:18 - Gonza Gluzman (@gonza):
+Mejor no ponerlo
+11:22:36 - Lucas Goncalves (@goncalveslucasv):
+Mal jajaja
+11:22:48 - Juan Scolari (@juanscolari):
+`sillón masajeador`
+11:23:00 - Lupe (@lportias):
+me mato lo del Paruqe Las Heras!!! no es un beneficio de la empresa... es un beneficio de la zona!!
+11:23:08 - Lucas Goncalves (@goncalveslucasv):
+65k brutos son 1.2k usd en mano
+11:23:09 - Martin Gonzalez (@martin2786):
+Es en recoleta, no especifica seniority pero estos son los requerimientos:
+Desarrollador/a .NET para aplicaciones hechas a medida:
+
+Conocimientos técnicos requeridos
+Excluyente
+● C# 4.5 o superior
+● <http://ASP.NET|ASP.NET> MVC 4 o superior
+● Razor
+● Microsoft SQL Server 2008 o superior
+● Web Api
+Deseable
+● AngularJS
+● Angular 4 o superior
+● Javascript, JQuery
+● Net Core
+● WCF
+● Git
+11:23:16 - Lupe (@lportias):
+(a menos que te den las lonas y la comida para el picnic)
+11:23:17 - Leandro Echevarria (@echevarrialeandro):
+`gastamos en beneficios garompa para no pagarles mas sueldo`
+11:23:42 - Gonza Gluzman (@gonza):
+Pero beneficios *muy* garompa
+11:23:51 - Juan Scolari (@juanscolari):
+trabaje al lado de parque las heras y nunca aproveche esos beneficios :smile:
+11:23:54 - Gonzalo González Mora (@gonzalogm):
+Encima 2 veces por semana :rat:
+11:24:01 - Gonza Gluzman (@gonza):
+Falta que pongan `Papel higiénico doble hoja`
+11:24:05 - Gonzalo González Mora (@gonzalogm):
+jajajajajajajajajaj
+11:24:13 - Gonzalo González Mora (@gonzalogm):
+Te faltó `los viernes`
+11:24:42 - Rodrigo Ali (@rodrigojali):
+Para Buenos Aires me parece poco =(
+11:24:49 - Lupe (@lportias):
+yo tambien... nunca se me ocurrio ir a almorzar a la plaza... y estuve mas de 10 años ahi cerca...
+11:25:21 - Rodrigo Ali (@rodrigojali):
+¿Netos*?
+11:25:51 - Pablo Miceli (@pablomiceli24):
+yo no entiendo mucho ese approach de "llenar de beneficios" a los empleados. Si a la hora de elegir laburo, esas cosas se ignoran por completo.. no te va a ayudar a retener gente, o si?
+11:26:24 - Marcos Casagrande (@marcoscvp90):
+El beneficio que suma al sueldo si, pero si el sueldo es malísimo, no suma nada.
+11:26:50 - Leandro Echevarria (@echevarrialeandro):
+Se "supone" que usan consultoras y toda una sarta de chamuyos para sondear el mercado a ver qué ofrecen. Me parece que hacen muy mal el laburo porque siguen ofreciendo todas esas porquerias
+11:26:53 - Marcos Casagrande (@marcoscvp90):
+O sea, si te ofrecen almuerzo gratis todos los días, sabés que ahí estás ahorrando 2 lucas por ejemplo.
+11:26:54 - Lupe (@lportias):
+si te dan el almuerzo es un tema... por que realmente a fin de mes es un dineral... pero despues si tienen galletitas, nacks o te o cafe es al re pedo
+11:27:11 - Lupe (@lportias):
+<@UGQTUDQSG> o mas!!
+11:27:13 - Rodrigo Ali (@rodrigojali):
+Es que para mi ya no deberían ser considerados "beneficios".
+11:27:21 - Pablo Miceli (@pablomiceli24):
+claro, el amuerzo gratis es un re buen beneficio por ejemplo
+11:27:26 - Marcos Casagrande (@marcoscvp90):
+Si, puse una media, pero yo me gastaba 3-4 en almorzar todos los meses.
+11:27:27 - Rodrigo Ali (@rodrigojali):
+O sea, posta, ¿por qué es un "beneficio" si todas las empresas IT ya lo hacen?
+11:27:47 - Rodrigo Ali (@rodrigojali):
+No estás sobresaliendo sobre las otras, no estás dando un "beneficio" real.
+11:27:55 - Juan Scolari (@juanscolari):
+pedias delivery todos los dias como Paola Krum? :stuck_out_tongue:
+11:28:16 - Charly Frutos (@carlos):
+jajjajjaja genial lo de las galletitas 2 veces por semana
+11:28:17 - Juan Scolari (@juanscolari):
+porque es chamuyo para rellenar la hoja
+11:28:31 - Charly Frutos (@carlos):
+como vas a poner eso
+11:28:36 - ari (@adiaz):
+jajajajajaa
+11:28:45 - Juan Scolari (@juanscolari):
+como cuando ponemos falopa que no suma en el cv
+11:28:53 - Marcos Casagrande (@marcoscvp90):
+Hay beneficios útiles y otros no tanto. Ponele a la gente que va al gimnasio, si le ofrecen membresía, le suma al sueldo, a mi que no voy, no me va ni me viene, prefiero que me pague 1 luca extra.
+11:29:03 - Rodrigo Ali (@rodrigojali):
+Es como poner "hice el primario acá, y el secundario allá, y un terciario allá" en un CV. Si hiciste un terciario, se sobre-entiende que tenés los otros 2. Si estás en IT, se entiende que esos "beneficios" ya los estás dando de cajón.
+11:29:12 - Charly Frutos (@carlos):
+Claro, uno me mandó un CV y puso el nombre del jardín de infantes al que fue, esa es la otra cara de la moneda
+11:29:18 - Marcos Casagrande (@marcoscvp90):
+jajajaja
+11:29:20 - Lupe (@lportias):
+claro... yo a hora de beneficios veo la distancia que tengo que viajar, si dan almuerzo o no... si hay bonos... el resto no me sirve nada... por que generalmente soy muy fifi con los tes, entonces me llevo yo.. y como estoy con una dieta especifica lo es snacks los tengo prohibidos...
+11:29:44 - Rodrigo Ali (@rodrigojali):
+De una Marcos, pero hay beneficios generalistas como "pagarte el sueldo" por ejemplo que aplican A TODOS. Darte X días de WFH a la semana que aplican a TODOS, etc.
+11:29:45 - Pablo Miceli (@pablomiceli24):
+estas diciendo que mi curso de cocina no suma? las recetas son algoritmos (?
+11:29:58 - Charly Frutos (@carlos):
+Encima el nombre del jardín de infantes era "El trencito chú-chú" o algo así. Obviamente lei hasta ahi
+11:30:01 - Marcos Casagrande (@marcoscvp90):
+Me gusta el buen comer, que puedo decir jaja.
+11:30:03 - Rodrigo Ali (@rodrigojali):
+Está bueno tener beneficios en gimnasios, lugares para comprar ropa, etc? seguro. Pero para mi son menos "importantes" que los otros
+11:30:45 - Juan Scolari (@juanscolari):
+no soy recruiter, pero creeria que no :smile:
+11:30:51 - Lupe (@lportias):
+DALEEE!!!! :joy:
+A menos que haya sido compañero tuyo del jardin, es info totalmente irrelevante!!!
+11:31:00 - Juan Scolari (@juanscolari):
+facturas los viernes
+11:31:06 - Juan Scolari (@juanscolari):
+o sea, cuantas me puedo comer
+11:31:14 - Juan Scolari (@juanscolari):
+tres? cuanto salen tres facturas?
+11:31:22 - Marcos Casagrande (@marcoscvp90):
+Ahora por suerte como estoy en casa, y me puedo cocinar al mediodía no gasto tanto.
+11:31:35 - Pablo Miceli (@pablomiceli24):
+tenes que comer 6 para que rinda el beneficio
+11:31:41 - Lupe (@lportias):
+ojo que por palermo la docena de facturas esta como 400p...
+11:31:46 - Rodrigo Ali (@rodrigojali):
+Hostia.
+11:31:47 - Juan Scolari (@juanscolari):
+claro, y que tenga plan de gimnasio porque salgo rodando sino :smile:
+11:32:06 - Leandro Echevarria (@echevarrialeandro):
+CUATROCIENTOS MANGOS UNA DOCENA DE FACTURAS???????
+11:32:08 - Leandro Echevarria (@echevarrialeandro):
+FUAAA
+11:32:08 - Rodrigo Ali (@rodrigojali):
+De qué están hechas esas facturas... che, estaría bueno mudarnos a <#C6PJH6JP3|rant> mepa
+11:32:12 - Leandro Echevarria (@echevarrialeandro):
+TIenen pepitas de oro o que?
+11:32:13 - Ezequiel Leites (@leites25):
+Yo me clavaba una docena de medialunas los Viernes.
+11:32:35 - Juan Scolari (@juanscolari):
+Pero esas no son facturas, son finas masas de pan bañadas en manteca
+11:33:11 - Lupe (@lportias):
+chicos, estoy llorando de la risa adelante de todos en la oficina!! BASTA!
+11:33:46 - Pablo Miceli (@pablomiceli24):
+es hora de reconsiderar ese beneficio de las facturas jaja
+11:33:54 - Leandro Echevarria (@echevarrialeandro):
+La crema pastelera es oro fundido
+11:34:36 - Lupe (@lportias):
+los churros vienen rellenos de DDL, bañados en chocolate con pedacitos de oro comestible
+11:34:51 - Juan Scolari (@juanscolari):
+era joda igual, aunque mejor cocinarse uno si te da el tiempo, comes mejor
+11:35:01 - Juan Scolari (@juanscolari):
+Usted es diabolico
+11:35:13 - Ezequiel Leites (@leites25):
+O se aprovechar los beneficios :thinking_face:
+11:35:41 - Ezequiel Leites (@leites25):
+Es que las medialunas estaban re buenas y no me daba cuenta cuantas iba comiendo, la mina de RRHH me ponia la bandeja cerca mio, es culpa de ella :upside_down_face:
+11:35:46 - Lupe (@lportias):
+:woman-shrugging:
+11:36:27 - Juan Scolari (@juanscolari):
+Siempre tiene que haber un heroe que las termine, sino despues nadie se las lleva y quedan feas despues del finde
+11:37:25 - Ezequiel Leites (@leites25):
+Despues de que renuncie, cai el siguiente Viernes a firmar la liquidacion y estaban ahi esperando ser devoradas :medialuna:
+11:40:14 - Marcos Casagrande (@marcoscvp90):
+Ya sé que era joda lo que decís, pero me gusta comer bien posta, y prefiero gastar más en comida, y menos en otras cosas. Yo en comida no ahorro, es un placer de la vida.
+11:40:15 - Charly Frutos (@carlos):
+Lo juro! Circuló varios días el screenshot por el slack de la empresa, obvio sin el nombre del pibe jajaja
+11:40:39 - Marcos Casagrande (@marcoscvp90):
+O sea esas vianditas insípidas, baratas que muchos se piden, yo no puedo jaja, me amarga la existencia.
+11:41:54 - Lupe (@lportias):
+jajaja... uno se queja de los Recruiters... pero a veces nosotros somos peores.. jejeje
+11:42:03 - Diego Ferrari (@die.a.ferrari):
+mal. Otros beneficios de la empresa:
+- Metrobus
+- Subte
+11:42:39 - Lupe (@lportias):
+cines cerca... el Alto Palermo a unas cuadras...
+11:42:40 - Juan Scolari (@juanscolari):
+mal, toda la razon ahi, aparte tampoco era una locura el presupuesto, es una tristeza el dia con una comida insipida
+11:43:08 - Juan Scolari (@juanscolari):
+Buena estrategia de caer el viernes justo :smile:
+11:43:25 - Ezequiel Leites (@leites25):
+:thinking_guy:
+11:43:45 - Marcos Casagrande (@marcoscvp90):
+150-200$ por día de almuerzo, hace 7 meses igual, ahora eso mismo debe estar 200-300$
+11:45:33 - Charly Frutos (@carlos):
+Tal cual jajaja
+11:50:29 - Co (@co):
+Amo lo de los tés, porque me pasa igual. Trato de traerme mi té, ni hablar que el café de la empresa me hace un agujero en el estómago. Estoy pensando en volver a comprarme una prensa francesa chiquita y traer café molido de mi casa.
+
+Los snacks que dan acá son muy pesados, así que los consumo muuuuuy de vez en cuando.
+11:57:50 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+jajaja, la que se armó por la merienda con galletitas. Un buen ejemplo de menos es más
+11:58:22 - gillchristian (@gillchristian):
+2 veces por semana? Jajaja
+11:58:45 - Martín Valdés de León (@mvaldesdeleon):
+igual, todo bien con las galletitas
+11:58:53 - Martín Valdés de León (@mvaldesdeleon):
+pero te ponen como beneficio "Parque Las Heras"
+11:58:54 - Agustin Polo (@apolo_codes):
+Para mi los equipos de rrhh siguen usando estos beneficios porque no todos los candidatos dan feedback comentando que ese tipo de beneficios no les son atractivos :man-shrugging:
+11:58:55 - Martín Valdés de León (@mvaldesdeleon):
+que carajo?
+12:01:53 - Marcos Casagrande (@marcoscvp90):
+Que les parece el "beneficio", clases de idiomas, fuera de horario laboral?
+12:02:22 - Martín Valdés de León (@mvaldesdeleon):
+profesor particular es interesante, cualquier otra cosa meh
+12:02:24 - Martín Valdés de León (@mvaldesdeleon):
+(IMHO)
+12:02:41 - Leandro Echevarria (@echevarrialeandro):
+Particular pagado por la empresa me parece genial
+12:02:52 - Leandro Echevarria (@echevarrialeandro):
+Pero no vi que lo ofrezcan
+12:02:55 - Marcos Casagrande (@marcoscvp90):
+In company, 1 día a la semana, pero fuera de horario.
+12:02:56 - Lupe (@lportias):
+o clase dentro del horario con un profesor nativo...
+12:02:58 - Martín Valdés de León (@mvaldesdeleon):
+en general no soy fanatico de que me den beneficios que tranquilamente podrian reemplazar por darme un poco mas de plata
+12:03:02 - Diego Ferrari (@die.a.ferrari):
+Si te pagan clases de idioma me parece bien, aunque sea fuera del horario laboral. Es como que te bonifiquen el gimnasio.
+12:03:02 - Martín Valdés de León (@mvaldesdeleon):
+y que yo la gaste como me plazca
+12:03:10 - Nico (@nicokorn96):
+perdon la ignorancia pero que hay de bueno en trabajar en parque las heras?
+12:03:10 - Martín Valdés de León (@mvaldesdeleon):
+vs a que me obligen a "aprender ingles" a su manera
+12:03:36 - Rodrigo Ali (@rodrigojali):
+Idem.
+12:04:01 - Lupe (@lportias):
+<@UDJJ3FTUM> absolutamente nada, es un barrio super caro, si, tenes todo muy cerca... pero para salir a comer, te dejas el sueldo entero
+12:04:22 - Nico (@nicokorn96):
+nose porque lo ponen como un beneficio
+12:04:25 - Nico (@nicokorn96):
+entonces
+12:04:36 - Martín Valdés de León (@mvaldesdeleon):
+dicen que podes irte con una lona
+12:04:37 - Martín Valdés de León (@mvaldesdeleon):
+a tomar sol
+12:04:38 - Martín Valdés de León (@mvaldesdeleon):
+XD
+12:04:55 - Marcos Casagrande (@marcoscvp90):
+Pero el tiempo que vayas, tenés que recuperarlo :joy:
+12:05:04 - Nico (@nicokorn96):
+yo labure 3 anios en palermo y es como que me pongan "beneficio, podes cruzar al shopping"
+12:05:10 - Martín Valdés de León (@mvaldesdeleon):
+yup
+12:05:19 - Martín Valdés de León (@mvaldesdeleon):
+por eso lo mencione, me parecio totalmente ridiculo
+12:05:22 - Lupe (@lportias):
+yo soy de traerme mi latita de te en hebras y mi cucharita especial... :speak_no_evil::joy:
+12:05:29 - Martín Valdés de León (@mvaldesdeleon):
+&gt; beneficios: Blblioteca Nacional
+12:05:33 - Nico (@nicokorn96):
+jeejeee
+12:05:44 - Nico (@nicokorn96):
+beneficio salir a caminar a la calle
+12:06:06 - Lupe (@lportias):
+"no estar encadenado a la compu las 24hs del dia"
+12:06:23 - Nico (@nicokorn96):
+con un latigo
+12:06:25 - Nico (@nicokorn96):
+agregale
+12:06:38 - Lupe (@lportias):
+"reuniones de planeamiento de 5 horas cada 2 semanas"
+12:06:51 - Rodrigo Ali (@rodrigojali):
+Truth be told, fuera de empresas con fuerte presencia en IT y buen HR, esos son beneficios
+12:07:01 - Rodrigo Ali (@rodrigojali):
+Por ej si laburás para una empresa de MKT Digital como el "IT guy"
+12:07:08 - Rodrigo Ali (@rodrigojali):
+Ni hablar de otros rubros.
+12:07:42 - Rodrigo Ali (@rodrigojali):
+Thing is... no es ninguno de esos dos casos, por eso insisto (como muchos) en que para mi no son "beneficios" porque son cosas que caen de maduras ya en este tipo de empresas =(
+12:08:03 - Lupe (@lportias):
+pero los de RRHH... a veces ni saben...
+12:08:57 - Lupe (@lportias):
+volvemos al mismo tema... tengo contadas las veces que un RRHH entendia cuando yo le hablaba de las diferencias entre CSS y LESS.. (por poner un ejemplo boludo)...
+12:09:24 - Lupe (@lportias):
+y esperas que sepan que nosotros esperamos esas cosas como base de cualquier propuesta???
+12:10:09 - Rodrigo Ali (@rodrigojali):
+Sí, porque uno hace a su laburo(-ish) y el otro no IMO
+12:10:15 - Martín Valdés de León (@mvaldesdeleon):
+Por que le hablas de CSS al de HR doe?
+12:10:17 - Rodrigo Ali (@rodrigojali):
+Uno es netamente técnico y no tienen por qué saberlo
+12:10:18 - Rodrigo Ali (@rodrigojali):
+Claro
+12:10:18 - Martín Valdés de León (@mvaldesdeleon):
+HR es HR
+12:10:51 - Rodrigo Ali (@rodrigojali):
+Con HR podés hablar de beneficios y de "well-being" para los empleados
+12:11:01 - Rodrigo Ali (@rodrigojali):
+Porque se trata de gestionar justamente los recursos humanos
+12:11:25 - Martín Valdés de León (@mvaldesdeleon):
+a HR le preguntas cosas tipo el attrition
+12:11:33 - Martín Valdés de León (@mvaldesdeleon):
+work-life-balance
+12:11:33 - Lupe (@lportias):
+jajaja, los recruiters... te llaman para un puesto tecnico y no saben la diferencia entre JAVA y Javascript...
+12:11:36 - Martín Valdés de León (@mvaldesdeleon):
+pager duty/horas extra
+12:11:46 - Rodrigo Ali (@rodrigojali):
+Y no tienen por qué saberlo jajaja :stuck_out_tongue:
+12:11:50 - Rodrigo Ali (@rodrigojali):
+Son recruiters.
+12:12:02 - Marcos Casagrande (@marcoscvp90):
+Si tienen que saberlo, es su laburo.
+12:12:16 - Rodrigo Ali (@rodrigojali):
+Hacen el primer contacto y de ahí te aplican un par de filtros que hacen a su laburo, el resto de los filtros los hará otra persona
+12:12:17 - Lupe (@lportias):
+bueno, pero si me llamas por un puesto en FE y me hablas de JAVA, yo te mando a la mierda... sorry, not sorry...
+12:12:49 - Luis Alvarez (@luistensai):
+no tienen que saber programar en javascript o java, pero tienen que al menos saber que hay una diferencia y no son lo mismo jaja
+12:13:06 - Marcos Casagrande (@marcoscvp90):
+Recruiter: "Estamos buscando alguien experto en Javascript".
+Developer: "Tengo 15 años de experiencia en Java".
+Recruiter llama a su jefe: "Tengo el candidato perfecto"
+12:13:25 - Rodrigo Ali (@rodrigojali):
+Nah bueno, pero eso es porque hay recruiters que no saben hacer bien su laburo. No tiene que saber la diferencia entre Java y JS, pero si debería saber que si se busca fillear una posición para "JavaScript", que llamen solamente a gente con ese spec.
+12:13:49 - Rodrigo Ali (@rodrigojali):
+Después tenés recruiters que hacen la gran "si pasa, pasa" y tiran a morir
+12:13:52 - Marcos Casagrande (@marcoscvp90):
+No tienen que saber programar en Java o Javascript, solo tienen que saber que son 2 lenguajes diferentes.
+12:14:03 - Rodrigo Ali (@rodrigojali):
+Ojo, también hay devs que hacen lo mismo si vamos al caso
+12:14:14 - Rodrigo Ali (@rodrigojali):
+Que aplican a posiciones para las que no dan el perfil que está publicado.
+12:14:32 - Lupe (@lportias):
+bueno, a mi me llamo una mina que pedia JAVA para un FE... y le termine diciendo "habla con el que te hizo el pedido por que son cosas diferentes"
+12:14:42 - Rodrigo Ali (@rodrigojali):
+Claro, ahí estoy con vos :stuck_out_tongue:
+12:15:36 - Rodrigo Ali (@rodrigojali):
+Yo digo todo esto por lo siguiente: estando en Globant vi cómo un SM levantaba una "petición" de recruiting. Y cuando me asomo y le pregunto, me contó... veo lo que pedía y le dije "estás en pedo Pablo"
+12:15:42 - Daniel Broder (@dabroder):
+:rat:
+12:15:51 - Daniel Broder (@dabroder):
+:grin:
+12:15:59 - Rodrigo Ali (@rodrigojali):
+El loco pedía un one-man-army para una posición de front Ssr, supuestamente.
+12:17:05 - Rodrigo Ali (@rodrigojali):
+El titulo de la job opening era "Front-end dev Ssr" y pedía que el loco "supiera usar" Java, Hibernate, MySQL, DTO, y no me acuerdo qué otras cosas de una lista de checkbox reeeeeeeeee larga
+12:17:08 - Lupe (@lportias):
+nunca les llego una propuesta en la que pedian FE, PM, QA y analista en una sola persona??
+12:17:20 - Rodrigo Ali (@rodrigojali):
+Entonces a la recruiter le llegaba eso jajaja, le llegaba ese job title, y esos reqs
+12:17:31 - Lupe (@lportias):
+por un sueldo de 3/4 de lo que venias ganando en la otra empresa?
+12:17:43 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+esas posiciones solo las cubre <@U9KMYNJMV>
+12:18:21 - Luis Alvarez (@luistensai):
+Full Ruffino developer SSR
+12:20:37 - Rodrigo Ali (@rodrigojali):
+No Lupe, pero sí tengo un amigo que se fue de Globant diciendo "me voy porque me vengo quejando de la plata hace X meses, y acá me ofrecen Y sueldo"
+
+Y le dijeron algo en plan "Uh no me digas, qué garrón, bueno pero te podemos ofrecer un aumento, te llevaría el sueldo a Y-15% plata, ¿te va?"
+
+Y así fue como mi amigo se fue, re caliente, porque le ofrecieron un aumento que le daba menos plata que el lugar donde se iba. Pero bueno, la piba de HR se pegó el lance :stuck_out_tongue:
+12:21:56 - Lupe (@lportias):
+bue.. globant.. global logic.. hay muchas empresas "hermanas" que se manejan igual...
+12:22:49 - Lupe (@lportias):
+en Global Logic me querian contratar, pero como ellos me consideraban SR en maqueta y Ssr en desarrollo querian que entrara con un puesto re bajo y un sueldo misero...
+12:23:58 - Lupe (@lportias):
+les dije "no gracias"... menos de 6 meses mas tarde me vuelven a llamar y me ofrecen un puesto en el que me iban a meter en una escuelita de desarrollo... y a la semana me llaman y me dicen que no calificaba para la escuelita por que sabia demasiado de desarrollo...
+12:24:04 - Lupe (@lportias):
+:face_with_rolling_eyes:
+12:24:50 - Rodrigo Ali (@rodrigojali):
+Dejá de romperles el sistema, Lupe. La culpa es claramente tuya. Los confundis.
+12:26:55 - Lupe (@lportias):
+jajajaja
+12:32:47 - Lucas Goncalves (@goncalveslucasv):
+si netos, yo estoy en ese rango masomenos
+12:35:29 - Juan Scolari (@juanscolari):
+Capaz querian hacer un Java Applet :smile:
+12:43:05 - Hernan Rajchert (@sherman):
+Con <@U24KJ4JET> trabajabamos en corrientes y cordoba y nos caminabamos como unas 10 cuadras para ir a comer a la plaza... altos sambuches de milanga
+12:44:46 - Lupe (@lportias):
+corrientes y cordoba no se cruzan... :face_with_rolling_eyes: por lo mens en capital... :kissing_heart:
+13:12:12 - Hernan Rajchert (@sherman):
+Ups... Darwin y cordoba!
+13:48:52 - Lupe (@lportias):
+Jajaja
+14:04:26 - Santiago Ruffino (@santi_0898):
+Hola gente
+14:04:36 - Santiago Ruffino (@santi_0898):
+Anoche tuve que hacer 3 ejericios por una entrevista laboral
+14:04:42 - Santiago Ruffino (@santi_0898):
+Saque captura de 2 de los ejercicios y los subi a un Drive
+14:04:43 - Santiago Ruffino (@santi_0898):
+<https://drive.google.com/open?id=1n90k6wUYGqquI--Aau9D96XQrKGhiorx>
+14:04:49 - Santiago Ruffino (@santi_0898):
+Si les interesa para practicar o algo, usenlos
+14:05:12 - Santiago Ruffino (@santi_0898):
+Aclaracion antes del bullying. El codigo que esta hecho NO ES EL FINAL. Pude hacer que todo funcione
+14:12:29 - Rodrigo Ali (@rodrigojali):
+Están piolas los ejercicios, son sencillos por suerte
+14:12:33 - Rodrigo Ali (@rodrigojali):
+O se ven sencillos a simple vista
+14:12:43 - Martín Valdés de León (@mvaldesdeleon):
+Piola que te pidan en un caso que te enfoques en correctitud y en el otro en eficiencia.
+14:12:52 - Santiago Ruffino (@santi_0898):
+Tienen muchas cosas en los test que no lo ves
+14:12:52 - Martín Valdés de León (@mvaldesdeleon):
+Yo no los tildaria de "faciles", a priori.
+14:13:09 - Martín Valdés de León (@mvaldesdeleon):
+Las condiciones para el free number en el problema 1 seguro que la mayoria las caga.
+14:13:11 - Rodrigo Ali (@rodrigojali):
+Sencillo, no fácil.
+14:13:13 - Martín Valdés de León (@mvaldesdeleon):
+En especial en desempate.
+14:13:22 - Rodrigo Ali (@rodrigojali):
+Me refiero a que no me imagino haciendo un quilombo de código para sacarlo andando
+14:13:25 - Martín Valdés de León (@mvaldesdeleon):
+Y en el 2do caso, te piden que sea _eficiente_, y N es hasta 100.000
+14:13:36 - Martín Valdés de León (@mvaldesdeleon):
+Asi que cuadratico con dos fors anidados _no_ es la respuesta que buscan.
+14:13:39 - Santiago Ruffino (@santi_0898):
+Ellos te dan un caso de test. Y te hacen 10 test después
+14:13:48 - Rodrigo Ali (@rodrigojali):
+Seh, en Toptal hacen lo mismo
+14:14:27 - Santiago Ruffino (@santi_0898):
+Yo lo hice y todos nduvieron. De ahí a qué pasen todos los test, es otra cosa. Jajaja
+14:14:45 - Rodrigo Ali (@rodrigojali):
+"En mi local anda" jajaja
+14:15:02 - Rodrigo Ali (@rodrigojali):
+Éxitos con el proceso Santi :slightly_smiling_face:
+14:15:04 - Santiago Ruffino (@santi_0898):
+Y el primer ejercicio que me dieron, no lo recuerdo ni le saqué captura. Como no tuve que pedir ayuda, no tengo backup ?)
+14:15:17 - Santiago Ruffino (@santi_0898):
+Gracias! Vamos a ver qué sale de eso
+14:15:28 - Martín Valdés de León (@mvaldesdeleon):
+FWIW, el 2do problema sale lineal.
+14:16:03 - Martín Valdés de León (@mvaldesdeleon):
+Es contar cuantas veces aparece cada valor, y usar combinatoria
+14:16:09 - Santiago Ruffino (@santi_0898):
+Lo solucione en Python con dos diccionarios y un par de IFs. Jajaja
+14:16:41 - Santiago Ruffino (@santi_0898):
+Tengo los códigos que cargue al final y funcionaron
+14:16:45 - Martín Valdés de León (@mvaldesdeleon):
+`(n 2)`
+14:16:59 - Martín Valdés de León (@mvaldesdeleon):
+suma todos los numeros combinatorios de esa forma donde n es la cantidad de veces que cada valor aparece repetido
+14:35:51 - Ezequiel Leites (@leites25):
+Si, yo tuve la misma con JS, pero no entendia lo que queria hacer el metodo. porque era un array de 7 posiciones que retornaba 4, y otro de 50001 que devolvia 50000, y la idea era optimizarlo, mi cabeza fue :mindblown:
+14:39:05 - Juan Scolari (@juanscolari):
+Cuanto tiempo te dieron?
+14:49:46 - Santiago Ruffino (@santi_0898):
+2:30 hs
+15:15:25 - Nico (@nicokorn96):
+vieron que amazon esta pidiendo gente de Argentina para relocalizarse en londres?
+15:15:45 - Lupe (@lportias):
+donde me anoto???
+15:16:08 - Nico (@nicokorn96):
+<https://www.amazon.jobs/en/jobs/822144/software-development-engineer-buenos-aires-hiring-event-may-2019>
+15:16:11 - Tomás Sevillano (@tsevillano):
+<https://www.amazon.jobs/en/jobs/822144/software-development-engineer-buenos-aires-hiring-event-may-2019>
+15:16:18 - Nico (@nicokorn96):
+jaaja
+15:16:20 - Nico (@nicokorn96):
+exacto
+15:16:25 - Tomás Sevillano (@tsevillano):
+lo que dijo nico
+15:16:48 - Nico (@nicokorn96):
+me parece curioso que pidan gente de argentina para relocalizarse alla si la idea seria implementar algo aca
+15:18:22 - Lupe (@lportias):
+lei  "e-commerces" y se me fueron las ganas
+15:18:50 - Pablo Miceli (@pablomiceli24):
+alto miedo me da amazon
+15:20:48 - Rodrigo Ali (@rodrigojali):
+Yo me casaría con Amazon.
+15:20:57 - Nico (@nicokorn96):
+somo 2
+15:22:04 - Nico (@nicokorn96):
+nos va a devorar a todos
+15:24:32 - Pablo Miceli (@pablomiceli24):
+osea siento que hay que tenerla muy clara en muchas cosas para entrar a amazon, y esa job description medio que me lo confirma xD
+15:26:01 - Ezequiel Leites (@leites25):
+Yo me postule para ver que onda el proceso, esta copado ver que exigen este tipo de empresas
+16:30:46 - Santiago Ruffino (@santi_0898):
+Una recruiter me envio un email con los ejercicios de la entrevista tecnica. Se olvido de adjuntar el ZIP :facepalm:
+16:31:32 - Damian Cipolat (@damian.cipolat):
+Jajajaja peor es q te escriban y se confundan tu nombre
+16:32:54 - Santiago Ruffino (@santi_0898):
+Totalmente. Jajaja. Igual, la semana pasada tuve la entrevista presencial, y practicamente me sacaron a las patads porque se le juntaron mi entrevista con una que tenia programada
+16:36:01 - Gonza Espeche (@espeche.g):
+/gif you had one job
+16:51:46 - Martín Valdés de León (@mvaldesdeleon):
+Amazon le pone mucho enfasis a sus "Leadership Principles" en las entrevistas. Este articulo <https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d> da mas o menos una idea.
+17:08:19 - Pablo Miceli (@pablomiceli24):
+De una, lo voy a leer. Igual mas allá de todo, posiblemente me anote para ver que tan rapido fallo jaja.
+17:58:30 - Santiago Ruffino (@santi_0898):
+Alguien de aca hizo entrevistas en MeLi para frontend? Tengo el recuerdo de que alguna vez se hablo de eso
+17:59:44 - Ariel Barabas (@ariel.barabas):
+hice para fullstack… sirve?
+18:02:30 - Guido (@guido_mourelle):
+Buenas. Alguien que trabaje o tenga referencias de flybondi?
+18:04:13 - Santiago Ruffino (@santi_0898):
+Depende de que tomaron en la parte de Front. Jajaja
+18:06:53 - Ariel Barabas (@ariel.barabas):
+me hicieron hacer un programita para buscar en meli y mostrar productos
+18:07:02 - Ariel Barabas (@ariel.barabas):
+front, back, all the ball
+18:12:42 - Santiago Ruffino (@santi_0898):
+Bien, la parte del Front es eso mismo. Barra de búsqueda, resultados y vista detalle del producto 
+18:15:39 - Leandro Echevarria (@echevarrialeandro):
+Me dijeron que era jodida la entrevista en MeLi pero no les creo tan a rajatabla :face_with_monocle: . Mandale cuete que te ayudamos
+18:31:22 - Santiago Ruffino (@santi_0898):
+Hoy le voy a pegar una revisada en profundidad, y empezar a pensarlo. Seguramente voy a estar jodiendo en el channel de <#C045DPHNR|reactjs>. Alguno tiene algún consejo/recomendación para tener en cuenta?
+19:07:03 - Damian Cipolat (@damian.cipolat):
+Yo tuve un Challenge ahí hace un tiempo no me gustó el proceso
+19:44:02 - Aldo Sorbara (@aldo1891):
+tenes que hacer eso mismo, barra de busqueda, resultados y vista del producto, pegandole a la api publica de ML
+19:44:17 - Aldo Sorbara (@aldo1891):
+ideal hacerlo en Node y React ya que es el stack que maneja el fron en ML
+19:44:25 - Aldo Sorbara (@aldo1891):
+<@U9KMYNJMV>
+19:44:51 - Aldo Sorbara (@aldo1891):
+2 años estuve en ML, no es nada imposible ni tan exigente
