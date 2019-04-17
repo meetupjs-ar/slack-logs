@@ -1,0 +1,104 @@
+21:28:30 - German Gonzalez (@gercho):
+que convencion usan para los nombres de las tablas en una db? no se si pluralizar o no. tengo una tabla `socio` y otra `socio_abonos`
+21:28:59 - German Gonzalez (@gercho):
+deberia ser `socios` y `socios_abonos` ? Quizás es a gusto de cada uno, pero me gustaria saber que piensan ustedes
+21:31:23 - Sergio Daniel Xalambrí (@sergiodxa):
+Plural, la tabla tiene varios socios no un socio
+21:31:40 - German Gonzalez (@gercho):
+y para el nombre del model? ahi iria en singular?
+21:32:37 - Pablo Miceli (@pablomiceli24):
+en SQL las queries te quedan más semánticas si las tablas están en plural supongo
+21:33:40 - German Gonzalez (@gercho):
+excelente, gracias chicos
+22:30:24 - Martín Aimar (@maimar):
+sí el modelo en singular porque representa a uno de esos socios
+22:37:19 - Maxi (@tholem98):
+Debo hacer eso por cada get que haga o hay alguna manera de guardar lo que obtengo en una variable local para reutilizarlo no solo en otros gets, sino en otros archivos para no tener TODO el codigo en un solo archivo?
+09:25:13 - Fernando Pelliccioni (@fpelliccioni):
+já! :stuck_out_tongue:
+11:19:23 - Luis Alvarez (@luistensai):
+quiero diagramar la arquitectura e infraestructura de un sistema actual, mi idea es proponer mejoras, alguno hizo algo parecido?
+12:23:44 - Damian Cipolat (@damian.cipolat):
+che alguien estuvo laburando este tema: <https://github.com/fcwu/docker-ubuntu-vnc-desktop>
+12:23:49 - Damian Cipolat (@damian.cipolat):
+containers de docker pero con interfaz grafica?
+12:52:53 - Sebastian Waisbrot (@seppo0010):
+interesante, no lo conocía pero me sirve para algo que quería hacer :joy:
+12:56:35 - Damian Cipolat (@damian.cipolat):
+sep, siempre me resulto raro que solo se corrieran en containers so de consola
+13:12:08 - Maxi (@tholem98):
+Tengo un request que consume una api y esta dentro de un get, y dentro del request utilizo un res.json para mostrarlo. Alguien sabe como me puedo evitar pegar ese request en todos los get?
+13:15:21 - Gonzalo González Mora (@gonzalogm):
+Por qué le pegarías en todas las get? es algo de configuración?
+13:15:34 - Gonza Gluzman (@gonza):
+No sé si entendí la pregunta (un código de ejemplo ayudaría)
+13:15:45 - Gonza Gluzman (@gonza):
+Es un problema de repetición de código?
+13:23:53 - Martín Valdés de León (@mvaldesdeleon):
+Si.
+13:24:10 - Martín Valdés de León (@mvaldesdeleon):
+Armate una async funcion que wrappee el request y devuelva el resultado feliz.
+13:24:21 - Martín Valdés de León (@mvaldesdeleon):
+Pone eso en otro archivo, y requerilo desde todos lados.
+13:24:31 - Martín Valdés de León (@mvaldesdeleon):
+Y usa la funcion donde haga falta.
+13:25:16 - Martín Valdés de León (@mvaldesdeleon):
+A modo mas general, lo que queres es armarte un modulito que "wrappee" a la api externa
+13:42:36 - Daniel Broder (@dabroder):
+<@UH5L5P3FY> yo uso un pequeño wrapper <https://gist.github.com/dabroder/3db7b6d8865cb1fb0cf0fb219f6fa57b#file-express-tools-js>
+13:46:13 - Daniel Broder (@dabroder):
+`app.get('/api/objs', wrap(req =&gt; axios('3r/objs', req.id)))`
+17:32:18 - Maxi (@tholem98):
+Muchas gracias
+21:28:30 - German Gonzalez (@gercho):
+que convencion usan para los nombres de las tablas en una db? no se si pluralizar o no. tengo una tabla `socio` y otra `socio_abonos`
+21:28:59 - German Gonzalez (@gercho):
+deberia ser `socios` y `socios_abonos` ? Quizás es a gusto de cada uno, pero me gustaria saber que piensan ustedes
+21:31:23 - Sergio Daniel Xalambrí (@sergiodxa):
+Plural, la tabla tiene varios socios no un socio
+21:31:40 - German Gonzalez (@gercho):
+y para el nombre del model? ahi iria en singular?
+21:32:37 - Pablo Miceli (@pablomiceli24):
+en SQL las queries te quedan más semánticas si las tablas están en plural supongo
+21:33:40 - German Gonzalez (@gercho):
+excelente, gracias chicos
+22:30:24 - Martín Aimar (@maimar):
+sí el modelo en singular porque representa a uno de esos socios
+22:37:19 - Maxi (@tholem98):
+Debo hacer eso por cada get que haga o hay alguna manera de guardar lo que obtengo en una variable local para reutilizarlo no solo en otros gets, sino en otros archivos para no tener TODO el codigo en un solo archivo?
+09:25:13 - Fernando Pelliccioni (@fpelliccioni):
+já! :stuck_out_tongue:
+11:19:23 - Luis Alvarez (@luistensai):
+quiero diagramar la arquitectura e infraestructura de un sistema actual, mi idea es proponer mejoras, alguno hizo algo parecido?
+12:23:44 - Damian Cipolat (@damian.cipolat):
+che alguien estuvo laburando este tema: <https://github.com/fcwu/docker-ubuntu-vnc-desktop>
+12:23:49 - Damian Cipolat (@damian.cipolat):
+containers de docker pero con interfaz grafica?
+12:52:53 - Sebastian Waisbrot (@seppo0010):
+interesante, no lo conocía pero me sirve para algo que quería hacer :joy:
+12:56:35 - Damian Cipolat (@damian.cipolat):
+sep, siempre me resulto raro que solo se corrieran en containers so de consola
+13:12:08 - Maxi (@tholem98):
+Tengo un request que consume una api y esta dentro de un get, y dentro del request utilizo un res.json para mostrarlo. Alguien sabe como me puedo evitar pegar ese request en todos los get?
+13:15:21 - Gonzalo González Mora (@gonzalogm):
+Por qué le pegarías en todas las get? es algo de configuración?
+13:15:34 - Gonza Gluzman (@gonza):
+No sé si entendí la pregunta (un código de ejemplo ayudaría)
+13:15:45 - Gonza Gluzman (@gonza):
+Es un problema de repetición de código?
+13:23:53 - Martín Valdés de León (@mvaldesdeleon):
+Si.
+13:24:10 - Martín Valdés de León (@mvaldesdeleon):
+Armate una async funcion que wrappee el request y devuelva el resultado feliz.
+13:24:21 - Martín Valdés de León (@mvaldesdeleon):
+Pone eso en otro archivo, y requerilo desde todos lados.
+13:24:31 - Martín Valdés de León (@mvaldesdeleon):
+Y usa la funcion donde haga falta.
+13:25:16 - Martín Valdés de León (@mvaldesdeleon):
+A modo mas general, lo que queres es armarte un modulito que "wrappee" a la api externa
+13:42:36 - Daniel Broder (@dabroder):
+<@UH5L5P3FY> yo uso un pequeño wrapper <https://gist.github.com/dabroder/3db7b6d8865cb1fb0cf0fb219f6fa57b#file-express-tools-js>
+13:46:13 - Daniel Broder (@dabroder):
+`app.get('/api/objs', wrap(req =&gt; axios('3r/objs', req.id)))`
+17:32:18 - Maxi (@tholem98):
+Muchas gracias
