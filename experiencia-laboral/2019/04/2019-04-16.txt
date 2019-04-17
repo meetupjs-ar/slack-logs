@@ -1,0 +1,278 @@
+22:25:14 - Gonza Onisimchuk (@gonzaonisimchuk):
+Que tal la experiencia en ML?
+02:15:53 - Aldo Sorbara (@aldo1891):
+Hasta ser ssr es muy buena, después depende del equipo que te toque pero hay exagerada cantidad de reuniones y el nivel técnico no es excelente, es bueno, no excelente. Las oficinas, beneficios son geniales
+08:32:31 - Aldo Gabriel Rojas (@aldogrojas5):
+Muy bueno!! Che, y en caso de que te hagan una prueba técnica consumiendo la api publica de ML, cuánto tiempo te dan?
+09:05:09 - Aldo Sorbara (@aldo1891):
+Lo máximo es una semana, podes decirles que más si le das una buena razón
+09:15:16 - Pablo Miceli (@pablomiceli24):
+alguien me sabe decir si esta guia de como cobrar USD de afuera siendo monotributista sigue siendo valida?
+<https://medium.com/@j0an/c%C3%B3mo-facturar-al-exterior-y-cobrar-en-tu-banco-siendo-monotributista-78d1951d5215>
+09:18:52 - Martín Valdés de León (@mvaldesdeleon):
+:arrow_right: <#CHNL3EA4R|finanzas-y-legales>
+09:19:12 - Pablo Miceli (@pablomiceli24):
+ah, no sabia que ya existía xd, me mudo para allá
+11:18:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Ah! Joya!
+11:19:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Y tenés idea si eso incluye hacer un diseño lindo y demás? O sólo que funcione lo que armaste?
+11:38:58 - Aldo Sorbara (@aldo1891):
+lo ideal es que este lindo, si vas a ser front.... pero se fijan mas en como esta armado, en la docu, test, etc
+12:12:37 - Ema Lorenzo (@aemalorenzo):
+13  CULIAAAAAAO
+12:21:05 - Aldo Gabriel Rojas (@aldogrojas5):
+Bien! Gracias por la data!!
+12:25:45 - Enzo Retamozo (@egr_96):
+buenas tardes chiciso
+12:25:47 - Enzo Retamozo (@egr_96):
+chicos*
+12:25:54 - Enzo Retamozo (@egr_96):
+alguno tiene una experiencia en Turismocity ?
+12:26:30 - Martin Carrera (@mcarrera):
+carla :troll:
+12:26:54 - Enzo Retamozo (@egr_96):
+AAJJAAAJ
+12:27:05 - Enzo Retamozo (@egr_96):
+pero no se si carla es dev (?)
+12:28:26 - Santiago Ruffino (@santi_0898):
+Eran 3 al final. Pero estoy seguro que la mina me dijo 13
+12:28:27 - Santiago Ruffino (@santi_0898):
+Jajajaja
+12:30:11 - Rodrigo Ali (@rodrigojali):
+Mmmmmmmmmmmm dijo el mudo
+12:30:21 - Santiago Ruffino (@santi_0898):
+Mira esas estadisticas de mi GitHub papu
+12:40:56 - Sergio Daniel Xalambrí (@sergiodxa):
+solo haces commits?
+12:41:46 - Sergio Daniel Xalambrí (@sergiodxa):
+y a master porque no tenés pull requests
+12:44:00 - Jorge Cano (@jorgeucano):
+commitea a master papa
+12:45:49 - Mateo Silguero (@mfsilguero):
+A donde vamos no necesitamos feature-branch's :troll:
+12:46:42 - Luis Alvarez (@luistensai):
+/gif milhouse freesbi
+12:46:52 - Luis Alvarez (@luistensai):
+Santi haciendo pr/code review para si mismo
+12:46:58 - Santiago Ruffino (@santi_0898):
+JAJAJAJA
+12:47:03 - Santiago Ruffino (@santi_0898):
+Estaba pensando en lo mismo
+12:47:28 - Santiago Ruffino (@santi_0898):
+Igual, admito que me falta exp en Git. Ahora estoy usando branchs. Pero no se para que mierda sirven. Jajaja
+12:48:17 - Sergio Daniel Xalambrí (@sergiodxa):
+laburando solo no son muy útiles, excepto que quieras dejar algo a medio hacer
+12:48:20 - Luis Alvarez (@luistensai):
+se escribe frisbee :facepalm:
+12:48:33 - Luis Alvarez (@luistensai):
+bueno, menos mal que rightgif entendió jaja
+12:48:48 - Sergio Daniel Xalambrí (@sergiodxa):
+entonces creas un branch `feature/big-feature` y después volvés a `master` y creas `hotfix/super-important-bugfix`
+12:49:19 - Luis Alvarez (@luistensai):
+<https://datasift.github.io/gitflow/IntroducingGitFlow.html>
+12:49:32 - Sergio Daniel Xalambrí (@sergiodxa):
+entonces podés dejar tu laburo en `feature/big-feature` en su branch y hacer el bugfix
+12:49:39 - Sergio Daniel Xalambrí (@sergiodxa):
+sin mandar tu feature a medio hacer a master
+12:49:48 - Luis Alvarez (@luistensai):
+<https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow>
+12:49:56 - Luis Alvarez (@luistensai):
+no sé si habrá alguno en español, pero es básicamente eso
+12:57:06 - Santiago Ruffino (@santi_0898):
+Claro, no lo habia pensado de esa forma <@U09KF2RPU>
+12:57:17 - Santiago Ruffino (@santi_0898):
+Tengo un cursillo de Git pendiente de hacer. Pero no me estarian dando los tiempos
+12:57:31 - Santiago Ruffino (@santi_0898):
+Tengo que pedirme una semana de vacaciones y arrancar con cursos pendientes. Jajaja
+13:02:15 - Jorge Cano (@jorgeucano):
+ser organizado con git
+13:02:20 - Jorge Cano (@jorgeucano):
+hace que puedas revertir cagadas rapido
+13:02:23 - Jorge Cano (@jorgeucano):
+o que si rompiste todo y no sabes donde
+13:02:33 - Jorge Cano (@jorgeucano):
+puedas volver atras y ver en que “punto” paso
+13:02:40 - Jorge Cano (@jorgeucano):
+uno lo termina aprendiendo a veces por las malas xD
+13:02:58 - German Gonzalez (@gercho):
+ustedes commitean por cada cambio especifico que hacen?
+13:03:04 - German Gonzalez (@gercho):
+a mi me pasa que en un commit tengo varias cosas
+13:03:10 - German Gonzalez (@gercho):
+chicas igual eh, pero mezcladas
+13:03:23 - Juan Scolari (@juanscolari):
+Este esta trending en github <https://github.com/521xueweihan/git-tips>
+13:04:54 - Juan Scolari (@juanscolari):
+separar lo que no tiene relacion, squashear lo que esta repartido en varios commits y es de lo mismo
+13:05:16 - Juan Scolari (@juanscolari):
+mas facil para seguir y para revertir
+13:06:48 - Juan Scolari (@juanscolari):
+aunque esta la discusion merge vs rebase
+13:13:54 - Fernando Pelliccioni (@fpelliccioni):
+alguno laburó con Phabricator?
+13:20:21 - Martin Carrera (@mcarrera):
+<@U31FF4TL5> yo hace como 3 años y pico
+13:21:40 - Fernando Pelliccioni (@fpelliccioni):
+me lo quisieron imponer en el laburo, pero me pareció una cagada...
+13:23:23 - Martin Carrera (@mcarrera):
+si, en su momento era medio cagada
+16:35:45 - Luciano Muñoz (@luchisds):
+Me pasa lo mismo que a Santi, como solo toco yo el repositorio voy commiteando a master cuando estoy haciendo algo de lo que estoy seguro que no la va a cagar
+16:36:35 - Luciano Muñoz (@luchisds):
+Cuando tengo que empezar con algun feature mas complejo me muevo a otro branch
+16:36:57 - Julian (@jantonielli01):
+Yo incluso cuando estoy solo uso branches y PRs. Me sirve en cualquier caso para volver a ver que hice y organizarme mejor
+16:37:28 - Luciano Muñoz (@luchisds):
+Claro, es algo que tengo que aprender a hacer
+16:38:44 - Luciano Muñoz (@luchisds):
+para tener mas armas si un dia me la doy en la pera fuerte
+18:51:00 - Martín Valdés de León (@mvaldesdeleon):
+<@U6UPFEZDK> `git add -p` y `git rebase -i` son dos herramientas muy muy buenas para "emprolijar" los commits
+18:51:35 - Martín Valdés de León (@mvaldesdeleon):
+Eso y usar bastante `git stash` si queres "meter un fix rapido de otra cosa" y eso.
+18:53:41 - Gonza Gluzman (@gonza):
+Para los que, como yo, ignoraban `"git add -p"`: <https://johnkary.net/blog/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/>
+18:56:32 - Julian (@jantonielli01):
+`git commit --no-edit --amend` tmb
+19:18:58 - German Gonzalez (@gercho):
+Excelente
+22:25:14 - Gonza Onisimchuk (@gonzaonisimchuk):
+Que tal la experiencia en ML?
+02:15:53 - Aldo Sorbara (@aldo1891):
+Hasta ser ssr es muy buena, después depende del equipo que te toque pero hay exagerada cantidad de reuniones y el nivel técnico no es excelente, es bueno, no excelente. Las oficinas, beneficios son geniales
+08:32:31 - Aldo Gabriel Rojas (@aldogrojas5):
+Muy bueno!! Che, y en caso de que te hagan una prueba técnica consumiendo la api publica de ML, cuánto tiempo te dan?
+09:05:09 - Aldo Sorbara (@aldo1891):
+Lo máximo es una semana, podes decirles que más si le das una buena razón
+09:15:16 - Pablo Miceli (@pablomiceli24):
+alguien me sabe decir si esta guia de como cobrar USD de afuera siendo monotributista sigue siendo valida?
+<https://medium.com/@j0an/c%C3%B3mo-facturar-al-exterior-y-cobrar-en-tu-banco-siendo-monotributista-78d1951d5215>
+09:18:52 - Martín Valdés de León (@mvaldesdeleon):
+:arrow_right: <#CHNL3EA4R|finanzas-y-legales>
+09:19:12 - Pablo Miceli (@pablomiceli24):
+ah, no sabia que ya existía xd, me mudo para allá
+11:18:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Ah! Joya!
+11:19:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Y tenés idea si eso incluye hacer un diseño lindo y demás? O sólo que funcione lo que armaste?
+11:38:58 - Aldo Sorbara (@aldo1891):
+lo ideal es que este lindo, si vas a ser front.... pero se fijan mas en como esta armado, en la docu, test, etc
+12:12:37 - Ema Lorenzo (@aemalorenzo):
+13  CULIAAAAAAO
+12:21:05 - Aldo Gabriel Rojas (@aldogrojas5):
+Bien! Gracias por la data!!
+12:25:45 - Enzo Retamozo (@egr_96):
+buenas tardes chiciso
+12:25:47 - Enzo Retamozo (@egr_96):
+chicos*
+12:25:54 - Enzo Retamozo (@egr_96):
+alguno tiene una experiencia en Turismocity ?
+12:26:30 - Martin Carrera (@mcarrera):
+carla :troll:
+12:26:54 - Enzo Retamozo (@egr_96):
+AAJJAAAJ
+12:27:05 - Enzo Retamozo (@egr_96):
+pero no se si carla es dev (?)
+12:28:26 - Santiago Ruffino (@santi_0898):
+Eran 3 al final. Pero estoy seguro que la mina me dijo 13
+12:28:27 - Santiago Ruffino (@santi_0898):
+Jajajaja
+12:30:11 - Rodrigo Ali (@rodrigojali):
+Mmmmmmmmmmmm dijo el mudo
+12:30:21 - Santiago Ruffino (@santi_0898):
+Mira esas estadisticas de mi GitHub papu
+12:40:56 - Sergio Daniel Xalambrí (@sergiodxa):
+solo haces commits?
+12:41:46 - Sergio Daniel Xalambrí (@sergiodxa):
+y a master porque no tenés pull requests
+12:44:00 - Jorge Cano (@jorgeucano):
+commitea a master papa
+12:45:49 - Mateo Silguero (@mfsilguero):
+A donde vamos no necesitamos feature-branch's :troll:
+12:46:42 - Luis Alvarez (@luistensai):
+/gif milhouse freesbi
+12:46:52 - Luis Alvarez (@luistensai):
+Santi haciendo pr/code review para si mismo
+12:46:58 - Santiago Ruffino (@santi_0898):
+JAJAJAJA
+12:47:03 - Santiago Ruffino (@santi_0898):
+Estaba pensando en lo mismo
+12:47:28 - Santiago Ruffino (@santi_0898):
+Igual, admito que me falta exp en Git. Ahora estoy usando branchs. Pero no se para que mierda sirven. Jajaja
+12:48:17 - Sergio Daniel Xalambrí (@sergiodxa):
+laburando solo no son muy útiles, excepto que quieras dejar algo a medio hacer
+12:48:20 - Luis Alvarez (@luistensai):
+se escribe frisbee :facepalm:
+12:48:33 - Luis Alvarez (@luistensai):
+bueno, menos mal que rightgif entendió jaja
+12:48:48 - Sergio Daniel Xalambrí (@sergiodxa):
+entonces creas un branch `feature/big-feature` y después volvés a `master` y creas `hotfix/super-important-bugfix`
+12:49:19 - Luis Alvarez (@luistensai):
+<https://datasift.github.io/gitflow/IntroducingGitFlow.html>
+12:49:32 - Sergio Daniel Xalambrí (@sergiodxa):
+entonces podés dejar tu laburo en `feature/big-feature` en su branch y hacer el bugfix
+12:49:39 - Sergio Daniel Xalambrí (@sergiodxa):
+sin mandar tu feature a medio hacer a master
+12:49:48 - Luis Alvarez (@luistensai):
+<https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow>
+12:49:56 - Luis Alvarez (@luistensai):
+no sé si habrá alguno en español, pero es básicamente eso
+12:57:06 - Santiago Ruffino (@santi_0898):
+Claro, no lo habia pensado de esa forma <@U09KF2RPU>
+12:57:17 - Santiago Ruffino (@santi_0898):
+Tengo un cursillo de Git pendiente de hacer. Pero no me estarian dando los tiempos
+12:57:31 - Santiago Ruffino (@santi_0898):
+Tengo que pedirme una semana de vacaciones y arrancar con cursos pendientes. Jajaja
+13:02:15 - Jorge Cano (@jorgeucano):
+ser organizado con git
+13:02:20 - Jorge Cano (@jorgeucano):
+hace que puedas revertir cagadas rapido
+13:02:23 - Jorge Cano (@jorgeucano):
+o que si rompiste todo y no sabes donde
+13:02:33 - Jorge Cano (@jorgeucano):
+puedas volver atras y ver en que “punto” paso
+13:02:40 - Jorge Cano (@jorgeucano):
+uno lo termina aprendiendo a veces por las malas xD
+13:02:58 - German Gonzalez (@gercho):
+ustedes commitean por cada cambio especifico que hacen?
+13:03:04 - German Gonzalez (@gercho):
+a mi me pasa que en un commit tengo varias cosas
+13:03:10 - German Gonzalez (@gercho):
+chicas igual eh, pero mezcladas
+13:03:23 - Juan Scolari (@juanscolari):
+Este esta trending en github <https://github.com/521xueweihan/git-tips>
+13:04:54 - Juan Scolari (@juanscolari):
+separar lo que no tiene relacion, squashear lo que esta repartido en varios commits y es de lo mismo
+13:05:16 - Juan Scolari (@juanscolari):
+mas facil para seguir y para revertir
+13:06:48 - Juan Scolari (@juanscolari):
+aunque esta la discusion merge vs rebase
+13:13:54 - Fernando Pelliccioni (@fpelliccioni):
+alguno laburó con Phabricator?
+13:20:21 - Martin Carrera (@mcarrera):
+<@U31FF4TL5> yo hace como 3 años y pico
+13:21:40 - Fernando Pelliccioni (@fpelliccioni):
+me lo quisieron imponer en el laburo, pero me pareció una cagada...
+13:23:23 - Martin Carrera (@mcarrera):
+si, en su momento era medio cagada
+16:35:45 - Luciano Muñoz (@luchisds):
+Me pasa lo mismo que a Santi, como solo toco yo el repositorio voy commiteando a master cuando estoy haciendo algo de lo que estoy seguro que no la va a cagar
+16:36:35 - Luciano Muñoz (@luchisds):
+Cuando tengo que empezar con algun feature mas complejo me muevo a otro branch
+16:36:57 - Julian (@jantonielli01):
+Yo incluso cuando estoy solo uso branches y PRs. Me sirve en cualquier caso para volver a ver que hice y organizarme mejor
+16:37:28 - Luciano Muñoz (@luchisds):
+Claro, es algo que tengo que aprender a hacer
+16:38:44 - Luciano Muñoz (@luchisds):
+para tener mas armas si un dia me la doy en la pera fuerte
+18:51:00 - Martín Valdés de León (@mvaldesdeleon):
+<@U6UPFEZDK> `git add -p` y `git rebase -i` son dos herramientas muy muy buenas para "emprolijar" los commits
+18:51:35 - Martín Valdés de León (@mvaldesdeleon):
+Eso y usar bastante `git stash` si queres "meter un fix rapido de otra cosa" y eso.
+18:53:41 - Gonza Gluzman (@gonza):
+Para los que, como yo, ignoraban `"git add -p"`: <https://johnkary.net/blog/git-add-p-the-most-powerful-git-feature-youre-not-using-yet/>
+18:56:32 - Julian (@jantonielli01):
+`git commit --no-edit --amend` tmb
+19:18:58 - German Gonzalez (@gercho):
+Excelente
