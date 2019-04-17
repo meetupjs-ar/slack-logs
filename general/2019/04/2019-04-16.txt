@@ -1,0 +1,260 @@
+08:11:36 - Marcos Tomatti (@chefguevara):
+<https://twitter.com/v8js/status/1117807107972243456>
+08:16:56 - Martín Valdés de León (@mvaldesdeleon):
+inb4
+
+&gt; As it turns out, NOT preparsing is faster than preparsing.
+&gt;
+&gt; That's why JavaScript engines implement a prepreparser which enables lazy preparsing and precompilation.
+09:16:09 - Pedro (@pedro461):
+<https://frontendmasters.com/books/front-end-handbook/2019/>
+09:52:06 - Rodrigo Ali (@rodrigojali):
+Yo lo pondría también en <#C08E6JVPW|para-compartir> que hay menos tráfico y va a durar más tiempo visible
+09:54:38 - Gonzalo González Mora (@gonzalogm):
+Tmb se puede pinnear para que no se pierda
+09:55:57 - Rodrigo Ali (@rodrigojali):
+Pinnea3
+10:40:32 - Pedro (@pedro461):
+ya lo estoy leyendo y perdí dos horas de mi trabajo, nos e que voy a decir en la scrum jaja
+10:41:03 - Brian Hume (@brianh20):
+Knowledge Transfer?
+10:41:04 - Brian Hume (@brianh20):
+:stuck_out_tongue:
+10:41:27 - Cristhian Duran (@cris):
+está bueno? alguien cree que tiene sentido que lo difunda?
+10:43:12 - Diego Ferrari (@die.a.ferrari):
+Parece muy piola pero tiene tanta info que abruma un poco. Es para ir leyendo de a poco
+10:46:54 - Gonzalo González Mora (@gonzalogm):
+Yo lo estoy mirando y tiene cosas copadas, es como un puntapié como para después seguir investigando mepa
+10:47:07 - Gonzalo González Mora (@gonzalogm):
+No podés pretender leer todo lo que linkea pq estás hasta el 2050
+10:48:25 - Gonzalo González Mora (@gonzalogm):
+Nunca me había puesto a pensar la cantidad de cosas que incluye un frontend hoy en día, como que lo vas adquiriendo tan de a poco que asumís que son pocas cosas pero son una bocha mal jaaj
+10:53:49 - Martín Valdés de León (@mvaldesdeleon):
+Yo siempre digo que _solo_ CSS es una tremenda paja si tenes que aprender todo desde 0.
+10:57:52 - Gonzalo González Mora (@gonzalogm):
+Mal
+11:02:21 - Pedro (@pedro461):
+la posta está en la practica, nunca vas a saber todo de todo.. pero en la práctica y a medida que se te vayan presentando nuevos desafíos vas a ir aprendiendo “todo lo que necesitas aprender”
+11:03:30 - Pedro (@pedro461):
+despues está la curiosidad que puedas tener si querees aprender más cosas de las que la practica te enseña
+11:03:45 - Pedro (@pedro461):
+“La curiosidad es la base del conocimiento” :slightly_smiling_face:
+16:26:42 - Gonzalo González Mora (@gonzalogm):
+Gente, unas amigas están queriendo organizar unas meetups de React en Rosario y se me ocurrió preguntar por acá a ver si había algún repo o algo con tips para organizar meetups. O bien si conocen gente que haya organizado a quien pueda molestar unos minutos para pedirle consejos :slightly_smiling_face: thx!
+16:28:44 - Cristhian Duran (@cris):
+en esta comunidad participamos muchas personas en organizar/organizaron eventos alguna vez, en particular te interesa preguntar algo?
+16:31:27 - Gonzalo González Mora (@gonzalogm):
+Mmm supongo que si tienen consejos en general. Por ejemplo se me viene a la mente cómo difundir el meetup, consejos de días/horarios que hayan visto que tienen más éxito, cómo lograr que la gente siga yendo, qué tipos de tema tocar (cosas más básicas o más complejas, más tipo charla o workshops, etc.).
+16:32:05 - Gonzalo González Mora (@gonzalogm):
+Por ahí debería Googlear quede haber bastante info imagino jaja :stuck_out_tongue:
+16:34:51 - Cristhian Duran (@cris):
+tema muy largo de escribir, mientras compila el proyecto intento escribirte algo
+16:38:29 - Ezequiel Leites (@leites25):
+Deberias agregarlo al sitio de meetupjs
+16:40:22 - Martín Valdés de León (@mvaldesdeleon):
+organiza la meetupmeetup
+16:40:31 - Martín Valdés de León (@mvaldesdeleon):
+donde se habla sobre como organizar meetups
+16:41:42 - Juan Scolari (@juanscolari):
+/gif inception
+16:45:01 - Pablo Miceli (@pablomiceli24):
+consejo: si ofreces birra y papas fritas, MAS TE VALE QUE HAYA BIRRA Y PAPAS FRITAS. Eh visto gente quejarse muy fuerte de esas promesas incumplidas xD
+16:45:54 - Juan Scolari (@juanscolari):
+Caes y solo hay recruiters, no hay charla
+16:46:04 - Pablo Miceli (@pablomiceli24):
+alta trampa
+16:48:38 - Gonzalo González Mora (@gonzalogm):
+con la birra no se jode!
+16:49:04 - Rodrigo Ali (@rodrigojali):
+Lo vi pasar en Córdoba también. Doy fe que los gordos nos quejamos fuerte de esto.
+16:49:18 - Gonzalo González Mora (@gonzalogm):
+En mi oficina ofrecieron birra a las 6 una vez hace poco, los jefes estaban ocupados y nunca hubo, me quedé hasta las 6 al pedo. No fui por 2 semanas a la oficina creo jajaja
+16:51:41 - Cristhian Duran (@cris):
+consejos que me animo a darte yo de mi experiencia co organizando meetup.js
+
+objetivo de la comunidad y para que se quiere hacer el evento
+- hacer eventos "Porque si" no es muy válido. Siempre hay que tener un horizonte, *generar comunidad* (que la gente se conozca, se hagan amistades, conocer empresas, oradores y oradoras, abrir puertas para que personas entren en x tecnología) es muy bueno, por ejemplo. Se abren muchas puertas, oportunidades para asistentes. Literalmente cambié 2 veces de trabajo porque me conocieron en meetup.js y bueno, se dio. Cosas así hay miles.
+- hacer un evento está bueno, pero que pasa después? si a la gente le gusta, está bueno que siga pasando... pero una vez al mes (con suerte) es poco. Cuando te empezás a conocer, muchas veces te atre mucho el networking y capaz no tanto lo técnico. Estaría bueno tener un espacio (como este slack, por ejemplo) donde la gente pueda seguir en contacto. Cuando yo me uní acá hace como 4 años, eramos 100 jajaja me acuerdo que isna festejaba cuando llegamos a los 200, imaginate ahora con más de 2k
+
+como organizamos un evento nosotros paso a paso
+- <https://meetupjs.com.ar/articulos/como-hacemos-un-meetup.html/>
+
+que otras cosas hacemos para los eventos
+- sabemos que dar una charla es "estresante" para muchos y muchas, "complicado", "lleva tiempo", "no tengo tanta experiencia en x", pero siempre está bueno acompañar y dar una mano coacheando en lo que se pueda para que las personas se animen
+- <https://meetupjs.com.ar/articulos/consejos-para-dar-una-charla.html/>
+- <https://meetupjs.com.ar/articulos/consejos-para-dar-una-lightning-talk.html/>
+- armar algún juego, sorteo, para distender un poco
+- difundir lo que se hace, ya sea escribiendo una review de un evento que hicieron (<https://meetupjs.com.ar/articulos/resena-meetup-noviembre-2018.html>), por twitter o lo que sea, pero difundir para generar conocimiento de que existen
+- conectar amablemente con empresas
+- intentar generar un ambiente de distendido, respetuoso e interesante para quienes asistan
+- juntarse con otros meetups si es que conocen otros, hacer algún evento juntos
+- con respecto a días lo que a nosotros más nos funciona es miércole sy jueves, hemos hecho martes pero a veces es un día en el que muchos hacemos algo y se complica
+- que la gente siga yendo depende mucho de como sea el espacio, si se sienten cómodos, si les parece interesante y demás
+- sobre temas me sale decirte "lo que puedas conseguir" jaja porque a veces es muy difícil conseguir que alguien quiera exponer, pero se puede. Y por otro lado, que va mucho de la mano con eso que decía del "coaching" , está bueno que todo se oriente más a la experiencia, y no tanto al tutocharla que decís, en 4 minutos lo leía en mi casa y salía. Está bueno ayudar a que la gente pueda contar más que problemas tenía, por que creyó que usar x era una buena solución, como lo implementó, como se hace y que aprendió. Eso le sirve a alguien con experiencia, y a alguien que recién arranca.
+16:52:13 - Cristhian Duran (@cris):
+perdón <@UDJJ1RZT5>, me quedó un testamento
+16:52:35 - Gonza Gluzman (@gonza):
+Gracias <@U24KJ4JET>! Se podrá pinnear eso?
+16:52:51 - Gonza Gluzman (@gonza):
+:raised_hands:
+16:53:12 - Cristhian Duran (@cris):
+ya está y si, eze, estaría genial escribirlo (un poco mejor) en un artículo jaja y meterlo en el blog
+16:53:26 - Cristhian Duran (@cris):
+lo sumo a mis eternos TODOs
+16:54:28 - Gonzalo González Mora (@gonzalogm):
+Paaa, sos un genio, Cris, mil gracias! :clap:
+16:55:03 - Gonzalo González Mora (@gonzalogm):
+Posta, muchas gracias por tomarte el laburo de escribir todo eso :slightly_smiling_face: ahora me voy a poner a leer los links y nos pondremos a pensar qué queremos lograr con las meetups
+16:57:54 - Cristhian Duran (@cris):
+y definitivamente les recomiendo que si lo creen necesario, como espacio pueden venir para acá. <@U09KF2RPU> empezó a organizar un meetup en su amado Perú y comparte el link de este slack y muchos se unieron. Hay canales y discusiones súper interesantes por todos lados.
+16:59:09 - Gonzalo González Mora (@gonzalogm):
+Sí, eso pensaba, hacer un canal para el meetup de Rosario
+16:59:12 - Cristhian Duran (@cris):
+y lo digo yo que no respondo tecnicamente casi nada, hay personas que saben mucho y siemrpe alguien ayuda jaja
+16:59:21 - Gonzalo González Mora (@gonzalogm):
+Ya le pasé el Slack a algunas de las chicas pq está genial la verdad
+16:59:44 - Gonzalo González Mora (@gonzalogm):
+Se aprende muchísimo :slightly_smiling_face:
+16:59:56 - Gonzalo González Mora (@gonzalogm):
+ni me imagino siendo de BsAs y pudiendo ir a las meetups
+17:00:10 - Francisco (@frajova):
+Si metes slack de meetupRO avisa <@UDJJ1RZT5>!!
+17:00:23 - Gonzalo González Mora (@gonzalogm):
+Dale, te aviso! :slightly_smiling_face:
+17:03:31 - Juan Scolari (@juanscolari):
+Excelente los consejos Cris! Vas a tener que mandarlos al blog mas que al todo!
+17:04:46 - Ezequiel Leites (@leites25):
+Yo manejo comunidades de un juego de cartas que juego, y personalmente tengo la experiencia que diversificar mucho es mas complicado porque no todos se suman en todos lados, si podes centralizar mejor, quizas te conviene mas hacer un channel aca que sea de gente de rosario y ademas tienen alcance a mas cosas
+17:06:07 - Gonzalo González Mora (@gonzalogm):
+Sii, tal cual, opino lo mismo, además me parece mucho más valioso que puedan conocer Meetupjs a tener un slack propio que van a entrar cada mil años tal vez ( al menos a mi me da paja / me come toda la RAM estar en muchos slacks a la vez jaja)
+08:11:36 - Marcos Tomatti (@chefguevara):
+<https://twitter.com/v8js/status/1117807107972243456>
+08:16:56 - Martín Valdés de León (@mvaldesdeleon):
+inb4
+
+&gt; As it turns out, NOT preparsing is faster than preparsing.
+&gt;
+&gt; That's why JavaScript engines implement a prepreparser which enables lazy preparsing and precompilation.
+09:16:09 - Pedro (@pedro461):
+<https://frontendmasters.com/books/front-end-handbook/2019/>
+09:52:06 - Rodrigo Ali (@rodrigojali):
+Yo lo pondría también en <#C08E6JVPW|para-compartir> que hay menos tráfico y va a durar más tiempo visible
+09:54:38 - Gonzalo González Mora (@gonzalogm):
+Tmb se puede pinnear para que no se pierda
+09:55:57 - Rodrigo Ali (@rodrigojali):
+Pinnea3
+10:40:32 - Pedro (@pedro461):
+ya lo estoy leyendo y perdí dos horas de mi trabajo, nos e que voy a decir en la scrum jaja
+10:41:03 - Brian Hume (@brianh20):
+Knowledge Transfer?
+10:41:04 - Brian Hume (@brianh20):
+:stuck_out_tongue:
+10:41:27 - Cristhian Duran (@cris):
+está bueno? alguien cree que tiene sentido que lo difunda?
+10:43:12 - Diego Ferrari (@die.a.ferrari):
+Parece muy piola pero tiene tanta info que abruma un poco. Es para ir leyendo de a poco
+10:46:54 - Gonzalo González Mora (@gonzalogm):
+Yo lo estoy mirando y tiene cosas copadas, es como un puntapié como para después seguir investigando mepa
+10:47:07 - Gonzalo González Mora (@gonzalogm):
+No podés pretender leer todo lo que linkea pq estás hasta el 2050
+10:48:25 - Gonzalo González Mora (@gonzalogm):
+Nunca me había puesto a pensar la cantidad de cosas que incluye un frontend hoy en día, como que lo vas adquiriendo tan de a poco que asumís que son pocas cosas pero son una bocha mal jaaj
+10:53:49 - Martín Valdés de León (@mvaldesdeleon):
+Yo siempre digo que _solo_ CSS es una tremenda paja si tenes que aprender todo desde 0.
+10:57:52 - Gonzalo González Mora (@gonzalogm):
+Mal
+11:02:21 - Pedro (@pedro461):
+la posta está en la practica, nunca vas a saber todo de todo.. pero en la práctica y a medida que se te vayan presentando nuevos desafíos vas a ir aprendiendo “todo lo que necesitas aprender”
+11:03:30 - Pedro (@pedro461):
+despues está la curiosidad que puedas tener si querees aprender más cosas de las que la practica te enseña
+11:03:45 - Pedro (@pedro461):
+“La curiosidad es la base del conocimiento” :slightly_smiling_face:
+16:26:42 - Gonzalo González Mora (@gonzalogm):
+Gente, unas amigas están queriendo organizar unas meetups de React en Rosario y se me ocurrió preguntar por acá a ver si había algún repo o algo con tips para organizar meetups. O bien si conocen gente que haya organizado a quien pueda molestar unos minutos para pedirle consejos :slightly_smiling_face: thx!
+16:28:44 - Cristhian Duran (@cris):
+en esta comunidad participamos muchas personas en organizar/organizaron eventos alguna vez, en particular te interesa preguntar algo?
+16:31:27 - Gonzalo González Mora (@gonzalogm):
+Mmm supongo que si tienen consejos en general. Por ejemplo se me viene a la mente cómo difundir el meetup, consejos de días/horarios que hayan visto que tienen más éxito, cómo lograr que la gente siga yendo, qué tipos de tema tocar (cosas más básicas o más complejas, más tipo charla o workshops, etc.).
+16:32:05 - Gonzalo González Mora (@gonzalogm):
+Por ahí debería Googlear quede haber bastante info imagino jaja :stuck_out_tongue:
+16:34:51 - Cristhian Duran (@cris):
+tema muy largo de escribir, mientras compila el proyecto intento escribirte algo
+16:38:29 - Ezequiel Leites (@leites25):
+Deberias agregarlo al sitio de meetupjs
+16:40:22 - Martín Valdés de León (@mvaldesdeleon):
+organiza la meetupmeetup
+16:40:31 - Martín Valdés de León (@mvaldesdeleon):
+donde se habla sobre como organizar meetups
+16:41:42 - Juan Scolari (@juanscolari):
+/gif inception
+16:45:01 - Pablo Miceli (@pablomiceli24):
+consejo: si ofreces birra y papas fritas, MAS TE VALE QUE HAYA BIRRA Y PAPAS FRITAS. Eh visto gente quejarse muy fuerte de esas promesas incumplidas xD
+16:45:54 - Juan Scolari (@juanscolari):
+Caes y solo hay recruiters, no hay charla
+16:46:04 - Pablo Miceli (@pablomiceli24):
+alta trampa
+16:48:38 - Gonzalo González Mora (@gonzalogm):
+con la birra no se jode!
+16:49:04 - Rodrigo Ali (@rodrigojali):
+Lo vi pasar en Córdoba también. Doy fe que los gordos nos quejamos fuerte de esto.
+16:49:18 - Gonzalo González Mora (@gonzalogm):
+En mi oficina ofrecieron birra a las 6 una vez hace poco, los jefes estaban ocupados y nunca hubo, me quedé hasta las 6 al pedo. No fui por 2 semanas a la oficina creo jajaja
+16:51:41 - Cristhian Duran (@cris):
+consejos que me animo a darte yo de mi experiencia co organizando meetup.js
+
+objetivo de la comunidad y para que se quiere hacer el evento
+- hacer eventos "Porque si" no es muy válido. Siempre hay que tener un horizonte, *generar comunidad* (que la gente se conozca, se hagan amistades, conocer empresas, oradores y oradoras, abrir puertas para que personas entren en x tecnología) es muy bueno, por ejemplo. Se abren muchas puertas, oportunidades para asistentes. Literalmente cambié 2 veces de trabajo porque me conocieron en meetup.js y bueno, se dio. Cosas así hay miles.
+- hacer un evento está bueno, pero que pasa después? si a la gente le gusta, está bueno que siga pasando... pero una vez al mes (con suerte) es poco. Cuando te empezás a conocer, muchas veces te atre mucho el networking y capaz no tanto lo técnico. Estaría bueno tener un espacio (como este slack, por ejemplo) donde la gente pueda seguir en contacto. Cuando yo me uní acá hace como 4 años, eramos 100 jajaja me acuerdo que isna festejaba cuando llegamos a los 200, imaginate ahora con más de 2k
+
+como organizamos un evento nosotros paso a paso
+- <https://meetupjs.com.ar/articulos/como-hacemos-un-meetup.html/>
+
+que otras cosas hacemos para los eventos
+- sabemos que dar una charla es "estresante" para muchos y muchas, "complicado", "lleva tiempo", "no tengo tanta experiencia en x", pero siempre está bueno acompañar y dar una mano coacheando en lo que se pueda para que las personas se animen
+- <https://meetupjs.com.ar/articulos/consejos-para-dar-una-charla.html/>
+- <https://meetupjs.com.ar/articulos/consejos-para-dar-una-lightning-talk.html/>
+- armar algún juego, sorteo, para distender un poco
+- difundir lo que se hace, ya sea escribiendo una review de un evento que hicieron (<https://meetupjs.com.ar/articulos/resena-meetup-noviembre-2018.html>), por twitter o lo que sea, pero difundir para generar conocimiento de que existen
+- conectar amablemente con empresas
+- intentar generar un ambiente de distendido, respetuoso e interesante para quienes asistan
+- juntarse con otros meetups si es que conocen otros, hacer algún evento juntos
+- con respecto a días lo que a nosotros más nos funciona es miércole sy jueves, hemos hecho martes pero a veces es un día en el que muchos hacemos algo y se complica
+- que la gente siga yendo depende mucho de como sea el espacio, si se sienten cómodos, si les parece interesante y demás
+- sobre temas me sale decirte "lo que puedas conseguir" jaja porque a veces es muy difícil conseguir que alguien quiera exponer, pero se puede. Y por otro lado, que va mucho de la mano con eso que decía del "coaching" , está bueno que todo se oriente más a la experiencia, y no tanto al tutocharla que decís, en 4 minutos lo leía en mi casa y salía. Está bueno ayudar a que la gente pueda contar más que problemas tenía, por que creyó que usar x era una buena solución, como lo implementó, como se hace y que aprendió. Eso le sirve a alguien con experiencia, y a alguien que recién arranca.
+16:52:13 - Cristhian Duran (@cris):
+perdón <@UDJJ1RZT5>, me quedó un testamento
+16:52:35 - Gonza Gluzman (@gonza):
+Gracias <@U24KJ4JET>! Se podrá pinnear eso?
+16:52:51 - Gonza Gluzman (@gonza):
+:raised_hands:
+16:53:12 - Cristhian Duran (@cris):
+ya está y si, eze, estaría genial escribirlo (un poco mejor) en un artículo jaja y meterlo en el blog
+16:53:26 - Cristhian Duran (@cris):
+lo sumo a mis eternos TODOs
+16:54:28 - Gonzalo González Mora (@gonzalogm):
+Paaa, sos un genio, Cris, mil gracias! :clap:
+16:55:03 - Gonzalo González Mora (@gonzalogm):
+Posta, muchas gracias por tomarte el laburo de escribir todo eso :slightly_smiling_face: ahora me voy a poner a leer los links y nos pondremos a pensar qué queremos lograr con las meetups
+16:57:54 - Cristhian Duran (@cris):
+y definitivamente les recomiendo que si lo creen necesario, como espacio pueden venir para acá. <@U09KF2RPU> empezó a organizar un meetup en su amado Perú y comparte el link de este slack y muchos se unieron. Hay canales y discusiones súper interesantes por todos lados.
+16:59:09 - Gonzalo González Mora (@gonzalogm):
+Sí, eso pensaba, hacer un canal para el meetup de Rosario
+16:59:12 - Cristhian Duran (@cris):
+y lo digo yo que no respondo tecnicamente casi nada, hay personas que saben mucho y siemrpe alguien ayuda jaja
+16:59:21 - Gonzalo González Mora (@gonzalogm):
+Ya le pasé el Slack a algunas de las chicas pq está genial la verdad
+16:59:44 - Gonzalo González Mora (@gonzalogm):
+Se aprende muchísimo :slightly_smiling_face:
+16:59:56 - Gonzalo González Mora (@gonzalogm):
+ni me imagino siendo de BsAs y pudiendo ir a las meetups
+17:00:10 - Francisco (@frajova):
+Si metes slack de meetupRO avisa <@UDJJ1RZT5>!!
+17:00:23 - Gonzalo González Mora (@gonzalogm):
+Dale, te aviso! :slightly_smiling_face:
+17:03:31 - Juan Scolari (@juanscolari):
+Excelente los consejos Cris! Vas a tener que mandarlos al blog mas que al todo!
+17:04:46 - Ezequiel Leites (@leites25):
+Yo manejo comunidades de un juego de cartas que juego, y personalmente tengo la experiencia que diversificar mucho es mas complicado porque no todos se suman en todos lados, si podes centralizar mejor, quizas te conviene mas hacer un channel aca que sea de gente de rosario y ademas tienen alcance a mas cosas
+17:06:07 - Gonzalo González Mora (@gonzalogm):
+Sii, tal cual, opino lo mismo, además me parece mucho más valioso que puedan conocer Meetupjs a tener un slack propio que van a entrar cada mil años tal vez ( al menos a mi me da paja / me come toda la RAM estar en muchos slacks a la vez jaja)
