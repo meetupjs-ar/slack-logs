@@ -1,0 +1,302 @@
+14:45:56 - Martín Aimar (@maimar):
+hasta qué hora es la meetup?
+14:47:25 - david garcia (@manuonda):
+stream ?
+14:50:17 - Cristhian Duran (@cris):
+no streaming, pero si grabamos las charlas y en 10 días las publicamos en youtube
+14:50:30 - Cristhian Duran (@cris):
+hasta las 21:30 , aprox
+14:59:11 - Hernan Rajchert (@sherman):
+Si no hay lobo :what_gabi: 
+15:03:42 - Cristhian Duran (@cris):
+<@U2NNKR8G7> nos olvidamos las cartas del lobo
+15:04:06 - Cristhian Duran (@cris):
+<@U04346585> puede ser que podamos jugar igual pero con papelitos y ya fue?
+15:04:40 - Cristhian Duran (@cris):
+:wink:
+15:07:24 - Sergio Daniel Xalambrí (@sergiodxa):
+cartes del lobo? juegan werewolf?
+15:07:32 - Cristhian Duran (@cris):
+SIII
+15:07:36 - Cristhian Duran (@cris):
+siempre, post meetup
+15:10:45 - Jorge Cano (@jorgeucano):
+tengo las de angular :stuck_out_tongue:
+15:12:00 - Mateo Silguero (@mfsilguero):
+Hay que armar algo rapido con css
+15:12:59 - Sergio Daniel Xalambrí (@sergiodxa):
+WereWolf Online
+15:14:17 - Sergio Daniel Xalambrí (@sergiodxa):
+responsive, para que jueguen con sus celulares
+15:14:43 - Cristhian Duran (@cris):
+lo pensamos para un hackaton :speak_no_evil:
+15:15:09 - Cristhian Duran (@cris):
+pero la gracia del juego es lo que pasa cuando interactuas
+15:15:11 - Rodrigo Ali (@rodrigojali):
+Cuentenme más de ese juego :open_mouth:
+15:15:21 - Cristhian Duran (@cris):
+por un chat no se puede
+15:15:24 - Rodrigo Ali (@rodrigojali):
+El unico WereWolf que conozco es el de White Wolf, el  juego de rol :open_mouth:
+15:15:25 - Sergio Daniel Xalambrí (@sergiodxa):
+<@U24KJ4JET> en realidad lo pensaba sin chat
+15:15:29 - Sergio Daniel Xalambrí (@sergiodxa):
+osea para jugar sin cartas
+15:15:33 - Sergio Daniel Xalambrí (@sergiodxa):
+vos ves tu carta
+15:15:39 - Sergio Daniel Xalambrí (@sergiodxa):
+y cuando alguien muere ves quién era
+15:15:42 - Sergio Daniel Xalambrí (@sergiodxa):
+pero nada más
+15:15:51 - Sergio Daniel Xalambrí (@sergiodxa):
+juegazo
+15:15:51 - Cristhian Duran (@cris):
+jajaj pero eso se hace en media hora
+15:16:43 - Sergio Daniel Xalambrí (@sergiodxa):
+es solo algo que digas cuantos son, reparta las cartas a cada jugador por websocket y que te muestre en tu celular que te tocó, cuando alguien pierde muestra la carta a todos
+15:16:51 - Sergio Daniel Xalambrí (@sergiodxa):
+con animaciones bonitas para los movimientos de las cartas
+15:18:43 - Sergio Gianazza (@gianu):
+yo llevos las cartas de lobo
+15:19:05 - Rodrigo Ali (@rodrigojali):
+¿Pero de qué están hablando? :open_mouth:
+15:21:04 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://www.playwerewolf.co/>
+15:34:46 - Juan Scolari (@juanscolari):
+jugamos de nuestras casas :smile:
+15:44:40 - Pablo Miceli (@pablomiceli24):
+contra los bots (?
+15:45:05 - Juan Scolari (@juanscolari):
+hacemos que jueguen los bots por nosotros
+15:46:08 - Pablo Miceli (@pablomiceli24):
+me diste pie, hice un truco para jugar con bots
+<https://github.com/pablonm/TrucoBotWars>
+si se prenden hacemos torneito
+15:46:38 - Sergio Gianazza (@gianu):
+si quieren jugar al Lobo sin estar en persona: <https://github.com/chrisgillis/slackwolf>
+15:46:45 - Sergio Gianazza (@gianu):
+pero ahi pierde la gracia de tenerme a mi como Dios
+15:47:18 - Sergio Gianazza (@gianu):
+y quien quiere jugar al Lobo sin que yo sea quien los dirige? EH EHH???
+15:47:21 - Juan Scolari (@juanscolari):
+yo quiero
+15:48:21 - Juan Scolari (@juanscolari):
+true, sos el mejor anfitrion
+15:48:23 - Santiago Ruffino (@santi_0898):
+Yo juego ?)
+15:48:29 - Santiago Ruffino (@santi_0898):
+Pero no conozco nada
+15:48:30 - Santiago Ruffino (@santi_0898):
+Jajaja
+15:48:57 - Sergio Daniel Xalambrí (@sergiodxa):
+<@U9KMYNJMV> es genial, en el bootcamp donde dicto clases compramos uno para que jueguen los estudiantes
+15:49:02 - Sergio Daniel Xalambrí (@sergiodxa):
+me terminé comprando uno propio
+15:49:27 - Santiago Ruffino (@santi_0898):
+Por lo que lei es como un Ladron y Policia pero mas pro y rustico
+15:51:54 - Juan Scolari (@juanscolari):
+Quien se suma?
+15:53:28 - Santiago Ruffino (@santi_0898):
+Torneito de bots?
+15:54:06 - Rodrigo Ali (@rodrigojali):
+Ay no, no debo
+15:57:15 - Pablo Miceli (@pablomiceli24):
+seh
+15:58:09 - Pablo Miceli (@pablomiceli24):
+aca hay un bot de ejemplo por que el readme que hice es una bosta
+<https://github.com/pablonm/TrucoBotWars-RandomBot>
+15:59:03 - Juan Scolari (@juanscolari):
+y el server como se puede probar?
+15:59:11 - Juan Scolari (@juanscolari):
+o tenes uno corriendo?
+15:59:47 - Pablo Miceli (@pablomiceli24):
+pasa que esta bastante mal pensado, el server es el bot xD, y el juego se conecta al bot
+16:00:08 - Pablo Miceli (@pablomiceli24):
+el juego esta en el primer repo, en la carpeta build. Esta para windows nomas pero se puede compilar para otra cosa
+16:01:41 - Pablo Miceli (@pablomiceli24):
+tendría que ver si lo puedo compilar para webgl sin que se rompa nada y subirlo
+16:02:40 - Santiago Ruffino (@santi_0898):
+Ah, no entendi una chota
+16:06:58 - Pablo Miceli (@pablomiceli24):
+Es un juegito de truco (.exe para windows con cliente websocket) que se conecta a dos bots (procesos de node cada uno con un servidor de websocket) y el juego les pide jugadas y los bots reponden
+16:07:24 - Pablo Miceli (@pablomiceli24):
+por que el juego es el cliente? por que no se que mierda estaba pensando. Pero bueno xd
+17:50:01 - Mariano Ramonda (@ing.inf.mariano):
+cliente de torrents recomendado para mac?
+17:51:29 - Sergio Gianazza (@gianu):
+<https://transmissionbt.com/>
+17:51:59 - Martín Aimar (@maimar):
+qbittorrent
+17:52:13 - Mariano Ramonda (@ing.inf.mariano):
+gracias!!
+17:52:15 - Luis Ventocilla (@lvsmix):
+y paginas de torrents ya toy cansando de piratabay proxeado
+17:52:20 - Luis Ventocilla (@lvsmix):
+?
+17:52:26 - Martín Aimar (@maimar):
+rutracker
+17:52:26 - Mariano Ramonda (@ing.inf.mariano):
+con demora pero se viene GoT
+17:52:29 - Luis Ventocilla (@lvsmix):
+:joy:
+17:53:00 - Luis Ventocilla (@lvsmix):
+y de paginas que dicen ser paginas de torrents y te ponen redireccionanmiento de redireccionamiento y terminas en una porno
+17:55:20 - Martín Aimar (@maimar):
+qué bajón cuando desapareció <http://what.cd|what.cd> :disappointed:
+18:46:57 - Santiago Ruffino (@santi_0898):
+Les hago compañía con la beer desde CBA
+18:59:42 - Gonza Espeche (@espeche.g):
+Estás hecho una diva Santi
+20:22:59 - Gonzalo González Mora (@gonzalogm):
+:clap:
+14:45:56 - Martín Aimar (@maimar):
+hasta qué hora es la meetup?
+14:47:25 - david garcia (@manuonda):
+stream ?
+14:50:17 - Cristhian Duran (@cris):
+no streaming, pero si grabamos las charlas y en 10 días las publicamos en youtube
+14:50:30 - Cristhian Duran (@cris):
+hasta las 21:30 , aprox
+14:59:11 - Hernan Rajchert (@sherman):
+Si no hay lobo :what_gabi: 
+15:03:42 - Cristhian Duran (@cris):
+<@U2NNKR8G7> nos olvidamos las cartas del lobo
+15:04:06 - Cristhian Duran (@cris):
+<@U04346585> puede ser que podamos jugar igual pero con papelitos y ya fue?
+15:04:40 - Cristhian Duran (@cris):
+:wink:
+15:07:24 - Sergio Daniel Xalambrí (@sergiodxa):
+cartes del lobo? juegan werewolf?
+15:07:32 - Cristhian Duran (@cris):
+SIII
+15:07:36 - Cristhian Duran (@cris):
+siempre, post meetup
+15:10:45 - Jorge Cano (@jorgeucano):
+tengo las de angular :stuck_out_tongue:
+15:12:00 - Mateo Silguero (@mfsilguero):
+Hay que armar algo rapido con css
+15:12:59 - Sergio Daniel Xalambrí (@sergiodxa):
+WereWolf Online
+15:14:17 - Sergio Daniel Xalambrí (@sergiodxa):
+responsive, para que jueguen con sus celulares
+15:14:43 - Cristhian Duran (@cris):
+lo pensamos para un hackaton :speak_no_evil:
+15:15:09 - Cristhian Duran (@cris):
+pero la gracia del juego es lo que pasa cuando interactuas
+15:15:11 - Rodrigo Ali (@rodrigojali):
+Cuentenme más de ese juego :open_mouth:
+15:15:21 - Cristhian Duran (@cris):
+por un chat no se puede
+15:15:24 - Rodrigo Ali (@rodrigojali):
+El unico WereWolf que conozco es el de White Wolf, el  juego de rol :open_mouth:
+15:15:25 - Sergio Daniel Xalambrí (@sergiodxa):
+<@U24KJ4JET> en realidad lo pensaba sin chat
+15:15:29 - Sergio Daniel Xalambrí (@sergiodxa):
+osea para jugar sin cartas
+15:15:33 - Sergio Daniel Xalambrí (@sergiodxa):
+vos ves tu carta
+15:15:39 - Sergio Daniel Xalambrí (@sergiodxa):
+y cuando alguien muere ves quién era
+15:15:42 - Sergio Daniel Xalambrí (@sergiodxa):
+pero nada más
+15:15:51 - Sergio Daniel Xalambrí (@sergiodxa):
+juegazo
+15:15:51 - Cristhian Duran (@cris):
+jajaj pero eso se hace en media hora
+15:16:43 - Sergio Daniel Xalambrí (@sergiodxa):
+es solo algo que digas cuantos son, reparta las cartas a cada jugador por websocket y que te muestre en tu celular que te tocó, cuando alguien pierde muestra la carta a todos
+15:16:51 - Sergio Daniel Xalambrí (@sergiodxa):
+con animaciones bonitas para los movimientos de las cartas
+15:18:43 - Sergio Gianazza (@gianu):
+yo llevos las cartas de lobo
+15:19:05 - Rodrigo Ali (@rodrigojali):
+¿Pero de qué están hablando? :open_mouth:
+15:21:04 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://www.playwerewolf.co/>
+15:34:46 - Juan Scolari (@juanscolari):
+jugamos de nuestras casas :smile:
+15:44:40 - Pablo Miceli (@pablomiceli24):
+contra los bots (?
+15:45:05 - Juan Scolari (@juanscolari):
+hacemos que jueguen los bots por nosotros
+15:46:08 - Pablo Miceli (@pablomiceli24):
+me diste pie, hice un truco para jugar con bots
+<https://github.com/pablonm/TrucoBotWars>
+si se prenden hacemos torneito
+15:46:38 - Sergio Gianazza (@gianu):
+si quieren jugar al Lobo sin estar en persona: <https://github.com/chrisgillis/slackwolf>
+15:46:45 - Sergio Gianazza (@gianu):
+pero ahi pierde la gracia de tenerme a mi como Dios
+15:47:18 - Sergio Gianazza (@gianu):
+y quien quiere jugar al Lobo sin que yo sea quien los dirige? EH EHH???
+15:47:21 - Juan Scolari (@juanscolari):
+yo quiero
+15:48:21 - Juan Scolari (@juanscolari):
+true, sos el mejor anfitrion
+15:48:23 - Santiago Ruffino (@santi_0898):
+Yo juego ?)
+15:48:29 - Santiago Ruffino (@santi_0898):
+Pero no conozco nada
+15:48:30 - Santiago Ruffino (@santi_0898):
+Jajaja
+15:48:57 - Sergio Daniel Xalambrí (@sergiodxa):
+<@U9KMYNJMV> es genial, en el bootcamp donde dicto clases compramos uno para que jueguen los estudiantes
+15:49:02 - Sergio Daniel Xalambrí (@sergiodxa):
+me terminé comprando uno propio
+15:49:27 - Santiago Ruffino (@santi_0898):
+Por lo que lei es como un Ladron y Policia pero mas pro y rustico
+15:51:54 - Juan Scolari (@juanscolari):
+Quien se suma?
+15:53:28 - Santiago Ruffino (@santi_0898):
+Torneito de bots?
+15:54:06 - Rodrigo Ali (@rodrigojali):
+Ay no, no debo
+15:57:15 - Pablo Miceli (@pablomiceli24):
+seh
+15:58:09 - Pablo Miceli (@pablomiceli24):
+aca hay un bot de ejemplo por que el readme que hice es una bosta
+<https://github.com/pablonm/TrucoBotWars-RandomBot>
+15:59:03 - Juan Scolari (@juanscolari):
+y el server como se puede probar?
+15:59:11 - Juan Scolari (@juanscolari):
+o tenes uno corriendo?
+15:59:47 - Pablo Miceli (@pablomiceli24):
+pasa que esta bastante mal pensado, el server es el bot xD, y el juego se conecta al bot
+16:00:08 - Pablo Miceli (@pablomiceli24):
+el juego esta en el primer repo, en la carpeta build. Esta para windows nomas pero se puede compilar para otra cosa
+16:01:41 - Pablo Miceli (@pablomiceli24):
+tendría que ver si lo puedo compilar para webgl sin que se rompa nada y subirlo
+16:02:40 - Santiago Ruffino (@santi_0898):
+Ah, no entendi una chota
+16:06:58 - Pablo Miceli (@pablomiceli24):
+Es un juegito de truco (.exe para windows con cliente websocket) que se conecta a dos bots (procesos de node cada uno con un servidor de websocket) y el juego les pide jugadas y los bots reponden
+16:07:24 - Pablo Miceli (@pablomiceli24):
+por que el juego es el cliente? por que no se que mierda estaba pensando. Pero bueno xd
+17:50:01 - Mariano Ramonda (@ing.inf.mariano):
+cliente de torrents recomendado para mac?
+17:51:29 - Sergio Gianazza (@gianu):
+<https://transmissionbt.com/>
+17:51:59 - Martín Aimar (@maimar):
+qbittorrent
+17:52:13 - Mariano Ramonda (@ing.inf.mariano):
+gracias!!
+17:52:15 - Luis Ventocilla (@lvsmix):
+y paginas de torrents ya toy cansando de piratabay proxeado
+17:52:20 - Luis Ventocilla (@lvsmix):
+?
+17:52:26 - Martín Aimar (@maimar):
+rutracker
+17:52:26 - Mariano Ramonda (@ing.inf.mariano):
+con demora pero se viene GoT
+17:52:29 - Luis Ventocilla (@lvsmix):
+:joy:
+17:53:00 - Luis Ventocilla (@lvsmix):
+y de paginas que dicen ser paginas de torrents y te ponen redireccionanmiento de redireccionamiento y terminas en una porno
+17:55:20 - Martín Aimar (@maimar):
+qué bajón cuando desapareció <http://what.cd|what.cd> :disappointed:
+18:46:57 - Santiago Ruffino (@santi_0898):
+Les hago compañía con la beer desde CBA
+18:59:42 - Gonza Espeche (@espeche.g):
+Estás hecho una diva Santi
+20:22:59 - Gonzalo González Mora (@gonzalogm):
+:clap:
