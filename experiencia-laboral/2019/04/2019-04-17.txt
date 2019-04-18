@@ -1,0 +1,60 @@
+22:03:01 - Marcos Casagrande (@marcoscvp90):
+y para sumar `git checkout -p` cuando querés descartar ciertos cambios solo.
+02:12:42 - Ari Sanguinetti (@arielsanguinetti):
+Alguno usa git flow?
+09:01:31 - Martín Aimar (@maimar):
+qué onda con git flow
+09:08:33 - Diego Ferrari (@die.a.ferrari):
+TLDR? :flushed:
+10:29:03 - Agustin Polo (@apolo_codes):
+uso git flow-ish(?
+10:39:15 - Nicolás Orchow (@nicoorchow):
+es `git add` en patch mode, que te permite solo pasar al stage algunos cambios y no necesariamente todo el archivo
+11:05:14 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+"usamos git flow" es a los devs  lo que "somos agile" a los pm
+11:07:08 - Agustin Polo (@apolo_codes):
+yes
+11:09:01 - Martín Aimar (@maimar):
+ahora hay un “one flow”
+16:00:52 - Guillermo Perez (@gperez):
+En general que experiencia tienen con contractors? Y en particular conocen a neginet? Estoy considerando empezar a cobrar en dolares pero por ahora creo que no empatizo con un mediador contractor.
+16:01:31 - Sergio Daniel Xalambrí (@sergiodxa):
+estás preguntando experiencia trabajando con contractors o trabajando en modalidad contractor?
+16:38:52 - Andrés (@aglobokar):
+Me entrevistaron de neginet en enero de 2016 para AngularJs. Proponían monotributo y ellos cubrían Osde 210, pero el número era en pesos y bajo para el riesgo de ir por mi cuenta. La fundaron un par de ex Globant por lo que dijeron. No sé más que eso.
+16:56:59 - Damian Cipolat (@damian.cipolat):
+Aca donde estoy tambien es fundad por exGlobtants, no se si haran buenas empresas fundadas por esta gnte
+17:02:29 - Agustin Polo (@apolo_codes):
+ey yo estoy en una y estoy re contento. btw, pueden venir a laburar si quieren. react || angular &gt;=ssr (#autochivo)
+17:30:18 - Guillermo Perez (@gperez):
+con contractors
+22:03:01 - Marcos Casagrande (@marcoscvp90):
+y para sumar `git checkout -p` cuando querés descartar ciertos cambios solo.
+02:12:42 - Ari Sanguinetti (@arielsanguinetti):
+Alguno usa git flow?
+09:01:31 - Martín Aimar (@maimar):
+qué onda con git flow
+09:08:33 - Diego Ferrari (@die.a.ferrari):
+TLDR? :flushed:
+10:29:03 - Agustin Polo (@apolo_codes):
+uso git flow-ish(?
+10:39:15 - Nicolás Orchow (@nicoorchow):
+es `git add` en patch mode, que te permite solo pasar al stage algunos cambios y no necesariamente todo el archivo
+11:05:14 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+"usamos git flow" es a los devs  lo que "somos agile" a los pm
+11:07:08 - Agustin Polo (@apolo_codes):
+yes
+11:09:01 - Martín Aimar (@maimar):
+ahora hay un “one flow”
+16:00:52 - Guillermo Perez (@gperez):
+En general que experiencia tienen con contractors? Y en particular conocen a neginet? Estoy considerando empezar a cobrar en dolares pero por ahora creo que no empatizo con un mediador contractor.
+16:01:31 - Sergio Daniel Xalambrí (@sergiodxa):
+estás preguntando experiencia trabajando con contractors o trabajando en modalidad contractor?
+16:38:52 - Andrés (@aglobokar):
+Me entrevistaron de neginet en enero de 2016 para AngularJs. Proponían monotributo y ellos cubrían Osde 210, pero el número era en pesos y bajo para el riesgo de ir por mi cuenta. La fundaron un par de ex Globant por lo que dijeron. No sé más que eso.
+16:56:59 - Damian Cipolat (@damian.cipolat):
+Aca donde estoy tambien es fundad por exGlobtants, no se si haran buenas empresas fundadas por esta gnte
+17:02:29 - Agustin Polo (@apolo_codes):
+ey yo estoy en una y estoy re contento. btw, pueden venir a laburar si quieren. react || angular &gt;=ssr (#autochivo)
+17:30:18 - Guillermo Perez (@gperez):
+con contractors
