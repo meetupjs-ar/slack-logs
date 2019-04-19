@@ -1,0 +1,164 @@
+21:32:48 - Luis Alvarez (@luistensai):
+fulltime yankee son 8hs igual :cat:
+21:45:18 - Julian (@jantonielli01):
+Sep 
+21:45:23 - Julian (@jantonielli01):
+Como en casi todos lados?
+02:01:03 - Julian (@jantonielli01):
+Uh que paja 
+02:01:13 - Julian (@jantonielli01):
+Me dijeron que no era eligible para pasantía 
+02:01:22 - Julian (@jantonielli01):
+Y me ofrecieron entrevistar para full time :cold_sweat:
+03:48:52 - Martín Valdés de León (@mvaldesdeleon):
+Y aplica dude
+05:32:59 - Julian (@jantonielli01):
+se pero no me quiero ir ahora
+05:33:10 - Julian (@jantonielli01):
+quería la pasantia porq era 3 meses ezpz
+06:43:29 - Martín Valdés de León (@mvaldesdeleon):
+&gt; I am happy to confirm that your background check has been completed successfully.
+06:43:32 - Martín Valdés de León (@mvaldesdeleon):
+Ok, puedo respirar again.
+06:43:51 - Martín Valdés de León (@mvaldesdeleon):
+Estaba bastante nervioso porque "me apure" a renunciar cuando deberia haberles hecho patear la fecha hasta confirmar el BG check.
+06:44:28 - Martín Valdés de León (@mvaldesdeleon):
+Ahora si, oficialmente i'm in, ya no quedan mas tramites en el camino.
+07:24:26 - Rodrigo Juarez (@rjuarez):
+Cuándo arrancas?
+08:06:10 - Martín Valdés de León (@mvaldesdeleon):
+Primero de Julio.
+14:57:08 - Martín Valdés de León (@mvaldesdeleon):
+Y me quedan 4 dias mas de laburo en la empresa actual, y todo el resto es vacaciones.
+15:00:33 - Luis Alvarez (@luistensai):
+que joya eso! cuando sea grande quiero ser como vos :stuck_out_tongue:
+15:02:05 - Martín Valdés de León (@mvaldesdeleon):
+No lo recomiendo. Me quedan tantas vacaciones porque no me las tome cuando correspondia y se fueron sumando.
+15:02:35 - Martín Valdés de León (@mvaldesdeleon):
+Error de la empresa permitir que se sumen sin expirar, hay gente que tiene mas de 100 dias adeudados.
+15:06:50 - Luis Alvarez (@luistensai):
+ahhh... yo pensé que las habías planeado y te quedó justo
+15:07:08 - Luis Alvarez (@luistensai):
+yo le estoy debiendo días de vacaciones a la empresa :joy:
+15:07:14 - Luis Alvarez (@luistensai):
+planee vacas de nuevo y me faltan 5 días :stuck_out_tongue:
+15:33:27 - Diego Calderón (@codekult):
+<https://www.theregister.co.uk/2019/04/18/microsoft_bosque_programming_language/>
+15:57:06 - Martín Valdés de León (@mvaldesdeleon):
+<https://twitter.com/BartoszMilewski/status/1118951133920149505>
+
+rogando por un unfollow...
+15:57:29 - Martín Valdés de León (@mvaldesdeleon):
+la respuesta a esa pregunta es "deja de leer twitter/reddit/whatever"
+16:07:25 - Martín Valdés de León (@mvaldesdeleon):
+<https://github.com/Microsoft/BosqueLanguage/blob/master/docs/language/overview.md>
+17:36:17 - Julian (@jantonielli01):
+es medio raro
+18:04:08 - Julian (@jantonielli01):
+Bueno parece que voy a hacer las entrevistas de MS de onda
+18:04:31 - Julian (@jantonielli01):
+El martes en teoría tengo la primera pero me tienen q confirmatr
+18:43:45 - Juan Bono (@juanbono):
+Éxitos!!!
+19:06:26 - Julian (@jantonielli01):
+Gracias! 
+19:06:44 - Julian (@jantonielli01):
+Les voy a decir igual que quiero la pasantía nomas jaja
+19:15:47 - Julian (@jantonielli01):
+Creo que voy a mandar a la pasantía de IOHK también 
+19:15:52 - Julian (@jantonielli01):
+Esas son re flasheras
+20:30:00 - Julian (@jantonielli01):
+Ah era <http://tweag.io|tweag.io>, no iohk
+20:30:09 - Julian (@jantonielli01):
+<https://www.tweag.io/posts/2019-03-11-internships.html>
+20:51:39 - Juan Bono (@juanbono):
+Wooo que copado
+20:53:38 - Juan Bono (@juanbono):
+Jajaaj instalé el language server de Haskell y le mandé `make build-all` y no sabía que bajaba varias versiones del compilador y compilaba todo varias veces
+20:54:00 - Juan Bono (@juanbono):
+Ahora tengo 26GB de dependencias de Haskell :ok_hand:
+20:54:49 - Juan Bono (@juanbono):
+Igual funciona re copado por lo que pude probar
+21:32:48 - Luis Alvarez (@luistensai):
+fulltime yankee son 8hs igual :cat:
+21:45:18 - Julian (@jantonielli01):
+Sep 
+21:45:23 - Julian (@jantonielli01):
+Como en casi todos lados?
+02:01:03 - Julian (@jantonielli01):
+Uh que paja 
+02:01:13 - Julian (@jantonielli01):
+Me dijeron que no era eligible para pasantía 
+02:01:22 - Julian (@jantonielli01):
+Y me ofrecieron entrevistar para full time :cold_sweat:
+03:48:52 - Martín Valdés de León (@mvaldesdeleon):
+Y aplica dude
+05:32:59 - Julian (@jantonielli01):
+se pero no me quiero ir ahora
+05:33:10 - Julian (@jantonielli01):
+quería la pasantia porq era 3 meses ezpz
+06:43:29 - Martín Valdés de León (@mvaldesdeleon):
+&gt; I am happy to confirm that your background check has been completed successfully.
+06:43:32 - Martín Valdés de León (@mvaldesdeleon):
+Ok, puedo respirar again.
+06:43:51 - Martín Valdés de León (@mvaldesdeleon):
+Estaba bastante nervioso porque "me apure" a renunciar cuando deberia haberles hecho patear la fecha hasta confirmar el BG check.
+06:44:28 - Martín Valdés de León (@mvaldesdeleon):
+Ahora si, oficialmente i'm in, ya no quedan mas tramites en el camino.
+07:24:26 - Rodrigo Juarez (@rjuarez):
+Cuándo arrancas?
+08:06:10 - Martín Valdés de León (@mvaldesdeleon):
+Primero de Julio.
+14:57:08 - Martín Valdés de León (@mvaldesdeleon):
+Y me quedan 4 dias mas de laburo en la empresa actual, y todo el resto es vacaciones.
+15:00:33 - Luis Alvarez (@luistensai):
+que joya eso! cuando sea grande quiero ser como vos :stuck_out_tongue:
+15:02:05 - Martín Valdés de León (@mvaldesdeleon):
+No lo recomiendo. Me quedan tantas vacaciones porque no me las tome cuando correspondia y se fueron sumando.
+15:02:35 - Martín Valdés de León (@mvaldesdeleon):
+Error de la empresa permitir que se sumen sin expirar, hay gente que tiene mas de 100 dias adeudados.
+15:06:50 - Luis Alvarez (@luistensai):
+ahhh... yo pensé que las habías planeado y te quedó justo
+15:07:08 - Luis Alvarez (@luistensai):
+yo le estoy debiendo días de vacaciones a la empresa :joy:
+15:07:14 - Luis Alvarez (@luistensai):
+planee vacas de nuevo y me faltan 5 días :stuck_out_tongue:
+15:33:27 - Diego Calderón (@codekult):
+<https://www.theregister.co.uk/2019/04/18/microsoft_bosque_programming_language/>
+15:57:06 - Martín Valdés de León (@mvaldesdeleon):
+<https://twitter.com/BartoszMilewski/status/1118951133920149505>
+
+rogando por un unfollow...
+15:57:29 - Martín Valdés de León (@mvaldesdeleon):
+la respuesta a esa pregunta es "deja de leer twitter/reddit/whatever"
+16:07:25 - Martín Valdés de León (@mvaldesdeleon):
+<https://github.com/Microsoft/BosqueLanguage/blob/master/docs/language/overview.md>
+17:36:17 - Julian (@jantonielli01):
+es medio raro
+18:04:08 - Julian (@jantonielli01):
+Bueno parece que voy a hacer las entrevistas de MS de onda
+18:04:31 - Julian (@jantonielli01):
+El martes en teoría tengo la primera pero me tienen q confirmatr
+18:43:45 - Juan Bono (@juanbono):
+Éxitos!!!
+19:06:26 - Julian (@jantonielli01):
+Gracias! 
+19:06:44 - Julian (@jantonielli01):
+Les voy a decir igual que quiero la pasantía nomas jaja
+19:15:47 - Julian (@jantonielli01):
+Creo que voy a mandar a la pasantía de IOHK también 
+19:15:52 - Julian (@jantonielli01):
+Esas son re flasheras
+20:30:00 - Julian (@jantonielli01):
+Ah era <http://tweag.io|tweag.io>, no iohk
+20:30:09 - Julian (@jantonielli01):
+<https://www.tweag.io/posts/2019-03-11-internships.html>
+20:51:39 - Juan Bono (@juanbono):
+Wooo que copado
+20:53:38 - Juan Bono (@juanbono):
+Jajaaj instalé el language server de Haskell y le mandé `make build-all` y no sabía que bajaba varias versiones del compilador y compilaba todo varias veces
+20:54:00 - Juan Bono (@juanbono):
+Ahora tengo 26GB de dependencias de Haskell :ok_hand:
+20:54:49 - Juan Bono (@juanbono):
+Igual funciona re copado por lo que pude probar
