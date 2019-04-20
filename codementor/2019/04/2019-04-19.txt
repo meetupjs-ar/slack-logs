@@ -1,0 +1,136 @@
+22:11:59 - Julian (@jantonielli01):
+Se llama nobie el pibe?
+22:41:13 - Marcos Casagrande (@marcoscvp90):
+Nop, Imran
+22:41:30 - Marcos Casagrande (@marcoscvp90):
+Si te interesa te lo mando.
+00:03:22 - Julian (@jantonielli01):
+Dale mándamelo, gracias papá 
+00:08:30 - Marcos Casagrande (@marcoscvp90):
+Ahi te lo mandé, no se si ya lo resolvió, pero le dije que te escriba! De nadas
+00:09:29 - Marcos Casagrande (@marcoscvp90):
+Ahí te escribe me dijo
+11:02:38 - Mariano Ramonda (@ing.inf.mariano):
+que onda estos vaguitos? se quieren recibir pagando para que les hagan la tarea?
+11:09:41 - Marcos Casagrande (@marcoscvp90):
+Sip, mamá y papá tienen plata, ellos no saben nada y quieren que siga siendo así.
+11:10:14 - Mariano Ramonda (@ing.inf.mariano):
+que distinta fue mi vida universitaria..
+11:10:17 - Mariano Ramonda (@ing.inf.mariano):
+y en general
+13:31:45 - Federico A. Sawady O'Connor (@sawady.faso):
+a mi me vinieron con cosas de doctorado, no las agarré
+13:34:39 - Marcos Casagrande (@marcoscvp90):
+De todas formas esto va en contra de los terminos y condiciones de CM.
+13:38:17 - Marcos Casagrande (@marcoscvp90):
+`engage in any form of cheating. This includes completing graded assignments and/or tests for a Client or helping a Client cheat on assignments and/or tests.`
+13:38:34 - Marcos Casagrande (@marcoscvp90):
+Motivo por el cual borraré el mensaje porque hay un bot botón que guarda estas conversaciones.
+13:40:06 - Gonzalo González Mora (@gonzalogm):
+Habría que agregar un tag en los mensajes y si está ese tag, que no guarde el mensaje el bot
+13:41:00 - Marcos Casagrande (@marcoscvp90):
+`.afipignore`
+13:41:06 - Gonzalo González Mora (@gonzalogm):
+:joy:
+13:41:56 - Marcos Casagrande (@marcoscvp90):
+O mínimo, que se guarden como anonimo jaja
+13:42:14 - Gonzalo González Mora (@gonzalogm):
+Claro
+13:42:38 - Gonzalo González Mora (@gonzalogm):
+Hay que armar la PR
+13:44:54 - Marcos Casagrande (@marcoscvp90):
+y un force push después para los mensajes antiguos :joy:
+13:45:00 - Gonzalo González Mora (@gonzalogm):
+jajajaj
+13:45:09 - Gonzalo González Mora (@gonzalogm):
+No encuentro el repo del bot
+13:46:08 - Gonzalo González Mora (@gonzalogm):
+No me acuerdo quien lo habia hecho, alguno se acuerda?
+14:13:12 - Ari Sanguinetti (@arielsanguinetti):
+<https://github.com/meetupjs-ar/slack-logs>
+14:13:37 - Gonzalo González Mora (@gonzalogm):
+Claro pero ese es el repo de los logs digamos, no del código del bot que los genera
+14:39:37 - Federico A. Sawady O'Connor (@sawady.faso):
+whaaaaat
+14:39:41 - Federico A. Sawady O'Connor (@sawady.faso):
+delete that shit
+16:08:31 - Mariano Ramonda (@ing.inf.mariano):
+repo publico! wtf
+17:03:45 - Adrián Velasco (@adrivelasco1506):
+jajajaj repo público, estamos en bolas
+17:05:23 - Gonzalo González Mora (@gonzalogm):
+jaja es lo mismo que si fuera pago el Slack, se podría buscar todo igual
+17:45:52 - Marcos Casagrande (@marcoscvp90):
+Pero no a través de google jaja
+17:47:24 - Gonzalo González Mora (@gonzalogm):
+True :thinking_face:
+17:48:27 - Gonzalo González Mora (@gonzalogm):
+Por ahí se puede plantear eso… anonimizar el chat, no sé. Total la info no la perdés, sólo quién lo dijo.
+22:11:59 - Julian (@jantonielli01):
+Se llama nobie el pibe?
+22:41:13 - Marcos Casagrande (@marcoscvp90):
+Nop, Imran
+22:41:30 - Marcos Casagrande (@marcoscvp90):
+Si te interesa te lo mando.
+00:03:22 - Julian (@jantonielli01):
+Dale mándamelo, gracias papá 
+00:08:30 - Marcos Casagrande (@marcoscvp90):
+Ahi te lo mandé, no se si ya lo resolvió, pero le dije que te escriba! De nadas
+00:09:29 - Marcos Casagrande (@marcoscvp90):
+Ahí te escribe me dijo
+11:02:38 - Mariano Ramonda (@ing.inf.mariano):
+que onda estos vaguitos? se quieren recibir pagando para que les hagan la tarea?
+11:09:41 - Marcos Casagrande (@marcoscvp90):
+Sip, mamá y papá tienen plata, ellos no saben nada y quieren que siga siendo así.
+11:10:14 - Mariano Ramonda (@ing.inf.mariano):
+que distinta fue mi vida universitaria..
+11:10:17 - Mariano Ramonda (@ing.inf.mariano):
+y en general
+13:31:45 - Federico A. Sawady O'Connor (@sawady.faso):
+a mi me vinieron con cosas de doctorado, no las agarré
+13:34:39 - Marcos Casagrande (@marcoscvp90):
+De todas formas esto va en contra de los terminos y condiciones de CM.
+13:38:17 - Marcos Casagrande (@marcoscvp90):
+`engage in any form of cheating. This includes completing graded assignments and/or tests for a Client or helping a Client cheat on assignments and/or tests.`
+13:38:34 - Marcos Casagrande (@marcoscvp90):
+Motivo por el cual borraré el mensaje porque hay un bot botón que guarda estas conversaciones.
+13:40:06 - Gonzalo González Mora (@gonzalogm):
+Habría que agregar un tag en los mensajes y si está ese tag, que no guarde el mensaje el bot
+13:41:00 - Marcos Casagrande (@marcoscvp90):
+`.afipignore`
+13:41:06 - Gonzalo González Mora (@gonzalogm):
+:joy:
+13:41:56 - Marcos Casagrande (@marcoscvp90):
+O mínimo, que se guarden como anonimo jaja
+13:42:14 - Gonzalo González Mora (@gonzalogm):
+Claro
+13:42:38 - Gonzalo González Mora (@gonzalogm):
+Hay que armar la PR
+13:44:54 - Marcos Casagrande (@marcoscvp90):
+y un force push después para los mensajes antiguos :joy:
+13:45:00 - Gonzalo González Mora (@gonzalogm):
+jajajaj
+13:45:09 - Gonzalo González Mora (@gonzalogm):
+No encuentro el repo del bot
+13:46:08 - Gonzalo González Mora (@gonzalogm):
+No me acuerdo quien lo habia hecho, alguno se acuerda?
+14:13:12 - Ari Sanguinetti (@arielsanguinetti):
+<https://github.com/meetupjs-ar/slack-logs>
+14:13:37 - Gonzalo González Mora (@gonzalogm):
+Claro pero ese es el repo de los logs digamos, no del código del bot que los genera
+14:39:37 - Federico A. Sawady O'Connor (@sawady.faso):
+whaaaaat
+14:39:41 - Federico A. Sawady O'Connor (@sawady.faso):
+delete that shit
+16:08:31 - Mariano Ramonda (@ing.inf.mariano):
+repo publico! wtf
+17:03:45 - Adrián Velasco (@adrivelasco1506):
+jajajaj repo público, estamos en bolas
+17:05:23 - Gonzalo González Mora (@gonzalogm):
+jaja es lo mismo que si fuera pago el Slack, se podría buscar todo igual
+17:45:52 - Marcos Casagrande (@marcoscvp90):
+Pero no a través de google jaja
+17:47:24 - Gonzalo González Mora (@gonzalogm):
+True :thinking_face:
+17:48:27 - Gonzalo González Mora (@gonzalogm):
+Por ahí se puede plantear eso… anonimizar el chat, no sé. Total la info no la perdés, sólo quién lo dijo.
