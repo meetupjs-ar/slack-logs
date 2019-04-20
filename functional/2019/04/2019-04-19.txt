@@ -1,0 +1,418 @@
+00:05:46 - Julian (@jantonielli01):
+Alguien conoce esto <https://dolla.org/>
+00:05:55 - Julian (@jantonielli01):
+Me mando el ceo por LinkedIn para entrevistar jaj
+00:08:24 - Martín Valdés de León (@mvaldesdeleon):
+crypto para mi es ultra-meh
+00:08:28 - Martín Valdés de León (@mvaldesdeleon):
+hype as fuck
+00:09:05 - Martín Valdés de León (@mvaldesdeleon):
+pero bueno, al menos es haskell
+00:09:43 - Martín Valdés de León (@mvaldesdeleon):
+pero todas estas empresas tienen un tufo a get-rich-quick-scams
+00:12:31 - Julian (@jantonielli01):
+Ahora estaba hablando con unos pibes de acá 
+00:12:48 - Julian (@jantonielli01):
+Estos <https://nomiclabs.io/>
+00:13:01 - Julian (@jantonielli01):
+Arg tiene mucha onda con cripto
+00:14:32 - Martín Valdés de León (@mvaldesdeleon):
+que se yo... lo mio es puro prejuicio y gutfeeling, pero siento que blockchain/crypto es onda snake oil
+00:14:55 - Martín Valdés de León (@mvaldesdeleon):
+_cura la artritis, cura el cancer, cura el reuma, cura las cataratas_
+00:15:42 - Martín Valdés de León (@mvaldesdeleon):
+pero si vas a los hechos, las aplicaciones reales son muchisimo mas limitadas
+00:16:01 - Julian (@jantonielli01):
+Eso sin duda 
+00:16:15 - Martín Valdés de León (@mvaldesdeleon):
+no se si podria fumarme a un crypto-ceo
+00:16:30 - Julian (@jantonielli01):
+Y que se yo 
+00:16:37 - Julian (@jantonielli01):
+Algunos saben que venden chamuyo nomas 
+00:16:47 - Julian (@jantonielli01):
+Y otros realmente creen en toda la mierda jaja
+00:16:47 - Martín Valdés de León (@mvaldesdeleon):
+estaria bueno ver eso, si
+00:16:56 - Julian (@jantonielli01):
+Yo prefiero al que sabe que vende chamuyo
+00:16:58 - Martín Valdés de León (@mvaldesdeleon):
+es como cuando te preguntas si el Papa realmente CREE toda esa mierda
+00:17:05 - Martín Valdés de León (@mvaldesdeleon):
+o si sabe que es el presidente del chamuyo mas grande
+00:17:37 - Julian (@jantonielli01):
+Pero bueno, en este momento estaba haciendo un take home coso de solidity 
+00:17:47 - Julian (@jantonielli01):
+Lo que si me parece divertido es que 
+00:17:58 - Julian (@jantonielli01):
+Desde el punto de vista de programación, todo está re verde 
+00:18:14 - Julian (@jantonielli01):
+Entonces hay mucho laburo _fundacional_ para hacer 
+00:19:06 - Martín Valdés de León (@mvaldesdeleon):
+si, como dev seguramente haya laburo interesante/util
+00:19:12 - Julian (@jantonielli01):
+Los pibes de <https://zeppelin.solutions/> por ej
+00:19:16 - Julian (@jantonielli01):
+Se subieron a la ola re temprano
+00:19:30 - Julian (@jantonielli01):
+Y ahora son _los capos_ de seguridad de smart contracts y eso
+00:19:33 - Julian (@jantonielli01):
+Son de acá tmb
+00:19:48 - Martín Valdés de León (@mvaldesdeleon):
+_ i guess _
+00:19:58 - Julian (@jantonielli01):
+Posta que arg/bsas es popu en crypto
+00:20:19 - Julian (@jantonielli01):
+Otros de aca: <https://decentraland.org/>, juntaron 25M dolares en 2 días en su ico jaj
+00:20:37 - Martín Valdés de León (@mvaldesdeleon):
+si, esos hace unos meses andaban buscando ppal engs
+00:20:48 - Julian (@jantonielli01):
+andaban buscando todo
+00:20:50 - Julian (@jantonielli01):
+lol
+00:20:58 - Julian (@jantonielli01):
+Levantaron esa guita sin tener nada hecho
+00:21:11 - Julian (@jantonielli01):
+se me hace que ya se deben haber patinado banda
+00:21:14 - Martín Valdés de León (@mvaldesdeleon):
+pero de ultima eso me parece mas divertido
+00:21:33 - Julian (@jantonielli01):
+cryptokitties pero 3d
+00:21:38 - Martín Valdés de León (@mvaldesdeleon):
+yup
+00:22:07 - Julian (@jantonielli01):
+Pero bueno, estos pibes con los que estoy entrevistando estan haciendo esto
+00:22:11 - Julian (@jantonielli01):
+<https://github.com/nomiclabs/buidler>
+00:22:16 - Julian (@jantonielli01):
+Como un webpack para cripto
+00:22:51 - Martín Valdés de León (@mvaldesdeleon):
+si te interesan esas cosas go for it
+00:23:05 - Martín Valdés de León (@mvaldesdeleon):
+para mi es demasiado meta... yo tengo 0 empatia con "los smart contract developers"
+00:23:11 - Julian (@jantonielli01):
+Meh, no sé
+00:23:11 - Martín Valdés de León (@mvaldesdeleon):
+no me interesa darles mejor toolchain
+00:23:25 - Julian (@jantonielli01):
+Que pesimista ché
+00:23:40 - Julian (@jantonielli01):
+Ah, este videito está divertido <https://www.youtube.com/watch?v=k_aVpSSx-Qg>
+00:23:55 - Julian (@jantonielli01):
+cuenta de como se afanaron 50M usd porq codearon un contract con el pito
+00:24:03 - Julian (@jantonielli01):
+Y como resultado tuvieron q forkear ethereum jaj
+00:25:07 - Martín Valdés de León (@mvaldesdeleon):
+es que posta, para mi es toda una industria creada en torno al humo y el chamuyo, y eso overshadowea toda la parte tecnica que legitimamente podra estar interesante
+00:25:14 - Martín Valdés de León (@mvaldesdeleon):
+pero esta "tan intersante" como ser, "una key value store"
+00:05:46 - Julian (@jantonielli01):
+Alguien conoce esto <https://dolla.org/>
+00:05:55 - Julian (@jantonielli01):
+Me mando el ceo por LinkedIn para entrevistar jaj
+00:08:24 - Martín Valdés de León (@mvaldesdeleon):
+crypto para mi es ultra-meh
+00:08:28 - Martín Valdés de León (@mvaldesdeleon):
+hype as fuck
+00:09:05 - Martín Valdés de León (@mvaldesdeleon):
+pero bueno, al menos es haskell
+00:09:43 - Martín Valdés de León (@mvaldesdeleon):
+pero todas estas empresas tienen un tufo a get-rich-quick-scams
+00:12:31 - Julian (@jantonielli01):
+Ahora estaba hablando con unos pibes de acá 
+00:12:48 - Julian (@jantonielli01):
+Estos <https://nomiclabs.io/>
+00:13:01 - Julian (@jantonielli01):
+Arg tiene mucha onda con cripto
+00:14:32 - Martín Valdés de León (@mvaldesdeleon):
+que se yo... lo mio es puro prejuicio y gutfeeling, pero siento que blockchain/crypto es onda snake oil
+00:14:55 - Martín Valdés de León (@mvaldesdeleon):
+_cura la artritis, cura el cancer, cura el reuma, cura las cataratas_
+00:15:42 - Martín Valdés de León (@mvaldesdeleon):
+pero si vas a los hechos, las aplicaciones reales son muchisimo mas limitadas
+00:16:01 - Julian (@jantonielli01):
+Eso sin duda 
+00:16:15 - Martín Valdés de León (@mvaldesdeleon):
+no se si podria fumarme a un crypto-ceo
+00:16:30 - Julian (@jantonielli01):
+Y que se yo 
+00:16:37 - Julian (@jantonielli01):
+Algunos saben que venden chamuyo nomas 
+00:16:47 - Julian (@jantonielli01):
+Y otros realmente creen en toda la mierda jaja
+00:16:47 - Martín Valdés de León (@mvaldesdeleon):
+estaria bueno ver eso, si
+00:16:56 - Julian (@jantonielli01):
+Yo prefiero al que sabe que vende chamuyo
+00:16:58 - Martín Valdés de León (@mvaldesdeleon):
+es como cuando te preguntas si el Papa realmente CREE toda esa mierda
+00:17:05 - Martín Valdés de León (@mvaldesdeleon):
+o si sabe que es el presidente del chamuyo mas grande
+00:17:37 - Julian (@jantonielli01):
+Pero bueno, en este momento estaba haciendo un take home coso de solidity 
+00:17:47 - Julian (@jantonielli01):
+Lo que si me parece divertido es que 
+00:17:58 - Julian (@jantonielli01):
+Desde el punto de vista de programación, todo está re verde 
+00:18:14 - Julian (@jantonielli01):
+Entonces hay mucho laburo _fundacional_ para hacer 
+00:19:06 - Martín Valdés de León (@mvaldesdeleon):
+si, como dev seguramente haya laburo interesante/util
+00:19:12 - Julian (@jantonielli01):
+Los pibes de <https://zeppelin.solutions/> por ej
+00:19:16 - Julian (@jantonielli01):
+Se subieron a la ola re temprano
+00:19:30 - Julian (@jantonielli01):
+Y ahora son _los capos_ de seguridad de smart contracts y eso
+00:19:33 - Julian (@jantonielli01):
+Son de acá tmb
+00:19:48 - Martín Valdés de León (@mvaldesdeleon):
+_ i guess _
+00:19:58 - Julian (@jantonielli01):
+Posta que arg/bsas es popu en crypto
+00:20:19 - Julian (@jantonielli01):
+Otros de aca: <https://decentraland.org/>, juntaron 25M dolares en 2 días en su ico jaj
+00:20:37 - Martín Valdés de León (@mvaldesdeleon):
+si, esos hace unos meses andaban buscando ppal engs
+00:20:48 - Julian (@jantonielli01):
+andaban buscando todo
+00:20:50 - Julian (@jantonielli01):
+lol
+00:20:58 - Julian (@jantonielli01):
+Levantaron esa guita sin tener nada hecho
+00:21:11 - Julian (@jantonielli01):
+se me hace que ya se deben haber patinado banda
+00:21:14 - Martín Valdés de León (@mvaldesdeleon):
+pero de ultima eso me parece mas divertido
+00:21:33 - Julian (@jantonielli01):
+cryptokitties pero 3d
+00:21:38 - Martín Valdés de León (@mvaldesdeleon):
+yup
+00:22:07 - Julian (@jantonielli01):
+Pero bueno, estos pibes con los que estoy entrevistando estan haciendo esto
+00:22:11 - Julian (@jantonielli01):
+<https://github.com/nomiclabs/buidler>
+00:22:16 - Julian (@jantonielli01):
+Como un webpack para cripto
+00:22:51 - Martín Valdés de León (@mvaldesdeleon):
+si te interesan esas cosas go for it
+00:23:05 - Martín Valdés de León (@mvaldesdeleon):
+para mi es demasiado meta... yo tengo 0 empatia con "los smart contract developers"
+00:23:11 - Julian (@jantonielli01):
+Meh, no sé
+00:23:11 - Martín Valdés de León (@mvaldesdeleon):
+no me interesa darles mejor toolchain
+00:23:25 - Julian (@jantonielli01):
+Que pesimista ché
+00:23:40 - Julian (@jantonielli01):
+Ah, este videito está divertido <https://www.youtube.com/watch?v=k_aVpSSx-Qg>
+00:23:55 - Julian (@jantonielli01):
+cuenta de como se afanaron 50M usd porq codearon un contract con el pito
+00:24:03 - Julian (@jantonielli01):
+Y como resultado tuvieron q forkear ethereum jaj
+00:25:07 - Martín Valdés de León (@mvaldesdeleon):
+es que posta, para mi es toda una industria creada en torno al humo y el chamuyo, y eso overshadowea toda la parte tecnica que legitimamente podra estar interesante
+00:25:14 - Martín Valdés de León (@mvaldesdeleon):
+pero esta "tan intersante" como ser, "una key value store"
+00:25:18 - Martín Valdés de León (@mvaldesdeleon):
+o "una graph db"
+00:25:25 - Martín Valdés de León (@mvaldesdeleon):
+osea, si, es una pieza nueva de tecnologia
+00:25:38 - Martín Valdés de León (@mvaldesdeleon):
+pero thats fucking it
+00:25:42 - Julian (@jantonielli01):
+_the next, worse thing_
+00:26:07 - Julian (@jantonielli01):
+se, puede ser
+00:26:07 - Martín Valdés de León (@mvaldesdeleon):
+pero todas las empresas relacionadas ya vienen con esa aura pseudowallstreet
+00:26:21 - Julian (@jantonielli01):
+yo tuve esa misma opinion con toda la mierda de node
+00:26:23 - Martín Valdés de León (@mvaldesdeleon):
+de que estamos en el origen de la revolucion
+00:26:23 - Julian (@jantonielli01):
+Y mongo tmb
+00:26:53 - Julian (@jantonielli01):
+"pero usa lo ultimo: async io!!!!", flaco literal existe hace 30 años
+00:27:05 - Julian (@jantonielli01):
+pero bué
+00:27:20 - Martín Valdés de León (@mvaldesdeleon):
+alto chamuyo nos metieron con mongo
+00:27:41 - Martín Valdés de León (@mvaldesdeleon):
+me voy dejando varios proyectos que maldigo el dia que usamos mongo y no sql
+00:27:50 - Gonzalo González Mora (@gonzalogm):
+No digan M*ngo que lloro
+00:30:32 - Julian (@jantonielli01):
+Este twít resume todo: <https://twitter.com/SeaRyanC/status/1110322655939293184>
+00:32:22 - Martín Valdés de León (@mvaldesdeleon):
+yo no tuve dramas con la falta de schemas, sino mas bien con la falta de joins y las "recomendaciones" de modelado, tipo denormalizar y demas, que realmente no son compatibles con cosas tipo el limite arbitrario para el document size y demas
+00:32:52 - Martín Valdés de León (@mvaldesdeleon):
+si tenes una app medianamente compleja, el modelo "eficiente" para mongo es una paja de mantener y te agrega monton de business-logic corner-casy
+00:33:12 - Julian (@jantonielli01):
+lo de denormalizar es tipo alguien que malinterpreto un chiste de alguna cuenta tipo "sql evil tips"
+00:33:22 - Martín Valdés de León (@mvaldesdeleon):
+x ej, tenes que tener "Client" y en "Client" incluis como subdocs las "Orders". Pero no todas. Solamente las ultimas, porque si metes todas eventualmente explota el documento pq max size
+00:33:32 - Martín Valdés de León (@mvaldesdeleon):
+Entonces ahora resulta que tenes _algunas_ orders como subdocs
+00:33:46 - Martín Valdés de León (@mvaldesdeleon):
+pero otras estan en una coleccion propia con foreign key
+00:33:53 - Julian (@jantonielli01):
+mu bueno
+00:33:54 - Martín Valdés de León (@mvaldesdeleon):
+y tenes que ir moviendo de un lado a otro
+00:33:56 - Martín Valdés de León (@mvaldesdeleon):
+pssssss
+00:34:05 - Julian (@jantonielli01):
+y bueno man
+00:34:11 - Martín Valdés de León (@mvaldesdeleon):
+y de esas tenes varias que son fundamentales, o el software se rompe
+00:34:15 - Martín Valdés de León (@mvaldesdeleon):
+ni bien lo usas _de verdad_
+00:34:19 - Julian (@jantonielli01):
+pero escala horizontalmente!!!!!
+00:34:36 - Martín Valdés de León (@mvaldesdeleon):
+:joy:
+00:34:40 - Martín Valdés de León (@mvaldesdeleon):
+eso tb es alto chamuyo
+00:34:48 - Julian (@jantonielli01):
+un profesor mio decia eso
+00:34:48 - Martín Valdés de León (@mvaldesdeleon):
+osea, si, escala, solo porque te obliga a shardear
+00:34:53 - Martín Valdés de León (@mvaldesdeleon):
+pero si shardeas en SQL escala igual de bien!
+00:34:56 - Julian (@jantonielli01):
+yo le decia que si usabas sql para el orto tmb
+00:34:58 - Julian (@jantonielli01):
+ajjaja
+00:34:59 - Julian (@jantonielli01):
+exacto
+00:36:50 - Julian (@jantonielli01):
+Ah, esos de dolla estan team upeados con los de FP Complete
+00:36:55 - Julian (@jantonielli01):
+ahí les creo un poco más
+00:37:02 - Martín Valdés de León (@mvaldesdeleon):
+same reaction xD
+00:37:14 - Martín Valdés de León (@mvaldesdeleon):
+"ah, le pagan a FP complete y usan haskel...._ok, ok_"
+00:37:18 - Julian (@jantonielli01):
+jajajja
+00:37:46 - Martín Valdés de León (@mvaldesdeleon):
+por eso, como dev laburando en la tecnologia, seguramente hayan cosas piolas/divertidas para hacer
+00:37:53 - Martín Valdés de León (@mvaldesdeleon):
+el tema es que no me pidan que _crea_
+00:38:26 - Julian (@jantonielli01):
+Se, y ahí teoría divertida también
+00:38:31 - Julian (@jantonielli01):
+claro
+00:39:36 - Martín Valdés de León (@mvaldesdeleon):
+yo puedo ir a laburar para big pharma, pero al menos admitamos que el unico objetivo es hacer guita, no "curar al mundo"
+00:40:27 - Martín Valdés de León (@mvaldesdeleon):
+(al margen, ya vengo laburando para big pharma en uno de mis proyectos, y es increible como empresas que facturan billones corren en excel)
+00:41:01 - Julian (@jantonielli01):
+así es la vida
+00:41:19 - Julian (@jantonielli01):
+despues vas a una conf de js y todos piensan que si no usas babel7 tu empresa va a fracasar
+00:41:26 - Julian (@jantonielli01):
+:v
+00:41:37 - Martín Valdés de León (@mvaldesdeleon):
+"y de que API consumimos esta data?"
+"no, eso viene del excel de Juancito, que lo arma a mano, y se los va a mandar una vez por mes"
+00:41:38 - Martín Valdés de León (@mvaldesdeleon):
+wat
+00:41:47 - Julian (@jantonielli01):
+jajaj
+00:41:58 - Julian (@jantonielli01):
+si funciona esta perfecto
+00:42:18 - Martín Valdés de León (@mvaldesdeleon):
+el tema es que no podes patchear la business logic que Juancito aplica
+00:42:25 - Martín Valdés de León (@mvaldesdeleon):
+y resulta que su business logic es HORRIBLE
+00:43:19 - Martín Valdés de León (@mvaldesdeleon):
+mirar las bases de datos de prod es como hacer geologia
+00:43:27 - Martín Valdés de León (@mvaldesdeleon):
+podes ir pelando las capas de los distintos "upgrades"
+00:43:38 - Martín Valdés de León (@mvaldesdeleon):
+columnas que no se usan hace años
+00:43:44 - Martín Valdés de León (@mvaldesdeleon):
+data duplicada como el orto por todos lados
+00:44:48 - Julian (@jantonielli01):
+Me paso algo así
+00:44:59 - Julian (@jantonielli01):
+La "base de datos" que teniamos que migrar
+00:45:08 - Julian (@jantonielli01):
+Eran 2500 mails...
+00:45:31 - Julian (@jantonielli01):
+Literal tenian un `RE: RE: RE: RE: RE: RE: RE: Clientes`
+00:46:22 - Martín Valdés de León (@mvaldesdeleon):
+welp
+00:46:38 - Julian (@jantonielli01):
+La idea original era obviamente parsearlos
+00:46:59 - Julian (@jantonielli01):
+pero claramente era imposible
+00:47:14 - Julian (@jantonielli01):
+así que el cliente termino poniendo a su secretaria a pasar TODO a excel a mano
+00:47:15 - Julian (@jantonielli01):
+lol
+00:47:32 - Julian (@jantonielli01):
+algunos la pasan peor
+00:47:57 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.mturk.com/>
+00:48:07 - Martín Valdés de León (@mvaldesdeleon):
+creo que amazon te da eso "as a service"
+00:48:10 - Martín Valdés de León (@mvaldesdeleon):
+esclavos, i mean
+00:48:48 - Julian (@jantonielli01):
+yo use esta, es genial <https://scale.ai/>
+00:48:54 - Martín Valdés de León (@mvaldesdeleon):
+_Exec: es tipo ec2 pero con humanos!_
+_Bezos: Sold!_
+00:49:03 - Julian (@jantonielli01):
+lmao
+00:50:05 - Martín Valdés de León (@mvaldesdeleon):
+piola, es mas especifico
+00:51:02 - Juan Bono (@juanbono):
+Que pasó con mí Excel :agite:
+00:51:05 - Juan Bono (@juanbono):
+(?)
+00:51:27 - Juan Bono (@juanbono):
+El otro día en la Rust Latam, la mayoría de los sponsors eran empresas de crypto jajaja
+00:51:45 - Juan Bono (@juanbono):
+Es increíble la cantidad que hay
+07:49:53 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.gwern.net/Danbooru2018>
+07:49:56 - Martín Valdés de León (@mvaldesdeleon):
+el dataset que estaban esperando
+11:13:23 - Gabriel Montes (@gabriel):
+Qué mala onda <@U0TFEHWEA> !! Son devs igual que todos. Solo que ellos juegan con fuego.
+11:23:48 - Mariano Ramonda (@ing.inf.mariano):
+IMO, al menos esta bien que aprovechen la ola sea hype/scam o no para hacer buena guita, que se yo
+11:26:44 - Martín Valdés de León (@mvaldesdeleon):
+a mi lo que me da un poco de cosa es que no conozco _casual_ crypto people
+11:27:26 - Martín Valdés de León (@mvaldesdeleon):
+y repito, es solo una tecnologia mas... imaginate un chabon que no para de querer convencerte de que un "Append only log" VA A REVOLUCIONAR EL MUNDO
+11:27:33 - Martín Valdés de León (@mvaldesdeleon):
+y que hay que aplicar "append only logs" a TODO FUCKING TODO
+11:28:26 - Martín Valdés de León (@mvaldesdeleon):
+eso y repetir frases que robaron de twitter, tipo "oh, esto es como el comienzo de la internet, apenas estamos dando los primeros pasos defininendo tcp"
+11:28:52 - Martín Valdés de León (@mvaldesdeleon):
+mientras tanto, en el mundo real, las aplicaciones utiles las contas con las manos
+11:29:13 - Martín Valdés de León (@mvaldesdeleon):
+(lo cual no tiene nada que ver con que hayan decenas/cientos de empresas haciendo guita con esto, porque _el mercado_)
+11:29:37 - Martín Valdés de León (@mvaldesdeleon):
+y miles de millones de dolares en FOMO
+11:32:02 - Mariano Ramonda (@ing.inf.mariano):
+por eso insisto que el dev argento raso lo que puede hacer con todo esto es ver una buena veta para sacar unos buenos morlacos, _a por ellos_
+12:22:48 - gillchristian (@gillchristian):
+Ni sabes el nombre :trollface:
+14:01:59 - gillchristian (@gillchristian):
+Eso quieren creer ellos
+14:02:06 - gillchristian (@gillchristian):
+:speak_no_evil:
+17:14:00 - Gonza Gluzman (@gonza):
+Pregunta de newie (volviendo a Haskell después de un montón de tiempo): ¿dónde se instala el prelude por defecto en mac, al instalar haskell platform?
+17:25:33 - Martín Valdés de León (@mvaldesdeleon):
+<https://wiki.haskell.org/Mac_OS_X_Common_Installation_Paths>
+17:26:50 - Martín Valdés de León (@mvaldesdeleon):
+e.g. `/Library/Frameworks/GHC.framework/Versions/8.6.3-x86_64/usr/lib/ghc-8.6.3/base-4.12.0.0`
+17:48:20 - Gonza Gluzman (@gonza):
+Gracias!
