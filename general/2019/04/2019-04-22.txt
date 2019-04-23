@@ -1,0 +1,786 @@
+09:18:02 - Santiago Ruffino (@santi_0898):
+En que lugar recomiendan comprar una note? Que opinan de comprar notebook usada?
+09:18:40 - Santiago Ruffino (@santi_0898):
+Queria ver si llegaba a una Mac, pero lo veo complicado. Asi que me estaba pensando en tirar por una Lenovo Thinkpad
+09:19:35 - Santiago Ruffino (@santi_0898):
+Nueva, no me da el bolsillo ni a palo. Usada, tengo que invertir como 3 o 4 sueldos
+09:19:42 - Pedro (@pedro461):
+las mac y las thinkpad casi que salen lo mismo jaja
+09:19:43 - Santiago Ruffino (@santi_0898):
+Y de las Thinkpad, que recomiendan?
+09:19:58 - German Gonzalez (@gercho):
+X1 Carbon
+09:20:02 - Pedro (@pedro461):
+serie T yo compraría, son las mas robustas para el día a día
+09:20:11 - Pedro (@pedro461):
+si buscas algo ligero iría por la Carbon
+09:20:37 - Pedro (@pedro461):
+pero esa es tan cara como una mac
+09:20:46 - Santiago Ruffino (@santi_0898):
+No me interesa que sea ligera. Busco un equilibrio entre algo bueno y no tan caro
+09:21:08 - Pedro (@pedro461):
+cualquier cosa con linux :point_up_2:
+09:21:16 - Pedro (@pedro461):
+:stuck_out_tongue:
+09:21:27 - Pedro (@pedro461):
+(enviado desde mi mac)
+09:21:32 - a0viedo (@a0viedo):
+la dell xps creo que es un poco más barata
+09:21:41 - a0viedo (@a0viedo):
+pero la thinkpad es mejor
+09:21:59 - Santiago Ruffino (@santi_0898):
+Igual, digo Thinkpad porque me parece extremedamente comodo el Trackpoint
+09:22:17 - Jorge Cano (@jorgeucano):
+para mi si vas a comprar tenes 2 opciuones mac o thinkpad
+09:22:34 - Mariano Ramonda (@ing.inf.mariano):
+Que presupuesto máximo tenes?
+09:22:44 - Pedro (@pedro461):
+pero entre mac y thinkpad vas a gastar la misma guita
+09:23:13 - Pedro (@pedro461):
+depende a qué te dedicas.. si no sos un frontend del diseño y la UI con thinkpad vas de lujo
+09:23:20 - Santiago Ruffino (@santi_0898):
+Presupuesto? Si alguien me regala una notebook seria lo ideal.
+09:23:58 - Pedro (@pedro461):
+jajaja
+09:24:26 - Jorge Cano (@jorgeucano):
+YO IGUAL te diria que esperes un poco mas
+09:24:29 - Jorge Cano (@jorgeucano):
+si vas a cambiar de laburo
+09:24:32 - Santiago Ruffino (@santi_0898):
+Nah, no se en efectivo. Tengo que tirarme por cuotas si o si. Y podria pagar algo asi como 5-6K de cuota. Y estoy siendo demasiado optimista
+09:24:34 - Jorge Cano (@jorgeucano):
+muchos laburos te dan una notebook
+09:24:56 - Santiago Ruffino (@santi_0898):
+Claro, eso tam,bien lo habia pensado
+09:25:02 - Jorge Cano (@jorgeucano):
+y yo te diria que esperes
+09:25:15 - Jorge Cano (@jorgeucano):
+a menos que se te rompiera la tuya y sea imposible de reparar
+09:25:46 - Pedro (@pedro461):
+por qué la querés cambiar?
+09:25:57 - Santiago Ruffino (@santi_0898):
+Porque mi computadora se esta muriendo lentamente. Jajaja
+09:26:08 - Pedro (@pedro461):
+andas con linux?
+09:26:12 - Pedro (@pedro461):
+o con win?
+09:26:14 - Santiago Ruffino (@santi_0898):
+La compre hace como 2 años, usaba. Porque me robaron la mia. Pero es una Lenovo I3 con 5 de RAM
+09:26:34 - Santiago Ruffino (@santi_0898):
+Linux. Tengo instalado Win por mi hermana. Pero ya no vivo con ella entonces no lo necesito
+09:26:44 - Pedro (@pedro461):
+con linux, Ubuntu 16, volás..
+09:26:58 - Pedro (@pedro461):
+y desinstalale el win
+09:27:04 - Pedro (@pedro461):
+a menos que lo uses
+09:27:21 - Santiago Ruffino (@santi_0898):
+Cuando abro VSCode, baja bastante el rendimiento. Y ni hablar si tengo Chrome + VSCode + React.
+09:27:28 - Pedro (@pedro461):
+usa VIM
+09:27:30 - Pedro (@pedro461):
+:wink:
+09:27:36 - Jorge Cano (@jorgeucano):
+te diria que cambies a linux
+09:27:37 - Pedro (@pedro461):
+y firefox
+09:27:46 - Pedro (@pedro461):
+:stuck_out_tongue:
+09:27:50 - Santiago Ruffino (@santi_0898):
+Nah, todavia no estoy canchero para vim. Estoy media hora intentando cerrarlo
+09:27:52 - Jorge Cano (@jorgeucano):
+ahi le vas a dar mas tiempo de vida a la compu :stuck_out_tongue: o de usabilidad
+09:27:55 - Pedro (@pedro461):
+jajaja
+09:28:16 - Pedro (@pedro461):
+mira, me parece raro que con 5gb de ram te hag aproblema para tener vscode y chrome abiertos
+09:18:02 - Santiago Ruffino (@santi_0898):
+En que lugar recomiendan comprar una note? Que opinan de comprar notebook usada?
+09:18:40 - Santiago Ruffino (@santi_0898):
+Queria ver si llegaba a una Mac, pero lo veo complicado. Asi que me estaba pensando en tirar por una Lenovo Thinkpad
+09:19:35 - Santiago Ruffino (@santi_0898):
+Nueva, no me da el bolsillo ni a palo. Usada, tengo que invertir como 3 o 4 sueldos
+09:19:42 - Pedro (@pedro461):
+las mac y las thinkpad casi que salen lo mismo jaja
+09:19:43 - Santiago Ruffino (@santi_0898):
+Y de las Thinkpad, que recomiendan?
+09:19:58 - German Gonzalez (@gercho):
+X1 Carbon
+09:20:02 - Pedro (@pedro461):
+serie T yo compraría, son las mas robustas para el día a día
+09:20:11 - Pedro (@pedro461):
+si buscas algo ligero iría por la Carbon
+09:20:37 - Pedro (@pedro461):
+pero esa es tan cara como una mac
+09:20:46 - Santiago Ruffino (@santi_0898):
+No me interesa que sea ligera. Busco un equilibrio entre algo bueno y no tan caro
+09:21:08 - Pedro (@pedro461):
+cualquier cosa con linux :point_up_2:
+09:21:16 - Pedro (@pedro461):
+:stuck_out_tongue:
+09:21:27 - Pedro (@pedro461):
+(enviado desde mi mac)
+09:21:32 - a0viedo (@a0viedo):
+la dell xps creo que es un poco más barata
+09:21:41 - a0viedo (@a0viedo):
+pero la thinkpad es mejor
+09:21:59 - Santiago Ruffino (@santi_0898):
+Igual, digo Thinkpad porque me parece extremedamente comodo el Trackpoint
+09:22:17 - Jorge Cano (@jorgeucano):
+para mi si vas a comprar tenes 2 opciuones mac o thinkpad
+09:22:34 - Mariano Ramonda (@ing.inf.mariano):
+Que presupuesto máximo tenes?
+09:22:44 - Pedro (@pedro461):
+pero entre mac y thinkpad vas a gastar la misma guita
+09:23:13 - Pedro (@pedro461):
+depende a qué te dedicas.. si no sos un frontend del diseño y la UI con thinkpad vas de lujo
+09:23:20 - Santiago Ruffino (@santi_0898):
+Presupuesto? Si alguien me regala una notebook seria lo ideal.
+09:23:58 - Pedro (@pedro461):
+jajaja
+09:24:26 - Jorge Cano (@jorgeucano):
+YO IGUAL te diria que esperes un poco mas
+09:24:29 - Jorge Cano (@jorgeucano):
+si vas a cambiar de laburo
+09:24:32 - Santiago Ruffino (@santi_0898):
+Nah, no se en efectivo. Tengo que tirarme por cuotas si o si. Y podria pagar algo asi como 5-6K de cuota. Y estoy siendo demasiado optimista
+09:24:34 - Jorge Cano (@jorgeucano):
+muchos laburos te dan una notebook
+09:24:56 - Santiago Ruffino (@santi_0898):
+Claro, eso tam,bien lo habia pensado
+09:25:02 - Jorge Cano (@jorgeucano):
+y yo te diria que esperes
+09:25:15 - Jorge Cano (@jorgeucano):
+a menos que se te rompiera la tuya y sea imposible de reparar
+09:25:46 - Pedro (@pedro461):
+por qué la querés cambiar?
+09:25:57 - Santiago Ruffino (@santi_0898):
+Porque mi computadora se esta muriendo lentamente. Jajaja
+09:26:08 - Pedro (@pedro461):
+andas con linux?
+09:26:12 - Pedro (@pedro461):
+o con win?
+09:26:14 - Santiago Ruffino (@santi_0898):
+La compre hace como 2 años, usaba. Porque me robaron la mia. Pero es una Lenovo I3 con 5 de RAM
+09:26:34 - Santiago Ruffino (@santi_0898):
+Linux. Tengo instalado Win por mi hermana. Pero ya no vivo con ella entonces no lo necesito
+09:26:44 - Pedro (@pedro461):
+con linux, Ubuntu 16, volás..
+09:26:58 - Pedro (@pedro461):
+y desinstalale el win
+09:27:04 - Pedro (@pedro461):
+a menos que lo uses
+09:27:21 - Santiago Ruffino (@santi_0898):
+Cuando abro VSCode, baja bastante el rendimiento. Y ni hablar si tengo Chrome + VSCode + React.
+09:27:28 - Pedro (@pedro461):
+usa VIM
+09:27:30 - Pedro (@pedro461):
+:wink:
+09:27:36 - Jorge Cano (@jorgeucano):
+te diria que cambies a linux
+09:27:37 - Pedro (@pedro461):
+y firefox
+09:27:46 - Pedro (@pedro461):
+:stuck_out_tongue:
+09:27:50 - Santiago Ruffino (@santi_0898):
+Nah, todavia no estoy canchero para vim. Estoy media hora intentando cerrarlo
+09:27:52 - Jorge Cano (@jorgeucano):
+ahi le vas a dar mas tiempo de vida a la compu :stuck_out_tongue: o de usabilidad
+09:27:55 - Pedro (@pedro461):
+jajaja
+09:28:16 - Pedro (@pedro461):
+mira, me parece raro que con 5gb de ram te hag aproblema para tener vscode y chrome abiertos
+09:28:26 - Santiago Ruffino (@santi_0898):
+Para mi, el procesador es chico
+09:28:58 - Pedro (@pedro461):
+con linux y ese procesador vas a ir bien, no va a ser una locura de rápido pero no deberías tener tnato problema
+09:29:13 - Santiago Ruffino (@santi_0898):
+Claro
+09:29:20 - Santiago Ruffino (@santi_0898):
+Ya voy a sacarle Win a la mierda
+09:30:07 - Santiago Ruffino (@santi_0898):
+Total, esta la note de mi novia. Ella usa Win
+09:30:34 - Santiago Ruffino (@santi_0898):
+Bueno, entonces voy a esperar si MeLi o Avature me llaman para laburar. Y veo que hago con mi note
+09:30:36 - Santiago Ruffino (@santi_0898):
+JE
+09:36:51 - German Gonzalez (@gercho):
+Que mac recomiendan? No tengo idea y tengo ganas de una macbook pro pero no se si nueva, refurbished o vieja, no se
+09:37:21 - German Gonzalez (@gercho):
+Me fije en Apple recien y macbook pro i7, 8gb de ram con 256 ssd, USD 2k
+09:37:38 - German Gonzalez (@gercho):
+No me parece taaaaaan caro, el problema es gatillar de una jajaja y quien mierda me la trae
+09:38:30 - Gonzalo González Mora (@gonzalogm):
+No es medio cortina 8GB para algo nuevo hoy en día?
+09:39:00 - German Gonzalez (@gercho):
+16gb se va 200dolares más, creo que vale la pena
+09:40:59 - Jorge Cano (@jorgeucano):
+yo tengo esta y estoy muy contento
+09:41:20 - Leandro Echevarria (@echevarrialeandro):
+8gb te vas a quedar con hambre. Por otro lado, 200 usd extra por 8gb adicionales? Fua 12k ARS
+09:41:30 - Pedro (@pedro461):
+tengo 8gb y esoty feliz… lo unic oque me hubiese gustado tener la de 15pulgadas
+09:41:42 - German Gonzalez (@gercho):
+claro, yo todo esto hablo la de 13
+09:41:50 - German Gonzalez (@gercho):
+pero tambien lei por ahí que 15 es demasiado
+09:41:55 - Jorge Cano (@jorgeucano):
+13 no esta mal si la mayoria del tiempo estas conectado a otro monitor
+09:42:31 - Santiago Ruffino (@santi_0898):
+RT Jorge. Yo solo laburo con la pantalla de la note, y cuando uso menos de 15" lo sufro una banda
+09:43:36 - Jorge Cano (@jorgeucano):
+para mi la cosa es asi
+09:43:48 - Jorge Cano (@jorgeucano):
+si normalmente usas la compu en un escritoriocon otro monitor teclado y blah
+09:43:58 - Jorge Cano (@jorgeucano):
+tener una de 13 pulgadas como “segundo monitor” es un golazo queda genial y todo
+09:44:22 - Jorge Cano (@jorgeucano):
+ahora si el 90% del tiempo vas a estar con la de 13 como primera pantalla, para mi perdes un poco
+09:44:25 - Jorge Cano (@jorgeucano):
+pero eso depende de cada uno
+09:44:29 - German Gonzalez (@gercho):
+claro
+09:44:30 - Jorge Cano (@jorgeucano):
+yo tengo la de 15 y estoy super feliz
+09:44:32 - German Gonzalez (@gercho):
+tiene sentido
+09:44:34 - Jorge Cano (@jorgeucano):
+pero es mas grande para mover y demas
+09:44:41 - Pedro (@pedro461):
+si lo del segundo monitor esta bueno.. pero cuando tenés una mac retina y un monitor hd, sufris el cambio… necesitas un monitor 5g y son tan caros como las mac
+09:44:49 - Jorge Cano (@jorgeucano):
+pero cuando no estoy en mi “puesto de trabajo” … nome siento con todo tan chico
+09:45:00 - Jorge Cano (@jorgeucano):
+eso te lo acepto
+09:45:06 - Jorge Cano (@jorgeucano):
+yo termine comprando un curvo ultra wide
+09:45:11 - Jorge Cano (@jorgeucano):
+y ahi siento que estoy en el mismo nivel
+09:45:19 - Pedro (@pedro461):
+si trabajas desde un escritorio no hay nada como la imac
+09:46:02 - German Gonzalez (@gercho):
+cuesta una monedita armarse un buen lugar de trabajo
+09:46:09 - German Gonzalez (@gercho):
+bah, lugar no
+09:46:23 - German Gonzalez (@gercho):
+digo, notebook + monitor etc
+09:46:27 - Jorge Cano (@jorgeucano):
+y si
+09:46:31 - Jorge Cano (@jorgeucano):
+pero es algo que te hace bien a vos
+09:46:33 - Pedro (@pedro461):
+es una inversión
+09:46:34 - Jorge Cano (@jorgeucano):
+osea una buena silla
+09:46:36 - Jorge Cano (@jorgeucano):
+y todo
+09:46:40 - German Gonzalez (@gercho):
+si, sin dudas
+09:46:41 - Jorge Cano (@jorgeucano):
+yo te digo que hace años que trabajo en casa
+09:46:45 - Jorge Cano (@jorgeucano):
+es lo mejor que podes invertir
+09:46:48 - German Gonzalez (@gercho):
+yo igual en el laburo me dan una x1 carbon
+09:46:51 - German Gonzalez (@gercho):
+es una nave
+09:46:54 - Jorge Cano (@jorgeucano):
+buena compu, buena silla
+09:46:59 - Jorge Cano (@jorgeucano):
+y demas, hace que estes mejor vos
+09:47:17 - German Gonzalez (@gercho):
+pero no se, no me siento comodo trabajando con cosas mias fuera del laburo con la notebook de ellos
+09:48:09 - Diego Harari (@diehara):
+con una mac
+09:48:18 - Diego Harari (@diehara):
+vas a tirar 4 años mínimo si la cuidas
+09:48:28 - Diego Harari (@diehara):
+y después para cambiar tiene buen precio de reventa
+09:48:44 - Diego Harari (@diehara):
+la vida util de pc seran 2, 3 años
+09:52:36 - Nico (@nicokorn96):
+de las thinkpad tenes una variedad impresionante todo depende tu presupuesto
+09:52:55 - Nico (@nicokorn96):
+yo tuve la t430 y la vendi por la t450
+09:53:16 - Brian Hume (@brianh20):
+es la que va, yo tengo la misma
+09:53:53 - Santiago Ruffino (@santi_0898):
+Yo tengo la t420
+09:54:11 - Brian Hume (@brianh20):
+con una mac podes llegar a tirar muchisimo mas de 4 años, mi novia la tiene hace 7 y el unico problema que tuvo hasta ahora es que compro una con un disco "chico"
+09:54:38 - Nico (@nicokorn96):
+no hay mejor teclado que las thinkpad, y mira que ademas de las thinkpad tengo la nueva macbook con ese teclado que deja tanto de desear.....
+09:54:39 - Brian Hume (@brianh20):
+a mi me dieron una bastante pulenta en el trabajo pero venia haciendo native con una air 2014 lo mas bien
+09:54:49 - Nico (@nicokorn96):
+mil veces me quedo con la thinkpad
+09:54:56 - Nico (@nicokorn96):
+solo por el teclado
+09:55:03 - Brian Hume (@brianh20):
+cosas que una maqunia con windows no se hubiera bancado nunca los dos emuladores, un docker, compilar y escuchar musica al mismo tiempo
+09:55:12 - Brian Hume (@brianh20):
+no estoy haciendo publicidad
+09:55:43 - Santiago Ruffino (@santi_0898):
+Y netflix lo tira bien? :troll:
+09:56:31 - Ezequiel Leites (@leites25):
+Yo tengo una MBP Mid 2012, le puse 16GB de Ram, un SSD de 240 en el lugar de la lectora de DVD y anda espectacular. Como Brian, corró Docker, emulador de iOS, y stuff y va re bien
+09:56:47 - Ezequiel Leites (@leites25):
+Lo unico feo es lo que refleja y como dicen, sin monitor externo queda medio chiquito
+09:57:07 - Ezequiel Leites (@leites25):
+En el laburo anterior usaba una Zenbook Full HD con pantalla Mate, y era hermoso :drooling_face:
+09:58:14 - Nico (@nicokorn96):
+lo bueno es que tenes el teclado viejo de mac jaaaj
+09:58:15 - Brian Hume (@brianh20):
+si pasan por este debate: no al monitor curvo para trabajar.
+09:58:22 - Brian Hume (@brianh20):
+en mi experiencia al menos, no me sumó
+09:58:43 - Santiago Ruffino (@santi_0898):
+Pelea pelea pelea
+09:58:49 - Martin Carrera (@mcarrera):
+Si pensas cambiar de compu y de laburo, podes charlarlo a la hora de entrar y decirles que necesitas comprar una compu, capaz te mandan una o te dan un presupuesto para que te compres una
+09:59:02 - Martin Carrera (@mcarrera):
+a fin de cuentas, a la gente de tu nueva empresa le conviene que tengas una buena compu para laburar
+09:59:07 - Ezequiel Leites (@leites25):
+Hace unas semanas empece a usar teclado y mouse inalambricos y deje fija la notebook, me ayuda un monton a estar sentado mas derecho
+09:59:21 - Jorge Cano (@jorgeucano):
+sin duda
+09:59:26 - Jorge Cano (@jorgeucano):
+hay que invertir en el lugar de trabajo
+09:59:30 - Nico (@nicokorn96):
+vi este en un review y fue tipo <https://listado.mercadolibre.com.ar/cf791#D[A:cf791,L:undefined]>
+09:59:35 - Jorge Cano (@jorgeucano):
+vas a estar muchas horas sentado
+09:59:36 - Nico (@nicokorn96):
+lo quiero
+09:59:56 - Jorge Cano (@jorgeucano):
+yo tengo ese pero no en 34
+09:59:56 - Ezequiel Leites (@leites25):
+Yo le tengo ganas hace rato, pero es como tan innecesario
+10:00:00 - Jorge Cano (@jorgeucano):
+y lo pague mucho mucho mas barato :stuck_out_tongue:
+10:00:03 - Nico (@nicokorn96):
+me lo regalas?
+10:00:12 - Jorge Cano (@jorgeucano):
+nop :slightly_smiling_face:
+10:00:15 - Jorge Cano (@jorgeucano):
+lo uso todos los dias
+10:00:31 - Nico (@nicokorn96):
+:disappointed:
+10:00:43 - Nico (@nicokorn96):
+ya inverti en la silla
+10:00:47 - Nico (@nicokorn96):
+1 de 2 tengo
+10:00:47 - Jorge Cano (@jorgeucano):
+cañito
+10:00:54 - Jorge Cano (@jorgeucano):
+jajajaj bueno de apooc
+10:01:06 - Santiago Ruffino (@santi_0898):
+Todavia no consegui laburar remoto. Voy 0 de 2
+10:01:08 - Jorge Cano (@jorgeucano):
+igual para mi es =&gt; compu , silla, escritorio, monitor, teclado mouse
+10:01:08 - Nico (@nicokorn96):
+<@U1XSDSM4H> sirve para conectar el deco de cablevision flow?
+10:01:12 - Nico (@nicokorn96):
+o se ve como el orto?
+10:01:27 - Jorge Cano (@jorgeucano):
+ni idea… no tengo ese deco y la uso solo para la compu
+10:01:34 - Nico (@nicokorn96):
+ah
+10:01:36 - Jorge Cano (@jorgeucano):
+para la tele tengo una tele comun xD
+10:01:46 - Nico (@nicokorn96):
+porque no tengo espacio para tele y monitor
+10:01:52 - Nico (@nicokorn96):
+vah si pero no quiero tantas pantallas
+10:01:59 - Nico (@nicokorn96):
+tipo quiero 1 copada o 2 chicas
+10:02:12 - Jorge Cano (@jorgeucano):
+te diria que no vayas por ultra wide entonces
+10:02:16 - Jorge Cano (@jorgeucano):
+se va a ver raro xD
+10:02:17 - Nico (@nicokorn96):
+pero 2 chicas implica no ver tele
+10:02:19 - Nico (@nicokorn96):
+jaaj
+10:02:19 - Martin Carrera (@mcarrera):
+el deco de flow lo podes poner en cuakquier cosa que tenga HDMI
+10:02:21 - Jorge Cano (@jorgeucano):
+te va a desdimencionar todo
+10:02:30 - Jorge Cano (@jorgeucano):
+para trabajar esta bueno
+10:02:38 - Jorge Cano (@jorgeucano):
+porque podes splitear mas cosas
+10:02:40 - Santiago Ruffino (@santi_0898):
+Para mi, el curvo no va para ver television. Excepto que tengas un living armado que sea de puta madre
+10:02:48 - Jorge Cano (@jorgeucano):
+yo meto hasta 3 files del webstorm
+10:02:52 - Martin Carrera (@mcarrera):
+seguramente en ese monitor ultra wide se vea MUY MAL la tele
+10:03:09 - Jorge Cano (@jorgeucano):
+yo era anti-curvos
+10:03:25 - Jorge Cano (@jorgeucano):
+estuve como 4 dias rompiendo las bolas, leyendo y mirando muchos videos de explicaciones de porque si y porque no
+10:03:33 - Jorge Cano (@jorgeucano):
+y ahora estoy super contento con mi wide curvo
+10:03:46 - Ezequiel Leites (@leites25):
+Usas solo ese monitor o la notebook tbm?
+10:03:56 - Jorge Cano (@jorgeucano):
+la notebook (15 pulgadas) lo uso como segunda pantalla
+10:04:06 - Jorge Cano (@jorgeucano):
+consola / slack / otras mensajerias
+10:04:31 - Ezequiel Leites (@leites25):
+No andas girando mucho la cabeza?
+10:04:37 - Ezequiel Leites (@leites25):
+Vah, me imagino que consume mucho espacio a lo largo
+10:04:42 - Jorge Cano (@jorgeucano):
+nono
+10:04:49 - Jorge Cano (@jorgeucano):
+porque tengo lo que menos miro
+10:05:02 - Jorge Cano (@jorgeucano):
+diria que uso 85% del tiempo el main monitor
+10:05:43 - Santiago Ruffino (@santi_0898):
+No se nota que usaras poco Slack :joy:
+10:05:44 - Santiago Ruffino (@santi_0898):
+Jajajaja
+10:05:58 - Jorge Cano (@jorgeucano):
+hoy porque no tengo muchas ganas de laburar
+10:06:04 - Jorge Cano (@jorgeucano):
+pero si te fijas… ultimamente estoy poco por aqui
+10:06:10 - Jorge Cano (@jorgeucano):
+mucho laburo, la ngconf es la semana que viene
+10:06:11 - German Gonzalez (@gercho):
+de cuanto el monitor jorge?
+10:06:16 - Jorge Cano (@jorgeucano):
+estoy preparando mi charla para el io
+10:06:19 - Jorge Cano (@jorgeucano):
+es un 24 :slightly_smiling_face:
+10:08:46 - Nico (@nicokorn96):
+(promocionando jeje)
+10:08:56 - Jorge Cano (@jorgeucano):
+naaa
+10:08:58 - Nico (@nicokorn96):
+aceptas autografos?
+10:08:59 - Jorge Cano (@jorgeucano):
+no gano nada xD
+10:14:14 - Brian Hume (@brianh20):
+jajajaj que tira piedras que sos!
+
+no lo habia visto
+10:16:23 - Rodrigo Ali (@rodrigojali):
+Holi gente. Quería usar un toque este espacio para avisarles de un evento que sacaron a pulmón unos chicos de Córdoba: <https://webconf.tech/>
+
+Ojalá pueda venir alguno de ustedes :smile:
+10:17:05 - Santiago Ruffino (@santi_0898):
+Me voy a retirar lentamente...
+10:17:14 - Marcelo Galigniana (@mgaligniana):
+Estaba en la misma!! :muscle:
+10:17:33 - Adrián Velasco (@adrivelasco1506):
+se nota mucho la diferencia entre los modelos de las mac de 8gb a 16gb (ram)? cada upgrade son como u$d 200 jajaja, mucha guita
+10:18:05 - Jorge Cano (@jorgeucano):
+el problema es que no podes mandarle vos mas ram
+10:18:07 - Marcelo Galigniana (@mgaligniana):
+No se si paso el tema de las compus, pero las thinkpad serie T son muy buenas, si queres algo accesible tengo dos compas que tienen la T440 y ningun problema
+10:18:12 - Jorge Cano (@jorgeucano):
+es cuando la compras o nunca xD
+10:18:22 - Marcelo Galigniana (@mgaligniana):
+Y yo tengo la T470s
+10:18:26 - Marcelo Galigniana (@mgaligniana):
+Las 's' son :muscle:
+10:21:05 - Gonzalo González Mora (@gonzalogm):
+En las Macs no les podés cambiar la RAM y en las más nuevas ni el disco, así que hay que pensar bien ese tema
+10:24:19 - Jorge Cano (@jorgeucano):
+el tema mac es la que compras es la que queda
+10:24:22 - Jorge Cano (@jorgeucano):
+no tiene forma de upgrade
+10:28:40 - Sergio Daniel Xalambrí (@sergiodxa):
+Una vez compré la Mac con menos RAM y menos disco (la más barata) y al año y medio estaba comprando otra con cuatro veces más disco y el doble de RAM
+10:28:57 - Sergio Daniel Xalambrí (@sergiodxa):
+Moraleja, compren con mucho espacio y ram 
+10:29:13 - Sergio Daniel Xalambrí (@sergiodxa):
+Les va a salir más barato estos 200 dólares por ram 
+10:29:37 - Diego Harari (@diehara):
+este ese el sueño del pibe
+10:29:37 - Diego Harari (@diehara):
+<https://www.youtube.com/watch?v=peiYvyhvk-w&amp;t=738s>
+10:30:27 - Jorge Cano (@jorgeucano):
+te quedaste sin luz o internet y no podes irte ni a un starbucks xD
+10:34:08 - Santiago Ruffino (@santi_0898):
+El es sergio. Sergio compro una Mac con poca RAM y poco disco. Ahora tiene que comprar una Mac de nuevo. No seas como Sergio.
+10:36:56 - Nico (@nicokorn96):
+yo hice eso, compre la macbook 2018  con 16 de ram y 512 de almacenamiento. pasaron 4 meses y todavia ni ocupe 50gb ni use mas de 8 gb.... y la touchbaar esta de decoracion
+10:37:43 - Nico (@nicokorn96):
+le falta leds strips rgb
+10:38:41 - Santiago Ruffino (@santi_0898):
+La touchbar :drooling_face:
+10:38:42 - Gonzalo González Mora (@gonzalogm):
+Yo tengo la de 16GB y estoy siempre bastante al límite me parece, me suena que con 8GB me cago de hambre. Pero a veces tengo abiertas muchas pestañas de Chrome + XCode + WebStorm + Slack con varios slacks + apps varias
+10:39:09 - Nico (@nicokorn96):
+depende que OS uses
+10:39:27 - Nico (@nicokorn96):
+yo usaba linux con una t430 con 8gb de ram y iba re bien
+10:39:37 - Nico (@nicokorn96):
+y me salio 200 usd la pc
+10:39:38 - Nico (@nicokorn96):
+jaaja
+10:39:45 - Nico (@nicokorn96):
+comparalo con la mac
+10:39:49 - Jorge Cano (@jorgeucano):
+todo depende qu ehagas
+10:39:51 - Jorge Cano (@jorgeucano):
+si haces solo web
+10:39:57 - Jorge Cano (@jorgeucano):
+posiblemente nop tengo mucho problema
+10:40:04 - Jorge Cano (@jorgeucano):
+pero todo depende demasiado
+10:40:07 - Nico (@nicokorn96):
+nono tenia vms abiertas cada tanto
+10:40:12 - Jorge Cano (@jorgeucano):
+el tema es cuando necesitas darle un poco mas de rosca
+10:40:12 - Nico (@nicokorn96):
+2 o 3 vms
+10:40:21 - Jorge Cano (@jorgeucano):
+y no le da el procesamiento
+10:40:24 - Diego Ferrari (@die.a.ferrari):
+<https://www.instagram.com/p/BlEGtvOAl3z/?utm_source=ig_web_copy_link>
+10:40:31 - Nico (@nicokorn96):
+JAAJAAJ
+10:40:42 - Nico (@nicokorn96):
+no sirve para nada
+10:41:35 - Santiago Ruffino (@santi_0898):
+JAJAJAJA
+10:41:35 - Adrián Velasco (@adrivelasco1506):
+La Macbook Pro 2018 (512gb + 16gb ram) está en BestBuy en $2200 (sin incluir taxes), el mismo modelo con 8gb ram + 256gb ssd la encontrás en $1500 - $1600. La diferencia es un :point_right::ok_hand:
+10:41:57 - Nico (@nicokorn96):
+se
+10:42:08 - Nico (@nicokorn96):
+igual mejor irse con un modelo 2015
+10:42:21 - Nico (@nicokorn96):
+que en performance si haces cosas del dia a dia no cambia tanto
+10:42:28 - Nico (@nicokorn96):
+y tenes el teclado mejor
+10:42:31 - Jorge Cano (@jorgeucano):
+todo depende que haces obviamente
+10:42:36 - Nico (@nicokorn96):
+si ovbio
+10:42:36 - Jorge Cano (@jorgeucano):
+a mi personalmente me gusta mas el teclado de la nueva
+10:42:44 - Jorge Cano (@jorgeucano):
+pero bueno, nunca se me rompio xD
+10:42:51 - Nico (@nicokorn96):
+te lo defiendo a muerte que lo odio
+10:43:00 - Nico (@nicokorn96):
+igual a mi tampoco se me rompio
+10:43:06 - Nico (@nicokorn96):
+pero es porque tengo tambien una thinkpad
+10:43:23 - Nico (@nicokorn96):
+entonce adoro el teclado de lenovo
+10:43:53 - Jorge Cano (@jorgeucano):
+ahhh bueno ahi cambio un poco
+10:44:00 - Nico (@nicokorn96):
+y que la mac se calienta con solo verla
+10:44:09 - Nico (@nicokorn96):
+nose si te pasa
+10:44:14 - Nico (@nicokorn96):
+o es solo mi mac
+10:44:22 - Nico (@nicokorn96):
+igual tengo la de 13
+10:46:28 - Jorge Cano (@jorgeucano):
+jajaj a veces cuando le doy paliza con videos y streaming
+10:46:30 - Jorge Cano (@jorgeucano):
+se caliente
+10:46:40 - Jorge Cano (@jorgeucano):
+igual la tengo en una base con 8 coolers
+10:51:18 - Martín Valdés de León (@mvaldesdeleon):
+Che, a la gente que tiene cuentas en los bancos digitales argentos, que documentacion les piden para registrarse?
+10:51:52 - Martin Carrera (@mcarrera):
+foto de DNI y un video diciendo una frase
+10:52:00 - Martin Carrera (@mcarrera):
+no me acuerdo si algo mas
+10:52:02 - Martín Valdés de León (@mvaldesdeleon):
+Estoy pensando pasar de banco fisico a alguno de estos, pero hoy en dia se me complicaria conseguir "factura de servicio a mi nombre"
+10:52:07 - Martín Valdés de León (@mvaldesdeleon):
+y esas cosas que piden para validar la direccion
+10:52:33 - Martin Carrera (@mcarrera):
+no necesitas eso
+10:52:38 - Santiago Ruffino (@santi_0898):
+A mi no me pidieron servicio ni nada
+10:52:47 - Santiago Ruffino (@santi_0898):
+DNI, y una selfie o un video selfie
+10:52:49 - Santiago Ruffino (@santi_0898):
+Nada mas
+10:52:51 - Martin Carrera (@mcarrera):
+lo unico para mandar la tarjeta fisica, tenes que mandarla a una direccion en argentina :stuck_out_tongue_winking_eye:
+10:53:20 - Martín Valdés de León (@mvaldesdeleon):
+Peola.
+10:53:31 - Martín Valdés de León (@mvaldesdeleon):
+Y tenes cuenta con CBU y toda la gilada calculo, no?
+10:53:39 - Santiago Ruffino (@santi_0898):
+Sep
+10:54:00 - Santiago Ruffino (@santi_0898):
+CBU, Alias, en algunos podes comprar U$D, plazos fijos, prestamos
+10:54:01 - Santiago Ruffino (@santi_0898):
+Tarjeta de credito
+10:54:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Hay una q se llama uala
+10:54:52 - Aldo Gabriel Rojas (@aldogrojas5):
+No tiene muchos requisitos... lo que me parece es q aun no sacan tarjeta de credito
+10:55:18 - Santiago Ruffino (@santi_0898):
+Es una tarjeta de credito prepaga. No tenes CBU ni nada de eso
+10:55:28 - Santiago Ruffino (@santi_0898):
+No es el mismo funcionamiento que Wilo o Brubank
+10:55:59 - Martin Carrera (@mcarrera):
+el unico problema que le encontre hasta ahora a Brubank, es que es unico titular y no tenes extensiones de la tarjeta
+10:56:46 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahhhh pensé q te daban una cbu :grin:
+10:58:35 - Santiago Ruffino (@santi_0898):
+Y Wilo es igual?
+10:58:49 - Santiago Ruffino (@santi_0898):
+Para mi, Brubank es mejor que Wilo. En UI, y el "alcance" de la tarjeta
+10:59:04 - Pedro (@pedro461):
+tengo Brubank y va de perlas
+10:59:32 - Santiago Ruffino (@santi_0898):
+Tenes un CBU donde podes transferir desde tu cuenta bancaria, para que se acredite en tu Uala. Pero ponele, vos no podes transferir a mi Uala
+11:00:05 - Martin Carrera (@mcarrera):
+no probe Wilo, la UI me parecio horrible y no pase del onboarding
+11:00:17 - Santiago Ruffino (@santi_0898):
+Por lo unico que no me paso por completo a Brubank, es porque Wilo te paga intereses sobre la caja de ahorros
+11:00:29 - Rodrigo Juarez (@rjuarez):
+me gustaría bastante reemplazar a la mierda bbva frances con algo que no me cobre comisiones por cada boludez que hago o mantenimiento
+11:01:09 - Santiago Ruffino (@santi_0898):
+Wilo bonifica todo eso (por ahora)
+11:01:11 - Aldo Gabriel Rojas (@aldogrojas5):
+Posta? Cuánto te pagan?
+11:01:13 - Rodrigo Juarez (@rjuarez):
+brubank / wilo / uala, con todos esos recibis un CBU para transferencia ?
+11:01:24 - Santiago Ruffino (@santi_0898):
+Brubank y Wilo si. Uala no
+11:01:26 - Rodrigo Juarez (@rjuarez):
+quisiera mandarle guita con transferwise y olvidarme
+11:01:51 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro, es una cagada eso...
+11:02:22 - Rodrigo Juarez (@rjuarez):
+tenes Brubank y solo pidieron DNI + video?
+11:04:18 - Santiago Ruffino (@santi_0898):
+Yas
+11:05:54 - Martín Valdés de León (@mvaldesdeleon):
+<@U4MSULB2R> same
+11:06:16 - Martín Valdés de León (@mvaldesdeleon):
+Brubank tb te da credit card?
+11:07:03 - Martín Valdés de León (@mvaldesdeleon):
+y pregunta 2: PagoMisCuentas anda tb con wilo/bru?
+11:09:09 - Santiago Ruffino (@santi_0898):
+Brubank creo que no tiene tarjeta de credito. Wilo si
+11:09:21 - Santiago Ruffino (@santi_0898):
+No uso PagoMisCuentas asi que YO no sabria decirte
+11:09:27 - Santiago Ruffino (@santi_0898):
+Como sabes si podes usarlo o no?
+11:09:49 - Martín Valdés de León (@mvaldesdeleon):
+Deberia haber un link en algun lado que te mande a la UI de pagomiscuentas
+11:10:44 - Santiago Ruffino (@santi_0898):
+Ah, entonces creo que no
+11:10:54 - Ezequiel Leites (@leites25):
+O poder generar la clave de pago mis cuentas desde un cajero
+11:11:15 - Santiago Ruffino (@santi_0898):
+Algo MUY importante, es que no existen (todavia) las cuentas sueldo
+11:11:24 - Santiago Ruffino (@santi_0898):
+A mi me depositan en Wilo, y me sacan IIBB
+11:11:35 - Santiago Ruffino (@santi_0898):
+Pierdo cerca de $400 cuando me transfieren el sueldo
+11:12:18 - Martin Carrera (@mcarrera):
+eso es otro tema
+11:12:21 - Martin Carrera (@mcarrera):
+lo de IIBB
+11:12:30 - Martin Carrera (@mcarrera):
+te diria que no tenes algo en regla con AGIP o ARBA o quien sea :stuck_out_tongue_winking_eye:
+11:12:53 - Santiago Ruffino (@santi_0898):
+Por lo que me dijeron, como no soy Profesional, me tienen que sacar esa plata.
+11:12:56 - Martín Valdés de León (@mvaldesdeleon):
+hm... y eso es porque deliberadamente dice "sueldo" o algo en la transferencia?
+11:13:04 - Santiago Ruffino (@santi_0898):
+Cuando estaba en monotributo, me l odescontaban igualk
+11:13:17 - Santiago Ruffino (@santi_0898):
+Es del sueldo. Porque recibi tranferencias de un monto similar, y no me sacaron nada
+11:13:19 - Martin Carrera (@mcarrera):
+claro pero no te lo deberian sacar
+11:13:24 - Martin Carrera (@mcarrera):
+deberias vos pagarlo “voluntariamente”
+11:13:41 - Santiago Ruffino (@santi_0898):
+Pero no se bien como funciona. Antes, en Santader, me sacaban de cualquier plata que entraba. Si transferia $10, me sacaban $0,03
+11:13:46 - Martin Carrera (@mcarrera):
+averigua bien con un contador
+11:13:48 - Ezequiel Leites (@leites25):
+ARBA por default te saca IIBB siempre creo
+11:14:07 - Jorge Cano (@jorgeucano):
+el santander es terrible con eso
+11:14:12 - Jorge Cano (@jorgeucano):
+una vez que tenes la marca
+11:14:15 - Ezequiel Leites (@leites25):
+Si te quejas dejan de sacarte, pero es un quilombo que te devuelvan la plata / te la tomen en cuenta para otro impuesto
+11:14:22 - Jorge Cano (@jorgeucano):
+te sacan por presunción
+11:14:30 - Martin Carrera (@mcarrera):
+no pasa x el banco eso
+11:14:50 - Martin Carrera (@mcarrera):
+pasa porque ARBA o quien sea te marca como “a este moncho sacale un x% de toda la guita que le entre”
+11:15:33 - Martin Carrera (@mcarrera):
+si te asesoras bien con un contador y presentas las declaraciones juradas correspondientes deberian dejar de sacarte
+11:15:41 - Martin Carrera (@mcarrera):
+pero te tenes que encargar vos de pagarlo
+11:16:08 - Dario Miñones (@dminones):
+A mi me agregaron a hacer ese descuento cuando puse mi cbu en monotributo como cuenta para recibir. Ahora cualquier plata que llega hacen eso
+11:16:26 - Dario Miñones (@dminones):
+Excepto si me depositan el sueldo
+11:18:37 - Santiago Ruffino (@santi_0898):
+<https://www.ca.gob.ar/resultados/sistemas/sircreb/como-proceder-si-fue-incorporado-al-sistema-sircreb-como-contribuyente-local-de-la-provincia-de-cordoba-y-desconoce-los-motivos-de-la-inclusion>
+12:31:52 - Sergio Gianazza (@gianu):
+yo tengo wilobank hace ya varios meses y todo super de 10, lo recomiendo. Tuve cero drama hasta ahora, use la tarjeta de débito, la de crédito, puse plazo fijo, todo funcionó de 10
+12:32:18 - Sergio Gianazza (@gianu):
+hasta me dieron Airport Experience y pude entrar a VIPs en los viajes
+12:38:35 - Gonza Espeche (@espeche.g):
+me atrae la idea de pasarme a un banco digital… hasta ahora toda mi vida me moví con bancos tradicionales
+13:35:42 - Brian Hume (@brianh20):
+hasta podes jugar (?) :stuck_out_tongue:
+13:58:01 - Aldo Gabriel Rojas (@aldogrojas5):
+Gente... que tal la evaluación de duolingo? Pregunto pq veo q preguntan mucho el nivel de Inglés. Da algún parametro hasta donde llegaste en la app?
+14:01:20 - Alex Ruzzarin (@alexruzzarin):
+Wilo *no tiene* Pago Mis Cuentas, todos los meses tengo que transferir plata a una amiga para que ella me pague una cuenta por pago mis cuentas.
+14:02:21 - Alex Ruzzarin (@alexruzzarin):
+Y teléfono de Argentina para el SMS de validación. Me quede en ese paso
+14:06:37 - Rodrigo Ali (@rodrigojali):
+<@UGW464VJS> Tengo entendido que sí, igual todo el nivel de Duolingo termina siendo medio básico. Yo no lo hice al roadmap, directamente fui a rendir los "niveladores" que tiene del final y fue simple, haciendo esos "exámenes" me validó todo el árbol de conocimiento.
+14:06:59 - Rodrigo Ali (@rodrigojali):
+Así que te diría que si sabés literalmente 0 de un idioma y querés aprender lo básico de ese idioma, sí uses Duolingo
+14:07:15 - Rodrigo Ali (@rodrigojali):
+Ahora, si querés aprender el idioma a un nivel de competencia profesional, no creo que Duolingo sea el camino.
+14:17:53 - Luis Ventocilla (@lvsmix):
+Una pregunta con los que usan Brubank o WiloBank
+14:23:03 - Luis Ventocilla (@lvsmix):
+la cotizacion en dolares es mas barato
+14:23:09 - Luis Ventocilla (@lvsmix):
+con respecto a los otros bancos?
+14:23:47 - Luis Ventocilla (@lvsmix):
+Con respecto a los pagos de los servicios, estoy averiguando si por ahi tienen canal capaz com pagosmiscuentas no tienen pero con Linkpagos capaz tienen  acceso
+14:23:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro! Me parece super sencillo. Manejo bastante bien inglés... hablo medio duro nomás. Lo bajé como para practicar la dicción y me resultó bastante básico
+14:24:43 - Luis Ventocilla (@lvsmix):
+seria lo mismo para el pago de servicios cc <@U0TFEHWEA> <@U0504SN65>
+14:27:25 - Alex Ruzzarin (@alexruzzarin):
+Wilo tengo entendido que está integrado con Link. Pero la factura esa que tengo es solo con Pago mis cuentas
+14:27:52 - Luis Ventocilla (@lvsmix):
+ahhhh, ahora me cierra.
+14:31:09 - Rodrigo Ali (@rodrigojali):
+Para mi, lo mejor para mejorar el nivel oral es hablando con otras personas. LO MEJOR sería un profe particular, seguido por buscar juntadas de gente que hable en inglés por donde vivís y sumarte. Speaklink hace eso y suele tener grupos en todos lados.
+14:43:17 - Aldo Gabriel Rojas (@aldogrojas5):
+Uh buen dato! Ahora lo chusmeo! Gracias <@UFFG5EPGU>!!
+17:48:10 - Ariel Ruiz (@soloarielruiz):
+Disculpen, la invitación a este canal alguien la posee?
+17:53:35 - Rodrigo Ali (@rodrigojali):
+<https://slack.meetupjs.com.ar/>
+17:54:32 - Agustin Polo (@apolo_codes):
+En la descripcion de <#C04346591|general> esta el link a partir del cual van a encontrar todas las redes :slightly_smiling_face:
+17:57:39 - Ariel Ruiz (@soloarielruiz):
+Gracias
+20:09:54 - Francisco (@frajova):
+<https://github.com/Microsoft/BosqueLanguage>
+
+Nuevo lenguaje de MS (?)
