@@ -1,0 +1,343 @@
+21:49:34 - Maxi (@tholem98):
+No se puede usar <http://socket.io|socket.io> para escuchar eventos (como el click de un boton) y enviarlo al backend, no?
+22:05:49 - Pablo Miceli (@pablomiceli24):
+si tenes que mandar cosas del cliente al server, quizas ni hace falta <http://socket.io|socket.io>
+21:49:34 - Maxi (@tholem98):
+No se puede usar <http://socket.io|socket.io> para escuchar eventos (como el click de un boton) y enviarlo al backend, no?
+22:05:49 - Pablo Miceli (@pablomiceli24):
+si tenes que mandar cosas del cliente al server, quizas ni hace falta <http://socket.io|socket.io>
+22:06:03 - Pablo Miceli (@pablomiceli24):
+si fuera del server al cliente, ahi si
+23:03:46 - Sergio Daniel Xalambrí (@sergiodxa):
+:+1:
+23:13:30 - Dario Miñones (@dminones):
+Un adaptador de plug a plug que tenga el hembra con uno no falseado 
+23:14:06 - Dario Miñones (@dminones):
+Y el macho que vaya bien. Podes probarlos y pedir q Te armen el cable con las fichas q anden bien. 
+01:59:51 - Maxi (@tholem98):
+Pero se puede? Porque debido a algunas situaciones no puedo enviarlas con javascript, y recibirlos como post tampoco funciona, por lo que necesito mas opciones
+02:03:07 - Julian (@jantonielli01):
+Vas a necesitar js desde el browser para esas cosas
+02:03:18 - Julian (@jantonielli01):
+Que situaciones son?
+07:11:10 - Maxi (@tholem98):
+Estoy trabajando con nodejs, y el js debe renderizar una serie de divs con condicionales dentro, para lo cual estoy usando ejs. Es por eso que no puedo usar js, porque al enviar el div con condicionales ejs me lo envia como html y tengo los &lt;%=prod.cost - coins%&gt; en el medio del div
+08:29:09 - Maxi (@tholem98):
+Por eso intento que el evento del boton sea recibido desde el backend para cambiar el valor de prod desde allí y volver a renderizar el ejs con el nuevo valor del prod...
+08:33:04 - Martín Valdés de León (@mvaldesdeleon):
+_A priori_ suena un poco raro. En general lo que se hace es una de estas dos opciones:
+1. El Backend envia data "cruda" al Frontend (x ej, un JSON), y el Frontend tiene los templates y los renderiza dinamicamente, usando la data que el Backend envio.
+2. El Frontend envia data "cruda" al Backend y el Backend tiene los templates y los renderiza dinamicamente, usando la data que el Frontend envio. Como resultado, el Backend envia el HTML renderizado al Frontend.
+08:33:46 - Martín Valdés de León (@mvaldesdeleon):
+Lo normal hoy en dia es la primer opcion. La 2da opcion seria lo que se hacia antes en un sitio php/asp/etc "clasico".
+08:39:57 - Martín Aimar (@maimar):
+el websocket es bidireccional, se debería poder mandar data del cliente al server por ahí
+10:33:02 - Jorge Cano (@jorgeucano):
+buenas buenas… tengo que correr 4 scripts de mi package.json en un mismo script
+10:33:18 - Jorge Cano (@jorgeucano):
+el problema es que son todos del tipo “watch” y lanzan distintos logs
+10:33:43 - Jorge Cano (@jorgeucano):
+queria onda crear un script unico o sh para lanzarlos … el tema es que  me gustaria “colorear” los logs que devuelven cada uno
+10:33:48 - Jorge Cano (@jorgeucano):
+algun idea de eso ?¿
+10:37:24 - Juan Scolari (@juanscolari):
+con algo como esto? <https://github.com/chalk/chalk-cli>
+10:37:54 - Jorge Cano (@jorgeucano):
+creo que es algo mas como esto
+10:37:54 - Jorge Cano (@jorgeucano):
+<https://www.npmjs.com/package/concurrently>
+10:38:03 - Jorge Cano (@jorgeucano):
+necesito tener el menor impacto posiuble en los devs
+10:39:04 - Martín Valdés de León (@mvaldesdeleon):
+`concurrently` soporta colores
+10:40:02 - Juan Scolari (@juanscolari):
+sisi, es la que va parece
+10:41:58 - Jorge Cano (@jorgeucano):
+es como la mejor opcion no?
+10:42:02 - Jorge Cano (@jorgeucano):
+osea para correrlos todos juntos
+10:42:09 - Jorge Cano (@jorgeucano):
+y meterle colorcitos?
+10:42:32 - Martín Valdés de León (@mvaldesdeleon):
+Probalo y fijate que onda, deberia ser straightforward de agregar.
+10:43:18 - Juan Scolari (@juanscolari):
+se ve bastante robusto, no lo conocia
+10:43:21 - Rodrigo Ali (@rodrigojali):
+~De 996 a soylent green y tener huertas en 1 hora.~
+10:43:48 - Juan Scolari (@juanscolari):
+wrong channel rodri (?
+10:44:35 - Santiago Ruffino (@santi_0898):
+:francella:
+10:44:53 - Rodrigo Ali (@rodrigojali):
+Uy, mala mia, pirdin
+10:44:57 - Maxi (@tholem98):
+El problema es que estoy haciendo lo siguiente:
+
+```
+app.get('/', async (req,res)=&gt;{
+  var request = require('request');
+
+
+request({
+     method: 'GET',
+     url: '<https://aerolab-challenge.now.sh/products>',
+     headers: {
+       'Content-Type': 'application/json',
+       'Accept': 'application/json',
+       'Authorization': 'Bearer My-Token'
+     }},  function (error, response, body) {
+      console.log('Status:', response.statusCode);
+      const session = require('express-session')
+      const arraySort = require('array-sort')
+      const prod = arraySort(JSON.parse(body),'cost',{reverse:true});
+        
+      
+
+      if(req.session.username){
+     res.render('index.ejs',{
+       prod,
+       user:req.session.username,
+      coins: req.session.coins,
+      
+      })
+      
+    }else{
+      res.render('index.ejs',{
+        prod,
+        user:req.session.username,
+        coins: '',
+        
+       })
+    }
+       });
+     })
+```
+
+Los req.session los obtengo de
+```
+<http://app.post|app.post>('/',  (req,res)=&gt;{
+req.session.username = req.body.username;
+req.session.coins = req.body.coins;
+user = req.session.username
+coins = req.session.coins
+console.log(coins)
+/*Probar agregando inputs nodisplay con valores predefinidos y sobreescribiendo el orden
+de prod con el valor del input que es recibido al enviar el boton submit*/
+res.redirect('/')
+})
+```
+
+Dejo el request dentro del get y paso toda la respuesta dentro del request. Por esta razon es que estoy bastante limitado a lo que puedo y no hacer. Intente wrapearlo pero no me salio asi que supuse que esta era la mejor opcion, solo que olvide la interaccion en el frontend
+10:45:06 - Maxi (@tholem98):
+Y lo que renderizo es:
+
+```&lt;div class="row "&gt;
+      &lt;div&gt;
+        
+      &lt;img src="/header-x2.png" alt=""&gt;
+    &lt;/div&gt;
+      &lt;div class="px-6 py-4 ml-8"&gt;
+        &lt;span  class="  inline-block px-3 py-1 text-lg font-semibold text-grey-darker mr-2"&gt;16 of 32&lt;/span&gt;
+        &lt;span  class=" inline-block  px-3 py-1 text-md font-semibold text-grey-darker mr-2"&gt;Sort by&lt;/span&gt;
+       &lt;button id="recent" class="btn hover:bg-blue hover:text-white inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker"&gt;Most Recent&lt;/button&gt;
+        &lt;button id="low" class="btn hover:bg-blue hover:text-white inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker mr-2"&gt;Lower Price&lt;/button&gt;
+        &lt;button id="high"  class="btn hover:bg-blue hover:text-white inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker mr-2"&gt;Highest price&lt;/button&gt;
+        
+      &lt;/div&gt;
+    &lt;div id="cards" class="row ml-4"&gt;
+
+    &lt;% prod.forEach(prod =&gt; { %&gt;
+      
+        &lt;div class="flex flex-wrap -m-2 " id="app"&gt;
+            &lt;div class="w-full h-64 p-4 "  &gt;
+              &lt;div class="shadow h-full "  &gt;
+              &lt;div style="position:relative; width:200px;"&gt;
+                &lt;img src="&lt;%= prod.img.url %&gt;" alt=""&gt;  
+                &lt;% if(  coins != '' ) {%&gt;
+               &lt;% if( prod.cost &lt; coins ) {%&gt; 
+                &lt;div style=" width: 32px ; height: 32px ; text-align: center ;background-image:radial-gradient(50% 130%, #0ad4fa 51%, #25bbf1 100%);; border-radius:100% ; position:absolute; top:0%; right:0%;"&gt;
+                &lt;img src="/buy-blue.svg" alt=""&gt;&lt;/div&gt;
+              
+            &lt;%}else{%&gt;
+              &lt;div style=" width: 62px ; height: 32px ; text-align: center ;opacity:0.8;
+              background:#616161;
+              border-radius:100px;
+              width:108px;
+              height:32px; position:absolute; top:0%; right:0%;"&gt;
+              &lt;p style="font-size:11px; color:white; " class="pt-1"&gt;You need &lt;%=prod.cost - coins%&gt;  &lt;img style="width:26px;
+                height:26px; text-align:right" src="/coin.svg" alt=""&gt;&lt;/p&gt;
+              
+              &lt;/div&gt;
+              &lt;%}%&gt;
+            &lt;%}else{%&gt;
+              
+              &lt;div style=" width: 62px ; height: 32px ; text-align: center ;opacity:0.8;
+              background:#616161;
+              border-radius:100px;
+              width:108px;
+              height:32px; position:absolute; top:0%; right:0%;"&gt;
+              &lt;p style="font-size:11px; color:white; " class="pt-1"&gt;You need &lt;%=prod.cost%&gt;  &lt;img style="width:26px;
+                height:26px; text-align:right" src="/coin.svg" alt=""&gt;&lt;/p&gt;
+              
+              &lt;/div&gt;
+              &lt;%}%&gt;
+          &lt;/div&gt;
+                &lt;p class="text-grey text-base pl-4"&gt;&lt;%=prod.category%&gt;&lt;/p&gt;
+                  &lt;p class="text-grey-darker text-xl mb-2" style="text-align: center" &gt;&lt;%=prod.name%&gt;&lt;/p&gt;
+              &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;% }); %&gt;
+    &lt;/div&gt;```
+10:45:06 - a0viedo (@a0viedo):
++1 a concurrently pero no me anda con colorcitos a mi
+10:57:22 - Pedro (@pedro461):
+no entendí bien, pero querés ver los logs por separado largando un solo script? se me ocurre que podes meterle tmux a la terminal y que el script ejecute un bash que te genere la sesion y haga 4 splits con cada log
+10:57:34 - Pedro (@pedro461):
+una vez hice algo así, si lo encuentro te mando el código
+11:00:30 - Jorge Cano (@jorgeucano):
+ahi lo tengo
+11:00:35 - Jorge Cano (@jorgeucano):
+“start-steps”: “concurrently -c \“bgRed.bold,bgGreen.bold,bgYellow.bold,bgBlue.bold\” \“npm:step1-nodemon\” \“npm:step2-tsc\” \“npm:step3-build\” \“npm:step4-server\“”
+11:00:47 - Jorge Cano (@jorgeucano):
+quedo hermoso :heart:
+11:01:45 - Jorge Cano (@jorgeucano):
+basicamente tenemos un admin de contenido de Adobe que es una verga que nos hace scriptear todo.. y necesitaba runear todo junto… no en diferentes termianles… entonces queria colorear las cosas para que se vea mejor el tema de que “script” corre que
+11:01:51 - Jorge Cano (@jorgeucano):
+sin tener que ir viendo todo en distintas terminales
+11:02:39 - a0viedo (@a0viedo):
+ah, está bueno que te toma el título directamente en vez del PID
+11:04:34 - Pedro (@pedro461):
+claro, la verdad no se como se haría
+11:05:49 - Martín Valdés de León (@mvaldesdeleon):
+podes ignorar la lista de colores, creo que ya tiene una default
+11:13:05 - Jorge Cano (@jorgeucano):
+la de default viene en gris
+11:13:11 - Jorge Cano (@jorgeucano):
+pero queria juisto que quedara algo asi
+11:13:19 - Jorge Cano (@jorgeucano):
+la verdad que por ahora, me mejora la busqueda rapida en los logs
+11:13:21 - Jorge Cano (@jorgeucano):
+y es un golazo :slightly_smiling_face:
+11:17:09 - Roberto (@robertojosebrizuela):
+Hola gente, aprovecho que salio el tema, que ventaja tiene el uso de estas "plantillas" ejs, handlebars , por sobre armar un front en react u otro. <@U0TFEHWEA> <@UH5L5P3FY>, pregunta de novato je
+11:19:41 - Martín Valdés de León (@mvaldesdeleon):
+Si estas armando una frontend app moderna, diria que no tiene sentido. Mejor usar un framework y ya.
+11:20:18 - Martín Valdés de León (@mvaldesdeleon):
+En la vida real yo uso handlebars para generar archivos XML que tengo que mandar a algun endpoint o similar (desde el back).
+11:20:40 - Martín Valdés de León (@mvaldesdeleon):
+Y para generar (tambien en el back) HTML que renderizamos via headless chrome, para generar imagenes o pdfs.
+11:24:10 - Roberto (@robertojosebrizuela):
+ok gracias <@U0TFEHWEA> puede ser complementario a un framework del front, porque vi un app que usa handlebars y renderizaba todo el html
+11:25:11 - Martín Valdés de León (@mvaldesdeleon):
+En general si ya tenes un framework para el front, el framework va a venir con su propia solucion para implementar views
+11:25:25 - Maxi (@tholem98):
+En lo personal las utilizo para poder agregar condicionales dentro del propio html. Tengo la posibilidad de que dentro del div, se decida si se muestra uno u otro elemento segun si se cumple o no determinada condicion. Ademas, puedo solicitar variables y colocarlas dentro del componente que busco sin necesidad de pasar todo por javascript, lo cual me resulta mas laborioso ya que tengo que llamar a cada componente al que le quiera agregar el elemento, y luego pasarlo por mas de un if para agregar el elemento correspondiente.
+
+Me ahorra bastante tiempo en codigo. Realizo mas rapido la misma tarea
+11:25:26 - Martín Valdés de León (@mvaldesdeleon):
+Asi que no necesitarias traer un componente extra para generar HTML
+11:28:12 - Roberto (@robertojosebrizuela):
+gracias por la data :+1:
+11:40:28 - Gonza Espeche (@espeche.g):
+Muchachos, estoy queriendo crear una web que acepte una imagen en JPG (upload image) y exporte esa misma imagen pero con otra imagen embebida. Puntualmente sería uplodear un flyer de un evento y devolver ese flyer pero con un código QR metido adentro.
+Saben como se puede encarar esto?
+Estuve viendo que hay una librería *SeriouslyJs* que labura con chroma-keys, pero el repo está un toque desactualizado y la documentación no es muy clara tampoco.
+11:42:45 - Marcos Casagrande (@marcoscvp90):
+Manipular imágenes es lo que necesitás? Podés usar `sharp`, te permite hacer eso que querés.
+11:43:09 - Marcos Casagrande (@marcoscvp90):
+<https://sharp.dimens.io/en/stable/api-composite/>
+11:50:24 - Jorge Cano (@jorgeucano):
+si lo haces en un server linux… te diria que mandes script directo y manejes las imagenes con ImageMagick
+11:56:50 - Dayan Ruiz (@dayanr):
+tx 2 ol
+11:59:07 - Gonza Espeche (@espeche.g):
+Buenísimo, gracias! no lo tenía a `sharp`.
+12:02:00 - Gonza Espeche (@espeche.g):
+Genial, gracias por el dato Jorge :+1:
+12:06:53 - Jorge Cano (@jorgeucano):
+yo lo usaba muchisimo hace algun tiempo atras
+12:06:59 - Jorge Cano (@jorgeucano):
+y hace magia posta
+12:08:37 - Gonza Espeche (@espeche.g):
+buena data, habia hecho la pregunta en SO pero no tuvo mucho movimiento :feelsbad:
+12:09:17 - Jorge Cano (@jorgeucano):
+<https://superuser.com/questions/290656/combine-multiple-images-using-imagemagick>
+12:09:36 - Jorge Cano (@jorgeucano):
+podes usar convert o montage :stuck_out_tongue:
+12:18:47 - Martín Valdés de León (@mvaldesdeleon):
+Podes chusmear la lib "jimp".
+13:21:40 - Ariel Barabas (@ariel.barabas):
+pago, pero interesante: <https://www.imgix.com/>
+14:13:14 - Dayan Ruiz (@dayanr):
+Hola, alguien tiene algún artículo medio pro que me sirva como para tener idea de que nombre ponerle a un sitio web?
+14:20:00 - Martín Aimar (@maimar):
+por ahí en <https://startupstash.com>
+14:20:05 - Martín Aimar (@maimar):
+hay una sección de “naming”
+14:37:54 - Adrián Velasco (@adrivelasco1506):
+Lo preguntó hace poco otra persona pero.., a mí también me contacto para comprarme la cuenta de Upwork. Lo ignoro sin pensarlo no? Es muy turbio esto jaja
+14:40:55 - Adrián Velasco (@adrivelasco1506):
+Ya lo mandé a freir churro
+14:55:26 - Maxi (@tholem98):
+Despues te pide fotos de tu dni y un servicio "para validar la cuenta de upwork"
+15:17:54 - Leandro Echevarria (@echevarrialeandro):
++10 a ImageMagick, es una locura esa lib
+15:27:32 - Santiago Ruffino (@santi_0898):
+Pregunto por enesima vez. Alguien que me pueda dar una mano con Odoo? O conocen a algo o alguien que me pueda dar una mano? Tengo unas consultas sobre el `db-filter`
+15:27:45 - Santiago Ruffino (@santi_0898):
+Como se usa principalmente
+15:31:56 - Adrián Velasco (@adrivelasco1506):
+<@UH5L5P3FY> la vendiste?
+15:34:44 - Maxi (@tholem98):
+Nono, me dijo que como era copado me pagaba el doble, y despues me pidio eso. Asi que lo bloquie
+16:44:00 - Leandro Echevarria (@echevarrialeandro):
+(eslint + prettier): Consulta general. Estamos queriendo centralizar algunas cosas comunes que usamos en el equipo para los proyectos que hacemos.
+1) Hay manera de tener andando eslint+prettier SIN tener instalada la extension de prettier en el IDE/Editor? Lo ideal es que cada dev use el IDE que quiera y que los linters y prettier funcionen de la misma manera use lo que use.
+2) Si hay que tener si o si la extensión instalada, se le puede indicar que si encuentra un `.prettier` en el proyecto use unica y exclusivamente esas configs y NINGUNA que tenga customizada en el editor?
+No se si me explico del todo
+16:46:01 - Martín Valdés de León (@mvaldesdeleon):
+No veo la relacion entre eslint/prettier y usar extensiones.
+
+A nivel integracion con mi editor, quiero VER los warnings de eslint en vivo, y correr prettier on save, pero eso es configuracion personal de mi editor.
+16:46:24 - Martín Valdés de León (@mvaldesdeleon):
+A nivel proyecto configuramos prettier, y dps eslint para no pisar con prettier, y algunos npm scripts.
+16:46:30 - Martín Valdés de León (@mvaldesdeleon):
+Y el resto cada cual integra como quiere con su workflow.
+16:46:37 - Ari Sanguinetti (@arielsanguinetti):
+hay una explicacion de Wes Bos de esto creo... <https://www.youtube.com/watch?v=YIvjKId9m2c>
+16:47:00 - Leandro Echevarria (@echevarrialeandro):
+Claro, a nivel proyecto digo. Para que se lintee y acomode el codigo igual en caso que alguien no tenga las extensiones en el ide
+16:47:03 - Ari Sanguinetti (@arielsanguinetti):
+No hace falta tener la extension de prettier instalada...
+16:47:17 - Santiago Ruffino (@santi_0898):
+Hace un tiempo alguien hizo una pregunta parecida. Pero lo que hacian es que recien se aplicaba cuando hacian el push al repo
+16:50:15 - Leandro Echevarria (@echevarrialeandro):
+Ahora por ej tengo un proyecto con el sig tree:
+```
+- proyecto
+  - client (react app)
+    - .eslintrc
+    - .prettierrc
+  - server (node+express)
+    - .eslintrc
+    - (no tiene prettier el server)
+```
+
+Con lo anterior pasa que cuando codeo algo en el server, como tengo instalada la extension de prettier en el vscode, me lo acomoda igual. Lo que me gustaria evitar es que las configs de los proyectos se pisen por cosas que tenga configuradas cada dev en su editor y en caso de que tengan prettier instalado, este tome únicamente las reglas del .prettierrc
+17:50:47 - Damian Diaz (@damianmdst):
+podes hacer un package de configuraciones y estilos de codigo publicarlo internamente y luego traerlo a tu codigo .. o incluso podes correr perttier como un hook precommit
+18:09:47 - Fernando García (@fernandogarcia_fg):
+Quizas no es el lugar donde consultarlo pero por ahi alguien puede ayudarme. estoy creando un objeto termometro, con un metodo para prender, otro para apagar, otro para cambiar la temp entre celcius y fahrenheit y ahora me gustaria crear un metodo para simular la toma de temperatura podria hacer algo asi?? me he roto la cabeza pero no me doy cuenta como podria hacerlo
+18:13:32 - Maxi (@tholem98):
+Math.floor(Math.random()*100)
+
+Algo asi te sirve para simular la temperatura al azar?
+18:18:46 - Julian (@jantonielli01):
+Suena bien
+18:20:57 - Fernando García (@fernandogarcia_fg):
+puede ser una opcion pero mi idea era llegar a algo mas como un metodo llamado mide que en caso de que el atributo sensorTemperatura sea igual a True toma la temperatura y la retorne, no se si me explico, quizas podria aplicarlo junto como lo que me decis, no me doy mucha idea?
+18:22:15 - Martín Valdés de León (@mvaldesdeleon):
+Tenes un sensor de verdad? O de donde vas a "medir" la temperatura?
+18:24:05 - Fernando García (@fernandogarcia_fg):
+eso es lo que tengo hasta ahora, no tengo un sensor por eso no se si es viable lo que quiero, mi idea digamos que es si pulsa el boton apaga se apaga el termometro, si pulsa el boton prende lo prende y si preciona mide y el sensor estuviera en True que nunca lo estaria devolveria la temperatura, quiero lograr tener vien armado el bostejo del termometro no se si me explico
