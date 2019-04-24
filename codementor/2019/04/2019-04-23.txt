@@ -1,0 +1,40 @@
+16:00:21 - Martín Aimar (@maimar):
+cuál es la que se usa en general? teamviewer?
+16:00:44 - Marcos Casagrande (@marcoscvp90):
+Lo que se usa es Zoom
+16:00:58 - Martín Aimar (@maimar):
+se puede tomar control de la compu con ese?
+16:01:15 - Marcos Casagrande (@marcoscvp90):
+Si, tiene control remoto
+16:01:32 - Gonzalo González Mora (@gonzalogm):
+Si no te toca la loca que le tocó a Marcos :joy:
+16:02:03 - Marcos Casagrande (@marcoscvp90):
+`"You're not allowed to copy that".toUpperCase()`
+16:03:13 - Martín Aimar (@maimar):
+recién uno me estaba mostrando la pantalla pero era sesión gratuita así que no me fijé si le podía usar la máquina
+16:03:45 - Marcos Casagrande (@marcoscvp90):
+si no te sale la opción, es porque el pete, está usando zoom web, y ahí le tenés que decir: "Estás usando zoom web?", te va a decir "si", y le decís, "bajatelo"
+16:03:57 - Martín Aimar (@maimar):
+jajaj
+16:04:31 - Martín Aimar (@maimar):
+si no sé, tenía una cantidad inmensa de código, quise huir
+16:00:21 - Martín Aimar (@maimar):
+cuál es la que se usa en general? teamviewer?
+16:00:44 - Marcos Casagrande (@marcoscvp90):
+Lo que se usa es Zoom
+16:00:58 - Martín Aimar (@maimar):
+se puede tomar control de la compu con ese?
+16:01:15 - Marcos Casagrande (@marcoscvp90):
+Si, tiene control remoto
+16:01:32 - Gonzalo González Mora (@gonzalogm):
+Si no te toca la loca que le tocó a Marcos :joy:
+16:02:03 - Marcos Casagrande (@marcoscvp90):
+`"You're not allowed to copy that".toUpperCase()`
+16:03:13 - Martín Aimar (@maimar):
+recién uno me estaba mostrando la pantalla pero era sesión gratuita así que no me fijé si le podía usar la máquina
+16:03:45 - Marcos Casagrande (@marcoscvp90):
+si no te sale la opción, es porque el pete, está usando zoom web, y ahí le tenés que decir: "Estás usando zoom web?", te va a decir "si", y le decís, "bajatelo"
+16:03:57 - Martín Aimar (@maimar):
+jajaj
+16:04:31 - Martín Aimar (@maimar):
+si no sé, tenía una cantidad inmensa de código, quise huir
