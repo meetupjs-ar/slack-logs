@@ -1,0 +1,232 @@
+10:23:48 - Luciano Muñoz (@luchisds):
+<@UCNG4E5B8> Yo tengo la misma mac, la compre 0km en 2013 y todavia se la banca, todavia tengo los 4gb de ram como vino de fabrica y la queria ampliar pero lei que el maximo que soporta es 8gb, tuviste que poner alguna memoria en especial para llevarla a 16gb?
+10:27:49 - Ezequiel Leites (@leites25):
+Si, al principio encontré la misma info y consulte con un conocido que laburaba en MacStation y me dijo que hasta 16 bancaba. Le puse 2 DDR3 Kingston de 8Gb 1600Mhz
+10:28:34 - Ezequiel Leites (@leites25):
+La uso asi desde las 2 o 3 semanas que la compre, ya de esto hace unos 3/4 años.
+10:58:10 - Luciano Muñoz (@luchisds):
+Ha buenisimo entonces voy a ver si me compro dos de 8gb
+10:58:29 - Luciano Muñoz (@luchisds):
+Muchas gracias!
+10:59:36 - Ezequiel Leites (@leites25):
+Exactamente, serian estas <https://articulo.mercadolibre.com.ar/MLA-603730797-memoria-sodimm-8gb-kingston-ddr3-1600mhz-notebook-mexx-_JM?quantity=1>
+11:00:16 - Ezequiel Leites (@leites25):
+Personalmente, no llegue a ver como funcionaba la maquina con 4GB porque la use poco antes de cambiarle las memorias, pero el upgrade a ponerle SSD la mejoró totalmente
+11:07:15 - Luciano Muñoz (@luchisds):
+Yo note mucho el cambio cuando le puse el disco SSD, pero la deje en 4Gb de memoria, ahora que empece a desarrollar con React Native noto que se me queda corta de memoria!
+11:07:57 - Luciano Muñoz (@luchisds):
+Hasta ahora se la bancaba bien pero como me es imposible cambiar la maquina voy a tratar de upgradearla lo mejor que pueda
+11:08:56 - Ezequiel Leites (@leites25):
+Yo creo que asi, que es el tope que puede, es suficiente y tira para rato.
+15:58:56 - Tincho (@tinchoforever):
+Ya estamos #Salta si algun  Pibe JS nerdoso pinta, tire dm salen cervezas por Balcarce!
+16:19:16 - Adrián Velasco (@adrivelasco1506):
+Off-topic, pero alguien recomienda *otro* slack/discord copado de :js: *igual que éste*? Me metí al de Reactiflux y me pareció muy copado, por lo menos con los que hablé, aunque no entienden el chiste de "Esto es peronia"
+16:20:41 - Sergio Gianazza (@gianu):
+<http://slack.meetupjs.com.ar|slack.meetupjs.com.ar>
+16:22:04 - Adrián Velasco (@adrivelasco1506):
+Edité mi mensaje jaja para que quede mejor
+16:22:18 - Sergio Gianazza (@gianu):
+:slightly_smiling_face:
+16:47:34 - Juan Scolari (@juanscolari):
+como éste no hay :fastparrot:
+16:48:15 - Juan Scolari (@juanscolari):
+<http://nardoz.slack.com|nardoz.slack.com>
+17:07:32 - Lucas Goncalves (@goncalveslucasv):
+ya que estamos, conocen algun otro de js o nodejs ? aunque no sea de arg?
+17:11:24 - Gonzalo González Mora (@gonzalogm):
+El oficial pero está re muerto
+17:11:28 - Gonzalo González Mora (@gonzalogm):
+Node Slackers se llama
+17:11:40 - Gonzalo González Mora (@gonzalogm):
+Hay otro como Reactiflux que es de Node tmb, no es Slack, es Discord
+17:11:41 - Sergio Daniel Xalambrí (@sergiodxa):
+hay un slack oficial de node.js?
+17:11:57 - Gonzalo González Mora (@gonzalogm):
+Mmm ahoar me entra la duda si es oficial o no :thinking_face:  jaja
+17:12:27 - Gonzalo González Mora (@gonzalogm):
+Pero creo que sí pq cre que lo saqué de los docs de Node
+17:12:33 - Gonzalo González Mora (@gonzalogm):
+y hacen announcements de cada release
+17:12:36 - Gonzalo González Mora (@gonzalogm):
+pero no sé sinceramente
+17:12:37 - Gonzalo González Mora (@gonzalogm):
+<https://www.nodeslackers.com/>
+17:12:40 - Gonzalo González Mora (@gonzalogm):
+creo que era ese
+17:15:23 - a0viedo (@a0viedo):
+hay un canal en IRC "oficial" de node.js
+17:15:41 - a0viedo (@a0viedo):
+<http://webchat.freenode.net/?channels=node.js>
+17:16:18 - Martín Valdés de León (@mvaldesdeleon):
+meetupjs slack is best slack
+17:17:10 - Martín Valdés de León (@mvaldesdeleon):
+el unico otro donde estoy (ademas del laburo) que me resulta interesante es el de programacion funcional (internacional). <https://fpchat-invite.herokuapp.com/>
+17:17:27 - Martín Valdés de León (@mvaldesdeleon):
+hay canal de javascript, en general orientado a FP, ademas de todos los demas topicos de FP
+17:19:13 - Rodrigo Ali (@rodrigojali):
+¿Para qué lo recomendás a ese Slack de FP <@U0TFEHWEA>?
+17:19:29 - Rodrigo Ali (@rodrigojali):
+Me refiero, ¿para quiénes recomendarías unirse a ese slack?
+17:19:29 - Martín Valdés de León (@mvaldesdeleon):
+Para FP.
+17:19:34 - Brian Hume (@brianh20):
+Front page?
+17:19:37 - Brian Hume (@brianh20):
+volvimos alos 90?
+17:19:39 - Brian Hume (@brianh20):
+XD
+17:19:41 - Rodrigo Ali (@rodrigojali):
+Functional Programming hahaha
+17:19:44 - Rodrigo Ali (@rodrigojali):
+:heart:
+17:19:57 - Rodrigo Ali (@rodrigojali):
+A mi me llama mucho la atención pero no sé si vale la pena meterme todavía en eso o no
+17:20:00 - Brian Hume (@brianh20):
+:heart:
+17:20:16 - Marcelo Galigniana (@mgaligniana):
+Esta el slack de freecodecamp
+17:20:19 - Marcelo Galigniana (@mgaligniana):
+Dsp el de wes bos
+17:20:43 - Rodrigo Ali (@rodrigojali):
+Ah, el de FCC no lo conozco, ese estaría piola meterme, gracias por la data.
+17:22:05 - Rodrigo Ali (@rodrigojali):
+Consulta: ¿te referís a un slack argentino de FCC o a uno más internacional?
+17:22:29 - Marcelo Galigniana (@mgaligniana):
+argentino!
+17:22:41 - Marcelo Galigniana (@mgaligniana):
+<https://freecodecampba.herokuapp.com/>
+17:23:00 - Marcelo Galigniana (@mgaligniana):
+Y dsp <https://wesbos.slack.com/?redir=%2Fmessages%2Fgeneral%2F>
+17:25:38 - Rodrigo Ali (@rodrigojali):
+Ahí vi el link, gracias buachin
+17:32:42 - Gonzalo González Mora (@gonzalogm):
+Ah el de Wes Bos tenia bstante movimiento, pero creo que eran preguntas muy simples casi todas, no recuerdo bien :thinking_face: no sé cómo será ahora, esto que digo era hace un año supongo
+17:34:35 - Hernan Rajchert (@sherman):
+empezar a ver siempre sirve… lo que aprendes alli después lo podes trasladar en distinta medida a tu dia a dia
+17:34:43 - Hernan Rajchert (@sherman):
+como siempre digo, no tenes que ir full monad
+17:38:05 - Luis Ventocilla (@lvsmix):
+Che y ya no relanzan el circulo de aprendizaje?
+17:38:12 - Luis Ventocilla (@lvsmix):
+estaba bueno en un momento
+17:54:19 - Maxi (@tholem98):
+<http://fazt.slack.com|fazt.slack.com>
+
+Aca tambien suelen hacer preguntas simples y hay poco movimiento pero son copados
+10:23:48 - Luciano Muñoz (@luchisds):
+<@UCNG4E5B8> Yo tengo la misma mac, la compre 0km en 2013 y todavia se la banca, todavia tengo los 4gb de ram como vino de fabrica y la queria ampliar pero lei que el maximo que soporta es 8gb, tuviste que poner alguna memoria en especial para llevarla a 16gb?
+10:27:49 - Ezequiel Leites (@leites25):
+Si, al principio encontré la misma info y consulte con un conocido que laburaba en MacStation y me dijo que hasta 16 bancaba. Le puse 2 DDR3 Kingston de 8Gb 1600Mhz
+10:28:34 - Ezequiel Leites (@leites25):
+La uso asi desde las 2 o 3 semanas que la compre, ya de esto hace unos 3/4 años.
+10:58:10 - Luciano Muñoz (@luchisds):
+Ha buenisimo entonces voy a ver si me compro dos de 8gb
+10:58:29 - Luciano Muñoz (@luchisds):
+Muchas gracias!
+10:59:36 - Ezequiel Leites (@leites25):
+Exactamente, serian estas <https://articulo.mercadolibre.com.ar/MLA-603730797-memoria-sodimm-8gb-kingston-ddr3-1600mhz-notebook-mexx-_JM?quantity=1>
+11:00:16 - Ezequiel Leites (@leites25):
+Personalmente, no llegue a ver como funcionaba la maquina con 4GB porque la use poco antes de cambiarle las memorias, pero el upgrade a ponerle SSD la mejoró totalmente
+11:07:15 - Luciano Muñoz (@luchisds):
+Yo note mucho el cambio cuando le puse el disco SSD, pero la deje en 4Gb de memoria, ahora que empece a desarrollar con React Native noto que se me queda corta de memoria!
+11:07:57 - Luciano Muñoz (@luchisds):
+Hasta ahora se la bancaba bien pero como me es imposible cambiar la maquina voy a tratar de upgradearla lo mejor que pueda
+11:08:56 - Ezequiel Leites (@leites25):
+Yo creo que asi, que es el tope que puede, es suficiente y tira para rato.
+15:58:56 - Tincho (@tinchoforever):
+Ya estamos #Salta si algun  Pibe JS nerdoso pinta, tire dm salen cervezas por Balcarce!
+16:19:16 - Adrián Velasco (@adrivelasco1506):
+Off-topic, pero alguien recomienda *otro* slack/discord copado de :js: *igual que éste*? Me metí al de Reactiflux y me pareció muy copado, por lo menos con los que hablé, aunque no entienden el chiste de "Esto es peronia"
+16:20:41 - Sergio Gianazza (@gianu):
+<http://slack.meetupjs.com.ar|slack.meetupjs.com.ar>
+16:22:04 - Adrián Velasco (@adrivelasco1506):
+Edité mi mensaje jaja para que quede mejor
+16:22:18 - Sergio Gianazza (@gianu):
+:slightly_smiling_face:
+16:47:34 - Juan Scolari (@juanscolari):
+como éste no hay :fastparrot:
+16:48:15 - Juan Scolari (@juanscolari):
+<http://nardoz.slack.com|nardoz.slack.com>
+17:07:32 - Lucas Goncalves (@goncalveslucasv):
+ya que estamos, conocen algun otro de js o nodejs ? aunque no sea de arg?
+17:11:24 - Gonzalo González Mora (@gonzalogm):
+El oficial pero está re muerto
+17:11:28 - Gonzalo González Mora (@gonzalogm):
+Node Slackers se llama
+17:11:40 - Gonzalo González Mora (@gonzalogm):
+Hay otro como Reactiflux que es de Node tmb, no es Slack, es Discord
+17:11:41 - Sergio Daniel Xalambrí (@sergiodxa):
+hay un slack oficial de node.js?
+17:11:57 - Gonzalo González Mora (@gonzalogm):
+Mmm ahoar me entra la duda si es oficial o no :thinking_face:  jaja
+17:12:27 - Gonzalo González Mora (@gonzalogm):
+Pero creo que sí pq cre que lo saqué de los docs de Node
+17:12:33 - Gonzalo González Mora (@gonzalogm):
+y hacen announcements de cada release
+17:12:36 - Gonzalo González Mora (@gonzalogm):
+pero no sé sinceramente
+17:12:37 - Gonzalo González Mora (@gonzalogm):
+<https://www.nodeslackers.com/>
+17:12:40 - Gonzalo González Mora (@gonzalogm):
+creo que era ese
+17:15:23 - a0viedo (@a0viedo):
+hay un canal en IRC "oficial" de node.js
+17:15:41 - a0viedo (@a0viedo):
+<http://webchat.freenode.net/?channels=node.js>
+17:16:18 - Martín Valdés de León (@mvaldesdeleon):
+meetupjs slack is best slack
+17:17:10 - Martín Valdés de León (@mvaldesdeleon):
+el unico otro donde estoy (ademas del laburo) que me resulta interesante es el de programacion funcional (internacional). <https://fpchat-invite.herokuapp.com/>
+17:17:27 - Martín Valdés de León (@mvaldesdeleon):
+hay canal de javascript, en general orientado a FP, ademas de todos los demas topicos de FP
+17:19:13 - Rodrigo Ali (@rodrigojali):
+¿Para qué lo recomendás a ese Slack de FP <@U0TFEHWEA>?
+17:19:29 - Rodrigo Ali (@rodrigojali):
+Me refiero, ¿para quiénes recomendarías unirse a ese slack?
+17:19:29 - Martín Valdés de León (@mvaldesdeleon):
+Para FP.
+17:19:34 - Brian Hume (@brianh20):
+Front page?
+17:19:37 - Brian Hume (@brianh20):
+volvimos alos 90?
+17:19:39 - Brian Hume (@brianh20):
+XD
+17:19:41 - Rodrigo Ali (@rodrigojali):
+Functional Programming hahaha
+17:19:44 - Rodrigo Ali (@rodrigojali):
+:heart:
+17:19:57 - Rodrigo Ali (@rodrigojali):
+A mi me llama mucho la atención pero no sé si vale la pena meterme todavía en eso o no
+17:20:00 - Brian Hume (@brianh20):
+:heart:
+17:20:16 - Marcelo Galigniana (@mgaligniana):
+Esta el slack de freecodecamp
+17:20:19 - Marcelo Galigniana (@mgaligniana):
+Dsp el de wes bos
+17:20:43 - Rodrigo Ali (@rodrigojali):
+Ah, el de FCC no lo conozco, ese estaría piola meterme, gracias por la data.
+17:22:05 - Rodrigo Ali (@rodrigojali):
+Consulta: ¿te referís a un slack argentino de FCC o a uno más internacional?
+17:22:29 - Marcelo Galigniana (@mgaligniana):
+argentino!
+17:22:41 - Marcelo Galigniana (@mgaligniana):
+<https://freecodecampba.herokuapp.com/>
+17:23:00 - Marcelo Galigniana (@mgaligniana):
+Y dsp <https://wesbos.slack.com/?redir=%2Fmessages%2Fgeneral%2F>
+17:25:38 - Rodrigo Ali (@rodrigojali):
+Ahí vi el link, gracias buachin
+17:32:42 - Gonzalo González Mora (@gonzalogm):
+Ah el de Wes Bos tenia bstante movimiento, pero creo que eran preguntas muy simples casi todas, no recuerdo bien :thinking_face: no sé cómo será ahora, esto que digo era hace un año supongo
+17:34:35 - Hernan Rajchert (@sherman):
+empezar a ver siempre sirve… lo que aprendes alli después lo podes trasladar en distinta medida a tu dia a dia
+17:34:43 - Hernan Rajchert (@sherman):
+como siempre digo, no tenes que ir full monad
+17:38:05 - Luis Ventocilla (@lvsmix):
+Che y ya no relanzan el circulo de aprendizaje?
+17:38:12 - Luis Ventocilla (@lvsmix):
+estaba bueno en un momento
+17:54:19 - Maxi (@tholem98):
+<http://fazt.slack.com|fazt.slack.com>
+
+Aca tambien suelen hacer preguntas simples y hay poco movimiento pero son copados
