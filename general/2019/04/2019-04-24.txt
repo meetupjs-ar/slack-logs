@@ -1,0 +1,70 @@
+09:48:00 - Santiago Ruffino (@santi_0898):
+Conocen algun Slack para Python? En lo posible en español
+09:48:10 - Santiago Ruffino (@santi_0898):
+No espero que sea tan picante como este, pero lo mas parecido posible
+09:56:12 - Juan Bono (@juanbono):
+En Google me salto <https://pyslackers.com>, pero no sé si tendrá algún channel en español, pero se ve picanton(?
+10:01:36 - Marcelo Galigniana (@mgaligniana):
+Hola Santiago!
+10:01:50 - Marcelo Galigniana (@mgaligniana):
+Por lo que se, la comunidad de PyAr no usa Slack
+10:01:54 - Marcelo Galigniana (@mgaligniana):
+Si no, IRC: <https://www.python.org.ar/irc/>
+10:01:55 - Marcelo Galigniana (@mgaligniana):
+O grupo de telegram: <https://t.me/pythonargentina>
+10:04:15 - Santiago Ruffino (@santi_0898):
+Genial, gracias Marcelo!
+10:26:47 - Gustavo Machado (@machadogj):
+<@U9KMYNJMV> se que no es en español, pero es excelente:
+<http://pythondev.slack.com|pythondev.slack.com>
+10:27:40 - Santiago Ruffino (@santi_0898):
+Gracias
+10:27:42 - Santiago Ruffino (@santi_0898):
+!
+17:38:03 - Alex Ruzzarin (@alexruzzarin):
+nadie se queda en casa mañana :point_up_2:
+17:38:38 - Gonzalo González Mora (@gonzalogm):
+tremenda cantidad de eventos :scream:  :envidia:
+17:38:50 - Leandro Echevarria (@echevarrialeandro):
+Yo voy al `Application Security BA`
+18:01:28 - Martín Valdés de León (@mvaldesdeleon):
+a la pelota
+18:45:03 - Ari Sanguinetti (@arielsanguinetti):
+Blockchain :heartbeat: (?)
+19:50:13 - Aldo Gabriel Rojas (@aldogrojas5):
+Podría hacerse algo en Rosario ?:pray::pray::pray:
+09:48:00 - Santiago Ruffino (@santi_0898):
+Conocen algun Slack para Python? En lo posible en español
+09:48:10 - Santiago Ruffino (@santi_0898):
+No espero que sea tan picante como este, pero lo mas parecido posible
+09:56:12 - Juan Bono (@juanbono):
+En Google me salto <https://pyslackers.com>, pero no sé si tendrá algún channel en español, pero se ve picanton(?
+10:01:36 - Marcelo Galigniana (@mgaligniana):
+Hola Santiago!
+10:01:50 - Marcelo Galigniana (@mgaligniana):
+Por lo que se, la comunidad de PyAr no usa Slack
+10:01:54 - Marcelo Galigniana (@mgaligniana):
+Si no, IRC: <https://www.python.org.ar/irc/>
+10:01:55 - Marcelo Galigniana (@mgaligniana):
+O grupo de telegram: <https://t.me/pythonargentina>
+10:04:15 - Santiago Ruffino (@santi_0898):
+Genial, gracias Marcelo!
+10:26:47 - Gustavo Machado (@machadogj):
+<@U9KMYNJMV> se que no es en español, pero es excelente:
+<http://pythondev.slack.com|pythondev.slack.com>
+10:27:40 - Santiago Ruffino (@santi_0898):
+Gracias
+10:27:42 - Santiago Ruffino (@santi_0898):
+!
+17:38:03 - Alex Ruzzarin (@alexruzzarin):
+nadie se queda en casa mañana :point_up_2:
+17:38:38 - Gonzalo González Mora (@gonzalogm):
+tremenda cantidad de eventos :scream:  :envidia:
+17:38:50 - Leandro Echevarria (@echevarrialeandro):
+Yo voy al `Application Security BA`
+18:01:28 - Martín Valdés de León (@mvaldesdeleon):
+a la pelota
+18:45:03 - Ari Sanguinetti (@arielsanguinetti):
+Blockchain :heartbeat: (?)
+19:50:13 - Aldo Gabriel Rojas (@aldogrojas5):
+Podría hacerse algo en Rosario ?:pray::pray::pray:
