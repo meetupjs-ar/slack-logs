@@ -1,0 +1,272 @@
+10:48:12 - Federico A. Sawady O'Connor (@sawady.faso):
+fiebre de codementor por la noche
+10:56:51 - Marcos Casagrande (@marcoscvp90):
+Dólar a 46...
+10:59:27 - Gonzalo González Mora (@gonzalogm):
+_Did you mean 47?_
+10:59:57 - Gonzalo González Mora (@gonzalogm):
+:chart_with_upwards_trend:
+11:00:05 - Marcos Casagrande (@marcoscvp90):
+Shit happens jaja
+11:00:12 - Gonzalo González Mora (@gonzalogm):
+jajaj
+11:00:21 - Gonzalo González Mora (@gonzalogm):
+Yo compré hace un rato a 46.30 pq vengo esperando del lunes que baje
+11:00:25 - Gonzalo González Mora (@gonzalogm):
+Y no para de subir
+11:02:38 - Julian (@jantonielli01):
+friendly reminder de que no necesitan aceptar poca plata
+11:02:57 - Federico A. Sawady O'Connor (@sawady.faso):
+olvidaate
+11:03:45 - Federico A. Sawady O'Connor (@sawady.faso):
+a mi siempre me sirve preguntar si $20/min le parece bien, aunque mi rate diga $15/min
+11:03:47 - Gonzalo González Mora (@gonzalogm):
+_epetaculaaaa_
+11:03:57 - Federico A. Sawady O'Connor (@sawady.faso):
+perdon $20/15min (re caro el chabón jajaj)
+11:04:16 - Federico A. Sawady O'Connor (@sawady.faso):
+y muchas veces aceptan
+11:18:06 - Marcos Casagrande (@marcoscvp90):
+Exacto, nunca hay que tirarse para abajo.
+11:19:15 - Marcos Casagrande (@marcoscvp90):
+<@U06H27CM8> podríamos eliminar este canal del repo público dónde se guardan todos los mensajes? Ya que hablamos de plata y me parece hasta "peligroso" que quede guardado públicamente en internet.
+11:19:33 - Julian (@jantonielli01):
+yo le puse lo mismo pero me ignoró : p
+11:20:20 - a0viedo (@a0viedo):
+se puede hacer privado pero si es privado cómo lo van a usar para buscar?
+11:22:28 - Marcos Casagrande (@marcoscvp90):
+Mi idea era eliminarlo, yo personalmente prefiero que pregunten de nuevo, antes de que quede todo público, Se que privado no es una opción, así que prefiero que se borre. La otra opción es eliminar quién envía el mensaje.
+11:24:03 - Marcos Casagrande (@marcoscvp90):
+No sé que prefieren los demás, si anónimo, o borrarlo.
+11:24:09 - a0viedo (@a0viedo):
+creo que privado es mejor que se borre directamente porque podemos a lo sumo integrar un bot para la búsqueda
+11:26:36 - Marcos Casagrande (@marcoscvp90):
+Si es privado y nameless a mi no me jode.
+11:26:52 - a0viedo (@a0viedo):
+hacerlo anónimo me parece fácil pero después no puedo buscar mis mensajes...a menos que se derive un hash a partir del username y se use eso
+11:27:26 - Julian (@jantonielli01):
+Se, medio paja
+11:27:29 - a0viedo (@a0viedo):
+lo más rápido sería hacerlo privado
+11:27:49 - Gonzalo González Mora (@gonzalogm):
+Sep, si no se puede hacer sólo un channel anónimo creo que auqnue sea privado estaría mejor
+11:27:53 - Julian (@jantonielli01):
+Yo prefiero como dice marcos, que vuelvan o pregunttar o en todo caso hacemos otros gist (anonimo) como el pinneado
+11:27:56 - Julian (@jantonielli01):
+con la data
+11:28:10 - a0viedo (@a0viedo):
+y después vemos qué se puede hacer para la búsqueda
+11:28:18 - Julian (@jantonielli01):
+sorry por romper las bolas <@U06H27CM8>
+11:28:29 - Gonzalo González Mora (@gonzalogm):
+De una
+11:28:41 - Gonzalo González Mora (@gonzalogm):
+Y gracias!
+11:29:31 - Marcos Casagrande (@marcoscvp90):
+Perfecto, gracias!
+13:21:52 - Aldo Sorbara (@aldo1891):
+que grande codementor :heart:
+13:45:38 - Ale Miralles (@amiralles):
+Que grande <@UGQTUDQSG> que nos trajo codementor!!!
+13:45:40 - Ale Miralles (@amiralles):
+jajaja
+14:03:13 - Aldo Sorbara (@aldo1891):
+se merece el porcentaje que esta ganando por cada trabajo que hacemos
+14:03:15 - Aldo Sorbara (@aldo1891):
+10% creo
+14:33:07 - Gonza Espeche (@espeche.g):
+el día que esté en la plataforma y cobre mi primer mango, algún presente le haré llegar
+14:33:37 - Rodrigo Ali (@rodrigojali):
+Idem
+14:35:51 - Marcos Casagrande (@marcoscvp90):
+No hace falta! _pero no me enojaré si llega dicho regalo_
+14:41:52 - Juan Scolari (@juanscolari):
+Crea un sistema de referidos, cobrale a los referidos de tus referidos y no laburas mas
+14:42:33 - Ale Miralles (@amiralles):
+En la nodeconf nos vamos a cruzar seguro. Algun regalo va a haber para <@UGQTUDQSG>
+14:42:44 - Ale Miralles (@amiralles):
+Un capo total.
+14:45:39 - Julian (@jantonielli01):
+es a fin de año no? yo nunca pude ir
+14:46:01 - Julian (@jantonielli01):
+<@U6U3183U6> osea un pyramid scheme jaj
+14:46:59 - Gonzalo González Mora (@gonzalogm):
+Tipo fin de octubre/noviembre es en general
+14:48:13 - Juan Scolari (@juanscolari):
+Es y no es, usted me entiende
+14:48:36 - Juan Scolari (@juanscolari):
+Yo me gane la entrada del año pasado gracias a meetup.js :clapping:
+14:49:02 - Marcos Casagrande (@marcoscvp90):
+Si sigo en Argentina, allí estaré :node:
+15:18:43 - Federico A. Sawady O'Connor (@sawady.faso):
+cuál nodeconf?
+15:18:49 - Federico A. Sawady O'Connor (@sawady.faso):
+:no_mouth:
+20:05:17 - Julian (@jantonielli01):
+que mancos son los de CM codeando jaja
+20:05:40 - Julian (@jantonielli01):
+fuckuppearon CMX otra vez, no termine el proceso pero ya puedo mandar solicitudes a los proyectos de ahí
+20:05:56 - Julian (@jantonielli01):
+Mepa que deberíamos hacernos nuestro propio CM
+20:20:27 - Adrián Velasco (@adrivelasco1506):
+a los que ayudás?
+20:20:51 - Adrián Velasco (@adrivelasco1506):
+la verdad que es increíble, me topé con cada uno jajaja
+20:21:16 - Adrián Velasco (@adrivelasco1506):
+lo peor es que algunos realmente trabajan como dev.
+20:25:18 - Julian (@jantonielli01):
+No, digo los trabajan para la empresa, los que codean la página
+20:25:21 - Julian (@jantonielli01):
+Esta llena de bugs
+20:25:31 - Julian (@jantonielli01):
+Pero los otros tambien jajajj
+20:25:57 - Leandro Echevarria (@echevarrialeandro):
+No es mala prototiparlo al menos :stuck_out_tongue:
+20:27:46 - Adrián Velasco (@adrivelasco1506):
+sabés que hoy se me cruzó mandarles un mail para ofrecerme como frontend remoto
+20:27:55 - Adrián Velasco (@adrivelasco1506):
+en realidad para preguntar si estaban buscando jajaja
+20:28:24 - Adrián Velasco (@adrivelasco1506):
+está desarrollada para el orto, pero la plataforma en sí está hecha para que los mismos mentors se llenen de guita, con tarifas que arrancan en 60usd y comisiones de 20%
+20:28:40 - Adrián Velasco (@adrivelasco1506):
+no me extrañaría que paguen dos mangos a un grupo de indios para hacer la UI de cm
+20:29:13 - Julian (@jantonielli01):
+Jajjaja se, totalmente. Yo lo pensé, pero para laburar fulltime prefiero otras empresas. Lo que me copa de esto es laburar un par de horas y listo
+20:31:42 - Adrián Velasco (@adrivelasco1506):
+si, sabés que yo ahora renuncié a mi laburo para meterle a cm y ver si consigo algo remoto pero probablemente a los meses vuelva a trabajar en relación de dep. y siga usando cm para pelotudear
+10:48:12 - Federico A. Sawady O'Connor (@sawady.faso):
+fiebre de codementor por la noche
+10:56:51 - Marcos Casagrande (@marcoscvp90):
+Dólar a 46...
+10:59:27 - Gonzalo González Mora (@gonzalogm):
+_Did you mean 47?_
+10:59:57 - Gonzalo González Mora (@gonzalogm):
+:chart_with_upwards_trend:
+11:00:05 - Marcos Casagrande (@marcoscvp90):
+Shit happens jaja
+11:00:12 - Gonzalo González Mora (@gonzalogm):
+jajaj
+11:00:21 - Gonzalo González Mora (@gonzalogm):
+Yo compré hace un rato a 46.30 pq vengo esperando del lunes que baje
+11:00:25 - Gonzalo González Mora (@gonzalogm):
+Y no para de subir
+11:02:38 - Julian (@jantonielli01):
+friendly reminder de que no necesitan aceptar poca plata
+11:02:57 - Federico A. Sawady O'Connor (@sawady.faso):
+olvidaate
+11:03:45 - Federico A. Sawady O'Connor (@sawady.faso):
+a mi siempre me sirve preguntar si $20/min le parece bien, aunque mi rate diga $15/min
+11:03:47 - Gonzalo González Mora (@gonzalogm):
+_epetaculaaaa_
+11:03:57 - Federico A. Sawady O'Connor (@sawady.faso):
+perdon $20/15min (re caro el chabón jajaj)
+11:04:16 - Federico A. Sawady O'Connor (@sawady.faso):
+y muchas veces aceptan
+11:18:06 - Marcos Casagrande (@marcoscvp90):
+Exacto, nunca hay que tirarse para abajo.
+11:19:15 - Marcos Casagrande (@marcoscvp90):
+<@U06H27CM8> podríamos eliminar este canal del repo público dónde se guardan todos los mensajes? Ya que hablamos de plata y me parece hasta "peligroso" que quede guardado públicamente en internet.
+11:19:33 - Julian (@jantonielli01):
+yo le puse lo mismo pero me ignoró : p
+11:20:20 - a0viedo (@a0viedo):
+se puede hacer privado pero si es privado cómo lo van a usar para buscar?
+11:22:28 - Marcos Casagrande (@marcoscvp90):
+Mi idea era eliminarlo, yo personalmente prefiero que pregunten de nuevo, antes de que quede todo público, Se que privado no es una opción, así que prefiero que se borre. La otra opción es eliminar quién envía el mensaje.
+11:24:03 - Marcos Casagrande (@marcoscvp90):
+No sé que prefieren los demás, si anónimo, o borrarlo.
+11:24:09 - a0viedo (@a0viedo):
+creo que privado es mejor que se borre directamente porque podemos a lo sumo integrar un bot para la búsqueda
+11:26:36 - Marcos Casagrande (@marcoscvp90):
+Si es privado y nameless a mi no me jode.
+11:26:52 - a0viedo (@a0viedo):
+hacerlo anónimo me parece fácil pero después no puedo buscar mis mensajes...a menos que se derive un hash a partir del username y se use eso
+11:27:26 - Julian (@jantonielli01):
+Se, medio paja
+11:27:29 - a0viedo (@a0viedo):
+lo más rápido sería hacerlo privado
+11:27:49 - Gonzalo González Mora (@gonzalogm):
+Sep, si no se puede hacer sólo un channel anónimo creo que auqnue sea privado estaría mejor
+11:27:53 - Julian (@jantonielli01):
+Yo prefiero como dice marcos, que vuelvan o pregunttar o en todo caso hacemos otros gist (anonimo) como el pinneado
+11:27:56 - Julian (@jantonielli01):
+con la data
+11:28:10 - a0viedo (@a0viedo):
+y después vemos qué se puede hacer para la búsqueda
+11:28:18 - Julian (@jantonielli01):
+sorry por romper las bolas <@U06H27CM8>
+11:28:29 - Gonzalo González Mora (@gonzalogm):
+De una
+11:28:41 - Gonzalo González Mora (@gonzalogm):
+Y gracias!
+11:29:31 - Marcos Casagrande (@marcoscvp90):
+Perfecto, gracias!
+13:21:52 - Aldo Sorbara (@aldo1891):
+que grande codementor :heart:
+13:45:38 - Ale Miralles (@amiralles):
+Que grande <@UGQTUDQSG> que nos trajo codementor!!!
+13:45:40 - Ale Miralles (@amiralles):
+jajaja
+14:03:13 - Aldo Sorbara (@aldo1891):
+se merece el porcentaje que esta ganando por cada trabajo que hacemos
+14:03:15 - Aldo Sorbara (@aldo1891):
+10% creo
+14:33:07 - Gonza Espeche (@espeche.g):
+el día que esté en la plataforma y cobre mi primer mango, algún presente le haré llegar
+14:33:37 - Rodrigo Ali (@rodrigojali):
+Idem
+14:35:51 - Marcos Casagrande (@marcoscvp90):
+No hace falta! _pero no me enojaré si llega dicho regalo_
+14:41:52 - Juan Scolari (@juanscolari):
+Crea un sistema de referidos, cobrale a los referidos de tus referidos y no laburas mas
+14:42:33 - Ale Miralles (@amiralles):
+En la nodeconf nos vamos a cruzar seguro. Algun regalo va a haber para <@UGQTUDQSG>
+14:42:44 - Ale Miralles (@amiralles):
+Un capo total.
+14:45:39 - Julian (@jantonielli01):
+es a fin de año no? yo nunca pude ir
+14:46:01 - Julian (@jantonielli01):
+<@U6U3183U6> osea un pyramid scheme jaj
+14:46:59 - Gonzalo González Mora (@gonzalogm):
+Tipo fin de octubre/noviembre es en general
+14:48:13 - Juan Scolari (@juanscolari):
+Es y no es, usted me entiende
+14:48:36 - Juan Scolari (@juanscolari):
+Yo me gane la entrada del año pasado gracias a meetup.js :clapping:
+14:49:02 - Marcos Casagrande (@marcoscvp90):
+Si sigo en Argentina, allí estaré :node:
+15:18:43 - Federico A. Sawady O'Connor (@sawady.faso):
+cuál nodeconf?
+15:18:49 - Federico A. Sawady O'Connor (@sawady.faso):
+:no_mouth:
+20:05:17 - Julian (@jantonielli01):
+que mancos son los de CM codeando jaja
+20:05:40 - Julian (@jantonielli01):
+fuckuppearon CMX otra vez, no termine el proceso pero ya puedo mandar solicitudes a los proyectos de ahí
+20:05:56 - Julian (@jantonielli01):
+Mepa que deberíamos hacernos nuestro propio CM
+20:20:27 - Adrián Velasco (@adrivelasco1506):
+a los que ayudás?
+20:20:51 - Adrián Velasco (@adrivelasco1506):
+la verdad que es increíble, me topé con cada uno jajaja
+20:21:16 - Adrián Velasco (@adrivelasco1506):
+lo peor es que algunos realmente trabajan como dev.
+20:25:18 - Julian (@jantonielli01):
+No, digo los trabajan para la empresa, los que codean la página
+20:25:21 - Julian (@jantonielli01):
+Esta llena de bugs
+20:25:31 - Julian (@jantonielli01):
+Pero los otros tambien jajajj
+20:25:57 - Leandro Echevarria (@echevarrialeandro):
+No es mala prototiparlo al menos :stuck_out_tongue:
+20:27:46 - Adrián Velasco (@adrivelasco1506):
+sabés que hoy se me cruzó mandarles un mail para ofrecerme como frontend remoto
+20:27:55 - Adrián Velasco (@adrivelasco1506):
+en realidad para preguntar si estaban buscando jajaja
+20:28:24 - Adrián Velasco (@adrivelasco1506):
+está desarrollada para el orto, pero la plataforma en sí está hecha para que los mismos mentors se llenen de guita, con tarifas que arrancan en 60usd y comisiones de 20%
+20:28:40 - Adrián Velasco (@adrivelasco1506):
+no me extrañaría que paguen dos mangos a un grupo de indios para hacer la UI de cm
+20:29:13 - Julian (@jantonielli01):
+Jajjaja se, totalmente. Yo lo pensé, pero para laburar fulltime prefiero otras empresas. Lo que me copa de esto es laburar un par de horas y listo
+20:31:42 - Adrián Velasco (@adrivelasco1506):
+si, sabés que yo ahora renuncié a mi laburo para meterle a cm y ver si consigo algo remoto pero probablemente a los meses vuelva a trabajar en relación de dep. y siga usando cm para pelotudear
