@@ -1,0 +1,655 @@
+21:15:15 - Gonza Rascón (@gonzarascon):
+Es para un proyecto de la facultad, basicamente propuse simular una plataforma de e-learning al estilo codecademy
+21:17:20 - Gonza Rascón (@gonzarascon):
+Por ejemplo, si un usuario hace un `console.log` la parte de output deberia mostrar lo que devuelve eso
+23:15:54 - Maxi (@tholem98):
+Me gustaria agregarle un div a un div cuando paso con el mouse por encima y borrarlo cuando lo saco. 
+
+Pero tuve el siguiente problema, el div es añadido pero no se me ocurre con qué borrarlo, probé con parent, firstchild, lastchild, pero ninguno borra lo que busco. Eso genera que se añadan cada vez mas div por cada vez que paso el mouse por encima
+23:16:03 - Maxi (@tholem98):
+El codigo es el siguiente:
+```
+var card = document.getElementsByClassName("app");
+
+for(var i = 0; i &lt; card.length; i++) {
+    card[i].addEventListener('mouseenter', color, false);
+}
+
+function color(){
+id=this.id
+el=document.getElementById(id)
+el.innerHTML+=`    
+&lt;div id="remove" style=" text-align: center ;background-color:rgba(0,0,1,0.1); border-radius:100% ; position:absolute; top:0%; right:0%; z-index:1;" class="w-full h-full bg-blue"&gt;
+ &lt;/div&gt;           
+ `
+}
+```
+
+Y este es el del div:
+```
+&lt;%i=0%&gt;
+    &lt;% prod.forEach(prod =&gt; { %&gt;
+      
+        &lt;div  class="flex flex-wrap -m-2 " &gt;
+          
+          &lt;div id="app[&lt;%=i%&gt;]" style="position: relative" class="w-full h-64 p-4 app"  &gt;
+              &lt;div class="shadow h-full "  &gt;
+              &lt;div  style="position:relative; width:200px;"&gt;
+                &lt;img  src="&lt;%= prod.img.url %&gt;" alt=""&gt;  
+           [...es demasiado extenso y creo que no es relevante]
+                  &lt;/div&gt;
+               &lt;/div&gt;
+            &lt;/div&gt;
+         &lt;/div&gt;
+&lt;%i++%&gt;
+        &lt;% }); %&gt;
+```
+
+Como puedo hacer para añadir un div con un boton dentro cuando el mouse pasa por encima y  quitarlo cuando se va?
+23:35:07 - Mateo Silguero (@mfsilguero):
+A cada elemento los podes suscribir al evento mouseenter y mouseleave respectivamente
+23:38:57 - Maxi (@tholem98):
+Sisi, eso lo hice. Solo que, con el mouseout(o es mejor el mouseleave?), no logro eliminar el div que añadí cuando el mouse ingresó
+02:21:04 - Ari Sanguinetti (@arielsanguinetti):
+Si te sirve, acá tenes el código del editor web de p5.js <https://github.com/processing/p5.js-web-editor> entiendo hace lo que vos decis (y algo mas entiendo...)
+05:59:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola gente, necesito una mano con esto:
+
+<https://codepen.io/Aldogro/pen/zXMmPB>
+
+Es un organizador para la administracion de propiedades q le estoy haciendo a mi chica.
+
+Está verde aún, pero la idea es que haciendo click en el botón de abajo a la derecha se abra el formulario y que luego de llenarlo, ponga enviar y se agregue a la lista de propiedades... el tema es que puse para agregar una automaticamente y al hacerlo me anula el boton para mostrar y esconder el formulario... lo miré por todos lados y no termino de entender por qué me lo hace y no me manda ningún error
+09:17:43 - Gonzalo González Mora (@gonzalogm):
+Te está pasando esto, Aldo: <https://stackoverflow.com/questions/38361875/element-innerhtml-getting-rid-of-event-listeners>
+09:45:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias Gonzalo! Ahí lo miro!
+09:49:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Al margen y como para entender... no se usa el innerHTML para incrustar html con los template literals ( con estas comillas `` ), pq los estaba usando en casi todos lados y hasta ahora no había tenido este problema
+09:50:25 - Gonzalo González Mora (@gonzalogm):
+Yo mucho de front la verdad no sé, pero parece que si usás innerHTML (creo que los template literals no hay drama), te vuela los event listeners y deberías usar este: <https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML>
+09:50:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi lo pruebo con ese
+09:52:56 - Santiago Ruffino (@santi_0898):
+Pregunta! Tengo un docker corriendo un archivo Python que es Flask. Basicamente es un endpoint que recibe un json, lo formatea y hace un post en una API. El problema es que me esta duplicando las "salidas" de esa api. Pero cuando lo corro local, o pruebo con Postman, no duplica
+09:53:17 - Santiago Ruffino (@santi_0898):
+Entonces estoy teniendo un problema entre mi plataforma de sitios web y mi docker. Como puedo "debuguear" esa app Flask que tengo corriendo en Docker?
+09:55:17 - Gonza Rascón (@gonzarascon):
+Genial! ahi vi que usan console-feed para escupir el output de la consola en un componente! Muchas gracias! :smile:
+09:59:31 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi probé con ese desde el celu... no me voltea los listeners pero tampoco me añade lo q le mando.
+Si puedo a la tarde cuando me pongo en la compu lo veo bien
+10:02:39 - Gonzalo González Mora (@gonzalogm):
+Dale de una, cualquier cosa dsp subís el codepen actualizado y lo vemos
+10:04:53 - Aldo Gabriel Rojas (@aldogrojas5):
+Dale! Gracias de nuevo!
+10:30:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahí me pasó un amigo por whatsapp una posible solución. Me dice q hay algo del materializecss q interfiere. Ahora anda...
+10:31:24 - Gonzalo González Mora (@gonzalogm):
+Ahh mirá vos! Tenés idea bien qué es?
+10:43:02 - Aldo Gabriel Rojas (@aldogrojas5):
+No, pero ahora paso el codepen actualizado con las modificaciones
+10:43:13 - Gonzalo González Mora (@gonzalogm):
+:ok_hand:
+10:55:29 - Aldo Gabriel Rojas (@aldogrojas5):
+<https://codepen.io/lardissone/pen/ZZmdqa>
+10:56:23 - Aldo Gabriel Rojas (@aldogrojas5):
+Asi me lo paso él con modificaciones. No termino de entender qué es lo que jode, pero evidentemente los cambios q hizo funcionaron
+10:57:56 - Gonzalo González Mora (@gonzalogm):
+Podés usar <http://diffchecker.com|diffchecker.com> para ver la difernecia entre los archivos de ambos codepen a ver qué cambió
+11:17:22 - Santiago Ruffino (@santi_0898):
+Alguien? :anguished:
+11:20:05 - Martín Valdés de León (@mvaldesdeleon):
+Del mismo modo que debugeas Flask corriendo en tu localhost.
+11:20:31 - Martín Valdés de León (@mvaldesdeleon):
+Tenes que mapear el puerto de debugging de python de Docker al host.
+11:20:42 - Martín Valdés de León (@mvaldesdeleon):
+Y te podes conectar con tus debugging tools/IDE/whatever.
+11:21:08 - Santiago Ruffino (@santi_0898):
+Mm, oka, entendi que hacer. Ahora me pongo en proceso de como hacerlo
+11:32:53 - Juan Bono (@juanbono):
+Y si tenés logs con `docker logs &lt;container&gt;` podes verlos
+11:37:27 - Santiago Ruffino (@santi_0898):
+THAT is a problem.
+11:37:48 - Santiago Ruffino (@santi_0898):
+Mis logs son `print("Correcto")`
+11:38:22 - Juan Bono (@juanbono):
+Jajaja noo
+11:38:46 - Juan Bono (@juanbono):
+Cambialos por el equivalente usando  `logging`
+11:39:35 - Juan Bono (@juanbono):
+También si tú imagen tiene bash podes meterte en el container y ver que onda
+11:46:19 - Santiago Ruffino (@santi_0898):
+Lo ideal seria que use logging
+11:46:22 - Santiago Ruffino (@santi_0898):
+Cierto?
+11:57:42 - Juan Bono (@juanbono):
+Es mejor que un print porque le podes poner log level, formatearlos y demas
+12:02:06 - Martín Valdés de León (@mvaldesdeleon):
+Igual si estas `print`-eando `docker logs` te lo va a mostrar igual
+12:02:18 - Martín Valdés de León (@mvaldesdeleon):
+basicamente docker captura stdout/stderr del proceso que inicia
+12:08:34 - Aldo Gabriel Rojas (@aldogrojas5):
+La verdad... las cosas q cambió no entiendo por qué interferían :thinking_face:
+12:09:19 - Gonzalo González Mora (@gonzalogm):
+Qué cagada. Qué fue lo que cambió?
+12:34:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Un if q habia puesto para hacer q se vea el formulario al presionar el boton y un par de cosas más.  A la tarde si puedo me fijo bien puntualmente
+12:50:41 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo q me molesta es no entender por qué antes no andaba y ahora sí :rolling_on_the_floor_laughing:
+13:10:23 - Gustavo Martín Herrera (@martinherrera.g96):
+Hola pregunta estoy trabajando con php...
+
+Traigo unos registros de la db y lo meto en una tabla, y cada registro tiene un checkbox para seleccionar varios y modficarlos, la cosa es que al seleccionar tiene que verificar que tengan un mismo "estado", lo trabaje con jquery, pero no me tira la alerta de que no se puede seleccionar un registro si no tiene el mismo estado que el anterior...
+Si alguien me da una mano, lo agradezco
+14:20:29 - Martín Aimar (@maimar):
+podrías usar `.every`: `$('#tabla input[name="idfacturaciones[]"]:checked').every(checkbox =&gt; $(checkbox).data('estado') === 'algún estado')`
+14:42:42 - Dayan Ruiz (@dayanr):
+alo, chicos tengo una query:
+```
+Tengo una app en Reactjs, le estoy tratando de integrar el login con facebook, para la parte de react usé react-facebook-login, y funciona, el tema es cuando me retorna esa data, que hago con ella, tengo una api en <http://asp.net|asp.net> core, deberia hacer yo a mano un custom login para el facebook o ya .net core tiene algo que yo lo pueda usar para manejar la data que me devolvió facebook
+```
+14:48:00 - Ezequiel Leites (@leites25):
+Yo normalmente lo que hago cuando hago fb connect es guardar en un campo el fbuid. Si existe el mail del usuario de ese fbuid, actualizo el campo y hace login, si no existe, esta en la logica de la aplicacion si con eso alcanza para que entra o solo autocompleta un formulario de registro
+14:51:11 - Dayan Ruiz (@dayanr):
+pero el tema es que si me mandan datos se supone que es porque facebook me los mando a mi, y entonces tendria que yo crearle la cuenta y luego loguearlo, no?
+14:51:30 - Dayan Ruiz (@dayanr):
+estaba pensando en un metodo `login`, uno `register` y uno `facebookLogin`
+14:51:37 - Dayan Ruiz (@dayanr):
+y el ultimo de estos registrar y luego loguea
+14:52:05 - Dayan Ruiz (@dayanr):
+con la data que me envio de facebook, el problema es cuando el usuario se vaya a loguear de vuelta, verifico que el mail exista y ya esta?
+14:52:20 - Ezequiel Leites (@leites25):
+Claro. Osea, vos tenes 2 logins, uno con credenciales y el otro con facebook
+14:52:37 - Ezequiel Leites (@leites25):
+Si entra con Facebook, usas el ID de facebook, si es con credenciales, usas user y password o email y password, lo que sea
+14:52:50 - Ezequiel Leites (@leites25):
+Vas a tener, o 2 endpoints diferentes
+14:52:56 - Dayan Ruiz (@dayanr):
+no, actualmente solo tengo el login y el register comun
+14:53:00 - Dayan Ruiz (@dayanr):
+que viene la data de un form
+14:53:07 - Dayan Ruiz (@dayanr):
+estoy pensando en integrar el de facebook y el de gmail
+14:53:14 - Dayan Ruiz (@dayanr):
+la pregunta seria, como lo integro?
+14:53:22 - Dayan Ruiz (@dayanr):
+asumiendo que ya tengo la parte de react hecho
+14:54:18 - Ezequiel Leites (@leites25):
+El de gmail nunca lo use. Siempre me manejé con facebook nomas y es como decias vos, tenes un metodo `login`, `register`y `fbLogin``
+14:56:09 - Dayan Ruiz (@dayanr):
+y en el fbLogin que haces tu?, lo registras y lo logueas?
+14:56:23 - Dayan Ruiz (@dayanr):
+porque entiendo que ahi queda como logueado sin password eh, I mean en la base de datos
+14:56:55 - Ezequiel Leites (@leites25):
+Nono, el fbLogin checkea si hay un usuario con esa data, si la hay, loguea, si no, te lleva a un form de registro con datos cargados
+14:58:05 - Ezequiel Leites (@leites25):
+Igual eso es a gusto y piacere de cada uno.
+Tambien podes evitar tener password ya que decis, ok el chabon se logeo en fb, ya se que es el. Nunca lo hice asi, siempre fui por la de, te autocompleto el formulario de registro
+15:00:21 - Dayan Ruiz (@dayanr):
+claro, pero el pone user y password de facebook en el form, el tema es si ya esta logueado en el mismo browser entras asi nomas, no?
+15:00:33 - Dayan Ruiz (@dayanr):
+no  recuerdo si facebook te retorna la pass encriptada o algo asi
+15:01:04 - Ezequiel Leites (@leites25):
+Si el usuario ya esta logeado en FB te devuelve directamente el id y lo que le pidas
+15:02:06 - Dayan Ruiz (@dayanr):
+y el password?
+15:02:08 - Dayan Ruiz (@dayanr):
+tambien?
+15:02:16 - Ezequiel Leites (@leites25):
+No, facebook no te da el password del usuario
+15:02:29 - Dayan Ruiz (@dayanr):
+ta, entonces como lo logueo por primera vez
+15:05:33 - Ezequiel Leites (@leites25):
+Espera, porque creo que no se está entendiendo.
+Vos tenes un sistema de login, que puede ser, con user y password o con fb.
+Cuando el usuario entra por primera vez a tu sistema e ingresa login con fb, se abre el login de fb, bla bla, te devuelve los datos del usuario que se logeo en FB. Por defecto devuelve id y una cosa mas, normalmente le terminas pidiendo info extra, como el mail, nombre, apellido y quizas fecha de nacimiento.
+Ahora, cuando te devuelve esa info, vos podes hacer 2 cosas, generar un registro de usuario con esos datos, no tenes password, solo tenes FBUID y email, o lo llegas a una pantalla de registro con datos autocompletados y haces que se registre con usuario y contraseña.
+15:06:25 - Ezequiel Leites (@leites25):
+Hasta ahi vamos? Entiendo que vos querras que se haga lo segundo
+15:18:39 - Dayan Ruiz (@dayanr):
+yo lo que quiero es que el usuario le de click al boton de `login de facebbok` y pueda entrar al sistema, y cada vez que se quiera loguear, con solo darle click ya pueda entrar
+15:18:49 - Dayan Ruiz (@dayanr):
+en plan anti-vagos
+15:19:17 - Ezequiel Leites (@leites25):
+Bien, entonces guarda el FBUID, el email y cada vez que haga clic sobre eso, valida sobre eso
+21:15:15 - Gonza Rascón (@gonzarascon):
+Es para un proyecto de la facultad, basicamente propuse simular una plataforma de e-learning al estilo codecademy
+21:17:20 - Gonza Rascón (@gonzarascon):
+Por ejemplo, si un usuario hace un `console.log` la parte de output deberia mostrar lo que devuelve eso
+23:15:54 - Maxi (@tholem98):
+Me gustaria agregarle un div a un div cuando paso con el mouse por encima y borrarlo cuando lo saco. 
+
+Pero tuve el siguiente problema, el div es añadido pero no se me ocurre con qué borrarlo, probé con parent, firstchild, lastchild, pero ninguno borra lo que busco. Eso genera que se añadan cada vez mas div por cada vez que paso el mouse por encima
+23:16:03 - Maxi (@tholem98):
+El codigo es el siguiente:
+```
+var card = document.getElementsByClassName("app");
+
+for(var i = 0; i &lt; card.length; i++) {
+    card[i].addEventListener('mouseenter', color, false);
+}
+
+function color(){
+id=this.id
+el=document.getElementById(id)
+el.innerHTML+=`    
+&lt;div id="remove" style=" text-align: center ;background-color:rgba(0,0,1,0.1); border-radius:100% ; position:absolute; top:0%; right:0%; z-index:1;" class="w-full h-full bg-blue"&gt;
+ &lt;/div&gt;           
+ `
+}
+```
+
+Y este es el del div:
+```
+&lt;%i=0%&gt;
+    &lt;% prod.forEach(prod =&gt; { %&gt;
+      
+        &lt;div  class="flex flex-wrap -m-2 " &gt;
+          
+          &lt;div id="app[&lt;%=i%&gt;]" style="position: relative" class="w-full h-64 p-4 app"  &gt;
+              &lt;div class="shadow h-full "  &gt;
+              &lt;div  style="position:relative; width:200px;"&gt;
+                &lt;img  src="&lt;%= prod.img.url %&gt;" alt=""&gt;  
+           [...es demasiado extenso y creo que no es relevante]
+                  &lt;/div&gt;
+               &lt;/div&gt;
+            &lt;/div&gt;
+         &lt;/div&gt;
+&lt;%i++%&gt;
+        &lt;% }); %&gt;
+```
+
+Como puedo hacer para añadir un div con un boton dentro cuando el mouse pasa por encima y  quitarlo cuando se va?
+23:35:07 - Mateo Silguero (@mfsilguero):
+A cada elemento los podes suscribir al evento mouseenter y mouseleave respectivamente
+23:38:57 - Maxi (@tholem98):
+Sisi, eso lo hice. Solo que, con el mouseout(o es mejor el mouseleave?), no logro eliminar el div que añadí cuando el mouse ingresó
+02:21:04 - Ari Sanguinetti (@arielsanguinetti):
+Si te sirve, acá tenes el código del editor web de p5.js <https://github.com/processing/p5.js-web-editor> entiendo hace lo que vos decis (y algo mas entiendo...)
+05:59:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola gente, necesito una mano con esto:
+
+<https://codepen.io/Aldogro/pen/zXMmPB>
+
+Es un organizador para la administracion de propiedades q le estoy haciendo a mi chica.
+
+Está verde aún, pero la idea es que haciendo click en el botón de abajo a la derecha se abra el formulario y que luego de llenarlo, ponga enviar y se agregue a la lista de propiedades... el tema es que puse para agregar una automaticamente y al hacerlo me anula el boton para mostrar y esconder el formulario... lo miré por todos lados y no termino de entender por qué me lo hace y no me manda ningún error
+09:17:43 - Gonzalo González Mora (@gonzalogm):
+Te está pasando esto, Aldo: <https://stackoverflow.com/questions/38361875/element-innerhtml-getting-rid-of-event-listeners>
+09:45:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias Gonzalo! Ahí lo miro!
+09:49:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Al margen y como para entender... no se usa el innerHTML para incrustar html con los template literals ( con estas comillas `` ), pq los estaba usando en casi todos lados y hasta ahora no había tenido este problema
+09:50:25 - Gonzalo González Mora (@gonzalogm):
+Yo mucho de front la verdad no sé, pero parece que si usás innerHTML (creo que los template literals no hay drama), te vuela los event listeners y deberías usar este: <https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML>
+09:50:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi lo pruebo con ese
+09:52:56 - Santiago Ruffino (@santi_0898):
+Pregunta! Tengo un docker corriendo un archivo Python que es Flask. Basicamente es un endpoint que recibe un json, lo formatea y hace un post en una API. El problema es que me esta duplicando las "salidas" de esa api. Pero cuando lo corro local, o pruebo con Postman, no duplica
+09:53:17 - Santiago Ruffino (@santi_0898):
+Entonces estoy teniendo un problema entre mi plataforma de sitios web y mi docker. Como puedo "debuguear" esa app Flask que tengo corriendo en Docker?
+09:55:17 - Gonza Rascón (@gonzarascon):
+Genial! ahi vi que usan console-feed para escupir el output de la consola en un componente! Muchas gracias! :smile:
+09:59:31 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi probé con ese desde el celu... no me voltea los listeners pero tampoco me añade lo q le mando.
+Si puedo a la tarde cuando me pongo en la compu lo veo bien
+10:02:39 - Gonzalo González Mora (@gonzalogm):
+Dale de una, cualquier cosa dsp subís el codepen actualizado y lo vemos
+10:04:53 - Aldo Gabriel Rojas (@aldogrojas5):
+Dale! Gracias de nuevo!
+10:30:49 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahí me pasó un amigo por whatsapp una posible solución. Me dice q hay algo del materializecss q interfiere. Ahora anda...
+10:31:24 - Gonzalo González Mora (@gonzalogm):
+Ahh mirá vos! Tenés idea bien qué es?
+10:43:02 - Aldo Gabriel Rojas (@aldogrojas5):
+No, pero ahora paso el codepen actualizado con las modificaciones
+10:43:13 - Gonzalo González Mora (@gonzalogm):
+:ok_hand:
+10:55:29 - Aldo Gabriel Rojas (@aldogrojas5):
+<https://codepen.io/lardissone/pen/ZZmdqa>
+10:56:23 - Aldo Gabriel Rojas (@aldogrojas5):
+Asi me lo paso él con modificaciones. No termino de entender qué es lo que jode, pero evidentemente los cambios q hizo funcionaron
+10:57:56 - Gonzalo González Mora (@gonzalogm):
+Podés usar <http://diffchecker.com|diffchecker.com> para ver la difernecia entre los archivos de ambos codepen a ver qué cambió
+11:17:22 - Santiago Ruffino (@santi_0898):
+Alguien? :anguished:
+11:20:05 - Martín Valdés de León (@mvaldesdeleon):
+Del mismo modo que debugeas Flask corriendo en tu localhost.
+11:20:31 - Martín Valdés de León (@mvaldesdeleon):
+Tenes que mapear el puerto de debugging de python de Docker al host.
+11:20:42 - Martín Valdés de León (@mvaldesdeleon):
+Y te podes conectar con tus debugging tools/IDE/whatever.
+11:21:08 - Santiago Ruffino (@santi_0898):
+Mm, oka, entendi que hacer. Ahora me pongo en proceso de como hacerlo
+11:32:53 - Juan Bono (@juanbono):
+Y si tenés logs con `docker logs &lt;container&gt;` podes verlos
+11:37:27 - Santiago Ruffino (@santi_0898):
+THAT is a problem.
+11:37:48 - Santiago Ruffino (@santi_0898):
+Mis logs son `print("Correcto")`
+11:38:22 - Juan Bono (@juanbono):
+Jajaja noo
+11:38:46 - Juan Bono (@juanbono):
+Cambialos por el equivalente usando  `logging`
+11:39:35 - Juan Bono (@juanbono):
+También si tú imagen tiene bash podes meterte en el container y ver que onda
+11:46:19 - Santiago Ruffino (@santi_0898):
+Lo ideal seria que use logging
+11:46:22 - Santiago Ruffino (@santi_0898):
+Cierto?
+11:57:42 - Juan Bono (@juanbono):
+Es mejor que un print porque le podes poner log level, formatearlos y demas
+12:02:06 - Martín Valdés de León (@mvaldesdeleon):
+Igual si estas `print`-eando `docker logs` te lo va a mostrar igual
+12:02:18 - Martín Valdés de León (@mvaldesdeleon):
+basicamente docker captura stdout/stderr del proceso que inicia
+12:08:34 - Aldo Gabriel Rojas (@aldogrojas5):
+La verdad... las cosas q cambió no entiendo por qué interferían :thinking_face:
+12:09:19 - Gonzalo González Mora (@gonzalogm):
+Qué cagada. Qué fue lo que cambió?
+12:34:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Un if q habia puesto para hacer q se vea el formulario al presionar el boton y un par de cosas más.  A la tarde si puedo me fijo bien puntualmente
+12:50:41 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo q me molesta es no entender por qué antes no andaba y ahora sí :rolling_on_the_floor_laughing:
+13:10:23 - Gustavo Martín Herrera (@martinherrera.g96):
+Hola pregunta estoy trabajando con php...
+
+Traigo unos registros de la db y lo meto en una tabla, y cada registro tiene un checkbox para seleccionar varios y modficarlos, la cosa es que al seleccionar tiene que verificar que tengan un mismo "estado", lo trabaje con jquery, pero no me tira la alerta de que no se puede seleccionar un registro si no tiene el mismo estado que el anterior...
+Si alguien me da una mano, lo agradezco
+14:20:29 - Martín Aimar (@maimar):
+podrías usar `.every`: `$('#tabla input[name="idfacturaciones[]"]:checked').every(checkbox =&gt; $(checkbox).data('estado') === 'algún estado')`
+14:42:42 - Dayan Ruiz (@dayanr):
+alo, chicos tengo una query:
+```
+Tengo una app en Reactjs, le estoy tratando de integrar el login con facebook, para la parte de react usé react-facebook-login, y funciona, el tema es cuando me retorna esa data, que hago con ella, tengo una api en <http://asp.net|asp.net> core, deberia hacer yo a mano un custom login para el facebook o ya .net core tiene algo que yo lo pueda usar para manejar la data que me devolvió facebook
+```
+14:48:00 - Ezequiel Leites (@leites25):
+Yo normalmente lo que hago cuando hago fb connect es guardar en un campo el fbuid. Si existe el mail del usuario de ese fbuid, actualizo el campo y hace login, si no existe, esta en la logica de la aplicacion si con eso alcanza para que entra o solo autocompleta un formulario de registro
+14:51:11 - Dayan Ruiz (@dayanr):
+pero el tema es que si me mandan datos se supone que es porque facebook me los mando a mi, y entonces tendria que yo crearle la cuenta y luego loguearlo, no?
+14:51:30 - Dayan Ruiz (@dayanr):
+estaba pensando en un metodo `login`, uno `register` y uno `facebookLogin`
+14:51:37 - Dayan Ruiz (@dayanr):
+y el ultimo de estos registrar y luego loguea
+14:52:05 - Dayan Ruiz (@dayanr):
+con la data que me envio de facebook, el problema es cuando el usuario se vaya a loguear de vuelta, verifico que el mail exista y ya esta?
+14:52:20 - Ezequiel Leites (@leites25):
+Claro. Osea, vos tenes 2 logins, uno con credenciales y el otro con facebook
+14:52:37 - Ezequiel Leites (@leites25):
+Si entra con Facebook, usas el ID de facebook, si es con credenciales, usas user y password o email y password, lo que sea
+14:52:50 - Ezequiel Leites (@leites25):
+Vas a tener, o 2 endpoints diferentes
+14:52:56 - Dayan Ruiz (@dayanr):
+no, actualmente solo tengo el login y el register comun
+14:53:00 - Dayan Ruiz (@dayanr):
+que viene la data de un form
+14:53:07 - Dayan Ruiz (@dayanr):
+estoy pensando en integrar el de facebook y el de gmail
+14:53:14 - Dayan Ruiz (@dayanr):
+la pregunta seria, como lo integro?
+14:53:22 - Dayan Ruiz (@dayanr):
+asumiendo que ya tengo la parte de react hecho
+14:54:18 - Ezequiel Leites (@leites25):
+El de gmail nunca lo use. Siempre me manejé con facebook nomas y es como decias vos, tenes un metodo `login`, `register`y `fbLogin``
+14:56:09 - Dayan Ruiz (@dayanr):
+y en el fbLogin que haces tu?, lo registras y lo logueas?
+14:56:23 - Dayan Ruiz (@dayanr):
+porque entiendo que ahi queda como logueado sin password eh, I mean en la base de datos
+14:56:55 - Ezequiel Leites (@leites25):
+Nono, el fbLogin checkea si hay un usuario con esa data, si la hay, loguea, si no, te lleva a un form de registro con datos cargados
+14:58:05 - Ezequiel Leites (@leites25):
+Igual eso es a gusto y piacere de cada uno.
+Tambien podes evitar tener password ya que decis, ok el chabon se logeo en fb, ya se que es el. Nunca lo hice asi, siempre fui por la de, te autocompleto el formulario de registro
+15:00:21 - Dayan Ruiz (@dayanr):
+claro, pero el pone user y password de facebook en el form, el tema es si ya esta logueado en el mismo browser entras asi nomas, no?
+15:00:33 - Dayan Ruiz (@dayanr):
+no  recuerdo si facebook te retorna la pass encriptada o algo asi
+15:01:04 - Ezequiel Leites (@leites25):
+Si el usuario ya esta logeado en FB te devuelve directamente el id y lo que le pidas
+15:02:06 - Dayan Ruiz (@dayanr):
+y el password?
+15:02:08 - Dayan Ruiz (@dayanr):
+tambien?
+15:02:16 - Ezequiel Leites (@leites25):
+No, facebook no te da el password del usuario
+15:02:29 - Dayan Ruiz (@dayanr):
+ta, entonces como lo logueo por primera vez
+15:05:33 - Ezequiel Leites (@leites25):
+Espera, porque creo que no se está entendiendo.
+Vos tenes un sistema de login, que puede ser, con user y password o con fb.
+Cuando el usuario entra por primera vez a tu sistema e ingresa login con fb, se abre el login de fb, bla bla, te devuelve los datos del usuario que se logeo en FB. Por defecto devuelve id y una cosa mas, normalmente le terminas pidiendo info extra, como el mail, nombre, apellido y quizas fecha de nacimiento.
+Ahora, cuando te devuelve esa info, vos podes hacer 2 cosas, generar un registro de usuario con esos datos, no tenes password, solo tenes FBUID y email, o lo llegas a una pantalla de registro con datos autocompletados y haces que se registre con usuario y contraseña.
+15:06:25 - Ezequiel Leites (@leites25):
+Hasta ahi vamos? Entiendo que vos querras que se haga lo segundo
+15:18:39 - Dayan Ruiz (@dayanr):
+yo lo que quiero es que el usuario le de click al boton de `login de facebbok` y pueda entrar al sistema, y cada vez que se quiera loguear, con solo darle click ya pueda entrar
+15:18:49 - Dayan Ruiz (@dayanr):
+en plan anti-vagos
+15:19:17 - Ezequiel Leites (@leites25):
+Bien, entonces guarda el FBUID, el email y cada vez que haga clic sobre eso, valida sobre eso
+15:20:08 - Ezequiel Leites (@leites25):
+Tipo, primera vez que entra, guardas FBUID y email en un registro de tu tabla users y listo.
+La segunda vez, revisas que matcheen los FBUID y que ese usuario no lo tengas bloqueado, baneado o lo que sea por X motivo
+15:20:31 - Ezequiel Leites (@leites25):
+Nosotros haciamos eso en los micrositios de promociones
+15:20:47 - Ezequiel Leites (@leites25):
+Como era todo por FB, solo queria saber que usuario de fb era, no necesita contraseña ni nada por el estilo
+15:40:30 - Dayan Ruiz (@dayanr):
+ta, genial, muchas gracias
+15:43:18 - Ezequiel Leites (@leites25):
+:ok_hand:
+16:09:33 - Pablo Miceli (@pablomiceli24):
+que tan mala practica es generar un sitemap.xml dinamicamente "on demand"?
+Por que estaba pensando que es medio una paja mantener el sitemap cuando se hace un alta/baja de contenido
+16:14:56 - Guido Vizoso (@guido.vizoso9):
+Nosotros implementamos eso
+16:15:04 - Guido Vizoso (@guido.vizoso9):
+Un cron corriendo que actualiza el sitemap recorriendo las rutas
+16:23:06 - Pablo Miceli (@pablomiceli24):
+ah esa del cron esta buena
+16:56:19 - Santiago Ruffino (@santi_0898):
+Puede ser que `docker logs` no me muestre los `print` de mi codigo?
+16:59:18 - Martín Valdés de León (@mvaldesdeleon):
+Como _poder ser_, puede ser.
+
+`docker logs` te va a mostrar stdout y stderr. yo podria hacer algo tipo `python tuscript.py &gt; output` y ahora tus `print` van a parar a ese archivo `output` y docker nunca los ve.
+17:00:06 - Santiago Ruffino (@santi_0898):
+Claro. Mi idea era, que si con `docker logs` no puedo ver mis prints, guardar las salidas en un archivo y leer ahi directamente
+17:00:29 - Santiago Ruffino (@santi_0898):
+O, usar logs en python en lugar de `print` y eso si lo deberia mostrar Docker
+17:16:12 - Luis Alvarez (@luistensai):
+podrías hacer que tu app loguee en un file, y hacés un bind de un folder de tu pc a una carpeta dentro del container donde se guarda ese file, así se escribe el log en tu file system y podés verlo con cualquier editor
+17:16:52 - Luis Alvarez (@luistensai):
+no sé bien cómo funcionan los logs en python
+17:50:56 - Nico (@nicokorn96):
+hola chicos, una pregunta, acabo de hacer con node un request a la api de github para que me traiga todos mis repositorios (lo hice con el package de axios), el tema es que me trajo demasiadas propiedades quie no necesito, hay alguna manera de filtrar sin necesidad de pasarlo a un array nuevo y estar recooriendo un elemento uno por uno y generando un elemento nuevo con menos propiedades?
+18:02:58 - Juan Scolari (@juanscolari):
+map?
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map>
+18:05:25 - Martín Valdés de León (@mvaldesdeleon):
+A veces las APIs te dejan elegir que campos leer, pero no es muy comun. Mirando por encima los docs de la api de github no encontre nada, _salvo_ que uses el endpoint de GraphQL.
+18:06:45 - Nico (@nicokorn96):
+no tengo experiencia con graphql
+18:06:53 - Nico (@nicokorn96):
+ademas es para hacer algo sencillo
+18:07:23 - Martín Valdés de León (@mvaldesdeleon):
+Podes usar alguna lib de utilitarios tipo Rambda.
+18:07:24 - Nico (@nicokorn96):
+porque me molesta que traiga tantos campos que esos despues se los voy a tener que mandar al fromnt
+18:07:31 - Dario Miñones (@dminones):
+En ese caso map deberia alcanzar, asi como lo decis parece mucho esfuerzo pero con map sale muy facil, si solo queres nombre y url por ejemplo haces algo asi: `repos.map(repo =&gt; ({nombre: repo.name, url: repo.url}))
+18:07:58 - Martín Valdés de León (@mvaldesdeleon):
+`const nuevoArray = arrayDeObjetosConMuchosCampos.map(R.pick(['campo1', 'campo2', 'campo3']));`
+18:08:09 - Nico (@nicokorn96):
+ah entiendo
+18:08:11 - Nico (@nicokorn96):
+gracias
+18:08:24 - Nico (@nicokorn96):
+tengo que agrarrarle cancha a .map y a .filter
+18:08:37 - Nico (@nicokorn96):
+son esas 2 functiones de js que todavia no las engancho
+18:09:22 - Martín Valdés de León (@mvaldesdeleon):
+<https://sergiodxa.com/articles/js-basics/array-prototype-filter/>
+18:09:44 - Nico (@nicokorn96):
+#publicidad
+18:09:46 - Martín Valdés de León (@mvaldesdeleon):
+<https://sergiodxa.com/articles/js-basics/array-prototype-map/>
+18:10:13 - Nico (@nicokorn96):
+gracias ahi termino esto y me lo pongo a ver
+18:10:23 - Gonzalo González Mora (@gonzalogm):
+Había una web re copada que te enseñaba a usar esos y otros más avanzados de forma interactiva pero no me puedo acordar el nombre lpm
+18:10:47 - Gonzalo González Mora (@gonzalogm):
+<http://reactivex.io/learnrx/>
+18:10:53 - Nico (@nicokorn96):
+que mal que no se puede poner unos claps como en medium <@U0TFEHWEA>
+18:11:16 - Nico (@nicokorn96):
+ahi chequeo todo lo que me pasaron
+18:11:44 - Gonzalo González Mora (@gonzalogm):
+Pero por ahí primero es mejor agarrarle la mano a map y filter y dsp mandarse a ese que pasé
+18:16:32 - Juan Scolari (@juanscolari):
+map y filter me cambiaron la vida
+18:17:45 - Gonzalo González Mora (@gonzalogm):
+Sep, reduce es muy zarpado tmb, es más ,tengo que volver a agarrar esa web y ahcer los ejercicios esos y seguir investigando functional programming pq era súper potente. Me acuerdo que me había volado la mente las cosas que podías hacer con un par de funciones
+18:18:41 - Juan Scolari (@juanscolari):
+reduce es un arma de doble filo, hay algunos que lo usan para justificar cosas inentendibles :smile:
+18:20:32 - Gonzalo González Mora (@gonzalogm):
+Sí, he visto algunos usos que me dejan :morty: jaja
+18:24:01 - Gonzalo González Mora (@gonzalogm):
+ni hablar cuando leo <#C3A5KNEV7|functional> :joy: _algún día…_
+18:25:44 - Nico (@nicokorn96):
+me tira
+18:25:45 - Nico (@nicokorn96):
+TypeError: repos.map is not a function
+    at axios.get.then.repos (/Users/nicokornberg/proyectos/nicomse.dev/nicomse-backend/controllers/github/github.js:16:19)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+18:26:08 - Nico (@nicokorn96):
+:disappointed:
+18:26:27 - Gonzalo González Mora (@gonzalogm):
+fijate que sea un array. Tal vez te vino un objeto en la respuesta?
+18:26:29 - Marcos Casagrande (@marcoscvp90):
+porque repos no es un array.
+18:26:44 - Nico (@nicokorn96):
+mmm creo que es un object
+18:26:46 - Nico (@nicokorn96):
+se
+18:26:49 - Nico (@nicokorn96):
+un object
+18:26:50 - Nico (@nicokorn96):
+f*ck (perdon atp)
+18:27:19 - Marcos Casagrande (@marcoscvp90):
+hacele  `Object.keys` o `Object.values/entries`
+18:28:11 - Nico (@nicokorn96):
+antes de hacer el map?
+18:28:31 - Marcos Casagrande (@marcoscvp90):
+si, sobre el object, y te va a devolver un array, que podés mapear.
+18:28:58 - Marcos Casagrande (@marcoscvp90):
+si supiese el input y el output que querés sería más fácil ayudarte igual.
+18:29:13 - Nico (@nicokorn96):
+ah ok
+18:29:14 - Nico (@nicokorn96):
+aver
+18:30:21 - Nico (@nicokorn96):
+same error
+18:30:40 - Nico (@nicokorn96):
+le agregue esto antes
+18:30:42 - Nico (@nicokorn96):
+const repoToMap = Object.keys(repos)
+18:31:15 - Nico (@nicokorn96):
+pero me sigue tirando como que no puedo hacer .map
+18:31:29 - Gonzalo González Mora (@gonzalogm):
+Cómo es el código que tenés?
+18:31:49 - Gonzalo González Mora (@gonzalogm):
+pq estoy viendo los docs y parece que devuelve un array la response
+18:34:16 - Gonzalo González Mora (@gonzalogm):
+Probaste poner el console.log arriba para ver qué te está viniendo? Onda arriba del const repoToMap
+18:34:41 - Martín Valdés de León (@mvaldesdeleon):
+Lo que te devuelve `axios.get.then` es un objeto con varias propiedades.
+18:34:45 - Martín Valdés de León (@mvaldesdeleon):
+La respuesta esta en `data`
+18:34:56 - Martín Valdés de León (@mvaldesdeleon):
+<https://github.com/axios/axios#response-schema>
+18:35:03 - Martín Valdés de León (@mvaldesdeleon):
+Eso deberia ser el array.
+18:35:09 - Gonzalo González Mora (@gonzalogm):
+Cierto
+18:35:49 - Mariano Ramonda (@ing.inf.mariano):
+fijate que aca `const repoToMap = Object.keys(repos)` te va a devolver un array de keys, creo que vos queres array de values
+18:36:04 - Nico (@nicokorn96):
+aver
+18:36:12 - Mariano Ramonda (@ing.inf.mariano):
+y otra cosa, a `repoToMap.map` asignalo a alguna variable si no queres perderlo
+18:36:23 - Mariano Ramonda (@ing.inf.mariano):
+porque asi se va a mapear pero va a quedar en el limbo
+18:36:31 - Mariano Ramonda (@ing.inf.mariano):
+o retornalo directamente
+18:37:27 - Mariano Ramonda (@ing.inf.mariano):
+`const mappedRepos = Object.values(repos).map(repo =&gt; ...)`
+18:37:30 - Nico (@nicokorn96):
+sisi igual lo puse asi porq estaba probando me falta todos los returns y todas las exepciones
+18:38:00 - Mariano Ramonda (@ing.inf.mariano):
+no creo que te interesen las key en este caso
+18:38:10 - Gonzalo González Mora (@gonzalogm):
+Igual creo que no te va a hacer falta el Object.values/keys, pq devuelve un array directo
+18:38:26 - Gonzalo González Mora (@gonzalogm):
+hacés un return repos.data.map(…)
+18:41:51 - Mariano Ramonda (@ing.inf.mariano):
+entonces mas simple aun
+18:43:49 - Nico (@nicokorn96):
+ahi ando
+18:43:51 - Nico (@nicokorn96):
+:slightly_smiling_face:
+18:45:14 - Juan Scolari (@juanscolari):
+:clap: :clapping:
+18:49:03 - Martín Valdés de León (@mvaldesdeleon):
+Despues, hay una forma un poco mas corta de escribir la funcion interna...
+
+```
+({owner, url, description, name, updated_at, created_at, language}) =&gt; ({
+    owner,
+    url,
+    description,
+    name,
+    updated_at,
+    created_at,
+    language
+})
+```
+18:49:24 - Martín Valdés de León (@mvaldesdeleon):
+cada miembro sigue apareciendo dos veces, pero te ahorras escribir `repo` en todos lados
+19:03:10 - Nico (@nicokorn96):
+no se me habia ocurrido
+19:03:14 - Nico (@nicokorn96):
+una pregunta
+19:03:29 - Nico (@nicokorn96):
+tengo que hacer el res.send para mostrar el resultado
+19:03:40 - Nico (@nicokorn96):
+como lo hago si no esta en mi scope?
+19:04:27 - Nico (@nicokorn96):
+hasta ahora tengo esto
+19:06:03 - Gonzalo González Mora (@gonzalogm):
+Es que no deberías reasignar `res`. Podés asignar el `response.data.map...` a una variable y mandar eso con `res.send` (o mandarlo con `res.send(response.data....)`).
+19:06:50 - Martín Valdés de León (@mvaldesdeleon):
+Personalmente lo asignaria a una variable, porque sino te queda una sola expresion gigante.
+19:07:34 - Martín Valdés de León (@mvaldesdeleon):
+```
+            const repos = response.data.map(repo =&gt; ({
+                owner: repo.owner,
+                url: repo.html_url,
+                description: repo.description,
+                name: repo.name,
+                updated_at: repo.updated_at,
+                created_at: repo.created_at,
+                language: repo.language,
+            }));
+
+            res.send(repos);
+```
+19:09:09 - Nico (@nicokorn96):
+ahi salio
+19:09:13 - Nico (@nicokorn96):
+jeje
+20:31:19 - Dayan Ruiz Riera (@dayanrr91):
+jelou, alguien me puede decir como soluciono el tema en react cuando estoy trabajando con https que me detecta conexion insegura cada vez que levanto el server?
+20:44:50 - German Gonzalez (@gercho):
+Buenas, dónde y cómo me recomiendan deployar una api en node + postgre?
