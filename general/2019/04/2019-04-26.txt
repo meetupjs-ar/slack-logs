@@ -1,0 +1,361 @@
+07:09:18 - Juan Bono (@juanbono):
+Ahh, me dijeron que el SICP está muy bueno. Después uno que estaba leyendo, pero es más de programación, es Refactoring de Martin Fowler (la última versión que usa javascript)
+07:11:46 - Juan Bono (@juanbono):
+Después un libro que me pareció medio avanzado en algunos capítulos pero que igual pude aprovechar bastante lo que dice (seguramente tenga que releerlo en el futuro jaja) es designing data intensive applications, es sobre bases de datos y sistemas distribuidos
+07:12:40 - Juan Bono (@juanbono):
+No es sobre ninguna tecnología en particular sino que te da un paneo de todo lo que existe y sus ventajas y desventajas y varias explicaciones de los mecánismos (de transacciones, replicación, etc)
+11:21:52 - Maxi (@tholem98):
+No se donde va la pregunta:
+Por que la mayoria de los trabajos que se postulan en <#C045DQUMP|jobs> piden react? Es decir, por que las empresas con puestos libres usan react en lugar de otros frameworks?
+11:23:10 - Silvio Messina (@smessina):
+Porque así *React* ionan más rápido :drum_with_drumsticks:
+11:29:25 - Santiago Ruffino (@santi_0898):
+Mierda, cada dia tenemos mas gente que hace humor
+11:29:33 - Sergio Daniel Xalambrí (@sergiodxa):
+porque en algún momento decidieron usar react en su stack
+11:29:57 - a0viedo (@a0viedo):
+creo que react es lejos lo más popular pero una pregunta por ahí más interesante sería por qué a veces valoran conocimientos sobre react por encima de muchos otros
+11:30:04 - Sergio Daniel Xalambrí (@sergiodxa):
+hay muchas que usan angular o vue también, de vez en cuando se postean propuestas en esos frameworks
+11:30:12 - Martín Valdés de León (@mvaldesdeleon):
+Quiza la respuesta es que a los react devs los rajan cada 2 meses.
+11:30:17 - Martín Valdés de León (@mvaldesdeleon):
+Y por eso siempre hay puestos :troll:
+11:30:35 - Sergio Daniel Xalambrí (@sergiodxa):
+:mindblown:
+11:31:55 - Santiago Ruffino (@santi_0898):
+No me digas eso Martin, que estoy postulando para React. Jajaja
+11:32:18 - Sergio Daniel Xalambrí (@sergiodxa):
+jajaja no le hagas caso
+11:32:48 - Gonzalo González Mora (@gonzalogm):
+Yo de lo que más veo es lejos React, dsp Angular y bastante más atrás Vue, pero tal vez está sesgada mi vista jaj
+11:33:04 - Gonzalo González Mora (@gonzalogm):
+Supongo que como no laburé con Vue me tiran menos ads de Vue jaj
+11:33:26 - Sergio Daniel Xalambrí (@sergiodxa):
+claro, yo veo que la comunidad de react es gigante y de las otras apenas escucho
+11:33:43 - Sergio Daniel Xalambrí (@sergiodxa):
+pero supongo que ponele jorge le pasa eso con angular, para el esa comunidad es gigante
+11:34:23 - Santiago Ruffino (@santi_0898):
+Los channels de Agular y Vue tienen el mismo nivel de actividad que el de React y React Native?
+11:35:12 - Sergio Daniel Xalambrí (@sergiodxa):
+por lo que acabo de revisar, angular parece que sí, vue no
+11:36:22 - Santiago Ruffino (@santi_0898):
+Las empresas siguen lo que esta de moda normalmente. Entonces ahora todo el mundo usa React. De aca a unos años, todos van a usar Santi Native, y asi por siempre
+11:36:33 - Santiago Ruffino (@santi_0898):
+Hasta que se formen en una tecnologia, y se queden ahi
+11:36:37 - Santiago Ruffino (@santi_0898):
+Pero son procesos largos
+11:36:39 - Wilfredo Alcala (@alcalawilfre):
+En cualquier momento "Estamos buscando react dev para hacer backend", y nos dejan sin trabajo :disappointed:
+11:37:15 - Sergio Daniel Xalambrí (@sergiodxa):
+existe react-hardware, no me extrañaría que pase eso
+11:37:19 - Sergio Daniel Xalambrí (@sergiodxa):
+react-api
+11:37:28 - Sergio Daniel Xalambrí (@sergiodxa):
+responde JSON con componentes de React
+11:37:38 - Sergio Daniel Xalambrí (@sergiodxa):
+cuando salga Suspense para data fetch
+11:39:15 - Wilfredo Alcala (@alcalawilfre):
+2009: Por qué usarías javascript en el server?
+2019: Por qué usarías React en el server?
+11:39:32 - Sergio Daniel Xalambrí (@sergiodxa):
+&gt; Why I moved to use React in the server you should too
+11:39:38 - Sergio Daniel Xalambrí (@sergiodxa):
+:point_up: 10 de esos en Medium
+11:40:06 - Sergio Daniel Xalambrí (@sergiodxa):
+&gt; React let's you compose your API using different components
+11:40:12 - Sergio Daniel Xalambrí (@sergiodxa):
+ya me imagino los posts click baits
+11:41:31 - GAlvarado (@anzaldo.alvarado.gabr):
+no solo les van a quitar el laburo a los que hacen backend jaja a los que hacen realidad virtual tb con react-VR
+11:41:43 - Gonza Espeche (@espeche.g):
+toda esa movida de BuzzFeed es tremenda “_10 reasons you should…_”
+11:42:14 - Sergio Daniel Xalambrí (@sergiodxa):
+y videojuegos con react-game-kit
+11:51:21 - a0viedo (@a0viedo):
+laurie habla sobre lo que estamos descargando via npm y qué tan popular es cada framework acá <https://www.youtube.com/watch?v=mSQh0gcDXkc>
+11:52:16 - a0viedo (@a0viedo):
+&gt; 60% of npm users use react
+11:54:40 - Martín Valdés de León (@mvaldesdeleon):
+"descargas de npm" es un dato con mucho ruido igual
+07:09:18 - Juan Bono (@juanbono):
+Ahh, me dijeron que el SICP está muy bueno. Después uno que estaba leyendo, pero es más de programación, es Refactoring de Martin Fowler (la última versión que usa javascript)
+07:11:46 - Juan Bono (@juanbono):
+Después un libro que me pareció medio avanzado en algunos capítulos pero que igual pude aprovechar bastante lo que dice (seguramente tenga que releerlo en el futuro jaja) es designing data intensive applications, es sobre bases de datos y sistemas distribuidos
+07:12:40 - Juan Bono (@juanbono):
+No es sobre ninguna tecnología en particular sino que te da un paneo de todo lo que existe y sus ventajas y desventajas y varias explicaciones de los mecánismos (de transacciones, replicación, etc)
+11:21:52 - Maxi (@tholem98):
+No se donde va la pregunta:
+Por que la mayoria de los trabajos que se postulan en <#C045DQUMP|jobs> piden react? Es decir, por que las empresas con puestos libres usan react en lugar de otros frameworks?
+11:23:10 - Silvio Messina (@smessina):
+Porque así *React* ionan más rápido :drum_with_drumsticks:
+11:29:25 - Santiago Ruffino (@santi_0898):
+Mierda, cada dia tenemos mas gente que hace humor
+11:29:33 - Sergio Daniel Xalambrí (@sergiodxa):
+porque en algún momento decidieron usar react en su stack
+11:29:57 - a0viedo (@a0viedo):
+creo que react es lejos lo más popular pero una pregunta por ahí más interesante sería por qué a veces valoran conocimientos sobre react por encima de muchos otros
+11:30:04 - Sergio Daniel Xalambrí (@sergiodxa):
+hay muchas que usan angular o vue también, de vez en cuando se postean propuestas en esos frameworks
+11:30:12 - Martín Valdés de León (@mvaldesdeleon):
+Quiza la respuesta es que a los react devs los rajan cada 2 meses.
+11:30:17 - Martín Valdés de León (@mvaldesdeleon):
+Y por eso siempre hay puestos :troll:
+11:30:35 - Sergio Daniel Xalambrí (@sergiodxa):
+:mindblown:
+11:31:55 - Santiago Ruffino (@santi_0898):
+No me digas eso Martin, que estoy postulando para React. Jajaja
+11:32:18 - Sergio Daniel Xalambrí (@sergiodxa):
+jajaja no le hagas caso
+11:32:48 - Gonzalo González Mora (@gonzalogm):
+Yo de lo que más veo es lejos React, dsp Angular y bastante más atrás Vue, pero tal vez está sesgada mi vista jaj
+11:33:04 - Gonzalo González Mora (@gonzalogm):
+Supongo que como no laburé con Vue me tiran menos ads de Vue jaj
+11:33:26 - Sergio Daniel Xalambrí (@sergiodxa):
+claro, yo veo que la comunidad de react es gigante y de las otras apenas escucho
+11:33:43 - Sergio Daniel Xalambrí (@sergiodxa):
+pero supongo que ponele jorge le pasa eso con angular, para el esa comunidad es gigante
+11:34:23 - Santiago Ruffino (@santi_0898):
+Los channels de Agular y Vue tienen el mismo nivel de actividad que el de React y React Native?
+11:35:12 - Sergio Daniel Xalambrí (@sergiodxa):
+por lo que acabo de revisar, angular parece que sí, vue no
+11:36:22 - Santiago Ruffino (@santi_0898):
+Las empresas siguen lo que esta de moda normalmente. Entonces ahora todo el mundo usa React. De aca a unos años, todos van a usar Santi Native, y asi por siempre
+11:36:33 - Santiago Ruffino (@santi_0898):
+Hasta que se formen en una tecnologia, y se queden ahi
+11:36:37 - Santiago Ruffino (@santi_0898):
+Pero son procesos largos
+11:36:39 - Wilfredo Alcala (@alcalawilfre):
+En cualquier momento "Estamos buscando react dev para hacer backend", y nos dejan sin trabajo :disappointed:
+11:37:15 - Sergio Daniel Xalambrí (@sergiodxa):
+existe react-hardware, no me extrañaría que pase eso
+11:37:19 - Sergio Daniel Xalambrí (@sergiodxa):
+react-api
+11:37:28 - Sergio Daniel Xalambrí (@sergiodxa):
+responde JSON con componentes de React
+11:37:38 - Sergio Daniel Xalambrí (@sergiodxa):
+cuando salga Suspense para data fetch
+11:39:15 - Wilfredo Alcala (@alcalawilfre):
+2009: Por qué usarías javascript en el server?
+2019: Por qué usarías React en el server?
+11:39:32 - Sergio Daniel Xalambrí (@sergiodxa):
+&gt; Why I moved to use React in the server you should too
+11:39:38 - Sergio Daniel Xalambrí (@sergiodxa):
+:point_up: 10 de esos en Medium
+11:40:06 - Sergio Daniel Xalambrí (@sergiodxa):
+&gt; React let's you compose your API using different components
+11:40:12 - Sergio Daniel Xalambrí (@sergiodxa):
+ya me imagino los posts click baits
+11:41:31 - GAlvarado (@anzaldo.alvarado.gabr):
+no solo les van a quitar el laburo a los que hacen backend jaja a los que hacen realidad virtual tb con react-VR
+11:41:43 - Gonza Espeche (@espeche.g):
+toda esa movida de BuzzFeed es tremenda “_10 reasons you should…_”
+11:42:14 - Sergio Daniel Xalambrí (@sergiodxa):
+y videojuegos con react-game-kit
+11:51:21 - a0viedo (@a0viedo):
+laurie habla sobre lo que estamos descargando via npm y qué tan popular es cada framework acá <https://www.youtube.com/watch?v=mSQh0gcDXkc>
+11:52:16 - a0viedo (@a0viedo):
+&gt; 60% of npm users use react
+11:54:40 - Martín Valdés de León (@mvaldesdeleon):
+"descargas de npm" es un dato con mucho ruido igual
+11:55:01 - Martín Valdés de León (@mvaldesdeleon):
+nuestro CI hace `npm install` cada vez que pusheamos algo
+11:55:29 - Martín Valdés de León (@mvaldesdeleon):
+asi que no es representativo de "numero de usuarios". podes tener pocos users que generan un volumen desproporcionado de descargas.
+11:56:49 - GAlvarado (@anzaldo.alvarado.gabr):
+en un articulo habian dicho por el numero de plugins instalados de react (React developer tools)
+11:57:20 - GAlvarado (@anzaldo.alvarado.gabr):
+para medir ~ numero de usuarios
+12:01:33 - a0viedo (@a0viedo):
+por eso habla de porcentajes sobre el total de descargas...es algo más cercano a "usuarios"
+12:02:57 - Martín Valdés de León (@mvaldesdeleon):
+Es que el total tambien esta inflado por automatizacion.
+12:03:24 - Martín Valdés de León (@mvaldesdeleon):
+Imaginate que tenes solo dos users, uno de A y otro de B, y el de B hace 10 npm install por dia de manera automatica, mientras que A hace uno al ppio del proyecto y ya.
+12:03:38 - Martín Valdés de León (@mvaldesdeleon):
+El user base es 50/50, pero el % de downloads de B es practicamente 100%
+12:04:18 - Martín Valdés de León (@mvaldesdeleon):
+Lo de "installs de reat dev tools" me parece mas piola.
+12:05:43 - a0viedo (@a0viedo):
+no dije que se mapee uno a uno, dije que estaría más cerca
+12:06:27 - a0viedo (@a0viedo):
+también tenes gente que no usa ni instala las react dev tools
+12:06:57 - Santiago Ruffino (@santi_0898):
+Y ver en GitHub la activdad de React?
+12:07:28 - a0viedo (@a0viedo):
+hay gente que no tiene github y trabaja/programa en react
+12:07:43 - Sergio Daniel Xalambrí (@sergiodxa):
+las estrellas de GitHub no son sinónimo tampoco
+12:07:48 - Sergio Daniel Xalambrí (@sergiodxa):
+porque hay gente que no pone estrellas
+12:07:52 - Sergio Daniel Xalambrí (@sergiodxa):
+o ponele vue tiene más que react
+12:08:30 - Martín Valdés de León (@mvaldesdeleon):
+para mi los % de downloads son indicativos unicamente de eso
+12:08:32 - Martín Valdés de León (@mvaldesdeleon):
+"% de download"
+12:09:06 - Sergio Daniel Xalambrí (@sergiodxa):
+&gt; 60% of npm users use react
+no me suena a solo descargas, obvio no se si en realidad se refiere a eso, pero yo entiende que si tenés 100 usuarios, 60 están descargando React, no importa cuantas veces, pero al menos una al mes o una a la semana (como sea que midas)
+12:09:14 - Martín Valdés de León (@mvaldesdeleon):
+puedo hacer statements tipo "react hoy en dia representa el 60% del trafico de npm"
+12:11:14 - Sergio Daniel Xalambrí (@sergiodxa):
+ahh si dijo tráfico entonces sí son descargas
+12:11:21 - Sergio Daniel Xalambrí (@sergiodxa):
+ahí concuerdo que no es una buena métrica
+12:11:28 - Martín Valdés de León (@mvaldesdeleon):
+igual lo que decis tb esta piola.
+12:11:53 - Martín Valdés de León (@mvaldesdeleon):
+podes hacer el breakdown por users que activamente usan X lib.
+12:12:09 - Martín Valdés de León (@mvaldesdeleon):
+entonces hablas de % users/users
+12:12:31 - Martín Valdés de León (@mvaldesdeleon):
+y ya no importa cuantas veces, o si es un user de CI o que
+12:12:34 - Martín Valdés de León (@mvaldesdeleon):
+sigue contando como 1
+12:13:12 - Sergio Daniel Xalambrí (@sergiodxa):
+claro
+12:36:56 - Santiago Ruffino (@santi_0898):
+<https://www.theverge.com/2019/4/25/18516004/amazon-warehouse-fulfillment-centers-productivity-firing-terminations>
+13:35:18 - Pedro (@pedro461):
+llego tarde a la charla de React.. sepan qeu React es popular en Occidente, pero en Oriente Vue lo caga a palos.. es una cuestión geográfica también.. además de que es lamentable, siendo el peor framework con el que me tocó trabajar ever…
+13:35:23 - Pedro (@pedro461):
+pero eso es ya opinión personal
+13:36:31 - Sergio Daniel Xalambrí (@sergiodxa):
+vue es popular en oriente porque el creador es chino <#C0PHBKNNA|random> :agite:
+13:38:05 - Rodrigo Ali (@rodrigojali):
+Una mezcla de <#C0PHBKNNA|random> y <#C6PJH6JP3|rant> muy hermosa
+13:39:25 - Pedro (@pedro461):
+claramente es por eso, y porq allá lo empezarona usar primero.. los que le dieron más fuerza fueron los de alibaba o aliexpress… después llego a este lado con el empujón de laravel
+13:40:23 - Pedro (@pedro461):
+en lo personal usé angular, react y vue… y por mucho pero mucho me quedo con Vue, siempre, es performante, es escalable, es fácil y es menos costoso (hablando económicamente)… las empresas pronto se van a dar cuenta
+13:40:32 - Pedro (@pedro461):
+las occidentales
+13:41:29 - Pedro (@pedro461):
+es menos costoso porq es un poco mas estructurado que react y no tanto como angular y porq cualquier dev lo aprende rápido.. reducís error, tiempos y otros costos.
+13:41:46 - Pedro (@pedro461):
+a muchos developers ni les interesa eso, pero es un punto importante
+13:42:49 - Pedro (@pedro461):
+<@UFFG5EPGU> que sería rant? disculpa la ignorancia
+13:44:17 - Pedro (@pedro461):
+deja ya lo googleé
+13:47:24 - Dayan Ruiz (@dayanr):
+<#C6PJH6JP3|rant> es un grupo de terapia
+13:48:09 - Pedro (@pedro461):
+jaja
+13:48:27 - Sergio Daniel Xalambrí (@sergiodxa):
+quería poner forobardo se slack lo cambió solo :disappointed:
+13:49:30 - Pedro (@pedro461):
+la diferencia entre rant y forobardo sería…..
+13:49:44 - Dayan Ruiz (@dayanr):
+que uno es el hijo chico del otro (?)
+13:49:44 - Pedro (@pedro461):
+la parte terapéutica?
+13:49:57 - Dayan Ruiz (@dayanr):
+es como por temporadas
+13:50:21 - Sergio Daniel Xalambrí (@sergiodxa):
+forobardo murió y se dividió en random y rant
+13:50:23 - Leandro Echevarria (@echevarrialeandro):
+Uno nació como dnu del otro (?
+13:52:04 - Rodrigo Ali (@rodrigojali):
+Rant es "despotricar", "criticar", y todo eso. Es donde vas a hacer terapia :stuck_out_tongue:
+13:52:32 - Pedro (@pedro461):
+por lo que leí es hablar por mucho tiempo y como muy apasionadamente de un tema sin sentido
+13:52:33 - Pedro (@pedro461):
+jaja
+13:52:45 - Pedro (@pedro461):
+o sea hablar con bronca solo para descargarte y no llegar a nada jaja
+13:52:51 - Pedro (@pedro461):
+muy sano
+13:53:32 - Rodrigo Ali (@rodrigojali):
+Claro. Podríamos cambiarlo <#C6PJH6JP3|rant> -&gt; #catarsis y sería muy muy muy similar
+14:12:35 - a0viedo (@a0viedo):
+#agite
+14:26:25 - Maxi (@tholem98):
+Algo que no me gustó de vue es el archivo .vue que generas y que metes todo ahí junto, css, html y js
+
+Soy mas de dividir bien todo
+14:30:35 - Martín Aimar (@maimar):
+<https://vuejs.org/v2/guide/single-file-components.html#What-About-Separation-of-Concerns>
+15:06:35 - Heber (@heber.acostalipera):
+nose si esto ya se compartio por aca pero lo dejo igual <https://eng.uber.com/introducing-base-web/>
+15:30:54 - Pedro (@pedro461):
+Al principio también me causó lo mismo, pero cuando lo empezas a usar te das cuenta que esa es una muy buena “opción” en Vue, cada componente con su estilo bien scopeado y su lógica y su vista.. hoy realmente me gusta y mucho, es mucho mejor en todo aspecto (desarrollo, debug, test, etc)
+15:56:25 - Pedro (@pedro461):
+para los react lovers.. <https://svelte.dev/blog/svelte-3-rethinking-reactivity>
+16:13:29 - Sergio Daniel Xalambrí (@sergiodxa):
+De hecho como React dev es lo único que me gusta de Vue, es bien intuitivo para alguien que no sabe mucho de desarrollo. Solo me joden las directivas en vez de JS real 
+16:14:25 - Martín Aimar (@maimar):
+cuál es el argumento en contra de las directivas?
+16:14:26 - Pedro (@pedro461):
+lo de svelte se va al orto
+16:15:07 - Pedro (@pedro461):
+el argumento que escuché sobre las directivas es que es meter js en el html.. lo cual, a mi parecer lo hicimos siempre, o acaso nadie hizo on-click=“alert(‘hola’)”
+16:15:24 - Pedro (@pedro461):
+a mi me encantan las directivas, lo que si puede ser valido es que hay que conocerlas, pero igual el patron se repite
+16:15:44 - Martín Aimar (@maimar):
+pero son tres o cuatro
+16:16:31 - Pedro (@pedro461):
+por eso
+16:17:40 - Martín Aimar (@maimar):
+lo que había escuchado es que eran malas porque había que aprenderlas
+16:18:39 - Rodrigo Ali (@rodrigojali):
+Yo prefiero escupir el HTML desde JSX
+16:21:39 - Martín Aimar (@maimar):
+para mí se ve espantoso el jsx pero ahí ya es una cuestión de gustos
+16:22:15 - Rodrigo Ali (@rodrigojali):
+Seh pero tengo un solo archivito con el componente y listo :stuck_out_tongue:
+16:22:31 - Rodrigo Ali (@rodrigojali):
+Tengo la lógica y el template que lanza en el mismo archivo
+16:22:36 - Martín Aimar (@maimar):
+lo mismo que en vue
+16:23:01 - Rodrigo Ali (@rodrigojali):
+Todavía no hice nada en Vue ni en Svelte. Los vi por arriba no más, pero no implementé nada.
+16:24:06 - Martín Aimar (@maimar):
+entiendo
+16:24:40 - Martín Aimar (@maimar):
+o sea que preferís jsx pero no hay alternativa
+16:24:47 - Rodrigo Ali (@rodrigojali):
+Podría agarrar Vim cuando agarre Vue y me hago full V dev
+16:24:52 - Rodrigo Ali (@rodrigojali):
+Y me hago adepto de <@UGLH5CM8B>
+16:25:07 - Martín Aimar (@maimar):
+no eso es lo de menos, acá la posta es el stack VENOM
+16:25:09 - Rodrigo Ali (@rodrigojali):
+Prefiero JSX ponele a lo que hace Angular.
+16:25:24 - Pedro (@pedro461):
+VIM + Vue = :heart:
+16:25:35 - Pedro (@pedro461):
+VENOM?
+16:25:43 - Rodrigo Ali (@rodrigojali):
+Vue Express NOde MongoDB
+16:25:48 - Pedro (@pedro461):
+VUE, Express, Node, mongo??
+16:25:53 - Pedro (@pedro461):
+le pegué jaja
+16:26:07 - Rodrigo Ali (@rodrigojali):
+Ni idea, asumo que es eso por contexto jajaja
+16:26:12 - Pedro (@pedro461):
+svelte lo estoy viendo por primera vez ahora, parece prometedor
+16:26:25 - Martín Aimar (@maimar):
+sí es eso, ganaron un pescadito cada uno
+16:29:10 - Martín Aimar (@maimar):
+angular me acuerdo que había un archivo controlador y el archivo de la template
+16:29:30 - Rodrigo Ali (@rodrigojali):
+AngularJS hace MVC de esa forma. Angular hace components pero es más o menos lo mismo
+16:29:42 - Rodrigo Ali (@rodrigojali):
+Tenés un template dando vueltas y un componente que maneja el modelo de datos y tal
+16:29:58 - Rodrigo Ali (@rodrigojali):
+Potato patata
+16:33:07 - Lucas Accastello (@accastellolucas):
+Vengan de a uno... xD
+16:36:00 - Martín Aimar (@maimar):
+:fried_egg:
+17:17:04 - Dario Fernando (@someunderscore_):
+createElement ftw (?
+17:29:37 - Martin Bavio (@mbavio):
+Que setup usas?
+17:29:47 - Martin Bavio (@mbavio):
+Me interesa sobretodo la optimizacion del PMS
+18:22:09 - Agustin Mulet (@sugusin):
+Tengo un raspi 3 B+ con transmission + Plex + sickchill + couchpotato y todo en 720p porque en 1080p depende del encoding. En pms uso los defaults salvo que priorice velocidad en vez de calidad, así que mucho no te puedo ayudar con eso :pensive: en la pc de escritorio lo tengo también con los defaults y me anda de 10 con lo que le tire
