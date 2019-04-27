@@ -1,0 +1,128 @@
+22:34:40 - Gabriel Fusca (@gfuscax):
+Agree
+22:57:04 - Marcos Casagrande (@marcoscvp90):
+Hoy un pelotudo, se quejó de que use un package de NPM con open issues en github
+22:57:12 - Marcos Casagrande (@marcoscvp90):
+Tenia 2 y eran dudas... :joy:
+22:58:22 - Marcos Casagrande (@marcoscvp90):
+La verdad cualquier package muy usado tiene su numero de issues abiertos, una pelotudez su razonamiento.
+22:59:56 - Gonzalo González Mora (@gonzalogm):
+jaja cualquiera
+23:00:21 - Gonzalo González Mora (@gonzalogm):
+Si no tiene issues dudaría incluso jaaj
+23:02:12 - Marcos Casagrande (@marcoscvp90):
+Exactamente
+23:02:40 - Gonzalo González Mora (@gonzalogm):
+No usen Express, tiene 113 issues :warning:
+23:02:45 - Marcos Casagrande (@marcoscvp90):
+Ridículo me pareció. Lo aprobó el job, pero la primera vez que escucho algo similar
+23:02:53 - Marcos Casagrande (@marcoscvp90):
+Jajaja, fijate cuantos tiene Node.js
+23:02:57 - Gonzalo González Mora (@gonzalogm):
+jajaja
+23:03:12 - Marcos Casagrande (@marcoscvp90):
+Si insistía ese era mi argumento.
+23:03:22 - Gonzalo González Mora (@gonzalogm):
+Nunca había escuchado algo así, qué loco
+23:04:06 - Marcos Casagrande (@marcoscvp90):
+Después me tiró: Bueno, si tiene algún problema o lo deprecan en un futuro, voy a pedir que me lo arregles
+23:04:13 - Marcos Casagrande (@marcoscvp90):
+Si obvio le dije jaja
+23:04:42 - Gonzalo González Mora (@gonzalogm):
+:joy:
+06:59:28 - Leandro Echevarria (@echevarrialeandro):
+:facepalm:
+07:25:47 - Federico A. Sawady O'Connor (@sawady.faso):
+a mi un árabe me pausó el timer a los 12 min
+07:25:49 - Federico A. Sawady O'Connor (@sawady.faso):
+sin avisar
+07:26:04 - Federico A. Sawady O'Connor (@sawady.faso):
+le pedí que lo reanude, se hacía el boludo
+07:26:26 - Federico A. Sawady O'Connor (@sawady.faso):
+además se quejaba de que no le estaba resolviendo el problema, pero el chabón no me sabía ni mostrar el archivo donde estaba la página que me estaba mostrando
+07:27:01 - Federico A. Sawady O'Connor (@sawady.faso):
+al final recontra a ciegas le dije que seguro su problema era que estaba encodeando mal el HTML para insertarlo en la página (usaba handlebars o algo así), tenía unos strings que eran HTML en las traducciones
+07:27:04 - Federico A. Sawady O'Connor (@sawady.faso):
+dice que le funcionó lo que le dije de poner `{{{html}}}` en lugar de `{{html}}`, que era algo que me acordaba
+07:27:15 - Federico A. Sawady O'Connor (@sawady.faso):
+estuvimos 40 min y el chabón me pagó sólo por los 12
+07:27:21 - Federico A. Sawady O'Connor (@sawady.faso):
+pero agradecí que no me puntuara mal jaja
+09:32:01 - Luis Alvarez (@luistensai):
+hay que denunciarlo, re-mal...
+09:36:05 - Marcos Casagrande (@marcoscvp90):
+Ahi Fede, si te hacen eso, me pasó solo dos veces. Le dije el único que pausa el timer sin avisar, soy yo. O el timer corre o me voy ya y te reporto. Las 2 me pidieron perdón y les solucione el problema. Curiosamente eran dos indios. Siempre ratones :mouse:
+09:36:41 - Marcos Casagrande (@marcoscvp90):
+Pero si, como dice Luis, reportalo y seguramente Codementor te de más plata o le saque la cuenta al flaco.
+14:25:38 - Marcos Casagrande (@marcoscvp90):
+Alguno laburó con Shopify y GraphQL?
+14:26:14 - Marcos Casagrande (@marcoscvp90):
+Tengo un flaco que quiere integrar unas cosas con la API de Shopify y GraphQL, la verdad cero ganas si alguno usó Shopify alguna vez se lo paso.
+14:32:36 - Gabriel Fusca (@gfuscax):
+Nop, solo graphql
+15:14:25 - Aldo Sorbara (@aldo1891):
+yo shopify si, no graphql
+22:34:40 - Gabriel Fusca (@gfuscax):
+Agree
+22:57:04 - Marcos Casagrande (@marcoscvp90):
+Hoy un pelotudo, se quejó de que use un package de NPM con open issues en github
+22:57:12 - Marcos Casagrande (@marcoscvp90):
+Tenia 2 y eran dudas... :joy:
+22:58:22 - Marcos Casagrande (@marcoscvp90):
+La verdad cualquier package muy usado tiene su numero de issues abiertos, una pelotudez su razonamiento.
+22:59:56 - Gonzalo González Mora (@gonzalogm):
+jaja cualquiera
+23:00:21 - Gonzalo González Mora (@gonzalogm):
+Si no tiene issues dudaría incluso jaaj
+23:02:12 - Marcos Casagrande (@marcoscvp90):
+Exactamente
+23:02:40 - Gonzalo González Mora (@gonzalogm):
+No usen Express, tiene 113 issues :warning:
+23:02:45 - Marcos Casagrande (@marcoscvp90):
+Ridículo me pareció. Lo aprobó el job, pero la primera vez que escucho algo similar
+23:02:53 - Marcos Casagrande (@marcoscvp90):
+Jajaja, fijate cuantos tiene Node.js
+23:02:57 - Gonzalo González Mora (@gonzalogm):
+jajaja
+23:03:12 - Marcos Casagrande (@marcoscvp90):
+Si insistía ese era mi argumento.
+23:03:22 - Gonzalo González Mora (@gonzalogm):
+Nunca había escuchado algo así, qué loco
+23:04:06 - Marcos Casagrande (@marcoscvp90):
+Después me tiró: Bueno, si tiene algún problema o lo deprecan en un futuro, voy a pedir que me lo arregles
+23:04:13 - Marcos Casagrande (@marcoscvp90):
+Si obvio le dije jaja
+23:04:42 - Gonzalo González Mora (@gonzalogm):
+:joy:
+06:59:28 - Leandro Echevarria (@echevarrialeandro):
+:facepalm:
+07:25:47 - Federico A. Sawady O'Connor (@sawady.faso):
+a mi un árabe me pausó el timer a los 12 min
+07:25:49 - Federico A. Sawady O'Connor (@sawady.faso):
+sin avisar
+07:26:04 - Federico A. Sawady O'Connor (@sawady.faso):
+le pedí que lo reanude, se hacía el boludo
+07:26:26 - Federico A. Sawady O'Connor (@sawady.faso):
+además se quejaba de que no le estaba resolviendo el problema, pero el chabón no me sabía ni mostrar el archivo donde estaba la página que me estaba mostrando
+07:27:01 - Federico A. Sawady O'Connor (@sawady.faso):
+al final recontra a ciegas le dije que seguro su problema era que estaba encodeando mal el HTML para insertarlo en la página (usaba handlebars o algo así), tenía unos strings que eran HTML en las traducciones
+07:27:04 - Federico A. Sawady O'Connor (@sawady.faso):
+dice que le funcionó lo que le dije de poner `{{{html}}}` en lugar de `{{html}}`, que era algo que me acordaba
+07:27:15 - Federico A. Sawady O'Connor (@sawady.faso):
+estuvimos 40 min y el chabón me pagó sólo por los 12
+07:27:21 - Federico A. Sawady O'Connor (@sawady.faso):
+pero agradecí que no me puntuara mal jaja
+09:32:01 - Luis Alvarez (@luistensai):
+hay que denunciarlo, re-mal...
+09:36:05 - Marcos Casagrande (@marcoscvp90):
+Ahi Fede, si te hacen eso, me pasó solo dos veces. Le dije el único que pausa el timer sin avisar, soy yo. O el timer corre o me voy ya y te reporto. Las 2 me pidieron perdón y les solucione el problema. Curiosamente eran dos indios. Siempre ratones :mouse:
+09:36:41 - Marcos Casagrande (@marcoscvp90):
+Pero si, como dice Luis, reportalo y seguramente Codementor te de más plata o le saque la cuenta al flaco.
+14:25:38 - Marcos Casagrande (@marcoscvp90):
+Alguno laburó con Shopify y GraphQL?
+14:26:14 - Marcos Casagrande (@marcoscvp90):
+Tengo un flaco que quiere integrar unas cosas con la API de Shopify y GraphQL, la verdad cero ganas si alguno usó Shopify alguna vez se lo paso.
+14:32:36 - Gabriel Fusca (@gfuscax):
+Nop, solo graphql
+15:14:25 - Aldo Sorbara (@aldo1891):
+yo shopify si, no graphql
