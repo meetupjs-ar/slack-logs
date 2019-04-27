@@ -1,0 +1,554 @@
+10:57:49 - Enzo Retamozo (@egr_96):
+chicos perdón la ignorancia y tranquilamente lo podría goglear
+10:57:58 - Enzo Retamozo (@egr_96):
+pero a grandes rasgos a que se dedica una fintech ?
+10:59:11 - Pablo Miceli (@pablomiceli24):
+apps para bancos, prestamos, etc supongo
+10:59:24 - Gabriel Dominguez (@gabidominguez):
+Algunas ofrecen productos bancarios (Uala, Brubank, Wilobank) y otras prestan dinero (Moni, Vivus, DeDinero)
+11:00:53 - Martín Valdés de León (@mvaldesdeleon):
+finance + technology = fintech
+11:01:18 - Martín Valdés de León (@mvaldesdeleon):
+puede ser bancos, puede ser crypto, puede ser prestamos, etc, como dijo Pablo
+11:01:35 - Martín Valdés de León (@mvaldesdeleon):
+puede ser operar en la bolsa, o con cambio de divisas
+11:01:49 - Martín Valdés de León (@mvaldesdeleon):
+pero es un termino bastante generico
+11:12:47 - Enzo Retamozo (@egr_96):
+muchas gracias!
+12:00:52 - Guido Vizoso (@guido.vizoso9):
+Alguno conoce la consultora ERNI?
+12:07:56 - cryser (@carlosryser):
+es de españa por casualidad?
+12:08:22 - cryser (@carlosryser):
+ah no era de suiza la que yo digo
+12:27:59 - Guido Vizoso (@guido.vizoso9):
+Sisi, suiza
+15:23:24 - Fernando Pelliccioni (@fpelliccioni):
+en Febrero tuve una serie de entrevistas para la sucursal Barcelona de ERNI
+15:23:32 - Fernando Pelliccioni (@fpelliccioni):
+eran copados
+15:23:43 - cryser (@carlosryser):
+me too jaja
+15:23:51 - cryser (@carlosryser):
+tengo un amigo que esta laburando con ellos y esta re copado
+15:24:48 - Fernando Pelliccioni (@fpelliccioni):
+para trabajar en HP, creo que para laburar en device drivers...
+15:25:09 - Fernando Pelliccioni (@fpelliccioni):
+no sé si pagan tan bien (en Esp en general)
+15:25:26 - cryser (@carlosryser):
+para lo que se que pagan en españa era lo esperado
+15:25:29 - Rodrigo Ali (@rodrigojali):
+Contra otros lugares como Berlin, tengo entendido que no.
+15:25:43 - cryser (@carlosryser):
+me habian dicho entre 2k/2,3k neto
+15:25:51 - Rodrigo Ali (@rodrigojali):
+Pero el coste de vida es diferente también. Se habló hace unas semanas largas de esto, varios chicos dieron mucho insight en el tema, sobre todo <@U0TFEHWEA>
+15:26:00 - cryser (@carlosryser):
+pero españa es el pais peor pago de los de europa me parece
+15:26:06 - Rodrigo Ali (@rodrigojali):
+Creo que <@U1XSDSM4H> también estuvo en esa charla.
+15:26:45 - Fernando Pelliccioni (@fpelliccioni):
+no sé si el peor, quizás los del este sean peores
+15:27:13 - cryser (@carlosryser):
+si osea, suecia, suiza, alemania, irlanda, inglaterra son todos paises con mejor sueldo
+15:27:27 - cryser (@carlosryser):
+estonia
+15:27:34 - Fernando Pelliccioni (@fpelliccioni):
+sí, el costo de vida en Esp es menor que en Inglaterra y Alemania
+15:27:38 - Jorge Cano (@jorgeucano):
+holi
+15:27:40 - Jorge Cano (@jorgeucano):
+que me perdi
+15:27:45 - cryser (@carlosryser):
+guarda porque barcelona es caro
+15:27:52 - Jorge Cano (@jorgeucano):
+si pero los alrededores no
+15:28:19 - Fernando Pelliccioni (@fpelliccioni):
+tenés una luca/luca doscientos de alquiler en Barcelona o en las afuera en lugares piolas
+15:28:27 - Jorge Cano (@jorgeucano):
+en las afueras
+15:28:27 - Rodrigo Ali (@rodrigojali):
+Barna es caro comparado con el resto de España. Bilbao es más caro que Barna inclusive.
+
+Si estás dispuesto a estar a 20~40 min de la ciudad los precios se van a la mitad. O un toque menos.
+15:28:30 - Jorge Cano (@jorgeucano):
+por menos conseguis cosas muy lindas
+15:28:33 - Jorge Cano (@jorgeucano):
+y estas a 40 min
+15:28:39 - cryser (@carlosryser):
+asi es
+15:28:56 - cryser (@carlosryser):
+pero si te queres quedar en el centro de la ciudad y ahorrar barcelona es de las mejores opciones
+15:29:01 - Rodrigo Ali (@rodrigojali):
+En Barna un piso (por Idealista) capaz que anda como dicen arriba, €1k, pero en las afueras por ahí conseguís a ~€500
+15:29:18 - Jorge Cano (@jorgeucano):
+tenes que calcular que un buen dpto te sale unos 750 a 1000 euros como mucho en las afueras
+15:29:24 - cryser (@carlosryser):
+dublin por ejemplo los sueldos que vi arrancaban en 3k neto y el mismo gasto que en barcelona
+15:29:28 - Jorge Cano (@jorgeucano):
+si queres ir a un barrio cheto te saldra unos 1600
+15:29:39 - Rodrigo Ali (@rodrigojali):
+<@U1XSDSM4H> están básicamente hablando de España siendo de los peores pagos de Europa y si rinde irse ahi o no, básicamente
+15:29:39 - Fernando Pelliccioni (@fpelliccioni):
+yo estuve viendo en _Sant Cugat_ y es igual de caro que Barcelona
+15:29:40 - Jorge Cano (@jorgeucano):
+la posta es que comes por dos europs tranquilamente
+15:29:51 - Rodrigo Ali (@rodrigojali):
+Y me acuerdo que hace un tiempo se habló mucho del tema y me acuerdo de vos y Martin hablando del tema
+15:29:56 - Rodrigo Ali (@rodrigojali):
+Martin estaba en Alemania creo
+15:30:14 - Jorge Cano (@jorgeucano):
+con 2 mil euros vivis en barcelona con 4 sos un rey
+15:30:30 - Jorge Cano (@jorgeucano):
+si no tenes muchos gastos
+15:30:44 - cryser (@carlosryser):
+por eso, en dublin es igual
+15:30:48 - cryser (@carlosryser):
+pero los sueldos igual son mas altos
+15:31:02 - Jorge Cano (@jorgeucano):
+dublin es un toque bastante mas caro que barcelona
+15:31:07 - Fernando Pelliccioni (@fpelliccioni):
+Para los que estuvieron viviendo ahí, hay posibilidades de tener una casa con fondo y pileta, cual barrios (no CABA) del Gran Buenos Aires?
+15:31:46 - Fernando Pelliccioni (@fpelliccioni):
+me refiero en las afueras de Barcelona, hay chance? Por lo que vi se estila mucho depto
+15:33:00 - cryser (@carlosryser):
+<@U1XSDSM4H> estuviste en ambos lugares? pregunto porque justo vengo de investigar un poco ambas ciudades para decidirme por una y veia que el nivel de gasto era muy similar
+15:33:23 - Rodrigo Ali (@rodrigojali):
+Cryser, si te sirve, yo usé mucho numbeo para estimar gastos durante un viaje en diferentes ciudades y es bastante accurate
+15:33:25 - cryser (@carlosryser):
+tengo conocidos en dublin y se cagaban de risa con todo lo que podian ahorrar
+15:33:35 - Jorge Cano (@jorgeucano):
+nop
+15:33:40 - Fernando Pelliccioni (@fpelliccioni):
+El clima te influye?
+15:33:40 - Jorge Cano (@jorgeucano):
+te aseguro que Dublin es mas cara
+15:33:49 - Jorge Cano (@jorgeucano):
+y Barcelona tiene mejor clima
+15:33:52 - Jorge Cano (@jorgeucano):
+y es mas amigable
+15:33:53 - Jorge Cano (@jorgeucano):
+:slightly_smiling_face:
+15:34:24 - Marcos Casagrande (@marcoscvp90):
+yo prefiero mil veces Madrid antes que Barcelona :agite:
+15:34:27 - Fernando Pelliccioni (@fpelliccioni):
+Barcelona es una ciudad con mucha onda
+15:34:40 - Jorge Cano (@jorgeucano):
+Madrid es para cuando sos abuelo :agite:
+15:34:59 - Rodrigo Ali (@rodrigojali):
+<https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Spain&amp;country2=Ireland&amp;city1=Barcelona&amp;city2=Dublin> <@UHF3FU249>
+15:35:19 - Gonzalo González Mora (@gonzalogm):
+Dublin te querés matar con el clima ese
+15:35:30 - Rodrigo Ali (@rodrigojali):
+Madrid cuando estuve no me gustó tanto la verdad. Es grande, tiene para hacer de todo, pero me pareció muy CABA grande. Y no me gusta CABA para vivir.
+15:35:35 - Gonzalo González Mora (@gonzalogm):
+Tengo unos amigos que se fueron hace poco y lo ven la hora de irse de vacaciones a “un lugar con sol”
+15:35:36 - cryser (@carlosryser):
+si a mi me re pintaba barcelona por la playa basicamente, pero no me cerraban los numeros
+15:36:44 - cryser (@carlosryser):
+de hecho termine cerrando por un pueblo en irlanda jaja pero por lo menos esta a hora y media de dublin
+15:37:05 - cryser (@carlosryser):
+y me alcanza para una casa con patio y todo :partyparrot:
+15:37:08 - Rodrigo Ali (@rodrigojali):
+Valencia también tiene laburo IT y tiene ALTAS playas
+15:38:32 - Rodrigo Ali (@rodrigojali):
+Numbeo después de ver cómo actualiza los precios contra ciudades argentinas y la variación de precios que tenemos, se convirtió en el lugar de referencia para mi.
+15:38:39 - Rodrigo Ali (@rodrigojali):
+En todo lo que son precios y comparaciones y estimaciones
+15:39:19 - Fernando Pelliccioni (@fpelliccioni):
+Curasao
+15:39:39 - Fernando Pelliccioni (@fpelliccioni):
+te armás una granjita para minar cryptos :stuck_out_tongue_winking_eye:
+15:43:59 - Ezequiel Leites (@leites25):
+Yo estuve viendo en Idealista y tenes dptos amoblados de 2 ambientes por ~900€ y bastantes lindos por la zona de Sant Martí, Barcelona, me parece un precio bastante bueno para la ubicacion
+15:47:20 - Jorge Cano (@jorgeucano):
+es lindo Irlanda :slightly_smiling_face:
+15:47:29 - Jorge Cano (@jorgeucano):
+tengo varios amigos que hicieron la misma que vos
+15:47:36 - Jorge Cano (@jorgeucano):
+viven a minimo hora y algo de dublin
+15:49:15 - Marcos Casagrande (@marcoscvp90):
+Ojo, los que dicen Barcelona tiene mucha onda, no es lo mismo vivir que ir de vacaciones. Yo presonalmente, no tolero que esté todo en catalán cuando hablan perfecto castellano, varios carteles están solo en catalán, varios menús de restaurants etc etc. Hablo para vivir.
+15:49:28 - Marcos Casagrande (@marcoscvp90):
+_Seniority: Viví 9 años en España_
+15:50:13 - Fernando Pelliccioni (@fpelliccioni):
+Yo digo que tiene mucha onda, porque la comparo con otras ciudades a las que también fui de vacaciones.
+10:57:49 - Enzo Retamozo (@egr_96):
+chicos perdón la ignorancia y tranquilamente lo podría goglear
+10:57:58 - Enzo Retamozo (@egr_96):
+pero a grandes rasgos a que se dedica una fintech ?
+10:59:11 - Pablo Miceli (@pablomiceli24):
+apps para bancos, prestamos, etc supongo
+10:59:24 - Gabriel Dominguez (@gabidominguez):
+Algunas ofrecen productos bancarios (Uala, Brubank, Wilobank) y otras prestan dinero (Moni, Vivus, DeDinero)
+11:00:53 - Martín Valdés de León (@mvaldesdeleon):
+finance + technology = fintech
+11:01:18 - Martín Valdés de León (@mvaldesdeleon):
+puede ser bancos, puede ser crypto, puede ser prestamos, etc, como dijo Pablo
+11:01:35 - Martín Valdés de León (@mvaldesdeleon):
+puede ser operar en la bolsa, o con cambio de divisas
+11:01:49 - Martín Valdés de León (@mvaldesdeleon):
+pero es un termino bastante generico
+11:12:47 - Enzo Retamozo (@egr_96):
+muchas gracias!
+12:00:52 - Guido Vizoso (@guido.vizoso9):
+Alguno conoce la consultora ERNI?
+12:07:56 - cryser (@carlosryser):
+es de españa por casualidad?
+12:08:22 - cryser (@carlosryser):
+ah no era de suiza la que yo digo
+12:27:59 - Guido Vizoso (@guido.vizoso9):
+Sisi, suiza
+15:23:24 - Fernando Pelliccioni (@fpelliccioni):
+en Febrero tuve una serie de entrevistas para la sucursal Barcelona de ERNI
+15:23:32 - Fernando Pelliccioni (@fpelliccioni):
+eran copados
+15:23:43 - cryser (@carlosryser):
+me too jaja
+15:23:51 - cryser (@carlosryser):
+tengo un amigo que esta laburando con ellos y esta re copado
+15:24:48 - Fernando Pelliccioni (@fpelliccioni):
+para trabajar en HP, creo que para laburar en device drivers...
+15:25:09 - Fernando Pelliccioni (@fpelliccioni):
+no sé si pagan tan bien (en Esp en general)
+15:25:26 - cryser (@carlosryser):
+para lo que se que pagan en españa era lo esperado
+15:25:29 - Rodrigo Ali (@rodrigojali):
+Contra otros lugares como Berlin, tengo entendido que no.
+15:25:43 - cryser (@carlosryser):
+me habian dicho entre 2k/2,3k neto
+15:25:51 - Rodrigo Ali (@rodrigojali):
+Pero el coste de vida es diferente también. Se habló hace unas semanas largas de esto, varios chicos dieron mucho insight en el tema, sobre todo <@U0TFEHWEA>
+15:26:00 - cryser (@carlosryser):
+pero españa es el pais peor pago de los de europa me parece
+15:26:06 - Rodrigo Ali (@rodrigojali):
+Creo que <@U1XSDSM4H> también estuvo en esa charla.
+15:26:45 - Fernando Pelliccioni (@fpelliccioni):
+no sé si el peor, quizás los del este sean peores
+15:27:13 - cryser (@carlosryser):
+si osea, suecia, suiza, alemania, irlanda, inglaterra son todos paises con mejor sueldo
+15:27:27 - cryser (@carlosryser):
+estonia
+15:27:34 - Fernando Pelliccioni (@fpelliccioni):
+sí, el costo de vida en Esp es menor que en Inglaterra y Alemania
+15:27:38 - Jorge Cano (@jorgeucano):
+holi
+15:27:40 - Jorge Cano (@jorgeucano):
+que me perdi
+15:27:45 - cryser (@carlosryser):
+guarda porque barcelona es caro
+15:27:52 - Jorge Cano (@jorgeucano):
+si pero los alrededores no
+15:28:19 - Fernando Pelliccioni (@fpelliccioni):
+tenés una luca/luca doscientos de alquiler en Barcelona o en las afuera en lugares piolas
+15:28:27 - Jorge Cano (@jorgeucano):
+en las afueras
+15:28:27 - Rodrigo Ali (@rodrigojali):
+Barna es caro comparado con el resto de España. Bilbao es más caro que Barna inclusive.
+
+Si estás dispuesto a estar a 20~40 min de la ciudad los precios se van a la mitad. O un toque menos.
+15:28:30 - Jorge Cano (@jorgeucano):
+por menos conseguis cosas muy lindas
+15:28:33 - Jorge Cano (@jorgeucano):
+y estas a 40 min
+15:28:39 - cryser (@carlosryser):
+asi es
+15:28:56 - cryser (@carlosryser):
+pero si te queres quedar en el centro de la ciudad y ahorrar barcelona es de las mejores opciones
+15:29:01 - Rodrigo Ali (@rodrigojali):
+En Barna un piso (por Idealista) capaz que anda como dicen arriba, €1k, pero en las afueras por ahí conseguís a ~€500
+15:29:18 - Jorge Cano (@jorgeucano):
+tenes que calcular que un buen dpto te sale unos 750 a 1000 euros como mucho en las afueras
+15:29:24 - cryser (@carlosryser):
+dublin por ejemplo los sueldos que vi arrancaban en 3k neto y el mismo gasto que en barcelona
+15:29:28 - Jorge Cano (@jorgeucano):
+si queres ir a un barrio cheto te saldra unos 1600
+15:29:39 - Rodrigo Ali (@rodrigojali):
+<@U1XSDSM4H> están básicamente hablando de España siendo de los peores pagos de Europa y si rinde irse ahi o no, básicamente
+15:29:39 - Fernando Pelliccioni (@fpelliccioni):
+yo estuve viendo en _Sant Cugat_ y es igual de caro que Barcelona
+15:29:40 - Jorge Cano (@jorgeucano):
+la posta es que comes por dos europs tranquilamente
+15:29:51 - Rodrigo Ali (@rodrigojali):
+Y me acuerdo que hace un tiempo se habló mucho del tema y me acuerdo de vos y Martin hablando del tema
+15:29:56 - Rodrigo Ali (@rodrigojali):
+Martin estaba en Alemania creo
+15:30:14 - Jorge Cano (@jorgeucano):
+con 2 mil euros vivis en barcelona con 4 sos un rey
+15:30:30 - Jorge Cano (@jorgeucano):
+si no tenes muchos gastos
+15:30:44 - cryser (@carlosryser):
+por eso, en dublin es igual
+15:30:48 - cryser (@carlosryser):
+pero los sueldos igual son mas altos
+15:31:02 - Jorge Cano (@jorgeucano):
+dublin es un toque bastante mas caro que barcelona
+15:31:07 - Fernando Pelliccioni (@fpelliccioni):
+Para los que estuvieron viviendo ahí, hay posibilidades de tener una casa con fondo y pileta, cual barrios (no CABA) del Gran Buenos Aires?
+15:31:46 - Fernando Pelliccioni (@fpelliccioni):
+me refiero en las afueras de Barcelona, hay chance? Por lo que vi se estila mucho depto
+15:33:00 - cryser (@carlosryser):
+<@U1XSDSM4H> estuviste en ambos lugares? pregunto porque justo vengo de investigar un poco ambas ciudades para decidirme por una y veia que el nivel de gasto era muy similar
+15:33:23 - Rodrigo Ali (@rodrigojali):
+Cryser, si te sirve, yo usé mucho numbeo para estimar gastos durante un viaje en diferentes ciudades y es bastante accurate
+15:33:25 - cryser (@carlosryser):
+tengo conocidos en dublin y se cagaban de risa con todo lo que podian ahorrar
+15:33:35 - Jorge Cano (@jorgeucano):
+nop
+15:33:40 - Fernando Pelliccioni (@fpelliccioni):
+El clima te influye?
+15:33:40 - Jorge Cano (@jorgeucano):
+te aseguro que Dublin es mas cara
+15:33:49 - Jorge Cano (@jorgeucano):
+y Barcelona tiene mejor clima
+15:33:52 - Jorge Cano (@jorgeucano):
+y es mas amigable
+15:33:53 - Jorge Cano (@jorgeucano):
+:slightly_smiling_face:
+15:34:24 - Marcos Casagrande (@marcoscvp90):
+yo prefiero mil veces Madrid antes que Barcelona :agite:
+15:34:27 - Fernando Pelliccioni (@fpelliccioni):
+Barcelona es una ciudad con mucha onda
+15:34:40 - Jorge Cano (@jorgeucano):
+Madrid es para cuando sos abuelo :agite:
+15:34:59 - Rodrigo Ali (@rodrigojali):
+<https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Spain&amp;country2=Ireland&amp;city1=Barcelona&amp;city2=Dublin> <@UHF3FU249>
+15:35:19 - Gonzalo González Mora (@gonzalogm):
+Dublin te querés matar con el clima ese
+15:35:30 - Rodrigo Ali (@rodrigojali):
+Madrid cuando estuve no me gustó tanto la verdad. Es grande, tiene para hacer de todo, pero me pareció muy CABA grande. Y no me gusta CABA para vivir.
+15:35:35 - Gonzalo González Mora (@gonzalogm):
+Tengo unos amigos que se fueron hace poco y lo ven la hora de irse de vacaciones a “un lugar con sol”
+15:35:36 - cryser (@carlosryser):
+si a mi me re pintaba barcelona por la playa basicamente, pero no me cerraban los numeros
+15:36:44 - cryser (@carlosryser):
+de hecho termine cerrando por un pueblo en irlanda jaja pero por lo menos esta a hora y media de dublin
+15:37:05 - cryser (@carlosryser):
+y me alcanza para una casa con patio y todo :partyparrot:
+15:37:08 - Rodrigo Ali (@rodrigojali):
+Valencia también tiene laburo IT y tiene ALTAS playas
+15:38:32 - Rodrigo Ali (@rodrigojali):
+Numbeo después de ver cómo actualiza los precios contra ciudades argentinas y la variación de precios que tenemos, se convirtió en el lugar de referencia para mi.
+15:38:39 - Rodrigo Ali (@rodrigojali):
+En todo lo que son precios y comparaciones y estimaciones
+15:39:19 - Fernando Pelliccioni (@fpelliccioni):
+Curasao
+15:39:39 - Fernando Pelliccioni (@fpelliccioni):
+te armás una granjita para minar cryptos :stuck_out_tongue_winking_eye:
+15:43:59 - Ezequiel Leites (@leites25):
+Yo estuve viendo en Idealista y tenes dptos amoblados de 2 ambientes por ~900€ y bastantes lindos por la zona de Sant Martí, Barcelona, me parece un precio bastante bueno para la ubicacion
+15:47:20 - Jorge Cano (@jorgeucano):
+es lindo Irlanda :slightly_smiling_face:
+15:47:29 - Jorge Cano (@jorgeucano):
+tengo varios amigos que hicieron la misma que vos
+15:47:36 - Jorge Cano (@jorgeucano):
+viven a minimo hora y algo de dublin
+15:49:15 - Marcos Casagrande (@marcoscvp90):
+Ojo, los que dicen Barcelona tiene mucha onda, no es lo mismo vivir que ir de vacaciones. Yo presonalmente, no tolero que esté todo en catalán cuando hablan perfecto castellano, varios carteles están solo en catalán, varios menús de restaurants etc etc. Hablo para vivir.
+15:49:28 - Marcos Casagrande (@marcoscvp90):
+_Seniority: Viví 9 años en España_
+15:50:13 - Fernando Pelliccioni (@fpelliccioni):
+Yo digo que tiene mucha onda, porque la comparo con otras ciudades a las que también fui de vacaciones.
+15:50:41 - Fernando Pelliccioni (@fpelliccioni):
+Lo del Catalán es cierto
+15:50:42 - Rodrigo Ali (@rodrigojali):
+¿Aprendiste catalán de rebote? :stuck_out_tongue:
+15:51:04 - Fernando Pelliccioni (@fpelliccioni):
+Igual se entiende
+15:51:09 - Jorge Cano (@jorgeucano):
+igual les hablas en español y cambian al toque
+15:51:17 - Jorge Cano (@jorgeucano):
+nunca tuve un problema de algo asi
+15:52:27 - Fernando Pelliccioni (@fpelliccioni):
+Madrid vs. Barcelona me parece que hay mucho fanatismo...
+15:52:51 - Guido Vizoso (@guido.vizoso9):
+Entonces para vivir tranca en Barcelona 2.5k?
+15:53:01 - Fernando Pelliccioni (@fpelliccioni):
+parece que sí
+15:53:27 - Fernando Pelliccioni (@fpelliccioni):
+España en general, dicen, que está preparada para lo que llaman los mileuristas.
+15:53:59 - Jorge Cano (@jorgeucano):
+todo depende siempre del nievl de vida que quieras tener
+15:53:59 - Rodrigo Ali (@rodrigojali):
+Claro, yo cuando averigüé el salario promedio de España ronda los €870/month
+15:54:15 - Rodrigo Ali (@rodrigojali):
+Y una minoría es considerada "Mileurista"
+15:54:17 - Jorge Cano (@jorgeucano):
+a los que cobran de 800 a 1000 euros los llaman mileuristas
+15:55:34 - Fernando Pelliccioni (@fpelliccioni):
+andá a vivir a Barcelona trabajando remoto para Buenos Aires :stuck_out_tongue_winking_eye:
+15:55:58 - Rodrigo Ali (@rodrigojali):
+Qué trucazo.
+15:56:30 - Fernando Pelliccioni (@fpelliccioni):
+(hay empresas acá que pagan mejor que 2.5ke)
+15:57:04 - Guido Vizoso (@guido.vizoso9):
+Pero tenés que tener mucho seniority supongo
+15:57:06 - Rodrigo Ali (@rodrigojali):
+De una. ¿Pero para qué puestos? :stuck_out_tongue:
+15:57:08 - Rodrigo Ali (@rodrigojali):
+Claro
+15:57:20 - Fernando Pelliccioni (@fpelliccioni):
+Dueño de la empresa, obvio.
+15:57:25 - Fernando Pelliccioni (@fpelliccioni):
+Programador Sr.
+15:57:25 - Rodrigo Ali (@rodrigojali):
+Qué pillo
+15:57:26 - Rodrigo Ali (@rodrigojali):
+Jajajaja
+15:58:01 - Marcos Casagrande (@marcoscvp90):
+Ojo, si acá hay que pagan 2.5, pero son las menos, allá son la mayoría, y también hay de 5-6k en España.
+15:58:07 - Fernando Pelliccioni (@fpelliccioni):
+2.5ke en Barcelona tambien te van a pedir mucho seniority
+15:59:04 - Marcos Casagrande (@marcoscvp90):
+A mi me llegan ofertas seguido de 5k en España, para senior, no remotas.
+15:59:37 - Marcos Casagrande (@marcoscvp90):
+Acá en Argentina nunca la verdad, ni se si hay empresa que pague eso acá.
+15:59:37 - Fernando Pelliccioni (@fpelliccioni):
+Tenía entendido que 2.5/3k era medio un tope en informática (programador)
+15:59:39 - Rodrigo Ali (@rodrigojali):
+Pero vos sos un gigante Marcos.
+15:59:56 - Fernando Pelliccioni (@fpelliccioni):
+en crypto acá se paga bien
+16:00:30 - Marcos Casagrande (@marcoscvp90):
+Yo hablo para senior siempre. Tengo amigos semi seniors en España cobrando 2.2-2.5k mensuales
+16:00:46 - Jorge Cano (@jorgeucano):
+depende de la empresa y como te vendas
+16:00:49 - Rodrigo Ali (@rodrigojali):
+Yo por lo que vi los promedios de Dev andaban por {~€25k/~€38k/&gt;€48k}/year para Jr/Ssr/Sr en general
+16:00:54 - Fernando Pelliccioni (@fpelliccioni):
+sí sí, senior, +20 años de exp., obvio
+16:00:55 - Rodrigo Ali (@rodrigojali):
+(en Barna)
+16:00:59 - Fernando Pelliccioni (@fpelliccioni):
+:stuck_out_tongue_winking_eye:
+16:01:01 - Martín Valdés de León (@mvaldesdeleon):
+En Alemania con el seniority adecuado podes conseguir ofertas entre 80-100k anuales, que serian 4-5k en mano.
+16:01:07 - Martín Valdés de León (@mvaldesdeleon):
+Como dev.
+16:01:18 - Jorge Cano (@jorgeucano):
+para mi en europa por  menos de 4k mensuales por senior no tenes que aceptar
+16:01:31 - Marcos Casagrande (@marcoscvp90):
+Exactamente
+16:01:39 - Fernando Pelliccioni (@fpelliccioni):
+4k mano?
+16:01:51 - Marcos Casagrande (@marcoscvp90):
+Siempre neto, nunca inneto
+16:01:58 - Martín Valdés de León (@mvaldesdeleon):
+Mas de 100k anuales _solo_ como dev, solo en un puñado de empresas.
+16:02:12 - Martín Valdés de León (@mvaldesdeleon):
+Vas a tener que tomar mas responsabilidades para ganar mas guita.
+16:02:28 - Rodrigo Ali (@rodrigojali):
+Team lead, project lead, architect y tal?
+16:02:28 - Marcos Casagrande (@marcoscvp90):
+Como subir a producción los viernes
+16:02:44 - Martín Valdés de León (@mvaldesdeleon):
+Mas tirando a Architect, si.
+16:02:57 - Martín Valdés de León (@mvaldesdeleon):
+O Engineering Manager, Technical Project Manager...
+16:03:03 - Martín Valdés de León (@mvaldesdeleon):
+Cargos con direct reports.
+16:03:12 - Martín Valdés de León (@mvaldesdeleon):
+Por mas que siga siendo tecnico y codees.
+16:03:15 - Rodrigo Ali (@rodrigojali):
+Comprende.
+16:03:26 - Leandro Echevarria (@echevarrialeandro):
+Con vivir en un lugar con moneda estable y capacidad de ahorro humanamente razonable I'm happy
+16:03:38 - Marcos Casagrande (@marcoscvp90):
+Los que le interese ganar más de 100k, prácticamente todas los exchange de crypto pagan arriba de 100k, a los devs, y full remote.
+16:03:58 - Santiago Ruffino (@santi_0898):
+Xapo esta buscando. En Stack Overflow aparece el anuncio
+16:04:00 - Martín Valdés de León (@mvaldesdeleon):
+Simil cualquier empresa con nombre.
+16:04:12 - Martín Valdés de León (@mvaldesdeleon):
+Google, Uber, Netflix, etc.
+16:04:25 - Fernando Pelliccioni (@fpelliccioni):
+interesante lo de full remote en crypto
+16:04:43 - Fernando Pelliccioni (@fpelliccioni):
+exchanges de España? o EU en general ?
+16:04:59 - Marcos Casagrande (@marcoscvp90):
+de todos lados, Kraken, Bitfinex..
+16:05:16 - Marcos Casagrande (@marcoscvp90):
+Están en todos lados, Estonia, Korea etc
+16:05:40 - Marcos Casagrande (@marcoscvp90):
+Legalmente los exchange están en un país sin muchas restricciones financieras, impositivas etc.
+16:05:46 - Fernando Pelliccioni (@fpelliccioni):
+bueno... Bitfinex...
+16:05:57 - Fernando Pelliccioni (@fpelliccioni):
+la tiene complicada
+16:06:28 - Marcos Casagrande (@marcoscvp90):
+<https://stackoverflow.com/jobs/245999/software-engineer-frontend-marketing-kraken-digital-asset-exchange?so=i&amp;pg=1&amp;offset=0&amp;q=kraken>
+16:07:29 - Marcos Casagrande (@marcoscvp90):
+<https://stackoverflow.com/jobs/241638/frontend-devops-engineer-kraken-digital-asset-exchange?so=i&amp;pg=1&amp;offset=-1&amp;q=kraken>
+
+Este es full remote
+16:08:16 - Lucas Accastello (@accastellolucas):
+Che y en Italia? nunca nadie preguntó o comentó sobre Italia. En poco me sale la ciudadanía
+16:08:20 - Marcos Casagrande (@marcoscvp90):
+Ahí en SO salen bastantes exchange que ofrecen eso, igual en España hay de todo, la media como dice Rodri, es de 50k para los seniors, pero hay de 70-80k bastantes, sino la media sería mucho más baja.
+16:08:42 - Fernando Pelliccioni (@fpelliccioni):
+con la ciudadanía Italiana podés trabajar en cualquier país miembro de la UE
+16:08:46 - Marcos Casagrande (@marcoscvp90):
+Es que ya por el idioma, creo que la mayoría ni comentan de acá, pero con ciudadanía Italiana podés laburar en cualquier país de la UE.
+16:09:26 - Rodrigo Ali (@rodrigojali):
+País miembro del acuerdo Schengen*
+16:09:55 - Lucas Accastello (@accastellolucas):
+Si, lo sé. Pero tengo la curiosidad de que tal se paga y se labura en Italia. Fui a Italia y tranquilamente me iría a vivir al medio de un viñedo en la Toscana jaja
+16:10:22 - Marcos Casagrande (@marcoscvp90):
+yo estimo que se paga similar a España.
+16:10:39 - Santiago Ruffino (@santi_0898):
+Mi sueño es irme a Italia a vivir :smile:
+16:10:56 - Lucas Alejo Bellesi (@lucasbellesipocho):
+yo tengo una idea parecida en mente, trabajar remoto para USA y vivir en Italia en el norte, asi como un sueño (tengo ciudadania y el pasaporte hecho)
+16:11:32 - Ezequiel Leites (@leites25):
+Yo las ofertas que tuve de Italia dejaron mucho que desear
+16:11:38 - Gonzalo González Mora (@gonzalogm):
+A mi m encantaría eso, aunque no sé cuán complicado por el offset de timezone (más si laburás para la West Coast que en general paga más)
+16:11:50 - Ezequiel Leites (@leites25):
+Y eso que por cualquier numero que me sirviera me iba, soy fan mal de Milan
+16:12:09 - Ezequiel Leites (@leites25):
+Yo lo veo mas como vivir en Italia pero remotear para USA
+16:12:11 - Rodrigo Ali (@rodrigojali):
+Depende, hay muchas empresas 100% remotas que te ofrecen conectarte ~4 horas de tu horario laboral en una franja de horas
+16:12:17 - Ezequiel Leites (@leites25):
+con 2k € vivis bien
+16:12:34 - Rodrigo Ali (@rodrigojali):
+Ponda te dicen que mientras metas 4 horas entre las 8 am y las 8 pm de TAL zona horaria, todo joya
+16:12:36 - Gonzalo González Mora (@gonzalogm):
+Se pero son como 10hs de dif con la west coast creo
+16:12:41 - Santiago Ruffino (@santi_0898):
+Me iria a Italia por poca plata :man-shrugging::skin-tone-2:
+16:12:52 - Santiago Ruffino (@santi_0898):
+Vivo en Argentina por poca plata, mira si no voy a irme a Italia
+16:13:03 - Rodrigo Ali (@rodrigojali):
+Jajajaja, seh, es lógica aplastante
+16:13:11 - Ezequiel Leites (@leites25):
+Rimini es linda ciudad para ir a vivir
+16:13:45 - Martín Aimar (@maimar):
+hoy vi que está <https://www.reddit.com/r/remotejs/>
+16:15:12 - Rodrigo Ali (@rodrigojali):
+Me hace pensar en weworkremotely y todas esas
+16:15:13 - Rodrigo Ali (@rodrigojali):
+Está bueno
+16:16:07 - Rodrigo Ali (@rodrigojali):
+Sr Front End Vue.js, con experiencia de 5+ años en Vue. Vue salió hace exactamente 5 años.
+16:16:29 - Martín Aimar (@maimar):
+jaja yo me fijé lo mismo
+16:16:34 - Martín Aimar (@maimar):
+a ver hacía cuánto había salido vue
+16:16:46 - Rodrigo Ali (@rodrigojali):
+TBH me sorprendió ver que tiene 5 años, pensé que tendría 3
+16:17:00 - Martín Aimar (@maimar):
+la v2 creo que tiene 3
+16:39:32 - Martín Aimar (@maimar):
+si hurgaron un poco en la sidebar habrán visto <https://github.com/lukasz-madon/awesome-remote-job>
+16:40:38 - Martín Aimar (@maimar):
+cómo puede haber tanta data :astonished:
+16:42:18 - Rodrigo Ali (@rodrigojali):
+Hay gente que tiene un don para documentar
+16:43:09 - Martín Aimar (@maimar):
+si pudiera pagarle yo también tendría un don para documentar
+17:45:39 - Luis Alvarez (@luistensai):
+information overflow
+20:05:38 - Julian (@jantonielli01):
+alguno tiene referencias de <https://explore-share.com>?
