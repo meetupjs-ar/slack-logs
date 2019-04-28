@@ -1,0 +1,40 @@
+21:08:40 - Leandro Doldán (@leandromdoldan):
+Girando ligeramente la discusión: ¿Qué opinan entre Flutter y React Native?
+21:18:39 - Gonza Espeche (@espeche.g):
+A Flutter hay que darle tiempo, por ahora lo comparo con Google+ que salió con todos lo cañones y ahora RIP.
+21:49:25 - Sergio Daniel Xalambrí (@sergiodxa):
+Un amigo vive de hacer flutter
+21:49:29 - Sergio Daniel Xalambrí (@sergiodxa):
+Pagan un montón 
+21:49:48 - Sergio Daniel Xalambrí (@sergiodxa):
+Y por lo que vi en charlas que dio es bien sencillo de arrancar a usarlo 
+21:50:39 - Sergio Daniel Xalambrí (@sergiodxa):
+Pero si ya sabes React entonces con RN es solo aprender unas API específicas, es como aprende X librería y ya podes hacer nativo
+22:47:33 - Martin Bavio (@mbavio):
+haces transcoding o sale todo con direct play?
+22:48:27 - Martin Bavio (@mbavio):
+interesante las tools para bajar automaticamente, no tenia ninguna de ellas
+22:48:33 - Martin Bavio (@mbavio):
+baja remux tambien?
+00:09:35 - Agustin Mulet (@sugusin):
+Hago transcoding, direct play en general no. A qué te referís con remux? No tengo idea qué es, lo busqué pero lo definen como cosas distintas :open_mouth:
+21:08:40 - Leandro Doldán (@leandromdoldan):
+Girando ligeramente la discusión: ¿Qué opinan entre Flutter y React Native?
+21:18:39 - Gonza Espeche (@espeche.g):
+A Flutter hay que darle tiempo, por ahora lo comparo con Google+ que salió con todos lo cañones y ahora RIP.
+21:49:25 - Sergio Daniel Xalambrí (@sergiodxa):
+Un amigo vive de hacer flutter
+21:49:29 - Sergio Daniel Xalambrí (@sergiodxa):
+Pagan un montón 
+21:49:48 - Sergio Daniel Xalambrí (@sergiodxa):
+Y por lo que vi en charlas que dio es bien sencillo de arrancar a usarlo 
+21:50:39 - Sergio Daniel Xalambrí (@sergiodxa):
+Pero si ya sabes React entonces con RN es solo aprender unas API específicas, es como aprende X librería y ya podes hacer nativo
+22:47:33 - Martin Bavio (@mbavio):
+haces transcoding o sale todo con direct play?
+22:48:27 - Martin Bavio (@mbavio):
+interesante las tools para bajar automaticamente, no tenia ninguna de ellas
+22:48:33 - Martin Bavio (@mbavio):
+baja remux tambien?
+00:09:35 - Agustin Mulet (@sugusin):
+Hago transcoding, direct play en general no. A qué te referís con remux? No tengo idea qué es, lo busqué pero lo definen como cosas distintas :open_mouth:
