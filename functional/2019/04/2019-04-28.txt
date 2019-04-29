@@ -1,0 +1,48 @@
+06:28:13 - Martín Valdés de León (@mvaldesdeleon):
+&gt;Never pipe wget/curl into sh anyway. E.g. if the script contains rm -r /foo/bar/baz and your connection cuts out at the "right" time sh will execute rm -r /.
+06:28:17 - Martín Valdés de León (@mvaldesdeleon):
+nunca habia pensado eso xD
+06:29:16 - Martín Valdés de León (@mvaldesdeleon):
+Personalmente nunca me gusto pipear mierda random de internet a sh, siempre bajo, reviso que sea algo razonable y dps ejecuto.
+11:10:14 - Leandro Echevarria (@echevarrialeandro):
+Pipear random shit lo igualo al `eval` :fearful:
+11:13:31 - gillchristian (@gillchristian):
+<https://twitter.com/programmerdude/status/1122485714627846144?s=21> <https://twitter.com/programmerdude/status/1122485714627846144?s=21>
+13:36:21 - Julian (@jantonielli01):
+Esa es la única forma de hacerlo en PS 
+13:36:28 - Martín Valdés de León (@mvaldesdeleon):
+Importa el orden?
+13:36:32 - Julian (@jantonielli01):
+personalmente no me gusta 
+13:36:51 - Martín Valdés de León (@mvaldesdeleon):
+`(a, b, c)` medio que no implica que a viene antes que b, pero `a =&gt; b =&gt; ...` si
+13:37:13 - Julian (@jantonielli01):
+No debería cambiar nada 
+13:37:29 - Julian (@jantonielli01):
+Excepto cosas como type applications 
+13:37:39 - Julian (@jantonielli01):
+Pero la otra syntax tmb lo hace 
+06:28:13 - Martín Valdés de León (@mvaldesdeleon):
+&gt;Never pipe wget/curl into sh anyway. E.g. if the script contains rm -r /foo/bar/baz and your connection cuts out at the "right" time sh will execute rm -r /.
+06:28:17 - Martín Valdés de León (@mvaldesdeleon):
+nunca habia pensado eso xD
+06:29:16 - Martín Valdés de León (@mvaldesdeleon):
+Personalmente nunca me gusto pipear mierda random de internet a sh, siempre bajo, reviso que sea algo razonable y dps ejecuto.
+11:10:14 - Leandro Echevarria (@echevarrialeandro):
+Pipear random shit lo igualo al `eval` :fearful:
+11:13:31 - gillchristian (@gillchristian):
+<https://twitter.com/programmerdude/status/1122485714627846144?s=21> <https://twitter.com/programmerdude/status/1122485714627846144?s=21>
+13:36:21 - Julian (@jantonielli01):
+Esa es la única forma de hacerlo en PS 
+13:36:28 - Martín Valdés de León (@mvaldesdeleon):
+Importa el orden?
+13:36:32 - Julian (@jantonielli01):
+personalmente no me gusta 
+13:36:51 - Martín Valdés de León (@mvaldesdeleon):
+`(a, b, c)` medio que no implica que a viene antes que b, pero `a =&gt; b =&gt; ...` si
+13:37:13 - Julian (@jantonielli01):
+No debería cambiar nada 
+13:37:29 - Julian (@jantonielli01):
+Excepto cosas como type applications 
+13:37:39 - Julian (@jantonielli01):
+Pero la otra syntax tmb lo hace 
