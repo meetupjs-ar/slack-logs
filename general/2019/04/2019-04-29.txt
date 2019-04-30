@@ -1,0 +1,8 @@
+14:44:43 - Martin Bavio (@mbavio):
+Remux son versiones fieles de BR, las peliculas suelen pesar mas de 20GB. La version PRO de las pelis de yify digamos.
+18:53:50 - Agustin Mulet (@sugusin):
+Al couchpotato le podés definir pesos y calidades para bajar, tiene 4k como opción y sino podés hacerte una calidad custom digamos y te busca eso que definiste. Ahora, si el raspi por medio del Plex se banca reproducir eso lo dudo muchísimo
+14:44:43 - Martin Bavio (@mbavio):
+Remux son versiones fieles de BR, las peliculas suelen pesar mas de 20GB. La version PRO de las pelis de yify digamos.
+18:53:50 - Agustin Mulet (@sugusin):
+Al couchpotato le podés definir pesos y calidades para bajar, tiene 4k como opción y sino podés hacerte una calidad custom digamos y te busca eso que definiste. Ahora, si el raspi por medio del Plex se banca reproducir eso lo dudo muchísimo
