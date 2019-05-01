@@ -1,0 +1,232 @@
+21:00:19 - Jesus Africano (@jesus.africano):
+Buenas noches alguno trabaja o trabajo en Codea IT?
+11:49:44 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola!! Me salió mi primer laburito para hacer una página web sencillita... a una persona conocida... cómo se les cobra a estas personas? A cara de perro? Se les hace descuento? Cuánto se cobra? Toda sugerencia/consejo es bienvenid@!
+11:54:57 - Gonza Gluzman (@gonza):
+De por sí no cobrás lo mismo dependiendo del cliente (si es una persona, una organización pequeña, una corporación, etc.)
+11:55:02 - Gonza Gluzman (@gonza):
+Pero no regales tu laburo tampoco
+11:55:34 - Marcos Casagrande (@marcoscvp90):
+Para mi tenés que tener un mínimo para todos, si sabés que pueden pagar más de tu mínimo, aumentás.
+11:55:57 - Gabriel Fusca (@gfuscax):
+Depende mucho de cada uno pero lo que tenes que tener en cuenta es cuanto tiempo te va a llevar hacer esta web, porque más allá de cuando le quieras cobrar, debería ser proporcional al esfuerzo que le dediques.
+11:56:21 - Marcos Casagrande (@marcoscvp90):
+Pero no regales tu laburo porque sea conocido. Mucha gente se aprovecha sino.
+11:57:15 - Gonzalo González Mora (@gonzalogm):
+Sí, además que alburar con conocidos siempre es complicado
+11:57:25 - Gonzalo González Mora (@gonzalogm):
+Si dsp hay problemas podés cagar una amistad
+11:57:33 - Gonza Espeche (@espeche.g):
+Claro, estimá cuantas horas pensás que te va a llevar hacerlo y aplicale un ratio que sea 1,5x de tu hora normal, ya que el laburo va a consumir tu tiempo libre.
+11:57:41 - Marcos Casagrande (@marcoscvp90):
+Yo no hago tareas para conocidos, a no ser que me paguen mi tarifa estandar, que es la misma para todos los clientes.
+11:57:52 - Gonzalo González Mora (@gonzalogm):
+Sep, yo las evito como la peste
+11:57:52 - Marcos Casagrande (@marcoscvp90):
+Te vas a arrepentir sino.
+11:58:21 - Martín Valdés de León (@mvaldesdeleon):
+Laburo para conocidos, si lo puedo hacer gratis, genial. Sino le recomiendo a alguien.
+11:58:27 - Martín Valdés de León (@mvaldesdeleon):
+Y que los traten como cliente normal.
+11:58:27 - Gonzalo González Mora (@gonzalogm):
+Si no cobrás por hora, y cobrás fijo, tené cuidado con el scope creep, tratá de definir todo bien y que quede claro que si hay cosas fuera de eso, se cobra más
+11:58:31 - Gonza Espeche (@espeche.g):
+Bueno, depende. Hay gente conocida y gente conocida.
+11:58:44 - Martín Valdés de León (@mvaldesdeleon):
+Prefiero no mezclar lo personal con lo laboral en ese sentido.
+11:58:49 - Marcos Casagrande (@marcoscvp90):
+como dijo conocido, y no amigo, voy a suponer que no tiene mucha relación.
+11:59:54 - Marcos Casagrande (@marcoscvp90):
+y ya que estamos, para mi no hay que cobrar dependiendo de quién esté adelante como mucha gente hace. El otro día uno quería un descuento porque era "emprendedor" y Argentino.
+12:00:32 - Santiago Ruffino (@santi_0898):
+_Te pagamos menos porque somos una startup_
+12:00:36 - Marcos Casagrande (@marcoscvp90):
+Si el otro no puede pagar tu tarifa, no labures para el.
+12:01:09 - Gonza Espeche (@espeche.g):
+Pasa que en este caso sería su primer ~trabajo~ freelance y tener un portfolio le va a sumar para el día que busque su primer trabajo formal (que entiendo es lo que busca también)
+12:01:29 - Marcos Casagrande (@marcoscvp90):
+Yo entendí que era su primer laburito freelance.
+12:02:29 - Marcos Casagrande (@marcoscvp90):
+Si es su primer laburo de verdad, la verdad es dificil ayudar a poner un precio. Yo en su momento, mi primera web, la hice por un precio que mi me servía en ese momento, para el tiempo que me iba a llevar.
+12:03:10 - Santiago Ruffino (@santi_0898):
+Yo diria que le pongas el precio que consideres correcto. Yo hice laburos de onda en su momento, y despues dije "Lo puedo cobrar", y le fui subiendo el precio hasta que me senti comodo
+12:04:54 - Gonza Espeche (@espeche.g):
+No digo que se baje los lompas, pero tampoco que desaproveche la oportunidad.
+12:05:21 - Marcos Casagrande (@marcoscvp90):
+Si es su primer laburo, siempre hay que rebajarse un poco por experiencia.
+12:08:32 - Pedro (@pedro461):
+no estoy de acuerdo con ninguno, si pones un precio por hora estas diciendo que mientra mas eficiente seas menos vas a cobrar.. no tiene lógica.. creo que aún a un conocido hay que cobrarle porq el trabajo se paga y no se trata de andar viviendo de favores (liberalismo es lo mío).. El precio lo ponés vos en base a dos cosas fundamentales: 1) el valor que el producto final tiene para el cliente, 2) el valor de utilidad después de costos que querés lograr (acá podes tenr en cuenta tiempos, licencias, etc)
+12:14:02 - Gonza Espeche (@espeche.g):
+Si, bueno, tampoco es que si hace la página en 1 hora le va a cobrar 500 pesos jaja.
+12:17:25 - Pedro (@pedro461):
+por que no?
+12:17:55 - Pedro (@pedro461):
+es lo que vale para el cliente el mejor parámetro para medir, vos podés diseñar un logo en 5 minutos por ejemplo, pero no es lo mismo diseñarlo para una abuela que vende tortas que para una empresa gigante como Google
+12:27:05 - Aldo Gabriel Rojas (@aldogrojas5):
+Tal cual!
+12:27:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Me sirve todo lo q me dicen! Gracias!!
+12:28:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Mi idea es cobrarle un proporcional de lo que cobra alguien q se dedica a esto (o de los presupuestos q le pasaron). Me sirve como xp para poner en mi portfolio, que sólo tiene mi propia página de momento :smile:
+12:29:27 - Aldo Gabriel Rojas (@aldogrojas5):
+Le pasaron 10mil pesos para hacersela... yo le voy a tirar q se la hago por 7 :crossed_fingers:
+12:29:52 - Leandro Echevarria (@echevarrialeandro):
+Si te sirve a vos ese numero perfecto, pero no lo bajes "porque si"
+12:29:57 - Julian (@jantonielli01):
+cuanto estimas que te va a tomar?
+12:29:58 - Leandro Echevarria (@echevarrialeandro):
+Porque capaz te comes un garron de la gran flauta
+12:30:14 - Leandro Echevarria (@echevarrialeandro):
+Y dejas de ser un habil programador
+12:30:17 - Julian (@jantonielli01):
+Si te toma más de 2 semanas, es demasiado poco
+12:33:53 - Aldo Gabriel Rojas (@aldogrojas5):
+Para el finde la termino... me estoy levantando desde hace 2 meses a las 5am para estudiar... desde esta mañana me puse de 5 a 7 con eso a pleno y ya avancé bastante... faltan retoques q me van a llevar capaz q hasta el sabado dedicandole 2hs x día
+12:35:02 - Aldo Gabriel Rojas (@aldogrojas5):
+Mirá... me sirve mucho la experiencia y ver cuánto demoro en realidad... estimar el tiempo q me va a llevar en este momento no creo q sea mi fuerte :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:
+12:36:16 - Aldo Gabriel Rojas (@aldogrojas5):
+Está tan vapuleada mi profesión actual que me cuesta mucho subirme el precio... pero voy de a poco... le calculo q con 12hs podría terminarla... le estoy calculando en base a eso
+12:36:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Si después me lleva más, al proximo le calculo más horas
+12:37:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Y capaz q a medida q avance les vaya pasando cómo está quedando para que me digan si está bien, si no jode
+12:37:48 - Leandro Echevarria (@echevarrialeandro):
+Eso, yo dije numero pero si estas arrancando entonces está bien ampliar el número a "paquete de exp"
+12:44:02 - Aldo Gabriel Rojas (@aldogrojas5):
+De una! Para mí es invaluable eso... pero tampoco quiero laburar de gratarola! :rolling_on_the_floor_laughing:
+12:55:45 - Leandro Echevarria (@echevarrialeandro):
+No ni en pedo, tampoco la pavada jaja
+12:55:53 - Pedro (@pedro461):
+una web en 12 hs? o es muy muy simple o sos flash… :slightly_smiling_face:
+13:02:36 - Aldo Gabriel Rojas (@aldogrojas5):
+Jajajaj es super básica.  Tiene un formulario de contacto, un botoncito de whatsapp, algunas recetas, links a rrss y unos links a mercado pago para cobrar las consultas...( es para una nutricionista)
+13:04:42 - Aldo Gabriel Rojas (@aldogrojas5):
+Ya lo hice... nunca termina bien... 3 años de residencia ad honorem... 60hs semanales... "no de nuevo, decía...  " jajajaja
+13:06:01 - Aldo Gabriel Rojas (@aldogrojas5):
+Igual... seguro le calculo mal! Pero bue... va a ser parte de la xp
+13:20:17 - Federico A. Sawady O'Connor (@sawady.faso):
+Alguno conoce la empresa Optimissa de España?
+13:20:31 - Federico A. Sawady O'Connor (@sawady.faso):
+<https://www.linkedin.com/company/optimissa?originalSubdomain=ar>
+13:22:26 - Pedro (@pedro461):
+yo haría lo que te propusieron por ahí de multiplicar por 1.5
+13:28:15 - Aldo Gabriel Rojas (@aldogrojas5):
+Joya!
+13:29:02 - Aldo Gabriel Rojas (@aldogrojas5):
+Después les cuento cómo me fue :hugging_face:! Gracias por todos los consejos!
+21:00:19 - Jesus Africano (@jesus.africano):
+Buenas noches alguno trabaja o trabajo en Codea IT?
+11:49:44 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola!! Me salió mi primer laburito para hacer una página web sencillita... a una persona conocida... cómo se les cobra a estas personas? A cara de perro? Se les hace descuento? Cuánto se cobra? Toda sugerencia/consejo es bienvenid@!
+11:54:57 - Gonza Gluzman (@gonza):
+De por sí no cobrás lo mismo dependiendo del cliente (si es una persona, una organización pequeña, una corporación, etc.)
+11:55:02 - Gonza Gluzman (@gonza):
+Pero no regales tu laburo tampoco
+11:55:34 - Marcos Casagrande (@marcoscvp90):
+Para mi tenés que tener un mínimo para todos, si sabés que pueden pagar más de tu mínimo, aumentás.
+11:55:57 - Gabriel Fusca (@gfuscax):
+Depende mucho de cada uno pero lo que tenes que tener en cuenta es cuanto tiempo te va a llevar hacer esta web, porque más allá de cuando le quieras cobrar, debería ser proporcional al esfuerzo que le dediques.
+11:56:21 - Marcos Casagrande (@marcoscvp90):
+Pero no regales tu laburo porque sea conocido. Mucha gente se aprovecha sino.
+11:57:15 - Gonzalo González Mora (@gonzalogm):
+Sí, además que alburar con conocidos siempre es complicado
+11:57:25 - Gonzalo González Mora (@gonzalogm):
+Si dsp hay problemas podés cagar una amistad
+11:57:33 - Gonza Espeche (@espeche.g):
+Claro, estimá cuantas horas pensás que te va a llevar hacerlo y aplicale un ratio que sea 1,5x de tu hora normal, ya que el laburo va a consumir tu tiempo libre.
+11:57:41 - Marcos Casagrande (@marcoscvp90):
+Yo no hago tareas para conocidos, a no ser que me paguen mi tarifa estandar, que es la misma para todos los clientes.
+11:57:52 - Gonzalo González Mora (@gonzalogm):
+Sep, yo las evito como la peste
+11:57:52 - Marcos Casagrande (@marcoscvp90):
+Te vas a arrepentir sino.
+11:58:21 - Martín Valdés de León (@mvaldesdeleon):
+Laburo para conocidos, si lo puedo hacer gratis, genial. Sino le recomiendo a alguien.
+11:58:27 - Martín Valdés de León (@mvaldesdeleon):
+Y que los traten como cliente normal.
+11:58:27 - Gonzalo González Mora (@gonzalogm):
+Si no cobrás por hora, y cobrás fijo, tené cuidado con el scope creep, tratá de definir todo bien y que quede claro que si hay cosas fuera de eso, se cobra más
+11:58:31 - Gonza Espeche (@espeche.g):
+Bueno, depende. Hay gente conocida y gente conocida.
+11:58:44 - Martín Valdés de León (@mvaldesdeleon):
+Prefiero no mezclar lo personal con lo laboral en ese sentido.
+11:58:49 - Marcos Casagrande (@marcoscvp90):
+como dijo conocido, y no amigo, voy a suponer que no tiene mucha relación.
+11:59:54 - Marcos Casagrande (@marcoscvp90):
+y ya que estamos, para mi no hay que cobrar dependiendo de quién esté adelante como mucha gente hace. El otro día uno quería un descuento porque era "emprendedor" y Argentino.
+12:00:32 - Santiago Ruffino (@santi_0898):
+_Te pagamos menos porque somos una startup_
+12:00:36 - Marcos Casagrande (@marcoscvp90):
+Si el otro no puede pagar tu tarifa, no labures para el.
+12:01:09 - Gonza Espeche (@espeche.g):
+Pasa que en este caso sería su primer ~trabajo~ freelance y tener un portfolio le va a sumar para el día que busque su primer trabajo formal (que entiendo es lo que busca también)
+12:01:29 - Marcos Casagrande (@marcoscvp90):
+Yo entendí que era su primer laburito freelance.
+12:02:29 - Marcos Casagrande (@marcoscvp90):
+Si es su primer laburo de verdad, la verdad es dificil ayudar a poner un precio. Yo en su momento, mi primera web, la hice por un precio que mi me servía en ese momento, para el tiempo que me iba a llevar.
+12:03:10 - Santiago Ruffino (@santi_0898):
+Yo diria que le pongas el precio que consideres correcto. Yo hice laburos de onda en su momento, y despues dije "Lo puedo cobrar", y le fui subiendo el precio hasta que me senti comodo
+12:04:54 - Gonza Espeche (@espeche.g):
+No digo que se baje los lompas, pero tampoco que desaproveche la oportunidad.
+12:05:21 - Marcos Casagrande (@marcoscvp90):
+Si es su primer laburo, siempre hay que rebajarse un poco por experiencia.
+12:08:32 - Pedro (@pedro461):
+no estoy de acuerdo con ninguno, si pones un precio por hora estas diciendo que mientra mas eficiente seas menos vas a cobrar.. no tiene lógica.. creo que aún a un conocido hay que cobrarle porq el trabajo se paga y no se trata de andar viviendo de favores (liberalismo es lo mío).. El precio lo ponés vos en base a dos cosas fundamentales: 1) el valor que el producto final tiene para el cliente, 2) el valor de utilidad después de costos que querés lograr (acá podes tenr en cuenta tiempos, licencias, etc)
+12:14:02 - Gonza Espeche (@espeche.g):
+Si, bueno, tampoco es que si hace la página en 1 hora le va a cobrar 500 pesos jaja.
+12:17:25 - Pedro (@pedro461):
+por que no?
+12:17:55 - Pedro (@pedro461):
+es lo que vale para el cliente el mejor parámetro para medir, vos podés diseñar un logo en 5 minutos por ejemplo, pero no es lo mismo diseñarlo para una abuela que vende tortas que para una empresa gigante como Google
+12:27:05 - Aldo Gabriel Rojas (@aldogrojas5):
+Tal cual!
+12:27:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Me sirve todo lo q me dicen! Gracias!!
+12:28:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Mi idea es cobrarle un proporcional de lo que cobra alguien q se dedica a esto (o de los presupuestos q le pasaron). Me sirve como xp para poner en mi portfolio, que sólo tiene mi propia página de momento :smile:
+12:29:27 - Aldo Gabriel Rojas (@aldogrojas5):
+Le pasaron 10mil pesos para hacersela... yo le voy a tirar q se la hago por 7 :crossed_fingers:
+12:29:52 - Leandro Echevarria (@echevarrialeandro):
+Si te sirve a vos ese numero perfecto, pero no lo bajes "porque si"
+12:29:57 - Julian (@jantonielli01):
+cuanto estimas que te va a tomar?
+12:29:58 - Leandro Echevarria (@echevarrialeandro):
+Porque capaz te comes un garron de la gran flauta
+12:30:14 - Leandro Echevarria (@echevarrialeandro):
+Y dejas de ser un habil programador
+12:30:17 - Julian (@jantonielli01):
+Si te toma más de 2 semanas, es demasiado poco
+12:33:53 - Aldo Gabriel Rojas (@aldogrojas5):
+Para el finde la termino... me estoy levantando desde hace 2 meses a las 5am para estudiar... desde esta mañana me puse de 5 a 7 con eso a pleno y ya avancé bastante... faltan retoques q me van a llevar capaz q hasta el sabado dedicandole 2hs x día
+12:35:02 - Aldo Gabriel Rojas (@aldogrojas5):
+Mirá... me sirve mucho la experiencia y ver cuánto demoro en realidad... estimar el tiempo q me va a llevar en este momento no creo q sea mi fuerte :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:
+12:36:16 - Aldo Gabriel Rojas (@aldogrojas5):
+Está tan vapuleada mi profesión actual que me cuesta mucho subirme el precio... pero voy de a poco... le calculo q con 12hs podría terminarla... le estoy calculando en base a eso
+12:36:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Si después me lleva más, al proximo le calculo más horas
+12:37:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Y capaz q a medida q avance les vaya pasando cómo está quedando para que me digan si está bien, si no jode
+12:37:48 - Leandro Echevarria (@echevarrialeandro):
+Eso, yo dije numero pero si estas arrancando entonces está bien ampliar el número a "paquete de exp"
+12:44:02 - Aldo Gabriel Rojas (@aldogrojas5):
+De una! Para mí es invaluable eso... pero tampoco quiero laburar de gratarola! :rolling_on_the_floor_laughing:
+12:55:45 - Leandro Echevarria (@echevarrialeandro):
+No ni en pedo, tampoco la pavada jaja
+12:55:53 - Pedro (@pedro461):
+una web en 12 hs? o es muy muy simple o sos flash… :slightly_smiling_face:
+13:02:36 - Aldo Gabriel Rojas (@aldogrojas5):
+Jajajaj es super básica.  Tiene un formulario de contacto, un botoncito de whatsapp, algunas recetas, links a rrss y unos links a mercado pago para cobrar las consultas...( es para una nutricionista)
+13:04:42 - Aldo Gabriel Rojas (@aldogrojas5):
+Ya lo hice... nunca termina bien... 3 años de residencia ad honorem... 60hs semanales... "no de nuevo, decía...  " jajajaja
+13:06:01 - Aldo Gabriel Rojas (@aldogrojas5):
+Igual... seguro le calculo mal! Pero bue... va a ser parte de la xp
+13:20:17 - Federico A. Sawady O'Connor (@sawady.faso):
+Alguno conoce la empresa Optimissa de España?
+13:20:31 - Federico A. Sawady O'Connor (@sawady.faso):
+<https://www.linkedin.com/company/optimissa?originalSubdomain=ar>
+13:22:26 - Pedro (@pedro461):
+yo haría lo que te propusieron por ahí de multiplicar por 1.5
+13:28:15 - Aldo Gabriel Rojas (@aldogrojas5):
+Joya!
+13:29:02 - Aldo Gabriel Rojas (@aldogrojas5):
+Después les cuento cómo me fue :hugging_face:! Gracias por todos los consejos!
