@@ -1,0 +1,237 @@
+07:35:16 - Daniel Naranjo (@daniel718):
+Hola <@U5SA8HM7W>, tengo configurado una instancia AWS con Ubuntu, Postgres y NGINX manejando varios microservicios en Node corriendo distintos puertos manejados con pm2
+10:11:02 - Santiago Ruffino (@santi_0898):
+Hola gente! Alguien sabe cuanto tiempo espera Dialogflow una respuesta de un webhook? Desgraciadamente, la API a la que le pego, tarda ~15 se responde. Y dialogflow me corta antes
+10:38:46 - Marcos Casagrande (@marcoscvp90):
+Son 5 segundos el timeout de Dialogflow, o 10 para cuando lo usás con Actions on google.
+10:39:37 - Marcos Casagrande (@marcoscvp90):
+Si necesitás más tiempo, lo mejor es no usar webhooks, sino que el chat pase por tu backend y vos vas a Dialogflow.
+07:35:16 - Daniel Naranjo (@daniel718):
+Hola <@U5SA8HM7W>, tengo configurado una instancia AWS con Ubuntu, Postgres y NGINX manejando varios microservicios en Node corriendo distintos puertos manejados con pm2
+10:11:02 - Santiago Ruffino (@santi_0898):
+Hola gente! Alguien sabe cuanto tiempo espera Dialogflow una respuesta de un webhook? Desgraciadamente, la API a la que le pego, tarda ~15 se responde. Y dialogflow me corta antes
+10:38:46 - Marcos Casagrande (@marcoscvp90):
+Son 5 segundos el timeout de Dialogflow, o 10 para cuando lo usás con Actions on google.
+10:39:37 - Marcos Casagrande (@marcoscvp90):
+Si necesitás más tiempo, lo mejor es no usar webhooks, sino que el chat pase por tu backend y vos vas a Dialogflow.
+10:42:35 - Santiago Ruffino (@santi_0898):
+Uh, ahi me cagaste fuerte
+10:42:35 - Santiago Ruffino (@santi_0898):
+Jajaja
+10:42:52 - Santiago Ruffino (@santi_0898):
+Seria que cada mensaje que llega a Dialogflow vaya y le pegue a mi Back?
+10:43:09 - Santiago Ruffino (@santi_0898):
+Y mi back sepa que responder a los mensajes?
+10:45:33 - Marcos Casagrande (@marcoscvp90):
+claro, tenés que integrar Dialogflow en tu back.
+10:47:01 - Marcos Casagrande (@marcoscvp90):
+La verdad yo siempre hago eso, los webhooks sirven hasta cierto punto. Si estás usando Node, usá `npm i dialogflow` así te conectás con Dialogflow.
+10:47:36 - Marcos Casagrande (@marcoscvp90):
+Y básicamente, todos los entry points que tengas van a tu backend: webchat/facebook/... etc
+10:47:50 - Santiago Ruffino (@santi_0898):
+Lo estaba haciendo con Python al back, pero bueno. Si hacerlo en Node me facilita un poco esa parte, me cambio de lenguaje
+10:48:19 - Marcos Casagrande (@marcoscvp90):
+La verdad como no uso Python, no sé si tiene SDK oficial, pero podés buscar a ver si existe.
+10:48:35 - Marcos Casagrande (@marcoscvp90):
+Igual sino tiene APIs, así que podés integrarlo vos desde python sin problema.
+10:48:43 - Martín Valdés de León (@mvaldesdeleon):
+Igual eso no te resuelve el problema si el fulfilment es lento, no?
+10:49:29 - Martín Valdés de León (@mvaldesdeleon):
+Te deja quedarte _vos_ esperando todo el tiempo que quieras, pero la parte de DialogFlow sigue teniendo el mismo time limit
+10:49:36 - Marcos Casagrande (@marcoscvp90):
+Si te lo resuelve, porque lo que es lento es su API de terceros que está llamando, si integra directo con DIalogflow, no hay webhook de fulfillment.
+10:50:13 - Marcos Casagrande (@marcoscvp90):
+O sea su flujo seria: Cliente &gt; Backend &gt; Dialogflow &gt; Backend (acá llama a API de terceros, que dure 15 o 20 segundos) &gt; client
+10:50:33 - Santiago Ruffino (@santi_0898):
+Claro. Entiendo que el limite de los 5 segs lo pone la funcion de Fulfilment. Si todas las respuestas la busca en tu back, no le calienta el tiempo
+10:50:36 - Marcos Casagrande (@marcoscvp90):
+API de terceros, o su operación con DB o lo que sea que tarde 15 segundos, eso ocurre fuera de Dialogflow.
+10:51:04 - Martín Valdés de León (@mvaldesdeleon):
+:+1:
+10:54:42 - Martín Valdés de León (@mvaldesdeleon):
+Y lo que recibe tu Backend es lo mismo que recibiria el endpoint de Fulfilment?
+10:54:51 - Martín Valdés de León (@mvaldesdeleon):
+Intent, Entities, y toda la bola?
+10:55:43 - Marcos Casagrande (@marcoscvp90):
+Claro, cuando vos hacés la llamada desde tu backend, hacés: `dialogflow.detectIntent('text')` y ahí te devuelve el intent detectado, los parameters, contexts etc.
+10:56:24 - Martín Valdés de León (@mvaldesdeleon):
+Piola.
+10:56:42 - Marcos Casagrande (@marcoscvp90):
+Ahí manejás vos la acción que querés hacer, dependiendo del action generalmente. Lo que yo suelo hacer, es si no hay action seteado en el intent, es un pasamanos al cliente. Si hay un action, hago el dispatch, la manejo y una vez tengo respuesta voy al cliente.
+10:56:53 - Santiago Ruffino (@santi_0898):
+Tiene API oficial para Python :+1::skin-tone-2: Pero todavia no termino de entender la logica. Estoy viendo los codigos y la documentacion, pero es bastante verga
+10:57:15 - Martín Valdés de León (@mvaldesdeleon):
+Nosotros ponemos al backend "antes" que DF para poder manejar casos donde queremos mandarle mas respuestas. Seguimos usando fulfilment, pero dps del fulfilment original queremos mandarle un par de msgs mas.
+10:57:21 - Marcos Casagrande (@marcoscvp90):
+La documentación de Dialogflow y de cualquier cosa de google para mi es pésima.
+10:57:36 - Martín Valdés de León (@mvaldesdeleon):
+Es bastante una cagada, sep.
+10:59:04 - Marcos Casagrande (@marcoscvp90):
+El problema es ese, si usás fulfillment estás muy limitado, sin fulfillment controlás todo vos. Podés mandarle mensajes sin pasar por DF, podés triggerear DF cuando quieras, tenés mucho más control. La verdad yo a todos mis clientes les recomiendo el cambio, porque siempre llega un punto que quieren implementar una funcionalidad X, y no pueden hacerla con fulfillment.
+10:59:04 - Santiago Ruffino (@santi_0898):
+Encima todos los blogs te explican como hacer tu endpoint, usando Fulfilment
+10:59:30 - Marcos Casagrande (@marcoscvp90):
+Exactamente, yo la verdad tuve que leerme el código de la lib para programar casi todos los bots, porque no hay nada documentado.
+11:00:35 - Martín Valdés de León (@mvaldesdeleon):
+Sep, totalmente. Para ciertos casos queremos ignorar DF por completo y procesar el mensaje nosotros.
+11:00:44 - Martín Valdés de León (@mvaldesdeleon):
+El modelo de DF es bastante rigido y limitado.
+11:01:47 - Santiago Ruffino (@santi_0898):
+Estoy viendo la posibilidad de sacar a Dialogflow y directamente hacer un bot duro. Pero tengo que esperar que FB me aprueba y toda esa bosta
+11:02:25 - Marcos Casagrande (@marcoscvp90):
+Para mi está bien, porque te dan las 2 opciones, pero si elegís ir por fulfillment, es rígido y limitado. Está bueno para alguna pelotudez, si querés hacer algo más robusto olvidate.
+11:03:06 - Marcos Casagrande (@marcoscvp90):
+Por ejemplo algo bastante sencillo, que no podés hacer con fulfillment, es enviar información del usuario a Dialogflow, para el típico: `Hola {name}`
+11:03:48 - Marcos Casagrande (@marcoscvp90):
+Si lo integrás vos, podés enviar info del usuario o de lo que quieras y usarlo como variable, incluso para hacer condicionales de respuestas.
+11:05:15 - Santiago Ruffino (@santi_0898):
+Para lo que estoy haciendo, el unico problema es que el timeout es muy corto para la api de mierda que estoy consumiendo. Porque esa api, a su vez consume otra dos APIs
+11:05:28 - Santiago Ruffino (@santi_0898):
+Entonces se hace toda una bola gigante de requests
+11:10:12 - Santiago Ruffino (@santi_0898):
+20 segundos tarda :facepalm:
+11:13:33 - Marcos Casagrande (@marcoscvp90):
+bastante lentas esas APIs igual
+11:15:46 - Santiago Ruffino (@santi_0898):
+Sep. Lo que pasa es que una de las API es interna de la empresa que nos contrata. Y se me hace que no debe estar para nada optimizada
+11:16:10 - Santiago Ruffino (@santi_0898):
+No tienen https. Tengo que mandar datos a un endpoint http
+11:21:53 - Martín Valdés de León (@mvaldesdeleon):
+fijate si es razonable que cachees las respuestas de esa api de alguna forma
+11:22:08 - Martín Valdés de León (@mvaldesdeleon):
+o si podes "crawlearla"
+11:22:44 - Marcos Casagrande (@marcoscvp90):
+Claro, si no depende 100% de la respuesta de Dialogflow, onda, cotización del dólar ponele.
+11:23:07 - Santiago Ruffino (@santi_0898):
+Lo dudo, porque son consultas de estados crediticios de usuarios. Y deberia cachear cada DNI que ingresa. Jajaja
+13:46:09 - mjroson (@matiroson):
+Buenas!
+Estoy haciendo una implementacion de autenticacion por cookie. Al momento de hacer logout, en el front deberia hacer algo?
+Tengo el problema que aunque elimine las cookies de forma manual con el navegador, en las siguientes request, el front me sigue incluyendo las cookies en las requests.
+13:50:47 - Gustavo Machado (@machadogj):
+<@UJCQEPUS2> la cookie hay que limpiarla, si desde el front o el back depende como este hecha tu app. quien setea esa cookie?
+13:51:31 - mjroson (@matiroson):
+el backend
+13:52:46 - Gustavo Machado (@machadogj):
+entonces deberias limpiarla desde el backend…
+13:53:23 - Gustavo Machado (@machadogj):
+el backend es nodejs?
+13:58:06 - mjroson (@matiroson):
+no, el backend es django
+13:59:02 - mjroson (@matiroson):
+estoy limpiando la cookie desde django haciendo un request a /logout/
+y dentro de la view limpio la cookie asi:
+```
+response = logout(request)
+response.delete_cookie('user_token')
+return response
+```
+14:00:24 - Gustavo Machado (@machadogj):
+nunca use django, pero pareceria estar bien :+1:
+14:00:39 - Gustavo Machado (@machadogj):
+estas teniendo algun problema ?
+14:01:49 - mjroson (@matiroson):
+si, la cookie sigue enviandose en el front
+14:07:03 - Gustavo Machado (@machadogj):
+tenes la API y el contenido estatico bajo el mismo dominio/subdominio ?
+14:07:39 - Nico (@nicokorn96):
+hola gente  una pregunta
+14:08:33 - Nico (@nicokorn96):
+adentro de este .map tengo la propiedad phone.capabilities que es un object
+14:09:33 - Nico (@nicokorn96):
+pero yo necesito hacer en un if ahi, intente hacer if 's de una linea pero me devuelven el primer valor que machea
+14:10:01 - Nico (@nicokorn96):
+puedo separar esa propiedad y hacer las operaciones por separado ?
+14:10:07 - Nico (@nicokorn96):
+digo en una funcion ?
+14:10:10 - Nico (@nicokorn96):
+o algo asi ?
+14:10:26 - Gonzalo González Mora (@gonzalogm):
+En el map llamás una función, así que podés hacer lo que quieras
+14:10:32 - Gonzalo González Mora (@gonzalogm):
+Al final retornás el objeto y listo
+14:10:47 - Nico (@nicokorn96):
+const newData = data.map(phone =&gt; ({
+            number: phone.phoneNumber,
+            country: phone.country,
+            monthlyRentalRate: phone.monthlyRentalRate,
+            type:   hacerAlgo(phone.capabilities),
+            smsEnabled: phone.capabilities.SMS,
+
+        }));
+14:10:51 - Nico (@nicokorn96):
+a esto me refiero
+14:10:58 - Nico (@nicokorn96):
+puedo hacer esto?
+14:11:30 - Gonzalo González Mora (@gonzalogm):
+en vez de hacer `data.map(phone =&gt; ({objeto})` hacés data.map(phone =&gt; {
+calculosOLoQueSea();
+return {objetofinal}
+});
+14:12:30 - Nico (@nicokorn96):
+great gracias
+14:21:20 - Martín Aimar (@maimar):
+qué hay en phone.capabilities?
+14:23:18 - Rodrigo Ali (@rodrigojali):
+Supongo que sí podés, esa property puede ejecutar una función que retorne un valor
+14:23:26 - Rodrigo Ali (@rodrigojali):
+O sea que haga algún tipo de calculo y retorne un valor.
+14:28:58 - Julian (@jantonielli01):
+Lo que decís también lo podes hacer, <@UDJJ3FTUM> 
+14:29:18 - Nico (@nicokorn96):
+jeej ya esta igual
+14:29:20 - Nico (@nicokorn96):
+gracias
+14:29:21 - Gustavo Machado (@machadogj):
+esto se puede hacer y esta perfecto :point_up:
+14:29:39 - Nico (@nicokorn96):
+no sabia si se le podia meter una func adentro de map
+14:30:00 - Gustavo Machado (@machadogj):
+no es adentro de map, es adentro de otra funcion
+14:30:24 - Julian (@jantonielli01):
+La otra más villera es
+```const newData = data.map(phone =&gt; ({
+           number: phone.phoneNumber,
+           type: (() =&gt; { ..cuentitas mágicas con phone.capabilities... return elType; })()
+           country: phone.country})
+```
+14:30:33 - Julian (@jantonielli01):
+que a veces es útil
+14:31:06 - Julian (@jantonielli01):
+pero ya _no son idiomáticas_ las IIFEs
+14:31:49 - Gustavo Machado (@machadogj):
+`const my_mapper = phone =&gt; ({ number: phone……});`
+my_mapper es una funcion, la podes llamar:
+`const output = my_mapper(data[0]);`
+y `.map` acepta una funcion como parametro:
+`const newData = data.map(my_mapper);`
+14:32:47 - Gustavo Machado (@machadogj):
+o sea, que si, podes tranquilamente meter llamadas a otras funciones adentro de cualquier funcion
+14:35:11 - Nico (@nicokorn96):
+a eso me referia
+14:51:32 - mjroson (@matiroson):
+no, tienen diferentes dominios
+14:51:51 - mjroson (@matiroson):
+ya lo solucione. El problema era la asincronicidad de las request
+14:52:02 - mjroson (@matiroson):
+se estaban enviando otras request al mismo tiempo que la de logout
+14:52:09 - mjroson (@matiroson):
+y aunque la de logout eliminaba la cookie
+14:52:21 - mjroson (@matiroson):
+en las demas request me venia con cookie
+14:52:27 - mjroson (@matiroson):
+Muchas gracias por tu ayuda :slightly_smiling_face:
+15:34:21 - Gustavo Machado (@machadogj):
+:clap: :raised_hands: joya!
+15:36:13 - Santiago Ruffino (@santi_0898):
+Hay forma de hacer algo como `docker logs` pero ir viendo como se actualiza en tiempo real?
+15:37:25 - Alejandro Nagy (@nagy.alejandro):
+<https://docs.docker.com/engine/reference/commandline/logs/>
+15:37:35 - Alejandro Nagy (@nagy.alejandro):
+-f ?
+17:56:00 - david garcia (@manuonda):
+buenas tardes, queria realiza una consulta si conocen alguna libreria que permita drag and drop ?
+17:57:19 - Pablo Mescher (@pablomescher):
+<https://shopify.github.io/draggable/>
+17:58:41 - david garcia (@manuonda):
+muchas gracias <@U0STNELBX>
