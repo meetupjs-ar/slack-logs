@@ -1,0 +1,72 @@
+21:04:30 - Ariel Barabas (@ariel.barabas):
+exacto
+21:04:41 - Ariel Barabas (@ariel.barabas):
+son varias empresas
+21:04:48 - Ariel Barabas (@ariel.barabas):
+y tenés 5' con cada una
+23:41:15 - Diego Harari (@diehara):
+Hola Ariel, dos consultas. Son solo perfiles ssr y sr o hay oportunidades para jr tambien? Las entrevistas son tecnicas? saludos
+23:45:50 - Martin Bavio (@mbavio):
+ah es mas manija que uno
+08:41:06 - Ariel Barabas (@ariel.barabas):
+en su momento me pareció que era para todos los niveles, porque al haber al menos 10 empresas, todos buscan cosas levemente diferentes. Las entrevistas son como la 1ra entrevista para cualquier puesto, donde es para conocerte y ver a graaandes razgos si sos un perfil que les interesa. Resumen, nada técnico, tenés solo 5 minutos con cada empresa!
+10:04:59 - Diego Harari (@diehara):
+gracias! hay q llevar cv? 
+10:16:46 - Ariel Barabas (@ariel.barabas):
+para mi no fue necesario, creo que con link de linkedin/github es suficiente
+10:48:52 - Diego Harari (@diehara):
+gracias
+11:58:59 - Gonzalo González Mora (@gonzalogm):
+Che alguien sabe qué onda <http://meetup.com|meetup.com>? Quise crear un grupo y parece que ahora cobran mínimo 6usd por mes hasta 50 miembros?
+12:21:02 - Pedro (@pedro461):
+me parece qeu ese “js” en la url esta de más no?
+13:02:00 - Gonzalo González Mora (@gonzalogm):
+Sep, perdón, <http://meetup.com|meetup.com> jaj
+13:18:42 - Martín Valdés de León (@mvaldesdeleon):
+Creo q siempre cobraron. Pero podias crear muchos meetups distintos sin pagar x cada uno.
+14:00:39 - a0viedo (@a0viedo):
+siempre cobraron, sí
+14:13:34 - Gonzalo González Mora (@gonzalogm):
+Ah listo :ok_hand: jaja habrá que pagáraprata
+18:39:26 - Brian Hume (@brianh20):
+ayuda!!! <#C06DX6V1R|preguntas-tecnicas>
+19:00:32 - Brian Hume (@brianh20):
+todo parece andar bien
+19:00:34 - Brian Hume (@brianh20):
+menos el load balancer
+21:04:30 - Ariel Barabas (@ariel.barabas):
+exacto
+21:04:41 - Ariel Barabas (@ariel.barabas):
+son varias empresas
+21:04:48 - Ariel Barabas (@ariel.barabas):
+y tenés 5' con cada una
+23:41:15 - Diego Harari (@diehara):
+Hola Ariel, dos consultas. Son solo perfiles ssr y sr o hay oportunidades para jr tambien? Las entrevistas son tecnicas? saludos
+23:45:50 - Martin Bavio (@mbavio):
+ah es mas manija que uno
+08:41:06 - Ariel Barabas (@ariel.barabas):
+en su momento me pareció que era para todos los niveles, porque al haber al menos 10 empresas, todos buscan cosas levemente diferentes. Las entrevistas son como la 1ra entrevista para cualquier puesto, donde es para conocerte y ver a graaandes razgos si sos un perfil que les interesa. Resumen, nada técnico, tenés solo 5 minutos con cada empresa!
+10:04:59 - Diego Harari (@diehara):
+gracias! hay q llevar cv? 
+10:16:46 - Ariel Barabas (@ariel.barabas):
+para mi no fue necesario, creo que con link de linkedin/github es suficiente
+10:48:52 - Diego Harari (@diehara):
+gracias
+11:58:59 - Gonzalo González Mora (@gonzalogm):
+Che alguien sabe qué onda <http://meetup.com|meetup.com>? Quise crear un grupo y parece que ahora cobran mínimo 6usd por mes hasta 50 miembros?
+12:21:02 - Pedro (@pedro461):
+me parece qeu ese “js” en la url esta de más no?
+13:02:00 - Gonzalo González Mora (@gonzalogm):
+Sep, perdón, <http://meetup.com|meetup.com> jaj
+13:18:42 - Martín Valdés de León (@mvaldesdeleon):
+Creo q siempre cobraron. Pero podias crear muchos meetups distintos sin pagar x cada uno.
+14:00:39 - a0viedo (@a0viedo):
+siempre cobraron, sí
+14:13:34 - Gonzalo González Mora (@gonzalogm):
+Ah listo :ok_hand: jaja habrá que pagáraprata
+18:39:26 - Brian Hume (@brianh20):
+ayuda!!! <#C06DX6V1R|preguntas-tecnicas>
+19:00:32 - Brian Hume (@brianh20):
+todo parece andar bien
+19:00:34 - Brian Hume (@brianh20):
+menos el load balancer
