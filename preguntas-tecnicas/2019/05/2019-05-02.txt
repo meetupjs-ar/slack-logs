@@ -1,0 +1,519 @@
+22:28:09 - Juan Scolari (@juanscolari):
+pregunta boluda, le estas pegando al load balancer desde postman <@U5SA8HM7W>?
+22:52:41 - Brian Hume (@brianh20):
+Si. Pero si lo pongo en el chrome me da igual... A menos de que fuerce https (o saque la validación en postman) y ahí si me devuelve bien 
+23:00:25 - Diego Harari (@diehara):
+Buenas! tengo un quilombo con "pool is not a function" ahora paso el codigo
+23:00:30 - Diego Harari (@diehara):
+es node+express+mysql
+23:01:26 - Diego Harari (@diehara):
+agradezco vuestra sabiduria!
+23:04:08 - Pablo Miceli (@pablomiceli24):
+proba importando así el pool `const { pool } = require('./config');`
+23:04:14 - Pablo Miceli (@pablomiceli24):
+capas mande fruta pero we
+23:04:45 - Diego Harari (@diehara):
+no, sabes lo que era
+23:05:06 - Diego Harari (@diehara):
+lo exporte como module.export = pool
+23:05:08 - Diego Harari (@diehara):
+sin {}
+23:05:21 - Pablo Miceli (@pablomiceli24):
+claro, era eso o importarlo deconstruido
+23:09:53 - Diego Harari (@diehara):
+sep
+23:38:47 - Brian Hume (@brianh20):
+Por que preguntabas <@U6U3183U6> 
+00:13:57 - Juan Scolari (@juanscolari):
+no llegue a entender que es lo que no andaba
+00:25:17 - david garcia (@manuonda):
+chan dejavu ..:open_mouth:..
+04:28:47 - Martín Valdés de León (@mvaldesdeleon):
+la verdad no entiendo que es lo que no anda <@U5SA8HM7W>
+
+vos tenes una instancia de EC2, donde corres node en 8080 y nginx en 80. nginx hace reverse proxy a 8080.
+la instancia es publica. podes poner <http://la_ip/> y anda.
+
+dps agregaste un load balancer. configuraste el load balancer para usar esa instancia, y el load balancer la detecta y te la muestra como healthy (asumo, pq decis que ves los logs del healtcheck en pm2. si NO aparece como healthy entonces primero tenes que resolver esto).
+en el load balancer configuraste un listener en puerto 443, que termina TLS usando un certificado que le configuraste, y forwardea el trafico a la instancia en puerto 80.
+
+si ahora pones `<http://load_balancer/>` NO deberia andar. no tenes nada escuchando en puerto 80 en el load balancer.
+si pones `<https://load_balancer/>` SI deberia andar.
+04:29:23 - Martín Valdés de León (@mvaldesdeleon):
+y si en algun lado alguien te putea por los certificados, fijate si el certificado que subiste tiene el full chain.
+04:30:07 - Martín Valdés de León (@mvaldesdeleon):
+en general a amazon no le gusta que subas certificados que no tengan el full chain, salvo que el root certificate tb sea de amazon.
+04:31:12 - Martín Valdés de León (@mvaldesdeleon):
+AFAIK, "ELB Classic" no te deja hacer http/https redirects. tenes que usar un Application Load Balancer o CloudFront.
+04:31:19 - Martín Valdés de León (@mvaldesdeleon):
+o hacerlo manualmente
+04:32:09 - Martín Valdés de León (@mvaldesdeleon):
+i.e., podes agregar un 2do `server` block en tu nginx, en puerto 81, que haga un redirect a 443, y configurar el ELB para que escuche en puerto 80 y forwardee al puerto 81.
+04:35:52 - Martín Valdés de León (@mvaldesdeleon):
+y podrias hacer todo en un solo `server` block si te guias por el `x-forwarded-proto` header que el ELB configura
+
+```
+    if ($http_x_forwarded_proto = 'http'){
+        return 301 https://$host$request_uri;
+    }
+```
+04:35:57 - Martín Valdés de León (@mvaldesdeleon):
+con algo asi
+04:52:39 - nomopo (@nomopo):
+buenos días, necesito poder enviar correos desde local.. he utlizado xampp y wampp, y he configurado el sendmail para enviar correos, pero no consigo que me funcione. Alguien lo usa y me puede ayudar??? gracias
+09:09:28 - Brian Hume (@brianh20):
+Espectacular tu respuesta como siempre. Ojalá tenga tiempo de probarlo!
+10:38:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Buenos días a todos!
+Sé q no es un tema de JS puntualmente, pero acá va una consulta:
+Hablando con un amigo, me dijo q usar Windows en desarrollo es como hacerse un sanguche de mermelada de damasco con mortadela, y me recomendó que me pase a linux o mac...
+Mac la descarto pq se va al pasto muy afuera de mi presupuesto.
+Tengo una notebook lenovo bastante gauchita. Tiene 8gb de ram y un amd a12... pero tiene windows10... alguien sabe del tema como para ponerle linux?
+10:39:32 - Brian Hume (@brianh20):
+seguramente no tiene cd
+10:39:35 - Brian Hume (@brianh20):
+asique pendrive booteable
+10:40:46 - Brian Hume (@brianh20):
+la verdad no lo hago hace mucho
+10:40:48 - Brian Hume (@brianh20):
+pero debiera ser algo asi
+10:40:49 - Brian Hume (@brianh20):
+<https://www.youtube.com/watch?v=mQ7IEwrtvUg>
+10:41:41 - Leandro Echevarria (@echevarrialeandro):
+<@UGW464VJS> Si sos nuevo en Linux, con Ubuntu vas a estar como en tu casa para empezar (y para desarrollar, es todo super straight forward).
+Otra opción que podes probar si no querés pasarte digamos, es usar el linux embebido en windows 10, pero ya no sabría decirte como se hace porque no lo usé nunca :disappointed:
+10:42:04 - Aldo Sorbara (@aldo1891):
+<@U873ZQTEG> es el otro <@UGW464VJS>
+10:42:10 - Leandro Echevarria (@echevarrialeandro):
+Ups
+10:43:23 - Santiago Ruffino (@santi_0898):
+Es una gilada instalar Ubuntu
+10:43:34 - Santiago Ruffino (@santi_0898):
+Es mas, el mismo instalador te deja instalar Ubuntu junto a Win 10
+10:43:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial! Gracias! Googleando vi algo de lo que decís con virtual box
+10:43:42 - Santiago Ruffino (@santi_0898):
+Entonces no perdes Win hasta querer dar el cambio completo
+10:43:50 - Santiago Ruffino (@santi_0898):
+Haces el USB booteable en 2 patadas
+10:44:06 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo que no sé es si es lo mismo desde el punto de vista de la funcionalidad
+10:44:29 - Santiago Ruffino (@santi_0898):
+Funcionalmente, es lo mismo que instalarlo. Pero el rendimiento va a bajar una banda
+10:44:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro!
+10:44:45 - Aldo Gabriel Rojas (@aldogrojas5):
+Joya
+10:44:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahora googleo sobre eso
+10:44:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!!
+10:44:58 - Santiago Ruffino (@santi_0898):
+Primero pensa si hay algun programa de Win que NO puedas usar en Ubuntu
+10:45:01 - Leandro Echevarria (@echevarrialeandro):
+Podes probarlo en virtual box unos dias para jugar y ver qué te parece antes de instalarlo posta en tu pc
+10:45:04 - Santiago Ruffino (@santi_0898):
+Yo sufri no tener Adobe en Ubuntu
+10:45:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Ah! Eso cómo me puedo fijar?
+10:45:26 - Alejandro Nagy (@nagy.alejandro):
+si estás corto de presupuesto Ubuntu sin dudarlo. Si tenes un poquito más de budget, yo me arme una hackintosh que va como piña. En mi caso gaste un poco más (porque soy Gamer y la uso para las 2 cosas) pero podes armar una muy buena máquina con OSx que te salga mucho menos que una Mac :stuck_out_tongue:
+10:45:33 - Alejandro Nagy (@nagy.alejandro):
+Desktop, eso sí. Laptop no probé
+10:45:56 - Santiago Ruffino (@santi_0898):
+Fijate que programas usas en Win, y buscalos para Ubuntu. O podes pasar el listado y te damos una mano. Por ejemplo, todo lo que es Adobe, no esta para Ubuntu
+10:46:21 - Santiago Ruffino (@santi_0898):
+I hate Hackintosh. Je
+22:28:09 - Juan Scolari (@juanscolari):
+pregunta boluda, le estas pegando al load balancer desde postman <@U5SA8HM7W>?
+22:52:41 - Brian Hume (@brianh20):
+Si. Pero si lo pongo en el chrome me da igual... A menos de que fuerce https (o saque la validación en postman) y ahí si me devuelve bien 
+23:00:25 - Diego Harari (@diehara):
+Buenas! tengo un quilombo con "pool is not a function" ahora paso el codigo
+23:00:30 - Diego Harari (@diehara):
+es node+express+mysql
+23:01:26 - Diego Harari (@diehara):
+agradezco vuestra sabiduria!
+23:04:08 - Pablo Miceli (@pablomiceli24):
+proba importando así el pool `const { pool } = require('./config');`
+23:04:14 - Pablo Miceli (@pablomiceli24):
+capas mande fruta pero we
+23:04:45 - Diego Harari (@diehara):
+no, sabes lo que era
+23:05:06 - Diego Harari (@diehara):
+lo exporte como module.export = pool
+23:05:08 - Diego Harari (@diehara):
+sin {}
+23:05:21 - Pablo Miceli (@pablomiceli24):
+claro, era eso o importarlo deconstruido
+23:09:53 - Diego Harari (@diehara):
+sep
+23:38:47 - Brian Hume (@brianh20):
+Por que preguntabas <@U6U3183U6> 
+00:13:57 - Juan Scolari (@juanscolari):
+no llegue a entender que es lo que no andaba
+00:25:17 - david garcia (@manuonda):
+chan dejavu ..:open_mouth:..
+04:28:47 - Martín Valdés de León (@mvaldesdeleon):
+la verdad no entiendo que es lo que no anda <@U5SA8HM7W>
+
+vos tenes una instancia de EC2, donde corres node en 8080 y nginx en 80. nginx hace reverse proxy a 8080.
+la instancia es publica. podes poner <http://la_ip/> y anda.
+
+dps agregaste un load balancer. configuraste el load balancer para usar esa instancia, y el load balancer la detecta y te la muestra como healthy (asumo, pq decis que ves los logs del healtcheck en pm2. si NO aparece como healthy entonces primero tenes que resolver esto).
+en el load balancer configuraste un listener en puerto 443, que termina TLS usando un certificado que le configuraste, y forwardea el trafico a la instancia en puerto 80.
+
+si ahora pones `<http://load_balancer/>` NO deberia andar. no tenes nada escuchando en puerto 80 en el load balancer.
+si pones `<https://load_balancer/>` SI deberia andar.
+04:29:23 - Martín Valdés de León (@mvaldesdeleon):
+y si en algun lado alguien te putea por los certificados, fijate si el certificado que subiste tiene el full chain.
+04:30:07 - Martín Valdés de León (@mvaldesdeleon):
+en general a amazon no le gusta que subas certificados que no tengan el full chain, salvo que el root certificate tb sea de amazon.
+04:31:12 - Martín Valdés de León (@mvaldesdeleon):
+AFAIK, "ELB Classic" no te deja hacer http/https redirects. tenes que usar un Application Load Balancer o CloudFront.
+04:31:19 - Martín Valdés de León (@mvaldesdeleon):
+o hacerlo manualmente
+04:32:09 - Martín Valdés de León (@mvaldesdeleon):
+i.e., podes agregar un 2do `server` block en tu nginx, en puerto 81, que haga un redirect a 443, y configurar el ELB para que escuche en puerto 80 y forwardee al puerto 81.
+04:35:52 - Martín Valdés de León (@mvaldesdeleon):
+y podrias hacer todo en un solo `server` block si te guias por el `x-forwarded-proto` header que el ELB configura
+
+```
+    if ($http_x_forwarded_proto = 'http'){
+        return 301 https://$host$request_uri;
+    }
+```
+04:35:57 - Martín Valdés de León (@mvaldesdeleon):
+con algo asi
+04:52:39 - nomopo (@nomopo):
+buenos días, necesito poder enviar correos desde local.. he utlizado xampp y wampp, y he configurado el sendmail para enviar correos, pero no consigo que me funcione. Alguien lo usa y me puede ayudar??? gracias
+09:09:28 - Brian Hume (@brianh20):
+Espectacular tu respuesta como siempre. Ojalá tenga tiempo de probarlo!
+10:38:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Buenos días a todos!
+Sé q no es un tema de JS puntualmente, pero acá va una consulta:
+Hablando con un amigo, me dijo q usar Windows en desarrollo es como hacerse un sanguche de mermelada de damasco con mortadela, y me recomendó que me pase a linux o mac...
+Mac la descarto pq se va al pasto muy afuera de mi presupuesto.
+Tengo una notebook lenovo bastante gauchita. Tiene 8gb de ram y un amd a12... pero tiene windows10... alguien sabe del tema como para ponerle linux?
+10:39:32 - Brian Hume (@brianh20):
+seguramente no tiene cd
+10:39:35 - Brian Hume (@brianh20):
+asique pendrive booteable
+10:40:46 - Brian Hume (@brianh20):
+la verdad no lo hago hace mucho
+10:40:48 - Brian Hume (@brianh20):
+pero debiera ser algo asi
+10:40:49 - Brian Hume (@brianh20):
+<https://www.youtube.com/watch?v=mQ7IEwrtvUg>
+10:41:41 - Leandro Echevarria (@echevarrialeandro):
+<@UGW464VJS> Si sos nuevo en Linux, con Ubuntu vas a estar como en tu casa para empezar (y para desarrollar, es todo super straight forward).
+Otra opción que podes probar si no querés pasarte digamos, es usar el linux embebido en windows 10, pero ya no sabría decirte como se hace porque no lo usé nunca :disappointed:
+10:42:04 - Aldo Sorbara (@aldo1891):
+<@U873ZQTEG> es el otro <@UGW464VJS>
+10:42:10 - Leandro Echevarria (@echevarrialeandro):
+Ups
+10:43:23 - Santiago Ruffino (@santi_0898):
+Es una gilada instalar Ubuntu
+10:43:34 - Santiago Ruffino (@santi_0898):
+Es mas, el mismo instalador te deja instalar Ubuntu junto a Win 10
+10:43:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial! Gracias! Googleando vi algo de lo que decís con virtual box
+10:43:42 - Santiago Ruffino (@santi_0898):
+Entonces no perdes Win hasta querer dar el cambio completo
+10:43:50 - Santiago Ruffino (@santi_0898):
+Haces el USB booteable en 2 patadas
+10:44:06 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo que no sé es si es lo mismo desde el punto de vista de la funcionalidad
+10:44:29 - Santiago Ruffino (@santi_0898):
+Funcionalmente, es lo mismo que instalarlo. Pero el rendimiento va a bajar una banda
+10:44:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro!
+10:44:45 - Aldo Gabriel Rojas (@aldogrojas5):
+Joya
+10:44:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahora googleo sobre eso
+10:44:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias!!!
+10:44:58 - Santiago Ruffino (@santi_0898):
+Primero pensa si hay algun programa de Win que NO puedas usar en Ubuntu
+10:45:01 - Leandro Echevarria (@echevarrialeandro):
+Podes probarlo en virtual box unos dias para jugar y ver qué te parece antes de instalarlo posta en tu pc
+10:45:04 - Santiago Ruffino (@santi_0898):
+Yo sufri no tener Adobe en Ubuntu
+10:45:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Ah! Eso cómo me puedo fijar?
+10:45:26 - Alejandro Nagy (@nagy.alejandro):
+si estás corto de presupuesto Ubuntu sin dudarlo. Si tenes un poquito más de budget, yo me arme una hackintosh que va como piña. En mi caso gaste un poco más (porque soy Gamer y la uso para las 2 cosas) pero podes armar una muy buena máquina con OSx que te salga mucho menos que una Mac :stuck_out_tongue:
+10:45:33 - Alejandro Nagy (@nagy.alejandro):
+Desktop, eso sí. Laptop no probé
+10:45:56 - Santiago Ruffino (@santi_0898):
+Fijate que programas usas en Win, y buscalos para Ubuntu. O podes pasar el listado y te damos una mano. Por ejemplo, todo lo que es Adobe, no esta para Ubuntu
+10:46:21 - Santiago Ruffino (@santi_0898):
+I hate Hackintosh. Je
+10:46:53 - Alejandro Nagy (@nagy.alejandro):
+:man-shrugging:
+10:47:21 - Alejandro Nagy (@nagy.alejandro):
+Armar una ahora no es lo mismo que en el 2010 ponele
+10:47:25 - Alejandro Nagy (@nagy.alejandro):
+ahora es una pavada
+10:48:57 - Santiago Ruffino (@santi_0898):
+YO di el paso directamente. La verdad, no extraño nada de Windows. Lo unico, Adobe Audition porque mi "segundo trabajo" es hacer musicas. Pero Audacity puede ser batante bueno tambien
+10:49:07 - Santiago Ruffino (@santi_0898):
+Y es una buena forma de usar Drive, en lugar de Word. Jajaja
+10:49:52 - Leandro Echevarria (@echevarrialeandro):
+Personalmente y es algo totalmente subjetivo, cada día me gusta más Linux desde que lo uso hace unos 4 años.
+Ayer justo estaba leyendo que Windows 10 maduró bastante bien para desarrollar, así que queda en vos jugar y probar hasta que te sientas cómodo. Fijate con qué stack vas a desarrollar y chusmeá ocnfiguraciones para Win 10 a ver si te andan sin hacer circos
+10:50:21 - Leandro Echevarria (@echevarrialeandro):
+<@U9KMYNJMV> Hay una distro de linux de multimedia dedicada a sonido y esas cosas, capaz te cope para pasar el rato
+10:50:59 - Leandro Echevarria (@echevarrialeandro):
+Yo para el poco ruido que hago con el bajo igual uso Amplitube 4 + interfaz usb :grimacing: . No me puose a buscar un soft equivalente para linux
+10:51:09 - Leandro Echevarria (@echevarrialeandro):
+No se si hay directamente
+10:53:53 - Aldo Gabriel Rojas (@aldogrojas5):
+Uhhh... el illustrator lo uso una banda! :sweat:. Igual supongo q debe haber algún programita q lo suplante en lo básico... mas q vectorizar imagenes y ese tipo de huevadas no hago
+10:54:42 - Santiago Ruffino (@santi_0898):
+Inkscape
+10:55:26 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahhh! Pensé q no se podía hacer eso! Es buena! Igual, primero me parece q le voy a entrar en la pc de escritorio con el ubuntu para no cagar la notebook... la otra si se muere, vale lo que su peso en chatarra :rolling_on_the_floor_laughing:
+10:57:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Gracias por la data muchachos!! Me pongo a googlear y después les cuento!
+10:57:52 - Aldo Gabriel Rojas (@aldogrojas5):
+:grinning::clap::clap:
+10:58:56 - Leandro Echevarria (@echevarrialeandro):
+Cualquier cosa avisa nomas
+11:00:26 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial! Gracias!!! Se me habían pasado por alto tus posts!!
+11:05:58 - Santiago Ruffino (@santi_0898):
+Antes hacia lo mismo, pero en la pagina de Ferrari
+11:16:11 - Santiago Ruffino (@santi_0898):
+Pregunta Python. Necesito validar que un string que llegue sea en el formato "41002718 M" (DNI + Sexo). Como puedo validarlo desde codigo?
+11:17:38 - Marcos Casagrande (@marcoscvp90):
+no sé Python, pero `/^\d+ [MF]$/`
+11:18:01 - Diego Harari (@diehara):
+una hack a todo culo no baja de 150 lucaa desktop
+11:18:11 - Diego Harari (@diehara):
+i7 ni i9
+11:18:14 - Marcos Casagrande (@marcoscvp90):
+o `/^\d{7,8} [MF]$/` (Cambiá 7,8 por la longitud del DNI)
+11:20:55 - Santiago Ruffino (@santi_0898):
+Ahhh
+11:20:56 - Santiago Ruffino (@santi_0898):
+Joya
+11:20:57 - Santiago Ruffino (@santi_0898):
+Gracias
+11:26:12 - Santiago Ruffino (@santi_0898):
+Eso seria regex?
+11:27:20 - Leandro Echevarria (@echevarrialeandro):
+Sep
+11:27:38 - Leandro Echevarria (@echevarrialeandro):
+<https://www.debuggex.com/>
+11:27:48 - Leandro Echevarria (@echevarrialeandro):
+Está buena para probar las regex esa web
+11:31:52 - Santiago Ruffino (@santi_0898):
+La estoy probando, pero no entiendo nada
+12:00:17 - Pereiro Antonio (@tonoezep):
+yo banco <https://regex101.com/>
+12:04:21 - Marcos Casagrande (@marcoscvp90):
+`^` start of strnig
+`\d` significa dígitos. 0-9
+`[MF]` un caracter M o F
+`$` end of string
+12:05:01 - Santiago Ruffino (@santi_0898):
+Sep, me vi un par de videos y probe en esa pagina. Regex101 me parecio mejor que la otra. Gracias lo mismo
+12:05:11 - Santiago Ruffino (@santi_0898):
+Y el formato que termine usando fue `x = re.search("^\d{7,8} [MF]$", txt)`
+12:05:23 - Santiago Ruffino (@santi_0898):
+Sin el `\` antes de la coma. Porque eso tira error
+12:06:09 - Marcos Casagrande (@marcoscvp90):
+Es que yo te hice una regex, language agnostic
+12:06:26 - Santiago Ruffino (@santi_0898):
+Sisi, lo tiro por si alguien lo necesita ?)
+12:06:34 - Marcos Casagrande (@marcoscvp90):
+Cada lenguaje después tiene su peculiaridad, en javascript se usa exactamente como te la dí, en otros no necesitan delimiters
+12:06:50 - Marcos Casagrande (@marcoscvp90):
+y ojo, fijate que yo puse random el 7,8, no sé exactamente cuantos digitos tiene que tener.
+12:06:58 - Marcos Casagrande (@marcoscvp90):
+Pero sería 7 u 8 numeros esa regex que tenés.
+12:07:06 - Marcos Casagrande (@marcoscvp90):
+Si puede ser de 6 a 9, poné 6,9
+12:07:06 - Santiago Ruffino (@santi_0898):
+Tiraste random, pero esta bien. Es la cantidad de numeros que puede tener un documento
+12:07:16 - Marcos Casagrande (@marcoscvp90):
+hasta random mi cerebro lo sabía jaja
+12:11:16 - Santiago Ruffino (@santi_0898):
+Ya si alguien tiene un DNI de 6 digitos, me voy a la mierda
+12:12:15 - Marcos Casagrande (@marcoscvp90):
+Los viejos quizas
+12:12:35 - Marcos Casagrande (@marcoscvp90):
+Manda 6,8 por las dudas?
+12:12:51 - Santiago Ruffino (@santi_0898):
+Sin ofender a nadie, puede estar vivo alguien con un DNI de menos de 1 millon?
+12:12:59 - Marcos Casagrande (@marcoscvp90):
+Pero no, calculo que arranca por 1 millón
+12:13:06 - Marcos Casagrande (@marcoscvp90):
+Posta, sería fraude electoral
+12:13:21 - Marcos Casagrande (@marcoscvp90):
+Los muertos registrandose
+12:13:28 - Santiago Ruffino (@santi_0898):
+Pense lo mismo. Si alguien pone un DNI de 6 digitos, es porque esta usando otro DNI definitivamente. Jajaja
+12:13:50 - Santiago Ruffino (@santi_0898):
+Podria entrar al tema de developers del sistema electoral electronico. Y con ese regex implemento medidas de seguridad avazadas
+12:19:58 - Leandro Echevarria (@echevarrialeandro):
+#noalvotoelectronico :stuck_out_tongue:
+12:20:39 - Leandro Echevarria (@echevarrialeandro):
+Bajo absolutamente ninguna circunstancia
+13:06:35 - Santiago Ruffino (@santi_0898):
+Alguien tiene Acer A515? Tengo problemas con los drivers del trackpad. Funciona, pero ponele, cuando estoy escribiendo, me gusta que "deshabilite" el trackpad para evitar toques accidentales. Aclaro que estoy usando Ubuntu 16
+13:23:14 - Leandro Echevarria (@echevarrialeandro):
+Mongo/Mongoose:
+Consulta general, a ver si hay un camino que me provea mongo para hacer algo. De la db me traigo una serie de documentos y a cada uno quisiera agregarle una key más que es el resultado de procesar cosas de ese documento en alguna función aparte mía.
+Sería algo como:
+```
+{
+  doc: {
+    key: value,
+    key2: value2,
+    extraKey: callToMyFunction(param = este documento)
+  }
+}
+```
+Algo como eso sería la idea. Esto es simplemente un "capricho" de recibir el resultado de la consulta ya listo como lo quiero, en lugar de pedir a la db la data e iterar por cada registro para hacer el proceso de la info que quiero.
+13:24:40 - Gonzalo González Mora (@gonzalogm):
+Virtuals tal vez?
+13:24:40 - Gonzalo González Mora (@gonzalogm):
+<https://mongoosejs.com/docs/guide.html#virtuals>
+13:30:13 - Leandro Echevarria (@echevarrialeandro):
+Es verdad, buena idea! :smile:
+13:32:11 - Leandro Echevarria (@echevarrialeandro):
+Ya estaba pensando aggregations raras en mi cabeza :facepalm:. Me aclaraste el camino :stuck_out_tongue:
+13:33:38 - Gonzalo González Mora (@gonzalogm):
+jajaja de una, uno siempre se la re complica y a veces es una pavada jaj me ha pasado mucho :joy:
+13:52:52 - Luis Alvarez (@luistensai):
+necesito hacer un bash script con una consulta en mongodb, es posible meter en una env var el output del mismo?
+en realidad son 2 queries y una depende de la otra, por eso necesito hacer esto
+13:54:52 - Luis Alvarez (@luistensai):
+de la primera consulta necesito sacar un json `["id1", "id2", "id3"]`, que luego uso en la segunda consulta
+13:55:05 - Luis Alvarez (@luistensai):
+y me gustaría meter este json en la 2da
+13:55:08 - Luis Alvarez (@luistensai):
+no sé si se entiende
+14:04:30 - Pablo Miceli (@pablomiceli24):
+un `| xargs` quizas?
+14:10:23 - Luis Alvarez (@luistensai):
+por lo visto tiene un `--eval`
+14:10:31 - Luis Alvarez (@luistensai):
+logré conseguir lo que quería
+14:10:44 - Luis Alvarez (@luistensai):
+me falta sacar la demás basura que imprime
+14:10:49 - Luis Alvarez (@luistensai):
+y meterlo en una env var
+14:11:40 - Luis Alvarez (@luistensai):
+tira algo como
+```
+MongoDB shell version v3.6.5
+connecting to: <mongodb://host:52234/dbName>
+MongoDB server version: 3.0.15
+WARNING: shell and server versions do not match
+["oL32JEnsPHdwkfeFi","foCh57FKMumZg9Qs4","iWyjBsQG4y4FQcFGw","X7ioei4gTKeMaMyKn","Aesgwgb6PFjynzzNi","ua7h3EqGDLMQnmxmL","uN3gGKFZRgcotn7M9","Xa7LvSkMTnmR6476Y"]
+```
+14:11:50 - Luis Alvarez (@luistensai):
+tengo que agarrar la última línea y meterla en un env var ahora :stuck_out_tongue:
+14:58:28 - Gustavo Martín Herrera (@martinherrera.g96):
+Hola! Buen dia una pregunta, tengo una query donde trae varia informacion de 4 tablas.... me dijeron que tardaba, y me propusieron que antes de hacer la query, que filtre por servicios, y de acuerdo a lo que deseen, se realize la query... mi duda.... tardaria mas, menos o igual a la anterior? la anterior query trae todo los registros que cumplan una condicion
+15:02:06 - Gustavo Martín Herrera (@martinherrera.g96):
+Esa es la original query.... me dijeron que antes de hacer la quey que pregunte de que servicio ("f.servicios_facturados") y periodo ("f.periodo") quieren que traiga y luego ejecute la query.... mi duda es si tardaria mas, menos o igual
+15:24:39 - Ari Sanguinetti (@arielsanguinetti):
+fijate de correr los queries con EXPLAIN adelante para ver si consulta la misma cantidad de registros, dependiendo el query puede usar determinados indices que afecten la performance...
+15:42:42 - Ezequiel Alvarez (@welcometothechango):
+che soy yo o la unica manera de cancelar una request de `axios` es con esa gilada del CancelToken?
+15:44:05 - Brian Hume (@brianh20):
+interceptors?
+15:46:25 - Nicolás Orchow (@nicoorchow):
+Al final no lo usé, pero yo había visto este: <https://www.npmjs.com/package/axios-cancel>
+15:49:25 - Ezequiel Alvarez (@welcometothechango):
+se eso ahora lo incorporaron en axios core
+15:49:31 - Ezequiel Alvarez (@welcometothechango):
+es bastante garompa (?)
+15:49:41 - Ezequiel Alvarez (@welcometothechango):
+_I'm listening_
+16:08:41 - Dayan Ruiz (@dayanr):
+```
+import axios from 'axios';
+
+// Add a request interceptor 
+var axiosInstance = axios.create();
+var apiBaseUrl = "<http://miurl.com|miurl.com>"
+
+axiosInstance.interceptors.request.use(function (config) {
+  // Do something before request is sent 
+  //If the header does not contain the token and the url not public, redirect to login  
+  var accessToken = localStorage.getItem('accessToken');
+
+  config.url = apiBaseUrl + config.url;
+
+  //if token is found add it to the header
+  if (accessToken) {
+    if (config.method !== 'OPTIONS' &amp;&amp; !config.url.includes("login") &amp;&amp; !config.url.includes("register")) {
+          config.headers.authorization = 'Bearer ' + accessToken;
+          return config;
+    }
+    else{
+      window.location.href = "/home";
+    }
+  }
+  else {
+    // el usuario no esta logueado, no tiene el token en el local storage
+  }
+  
+}, function (error) {
+   // Do something with request error 
+  //  return promise.reject(error);
+  window.location.href = "/login";
+});
+
+export default axiosInstance;
+```
+16:08:45 - Dayan Ruiz (@dayanr):
+algo asi
+16:09:06 - Dayan Ruiz (@dayanr):
+<@UDPN7GXRC>
+16:35:23 - Ezequiel Alvarez (@welcometothechango):
+ahhh se pero la API de cancel es mas idiomatica, esto es mas general
+16:35:44 - Ezequiel Alvarez (@welcometothechango):
+les cuento como quedó pq me encantó
+16:39:21 - Ezequiel Alvarez (@welcometothechango):
+```
+endpoint(url, params) {
+  const CancelToken = axios.CancelToken;
+  const source = CancelToken.source();
+
+  const promise = axios.get(url, {
+    cancelToken: source.token,
+    ...params
+  });
+  promise.cancel = source.cancel;
+  return promise;
+}
+```
+16:39:39 - Ezequiel Alvarez (@welcometothechango):
+entonces de afuera podes hacer `promise.cancel()` como deberia ser :joy:
+16:44:24 - Dayan Ruiz (@dayanr):
+oh, understand
+16:49:35 - Martín Valdés de León (@mvaldesdeleon):
+El tema ahi es que esa propiedad nueva la vas a perder al primer `then/catch` que hagas, no?
+17:49:16 - Julian (@jantonielli01):
+siempre podes overridear esos metodos
+17:49:41 - Julian (@jantonielli01):
+y así el codigo se hizo una verga
+18:09:57 - Ezequiel Alvarez (@welcometothechango):
+ohhh es verdad :scream:  jajaja encima cuando mi compañero la hizo lo 1ero 1 le dije fue "seguro falla pq monkeypatching en algo que ni te imaginas"
+18:42:44 - Martín Valdés de León (@mvaldesdeleon):
+El que nunca modifico el prototype de un objeto nativo que tire la primer piedra.
+18:44:25 - Silvio Messina (@smessina):
+¿vale tirar la piedra y esconder la mano? :troll:
+18:54:14 - Gonza Gluzman (@gonza):
+Para polyfills y en proyectos propios no lo veo mal. Sobre todo cuando no tenías tantas herramientas de pipeline
+19:40:59 - Juan Scolari (@juanscolari):
+Yo lo queria matar a uno que una vez modifico el prototype de `String` en un proyecto grande
+19:42:51 - Juan Scolari (@juanscolari):
+Y claro, el metodo que estaba usando en mi parte del codigo hacia cualquiera y yo como un boludo leyendo la documentacion mil veces a ver por que no hacia lo que tenia que hacer
