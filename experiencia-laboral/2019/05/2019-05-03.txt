@@ -1,0 +1,574 @@
+16:23:32 - Marcos Casagrande (@marcoscvp90):
+Alguno sabe los salarios medios de un PM acá en Argentina?
+
+junior, semi y senior (si es que los valoran así a los PMs).
+16:27:25 - Santiago Ruffino (@santi_0898):
+Varia MUCHO de provincia a provincia
+16:27:46 - Santiago Ruffino (@santi_0898):
+Un Jr en cordoba, creo que anda entre los 25-30k
+16:28:51 - Federico A. Sawady O'Connor (@sawady.faso):
+se, tenía en mente ese mismo número
+16:29:12 - Federico A. Sawady O'Connor (@sawady.faso):
+yo no se chamuya el sueldo siendo PM
+16:29:21 - Federico A. Sawady O'Connor (@sawady.faso):
+como dev se me hace más fácil pensarlo
+16:30:10 - Santiago Ruffino (@santi_0898):
+Pero ponele, en Globant, un QA Trainee, esta ganando 24k
+16:33:17 - Federico A. Sawady O'Connor (@sawady.faso):
+o sea que yo como profesor gano menos que un QA Trainee
+16:33:18 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja
+16:33:26 - Federico A. Sawady O'Connor (@sawady.faso):
+malisimo
+16:34:01 - Juan Scolari (@juanscolari):
+no enseñes, si menos gente sabe mas trabajo para nosotros
+16:34:28 - Heber (@heber.acostalipera):
+enseña! si mas gente sabe mas gente recomienda trabajos
+16:35:27 - Santiago Ruffino (@santi_0898):
+Yo como unico dev en la empresa, cobro menos que un QA trainee
+16:35:57 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja naaa, hay trabajo para todos, y mejor enseñar para que no te toque un simio como compañero
+16:36:29 - Juan Scolari (@juanscolari):
+jajaj obvio
+16:37:51 - Juan Scolari (@juanscolari):
+ya se huele ese nuevo trabajo Santi
+16:38:23 - Juan Scolari (@juanscolari):
+por las dudas, estoy siendo ironico
+16:38:23 - Adrián Velasco (@adrivelasco1506):
+ya se huele el telegrama de renuncia
+16:38:49 - Santiago Ruffino (@santi_0898):
+No hasta tener nuevo trabajo
+16:39:02 - Rodrigo Ali (@rodrigojali):
+Un PM, o los que yo conocí, todos cobraban ~50k en mano hace 8 meses.
+16:39:06 - Rodrigo Ali (@rodrigojali):
+De ahí para arriba
+16:39:13 - Santiago Ruffino (@santi_0898):
+Pero relax, algun dia no voy a escribir aca, y es porque estoy trabajando de verdad en otro lado
+16:39:30 - Mati Dastugue (@matiasdastugue):
+120 - 170k aprox un PM
+16:39:33 - Mati Dastugue (@matiasdastugue):
+depende la empresa tambien
+16:39:39 - Lucas Accastello (@accastellolucas):
+Según CuantoGano? por lo que veo ronda entre 45k y 80k para los PMs. <https://www.cuantogano.com/sueldos/it-project-management.html>
+16:39:39 - Mati Dastugue (@matiasdastugue):
+bruto
+16:42:34 - Federico A. Sawady O'Connor (@sawady.faso):
+para mi debe ser reee dispar lo que cobran de empresa en empresa
+16:43:01 - Gonzalo González Mora (@gonzalogm):
+Creo que todo IT es así :stuck_out_tongue:
+16:43:18 - Marcos Casagrande (@marcoscvp90):
+En que empresa pagan eso?
+16:43:37 - Gonzalo González Mora (@gonzalogm):
+Tenés seniors cobrando 50K por un lado y 150K por otro jaj
+16:45:48 - Lucas Accastello (@accastellolucas):
+Si, totalmente cierto. Pero al menos en mi empresa en cba calculo deben estar cobrando 70k brutos
+16:47:48 - Mati Dastugue (@matiasdastugue):
+Medallia
+16:47:53 - Aldo Sorbara (@aldo1891):
+70k brutos un PM?, que bajon
+16:48:01 - Aldo Sorbara (@aldo1891):
+igual el costo de vida es otro
+16:49:41 - Lucas Accastello (@accastellolucas):
+Si, en cba no es tanto como en Baires pero tampoco es que es super barato. Igual es una estimación que hago yo. Hay PMs con más experiencia y deben estar arriba de eso
+16:50:32 - Aldo Sorbara (@aldo1891):
+en ML deben estar en 120 130k bruto
+16:55:23 - Lucas Accastello (@accastellolucas):
+Aparte de que me dió mucha risa la recomendación al último jaja. Esa cantidad de plata te sacan entre impuestos y comisiones cobrando eso?
+16:59:47 - Ale Miralles (@amiralles):
+De terror... lpm.
+17:00:11 - Mendo (@nicolas.mendonca):
+De 215k a 103k? que afano...
+17:00:54 - Mendo (@nicolas.mendonca):
+*cuenta offshore intensifies*
+17:01:06 - Rodrigo Ali (@rodrigojali):
+~50% de retenciones + comisiones por transferencias
+17:01:10 - Rodrigo Ali (@rodrigojali):
+Sabor
+17:01:29 - Pablo Mescher (@pablomescher):
+_pagamos impuestos como en Suiza pero tenemos servicios como en Rwanda intensifies_
+16:23:32 - Marcos Casagrande (@marcoscvp90):
+Alguno sabe los salarios medios de un PM acá en Argentina?
+
+junior, semi y senior (si es que los valoran así a los PMs).
+16:27:25 - Santiago Ruffino (@santi_0898):
+Varia MUCHO de provincia a provincia
+16:27:46 - Santiago Ruffino (@santi_0898):
+Un Jr en cordoba, creo que anda entre los 25-30k
+16:28:51 - Federico A. Sawady O'Connor (@sawady.faso):
+se, tenía en mente ese mismo número
+16:29:12 - Federico A. Sawady O'Connor (@sawady.faso):
+yo no se chamuya el sueldo siendo PM
+16:29:21 - Federico A. Sawady O'Connor (@sawady.faso):
+como dev se me hace más fácil pensarlo
+16:30:10 - Santiago Ruffino (@santi_0898):
+Pero ponele, en Globant, un QA Trainee, esta ganando 24k
+16:33:17 - Federico A. Sawady O'Connor (@sawady.faso):
+o sea que yo como profesor gano menos que un QA Trainee
+16:33:18 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja
+16:33:26 - Federico A. Sawady O'Connor (@sawady.faso):
+malisimo
+16:34:01 - Juan Scolari (@juanscolari):
+no enseñes, si menos gente sabe mas trabajo para nosotros
+16:34:28 - Heber (@heber.acostalipera):
+enseña! si mas gente sabe mas gente recomienda trabajos
+16:35:27 - Santiago Ruffino (@santi_0898):
+Yo como unico dev en la empresa, cobro menos que un QA trainee
+16:35:57 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja naaa, hay trabajo para todos, y mejor enseñar para que no te toque un simio como compañero
+16:36:29 - Juan Scolari (@juanscolari):
+jajaj obvio
+16:37:51 - Juan Scolari (@juanscolari):
+ya se huele ese nuevo trabajo Santi
+16:38:23 - Juan Scolari (@juanscolari):
+por las dudas, estoy siendo ironico
+16:38:23 - Adrián Velasco (@adrivelasco1506):
+ya se huele el telegrama de renuncia
+16:38:49 - Santiago Ruffino (@santi_0898):
+No hasta tener nuevo trabajo
+16:39:02 - Rodrigo Ali (@rodrigojali):
+Un PM, o los que yo conocí, todos cobraban ~50k en mano hace 8 meses.
+16:39:06 - Rodrigo Ali (@rodrigojali):
+De ahí para arriba
+16:39:13 - Santiago Ruffino (@santi_0898):
+Pero relax, algun dia no voy a escribir aca, y es porque estoy trabajando de verdad en otro lado
+16:39:30 - Mati Dastugue (@matiasdastugue):
+120 - 170k aprox un PM
+16:39:33 - Mati Dastugue (@matiasdastugue):
+depende la empresa tambien
+16:39:39 - Lucas Accastello (@accastellolucas):
+Según CuantoGano? por lo que veo ronda entre 45k y 80k para los PMs. <https://www.cuantogano.com/sueldos/it-project-management.html>
+16:39:39 - Mati Dastugue (@matiasdastugue):
+bruto
+16:42:34 - Federico A. Sawady O'Connor (@sawady.faso):
+para mi debe ser reee dispar lo que cobran de empresa en empresa
+16:43:01 - Gonzalo González Mora (@gonzalogm):
+Creo que todo IT es así :stuck_out_tongue:
+16:43:18 - Marcos Casagrande (@marcoscvp90):
+En que empresa pagan eso?
+16:43:37 - Gonzalo González Mora (@gonzalogm):
+Tenés seniors cobrando 50K por un lado y 150K por otro jaj
+16:45:48 - Lucas Accastello (@accastellolucas):
+Si, totalmente cierto. Pero al menos en mi empresa en cba calculo deben estar cobrando 70k brutos
+16:47:48 - Mati Dastugue (@matiasdastugue):
+Medallia
+16:47:53 - Aldo Sorbara (@aldo1891):
+70k brutos un PM?, que bajon
+16:48:01 - Aldo Sorbara (@aldo1891):
+igual el costo de vida es otro
+16:49:41 - Lucas Accastello (@accastellolucas):
+Si, en cba no es tanto como en Baires pero tampoco es que es super barato. Igual es una estimación que hago yo. Hay PMs con más experiencia y deben estar arriba de eso
+16:50:32 - Aldo Sorbara (@aldo1891):
+en ML deben estar en 120 130k bruto
+16:55:23 - Lucas Accastello (@accastellolucas):
+Aparte de que me dió mucha risa la recomendación al último jaja. Esa cantidad de plata te sacan entre impuestos y comisiones cobrando eso?
+16:59:47 - Ale Miralles (@amiralles):
+De terror... lpm.
+17:00:11 - Mendo (@nicolas.mendonca):
+De 215k a 103k? que afano...
+17:00:54 - Mendo (@nicolas.mendonca):
+*cuenta offshore intensifies*
+17:01:06 - Rodrigo Ali (@rodrigojali):
+~50% de retenciones + comisiones por transferencias
+17:01:10 - Rodrigo Ali (@rodrigojali):
+Sabor
+17:01:29 - Pablo Mescher (@pablomescher):
+_pagamos impuestos como en Suiza pero tenemos servicios como en Rwanda intensifies_
+17:02:37 - Rodrigo Ali (@rodrigojali):
+Juju
+17:02:41 - Juan Scolari (@juanscolari):
+la del servicio de Rwanda te la debo jaj
+17:02:50 - Diego Harari (@diehara):
+no vieron la nota de infobae?
+17:03:07 - Diego Harari (@diehara):
+hicieron un comparativo de la misma compra, obviamente con productos mucho mas chotos acá en jumbo, disco
+17:03:11 - Diego Harari (@diehara):
+y un supermercado de manchester
+17:03:18 - Diego Harari (@diehara):
+daba 300% mas caro en argentina
+17:03:20 - Diego Harari (@diehara):
+todo en pesos
+17:03:34 - Diego Harari (@diehara):
+por ejemplo pack de hongos 90 pe
+17:03:39 - Diego Harari (@diehara):
+alla 0.3 pounds
+17:04:45 - Leandro Echevarria (@echevarrialeandro):
+KE
+17:05:30 - Gonzalo González Mora (@gonzalogm):
+Es mucho lo que te afanan, pero tal vez necesita otro contador, por lo que hablaron acá depende mucho de eso, y que anda alrededor del 30%
+17:05:37 - Gonza Gluzman (@gonza):
+Bueno, para esas cosas están los índices tipo la canasta básica
+17:06:12 - Aldo Sorbara (@aldo1891):
+y ML no es de las empresas que mejor pagan
+17:06:25 - Diego Harari (@diehara):
+bueno esos indices daban peor!
+17:06:26 - Diego Harari (@diehara):
+jaja
+17:06:28 - Gonzalo González Mora (@gonzalogm):
+Yo estoy viendo si pego un laburo por ese monto y la verdad que como no sé si quiero seguir en Argentina creo que la voy a dejar afuera a la plata mientras jaja
+17:06:34 - Diego Harari (@diehara):
+el sueldo minino alla eran 1500 dolares
+17:06:37 - Diego Harari (@diehara):
+y en arg no se
+17:06:40 - Diego Harari (@diehara):
+llega a 400?
+17:07:02 - Adrián Velasco (@adrivelasco1506):
+pero la compra contra suiza?
+17:07:19 - Diego Harari (@diehara):
+<@UDJJ1RZT5>  no se si te rinden mas 130 mil pesos en argentina
+17:07:25 - Diego Harari (@diehara):
+o 3 mil dólares en europa
+17:07:32 - Diego Harari (@diehara):
+me la jugaria que rinden mas alla
+17:07:36 - Gonzalo González Mora (@gonzalogm):
+Sí, por eso
+17:07:38 - Diego Harari (@diehara):
+no contra londres
+17:07:39 - Gonzalo González Mora (@gonzalogm):
+Y la calidad de vida
+17:07:43 - Diego Harari (@diehara):
+si
+17:07:46 - Diego Harari (@diehara):
+eso ni hablar
+17:07:50 - Gonzalo González Mora (@gonzalogm):
+inseguridad, estabilidad, etc.
+17:07:55 - Diego Harari (@diehara):
+podes renovar equipo seguridad etc
+17:08:15 - Gonzalo González Mora (@gonzalogm):
+Sep, es un garrón la verdad, pq con un sueldo así acá tenés un RE buen pasar, pero todo lo otro sigue estando
+17:08:19 - Diego Harari (@diehara):
+pero bueno, esos lugares existen gracias a países como los nuestros
+17:08:46 - Diego Harari (@diehara):
+así como existe el pobre para que exista el rico es lo mismo en los continentes, bueno nos re fuimos de tema jaja
+17:08:52 - Martín Aimar (@maimar):
+frases de iorio
+17:10:01 - Diego Harari (@diehara):
+jaja
+17:10:03 - Diego Harari (@diehara):
+se vos amigo
+17:10:21 - Adrián Velasco (@adrivelasco1506):
+en realidad el tema terminó como terminan todos los temas de conversación
+17:10:28 - Adrián Velasco (@adrivelasco1506):
+a la conclusión de que hay que irse de este país
+17:10:33 - Diego Harari (@diehara):
+jajaj
+17:10:38 - Juan Scolari (@juanscolari):
+en suiza con 3000 dolares compras tres leches y dos yogures
+17:10:42 - Martín Aimar (@maimar):
+para quién es bueno este país?
+17:10:44 - Diego Harari (@diehara):
+y cuando laboras remoto(no es mi caso aun)
+17:10:50 - Diego Harari (@diehara):
+te planteas mil cosas
+17:11:05 - Diego Harari (@diehara):
+tenes que elegir tu lugar mucho mas porque si vas a una oficina tu laburo fisicamente esta ahi
+17:11:07 - Diego Harari (@diehara):
+en ese lugar
+17:11:19 - Diego Harari (@diehara):
+ayer vi unos barbilla a 350 pesos
+17:11:20 - Diego Harari (@diehara):
+jajaja
+17:11:22 - Diego Harari (@diehara):
+alguien compra eso?
+17:11:26 - Diego Harari (@diehara):
+barillia
+17:11:30 - Pablo Mescher (@pablomescher):
+este pais es bueno para los que viven del estado
+17:11:32 - Diego Harari (@diehara):
+0.4 euros en italia
+17:11:33 - Diego Harari (@diehara):
+claro
+17:11:34 - Juan Scolari (@juanscolari):
+que es eso?
+17:11:36 - Diego Harari (@diehara):
+para los politicos
+17:11:46 - Diego Harari (@diehara):
+una pasta italiana que en Italia la comen los pobres de Nápoles jajaja
+17:11:55 - Diego Harari (@diehara):
+aca solo la gente de nordelta
+17:12:01 - Juan Scolari (@juanscolari):
+como el sushi
+17:12:08 - Nico Accetta (@nicolas.accetta):
+shushi
+17:12:15 - Diego Harari (@diehara):
+un diputado pensa que cobra EN BLANCO
+17:12:16 - Diego Harari (@diehara):
+300 lucas
+17:12:23 - Diego Harari (@diehara):
+eso para las expensas
+17:12:31 - Diego Harari (@diehara):
+despues todos los viri viri
+17:12:47 - Juan Scolari (@juanscolari):
+esta bien que un diputado cobre bien, lo que estan mal son los diputados que tenemos
+17:13:31 - Diego Harari (@diehara):
+mmm no se
+17:13:34 - Diego Harari (@diehara):
+es un laburo
+17:13:44 - Diego Harari (@diehara):
+porque tendrían que cobrar 40 veces el sueldo mínimo?
+17:13:59 - Diego Harari (@diehara):
+no debe haber uno que use la salud/educacion publica
+17:14:08 - Diego Harari (@diehara):
+si los obligas a eso tendríamos harvard
+17:14:17 - Pablo Mescher (@pablomescher):
+el tema con ser diputado es que dependés de que te voten
+17:14:26 - Pablo Mescher (@pablomescher):
+y tenes laburo garantizado por 4 años nomás en teoría
+17:14:45 - Pablo Mescher (@pablomescher):
+entonces está bueno que para tentar a que gente idónea deje su laburo en el ambito privado les paguen buenos sueldos
+17:15:00 - Pablo Mescher (@pablomescher):
+el problema son todas las demás trabas que hay para que la gente _de bien_ se meta en política
+17:15:06 - Pablo Mescher (@pablomescher):
+y terminamos con esto energúmenos
+17:15:14 - Diego Harari (@diehara):
+supuestamente es un servicio que das a tu pais
+17:15:24 - Diego Harari (@diehara):
+te metes porque te queres comprometer
+17:15:27 - Diego Harari (@diehara):
+no por la guitarra
+17:15:34 - Diego Harari (@diehara):
+4 anios
+17:15:38 - Diego Harari (@diehara):
+una vez que estas ahi
+17:15:43 - Diego Harari (@diehara):
+siempre siguen revoloteando
+17:15:49 - Federico A. Sawady O'Connor (@sawady.faso):
+mmm, yo no estoy muy a favor de cobrar poco porque es un trabajo de "vocación"
+17:15:52 - Pablo Mescher (@pablomescher):
+suena bien en teoria, en la practica necesitás como mínimo cobrar lo mismo que cobrarías afuera
+17:15:58 - Pablo Mescher (@pablomescher):
+pero encima perdiste 4 años de experiencia
+17:16:10 - Diego Harari (@diehara):
+piensas que arenguen por ejemplo
+17:16:12 - Pablo Mescher (@pablomescher):
+si eras programador/abogado/etc cuando salis te quedaste 4 años atrasado
+17:16:15 - Diego Harari (@diehara):
+cobraba mas en el estado
+17:16:18 - Diego Harari (@diehara):
+que como CEO de shell
+17:16:19 - Diego Harari (@diehara):
+?
+17:16:55 - Pablo Mescher (@pablomescher):
+no lo pensemos en abstracto porque es muy dificil
+17:16:57 - Diego Harari (@diehara):
+la nafta hace 4 años estaba 15 mangos
+17:17:01 - Diego Harari (@diehara):
+no. , obvio
+17:17:05 - Diego Harari (@diehara):
+igual no defiendo a nadie
+17:17:07 - Pablo Mescher (@pablomescher):
+que necesitarías _vos_ para dejar de hacer lo que haces para meterte en política?
+17:17:09 - Diego Harari (@diehara):
+a ninnguo
+17:17:26 - Diego Harari (@diehara):
+no se
+17:17:28 - Diego Harari (@diehara):
+500 Lucas? jjajaja
+17:17:34 - Pablo Mescher (@pablomescher):
+ahi está
+17:17:36 - Diego Harari (@diehara):
+no lo veo porque no me interesa
+17:17:41 - Diego Harari (@diehara):
+yo que se
+17:17:46 - Diego Harari (@diehara):
+pero en mi vida me podría llevar un peso
+17:17:48 - Pablo Mescher (@pablomescher):
+si queremos que gente idónea se interese, tenemos que tentarlos con algo
+17:18:01 - Diego Harari (@diehara):
+entonces no se si podría entrar
+17:18:06 - Diego Harari (@diehara):
+llega un momento que transas o transas
+17:19:11 - Pablo Mescher (@pablomescher):
+el caso de aranguren es un buen ejemplo
+17:19:11 - Juan Scolari (@juanscolari):
+igual tampoco es A + B = C
+17:19:14 - Pablo Mescher (@pablomescher):
+el tipo era CEO de shell
+17:19:16 - Pablo Mescher (@pablomescher):
+ahora que hace?
+17:19:21 - Pablo Mescher (@pablomescher):
+se cagó la carrera
+17:19:25 - Pablo Mescher (@pablomescher):
+por meterse en política
+17:19:27 - Gonza Espeche (@espeche.g):
+Playero de Shell
+17:19:39 - Juan Scolari (@juanscolari):
+hay que lidiar con la corrupcion, los intereses de los otros partidos, la opinion publica, la opinion mediatica
+17:20:37 - Gonza Espeche (@espeche.g):
+Que triste esto hermano, que desmotivante 
+17:20:43 - Martín Aimar (@maimar):
+ni en pedo se cagó la carrera
+17:21:38 - Hernan Rajchert (@sherman):
+No tiene linkedin? 
+17:22:16 - Juan Scolari (@juanscolari):
+No vieron el LinkedIn de Massa?
+17:22:25 - Leandro Echevarria (@echevarrialeandro):
+Los funcionarios públicos laburan por y para el pueblo, ese debería ser su único objetivo. Pero bueno, ya ven como estamos hace d;ecadas
+17:22:43 - Damian Diaz (@damianmdst):
+deberia ser como la presidencia de los clubes de futbol ad honorem (?
+17:22:54 - Damian Diaz (@damianmdst):
+aunque lucren por atras, no sean tan obvios
+17:23:43 - Leandro Echevarria (@echevarrialeandro):
+Que se yo, estoy muy resignado y cada vez que pienso sobre el tema termino con bronca solo como loco malo. Hay tantas generaciones de corrupción que vienen desde hace décadas que no lo sacás más.
+17:23:53 - Juan Scolari (@juanscolari):
+cada uno puede tener sus propias aspiraciones de para que labure
+17:24:06 - Gonzalo González Mora (@gonzalogm):
+Sí, la verdad es una cagada
+17:24:16 - Gonzalo González Mora (@gonzalogm):
+Y hasta te da bronca pq uno mismo tmb es igual
+17:24:29 - Gonzalo González Mora (@gonzalogm):
+Desde el punto que nos ponemos a ver si no declaramos guita de un laburo remoto estamos ne la misma pero a otra escala
+17:24:45 - Leandro Echevarria (@echevarrialeandro):
+Si lo declarás se lo comen los hdp de turno
+17:24:48 - Leandro Echevarria (@echevarrialeandro):
+Es una cadena
+17:24:56 - Gonzalo González Mora (@gonzalogm):
+Sí, obvio, es lo que pienso
+17:25:04 - Gonzalo González Mora (@gonzalogm):
+Pero no deja de ser una mierda las dos cosas jaja
+17:25:07 - Ezequiel Leites (@leites25):
+Si, pero a vos te agarran evadiendo 200 dolares por mes y te matan para cobrartelos
+17:25:18 - Ezequiel Leites (@leites25):
+A ellos los agarran con miles y nada
+17:25:23 - Gonzalo González Mora (@gonzalogm):
+Sí, obvio
+17:25:29 - Juan Scolari (@juanscolari):
+seria un tema de la justicia entonces
+17:25:31 - Gonzalo González Mora (@gonzalogm):
+En este país o tenés que afanar en serio como para poder repartir, o la comés
+17:25:49 - Juan Scolari (@juanscolari):
+o del ejecutivo
+17:26:15 - Leandro Echevarria (@echevarrialeandro):
+Ya me calenté de nuevo con la mierda de país que vivimos, Me voy a dormir una siesta :sweat_smile:
+17:26:20 - Juan Scolari (@juanscolari):
+jajajaj
+17:26:21 - Gonzalo González Mora (@gonzalogm):
+jajj
+17:26:26 - Juan Scolari (@juanscolari):
+send gatitos
+17:26:31 - Gonza Espeche (@espeche.g):
+Jajajaj a enfriarse un poco 
+17:26:37 - Juan Scolari (@juanscolari):
+/gif gatitos
+17:26:45 - Leandro Echevarria (@echevarrialeandro):
+UN PERSAAAA
+17:26:58 - Hernan Rajchert (@sherman):
+Me parece irreal pedir eso, si lo hicieses los únicos que te lo tomarian son las personas que saben que el dinero viene por atras
+17:27:32 - Pablo Mescher (@pablomescher):
+:point_up: this
+17:27:50 - Leandro Echevarria (@echevarrialeandro):
+No digo que lo hagan gratis eh en caso que se haya entendido
+17:28:23 - Leandro Echevarria (@echevarrialeandro):
+Es su laburo, que cobren su sueldo como corresponde, pero tampoco la joda. 300k? really?
+17:28:38 - Juan Scolari (@juanscolari):
+si me das el ministerio de tecnologia pagame muy bien asi me motivo un poco mas en los tiempos que me falte patriotismo
+17:28:43 - Leandro Echevarria (@echevarrialeandro):
+No solo pasa por el sueldo tampoco, solo es una porcion
+17:29:06 - Pablo Mescher (@pablomescher):
+you quiero el ministerio de la felicidad
+17:29:35 - Hernan Rajchert (@sherman):
+Depende de que puesto, ser presidente de un pais deberia ser el trabajo mejor pago
+17:29:54 - Juan Scolari (@juanscolari):
+se pierde mas plata por inoperancia que por corrupcion
+17:30:07 - Hernan Rajchert (@sherman):
+Loooo que te quema estar en esa constante presion, trabajar de lunes a lunes
+17:30:33 - Hernan Rajchert (@sherman):
+Fijate como envejecen todos los presidentes despues de su mandato
+17:31:00 - Hernan Rajchert (@sherman):
+Ahora, sos concejal, abrite el monotributo :p
+17:31:32 - Juan Scolari (@juanscolari):
+la de envejecen igual es marketinera
+17:31:48 - Juan Scolari (@juanscolari):
+pero si, te quema la cabeza un cargo asi
+17:31:48 - Gonza Espeche (@espeche.g):
+Y cual sería tu primer medida Pablo?
+17:31:59 - Juan Scolari (@juanscolari):
+que todos sean felices
+17:32:02 - Gonza Espeche (@espeche.g):
+“Una pizza en cada esquina”
+17:32:44 - Pablo Mescher (@pablomescher):
+cerrar el banco central (?)
+17:33:41 - Adrián Velasco (@adrivelasco1506):
+de ugis
+17:34:15 - Pablo Mescher (@pablomescher):
+hablando mas en serio, depende de la plata que tenga
+17:34:25 - Pablo Mescher (@pablomescher):
+pero empezaría fomentando el arte callejero
+17:34:37 - Pablo Mescher (@pablomescher):
+teatro
+17:35:05 - Gonza Gluzman (@gonza):
+Salsa! :dancer::man_dancing:
+17:35:25 - Pablo Mescher (@pablomescher):
+limitando los decibeles que puede emitir un colectivo
+17:36:11 - Pablo Mescher (@pablomescher):
+restituyendo los feriados puente :smile:
+17:37:35 - Pablo Mescher (@pablomescher):
+cosas mas impracticables sería hacer horarios de oficina por zonas, tipo el sur de la ciudad arranca a las 9 y termina a las 17, el centro arranca a las 10 y termina a las 18
+17:37:43 - Pablo Mescher (@pablomescher):
+para mejorar el trafico en hora pico
+17:38:52 - Pablo Mescher (@pablomescher):
+mas espacios verdes
+17:41:05 - Pablo Mescher (@pablomescher):
+lugares de almuerzo saludables y a buen precio en palermo no estaría mal tampoco jaja
+17:41:10 - Gonza Gluzman (@gonza):
+_Pinta todo de verde_
+17:45:32 - Juan Scolari (@juanscolari):
+Pablo Presidente :flag-ar:
+18:01:16 - Pablo Mescher (@pablomescher):
+pero paguenme bien eh!
+18:01:50 - Gonza Espeche (@espeche.g):
+ad honorem eh
+18:04:44 - Gonza Gluzman (@gonza):
+No vas a tener un gran sueldo, pero vas a tener facturas… los viernes
+18:05:42 - Gonza Espeche (@espeche.g):
+y frutas los lunes y jueves :call_me_hand:
+18:15:53 - Diego Harari (@diehara):
+conocían esta genialidad?
+18:15:53 - Diego Harari (@diehara):
+<http://macrigato.com.ar/macricatgo/>
+18:17:42 - Diego Harari (@diehara):
+podriamos armar una especie de anonymus
+18:17:46 - Diego Harari (@diehara):
+y prenderlos fuegos
+18:17:49 - Diego Harari (@diehara):
+los mails chats
+18:17:57 - Diego Harari (@diehara):
+a la larga todo pasa por una db
+18:23:08 - Gonza Gluzman (@gonza):
+Prender fuego a quiénes?
+18:43:59 - Diego Harari (@diehara):
+politicians
+18:44:28 - Diego Harari (@diehara):
+un amigo me conto que en Bélgica estuvieron sin gobierno o presidente por 3, 4 años
+19:08:01 - Martín Valdés de León (@mvaldesdeleon):
+yo me canse de pensar/discutir politica en argentina. me parece una perdida de energia al pedo. mejor buscarse un pais que funcione que intentar arreglar el propio.
+19:26:44 - Julian (@jantonielli01):
+Si querés gastar energía minea bitcoins
+19:33:42 - Martín Valdés de León (@mvaldesdeleon):
+y ojo, el tema no es "argentina". es la misma mierda en cualquier pais donde la gente no puede de minima ponerse de acuerdo en que clase de pais quieren, y tenes dos mitades pujando por cosas diametralmente opuestas.
+19:34:55 - Martín Valdés de León (@mvaldesdeleon):
+el cancer propio de argentina(latam) es el hiperpresidencialismo, donde todos buscan "al heroe salvador"
+19:35:13 - Martín Valdés de León (@mvaldesdeleon):
+y en contrapartida, todos los candidatos se creen el mesias que viene a refundar la nacion
+19:37:14 - Marcos Casagrande (@marcoscvp90):
+Yo creo que el cáncer es el peronismo.
+19:38:16 - Martín Valdés de León (@mvaldesdeleon):
+no tengo nada a favor del peronismo, pero mi observacion es que es un problema general de latinoamerica, y que tambien se ve en otros lados del mundo, asi que no se lo atribuiria exclusivamente a un partido politico o ideologia local
+19:48:35 - Francisco (@frajova):
+Puede que sea inocente mi pensamiento, pero… para que quieren ser politicos los politicos??
+19:49:42 - Francisco (@frajova):
+Lo veran como un currito de unos años?
+19:50:43 - Damian Diaz (@damianmdst):
+Segun un estudio tiene la curva de aumentar su patriminio mas alto casi en comparación con el de un narcotraficante, pero el riesgo de caer preso es minimo. No es joda eh hay un estudio publicado de que "trabajos" aumentan mas tu patrimonio
+19:51:42 - Francisco (@frajova):
+nefasto…
+19:57:10 - Martín Valdés de León (@mvaldesdeleon):
+Para mi la capacidad de accion de un politico _honesto_ en un sistema que ya esta podrido es muy limitada, porque ni bien subis un escalafon, ya no sos solamente vos, y ya necesitas un grupo de personas honestas. Y mientras mas subis, mas gente necesitas. Si todo el sistema ya esta puesto a fondo para operar bajo condiciones de podredumbre, tenes demasiados intereses en contra para que nada cambie, y tarde o temprano ya no conseguis suficiente gente honesta, o se te empiezan a dar vuelta.
+19:57:39 - Martín Valdés de León (@mvaldesdeleon):
+Y ni hablar si la violencia fisica es una opcion, onda Mexico.
+19:58:16 - Martín Valdés de León (@mvaldesdeleon):
+En Argentina al menos no andan matando politicos y periodistas.
+20:44:52 - Diego Harari (@diehara):
+Coincido <@U0TFEHWEA> pero ojo que Mexico esta 100 veces mejor que Argentina a nivel económico, eso es ya otra discusión , el mercado negro, ilegal, o como quieras llamarlo, es negativo para la economía de un país? Socialmente es desastroso, pero acá tenes ambas caras. Porque el movimiento de guita que debe generar el lavado en el mundo entra en tantos lugares, que ya se torno algo de todos los días. Ni hablas de los bancos en suiza.
+20:45:17 - Diego Harari (@diehara):
+Ni hablar quise poner, perdon
