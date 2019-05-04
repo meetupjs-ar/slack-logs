@@ -1,0 +1,455 @@
+05:24:40 - Rodrigo Avila (@rodrigo398):
+Que tal?. Alguien hizo el deploy de una app gatsby en heroku?, creo que estoy enquilombado en el package.json, porque cuando tiro "git push heroku master" no muestra error, y en open app solo veo un 404 del nginx
+09:43:12 - Santiago Ruffino (@santi_0898):
+Alguien trabajo con Facebook Messenger? Estoy haciendo un bot, pero tarda mucho en llegar el mensaje a mi codigo
+09:55:23 - Marcos Casagrande (@marcoscvp90):
+Defini mucho. Yo las veces que lo use tardaba 0.5-2 segundos, no más que eso
+09:59:55 - Santiago Ruffino (@santi_0898):
+No se, pueden pasar 5 o 10 segundos hasta que llego el mensaje a mi codigo
+10:00:05 - Santiago Ruffino (@santi_0898):
+Pero creo que es porque Facebook intenta mandar el mensaje varias veces
+10:00:21 - Santiago Ruffino (@santi_0898):
+Porque mando el mensaje una vez, y me reponde 3
+10:04:06 - Marcos Casagrande (@marcoscvp90):
+Le Está pegando a tu compu local usando el localtunnel o similar?
+10:05:41 - Santiago Ruffino (@santi_0898):
+Si. Estoy corriendo el endpoint local y uso Ngrok
+10:06:08 - Santiago Ruffino (@santi_0898):
+Me contesto 7 veces UN solo mensaje
+10:06:40 - Marcos Casagrande (@marcoscvp90):
+Debe ser eso seguro. A mi en producción no me tarda más de lo que dije. Local me iba un poco más lento, igual no tanto como a vos. Yo uso <http://localtunnel.me|localtunnel.me> en lugar de ngrok
+10:07:21 - Marcos Casagrande (@marcoscvp90):
+Si te manda 7 veces un mensaje, posiblemente sea un bardo de Ngrok para mi, que está haciendo algún retry.
+10:07:50 - Marcos Casagrande (@marcoscvp90):
+Porque los bots que tengo en prod jamás me duplicó mensajes
+10:08:10 - Santiago Ruffino (@santi_0898):
+Acabo de leer que si no mandas un 200 OK, Facebook insiste cada 20 segundos. Puede ser eso?
+10:26:27 - Marcos Casagrande (@marcoscvp90):
+Si, no devolvés un 200?
+10:26:54 - Marcos Casagrande (@marcoscvp90):
+La mayoría de webhooks esperan un 2xx.
+10:28:41 - Santiago Ruffino (@santi_0898):
+No lo estaba haciendo, porque recien leo que facebook espera eso
+10:28:55 - Santiago Ruffino (@santi_0898):
+De cualquier forma, no se si es eso. Porque me siguen llegando los mismos mensajes mil veces
+10:31:48 - Santiago Ruffino (@santi_0898):
+Encima tarda 21 segundos en responder la API. Facebook te da 20
+10:35:25 - Damian Diaz (@damianmdst):
+En la parte de suscripciones destildaste la de messages_echoes ?
+10:35:40 - Santiago Ruffino (@santi_0898):
+Sep, fue lo primero que revise
+10:35:43 - Santiago Ruffino (@santi_0898):
+Solo tengo activado los messages
+10:35:59 - Santiago Ruffino (@santi_0898):
+Igual, entiendo que andaba mal por las dos cosas. Ahora anda mal solo por una
+10:36:15 - Santiago Ruffino (@santi_0898):
+Antes, NO retornaba un 200, y tardaba mas de 20s en responder
+10:36:24 - Santiago Ruffino (@santi_0898):
+Ahora solo tarda mas de 20s. Entonces Facebook lo vuelve a intentar
+10:36:31 - Santiago Ruffino (@santi_0898):
+Y ahi me bombardea la API
+10:57:05 - Marcos Casagrande (@marcoscvp90):
+Igual ojo, lo estás haciendo "mal", porque en lugar de esperar esos 20 segundos para responder ok a facebook, lo que deberías hacer es:
+
+Entra el mensaje, devolvés 200, y empezás a hacer tus llamadas a las APIs esas que tardan 20 segundos, y después le pegás a la API de facebook para enviar la respuesta.
+10:57:16 - Marcos Casagrande (@marcoscvp90):
+De esa forma devolvés OK, apenas entra el webhook.
+10:58:42 - Santiago Ruffino (@santi_0898):
+Pero cuando un return, el codigo que esta despues de eso no se sigue ejecutando
+10:59:33 - Gonzalo González Mora (@gonzalogm):
+No hagas return :stuck_out_tongue:
+10:59:59 - Gonzalo González Mora (@gonzalogm):
+Sólo mandá la respuesta y seguí ejecutando
+11:01:30 - Santiago Ruffino (@santi_0898):
+Podria enviar dos mensajes? Uno apenas llegue el request que diga "Lo estamos procesando" y despues otro mensaje con la respuesta posta?
+11:01:40 - Santiago Ruffino (@santi_0898):
+Y serviria para "engañar" a Facebook?
+11:02:01 - Marcos Casagrande (@marcoscvp90):
+En node al menos, podés hacer esto:
+
+```
+
+<http://app.post|app.post>('/webhook', (req, res) =&gt; {
+     res.send('ok');
+     
+     // sigo procesando la request
+});
+
+```
+11:02:40 - Marcos Casagrande (@marcoscvp90):
+Eso depende el flujo que queiras hacer, podés envíar "estamos procesando", o directamente a los 20 segundos mandarle la respuesta.
+11:04:57 - Santiago Ruffino (@santi_0898):
+Lo que quiero es que Facebook me espere a que la API me conteste. Jajaja
+11:05:16 - Santiago Ruffino (@santi_0898):
+Voy a probar el res.send y despues mandar la respuesta de mi API
+11:05:21 - Santiago Ruffino (@santi_0898):
+Para ver si "pateo" un poco el tiempo
+11:09:51 - Gonzalo González Mora (@gonzalogm):
+Nunca hice uno de esos bots pero por lo visto te llega un JSON con la info del mensaje, y vos sólo tenés que mandar un status 200 para hacer el acknowledge de que lo recibiste bien, y dsp cuando vos quieras (dsp de procesar el mensaje) le mandarás la respuesta al user con el ID del mensaje ese (supongo, nunca hice un bot).
+11:13:38 - Marcos Casagrande (@marcoscvp90):
+Exacto, es como dice Gonzalo. Vos después al final hacés un POST a facebook con el mensaje de respuesta.
+11:14:33 - Santiago Ruffino (@santi_0898):
+Claro, creo que entiendo. Ustedes dicen que apenas me llegue la consulta mande a facebook que esta todo 200. Y despues, mande un mensaje con la respuesta de mi API
+11:15:11 - Sergio Daniel Xalambrí (@sergiodxa):
+así funciona también cuando usas webhooks en GitHub y Slack hasta donde recuerdo
+11:15:49 - Sergio Daniel Xalambrí (@sergiodxa):
+porque tu API no responde con el nuevo mensaje, si no que haces un request POST, entonces vos solo tenés que confirmarle a FB/GH/Slack "recibí el mensaje" y listo
+11:17:00 - Santiago Ruffino (@santi_0898):
+Claro. El problema es que yo para decirle a Facebook "Che, tengo un 200" tengo que hacer un return. Cuando hago el return, todo el codigo que esta abajo de ese return no se ejecuta
+11:17:16 - Sergio Daniel Xalambrí (@sergiodxa):
+por qué tenés que hacer un return?
+11:17:31 - Sergio Daniel Xalambrí (@sergiodxa):
+no podés hacer `res.send("ok")`?
+11:17:34 - Sergio Daniel Xalambrí (@sergiodxa):
+estás usando micro?
+11:18:05 - Santiago Ruffino (@santi_0898):
+Estoy usando Python + Flask
+11:18:44 - Sergio Daniel Xalambrí (@sergiodxa):
+:thinking_face:
+11:18:53 - Sergio Daniel Xalambrí (@sergiodxa):
+podrías hacer un try / finally?
+11:18:57 - Sergio Daniel Xalambrí (@sergiodxa):
+```
+try {
+  return "ok"
+} finally {
+  // tu código real acá
+}
+```
+11:19:07 - Santiago Ruffino (@santi_0898):
+Y por lo que veo, no existe un res.send. Solo podes responder usando un return
+11:19:10 - Martin Carrera (@mcarrera):
+eso te pasa por no usar node :agite:
+05:24:40 - Rodrigo Avila (@rodrigo398):
+Que tal?. Alguien hizo el deploy de una app gatsby en heroku?, creo que estoy enquilombado en el package.json, porque cuando tiro "git push heroku master" no muestra error, y en open app solo veo un 404 del nginx
+09:43:12 - Santiago Ruffino (@santi_0898):
+Alguien trabajo con Facebook Messenger? Estoy haciendo un bot, pero tarda mucho en llegar el mensaje a mi codigo
+09:55:23 - Marcos Casagrande (@marcoscvp90):
+Defini mucho. Yo las veces que lo use tardaba 0.5-2 segundos, no más que eso
+09:59:55 - Santiago Ruffino (@santi_0898):
+No se, pueden pasar 5 o 10 segundos hasta que llego el mensaje a mi codigo
+10:00:05 - Santiago Ruffino (@santi_0898):
+Pero creo que es porque Facebook intenta mandar el mensaje varias veces
+10:00:21 - Santiago Ruffino (@santi_0898):
+Porque mando el mensaje una vez, y me reponde 3
+10:04:06 - Marcos Casagrande (@marcoscvp90):
+Le Está pegando a tu compu local usando el localtunnel o similar?
+10:05:41 - Santiago Ruffino (@santi_0898):
+Si. Estoy corriendo el endpoint local y uso Ngrok
+10:06:08 - Santiago Ruffino (@santi_0898):
+Me contesto 7 veces UN solo mensaje
+10:06:40 - Marcos Casagrande (@marcoscvp90):
+Debe ser eso seguro. A mi en producción no me tarda más de lo que dije. Local me iba un poco más lento, igual no tanto como a vos. Yo uso <http://localtunnel.me|localtunnel.me> en lugar de ngrok
+10:07:21 - Marcos Casagrande (@marcoscvp90):
+Si te manda 7 veces un mensaje, posiblemente sea un bardo de Ngrok para mi, que está haciendo algún retry.
+10:07:50 - Marcos Casagrande (@marcoscvp90):
+Porque los bots que tengo en prod jamás me duplicó mensajes
+10:08:10 - Santiago Ruffino (@santi_0898):
+Acabo de leer que si no mandas un 200 OK, Facebook insiste cada 20 segundos. Puede ser eso?
+10:26:27 - Marcos Casagrande (@marcoscvp90):
+Si, no devolvés un 200?
+10:26:54 - Marcos Casagrande (@marcoscvp90):
+La mayoría de webhooks esperan un 2xx.
+10:28:41 - Santiago Ruffino (@santi_0898):
+No lo estaba haciendo, porque recien leo que facebook espera eso
+10:28:55 - Santiago Ruffino (@santi_0898):
+De cualquier forma, no se si es eso. Porque me siguen llegando los mismos mensajes mil veces
+10:31:48 - Santiago Ruffino (@santi_0898):
+Encima tarda 21 segundos en responder la API. Facebook te da 20
+10:35:25 - Damian Diaz (@damianmdst):
+En la parte de suscripciones destildaste la de messages_echoes ?
+10:35:40 - Santiago Ruffino (@santi_0898):
+Sep, fue lo primero que revise
+10:35:43 - Santiago Ruffino (@santi_0898):
+Solo tengo activado los messages
+10:35:59 - Santiago Ruffino (@santi_0898):
+Igual, entiendo que andaba mal por las dos cosas. Ahora anda mal solo por una
+10:36:15 - Santiago Ruffino (@santi_0898):
+Antes, NO retornaba un 200, y tardaba mas de 20s en responder
+10:36:24 - Santiago Ruffino (@santi_0898):
+Ahora solo tarda mas de 20s. Entonces Facebook lo vuelve a intentar
+10:36:31 - Santiago Ruffino (@santi_0898):
+Y ahi me bombardea la API
+10:57:05 - Marcos Casagrande (@marcoscvp90):
+Igual ojo, lo estás haciendo "mal", porque en lugar de esperar esos 20 segundos para responder ok a facebook, lo que deberías hacer es:
+
+Entra el mensaje, devolvés 200, y empezás a hacer tus llamadas a las APIs esas que tardan 20 segundos, y después le pegás a la API de facebook para enviar la respuesta.
+10:57:16 - Marcos Casagrande (@marcoscvp90):
+De esa forma devolvés OK, apenas entra el webhook.
+10:58:42 - Santiago Ruffino (@santi_0898):
+Pero cuando un return, el codigo que esta despues de eso no se sigue ejecutando
+10:59:33 - Gonzalo González Mora (@gonzalogm):
+No hagas return :stuck_out_tongue:
+10:59:59 - Gonzalo González Mora (@gonzalogm):
+Sólo mandá la respuesta y seguí ejecutando
+11:01:30 - Santiago Ruffino (@santi_0898):
+Podria enviar dos mensajes? Uno apenas llegue el request que diga "Lo estamos procesando" y despues otro mensaje con la respuesta posta?
+11:01:40 - Santiago Ruffino (@santi_0898):
+Y serviria para "engañar" a Facebook?
+11:02:01 - Marcos Casagrande (@marcoscvp90):
+En node al menos, podés hacer esto:
+
+```
+
+<http://app.post|app.post>('/webhook', (req, res) =&gt; {
+     res.send('ok');
+     
+     // sigo procesando la request
+});
+
+```
+11:02:40 - Marcos Casagrande (@marcoscvp90):
+Eso depende el flujo que queiras hacer, podés envíar "estamos procesando", o directamente a los 20 segundos mandarle la respuesta.
+11:04:57 - Santiago Ruffino (@santi_0898):
+Lo que quiero es que Facebook me espere a que la API me conteste. Jajaja
+11:05:16 - Santiago Ruffino (@santi_0898):
+Voy a probar el res.send y despues mandar la respuesta de mi API
+11:05:21 - Santiago Ruffino (@santi_0898):
+Para ver si "pateo" un poco el tiempo
+11:09:51 - Gonzalo González Mora (@gonzalogm):
+Nunca hice uno de esos bots pero por lo visto te llega un JSON con la info del mensaje, y vos sólo tenés que mandar un status 200 para hacer el acknowledge de que lo recibiste bien, y dsp cuando vos quieras (dsp de procesar el mensaje) le mandarás la respuesta al user con el ID del mensaje ese (supongo, nunca hice un bot).
+11:13:38 - Marcos Casagrande (@marcoscvp90):
+Exacto, es como dice Gonzalo. Vos después al final hacés un POST a facebook con el mensaje de respuesta.
+11:14:33 - Santiago Ruffino (@santi_0898):
+Claro, creo que entiendo. Ustedes dicen que apenas me llegue la consulta mande a facebook que esta todo 200. Y despues, mande un mensaje con la respuesta de mi API
+11:15:11 - Sergio Daniel Xalambrí (@sergiodxa):
+así funciona también cuando usas webhooks en GitHub y Slack hasta donde recuerdo
+11:15:49 - Sergio Daniel Xalambrí (@sergiodxa):
+porque tu API no responde con el nuevo mensaje, si no que haces un request POST, entonces vos solo tenés que confirmarle a FB/GH/Slack "recibí el mensaje" y listo
+11:17:00 - Santiago Ruffino (@santi_0898):
+Claro. El problema es que yo para decirle a Facebook "Che, tengo un 200" tengo que hacer un return. Cuando hago el return, todo el codigo que esta abajo de ese return no se ejecuta
+11:17:16 - Sergio Daniel Xalambrí (@sergiodxa):
+por qué tenés que hacer un return?
+11:17:31 - Sergio Daniel Xalambrí (@sergiodxa):
+no podés hacer `res.send("ok")`?
+11:17:34 - Sergio Daniel Xalambrí (@sergiodxa):
+estás usando micro?
+11:18:05 - Santiago Ruffino (@santi_0898):
+Estoy usando Python + Flask
+11:18:44 - Sergio Daniel Xalambrí (@sergiodxa):
+:thinking_face:
+11:18:53 - Sergio Daniel Xalambrí (@sergiodxa):
+podrías hacer un try / finally?
+11:18:57 - Sergio Daniel Xalambrí (@sergiodxa):
+```
+try {
+  return "ok"
+} finally {
+  // tu código real acá
+}
+```
+11:19:07 - Santiago Ruffino (@santi_0898):
+Y por lo que veo, no existe un res.send. Solo podes responder usando un return
+11:19:10 - Martin Carrera (@mcarrera):
+eso te pasa por no usar node :agite:
+11:19:16 - Sergio Daniel Xalambrí (@sergiodxa):
+algo así pero en python
+11:19:38 - Marcos Casagrande (@marcoscvp90):
+No sé como funciona Python + Flask, y si es "imposible" hacer eso, pero lo que podés hacer de última, es mandarlo a un background job, o guardar mensaje en la base, y tener un cron procesando mensajes encolados.
+11:19:52 - Sergio Daniel Xalambrí (@sergiodxa):
+esa también es una opción
+11:19:56 - Santiago Ruffino (@santi_0898):
+Podria usar node, el tema es que ya tengo todo practicamente hecho en python
+11:20:44 - Sergio Daniel Xalambrí (@sergiodxa):
+<https://stackoverflow.com/questions/18082683/need-to-execute-a-function-after-returning-the-response-in-flask>
+11:21:07 - Marcos Casagrande (@marcoscvp90):
+<https://stackoverflow.com/questions/17293311/flask-end-response-and-continue-processing>
+11:27:43 - Santiago Ruffino (@santi_0898):
+Ahi estoy leyendo y preguntando un poco mas
+11:27:46 - Santiago Ruffino (@santi_0898):
+Gracias!
+11:49:42 - Santiago Ruffino (@santi_0898):
+Despues su punto de vista profesional, si lo hago con Node, seria mas facil tratar con esto?
+12:06:26 - Ezequiel Alvarez (@welcometothechango):
+mi respuesta _subjetiva_ es que Python tiene Tornado para esto (async) y usaría eso antes que pasarme a Node
+12:12:44 - Santiago Ruffino (@santi_0898):
+Sabes algo de como usar async en Python?
+12:12:52 - Santiago Ruffino (@santi_0898):
+Si tenes algun link o algo que pueda ayudar, te lo agradeceria
+12:16:49 - Ezequiel Alvarez (@welcometothechango):
+python3 tiene async nativo, sino con tornado como dije <https://www.tornadoweb.org/en/stable/>
+12:17:03 - Ezequiel Alvarez (@welcometothechango):
+(o ambos claro, conviven)
+12:24:15 - Gustavo Martín Herrera (@martinherrera.g96):
+Hola gente! disculpen si mis querys les da cancer visual. Mi problema es que mi query original esta tardando demasiado y quiero hacerla mas rapida con subconsultas. El problema es que no he trabajado nunca con subconsultas, queria saber si alguien me podria dar una mano
+Esta es mi query original
+12:25:10 - Gustavo Martín Herrera (@martinherrera.g96):
+Esta es la que trato de hacer con subconsultas anidadas, nose si funciona o no, o si hay otra forma de hacerla mas rapido
+13:47:45 - Nicolás Orchow (@nicoorchow):
+a priori, veo que en este query hay 2 filtros (`servicios_facturados = 4` y `periodo = 255`) que no estaban en la otra query. y ambos podrían ser puestos como WHERE/AND.
+13:50:51 - Nicolás Orchow (@nicoorchow):
+quizás eso te haga más rápida la query. y en cuanto a si es más rápido tener varias subqueries que una sola, diría que generalmente no es el caso, pero seguro podés encontrar más información sobre el motor y posibles optimizaciones en google
+14:09:12 - Gustavo Martín Herrera (@martinherrera.g96):
+Gracias!
+15:33:23 - Santiago Ruffino (@santi_0898):
+Hola! Alguien que haya trabajado con AsyncIO para Python?
+Necesito reescribir todo mi codigo usando Async
+15:33:34 - Santiago Ruffino (@santi_0898):
+En realidad, cualquier cosa sobre Async me sirve. Porque no lo use nunca
+15:38:19 - Mati Dastugue (@matiasdastugue):
+basicamente, cualquier funcion que haga algun request asincronico la definis como async
+15:38:41 - Mati Dastugue (@matiasdastugue):
+y luego , el request que es asincronico le antepones la palabra await
+15:38:50 - Mati Dastugue (@matiasdastugue):
+await te devuelve la promesa resuelta
+15:38:54 - Mati Dastugue (@matiasdastugue):
+la respuesta *
+15:39:07 - Mati Dastugue (@matiasdastugue):
+por lo que no necesitas hacer un .then
+15:39:20 - Mati Dastugue (@matiasdastugue):
+si necesitas cachear errores lo podes meter en un bloque try catch
+15:51:57 - Santiago Ruffino (@santi_0898):
+Mmm, no entendi. Creo que deberia arrancar aprendiendo que es "asincronico"
+15:52:03 - Santiago Ruffino (@santi_0898):
+Y entender en que me sirve para lo que quiero hacer
+15:54:32 - Leandro Echevarria (@echevarrialeandro):
+<@U9KMYNJMV> Te paso dos articulos sobre eso, son de js porque de python la verdad que no tengo nada, pero capaz te sirva para trabajar el concepto
+<https://blog.risingstack.com/mastering-async-await-in-nodejs/>
+<https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad>
+15:54:58 - Juan Scolari (@juanscolari):
+<https://www.aeracode.org/2018/02/19/python-async-simplified/>
+15:55:02 - Santiago Ruffino (@santi_0898):
+Gracias Lean! Todo me sirve para intentar entender el concepto
+15:55:16 - Santiago Ruffino (@santi_0898):
+Y como te digo, mas que nada me cuesta entender como lo usaria yo. O en que me ayudaria
+15:55:33 - Juan Scolari (@juanscolari):
+por que te pidieron pasarlo a async?
+15:56:32 - Esteban Yañez (@eyanez):
+tenes llamados a bases de datos, apis o lectura de disco? (esos son los escenarios mas comunes para usar async)
+15:57:31 - Juan Scolari (@juanscolari):
+ventaja que no bloqueas el thread, pero depende tu caso de uso es una ventaja o un ni
+15:57:50 - Esteban Yañez (@eyanez):
+:point_up::skin-tone-3:
+15:58:15 - Santiago Ruffino (@santi_0898):
+No me pidieron pasarlo a async
+15:59:11 - Santiago Ruffino (@santi_0898):
+El problema es este. Facebook Messenger le pega a mi API. Facebook te da 20 segundos para que le contestes con un 200. Hay UN caso de uso de mi API, donde pide otra API. Y esa API tarda 20 segundos en contestar
+15:59:40 - Santiago Ruffino (@santi_0898):
+Necesito que cuando Facebook le pega a mi API, retornarlo un 200. Y despues tirar el mensaje que me conteste la API que se demora
+16:00:15 - Santiago Ruffino (@santi_0898):
+Problema. Python y Flask, cuando haces un `return`, deja de ejecutar el codigo que le sigue
+16:00:45 - Santiago Ruffino (@santi_0898):
+Entonces, no puedo hacer un `return OK`, y despues seguir esperando la respuesta de la API.
+16:01:21 - Gonzalo González Mora (@gonzalogm):
+Te fijaste las respuestas de SO que habían tirado a ver si servían? <https://stackoverflow.com/a/51027454/2122042>
+16:02:25 - Santiago Ruffino (@santi_0898):
+Si, lei varias de esas. Deberia usar `@app.after_request`, pero trabaja con el RETURN que le des antes.
+16:02:45 - Santiago Ruffino (@santi_0898):
+Yo primero tengo que retornar un 200, y despues trabajar con otros datos. Y eso es lo que no pude lograr con eso docradores
+16:04:39 - Gonzalo González Mora (@gonzalogm):
+No sé bien cómo funciona Python, pero no tenés manera de lanzar un worker o child process y procesar ahí eso? (antes de hacer el return lo lanzarías)
+16:05:04 - Esteban Yañez (@eyanez):
+iba a decir algo parecido, usar un queue tambien seria otra opcion
+16:05:16 - Gonzalo González Mora (@gonzalogm):
+Claro, también
+16:05:24 - Esteban Yañez (@eyanez):
+cuando tenes que recibir dato lo mas rapido es guardarlos y reponder, despues los procesas en otro lado
+16:05:40 - Santiago Ruffino (@santi_0898):
+Intente hacer que la funcion de "peticion" a la otra API se ejecute antes que el return, el problema es que hasta que esa funcion no termina, no avanza al return
+16:05:44 - Esteban Yañez (@eyanez):
+generalmente el tiempo que te dan de respuesta te alcanza para guardarlo, no para procesarlo
+16:06:11 - Gonzalo González Mora (@gonzalogm):
+No, claro, yo decía ponerlo en otro proceso para que no se quede esperando ese resultado
+16:06:15 - Esteban Yañez (@eyanez):
+claro, pero eso no lo hagas en ese request, lo que te manda FB, guardalo en algun lado
+16:06:17 - Santiago Ruffino (@santi_0898):
+Para usar con queue, tengo que usar otra libreria de Python
+16:06:19 - Santiago Ruffino (@santi_0898):
+O eso entendi yo
+16:06:33 - Esteban Yañez (@eyanez):
+y tene un proceso escuchando ese otro lado que realiza el proceso de la data
+16:06:47 - Esteban Yañez (@eyanez):
+si, eso puede ser, que tengas una libreria para eso
+16:07:09 - Esteban Yañez (@eyanez):
+async no te va a solucionar el problema en esta situacion
+16:07:29 - Esteban Yañez (@eyanez):
+va, al menos no me parece que sea la mejor solucion al problema
+16:07:29 - Santiago Ruffino (@santi_0898):
+Osea que estoy aprendiendo a usar async al pedo?
+16:07:52 - Santiago Ruffino (@santi_0898):
+Bah, "al pedo" nunca se aprende
+16:07:57 - Esteban Yañez (@eyanez):
+mmmm, no diria que estas aprendiendo algo al pedo
+16:08:12 - Martín Aimar (@maimar):
+en sí vivir es un poco al pedo también
+16:08:35 - Santiago Ruffino (@santi_0898):
+Nono, por eso me corregi. No estoy aprendiedo al pedo. Pero no es lo que necesito ahora
+16:09:00 - Esteban Yañez (@eyanez):
+no esta mal lo de async/await, es una buena practica cuando llamas a una api desde tu codigo para no bloquear el thread en el que estas trabajando
+16:09:09 - Esteban Yañez (@eyanez):
+dependiendo el caso de uso es una ventaja o un ni
+16:09:48 - Esteban Yañez (@eyanez):
+ahora, para lo que comentaste que queres lograr, iria por una queue, un subproceso o un worker (no tengo idea como se implementa alguno de esos en python)
+16:10:59 - Gonzalo González Mora (@gonzalogm):
+Sí, parece que es un thread, por ahi buscate por ese lado
+16:11:05 - Santiago Ruffino (@santi_0898):
+```Celery: Distributed Task Queue
+Celery is an asynchronous task queue/job queue based on distributed message passing.	It is focused on real-time operation, but supports scheduling as well.```
+16:11:14 - Gonzalo González Mora (@gonzalogm):
+pero puedo estar equivocado
+16:11:37 - Santiago Ruffino (@santi_0898):
+Esa es la libreria que me recomendaron tambien
+16:15:29 - Diego Harari (@diehara):
+javascript tambien corta con un return
+16:16:36 - Esteban Yañez (@eyanez):
+no se si una lib, google un poco y llegue a esto <https://realpython.com/intro-to-python-threading/>
+16:16:40 - Esteban Yañez (@eyanez):
+fijate si te sirve
+16:25:04 - Daniel Agustín Tradito (@datradito):
+<https://realpython.com/async-io-python/>
+16:25:24 - Daniel Agustín Tradito (@datradito):
+laaaaargoooo pero vas a sacar dsd cero async/await
+16:25:52 - Daniel Agustín Tradito (@datradito):
+y si lo agarras al concepto es trasladable a funciones asincronicas en js tambien...
+16:27:11 - Santiago Ruffino (@santi_0898):
+Estuve viendo videos de 30 minutos de AsyncIO, pero arriba dicen que posiblmente no sea la solucion
+16:28:12 - Daniel Agustín Tradito (@datradito):
+la base kmo decia el gran maestro Mostaza, es saber si el proceso que vuelve es asincronico
+16:28:44 - Daniel Agustín Tradito (@datradito):
+si no es asincronico vas a tener q leer la doc de la api q estas usando p saber q pasa...
+16:29:25 - Santiago Ruffino (@santi_0898):
+Porque me interesaria si el proceso que vuelve es o no asincronico?
+16:31:04 - Mati Dastugue (@matiasdastugue):
+Porque si es asincronico y lo esperas como sincronico te va a pinchar jaja
+16:31:35 - Santiago Ruffino (@santi_0898):
+Hasta ahora lo vengo consumiendo de forma sincrona (creo) y responde bien
+16:32:02 - Daniel Agustín Tradito (@datradito):
+la API q estas usando para el bot
+16:32:15 - Daniel Agustín Tradito (@datradito):
+en teoria tendria q ser asincronica
+16:32:36 - Mati Dastugue (@matiasdastugue):
+si haces algo con la respuesta inmediatamente despues del llamado puede que no haya vuelto y te de undefined
+16:36:05 - Daniel Agustín Tradito (@datradito):
+tenes manera de meter una llamada a consola dentro la funcion q utilizas p enviar el mensaje?
+16:36:43 - Daniel Agustín Tradito (@datradito):
+xq si la llamada a consola se ejecuta primero aunque este dentro de la funcion y todavia no volvio el mensaje/respuesta entonces es asincronico
+16:38:33 - Santiago Ruffino (@santi_0898):
+No entendi. Je
+16:42:58 - Daniel Agustín Tradito (@datradito):
+Jjaja, te respondí con lo q uso en js para examinar si es async
+16:44:26 - Daniel Agustín Tradito (@datradito):
+En Python me mataste
+17:12:47 - Diego Harari (@diehara):
+santi
+17:12:50 - Diego Harari (@diehara):
+busca en youtube
+17:12:52 - Diego Harari (@diehara):
+unos ejemplos
+17:12:59 - Diego Harari (@diehara):
+para que veas callbacks
+17:13:05 - Diego Harari (@diehara):
+donde ejecutan con node un simple archivo txt
+17:13:15 - Diego Harari (@diehara):
+y consologuean adentro de la función con callback
+17:13:17 - Diego Harari (@diehara):
+y afuera
+17:13:23 - Diego Harari (@diehara):
+ahi ves bien el asincronismo
+17:18:51 - Diego Harari (@diehara):
+var fs = require('fs');
+
+fs.readFile('TestFile.txt', function (err, data) {
+                    if (err) throw err;
+
+    console.log(data);
+});
