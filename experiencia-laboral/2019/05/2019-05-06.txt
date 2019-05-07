@@ -1,0 +1,209 @@
+08:12:18 - Maxi (@tholem98):
+Hola, 
+Queria saber si alguien habia trabajado en jp morgan, o conocido a alguien que trabaje en la parte de desarrollo de allí. Queria saber como habia sido su experiencia allí, ya que el fin de semana participé de un hackaton allí y la recruiting nos contó la "gran oportunidad" que era trabajar ahí y los "grandes beneficios" que teniamos. 
+Por lo cual me gustaria saber que tan cierto era eso y como fueron las experiencias de quienes trabajaron ahí.
+Desde ya, muchas gracias. Disculpen las molestias
+11:14:31 - Federico A. Sawady O'Connor (@sawady.faso):
+tengo un amigo que labura ahí, se lo llevaron a NY
+11:24:49 - Gonza Espeche (@espeche.g):
+no sé por que puerta meterá a la gente esa recruiter, pero desde Globant si te asignan a JPM tenes de cajón un proceso de “onboarding” que demora unos meses (3-4) antes de empezar a ser operativo. Y el laburo es en sus oficinas en microcentro, todo medio con olor a corpo si se quiere. Si te va esa onda, dale para adelante… si queres un lugar con ping pong, birra free los viernes y esas giladas, olvidate.
+11:56:14 - Damian Diaz (@damianmdst):
+Yo labure para JP Morgan via contractor de globant pero en la ofi del cliente (en Belgrano). Sinceramente a mi no me gusto mucho, tienen demasiada burocracia, te limitan muchisimo los recursos y al menos sacando la parte de python (algunas cosas) el resto es un embole, tienen procesos del paleolitico, te la pasas migrando pelotudeces viejas que tienen ellos. Lo que si, siempre se hablo es que si te contratan ellos directos pagan bastante bien, como para que no tengas que quejarte. Y el edificio en si para laburar esta bueno. Eso si, dudo que tengas Home Office, yo jamas pude tener uno.
+12:32:09 - Federico A. Sawady O'Connor (@sawady.faso):
+cero home office se, es lo que escuché
+12:32:18 - Federico A. Sawady O'Connor (@sawady.faso):
+hoy día para mi vale más eso que un toque más de plata
+12:33:25 - Martín Valdés de León (@mvaldesdeleon):
+en general todo lo que no es plata se puede traducir en plata, mediante la pregunta...
+&gt; imaginate que te ofrecen otro laburo 100% identico, salvo que no tiene ese beneficio, pero pagan mas... cuanto mas deberia pagar para que lo consideres?
+12:33:48 - Martín Valdés de León (@mvaldesdeleon):
+la respuesta es siempre un numero &gt;= a 0 y &lt; a +infinito
+12:34:33 - Gonza Gluzman (@gonza):
+* …`&lt;= a +infinito`
+12:34:36 - Martín Valdés de León (@mvaldesdeleon):
+case in point...
+&gt; no hay WFH pero te pagamos el doble que lo que cobras ahora
+12:34:42 - Martín Valdés de León (@mvaldesdeleon):
+casi siempre es una buena cota superior para empezar a reducir
+12:35:04 - Santiago Ruffino (@santi_0898):
+Solo hice Home Office 2 veces en mi vida. Entonces en este momento, capaz que prefiero laburar onsite por mas plata
+12:35:04 - Martín Valdés de León (@mvaldesdeleon):
+creo que todos sacrificariamos un beneficio por el doble de salario instantaneamente
+12:35:22 - Martín Valdés de León (@mvaldesdeleon):
+salvo quiza vacaciones
+12:35:42 - Martín Valdés de León (@mvaldesdeleon):
+ahi el precio si puede tender asintoticamente a infinito a medida que vendes mas y mas dias
+12:45:42 - Mati Dastugue (@matiasdastugue):
+Hola como estan? Alguien que trabaje o haya trabajado en Altoros? Queria saber si me podian contar que onda la empresa. Gracias!
+12:48:47 - Luis Alvarez (@luistensai):
+<@U0STNELBX>
+12:57:30 - Pablo Mescher (@pablomescher):
+Como consultora son lo mejor que hay. Buenos sueldos, proyectos y tecnologías interesantes, sueldo indexado al dólar, wfh
+12:59:07 - Mati Dastugue (@matiasdastugue):
+<@U0STNELBX> Genial. Y el ambiente de trabajo, flexibilidad, etc?
+13:00:06 - Pablo Mescher (@pablomescher):
+Yo trabajé la mayor parte del tiempo desde casa así que no te puedo decir mucho pero las veces que fui a la oficina el ambiente siempre fue bueno
+13:00:35 - Pablo Mescher (@pablomescher):
+Del lado de altoros son súper flexibles, pero te puede tocar algún cliente más hincha que otro
+13:00:48 - Matias Garat Ortiz (@matiasgaratortiz):
+Yo trabajo ahi <@UDHUE780Y>
+13:01:27 - Matias Garat Ortiz (@matiasgaratortiz):
+en la oficina de Santa Fe... tal como te dice Pablo, del lado de Altoros la flexibilidad es mucha... hacemos 2 dias de oficina, y los otros 3 de home office...
+13:03:04 - Matias Garat Ortiz (@matiasgaratortiz):
+el grupo humano es muy bueno en ambas oficinas y los remotos... los sueldos son muy buenos, los proyectos y tecnologias muy interesantes... beneficios como sponsorship de gym, clases de ingles, equipamiento para el home office..
+13:08:27 - Mati Dastugue (@matiasdastugue):
+Genial, gracias chicos!
+13:33:47 - Marcos Comelli (@marcosnc.08):
+Hola! como va? Alguno tiene referencias de la empresa Southworks?
+13:33:51 - Marcos Comelli (@marcosnc.08):
+Gracias!
+13:35:03 - Santiago Ruffino (@santi_0898):
+Apa, estamos en epoca de cambios laborales. Todo el mundo pidienro referencias. Jajaja
+13:35:56 - Jorge Cano (@jorgeucano):
+<@U09KEV94N> trabaja ahi
+13:40:49 - German Gonzalez (@gercho):
+yo laburo ahí
+13:50:54 - Enzo Retamozo (@egr_96):
+gente consulta, pedí un aumento de sueldo hace dos semanas, mi manager me contesta que recién lo cobraría en el sueldo de Julio (porque me lo 'habilitan' en junio), eso quiere decir que mi aguinaldo se va a ver afectado ?
+13:51:39 - Leandro Echevarria (@echevarrialeandro):
+No entra el aumento ese en el aguinaldo
+13:52:02 - Enzo Retamozo (@egr_96):
+O sea, sería el del salario antiguo
+13:52:04 - Esteban Yañez (@eyanez):
+yo trabajo ahi, esta buena la empresa, no tengo algo que reclamar, lo que dice en openqube esta bien, pero lo del sueldo no estoy de acuerdo con lo que dicen ahi, el año pasado cuando se disparo el dolar, ese mismo mes nos aumentaron el sueldo a todos
+13:52:25 - Esteban Yañez (@eyanez):
+infra y la calidad de codigo le dan mucha bola
+13:52:57 - Esteban Yañez (@eyanez):
+entre hace 1 año y ya me cambiaron 3 veces la compu (siempre una mejor)
+13:54:00 - Esteban Yañez (@eyanez):
+trabajan con las ultimas tecnologias y los proyectos son de duracion corta o media, asi que no te clavas en un proyecto siempre
+13:54:36 - Leandro Echevarria (@echevarrialeandro):
+Exactamente
+13:54:51 - Leandro Echevarria (@echevarrialeandro):
+Si alguien está está 100% seguro de lo que digo que lo confirme por si acaso. Yo estoy 90%
+13:54:54 - Leandro Echevarria (@echevarrialeandro):
+:grimacing:
+13:55:00 - Santiago Ruffino (@santi_0898):
+<@U86A4QH8U> JAJAJA
+13:55:34 - Ezequiel Leites (@leites25):
+Es el sueldo mas alto del semestre. ENE-JUN / JUL-DIC. Asi que no deberia contar ese aumento
+13:55:43 - Ezequiel Leites (@leites25):
+Ademas el aguinaldo tecnicamente se cobra en Junio creo
+13:55:57 - Rodrigo Ali (@rodrigojali):
+Entra en el segundo medio aguinaldo
+13:56:03 - Rodrigo Ali (@rodrigojali):
+Estoy en el mismo porcentaje que Lean
+13:56:07 - Rodrigo Ali (@rodrigojali):
+(de certidumbre)
+13:56:17 - Santiago Ruffino (@santi_0898):
+Segun la minita de administracion de aca, si el recibo de JUNIO tiene el aumento, cuenta para el aguinaldo de la mitad
+13:56:24 - Rodrigo Ali (@rodrigojali):
+:open_mouth:
+13:56:31 - Enzo Retamozo (@egr_96):
+:0
+13:56:35 - Enzo Retamozo (@egr_96):
+muchas gracias a todos
+13:56:41 - Santiago Ruffino (@santi_0898):
+Independiente de cuando lo cobres
+13:56:58 - Leandro Echevarria (@echevarrialeandro):
+Claro, entendí que recién lo va a tener en el recibo de Julio
+13:57:37 - Santiago Ruffino (@santi_0898):
+El tema es que depende de lo que haya querido decir tu PM
+13:57:51 - Santiago Ruffino (@santi_0898):
+PARA MI, seguro intentan dejar el aumento para el otro aguinaldo. No en el primero
+13:57:59 - Santiago Ruffino (@santi_0898):
+Si no, no tiene mucho sentido "patear" el aumento
+13:58:31 - Santiago Ruffino (@santi_0898):
+Decile "Escuchame una cosa flaquito. En que recibo de sueldo se ve el aumento?"
+13:58:47 - Rodrigo Ali (@rodrigojali):
+<#CHNL3EA4R|finanzas-y-legales>
+13:58:49 - Rodrigo Ali (@rodrigojali):
+100%
+14:00:50 - Leandro Echevarria (@echevarrialeandro):
+Pagá la prata
+14:28:59 - Federico A. Sawady O'Connor (@sawady.faso):
+para mi hay un límite, porque si el laburo lo estás sintiendo como estar preso, estarías preso por 1 millón de dólares por varios años? yo pienso lo mismo con no tener HO, aunque me digas que voy a cobrar 20k todos los meses, diría que no
+14:38:45 - Juan Scolari (@juanscolari):
+Alguien me puede explicar el aguinaldo?
+14:38:57 - Juan Scolari (@juanscolari):
+Por que existe?
+14:39:55 - Silvio Messina (@smessina):
+<@UE3C42RHR> si cobras en Julio te corresponde aguinaldo actualizado ya que es por el periodo trabajado en Junio, correspondiente al primer semestre
+14:40:31 - Leandro Echevarria (@echevarrialeandro):
+Si no aprendí mal, existe desde algún mandato de Perón. El por qué no lo conozco, pero qué lindo que exista :rolling_on_the_floor_laughing:
+14:40:40 - Leandro Echevarria (@echevarrialeandro):
+Junio y diciembre son un alivio
+14:40:58 - Silvio Messina (@smessina):
+<https://www.conclusion.com.ar/gremiales/a-72-anos-de-la-creacion-del-aguinaldo-una-conquista-de-los-trabajadores/12/2017/>
+14:40:58 - Gonzalo González Mora (@gonzalogm):
+Tal vez se originó como un bono de vacaciones? ni idea jaja
+14:41:01 - Juan Scolari (@juanscolari):
+Pero podrias estar ganando el proporcional de mas mensualmente
+14:41:15 - Juan Scolari (@juanscolari):
+O dicho de otra forma, podrias evitar que te paguen menos el resto de los meses
+14:41:33 - Silvio Messina (@smessina):
+Si y no <@U6U3183U6> 
+14:41:34 - Juan Scolari (@juanscolari):
+Peron lo metio? No sabia
+14:41:48 - Leandro Echevarria (@echevarrialeandro):
+Me interesa la explicación de la parte del `no`
+14:41:57 - Leandro Echevarria (@echevarrialeandro):
+A ver qué cosas fiscales implica
+14:42:34 - Silvio Messina (@smessina):
+Mientras estas en relación de dependencia, la ley obliga a que el pago sea en 2 cuotas (fines de junio/diciembre)
+14:43:27 - Silvio Messina (@smessina):
+Ahora, cuando té despiden o renuncias, tenes derecho a cobrar el aguinaldo acumulado en ese semente
+14:43:31 - Gonza Espeche (@espeche.g):
+ya se siente el olorcito, no?
+14:44:26 - Silvio Messina (@smessina):
+Llamado SAC proporcional (Sueldo Anual Complementario... q es el verdadero nombre legal del aguinaldo)
+14:45:29 - Leandro Echevarria (@echevarrialeandro):
+<@U86A4QH8U> Ahi que mencionaste el caso de despido/renuncia... Si en lugar de haber aguinaldo eso se pagase en el sueldo normal mensual, a efectos practicos del cobro de indemnizacion/liquidación no sería "casi" lo mismo?
+14:45:54 - Leandro Echevarria (@echevarrialeandro):
+Desconozco del tema, me saco lo burro con esas curiosidades
+14:46:13 - Juan Scolari (@juanscolari):
+Claro, digamos que uno ya cobrase 1/12 mas
+14:47:51 - Pablo Mescher (@pablomescher):
+yo lo veo como una ayuda para ahorrar
+14:48:24 - Pablo Mescher (@pablomescher):
+si, podrías cobrar el aguinaldo 'en 12 cuotas' pero en definitiva lo que pasaría es que te lo terminarías gastando
+14:49:06 - Pablo Mescher (@pablomescher):
+y pensándolo del lado de los derechos del trabajador, si no te pagaran el aguinaldo en 2 cuotas lo que pasaría eventualmente es que tendrías un sueldo mas bajo porque el sueldo que negociás es el que necesitás todos los meses
+14:49:08 - Pablo Mescher (@pablomescher):
+no el extra
+14:49:16 - Pablo Mescher (@pablomescher):
+mas cuanto mas bajo estás en la escala
+14:50:47 - Silvio Messina (@smessina):
+La ley no admite el aguinaldo mensual <@U873ZQTEG> 
+14:51:15 - Leandro Echevarria (@echevarrialeandro):
+No no, eso no. Digo en un hipotético caso que no existiese aguinaldo pero se cobrase "más" por mes en equivalencia
+14:52:08 - Silvio Messina (@smessina):
+Es q no puede no existir el aguinaldo en una relación de dependencia
+14:55:02 - Juan Scolari (@juanscolari):
+Yo digo pensando en otros paises que no lo tienen
+14:55:27 - Juan Scolari (@juanscolari):
+Y aca lo tenemos instaurado como que es lo normal
+14:56:36 - Juan Scolari (@juanscolari):
+Me llama la atención nomás
+15:00:02 - Silvio Messina (@smessina):
+Es difícil pensarlo mensualizado porque la regla es q el aguinaldo se calcula en base a la “mejor” remuneración del semestre... 
+15:02:47 - Silvio Messina (@smessina):
+solo funcionaría si tenes el mismo salario clavado en todo un año y ningun plus extra por nada
+16:05:02 - Marcos Comelli (@marcosnc.08):
+<@U4RPLC35F> Gracias por la data!
+16:09:40 - Martín Valdés de León (@mvaldesdeleon):
+no dije que aceptarias cualquier "antibeneficio" por dinero, solo que seguramente cambiarias uno que tenes.
+
+en tu caso, por 20k no laburarias sin home office. ok. que tal 100k? 1 millon? 10 millones? eventualmente hay un numero por el que aceptarias :stuck_out_tongue:
+16:10:23 - Esteban Yañez (@eyanez):
+de nada, espero que te haya servido
+16:38:03 - Heber (@heber.acostalipera):
+hay dos formas de mensualizarlo:
+
+A. que los aumentos sean semestrales
+
+B. habria que repartirlo proporcional a todos los meses y en caso de un aumento salarial, ese mes del aumento deberian pagar un ajuste por la diferencia del resto de los meses del semestre. (ej si te aumentan el mes 4 del semestre entonces tienen que pagarte lo que no te pagaron de aguinaldo en los primeros tres meses, basicamente un bono por aumento que se paga una sola vez, ende es un mes que cobras un poco mas que los demas, ende volvemos a caer en lo mismo: aguinaldo)
+20:53:07 - Francisco Hernandez (@francisco.hernandez):
+Buenas gente, alguno laburo para Rokolabs alguna vez de casualidad? es la primera vez que busco laburos de manera remota y queria saber si alguien laburo para ellos y que tan serio era.
+20:53:37 - Francisco Hernandez (@francisco.hernandez):
+Imagino que aca se hablo muchisimo de laburo remoto, hay algun canal exclusivo de eso, asi me pongo a chusmear?
