@@ -1,0 +1,436 @@
+21:23:39 - Dayan Ruiz Riera (@dayanrr91):
+gracias
+21:24:59 - Dayan Ruiz Riera (@dayanrr91):
+una vez compre el dominio, esa misma pagina te da la opcion de hacer mi email privado
+21:25:08 - Dayan Ruiz Riera (@dayanrr91):
+onda: `<mailto:usuario@dominio.com|usuario@dominio.com>`
+08:16:37 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola!!
+08:21:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Tengo un par de consultas q me surgieron el fin de semana...
+Terminé la página web q estaba haciendo. Estoy esperando q la compradora me pase el contenido para terminarla y poder subirla. Pero como soy un poco inquieto y estoy aprendiendo React.js me propuse rehacerla en React (a pesar de q es una página estática), para familiarizarme con la sintaxis y demás problemillas q surgen haciendo las cosas... acá van las dos consultas:
+
+1) error con iframe de google maps (instale "npm i react-iframe". Me carga el iframe y todo pero me dice que google rechazo la conexion. 
+2) abrir una nueva ventana hacia redes sociales al hacer click en un boton, link o div... me muestra el link y todo pero no puedo lograr que me mande al link que le pongo en href.
+08:22:27 - Aldo Gabriel Rojas (@aldogrojas5):
+En ninguno de los dos casos me da errores de compilación ni nada. Carga la página lo más bien pero en el caso del iframe aparece un recuadro gris que tampoco adopta las caracteristicas q le doy con css
+08:22:49 - Aldo Gabriel Rojas (@aldogrojas5):
+El 2) ni siquiera parpadea el boton...
+08:36:01 - Daniel Agustín Tradito (@datradito):
+estas usando jsx? fijate q lo mas puro seria utilizar react-router para un external link.
+08:36:17 - Daniel Agustín Tradito (@datradito):
+hay varios tutoriales para configurarlo
+08:36:35 - Daniel Agustín Tradito (@datradito):
+te lo comento x el pto 2 de tu consulta.
+08:37:20 - Aldo Gabriel Rojas (@aldogrojas5):
+Sisi. Gracias!!
+08:51:08 - Daniel Agustín Tradito (@datradito):
+:wink:
+11:15:41 - Leandro Echevarria (@echevarrialeandro):
+[Domain related]
+Tengo alguna pregunta relacionada a dominios. En qué se diferencian técnicamente los dominios? Es decir, qué ventaja/desventaja hay en tener un .io, .dev, .xyz, blah?
+11:23:30 - Marcos Casagrande (@marcoscvp90):
+tenés una desventaja económica, porque io suelen ser más caros :joy:
+11:23:55 - Marcos Casagrande (@marcoscvp90):
+técnicamente son lo mismo, pero no están tan cargados, podés tener urls más cortas.
+11:23:56 - Gonzalo González Mora (@gonzalogm):
+Creo que es más que nada un tema de disponibilidad nomás
+11:24:04 - Gonzalo González Mora (@gonzalogm):
+Claro
+11:26:08 - Luis Alvarez (@luistensai):
+marketing también
+11:26:30 - Luis Alvarez (@luistensai):
+y bueno, cuestiones de location
+11:27:20 - Luis Alvarez (@luistensai):
+básicamente cualquiera te sirve, pero alguno que otro va a ser más "lindo"
+11:29:07 - Santiago Ruffino (@santi_0898):
+Tambien afectan al SEO
+11:29:30 - Santiago Ruffino (@santi_0898):
+Aunque mucha gente no lo sabe/no le interesa
+11:30:10 - Luis Alvarez (@luistensai):
+claro, imagino que si estás en argentina por ejemplo, los sitios .ar tienen más peso que los .com o .ru :thinking_face:
+11:32:01 - Santiago Ruffino (@santi_0898):
+En realidad, nada tiene mas peso el `.com`
+11:32:09 - Santiago Ruffino (@santi_0898):
+Por mas que sea dominio "nacional"
+11:34:25 - Gonzalo González Mora (@gonzalogm):
+Ah sí? yo habiá leido que los TLDs nacionales tenian más peso para las busquedas en ese país, pero ahce mucho fue esto :thinking_face:  hay alguna info oficial respecto a eso?
+11:36:00 - Santiago Ruffino (@santi_0898):
+No tengo info oficial. Pero es lo que nos dice la gente de Google (somos google partners)
+11:36:44 - Gonzalo González Mora (@gonzalogm):
+Copado :thumbsup:  siempre registraba .com pq me gustaban más pero bueno saber eso tmb jaaj
+11:40:01 - Santiago Ruffino (@santi_0898):
+Es lo ideal porque es "universal". Si compras un `.<http://com.ar|com.ar>` y de repente queres posicionarte en otro pais, cagaste. O compras otro dominio del pais, o compras el `.com`
+12:12:58 - Santiago Ruffino (@santi_0898):
+Tengo VSCode, y uso Format Document. Me conviene usar Prettier o Beautify?
+13:00:40 - Leandro Echevarria (@echevarrialeandro):
+Claro, preguntaba a ver si tenian "trucos" por el lado de SEO, marketing y esas cosas. Lo estoy pensando para un futuro sitio personal igual, pero mejor averiguar por cualquier cosa
+13:01:12 - Leandro Echevarria (@echevarrialeandro):
+Entonces llegao el caso, serian todos la misma cosa, todos cumplen la misma funcion y con cualquiera se puede lograr el mismo resultado por donde se lo mire
+13:30:10 - Hernán B (@hernimen):
+Hola chicos! Tengo una pregunta acerca de `styled components` . Como hago para pasarle una variable a la clase  y dependiendo de la variable se colorea distinto el div ?
+13:35:46 - Mateo Silguero (@mfsilguero):
+Le podes pasar alguna prop que puedas luegas comparar
+```
+const Div = styled.div`
+ color: ${props =&gt; props.variable ? 'red' : 'white'};
+
+&lt;Div variable={true} /&gt;
+`
+```
+13:35:54 - Mateo Silguero (@mfsilguero):
+Algo asi ?
+13:36:08 - Hernán B (@hernimen):
+claro pero en este caso
+13:36:17 - Hernán B (@hernimen):
+tengo 8 tipos distintos de colores
+13:36:59 - Mateo Silguero (@mfsilguero):
+Y en base a que seleccionas uno u otro ?
+13:39:12 - Hernán B (@hernimen):
+al tipo de prop que me viene. Que hay 8 tipos diferentes de variables
+13:42:07 - Mateo Silguero (@mfsilguero):
+Entonces haria algo asi
+```
+const colors = {
+  a: 'red',
+  b: 'white'
+}
+
+const Div = styled.div`
+ color: ${props =&gt; colors[props.variable]};
+`
+```
+13:42:17 - Mateo Silguero (@mfsilguero):
+Obvio cambia los nombre donde corresponda
+13:42:22 - Hernán B (@hernimen):
+me encanto
+13:42:24 - Hernán B (@hernimen):
+buenisima data, gracias
+14:47:31 - Nico (@nicokorn96):
+hola gente, alguno conoce algun buen curso de node?
+14:57:54 - Sergio Daniel Xalambrí (@sergiodxa):
+prettier &gt; cualquier otra cosa
+15:04:02 - Martin Bavio (@mbavio):
+<@UDJJ3FTUM> el de Wes Bos tiene buena reputacion. Los de Frontend Masters tambien estan buenos.
+15:05:04 - Nico (@nicokorn96):
+dale ahi le pego una mirada
+15:20:32 - Mariano Argañaras (@arga.mariano):
+buenas, alguno sabe si hay manera de ver las cookies de cada request en chrome? En firefox se puede, pero en chrome no lo consigo
+15:22:06 - Santiago Ruffino (@santi_0898):
+Usando alguna extension como Tamper Data?
+15:23:18 - Mariano Argañaras (@arga.mariano):
+si, queria ver si se podia hacer sin extensiones
+15:23:29 - Mariano Argañaras (@arga.mariano):
+pero googleando no encuentro nada
+15:24:59 - Mariano Argañaras (@arga.mariano):
+igual, en algunos requests me las muestra, en los de local no
+15:29:19 - Rodrigo Ali (@rodrigojali):
+<@UGQTUDQSG> estaba haciendo un coso de Node que arrancaba ahora <@UDJJ3FTUM>, y el tipo sabe.
+15:30:10 - Rodrigo Ali (@rodrigojali):
+También está el channel de <#C04P0S1KF|node>
+15:32:45 - Juan Scolari (@juanscolari):
+Esta el parametro Cookie en el header
+15:32:49 - Juan Scolari (@juanscolari):
+Eso decis?
+15:33:26 - Nico (@nicokorn96):
+el channel lo tengo pero quiero "profesionalizarme" un poco mas osea, asentar mas los terminos, profundizar las cosas etc <@UFFG5EPGU>
+15:34:33 - Juan Scolari (@juanscolari):
+Capaz no se esten mandando en tu local?
+15:35:19 - Gonzalo González Mora (@gonzalogm):
+El de Wes Bos está bastante bien me parece
+15:36:10 - Juan Scolari (@juanscolari):
+<https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js>
+15:36:36 - Juan Scolari (@juanscolari):
+<https://github.com/sindresorhus/awesome-nodejs#courses>
+15:44:10 - Nico (@nicokorn96):
+gracias todo sirve
+15:50:50 - Wilfredo Alcala (@alcalawilfre):
+Hola buen día, tengo esta consulta. Estoy usando clases en node y me está pasando algo medio raro.. Hice esta clase de ejemplo para mostrar lo que me pasa.. Dentro de la `functionA` puedo usar el `this` sin hacer el bind en el constructor, pero si trato de usar el `this` dentro de `functionB` como que pierde el contexto y es `undefined`, funciona únicamente cuando hago el bind en el constructor.. Alguno tiene idea de qué puede ser? Me parece raro que, sin bindear, uno me funcione y el otro no
+15:52:59 - Alejandro Nagy (@nagy.alejandro):
+<https://codeburst.io/understanding-that-and-bind-8778f779b149>
+15:55:18 - Marcos Casagrande (@marcoscvp90):
+Todo depende de como llames a functionB, donde la llamas? This depende del contexto en el cual es llamada la función.
+16:05:37 - Alejandro Nagy (@nagy.alejandro):
+para su felicidad, utilice lambda functions y olvidese del bind o const self = this y todo eso :slightly_smiling_face:. Pero la lectura está buena para saber porqué. Y cada tanto refrescarlo :stuck_out_tongue:
+16:08:21 - Alejandro Nagy (@nagy.alejandro):
+salvo que sea una declaración de un evento dentro de un render de React, a la “onClick={() =&gt; …}, ahí si me parece que bind es lo correcto para que no estes creando una nueva función en cada render
+16:19:19 - Wilfredo Alcala (@alcalawilfre):
+El módulo exporta una instancia de la clase así:
+
+```
+module.exports = params =&gt; {
+  return new myclass(params);
+};
+```
+
+Y cuando me parece que esa función específica la estaba importando así:
+
+`const { functionA } = require('./myModule')`
+
+Eso puede ser?
+16:50:08 - Marcos Casagrande (@marcoscvp90):
+ahí está, no estás llamando: `classInstance.functionB();`, estás llamand: `functionB()` directo. Entonces ahí el contexto ya no es `classInstance`, y por eso necesitás hacer el `bind`
+17:24:49 - Wilfredo Alcala (@alcalawilfre):
+Ufff ya lo veo.. Gracias!!!
+18:15:57 - Dayan Ruiz (@dayanr):
+chicos cuando se compra un dominio por namecheap y vas a agregar el DNS, demora?
+18:20:33 - Sergio Daniel Xalambrí (@sergiodxa):
+cambiar de DNS puede tomar de 1 hora a 3 días, depende del TLD del dominio
+18:20:45 - Sergio Daniel Xalambrí (@sergiodxa):
+los `.com` siempre vi que cambian en 1 hora
+18:20:50 - Sergio Daniel Xalambrí (@sergiodxa):
+los más raro pueden llegar a 3 días
+18:21:05 - Gonzalo González Mora (@gonzalogm):
+Creo que depende del TTL que haya tenido seteado
+18:21:11 - Sergio Daniel Xalambrí (@sergiodxa):
+eso para cambiar los NameServers (osea cambiar de DNS)
+18:21:27 - Sergio Daniel Xalambrí (@sergiodxa):
+si es solo agregar un record estilos CNAME, A, MX, etc. afecta el TTL
+18:26:13 - Dayan Ruiz (@dayanr):
+si, es medio lento todo
+18:27:03 - Gonzalo González Mora (@gonzalogm):
+Los .<http://com.ar|com.ar> son la muerte, a mi me tardaba siempre 1 día mínimo
+18:27:06 - Sergio Daniel Xalambrí (@sergiodxa):
+estoy seguro que algunos dominios super raros de países pequeños (de esos en Oceanía) pueden tardar hasta una semana en actualizar los NS
+18:27:24 - Sergio Daniel Xalambrí (@sergiodxa):
+un día es relativamente rápido :stuck_out_tongue:
+18:28:03 - Gonzalo González Mora (@gonzalogm):
+jaja sí, puede ser, yo pq con los .com a los pocos minutos ya me había tomado todo
+19:25:17 - Dayan Ruiz Riera (@dayanrr91):
+tengo el sitio hosteado en azure y compre un .com en <http://namecheap.com|namecheap.com>
+19:25:47 - Dayan Ruiz Riera (@dayanrr91):
+fui a azure, genere los cosos y luego los agregue en namecheap, pero aun no funca
+19:26:07 - Dayan Ruiz Riera (@dayanrr91):
+si entras al sitio `.com` te pone esto:
+19:26:11 - Dayan Ruiz Riera (@dayanrr91):
+```
+404 Web Site not found.
+You may be seeing this error due to one of the reasons listed below :
+
+Custom domain has not been configured inside Azure. See how to map an existing domain to resolve this.
+Client cache is still pointing the domain to old IP address. Clear the cache by running the command ipconfig/flushdns.
+```
+19:26:18 - Dayan Ruiz Riera (@dayanrr91):
+eso es que se esta haciendo, o que no lo hice bien
+20:25:16 - Germán Burgardt (@germanandresburgardt):
+Gente cuanto cobrarían aprox en Argentina una web con carrito? Es para un insta que vende ropa. Y que opinan de usar firebase en vez de una db sql? Así me ahorro hacer un backend
+20:30:14 - Maxi (@tholem98):
+<https://www.cuantocuestamiweb.com>
+21:23:39 - Dayan Ruiz Riera (@dayanrr91):
+gracias
+21:24:59 - Dayan Ruiz Riera (@dayanrr91):
+una vez compre el dominio, esa misma pagina te da la opcion de hacer mi email privado
+21:25:08 - Dayan Ruiz Riera (@dayanrr91):
+onda: `<mailto:usuario@dominio.com|usuario@dominio.com>`
+08:16:37 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola!!
+08:21:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Tengo un par de consultas q me surgieron el fin de semana...
+Terminé la página web q estaba haciendo. Estoy esperando q la compradora me pase el contenido para terminarla y poder subirla. Pero como soy un poco inquieto y estoy aprendiendo React.js me propuse rehacerla en React (a pesar de q es una página estática), para familiarizarme con la sintaxis y demás problemillas q surgen haciendo las cosas... acá van las dos consultas:
+
+1) error con iframe de google maps (instale "npm i react-iframe". Me carga el iframe y todo pero me dice que google rechazo la conexion. 
+2) abrir una nueva ventana hacia redes sociales al hacer click en un boton, link o div... me muestra el link y todo pero no puedo lograr que me mande al link que le pongo en href.
+08:22:27 - Aldo Gabriel Rojas (@aldogrojas5):
+En ninguno de los dos casos me da errores de compilación ni nada. Carga la página lo más bien pero en el caso del iframe aparece un recuadro gris que tampoco adopta las caracteristicas q le doy con css
+08:22:49 - Aldo Gabriel Rojas (@aldogrojas5):
+El 2) ni siquiera parpadea el boton...
+08:36:01 - Daniel Agustín Tradito (@datradito):
+estas usando jsx? fijate q lo mas puro seria utilizar react-router para un external link.
+08:36:17 - Daniel Agustín Tradito (@datradito):
+hay varios tutoriales para configurarlo
+08:36:35 - Daniel Agustín Tradito (@datradito):
+te lo comento x el pto 2 de tu consulta.
+08:37:20 - Aldo Gabriel Rojas (@aldogrojas5):
+Sisi. Gracias!!
+08:51:08 - Daniel Agustín Tradito (@datradito):
+:wink:
+11:15:41 - Leandro Echevarria (@echevarrialeandro):
+[Domain related]
+Tengo alguna pregunta relacionada a dominios. En qué se diferencian técnicamente los dominios? Es decir, qué ventaja/desventaja hay en tener un .io, .dev, .xyz, blah?
+11:23:30 - Marcos Casagrande (@marcoscvp90):
+tenés una desventaja económica, porque io suelen ser más caros :joy:
+11:23:55 - Marcos Casagrande (@marcoscvp90):
+técnicamente son lo mismo, pero no están tan cargados, podés tener urls más cortas.
+11:23:56 - Gonzalo González Mora (@gonzalogm):
+Creo que es más que nada un tema de disponibilidad nomás
+11:24:04 - Gonzalo González Mora (@gonzalogm):
+Claro
+11:26:08 - Luis Alvarez (@luistensai):
+marketing también
+11:26:30 - Luis Alvarez (@luistensai):
+y bueno, cuestiones de location
+11:27:20 - Luis Alvarez (@luistensai):
+básicamente cualquiera te sirve, pero alguno que otro va a ser más "lindo"
+11:29:07 - Santiago Ruffino (@santi_0898):
+Tambien afectan al SEO
+11:29:30 - Santiago Ruffino (@santi_0898):
+Aunque mucha gente no lo sabe/no le interesa
+11:30:10 - Luis Alvarez (@luistensai):
+claro, imagino que si estás en argentina por ejemplo, los sitios .ar tienen más peso que los .com o .ru :thinking_face:
+11:32:01 - Santiago Ruffino (@santi_0898):
+En realidad, nada tiene mas peso el `.com`
+11:32:09 - Santiago Ruffino (@santi_0898):
+Por mas que sea dominio "nacional"
+11:34:25 - Gonzalo González Mora (@gonzalogm):
+Ah sí? yo habiá leido que los TLDs nacionales tenian más peso para las busquedas en ese país, pero ahce mucho fue esto :thinking_face:  hay alguna info oficial respecto a eso?
+11:36:00 - Santiago Ruffino (@santi_0898):
+No tengo info oficial. Pero es lo que nos dice la gente de Google (somos google partners)
+11:36:44 - Gonzalo González Mora (@gonzalogm):
+Copado :thumbsup:  siempre registraba .com pq me gustaban más pero bueno saber eso tmb jaaj
+11:40:01 - Santiago Ruffino (@santi_0898):
+Es lo ideal porque es "universal". Si compras un `.<http://com.ar|com.ar>` y de repente queres posicionarte en otro pais, cagaste. O compras otro dominio del pais, o compras el `.com`
+12:12:58 - Santiago Ruffino (@santi_0898):
+Tengo VSCode, y uso Format Document. Me conviene usar Prettier o Beautify?
+13:00:40 - Leandro Echevarria (@echevarrialeandro):
+Claro, preguntaba a ver si tenian "trucos" por el lado de SEO, marketing y esas cosas. Lo estoy pensando para un futuro sitio personal igual, pero mejor averiguar por cualquier cosa
+13:01:12 - Leandro Echevarria (@echevarrialeandro):
+Entonces llegao el caso, serian todos la misma cosa, todos cumplen la misma funcion y con cualquiera se puede lograr el mismo resultado por donde se lo mire
+13:30:10 - Hernán B (@hernimen):
+Hola chicos! Tengo una pregunta acerca de `styled components` . Como hago para pasarle una variable a la clase  y dependiendo de la variable se colorea distinto el div ?
+13:35:46 - Mateo Silguero (@mfsilguero):
+Le podes pasar alguna prop que puedas luegas comparar
+```
+const Div = styled.div`
+ color: ${props =&gt; props.variable ? 'red' : 'white'};
+
+&lt;Div variable={true} /&gt;
+`
+```
+13:35:54 - Mateo Silguero (@mfsilguero):
+Algo asi ?
+13:36:08 - Hernán B (@hernimen):
+claro pero en este caso
+13:36:17 - Hernán B (@hernimen):
+tengo 8 tipos distintos de colores
+13:36:59 - Mateo Silguero (@mfsilguero):
+Y en base a que seleccionas uno u otro ?
+13:39:12 - Hernán B (@hernimen):
+al tipo de prop que me viene. Que hay 8 tipos diferentes de variables
+13:42:07 - Mateo Silguero (@mfsilguero):
+Entonces haria algo asi
+```
+const colors = {
+  a: 'red',
+  b: 'white'
+}
+
+const Div = styled.div`
+ color: ${props =&gt; colors[props.variable]};
+`
+```
+13:42:17 - Mateo Silguero (@mfsilguero):
+Obvio cambia los nombre donde corresponda
+13:42:22 - Hernán B (@hernimen):
+me encanto
+13:42:24 - Hernán B (@hernimen):
+buenisima data, gracias
+14:47:31 - Nico (@nicokorn96):
+hola gente, alguno conoce algun buen curso de node?
+14:57:54 - Sergio Daniel Xalambrí (@sergiodxa):
+prettier &gt; cualquier otra cosa
+15:04:02 - Martin Bavio (@mbavio):
+<@UDJJ3FTUM> el de Wes Bos tiene buena reputacion. Los de Frontend Masters tambien estan buenos.
+15:05:04 - Nico (@nicokorn96):
+dale ahi le pego una mirada
+15:20:32 - Mariano Argañaras (@arga.mariano):
+buenas, alguno sabe si hay manera de ver las cookies de cada request en chrome? En firefox se puede, pero en chrome no lo consigo
+15:22:06 - Santiago Ruffino (@santi_0898):
+Usando alguna extension como Tamper Data?
+15:23:18 - Mariano Argañaras (@arga.mariano):
+si, queria ver si se podia hacer sin extensiones
+15:23:29 - Mariano Argañaras (@arga.mariano):
+pero googleando no encuentro nada
+15:24:59 - Mariano Argañaras (@arga.mariano):
+igual, en algunos requests me las muestra, en los de local no
+15:29:19 - Rodrigo Ali (@rodrigojali):
+<@UGQTUDQSG> estaba haciendo un coso de Node que arrancaba ahora <@UDJJ3FTUM>, y el tipo sabe.
+15:30:10 - Rodrigo Ali (@rodrigojali):
+También está el channel de <#C04P0S1KF|node>
+15:32:45 - Juan Scolari (@juanscolari):
+Esta el parametro Cookie en el header
+15:32:49 - Juan Scolari (@juanscolari):
+Eso decis?
+15:33:26 - Nico (@nicokorn96):
+el channel lo tengo pero quiero "profesionalizarme" un poco mas osea, asentar mas los terminos, profundizar las cosas etc <@UFFG5EPGU>
+15:34:33 - Juan Scolari (@juanscolari):
+Capaz no se esten mandando en tu local?
+15:35:19 - Gonzalo González Mora (@gonzalogm):
+El de Wes Bos está bastante bien me parece
+15:36:10 - Juan Scolari (@juanscolari):
+<https://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js>
+15:36:36 - Juan Scolari (@juanscolari):
+<https://github.com/sindresorhus/awesome-nodejs#courses>
+15:44:10 - Nico (@nicokorn96):
+gracias todo sirve
+15:50:50 - Wilfredo Alcala (@alcalawilfre):
+Hola buen día, tengo esta consulta. Estoy usando clases en node y me está pasando algo medio raro.. Hice esta clase de ejemplo para mostrar lo que me pasa.. Dentro de la `functionA` puedo usar el `this` sin hacer el bind en el constructor, pero si trato de usar el `this` dentro de `functionB` como que pierde el contexto y es `undefined`, funciona únicamente cuando hago el bind en el constructor.. Alguno tiene idea de qué puede ser? Me parece raro que, sin bindear, uno me funcione y el otro no
+15:52:59 - Alejandro Nagy (@nagy.alejandro):
+<https://codeburst.io/understanding-that-and-bind-8778f779b149>
+15:55:18 - Marcos Casagrande (@marcoscvp90):
+Todo depende de como llames a functionB, donde la llamas? This depende del contexto en el cual es llamada la función.
+16:05:37 - Alejandro Nagy (@nagy.alejandro):
+para su felicidad, utilice lambda functions y olvidese del bind o const self = this y todo eso :slightly_smiling_face:. Pero la lectura está buena para saber porqué. Y cada tanto refrescarlo :stuck_out_tongue:
+16:08:21 - Alejandro Nagy (@nagy.alejandro):
+salvo que sea una declaración de un evento dentro de un render de React, a la “onClick={() =&gt; …}, ahí si me parece que bind es lo correcto para que no estes creando una nueva función en cada render
+16:19:19 - Wilfredo Alcala (@alcalawilfre):
+El módulo exporta una instancia de la clase así:
+
+```
+module.exports = params =&gt; {
+  return new myclass(params);
+};
+```
+
+Y cuando me parece que esa función específica la estaba importando así:
+
+`const { functionA } = require('./myModule')`
+
+Eso puede ser?
+16:50:08 - Marcos Casagrande (@marcoscvp90):
+ahí está, no estás llamando: `classInstance.functionB();`, estás llamand: `functionB()` directo. Entonces ahí el contexto ya no es `classInstance`, y por eso necesitás hacer el `bind`
+17:24:49 - Wilfredo Alcala (@alcalawilfre):
+Ufff ya lo veo.. Gracias!!!
+18:15:57 - Dayan Ruiz (@dayanr):
+chicos cuando se compra un dominio por namecheap y vas a agregar el DNS, demora?
+18:20:33 - Sergio Daniel Xalambrí (@sergiodxa):
+cambiar de DNS puede tomar de 1 hora a 3 días, depende del TLD del dominio
+18:20:45 - Sergio Daniel Xalambrí (@sergiodxa):
+los `.com` siempre vi que cambian en 1 hora
+18:20:50 - Sergio Daniel Xalambrí (@sergiodxa):
+los más raro pueden llegar a 3 días
+18:21:05 - Gonzalo González Mora (@gonzalogm):
+Creo que depende del TTL que haya tenido seteado
+18:21:11 - Sergio Daniel Xalambrí (@sergiodxa):
+eso para cambiar los NameServers (osea cambiar de DNS)
+18:21:27 - Sergio Daniel Xalambrí (@sergiodxa):
+si es solo agregar un record estilos CNAME, A, MX, etc. afecta el TTL
+18:26:13 - Dayan Ruiz (@dayanr):
+si, es medio lento todo
+18:27:03 - Gonzalo González Mora (@gonzalogm):
+Los .<http://com.ar|com.ar> son la muerte, a mi me tardaba siempre 1 día mínimo
+18:27:06 - Sergio Daniel Xalambrí (@sergiodxa):
+estoy seguro que algunos dominios super raros de países pequeños (de esos en Oceanía) pueden tardar hasta una semana en actualizar los NS
+18:27:24 - Sergio Daniel Xalambrí (@sergiodxa):
+un día es relativamente rápido :stuck_out_tongue:
+18:28:03 - Gonzalo González Mora (@gonzalogm):
+jaja sí, puede ser, yo pq con los .com a los pocos minutos ya me había tomado todo
+19:25:17 - Dayan Ruiz Riera (@dayanrr91):
+tengo el sitio hosteado en azure y compre un .com en <http://namecheap.com|namecheap.com>
+19:25:47 - Dayan Ruiz Riera (@dayanrr91):
+fui a azure, genere los cosos y luego los agregue en namecheap, pero aun no funca
+19:26:07 - Dayan Ruiz Riera (@dayanrr91):
+si entras al sitio `.com` te pone esto:
+19:26:11 - Dayan Ruiz Riera (@dayanrr91):
+```
+404 Web Site not found.
+You may be seeing this error due to one of the reasons listed below :
+
+Custom domain has not been configured inside Azure. See how to map an existing domain to resolve this.
+Client cache is still pointing the domain to old IP address. Clear the cache by running the command ipconfig/flushdns.
+```
+19:26:18 - Dayan Ruiz Riera (@dayanrr91):
+eso es que se esta haciendo, o que no lo hice bien
+20:25:16 - Germán Burgardt (@germanandresburgardt):
+Gente cuanto cobrarían aprox en Argentina una web con carrito? Es para un insta que vende ropa. Y que opinan de usar firebase en vez de una db sql? Así me ahorro hacer un backend
+20:30:14 - Maxi (@tholem98):
+<https://www.cuantocuestamiweb.com>
