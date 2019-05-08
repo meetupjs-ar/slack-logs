@@ -1,0 +1,226 @@
+08:32:32 - Brian Hume (@brianh20):
+Hola <@UJ9GGLGKB> <@UJ4DYCN90>. Me suenan conocidos :thinking_face:
+09:37:12 - Juan Scolari (@juanscolari):
+Cuando hacia de intento de Scrum Master tratabamos de usar siempre la misma:
+As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;
+10:03:51 - Tin (@tinsonico):
+Te seguimos :nerd_face:
+10:12:07 - Luis Ventocilla (@lvsmix):
+Buen dia
+10:12:10 - Luis Ventocilla (@lvsmix):
+<https://www.meetup.com/es/banodejs/events/261248210/>
+10:18:33 - Brian Hume (@brianh20):
+Bien ahi
+08:32:32 - Brian Hume (@brianh20):
+Hola <@UJ9GGLGKB> <@UJ4DYCN90>. Me suenan conocidos :thinking_face:
+09:37:12 - Juan Scolari (@juanscolari):
+Cuando hacia de intento de Scrum Master tratabamos de usar siempre la misma:
+As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;
+10:03:51 - Tin (@tinsonico):
+Te seguimos :nerd_face:
+10:12:07 - Luis Ventocilla (@lvsmix):
+Buen dia
+10:12:10 - Luis Ventocilla (@lvsmix):
+<https://www.meetup.com/es/banodejs/events/261248210/>
+10:18:33 - Brian Hume (@brianh20):
+Bien ahi
+10:18:59 - Brian Hume (@brianh20):
+Aca van a encontrar mucha gente copada muy variada y con una comunidad hermosa que los va a apoyar en lo que necesiten
+10:52:58 - Gaby González Romero (@gabygonzalezromero):
+El canal me lo recomendó un groso! :wink:
+11:16:18 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+Puedo agregar que nos sirvio mucho, en un equipo anterior, hacer el de las Five Ws (<https://en.wikipedia.org/wiki/User_story#Common_templates>). Para dejar mas claros los escenarios
+11:18:08 - Juan Scolari (@juanscolari):
+eso se ve mejor :+1:
+16:25:03 - Pedro (@pedro461):
+me pasa algo extraño, tengo un dominio con subdominios que hace un rato les cambie los dns para que apunten a un nuevo servidor.. los subdominios (algunos) funcionan ok, mientras que el dominio y algunos otros subdominios no funcionan… a alguien le paso? puede ser qeu se haya actualizado los DNS para los subdominios y no para el dominio principal?
+16:26:21 - Luis Alvarez (@luistensai):
+probaste limpiar la caché de dns local?
+16:26:33 - Pedro (@pedro461):
+no sabría como hacerlo
+16:26:54 - Santiago Ruffino (@santi_0898):
+Pasalo por aca, para ver que onda
+16:26:55 - Santiago Ruffino (@santi_0898):
+<https://www.whatsmydns.net/>
+16:27:19 - Luis Alvarez (@luistensai):
+en windows, abrí un cmd, y corré: `ipconfig /flushdns`
+16:27:42 - Luis Alvarez (@luistensai):
+<https://documentation.cpanel.net/display/CKB/How+To+Clear+Your+DNS+Cache>
+16:27:45 - Luis Alvarez (@luistensai):
+no sé si linux tiene
+16:28:01 - Pedro (@pedro461):
+tengo mac, ahora lo googleo
+16:28:04 - Pedro (@pedro461):
+gracias por el dato
+16:28:37 - Pedro (@pedro461):
+<@U9KMYNJMV> ese me tira el dns correcto pero cuando intento entrar al sitio no
+16:29:10 - Santiago Ruffino (@santi_0898):
+Podes pasar el link por aca para ver si a nosotros nos funciona?
+16:29:24 - Pedro (@pedro461):
+<http://cracss.com|cracss.com>
+16:29:34 - Pedro (@pedro461):
+es lo mismo que cracss.dev
+16:30:07 - Santiago Ruffino (@santi_0898):
+A mi me funciona
+16:30:09 - Santiago Ruffino (@santi_0898):
+Es lento
+16:30:11 - Santiago Ruffino (@santi_0898):
+Pero funcinoa
+16:30:58 - Ari Sanguinetti (@arielsanguinetti):
+podes tener diferentes TTL en los subdominios
+16:31:03 - Pedro (@pedro461):
+te abre el sitio bien?
+16:31:09 - Pedro (@pedro461):
+y este? <http://apadro.cracss.com|apadro.cracss.com>
+16:31:17 - Pedro (@pedro461):
+tengo los mismos TTL
+16:31:28 - Santiago Ruffino (@santi_0898):
+Se abre, pero me pide user y password
+16:31:32 - Pedro (@pedro461):
+ese te debería pedir user y passworkd
+16:31:35 - Pedro (@pedro461):
+ah entonces es mi maquina
+16:31:38 - Pedro (@pedro461):
+gracias Santi
+16:31:50 - Gonzalo González Mora (@gonzalogm):
+A veces pasa que es un tema de cacheo local de los DNS mepa
+16:31:57 - Pedro (@pedro461):
+si parece ser eso
+16:32:02 - Ari Sanguinetti (@arielsanguinetti):
+tambien puede ser cache de los subdominios en los DNS... podes probar con el comando ```dig``` que te tira data de cuanto tiempo falta para que expire
+16:32:17 - Pedro (@pedro461):
+de hecho si hago ping con la terminal me muestra el ip viejo
+16:32:28 - Pedro (@pedro461):
+como se usa ese comando?
+16:32:45 - Ari Sanguinetti (@arielsanguinetti):
+```dig @8.8.8.8 <http://cracss.com|cracss.com>```
+16:32:50 - Ari Sanguinetti (@arielsanguinetti):
+eso es pegandole al DNS de Google
+16:33:12 - Ari Sanguinetti (@arielsanguinetti):
+```dig @8.8.8.8 <http://apadro.cracss.com|apadro.cracss.com>```
+16:33:24 - Ari Sanguinetti (@arielsanguinetti):
+si queres ver con el DNS que vos tenes en tu maquina, sacale el @....
+16:33:40 - Ari Sanguinetti (@arielsanguinetti):
+los 2 me apuntan a 157.230.222.48
+16:33:52 - Pedro (@pedro461):
+esta bien
+16:34:00 - Pedro (@pedro461):
+apuntan correctamente
+16:34:04 - Pedro (@pedro461):
+lo raro es que a mi no jaja
+16:34:23 - Ari Sanguinetti (@arielsanguinetti):
+fijate sin el ```@8.8.8.8```
+16:34:40 - Pedro (@pedro461):
+sin el @ me apunta a otro jaja
+16:34:44 - Pedro (@pedro461):
+rarisimo
+16:34:48 - Ari Sanguinetti (@arielsanguinetti):
+por eso
+16:34:54 - Ari Sanguinetti (@arielsanguinetti):
+es por propagacion del DNS
+16:34:59 - Pedro (@pedro461):
+de hecho me apunta a la ip vieja
+16:35:03 - Ari Sanguinetti (@arielsanguinetti):
+fijate que abajo te tiene que decir cuanto tiempo falta para que expire
+16:35:10 - Pedro (@pedro461):
+ahi me fijo
+16:35:15 - Ari Sanguinetti (@arielsanguinetti):
+por lo que veo tenes 1h de TTL
+16:35:19 - Ari Sanguinetti (@arielsanguinetti):
+deberia aparecerte en seg.
+16:35:35 - Ari Sanguinetti (@arielsanguinetti):
+en Google figura 3599 porque recien lo cacheo+
+16:35:50 - Pedro (@pedro461):
+no entendí eso jaja
+16:36:37 - Pedro (@pedro461):
+y que puedo hacer para borrarla
+16:36:38 - Pedro (@pedro461):
+?
+16:36:42 - Ari Sanguinetti (@arielsanguinetti):
+```;; ANSWER SECTION:
+<http://cracss.com|cracss.com>.             3404    IN      A       157.230.222.48```
+16:36:54 - Ari Sanguinetti (@arielsanguinetti):
+ves que ahi dice 3404? esos son los seg hasta que expire
+16:37:04 - Pedro (@pedro461):
+ah osea, es cuestion de esperar
+16:37:06 - Pedro (@pedro461):
+a mi me dice 266
+16:37:11 - Ari Sanguinetti (@arielsanguinetti):
+ya casi expira :wink:
+16:37:11 - Pedro (@pedro461):
+un par de minutos jaja
+16:37:15 - Pedro (@pedro461):
+jaja gracias
+16:37:45 - Ari Sanguinetti (@arielsanguinetti):
+igual tampoco tenes garantizado que cambie, porque hay que ver la cascada de DNS que tenes en el medio jejeje
+16:37:58 - Pedro (@pedro461):
+nunca me había pasado y estuve toda la mañana migrando sitios, me quedaba solo mi sitio y me paso eso jaja, dije, o hice algo mal o no se
+16:37:58 - Pedro (@pedro461):
+jaja
+16:38:06 - Pedro (@pedro461):
+claro entiendo
+16:38:17 - Ari Sanguinetti (@arielsanguinetti):
+ponele que usas Fibertel, hay que ver si el cache de DNS de Fibertel lo actualizo cuando expire local
+16:38:26 - Pedro (@pedro461):
+claro
+16:38:36 - Ari Sanguinetti (@arielsanguinetti):
+normalmente se recomienda el dia antes bajar el TTL a algo sumamente bajo
+16:38:38 - Ari Sanguinetti (@arielsanguinetti):
+tipo 5 min
+16:38:49 - Pedro (@pedro461):
+claro
+16:38:59 - Pedro (@pedro461):
+yo los tengo en 1800 a los TTl es el valor por defecto
+16:41:33 - Ari Sanguinetti (@arielsanguinetti):
+cuando vas a migrar lo pones super bajo, migras, esperas uno o 2 dias y volves a valores mas largos...
+16:45:12 - Pedro (@pedro461):
+reinicié la compu y ahora funciona
+16:45:14 - Pedro (@pedro461):
+a la bosta
+16:45:27 - Pedro (@pedro461):
+gracias por la ayuda1
+18:26:28 - Cristian Flores (@cristianflores.ee):
+Que tal a todos? Alguien a trabajado con refresh tokens en JWT? he leído varios artículos e hilos y parece que no hay una forma muy clara de hacerlo. Varios se contradicen, desde donde almacenarlos hasta que enfoque utilizar. Almacenar refresh tokens en el servidor (redis por ejemplo) y actualizar los refresh tokens en cada solicitud http del cliente o actualizar los refresh tokens cada vez que el usuario abra la app. En el caso del cliente, se contradicen en almacenar el access y refresh token en el local storage porque no es muy seguro, etc..
+18:34:13 - Martin Gonzalez (@martin2786):
+cuando trabajas con refresh tokens lo que pasa es lo siguiente, vos autenticas, el server te devuelve un access token (expira rapido) y un refresh token (nunca expira) entonces al expirar el access podes obtener uno nuevo mandando el refresh y ahorrandote toda la autenticacion nuevamente. como el refresh nunca expira, nunca deberias guardarlo en el cliente, salvo que tengas una politica estricta de invalidacion de refresh token (cada vez que ocurre x en la aplicacion agregas el refresh a un blacklist, por ejemplo desloguearse)
+18:37:20 - Martín Valdés de León (@mvaldesdeleon):
+Los refresh tokens son equivalentes a el username+password del cliente, en cuanto a "poder". Si se leakean es problematico, y deberias guardarlos de manera segura en el servidor. En general los refresh tokens no expiran, asi que no habria necesidad de actualizarlos.
+18:37:47 - Martín Valdés de León (@mvaldesdeleon):
+Es posible que expiren _cuando los usas_, en cuyo caso deberian darte uno nuevo al mismo tiempo.
+18:53:06 - carloscrovara (@carloscrovara):
+Microsoft launches Visual Studio Online, an online code editor – TechCrunch
+<https://techcrunch.com/2019/05/06/microsoft-launches-visual-studio-online-an-online-code-editor/>
+18:54:56 - Leandro Echevarria (@echevarrialeandro):
+Una duda que siempre me surge con los refresh tokens. Si no los guardas en el cliente, donde lo buscas cuando el access token expira? O mismo si cierro el navegador ponele y cuando vuelvo a abrirlo el access token ya paso su tiempo, deberia desloguearlo entonces? O mejor manejar eso con cookies?
+18:59:19 - Martin Gonzalez (@martin2786):
+el problema de los refresh token es que muchas veces se confunde cliente con browser. El cliente puede ser una api tuya que conecta con un third party a traves de oauth, puede ser que consumas la api de facebook, google, etc. en ese caso la autenticacion la hace tu back directo con el proveedor y guarda el refresh token en el server. cuando queres volver a hacer una operacion con ese third party usas el refresh que obtuviste porque seguramente tu access token ya expiro. los refresh no estan pensados para el browser, por eso no se recomienda para ese escenario.
+19:01:54 - Leandro Echevarria (@echevarrialeandro):
+Excelente
+19:02:27 - Leandro Echevarria (@echevarrialeandro):
+El escenario del browser entonces es donde juegan las cookies para mantener una sesion entre uno o dos dias
+19:02:29 - Leandro Echevarria (@echevarrialeandro):
+Right?
+19:02:35 - Martin Gonzalez (@martin2786):
+desde el browser manejas siempre access token, y para la expiracion yo uso un interceptor, si el request devuelve unauthorized porque expiro, lo redirecciono al login. algunas veces he visto que calculan la expiracion para ahorrarse el request, tambien es valido
+19:02:43 - Martin Gonzalez (@martin2786):
+si, tal cual, la otra opcion es cookies
+19:02:50 - Martin Gonzalez (@martin2786):
+pero tambien te conviene que expire rapido
+19:03:10 - Leandro Echevarria (@echevarrialeandro):
+Claro el tema es no redireccionarlo al login cada 20 minutos
+19:03:43 - Leandro Echevarria (@echevarrialeandro):
+El access token es normal que dure mas de un dia? Para evitar el uso de cookies en auth
+19:05:26 - Martin Gonzalez (@martin2786):
+claro, hay varias estrategias, una que se usa es: vos tenes un access token. haces un request y en la respuesta si fue todo ok te devuelven un access token nuevo o sea que "renovaste" tu access token y asi te aseguras de no perder el acceso. si el usuario estuvo idle un tiempo y expiro, lo mandas a autenticar de nuevo.
+19:06:07 - Martin Gonzalez (@martin2786):
+los access token no pueden durar un dia, lo ideal es que duren muy poco, minutos. y lo vayas renovando con alguna estrategia. es como la llave de tu casa, si la perdes y alguien la quiere usar, ya cambiaste la cerradura
+19:06:44 - Leandro Echevarria (@echevarrialeandro):
+Claro, siempre los tengo de corta duracion PERO me apoyo en el access token. Voy a ver alguna estrategia para descartar esto ultimo
+19:06:59 - Leandro Echevarria (@echevarrialeandro):
+Porque una paja que por estar idle 10 mins me redirija al login
+19:09:10 - Martin Gonzalez (@martin2786):
+si, totalmente, tambien depende de la aplicacion, los datos que manejes y el target de audiencia. porque cuanto mas popular mas chance de ataques maliciosos tenes. si sos un banco yo prefiero que me mandes al login y no que tengas un token de 1 hora guardado en localstorage. la autenticacion de una aplicacion depende 100% de la aplicacion, no se puede generalizar, todas van a tener configuraciones diferentes dependiendo del tipo.
+19:10:07 - Leandro Echevarria (@echevarrialeandro):
+Claro totalmente
+20:46:02 - Ari Sanguinetti (@arielsanguinetti):
+podes tener un keep-alive tambien que renuve el token, pero depende de la estrategia que tengas en seguridad...
