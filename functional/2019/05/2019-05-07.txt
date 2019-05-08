@@ -1,0 +1,252 @@
+11:41:26 - Damian Diaz (@damianmdst):
+Hola como va gente, en un nuevo capitulo de “Dandome la cabeza con la pared con haskell” estaba haciendo un ejercicio que propone lo siguiente:
+`-- (*) Run-length encoding of a list. Use the result of problem P09 to implement the so-called run-length encoding data compression method. Consecutive duplicates of elements are encoded as lists (N E) where N is the number of duplicates of the element E.`
+11:42:06 - Damian Diaz (@damianmdst):
+Lo cual llegue a esta solucion.
+11:44:21 - Damian Diaz (@damianmdst):
+Ahora queria buscar la version free point de esto y entre las soluciones aparecia esto `encode xs = map (length &amp;&amp;&amp; head) $ group xs` lo corri y no me funciono, mas alla de eso, no entiendo la logica de pasarle xs como param a la funcion group siendo que es la “solucion free point” y el operador &amp;&amp;&amp; no lo pude entender … alguien podria darme una mano con esa version de novato je ? gracias
+11:46:49 - Ezequiel Alvarez (@welcometothechango):
+se, es raro pasarle el `xs`, no es una buena pointfree (?), es tan facil como sacarlo y usar `.` en vez de `$`
+11:47:03 - Ezequiel Alvarez (@welcometothechango):
+de donde salió eso igual? probaste meter tu solución en el pointfree generator?
+11:47:37 - Damian Diaz (@damianmdst):
+Perdon la ignorancia, que seria el free point generator ?
+11:47:49 - Ezequiel Alvarez (@welcometothechango):
+<http://pointfree.io/>
+11:47:58 - Ezequiel Alvarez (@welcometothechango):
+dice que hagas `encode = map (liftM2 (,) length head) . group`
+11:48:51 - Damian Diaz (@damianmdst):
+ok, buenisimo gracias, no tenia ese dato del free point generator, ahora me voy a poner a leer que hace liftM2, la solucion la saque del 99 questions for haskell <https://wiki.haskell.org/99_questions/Solutions/10>
+11:49:00 - Damian Diaz (@damianmdst):
+estoy haciendo eso como para familiarizarme con la API del lenguaje un poco
+11:49:34 - Martín Valdés de León (@mvaldesdeleon):
+`liftA2` seria mas natural
+11:49:56 - Martín Valdés de León (@mvaldesdeleon):
+o `(,) &lt;$&gt; length &lt;*&gt; head`
+11:50:41 - Ezequiel Alvarez (@welcometothechango):
+meh es lo mismo, justo `[]` es Applicative y es mejor liftA2 so :thumbsup:
+11:51:16 - Martín Valdés de León (@mvaldesdeleon):
+en este caso `[]` no tiene nada que ver. estas usando la instancia de Monad/Applicative de `(-&gt;) a`
+11:51:23 - Damian Diaz (@damianmdst):
+`(,)` esa notacion la vi bastante aunque diferente por ejemeplo con `(:)` eso significa que “no me importa lo que recibe como head ni tail” ?
+11:51:28 - Damian Diaz (@damianmdst):
+Por eso no nombra las variables ?
+11:51:37 - Ezequiel Alvarez (@welcometothechango):
+tenes razon nevermind, igual no se si estamos ayudando al principiante
+11:52:24 - Ezequiel Alvarez (@welcometothechango):
+`liftM2` agarra una funcion de dos argumentos y la `liftea` a mundo Monad ponele, `liftM2 :: Monad m =&gt; (a1 -&gt; a2 -&gt; r) -&gt; m a1 -&gt; m a2 -&gt; m r`
+11:52:38 - Martín Valdés de León (@mvaldesdeleon):
+`(,)` es una funcion, simil `(:)`
+11:52:49 - Ezequiel Alvarez (@welcometothechango):
+y la notacion `(algo)` en general se usa para usar prefijamente una función infija
+11:52:58 - Martín Valdés de León (@mvaldesdeleon):
+`(,) :: a -&gt; b -&gt; (a, b)`
+11:53:27 - Ezequiel Alvarez (@welcometothechango):
+`:` es infija pq haces `a : [algo]` (esta en el medio), con `(:)` es como si fuese una función `agregarALista`
+11:53:30 - Martín Valdés de León (@mvaldesdeleon):
+`(:) :: a -&gt; [a] -&gt; [a]`
+11:53:32 - Ezequiel Alvarez (@welcometothechango):
+con `,` es lo mismo
+11:54:01 - Damian Diaz (@damianmdst):
+Perfecto, muchisimmas gracias chicos, creo que ahora tengo todo mas claro, y gracias por el recurso del point free, estimo que me va a servir bastante
+11:54:02 - Ezequiel Alvarez (@welcometothechango):
+podes hacer `(+) 5 6` y va a dar `11`
+11:54:18 - Ezequiel Alvarez (@welcometothechango):
+estas leyendo el Haskell Book?
+11:54:31 - Damian Diaz (@damianmdst):
+Estoy leyendo el learnhaskell
+11:54:34 - Ezequiel Alvarez (@welcometothechango):
+porque es raro que te tiren pointfree si estas aprendiendo, no es tan útil en la vida real
+11:54:35 - Damian Diaz (@damianmdst):
+que recomiendan en la pag oficial
+11:55:17 - Damian Diaz (@damianmdst):
+No, los ejercicios los estaba haciendo del 99 questions de haskell, y justo llegue a esa solucion por mis medios y como venia del palo de JS digo, debe haber alguna formma de hacer free point esta funcion para remover esos params del length y del head
+11:55:19 - Ezequiel Alvarez (@welcometothechango):
+no es buen recurso ese, si queres te paso el Haskell Book que es el consenso actual como mejor herramienta (pero es pago)
+11:55:42 - Ezequiel Alvarez (@welcometothechango):
+(esta online igual :eyes:)
+11:55:49 - Damian Diaz (@damianmdst):
+Uf, si lo tenes seria genial ! jaja todo me sirve
+11:58:32 - Martín Valdés de León (@mvaldesdeleon):
+Igual _ese_ tipo de funciones point-free, si bien aparecen en el mundo real, son un poco mas avanzadas. En el Haskell Book recien aparecen en el cap. 22
+11:58:48 - Martín Valdés de León (@mvaldesdeleon):
+(x ej)
+11:59:06 - Martín Valdés de León (@mvaldesdeleon):
+Esta pinneado en el channel.
+11:59:44 - Damian Diaz (@damianmdst):
+Ahi me lo paso ezequiel por privado, gracias Martin !
+12:00:02 - Ezequiel Alvarez (@welcometothechango):
+jaja no sabia la politica de pirateo del canal :thumbsup:
+12:00:02 - Martín Valdés de León (@mvaldesdeleon):
+:+1:
+12:00:05 - Ezequiel Alvarez (@welcometothechango):
+joya
+12:00:07 - Martín Valdés de León (@mvaldesdeleon):
+:smile:
+12:00:16 - Martín Valdés de León (@mvaldesdeleon):
+"leelo y si te gusto compralo"
+12:31:12 - gillchristian (@gillchristian):
+Está pinneado en la channel :wink:
+17:35:21 - Julian (@jantonielli01):
+la clásica
+17:39:29 - Martín Valdés de León (@mvaldesdeleon):
+yo estoy en el final stretch, a ver si de una puta vez liquido el Haskell Book
+17:39:31 - Martín Valdés de León (@mvaldesdeleon):
+voy por Reader
+17:40:01 - Martín Valdés de León (@mvaldesdeleon):
+dps quiero ver si hago algo de streaming, quiza con los ejercicios del advent of code de años pasados
+17:40:04 - Julian (@jantonielli01):
+Yo lo abandoné hace muchisimo
+17:40:39 - Julian (@jantonielli01):
+No te aburre? Se me hace que ya sabes esas cosas
+17:42:48 - Martín Valdés de León (@mvaldesdeleon):
+creo que el unico tema legit que no se-se es mtl
+17:42:58 - Martín Valdés de León (@mvaldesdeleon):
+puedo leer codigo y seguirlo de haber visto muchos articulos/charlas/etc
+17:43:27 - Martín Valdés de León (@mvaldesdeleon):
+pero personalmente me entretiene repasar/ejercitar
+17:43:34 - Martín Valdés de León (@mvaldesdeleon):
+tipo escribir instancias de tipos locos y demas
+17:56:26 - Julian (@jantonielli01):
+Entiendo
+17:56:34 - Julian (@jantonielli01):
+Es divertido mtl y eso
+17:56:53 - Julian (@jantonielli01):
+Despues te metes con free(r) monads y eso y tambien está copado
+17:58:46 - Julian (@jantonielli01):
+pero bueno eso último es mas para masturbación mental, mtl se usa en la vida
+19:01:36 - Lorenzo Palmes (@lpalmes):
+Soy del futuro y llego tarde, pero bueno, nos prometieron modular implicits, y aun estamos esperando.
+<http://ocamllabs.io/doc/implicits.html>
+19:06:39 - Lorenzo Palmes (@lpalmes):
+pd: hay un fork mas o menos actualizado por si queres usarlo
+19:06:39 - Lorenzo Palmes (@lpalmes):
+<https://github.com/ocamllabs/ocaml-modular-implicits>
+20:11:59 - Juan Bono (@juanbono):
+Jajajaj si, pero aún no están en el lenguaje base jaja
+11:41:26 - Damian Diaz (@damianmdst):
+Hola como va gente, en un nuevo capitulo de “Dandome la cabeza con la pared con haskell” estaba haciendo un ejercicio que propone lo siguiente:
+`-- (*) Run-length encoding of a list. Use the result of problem P09 to implement the so-called run-length encoding data compression method. Consecutive duplicates of elements are encoded as lists (N E) where N is the number of duplicates of the element E.`
+11:42:06 - Damian Diaz (@damianmdst):
+Lo cual llegue a esta solucion.
+11:44:21 - Damian Diaz (@damianmdst):
+Ahora queria buscar la version free point de esto y entre las soluciones aparecia esto `encode xs = map (length &amp;&amp;&amp; head) $ group xs` lo corri y no me funciono, mas alla de eso, no entiendo la logica de pasarle xs como param a la funcion group siendo que es la “solucion free point” y el operador &amp;&amp;&amp; no lo pude entender … alguien podria darme una mano con esa version de novato je ? gracias
+11:46:49 - Ezequiel Alvarez (@welcometothechango):
+se, es raro pasarle el `xs`, no es una buena pointfree (?), es tan facil como sacarlo y usar `.` en vez de `$`
+11:47:03 - Ezequiel Alvarez (@welcometothechango):
+de donde salió eso igual? probaste meter tu solución en el pointfree generator?
+11:47:37 - Damian Diaz (@damianmdst):
+Perdon la ignorancia, que seria el free point generator ?
+11:47:49 - Ezequiel Alvarez (@welcometothechango):
+<http://pointfree.io/>
+11:47:58 - Ezequiel Alvarez (@welcometothechango):
+dice que hagas `encode = map (liftM2 (,) length head) . group`
+11:48:51 - Damian Diaz (@damianmdst):
+ok, buenisimo gracias, no tenia ese dato del free point generator, ahora me voy a poner a leer que hace liftM2, la solucion la saque del 99 questions for haskell <https://wiki.haskell.org/99_questions/Solutions/10>
+11:49:00 - Damian Diaz (@damianmdst):
+estoy haciendo eso como para familiarizarme con la API del lenguaje un poco
+11:49:34 - Martín Valdés de León (@mvaldesdeleon):
+`liftA2` seria mas natural
+11:49:56 - Martín Valdés de León (@mvaldesdeleon):
+o `(,) &lt;$&gt; length &lt;*&gt; head`
+11:50:41 - Ezequiel Alvarez (@welcometothechango):
+meh es lo mismo, justo `[]` es Applicative y es mejor liftA2 so :thumbsup:
+11:51:16 - Martín Valdés de León (@mvaldesdeleon):
+en este caso `[]` no tiene nada que ver. estas usando la instancia de Monad/Applicative de `(-&gt;) a`
+11:51:23 - Damian Diaz (@damianmdst):
+`(,)` esa notacion la vi bastante aunque diferente por ejemeplo con `(:)` eso significa que “no me importa lo que recibe como head ni tail” ?
+11:51:28 - Damian Diaz (@damianmdst):
+Por eso no nombra las variables ?
+11:51:37 - Ezequiel Alvarez (@welcometothechango):
+tenes razon nevermind, igual no se si estamos ayudando al principiante
+11:52:24 - Ezequiel Alvarez (@welcometothechango):
+`liftM2` agarra una funcion de dos argumentos y la `liftea` a mundo Monad ponele, `liftM2 :: Monad m =&gt; (a1 -&gt; a2 -&gt; r) -&gt; m a1 -&gt; m a2 -&gt; m r`
+11:52:38 - Martín Valdés de León (@mvaldesdeleon):
+`(,)` es una funcion, simil `(:)`
+11:52:49 - Ezequiel Alvarez (@welcometothechango):
+y la notacion `(algo)` en general se usa para usar prefijamente una función infija
+11:52:58 - Martín Valdés de León (@mvaldesdeleon):
+`(,) :: a -&gt; b -&gt; (a, b)`
+11:53:27 - Ezequiel Alvarez (@welcometothechango):
+`:` es infija pq haces `a : [algo]` (esta en el medio), con `(:)` es como si fuese una función `agregarALista`
+11:53:30 - Martín Valdés de León (@mvaldesdeleon):
+`(:) :: a -&gt; [a] -&gt; [a]`
+11:53:32 - Ezequiel Alvarez (@welcometothechango):
+con `,` es lo mismo
+11:54:01 - Damian Diaz (@damianmdst):
+Perfecto, muchisimmas gracias chicos, creo que ahora tengo todo mas claro, y gracias por el recurso del point free, estimo que me va a servir bastante
+11:54:02 - Ezequiel Alvarez (@welcometothechango):
+podes hacer `(+) 5 6` y va a dar `11`
+11:54:18 - Ezequiel Alvarez (@welcometothechango):
+estas leyendo el Haskell Book?
+11:54:31 - Damian Diaz (@damianmdst):
+Estoy leyendo el learnhaskell
+11:54:34 - Ezequiel Alvarez (@welcometothechango):
+porque es raro que te tiren pointfree si estas aprendiendo, no es tan útil en la vida real
+11:54:35 - Damian Diaz (@damianmdst):
+que recomiendan en la pag oficial
+11:55:17 - Damian Diaz (@damianmdst):
+No, los ejercicios los estaba haciendo del 99 questions de haskell, y justo llegue a esa solucion por mis medios y como venia del palo de JS digo, debe haber alguna formma de hacer free point esta funcion para remover esos params del length y del head
+11:55:19 - Ezequiel Alvarez (@welcometothechango):
+no es buen recurso ese, si queres te paso el Haskell Book que es el consenso actual como mejor herramienta (pero es pago)
+11:55:42 - Ezequiel Alvarez (@welcometothechango):
+(esta online igual :eyes:)
+11:55:49 - Damian Diaz (@damianmdst):
+Uf, si lo tenes seria genial ! jaja todo me sirve
+11:58:32 - Martín Valdés de León (@mvaldesdeleon):
+Igual _ese_ tipo de funciones point-free, si bien aparecen en el mundo real, son un poco mas avanzadas. En el Haskell Book recien aparecen en el cap. 22
+11:58:48 - Martín Valdés de León (@mvaldesdeleon):
+(x ej)
+11:59:06 - Martín Valdés de León (@mvaldesdeleon):
+Esta pinneado en el channel.
+11:59:44 - Damian Diaz (@damianmdst):
+Ahi me lo paso ezequiel por privado, gracias Martin !
+12:00:02 - Ezequiel Alvarez (@welcometothechango):
+jaja no sabia la politica de pirateo del canal :thumbsup:
+12:00:02 - Martín Valdés de León (@mvaldesdeleon):
+:+1:
+12:00:05 - Ezequiel Alvarez (@welcometothechango):
+joya
+12:00:07 - Martín Valdés de León (@mvaldesdeleon):
+:smile:
+12:00:16 - Martín Valdés de León (@mvaldesdeleon):
+"leelo y si te gusto compralo"
+12:31:12 - gillchristian (@gillchristian):
+Está pinneado en la channel :wink:
+17:35:21 - Julian (@jantonielli01):
+la clásica
+17:39:29 - Martín Valdés de León (@mvaldesdeleon):
+yo estoy en el final stretch, a ver si de una puta vez liquido el Haskell Book
+17:39:31 - Martín Valdés de León (@mvaldesdeleon):
+voy por Reader
+17:40:01 - Martín Valdés de León (@mvaldesdeleon):
+dps quiero ver si hago algo de streaming, quiza con los ejercicios del advent of code de años pasados
+17:40:04 - Julian (@jantonielli01):
+Yo lo abandoné hace muchisimo
+17:40:39 - Julian (@jantonielli01):
+No te aburre? Se me hace que ya sabes esas cosas
+17:42:48 - Martín Valdés de León (@mvaldesdeleon):
+creo que el unico tema legit que no se-se es mtl
+17:42:58 - Martín Valdés de León (@mvaldesdeleon):
+puedo leer codigo y seguirlo de haber visto muchos articulos/charlas/etc
+17:43:27 - Martín Valdés de León (@mvaldesdeleon):
+pero personalmente me entretiene repasar/ejercitar
+17:43:34 - Martín Valdés de León (@mvaldesdeleon):
+tipo escribir instancias de tipos locos y demas
+17:56:26 - Julian (@jantonielli01):
+Entiendo
+17:56:34 - Julian (@jantonielli01):
+Es divertido mtl y eso
+17:56:53 - Julian (@jantonielli01):
+Despues te metes con free(r) monads y eso y tambien está copado
+17:58:46 - Julian (@jantonielli01):
+pero bueno eso último es mas para masturbación mental, mtl se usa en la vida
+19:01:36 - Lorenzo Palmes (@lpalmes):
+Soy del futuro y llego tarde, pero bueno, nos prometieron modular implicits, y aun estamos esperando.
+<http://ocamllabs.io/doc/implicits.html>
+19:06:39 - Lorenzo Palmes (@lpalmes):
+pd: hay un fork mas o menos actualizado por si queres usarlo
+19:06:39 - Lorenzo Palmes (@lpalmes):
+<https://github.com/ocamllabs/ocaml-modular-implicits>
+20:11:59 - Juan Bono (@juanbono):
+Jajajaj si, pero aún no están en el lenguaje base jaja
