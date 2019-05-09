@@ -1,0 +1,289 @@
+00:33:29 - Lorenzo Palmes (@lpalmes):
+Si, que paja
+00:33:36 - Lorenzo Palmes (@lpalmes):
+Nos catchearon la promisee
+04:02:16 - Martín Valdés de León (@mvaldesdeleon):
+Estaba leyendo un articulo random, con este codigo
+04:03:36 - Martín Valdés de León (@mvaldesdeleon):
+`htmlRes` y `getProxyBody` estan mal tipadas y me da pseudo-bronca que alguien llegue al punto de poder escribir ese codigo, sin haberse dado cuenta que no hay ninguna necesidad de "meter todo en IO"
+04:04:14 - Martín Valdés de León (@mvaldesdeleon):
+en ambos casos son funciones puras que les encajan un `return` o `pure` adelante (y por que `return` en un caso y `pure` en el otro?)
+04:32:30 - gillchristian (@gillchristian):
+Jajaja
+04:38:47 - gillchristian (@gillchristian):
+Que se usa más, pure o return?
+04:42:03 - Martín Valdés de León (@mvaldesdeleon):
+Diria que `return` por motivos historicos, ya que `Applicative` es mas nuevo.
+Tecnicamente hablando, `return` no deberia existir, ya todo `Monad` es un `Applicative`, y por lo tanto tiene una `pure` que hace exactamente lo mismo que `return`.
+
+<https://gitlab.haskell.org/ghc/ghc/wikis/proposal/monad-of-no-return>
+04:42:47 - Martín Valdés de León (@mvaldesdeleon):
+Pero hoy por hoy, deberias usar lo que tenga sentido usar. Si estas en un contexto de `Applicative` usa `pure` y si estas en un contexto de `Monad` usa `return`.
+06:21:22 - Martín Valdés de León (@mvaldesdeleon):
+uno de los ejercicios del haskell book es "refactorea este codigo usando `ReaderT`. si, ya se que no vimos `ReaderT` aun, pero arreglatelas"
+10:34:26 - Ezequiel Alvarez (@welcometothechango):
+yo digo que usen siempre `pure`, en contexto de `Monad` anda igual ahora, y `return` tiene esa maldita connotacion imperativa (?)
+10:39:10 - Ezequiel Alvarez (@welcometothechango):
+ese codigo tiene `lens` que onda jaja
+11:44:30 - Federico A. Sawady O'Connor (@sawady.faso):
+Che, nada que ver, pero alguna pauta del tema del tipo Proxy en Haskell?
+11:44:45 - Federico A. Sawady O'Connor (@sawady.faso):
+ayer estaba codeando con servant, y en una parte usaba el tipo Proxy
+11:45:26 - Federico A. Sawady O'Connor (@sawady.faso):
+en su momento leí que era para dar una especie de "testigo"
+11:45:35 - Federico A. Sawady O'Connor (@sawady.faso):
+un valor que prueba la existencia de cierto tipo
+11:45:49 - Federico A. Sawady O'Connor (@sawady.faso):
+cuando uno hace type level programming
+11:46:15 - Federico A. Sawady O'Connor (@sawady.faso):
+pero hasta ahí llegó mi amor
+00:33:29 - Lorenzo Palmes (@lpalmes):
+Si, que paja
+00:33:36 - Lorenzo Palmes (@lpalmes):
+Nos catchearon la promisee
+04:02:16 - Martín Valdés de León (@mvaldesdeleon):
+Estaba leyendo un articulo random, con este codigo
+04:03:36 - Martín Valdés de León (@mvaldesdeleon):
+`htmlRes` y `getProxyBody` estan mal tipadas y me da pseudo-bronca que alguien llegue al punto de poder escribir ese codigo, sin haberse dado cuenta que no hay ninguna necesidad de "meter todo en IO"
+04:04:14 - Martín Valdés de León (@mvaldesdeleon):
+en ambos casos son funciones puras que les encajan un `return` o `pure` adelante (y por que `return` en un caso y `pure` en el otro?)
+04:32:30 - gillchristian (@gillchristian):
+Jajaja
+04:38:47 - gillchristian (@gillchristian):
+Que se usa más, pure o return?
+04:42:03 - Martín Valdés de León (@mvaldesdeleon):
+Diria que `return` por motivos historicos, ya que `Applicative` es mas nuevo.
+Tecnicamente hablando, `return` no deberia existir, ya todo `Monad` es un `Applicative`, y por lo tanto tiene una `pure` que hace exactamente lo mismo que `return`.
+
+<https://gitlab.haskell.org/ghc/ghc/wikis/proposal/monad-of-no-return>
+04:42:47 - Martín Valdés de León (@mvaldesdeleon):
+Pero hoy por hoy, deberias usar lo que tenga sentido usar. Si estas en un contexto de `Applicative` usa `pure` y si estas en un contexto de `Monad` usa `return`.
+06:21:22 - Martín Valdés de León (@mvaldesdeleon):
+uno de los ejercicios del haskell book es "refactorea este codigo usando `ReaderT`. si, ya se que no vimos `ReaderT` aun, pero arreglatelas"
+10:34:26 - Ezequiel Alvarez (@welcometothechango):
+yo digo que usen siempre `pure`, en contexto de `Monad` anda igual ahora, y `return` tiene esa maldita connotacion imperativa (?)
+10:39:10 - Ezequiel Alvarez (@welcometothechango):
+ese codigo tiene `lens` que onda jaja
+11:44:30 - Federico A. Sawady O'Connor (@sawady.faso):
+Che, nada que ver, pero alguna pauta del tema del tipo Proxy en Haskell?
+11:44:45 - Federico A. Sawady O'Connor (@sawady.faso):
+ayer estaba codeando con servant, y en una parte usaba el tipo Proxy
+11:45:26 - Federico A. Sawady O'Connor (@sawady.faso):
+en su momento leí que era para dar una especie de "testigo"
+11:45:35 - Federico A. Sawady O'Connor (@sawady.faso):
+un valor que prueba la existencia de cierto tipo
+11:45:49 - Federico A. Sawady O'Connor (@sawady.faso):
+cuando uno hace type level programming
+11:46:15 - Federico A. Sawady O'Connor (@sawady.faso):
+pero hasta ahí llegó mi amor
+11:49:43 - Martín Valdés de León (@mvaldesdeleon):
+tengo entendido algo similar. es un valor que no tiene _datos_, y solo se usa para transportar informacion sobre el tipo proxiado
+11:54:21 - Martín Valdés de León (@mvaldesdeleon):
+podes verlo como una forma de "pasar tipos como argumentos a una funcion" (Ademas de datos as usual), que te sirve cuando el tipo en cuestion que queres pasar, no estaria asociado a ninguno de los datos que le pasas a la funcion
+12:14:26 - Hernan Rajchert (@sherman):
+En purescript se usa bastante y es la forma de tener string literals
+12:14:41 - Hernan Rajchert (@sherman):
+Los SProxy
+12:20:51 - Julian (@jantonielli01):
+Un ejemplo fácil, ponele que tenes una clase para saber cuantos bytes ocupan los valores de ese tipo en disco, tipo 
+12:21:17 - Julian (@jantonielli01):
+`class SizeOf t where { sizeOf :: Int }`
+12:21:40 - Julian (@jantonielli01):
+Eso así por default no compila, si escribís sizeOf no sabe para que tipo elegirlo 
+12:22:18 - Julian (@jantonielli01):
+La opción vieja es hacer `sizeOf :: t -&gt; Int` y pasar `undefined :: Int` por ejemplo 
+12:22:30 - Julian (@jantonielli01):
+Pero es paja porque no debería usar el argumento la función y que se yo 
+12:23:29 - Julian (@jantonielli01):
+Entonces usas el tipo `data Proxy t = Proxy`, y `sizeOf :: Proxy t -&gt; Int` y podes llamar a la función como `sizeOf (Proxy :: Proxy Int)` 
+12:23:43 - Julian (@jantonielli01):
+En fin, se usa para “elegir” instancias en casos como ese 
+12:24:33 - Julian (@jantonielli01):
+(La opción más más moderna es dar el primer tipo que puse, y usar TypeApplications que son como magia sobre proxy, `sizeOf @Int`)
+12:27:41 - Martín Valdés de León (@mvaldesdeleon):
+Otra cosa es que pasar `undefined` solo sirve para cosas de kind `*`, pero `Proxy` lo podes usar con lo que venga
+12:28:36 - Julian (@jantonielli01):
+Se, pero bueno eso ya es con más extensiones y que se yo 
+13:19:12 - Federico A. Sawady O'Connor (@sawady.faso):
+oook, buenisima aclaración entre `undefined` y `Proxy` ^^
+13:30:13 - Ezequiel Alvarez (@welcometothechango):
+todo eso, y solo quiero agregar que no es para nada un tipo mágico, está definidio trivialmente asi:
+13:30:18 - Ezequiel Alvarez (@welcometothechango):
+`data Proxy a = Proxy`
+13:30:39 - Julian (@jantonielli01):
+Lo puse arriba gato 
+13:30:42 - Julian (@jantonielli01):
+Jajj
+13:32:54 - Martín Valdés de León (@mvaldesdeleon):
+Es tipo unit pero con un phantom type for the lulz
+13:40:37 - Julian (@jantonielli01):
+En ps es medio distinto, no <@U0DHEL1PC>?
+13:41:43 - Julian (@jantonielli01):
+creo q no tienen polykinds entonces hay un par de proxies distintos tipo `SProxy (s :: Symbol)` o algo así
+13:44:53 - Leandro Echevarria (@echevarrialeandro):
+Ayer estuve haciendo unas cosas pequeñas con Ramda viendo pipe y compose y quedé :mindblown:
+13:45:01 - Leandro Echevarria (@echevarrialeandro):
+(Es mi primer acercamiento a funcional)
+13:45:18 - Julian (@jantonielli01):
+bien ahí papá
+13:46:46 - Leandro Echevarria (@echevarrialeandro):
+Cuando esté cómodo con conceptos funcionales y sarasa, tengo ganas de agarrar Elixir a ver qué tal. Por el hecho de ser backend
+13:47:22 - Julian (@jantonielli01):
+No se nada de elixir, pero me dijeron q <https://phoenixframework.org/> esta copado
+13:48:02 - Leandro Echevarria (@echevarrialeandro):
+Si, parece que si. Miré algunas charlas y se lo ve solido y muy adoptado por la comunidad de ese nicho
+13:48:36 - Julian (@jantonielli01):
+Y viste lo de liveview?
+13:48:37 - Julian (@jantonielli01):
+es re flashero
+13:48:58 - Julian (@jantonielli01):
+<https://dockyard.com/blog/2018/12/12/phoenix-liveview-interactive-real-time-apps-no-need-to-write-javascript>
+13:49:25 - Hernan Rajchert (@sherman):
+Después me fijo con compu en mano, no me lo se de memoria :sweat_smile:
+13:49:32 - Leandro Echevarria (@echevarrialeandro):
+Seee te dejan de cara :scream:
+13:49:45 - Hernan Rajchert (@sherman):
+Erlang/elixir me baja que no sean tipados :(
+13:49:55 - Leandro Echevarria (@echevarrialeandro):
+Tengo Rust pendiente también. Y hoy voy a meli al curso de golang a ver que onda. Se está agitando el avisperouuu (?
+13:50:05 - Hernan Rajchert (@sherman):
+Y en principio la sintaxis me la bajó un poco
+13:50:13 - Leandro Echevarria (@echevarrialeandro):
+Y empecé inglés el lunes, 9 hs semanales :rolling_on_the_floor_laughing:
+13:50:27 - Julian (@jantonielli01):
+Se, a mi tamb lo de los tipos
+13:50:35 - Leandro Echevarria (@echevarrialeandro):
+La sintaxis por qué? Es muy diferente de otros lenguajes que manejes?
+13:50:43 - Julian (@jantonielli01):
+Uhh, go lo odio
+13:51:14 - Julian (@jantonielli01):
+Es uno de los unicos lenguajes que odio 100%
+13:51:24 - Leandro Echevarria (@echevarrialeandro):
+JAJAJJJA
+13:51:32 - Leandro Echevarria (@echevarrialeandro):
+Pobre bicho el gopher
+13:51:35 - Leandro Echevarria (@echevarrialeandro):
+Qué culpa tiene
+13:51:57 - Julian (@jantonielli01):
+que los de la comunidad son mas lame culos que la de elm
+13:52:28 - Julian (@jantonielli01):
+Go team: "che el lenguaje va a ser una mierda", Go community: "Wow such well-thought features I love it"
+13:52:59 - Julio (@julito):
+Vi que mucha gente de Ruby estaba metiéndose a Elixir y me interesó pero creo que me pasó lo mismo que dijeron jaja, me coparía que fuera tipado y la sintaxis me hizo mucho ruido
+13:53:04 - Julio (@julito):
+Aunque supongo que eso último es costumbre
+13:53:35 - Leandro Echevarria (@echevarrialeandro):
+Shit is a feature too
+13:53:36 - Leandro Echevarria (@echevarrialeandro):
+jajjaja
+13:53:52 - Leandro Echevarria (@echevarrialeandro):
+No tiene tipo un ts Elixir?
+13:54:29 - Ezequiel Alvarez (@welcometothechango):
+Rust es fantastico, lo que faltan son ideas de proyecto que tenga sentido. yo hice un demo en opengl y como que ya esta, nunca mas (?)
+13:55:33 - Leandro Echevarria (@echevarrialeandro):
+Cuando agarre Rust para aprenderlo mi idea era hacer un sniffercito de red
+14:11:27 - Hernan Rajchert (@sherman):
+los de go dicen que va a ser una mierda?
+14:11:31 - Hernan Rajchert (@sherman):
+no lo se rick
+14:15:42 - Luis Alvarez (@luistensai):
+&gt; LiveView powered applications are stateful on the server with bidrectional communication via WebSockets.
+habiendo laburado con Meteor, que tiene un approach parecido, recomendaría mantenerse alejado de eso jajajaja
+14:55:43 - Juan Bono (@juanbono):
+Elixir tiene dialyxir para agregar type annotations y detectar errores de tipo, pero se corre aparte xD
+14:59:02 - Juan Bono (@juanbono):
+Y en este momento lo estan mejorando porque está basado en dialyzer que es una lib de Erlang que tiene errores bastante difíciles de leer, así que están mejorando eso pero la experiencia de uso es bastante diferente a usar un lenguaje tipado tipo Haskell, Rust, Typescript y es bastante lento jajaja pero sirve  xD. Lo que si es posta lento, genera un archivo de definiciones de tipo que hay que cachearlo porque si lo pones en el pipeline de CI/CD y lo generas cada vez que lo corres tarda infinito (?
+15:11:36 - Gonza Gluzman (@gonza):
+`dialyzer`? Qué nombre horrible!
+15:39:37 - Julian (@jantonielli01):
+totalmente random, pero estaba leyendo exploits y cosas de solidity/ethereum y ahí algunas copadas que no esperarias
+15:39:38 - Julian (@jantonielli01):
+tipo <https://blog.ethereum.org/2016/06/10/smart-contract-security/>
+15:51:30 - Hernan Rajchert (@sherman):
+estas buscando escusas de porque no usar blockchain?
+15:52:52 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja
+16:06:52 - Julian (@jantonielli01):
+Hajajaj, no, al contrario 
+16:07:05 - Julian (@jantonielli01):
+Estoy viendo de meterme en seguridad en blockchain 
+16:11:13 - Hernan Rajchert (@sherman):
+:fire:<https://twitter.com/AdamRackis/status/1125844449215614976>
+16:26:16 - Martín Valdés de León (@mvaldesdeleon):
+&gt;Literally the only real-life example I've ever heard of is some spam filter at Facebook though.
+16:26:31 - Martín Valdés de León (@mvaldesdeleon):
+QED, el dude es un ignorante
+16:27:08 - Ezequiel Alvarez (@welcometothechango):
+suena a trolling conciente igual
+16:27:45 - Martín Valdés de León (@mvaldesdeleon):
+Espero que si, sino, a este tipo de cosas me refiero con "mal dev". Gente que forma opiniones fuertes en base a prejuicio y no tiene intenciones de evaluar si realmente es asi o no.
+16:55:33 - Julian (@jantonielli01):
+&gt;JavaScript fanatic.
+17:05:43 - Martín Valdés de León (@mvaldesdeleon):
+&gt; Codementor is just a Dementor with the arrows reversed.
+17:05:53 - Julian (@jantonielli01):
+jajajaj
+17:05:56 - Julian (@jantonielli01):
+q boludo
+17:06:10 - Martín Valdés de León (@mvaldesdeleon):
+cada vez que leo "Codementor" pienso eso :stuck_out_tongue:
+17:06:27 - Martín Valdés de León (@mvaldesdeleon):
+pero lo tiro aca pq sino nadie entiende nada
+17:23:37 - gillchristian (@gillchristian):
+La sintaxis de Elixir :sob:
+17:24:13 - gillchristian (@gillchristian):
+jajajaja
+17:24:18 - gillchristian (@gillchristian):
+si, es medio asi la comunidad
+17:25:00 - Hernan Rajchert (@sherman):
+si, la comunidad te entiendo… pero si los del team no lo defienden, estamos en el horno
+17:27:40 - Hernan Rajchert (@sherman):
+y martin? salio un side project ahora que estas con mas tiempo?
+17:29:39 - gillchristian (@gillchristian):
+&gt; suena a trolling conciente igual
+lo seguia a ese flaco (por suerte ya no mas) y no creo que sea trolling conciente
+17:29:49 - gillchristian (@gillchristian):
+tiene pinta de que posta lo cree
+17:31:03 - Juan Bono (@juanbono):
+Ajajaj Alto nombre tiene, puede ponerse A. Rackis y suena como el planeta de Dune
+17:31:55 - gillchristian (@gillchristian):
+"React/Redux/MobX/GraphQL enthusiast"
+17:32:21 - gillchristian (@gillchristian):
+No se que onda MobX pero React y Redux vienen de ideas de FP
+17:33:59 - gillchristian (@gillchristian):
+ahh no no, los del team lo venden como lo mejor
+17:35:20 - Martín Valdés de León (@mvaldesdeleon):
+por ahora estoy liqidando el haskell book
+17:35:29 - Martín Valdés de León (@mvaldesdeleon):
+dps quiero ver un poco aws lambda + haskell
+17:35:38 - Martín Valdés de León (@mvaldesdeleon):
+parece que es bastante facil
+17:46:13 - Martín Valdés de León (@mvaldesdeleon):
+```
+Suggestion: Use foldr.
+
+Found:
+sprang [] = return ""
+sprang (c : cs) = (:) &lt;$&gt; char c &lt;*&gt; sprang cs
+
+Why not:
+sprang cs = foldr (\c -&gt; (&lt;*&gt;) ((:) &lt;$&gt; char c)) (return "") cs
+```
+17:46:16 - Martín Valdés de León (@mvaldesdeleon):
+hlint agitandola
+17:46:25 - Martín Valdés de León (@mvaldesdeleon):
+thanks but no thanks
+17:46:34 - Ezequiel Alvarez (@welcometothechango):
+`pure` :eyes:
+18:06:40 - gillchristian (@gillchristian):
+Por lo general las sugerencias estan buenas, pero no siempre ¯\_(ツ)_/¯
+18:10:15 - Martín Valdés de León (@mvaldesdeleon):
+igual ahi la limo con esa lambda pointfree
+18:10:28 - Martín Valdés de León (@mvaldesdeleon):
+`sprang = foldr (\c ps -&gt; (:) &lt;$&gt; char c &lt;*&gt; ps) (return "")`
+18:10:39 - Martín Valdés de León (@mvaldesdeleon):
+si le sacas eso queda potable
+18:12:47 - gillchristian (@gillchristian):
+me gusta mas la definicion recursiva igual
+18:12:51 - gillchristian (@gillchristian):
+pero si queda mejor
