@@ -1,0 +1,394 @@
+07:07:00 - Aldo Gabriel Rojas (@aldogrojas5):
+Gente! Tengo un problemilla. Ayer me bajé todo para instalar ubuntu en la pc... en la notebook no me animo. El tema es que seguí todos los pasos. Se instala hasta el final. Me dice q tengo q reiniciar para poder usar el nuevo sistema instalado y me vuelve a bootear pero en vez de darme como opción arrancar en ubuntu, me dice que si quiero instalarlo. O si quiero probar ubuntu desde el usb sin instalar... probé con la iso 18.04.2 lts y probé con otra que se llama Lubuntu tb LTS... a alguno le pasó esto?
+07:25:07 - Leandro Echevarria (@echevarrialeandro):
+Cuando reiniciaste la pc luego de instalar, quitaste el cd/pen booteable, no?
+07:32:11 - Aldo Gabriel Rojas (@aldogrojas5):
+Si
+07:32:51 - Aldo Gabriel Rojas (@aldogrojas5):
+Probé sacándolo, dejandolo... :man-shrugging:
+07:33:21 - Aldo Gabriel Rojas (@aldogrojas5):
+Probé apagar la pc, sacar el pen y volver a iniciar...
+07:33:36 - Aldo Gabriel Rojas (@aldogrojas5):
+Capaz q sea muy vieja?
+07:35:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahora me la jugué y lo estoy instalando en la notebook y veo q pasa
+07:42:07 - Aldo Gabriel Rojas (@aldogrojas5):
+En la notebook anduvo... será un problema de la pc, supongo
+09:00:08 - Ale Miralles (@amiralles):
+Nunca instale ubuntu en un PC, en la mac va como trompada.
+09:04:30 - Marcos Casagrande (@marcoscvp90):
+Que tan vieja es la PC? Me pasó una vez, tuve que modificar un par de flags en la instalación etc
+09:42:13 - Aldo Gabriel Rojas (@aldogrojas5):
+Mmmm la compré en 2012 maso. Tiene un i3 (ni idea q generacion) con 4gb de ram y una placa de video ati (no me acuerdo el modelo). Pero si sirve de dato, me tirabs hasta el assassins creed 3
+09:45:32 - Marcos Casagrande (@marcoscvp90):
+lo que importa generalmente es la mother. Probá instalando Ubuntu 16, a ver si te pasa lo mismo. Sino hay ciertos modos al instalar, onda uefi, legacy etc etc. Y hay ciertas flags que se pueden activar al instalar, tipo: `quiet splash nomodeset`
+09:46:07 - Marcos Casagrande (@marcoscvp90):
+<https://askubuntu.com/questions/1024895/why-do-i-need-to-replace-quiet-splash-with-nomodeset>
+09:58:25 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial! Gracias!!!
+13:21:23 - Brian Hume (@brianh20):
+Eh... me duelen los ojos...
+Instalaste ubuntu en una mac?
+14:02:18 - Ale Miralles (@amiralles):
+jajaja
+14:02:21 - Ale Miralles (@amiralles):
+en dos!!
+14:02:55 - Juan Scolari (@juanscolari):
+queres ver el mundo arder jaj
+14:03:34 - Ale Miralles (@amiralles):
+Tengo tres macs, dos corren ubuntu (hace un par de años ya). La otra, OSX y Windows!!!
+14:03:35 - Ale Miralles (@amiralles):
+jajaja
+14:04:45 - Brian Hume (@brianh20):
+Inexplicable
+14:04:58 - Brian Hume (@brianh20):
+(Que hace este tipo aca? Quien lo dejo entrar?)
+14:04:59 - Brian Hume (@brianh20):
+jajajajajaj
+14:05:02 - Brian Hume (@brianh20):
+cada uno con la suya
+14:05:02 - Leandro Echevarria (@echevarrialeandro):
+Jajajaj :stuck_out_tongue:
+14:05:11 - Gonzalo González Mora (@gonzalogm):
+jajaja por ahí le gustan las Macs sólo por el hard
+14:05:16 - Ale Miralles (@amiralles):
+Buena pregunta!
+14:05:22 - Ale Miralles (@amiralles):
+en parte viene por ahi la mano
+14:05:23 - Brian Hume (@brianh20):
+por el hard =&gt; por la carcasa?
+14:05:35 - Ale Miralles (@amiralles):
+no trabajo ni front-end, ni node.
+14:05:48 - Brian Hume (@brianh20):
+ni mobile
+14:05:50 - Brian Hume (@brianh20):
+ni docker
+14:05:51 - Ale Miralles (@amiralles):
+hago C, Ruby, C# y Go (principalmente)
+14:06:03 - Ale Miralles (@amiralles):
+Para C, por ejemplo, a linux no hay con que darle
+14:06:04 - Brian Hume (@brianh20):
+va docker en ubuntu si
+14:06:24 - Brian Hume (@brianh20):
+cada uno hace lo que quiere
+14:06:32 - Ale Miralles (@amiralles):
+<@UDJJ1RZT5> Exactamente!
+14:06:41 - Brian Hume (@brianh20):
+pero..... cualquier otra notebook es mas barrr:rat:
+14:07:08 - Gonzalo González Mora (@gonzalogm):
+Ahora hay muchas alternativas copadas, peor hasta hace unos años si querías una notebook con battery life decente, buen trackpad, etc. sólo tenías la Mc
+14:07:10 - Gonzalo González Mora (@gonzalogm):
+Mac
+14:07:23 - Ale Miralles (@amiralles):
+Si comparas specs, no se si hay mas barato que mac, eh...
+14:07:39 - Ale Miralles (@amiralles):
+Si, tal cual.
+14:07:45 - Brian Hume (@brianh20):
+DAAAAAAALE
+14:07:54 - Brian Hume (@brianh20):
+cuanto te garparon para decir eso?
+14:07:56 - Ale Miralles (@amiralles):
+Con las ultimas versiones de ubuntu, el tema batery life mejoro un monton.
+14:07:59 - Brian Hume (@brianh20):
+instragramer!
+14:08:05 - Ale Miralles (@amiralles):
+Lo mismo el trackpad y toda la bola.
+14:08:54 - Brian Hume (@brianh20):
+Te tiro desde aca un cordial "que hambre" bien noventoso
+jajaja
+
+y sigo laburando
+
+cada uno con su tema y con lo que se sienta mas comodo
+14:08:59 - Ale Miralles (@amiralles):
+Mi setup principal es browser + terminal
+14:09:06 - Ale Miralles (@amiralles):
+no uso mucho mas que eso.
+14:09:12 - Brian Hume (@brianh20):
+Que haces con C en el browser? de curioso
+14:09:36 - Ale Miralles (@amiralles):
+browser para email, Ruby, algo de Go
+14:10:07 - Ale Miralles (@amiralles):
+Principalmente trabajo en compiladores, "C a lo guapo", digamos.
+14:10:50 - Ale Miralles (@amiralles):
+Tambien hago algunas cosas en .NET, pero es bastante austero lo mio.
+14:26:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Duró una mañana el ubuntu en mi notebook... me rompía las bolas el grub. Dejo el win10 con la terminal de ubuntu y a la bosta...
+14:30:49 - Ale Miralles (@amiralles):
+jajaja
+14:31:39 - Ale Miralles (@amiralles):
+Me parece que ahora van a empezar a distribuir el kernel completo, asique la mayoria de las cosas que necesitas de linux van a estar en Windows.
+14:32:00 - Gonza Gluzman (@gonza):
+Yo quiero que conviertan windows en una distro de linux
+14:32:08 - Ale Miralles (@amiralles):
+falta poco para eso
+14:32:10 - Gonza Gluzman (@gonza):
+Y pasemos a tener unix por todos lados
+14:32:13 - Ale Miralles (@amiralles):
+no te preocupes :wink:
+14:32:22 - Gonza Gluzman (@gonza):
+Y AL FIN podamos correr jueguitos dignamente en linux
+14:32:34 - Ale Miralles (@amiralles):
+jajaja
+14:32:36 - Ale Miralles (@amiralles):
+es verdad....
+14:41:25 - Aldo Gabriel Rojas (@aldogrojas5):
+jajajajajajaja
+14:41:48 - Brian Hume (@brianh20):
+y eso que no tuviste que configurar las dos pantallas y que no te las comparta en las apps
+15:08:00 - Luis Alvarez (@luistensai):
+yo quise instalar docker en el WSL y ni anda :peron:
+15:08:09 - Luis Alvarez (@luistensai):
+a ver si con WSL2 se ponen las pilas
+15:08:50 - Ale Miralles (@amiralles):
+No lo use mucho, pero WSL 1, era super buggy.
+15:09:00 - Ale Miralles (@amiralles):
+(Para practicamente todo)
+15:09:29 - Ale Miralles (@amiralles):
+Vamos a ver que onda la nueva version
+15:09:37 - Ale Miralles (@amiralles):
+aparentemente, viene full-full.
+16:12:59 - Norman Perrin (@norman):
+<@U28KZ0BR9> tuviste muchos problemas de compatibilidad de hw instalando linux en una mac?
+16:24:52 - Brian Hume (@brianh20):
+uy empezo el contagio
+16:24:53 - Brian Hume (@brianh20):
+jajaj
+16:25:15 - Gonzalo González Mora (@gonzalogm):
+jajajajaja
+16:25:21 - Gonzalo González Mora (@gonzalogm):
+:radioactive_sign:
+16:25:22 - Luis Alvarez (@luistensai):
+:joy:
+16:45:17 - Ale Miralles (@amiralles):
+<@U21990LAH> cero.
+16:45:45 - Ale Miralles (@amiralles):
+Eso pasaba mucho con las versiones viejas de ubuntu por ejemplo
+16:46:22 - Ale Miralles (@amiralles):
+muchos conocidos tienen un setup similar al mio y no reportaron mayores problemas con ubuntu 18-4+
+16:48:43 - Ale Miralles (@amiralles):
+osx es muy bueno si laburas en el front, mobile, o haces cosas artisticas (editar imagenes, video, musica, logos, etc...)
+16:49:08 - Ale Miralles (@amiralles):
+si haces backend o "hardcore" programming, a linux no hay con que darle.
+17:12:47 - Norman Perrin (@norman):
+jaja me interesó la idea de probar de instalar arch linux + programas suckeless.
+Por suerte hay una guía: <https://wiki.archlinux.org/index.php/Mac>
+17:14:52 - Ale Miralles (@amiralles):
+Sabes que nunca use arch.... algun dia lo voy a probar.
+17:15:15 - Ale Miralles (@amiralles):
+Con ubuntu tuve algun que otro tema cuando tenia dual boot con OSX
+17:15:27 - Ale Miralles (@amiralles):
+pero me pudri, y vole OSX
+17:15:28 - Ale Miralles (@amiralles):
+jajaja
+17:45:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro! Lo de adobe no anda nada!!!
+17:49:56 - Ale Miralles (@amiralles):
+Si, tal cual.
+17:50:24 - Ale Miralles (@amiralles):
+Y en ese caso, si, no se puede comparar gimp con photoshop.
+17:50:34 - Ale Miralles (@amiralles):
+En ese caso, tenes que usar osx.
+18:36:10 - Fernando García (@fernandogarcia_fg):
+podrían recomendarme algún recurso o curso de python relacionado con la programación orientada a objetos, en español si es posible, hasta las funciones y eso vengo bien pero me esta costando entender el tema de la programación orientada a objetos
+18:54:01 - Leandro Echevarria (@echevarrialeandro):
+Yo anduve jugando con eso el finde en vm con virtualbox, está muy copado :metal:
+20:11:40 - Gustavo Machado (@machadogj):
+<@UC21P922E> quizas te convenga algun video en youtube/articulo/libro mas generico de programacion orientada a objetos, porque la sintaxis de python es muy sencilla, es en la parte mas conceptual donde puede que cueste un poco mas hacer el cambio.
+07:07:00 - Aldo Gabriel Rojas (@aldogrojas5):
+Gente! Tengo un problemilla. Ayer me bajé todo para instalar ubuntu en la pc... en la notebook no me animo. El tema es que seguí todos los pasos. Se instala hasta el final. Me dice q tengo q reiniciar para poder usar el nuevo sistema instalado y me vuelve a bootear pero en vez de darme como opción arrancar en ubuntu, me dice que si quiero instalarlo. O si quiero probar ubuntu desde el usb sin instalar... probé con la iso 18.04.2 lts y probé con otra que se llama Lubuntu tb LTS... a alguno le pasó esto?
+07:25:07 - Leandro Echevarria (@echevarrialeandro):
+Cuando reiniciaste la pc luego de instalar, quitaste el cd/pen booteable, no?
+07:32:11 - Aldo Gabriel Rojas (@aldogrojas5):
+Si
+07:32:51 - Aldo Gabriel Rojas (@aldogrojas5):
+Probé sacándolo, dejandolo... :man-shrugging:
+07:33:21 - Aldo Gabriel Rojas (@aldogrojas5):
+Probé apagar la pc, sacar el pen y volver a iniciar...
+07:33:36 - Aldo Gabriel Rojas (@aldogrojas5):
+Capaz q sea muy vieja?
+07:35:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahora me la jugué y lo estoy instalando en la notebook y veo q pasa
+07:42:07 - Aldo Gabriel Rojas (@aldogrojas5):
+En la notebook anduvo... será un problema de la pc, supongo
+09:00:08 - Ale Miralles (@amiralles):
+Nunca instale ubuntu en un PC, en la mac va como trompada.
+09:04:30 - Marcos Casagrande (@marcoscvp90):
+Que tan vieja es la PC? Me pasó una vez, tuve que modificar un par de flags en la instalación etc
+09:42:13 - Aldo Gabriel Rojas (@aldogrojas5):
+Mmmm la compré en 2012 maso. Tiene un i3 (ni idea q generacion) con 4gb de ram y una placa de video ati (no me acuerdo el modelo). Pero si sirve de dato, me tirabs hasta el assassins creed 3
+09:45:32 - Marcos Casagrande (@marcoscvp90):
+lo que importa generalmente es la mother. Probá instalando Ubuntu 16, a ver si te pasa lo mismo. Sino hay ciertos modos al instalar, onda uefi, legacy etc etc. Y hay ciertas flags que se pueden activar al instalar, tipo: `quiet splash nomodeset`
+09:46:07 - Marcos Casagrande (@marcoscvp90):
+<https://askubuntu.com/questions/1024895/why-do-i-need-to-replace-quiet-splash-with-nomodeset>
+09:58:25 - Aldo Gabriel Rojas (@aldogrojas5):
+Genial! Gracias!!!
+13:21:23 - Brian Hume (@brianh20):
+Eh... me duelen los ojos...
+Instalaste ubuntu en una mac?
+14:02:18 - Ale Miralles (@amiralles):
+jajaja
+14:02:21 - Ale Miralles (@amiralles):
+en dos!!
+14:02:55 - Juan Scolari (@juanscolari):
+queres ver el mundo arder jaj
+14:03:34 - Ale Miralles (@amiralles):
+Tengo tres macs, dos corren ubuntu (hace un par de años ya). La otra, OSX y Windows!!!
+14:03:35 - Ale Miralles (@amiralles):
+jajaja
+14:04:45 - Brian Hume (@brianh20):
+Inexplicable
+14:04:58 - Brian Hume (@brianh20):
+(Que hace este tipo aca? Quien lo dejo entrar?)
+14:04:59 - Brian Hume (@brianh20):
+jajajajajaj
+14:05:02 - Brian Hume (@brianh20):
+cada uno con la suya
+14:05:02 - Leandro Echevarria (@echevarrialeandro):
+Jajajaj :stuck_out_tongue:
+14:05:11 - Gonzalo González Mora (@gonzalogm):
+jajaja por ahí le gustan las Macs sólo por el hard
+14:05:16 - Ale Miralles (@amiralles):
+Buena pregunta!
+14:05:22 - Ale Miralles (@amiralles):
+en parte viene por ahi la mano
+14:05:23 - Brian Hume (@brianh20):
+por el hard =&gt; por la carcasa?
+14:05:35 - Ale Miralles (@amiralles):
+no trabajo ni front-end, ni node.
+14:05:48 - Brian Hume (@brianh20):
+ni mobile
+14:05:50 - Brian Hume (@brianh20):
+ni docker
+14:05:51 - Ale Miralles (@amiralles):
+hago C, Ruby, C# y Go (principalmente)
+14:06:03 - Ale Miralles (@amiralles):
+Para C, por ejemplo, a linux no hay con que darle
+14:06:04 - Brian Hume (@brianh20):
+va docker en ubuntu si
+14:06:24 - Brian Hume (@brianh20):
+cada uno hace lo que quiere
+14:06:32 - Ale Miralles (@amiralles):
+<@UDJJ1RZT5> Exactamente!
+14:06:41 - Brian Hume (@brianh20):
+pero..... cualquier otra notebook es mas barrr:rat:
+14:07:08 - Gonzalo González Mora (@gonzalogm):
+Ahora hay muchas alternativas copadas, peor hasta hace unos años si querías una notebook con battery life decente, buen trackpad, etc. sólo tenías la Mc
+14:07:10 - Gonzalo González Mora (@gonzalogm):
+Mac
+14:07:23 - Ale Miralles (@amiralles):
+Si comparas specs, no se si hay mas barato que mac, eh...
+14:07:39 - Ale Miralles (@amiralles):
+Si, tal cual.
+14:07:45 - Brian Hume (@brianh20):
+DAAAAAAALE
+14:07:54 - Brian Hume (@brianh20):
+cuanto te garparon para decir eso?
+14:07:56 - Ale Miralles (@amiralles):
+Con las ultimas versiones de ubuntu, el tema batery life mejoro un monton.
+14:07:59 - Brian Hume (@brianh20):
+instragramer!
+14:08:05 - Ale Miralles (@amiralles):
+Lo mismo el trackpad y toda la bola.
+14:08:54 - Brian Hume (@brianh20):
+Te tiro desde aca un cordial "que hambre" bien noventoso
+jajaja
+
+y sigo laburando
+
+cada uno con su tema y con lo que se sienta mas comodo
+14:08:59 - Ale Miralles (@amiralles):
+Mi setup principal es browser + terminal
+14:09:06 - Ale Miralles (@amiralles):
+no uso mucho mas que eso.
+14:09:12 - Brian Hume (@brianh20):
+Que haces con C en el browser? de curioso
+14:09:36 - Ale Miralles (@amiralles):
+browser para email, Ruby, algo de Go
+14:10:07 - Ale Miralles (@amiralles):
+Principalmente trabajo en compiladores, "C a lo guapo", digamos.
+14:10:50 - Ale Miralles (@amiralles):
+Tambien hago algunas cosas en .NET, pero es bastante austero lo mio.
+14:26:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Duró una mañana el ubuntu en mi notebook... me rompía las bolas el grub. Dejo el win10 con la terminal de ubuntu y a la bosta...
+14:30:49 - Ale Miralles (@amiralles):
+jajaja
+14:31:39 - Ale Miralles (@amiralles):
+Me parece que ahora van a empezar a distribuir el kernel completo, asique la mayoria de las cosas que necesitas de linux van a estar en Windows.
+14:32:00 - Gonza Gluzman (@gonza):
+Yo quiero que conviertan windows en una distro de linux
+14:32:08 - Ale Miralles (@amiralles):
+falta poco para eso
+14:32:10 - Gonza Gluzman (@gonza):
+Y pasemos a tener unix por todos lados
+14:32:13 - Ale Miralles (@amiralles):
+no te preocupes :wink:
+14:32:22 - Gonza Gluzman (@gonza):
+Y AL FIN podamos correr jueguitos dignamente en linux
+14:32:34 - Ale Miralles (@amiralles):
+jajaja
+14:32:36 - Ale Miralles (@amiralles):
+es verdad....
+14:41:25 - Aldo Gabriel Rojas (@aldogrojas5):
+jajajajajajaja
+14:41:48 - Brian Hume (@brianh20):
+y eso que no tuviste que configurar las dos pantallas y que no te las comparta en las apps
+15:08:00 - Luis Alvarez (@luistensai):
+yo quise instalar docker en el WSL y ni anda :peron:
+15:08:09 - Luis Alvarez (@luistensai):
+a ver si con WSL2 se ponen las pilas
+15:08:50 - Ale Miralles (@amiralles):
+No lo use mucho, pero WSL 1, era super buggy.
+15:09:00 - Ale Miralles (@amiralles):
+(Para practicamente todo)
+15:09:29 - Ale Miralles (@amiralles):
+Vamos a ver que onda la nueva version
+15:09:37 - Ale Miralles (@amiralles):
+aparentemente, viene full-full.
+16:12:59 - Norman Perrin (@norman):
+<@U28KZ0BR9> tuviste muchos problemas de compatibilidad de hw instalando linux en una mac?
+16:24:52 - Brian Hume (@brianh20):
+uy empezo el contagio
+16:24:53 - Brian Hume (@brianh20):
+jajaj
+16:25:15 - Gonzalo González Mora (@gonzalogm):
+jajajajaja
+16:25:21 - Gonzalo González Mora (@gonzalogm):
+:radioactive_sign:
+16:25:22 - Luis Alvarez (@luistensai):
+:joy:
+16:45:17 - Ale Miralles (@amiralles):
+<@U21990LAH> cero.
+16:45:45 - Ale Miralles (@amiralles):
+Eso pasaba mucho con las versiones viejas de ubuntu por ejemplo
+16:46:22 - Ale Miralles (@amiralles):
+muchos conocidos tienen un setup similar al mio y no reportaron mayores problemas con ubuntu 18-4+
+16:48:43 - Ale Miralles (@amiralles):
+osx es muy bueno si laburas en el front, mobile, o haces cosas artisticas (editar imagenes, video, musica, logos, etc...)
+16:49:08 - Ale Miralles (@amiralles):
+si haces backend o "hardcore" programming, a linux no hay con que darle.
+17:12:47 - Norman Perrin (@norman):
+jaja me interesó la idea de probar de instalar arch linux + programas suckeless.
+Por suerte hay una guía: <https://wiki.archlinux.org/index.php/Mac>
+17:14:52 - Ale Miralles (@amiralles):
+Sabes que nunca use arch.... algun dia lo voy a probar.
+17:15:15 - Ale Miralles (@amiralles):
+Con ubuntu tuve algun que otro tema cuando tenia dual boot con OSX
+17:15:27 - Ale Miralles (@amiralles):
+pero me pudri, y vole OSX
+17:15:28 - Ale Miralles (@amiralles):
+jajaja
+17:45:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro! Lo de adobe no anda nada!!!
+17:49:56 - Ale Miralles (@amiralles):
+Si, tal cual.
+17:50:24 - Ale Miralles (@amiralles):
+Y en ese caso, si, no se puede comparar gimp con photoshop.
+17:50:34 - Ale Miralles (@amiralles):
+En ese caso, tenes que usar osx.
+18:36:10 - Fernando García (@fernandogarcia_fg):
+podrían recomendarme algún recurso o curso de python relacionado con la programación orientada a objetos, en español si es posible, hasta las funciones y eso vengo bien pero me esta costando entender el tema de la programación orientada a objetos
+18:54:01 - Leandro Echevarria (@echevarrialeandro):
+Yo anduve jugando con eso el finde en vm con virtualbox, está muy copado :metal:
+20:11:40 - Gustavo Machado (@machadogj):
+<@UC21P922E> quizas te convenga algun video en youtube/articulo/libro mas generico de programacion orientada a objetos, porque la sintaxis de python es muy sencilla, es en la parte mas conceptual donde puede que cueste un poco mas hacer el cambio.
