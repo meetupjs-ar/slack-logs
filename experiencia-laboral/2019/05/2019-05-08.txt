@@ -1,0 +1,324 @@
+07:56:33 - Pablo Miceli (@pablomiceli24):
+alguno sabe si tardan mucho los de upwork en hacer review de la cuenta?
+08:45:25 - Diego Harari (@diehara):
+Hola <@UFB4A82UU> a mi me tardaron un montón, me rechazaron varias veces
+08:45:32 - Diego Harari (@diehara):
+una vez que entre conseguí algunas cosas
+08:45:33 - Diego Harari (@diehara):
+basicas
+08:45:41 - Diego Harari (@diehara):
+pero el tema es que empezaron a cobrar por connection
+08:45:46 - Diego Harari (@diehara):
+creo que 0.15 cents
+08:47:02 - Pablo Miceli (@pablomiceli24):
+x_x
+08:47:45 - Diego Harari (@diehara):
+lo positivo de eso es que habían comentado que mucha oferta era trucha entonces con el cobro que establecieron
+08:47:49 - Diego Harari (@diehara):
+la plataforma seria mas seria
+08:47:56 - Diego Harari (@diehara):
+no se que onda workana
+08:47:59 - Diego Harari (@diehara):
+me suena que es peor
+08:56:04 - Ale Miralles (@amiralles):
+Sabes que yo no vi nada potable en upwork (aun)
+08:57:14 - Ale Miralles (@amiralles):
+Me parece que si tenes tiempo para dedicarle a las cosas freelance toptal o <http://gun.io|gun.io> son las empresas donde podes llegar a conseguir "top dollar" por tu trabajo.
+08:57:56 - Ale Miralles (@amiralles):
+(al menos en el research basico que hice, fueron las unicas que me cerraron)
+09:05:44 - Gonza Espeche (@espeche.g):
+cuantas veces te bocharon? yo probé 2 veces y ambas rebotadas por que ya había mucha oferta de mis skills (alta cabida)
+09:10:44 - Gonza Espeche (@espeche.g):
+aplicaste para alguna de estas? en <http://gun.io|gun.io> piden un referido
+09:25:41 - Aldo Sorbara (@aldo1891):
+Codementor :fastparrot:
+09:31:21 - Ale Miralles (@amiralles):
+Totalmente!
+09:33:52 - Ale Miralles (@amiralles):
+En toptal hace un par de años. Me acuerdo que me termino contactando un ñato de RH que me rompia las bolas todas las semanas! jaja
+09:34:04 - Ale Miralles (@amiralles):
+Pero no me cerraba la carga horaria.
+09:34:25 - Ale Miralles (@amiralles):
+Para que funcione tenes que tener disponibilidad fulltime
+09:34:36 - Ale Miralles (@amiralles):
+en <http://gun.io|gun.io> no aplique por ese motivo
+09:35:19 - Ale Miralles (@amiralles):
+dejan super en claro que no quieren saber nada con gente que tenga una disponibilidad menor a 20hs por semana
+09:35:37 - Ale Miralles (@amiralles):
+(Yo tengo 10/12, ponele...)
+09:35:59 - Marcos Casagrande (@marcoscvp90):
+también está gigster, yo estoy metido ahí
+09:36:45 - Ale Miralles (@amiralles):
+Ah, mira... Lo escuche nombrar alguna vez. Lo voy a chequear.
+09:36:49 - Ale Miralles (@amiralles):
+Gracias!
+09:36:56 - Marcos Casagrande (@marcoscvp90):
+es diferente, porque ahí vos te postulás a los freelance, yo aún no me postulé a ninguno, porque no tuve ni tiempo de mandar tax information (piden un formulario yankee que ni idea como rellenar), pero etsoy en el slack y veo los laburos que van posteando.
+09:37:31 - Marcos Casagrande (@marcoscvp90):
+<https://gigster.com/>
+09:45:53 - Ale Miralles (@amiralles):
+:clap::clap:
+09:53:04 - Ale Miralles (@amiralles):
+Ojo con el formulario ese, eh... Si los tipos son "tax collectors" (o algo asi) te descuentan un 30% de lo que le cobres a clientes de US.
+09:53:17 - Ale Miralles (@amiralles):
+Yo publique un ebook en Amazon y lo tuve que completar.
+09:53:57 - Ale Miralles (@amiralles):
+No se si es el mismo, pero que con el que digo yo te descuentan, te descuentan.
+09:54:19 - Ale Miralles (@amiralles):
+No joden con eso.
+09:57:01 - Ale Miralles (@amiralles):
+Ahi me uni a un slack de gigster
+09:57:07 - Ale Miralles (@amiralles):
+pero me parece que no es el correcto.
+09:57:17 - Ale Miralles (@amiralles):
+No veo mucha "accion"
+10:03:50 - Marcos Casagrande (@marcoscvp90):
+te invitan al slack cuando te unís a la plataforma
+10:04:16 - Marcos Casagrande (@marcoscvp90):
+*W-8 BEN* es el formulario
+10:11:08 - Ale Miralles (@amiralles):
+Si. Por lo que veo es ese.
+10:11:27 - Ale Miralles (@amiralles):
+No encuentro en Amazon el que complete yo, pero por lo que recuerdo es ese.
+10:11:35 - Ale Miralles (@amiralles):
+(Al menos tiene los mismos campos)
+10:12:07 - Ale Miralles (@amiralles):
+En el caso de amazon la entrevista para completar los taxes es online
+10:12:27 - Ale Miralles (@amiralles):
+tu ID para los impuestos es tu numero de CUIL/CUIT
+10:12:55 - Ale Miralles (@amiralles):
+y como argentina no tiene ningun convenio impositivo, te sacan el 30%
+10:13:41 - Ale Miralles (@amiralles):
+se que hay paises en los cuales no pagas esos impuestos
+10:13:53 - Ale Miralles (@amiralles):
+Voy a ver si lo encuentro
+10:14:12 - Ale Miralles (@amiralles):
+hay un tipo que te explica como hacer la carga impositiva
+10:14:33 - Ale Miralles (@amiralles):
+en el caso de el, como era de Tailandia (creo), tenia un beneficio que podia aplicar y zafaba ese 30%
+10:14:48 - Ale Miralles (@amiralles):
+creo que en nuestro caso, estamos al horno por ese lado.
+10:30:49 - Ale Miralles (@amiralles):
+Amazon support team:
+10:30:52 - Ale Miralles (@amiralles):
+"I don't see Argentina in the latest list of US tax treaties, so you may be subject to the 30% withholding. Theoretically you can get most of that back at the end of the year by filing a 1040NR form"
+10:31:45 - Ale Miralles (@amiralles):
+En el caso de los ebooks, el dolor de bolas de tener que hacer eso no tiene sentido, en el caso de los freelos, si.
+10:49:37 - Aldo Gabriel Rojas (@aldogrojas5):
+Hay de esas páginas para novatos?
+10:53:21 - Ale Miralles (@amiralles):
+freelos?
+14:45:02 - Aldo Gabriel Rojas (@aldogrojas5):
+ni idea.. pregunto porque tengo ese de upwork y la mayoría piden años de experiencia en de todo... o sea... para newbies como yo, a seguir apechugando
+14:50:30 - Ale Miralles (@amiralles):
+Y si... es jodido porque en esas plataformas competis con gente que tiene experiencia. Eso es asi.
+14:51:01 - Ale Miralles (@amiralles):
+Si estas arrancando no es mala la de hacer "cosas que se puedan mostrar" para conocidos.
+14:51:37 - Ale Miralles (@amiralles):
+y por supuesto, suma mucho la presencia online. Blog, github, stack overflow, etc.. etc..
+14:52:34 - Ale Miralles (@amiralles):
+yo construiria por ese lado
+14:54:16 - Aldo Gabriel Rojas (@aldogrojas5):
+estoy en eso. Hice un página para la novia de un amigo y ahora me pidieron una más... las voy sumando al portfolio y cada vez q mando un cv las voy a poner... y en la cuenta de github, una de las páginas la estoy rehaciendo en react como para practicar y tener algún proyecto medianamente real...
+14:54:48 - Aldo Gabriel Rojas (@aldogrojas5):
+supongo que en algún momento dejás de ser un candidato descartable a simple vista a alguien con alguna chance! :grin:
+15:02:04 - Ale Miralles (@amiralles):
+Si logras tenerla clara con algo en particular (digamos, react), la experiencia es "chamuyable". Les podes decir trabaje mucho tiempo haciendo mantenimieto de aplicaciones legacy en VB6, me pudri y hace un anio que estoy con proyectos web.
+15:02:18 - Ale Miralles (@amiralles):
+nadie te va a tomar una prueba de VB6 :wink:
+15:02:59 - Ale Miralles (@amiralles):
+Obviamente, exagerar la experiencia, solo tiene sentido si la tenes clara con lo que estas aplicando, si es al pedo.
+15:03:53 - Ale Miralles (@amiralles):
+*sino
+17:04:49 - Julian (@jantonielli01):
+Es medio pija upwork
+17:04:55 - Julian (@jantonielli01):
+Yo labure approx 6 meses por ahí
+17:05:23 - Julian (@jantonielli01):
+Los laburos que hay son una garcha, lo mas safable es encontrar alguno que quiera algo part/full time por unas semanas/meses
+17:05:33 - Julian (@jantonielli01):
+Pero por los laburos sueltos no pagan una verga
+17:08:20 - Ale Miralles (@amiralles):
+Esa fue mi impresion. Por eso no le di mucha bola.
+17:09:21 - Ale Miralles (@amiralles):
+Las cosas sueltas no tenian sentido (economicamente hablando)
+17:49:36 - Aldo Gabriel Rojas (@aldogrojas5):
+<@U7MP5R4MC> che, y esos meses q laburaste ahí, los laburos cómo te los pagan? Al finalizar el proyecto? Por semana? Mes?
+17:50:49 - Santiago Ruffino (@santi_0898):
+Se paga al finalizar proyecto
+17:55:41 - Julian (@jantonielli01):
+Por hora 
+17:55:51 - Julian (@jantonielli01):
+Con Upwork dándome la plata cada 2 semanas 
+17:56:32 - Julian (@jantonielli01):
+Lo mas redituable que hice ahí fue laburar 2 meses full time para una empresa, codeando haskell, sacaba 4k y monedas por mes 
+17:57:31 - Martín Valdés de León (@mvaldesdeleon):
+*monadas
+18:27:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Q lendoooooo
+18:27:29 - Aldo Gabriel Rojas (@aldogrojas5):
+Y con el tema impositivo acá cómo se maneja?
+18:28:08 - Julian (@jantonielli01):
+todo en black
+07:56:33 - Pablo Miceli (@pablomiceli24):
+alguno sabe si tardan mucho los de upwork en hacer review de la cuenta?
+08:45:25 - Diego Harari (@diehara):
+Hola <@UFB4A82UU> a mi me tardaron un montón, me rechazaron varias veces
+08:45:32 - Diego Harari (@diehara):
+una vez que entre conseguí algunas cosas
+08:45:33 - Diego Harari (@diehara):
+basicas
+08:45:41 - Diego Harari (@diehara):
+pero el tema es que empezaron a cobrar por connection
+08:45:46 - Diego Harari (@diehara):
+creo que 0.15 cents
+08:47:02 - Pablo Miceli (@pablomiceli24):
+x_x
+08:47:45 - Diego Harari (@diehara):
+lo positivo de eso es que habían comentado que mucha oferta era trucha entonces con el cobro que establecieron
+08:47:49 - Diego Harari (@diehara):
+la plataforma seria mas seria
+08:47:56 - Diego Harari (@diehara):
+no se que onda workana
+08:47:59 - Diego Harari (@diehara):
+me suena que es peor
+08:56:04 - Ale Miralles (@amiralles):
+Sabes que yo no vi nada potable en upwork (aun)
+08:57:14 - Ale Miralles (@amiralles):
+Me parece que si tenes tiempo para dedicarle a las cosas freelance toptal o <http://gun.io|gun.io> son las empresas donde podes llegar a conseguir "top dollar" por tu trabajo.
+08:57:56 - Ale Miralles (@amiralles):
+(al menos en el research basico que hice, fueron las unicas que me cerraron)
+09:05:44 - Gonza Espeche (@espeche.g):
+cuantas veces te bocharon? yo probé 2 veces y ambas rebotadas por que ya había mucha oferta de mis skills (alta cabida)
+09:10:44 - Gonza Espeche (@espeche.g):
+aplicaste para alguna de estas? en <http://gun.io|gun.io> piden un referido
+09:25:41 - Aldo Sorbara (@aldo1891):
+Codementor :fastparrot:
+09:31:21 - Ale Miralles (@amiralles):
+Totalmente!
+09:33:52 - Ale Miralles (@amiralles):
+En toptal hace un par de años. Me acuerdo que me termino contactando un ñato de RH que me rompia las bolas todas las semanas! jaja
+09:34:04 - Ale Miralles (@amiralles):
+Pero no me cerraba la carga horaria.
+09:34:25 - Ale Miralles (@amiralles):
+Para que funcione tenes que tener disponibilidad fulltime
+09:34:36 - Ale Miralles (@amiralles):
+en <http://gun.io|gun.io> no aplique por ese motivo
+09:35:19 - Ale Miralles (@amiralles):
+dejan super en claro que no quieren saber nada con gente que tenga una disponibilidad menor a 20hs por semana
+09:35:37 - Ale Miralles (@amiralles):
+(Yo tengo 10/12, ponele...)
+09:35:59 - Marcos Casagrande (@marcoscvp90):
+también está gigster, yo estoy metido ahí
+09:36:45 - Ale Miralles (@amiralles):
+Ah, mira... Lo escuche nombrar alguna vez. Lo voy a chequear.
+09:36:49 - Ale Miralles (@amiralles):
+Gracias!
+09:36:56 - Marcos Casagrande (@marcoscvp90):
+es diferente, porque ahí vos te postulás a los freelance, yo aún no me postulé a ninguno, porque no tuve ni tiempo de mandar tax information (piden un formulario yankee que ni idea como rellenar), pero etsoy en el slack y veo los laburos que van posteando.
+09:37:31 - Marcos Casagrande (@marcoscvp90):
+<https://gigster.com/>
+09:45:53 - Ale Miralles (@amiralles):
+:clap::clap:
+09:53:04 - Ale Miralles (@amiralles):
+Ojo con el formulario ese, eh... Si los tipos son "tax collectors" (o algo asi) te descuentan un 30% de lo que le cobres a clientes de US.
+09:53:17 - Ale Miralles (@amiralles):
+Yo publique un ebook en Amazon y lo tuve que completar.
+09:53:57 - Ale Miralles (@amiralles):
+No se si es el mismo, pero que con el que digo yo te descuentan, te descuentan.
+09:54:19 - Ale Miralles (@amiralles):
+No joden con eso.
+09:57:01 - Ale Miralles (@amiralles):
+Ahi me uni a un slack de gigster
+09:57:07 - Ale Miralles (@amiralles):
+pero me parece que no es el correcto.
+09:57:17 - Ale Miralles (@amiralles):
+No veo mucha "accion"
+10:03:50 - Marcos Casagrande (@marcoscvp90):
+te invitan al slack cuando te unís a la plataforma
+10:04:16 - Marcos Casagrande (@marcoscvp90):
+*W-8 BEN* es el formulario
+10:11:08 - Ale Miralles (@amiralles):
+Si. Por lo que veo es ese.
+10:11:27 - Ale Miralles (@amiralles):
+No encuentro en Amazon el que complete yo, pero por lo que recuerdo es ese.
+10:11:35 - Ale Miralles (@amiralles):
+(Al menos tiene los mismos campos)
+10:12:07 - Ale Miralles (@amiralles):
+En el caso de amazon la entrevista para completar los taxes es online
+10:12:27 - Ale Miralles (@amiralles):
+tu ID para los impuestos es tu numero de CUIL/CUIT
+10:12:55 - Ale Miralles (@amiralles):
+y como argentina no tiene ningun convenio impositivo, te sacan el 30%
+10:13:41 - Ale Miralles (@amiralles):
+se que hay paises en los cuales no pagas esos impuestos
+10:13:53 - Ale Miralles (@amiralles):
+Voy a ver si lo encuentro
+10:14:12 - Ale Miralles (@amiralles):
+hay un tipo que te explica como hacer la carga impositiva
+10:14:33 - Ale Miralles (@amiralles):
+en el caso de el, como era de Tailandia (creo), tenia un beneficio que podia aplicar y zafaba ese 30%
+10:14:48 - Ale Miralles (@amiralles):
+creo que en nuestro caso, estamos al horno por ese lado.
+10:30:49 - Ale Miralles (@amiralles):
+Amazon support team:
+10:30:52 - Ale Miralles (@amiralles):
+"I don't see Argentina in the latest list of US tax treaties, so you may be subject to the 30% withholding. Theoretically you can get most of that back at the end of the year by filing a 1040NR form"
+10:31:45 - Ale Miralles (@amiralles):
+En el caso de los ebooks, el dolor de bolas de tener que hacer eso no tiene sentido, en el caso de los freelos, si.
+10:49:37 - Aldo Gabriel Rojas (@aldogrojas5):
+Hay de esas páginas para novatos?
+10:53:21 - Ale Miralles (@amiralles):
+freelos?
+14:45:02 - Aldo Gabriel Rojas (@aldogrojas5):
+ni idea.. pregunto porque tengo ese de upwork y la mayoría piden años de experiencia en de todo... o sea... para newbies como yo, a seguir apechugando
+14:50:30 - Ale Miralles (@amiralles):
+Y si... es jodido porque en esas plataformas competis con gente que tiene experiencia. Eso es asi.
+14:51:01 - Ale Miralles (@amiralles):
+Si estas arrancando no es mala la de hacer "cosas que se puedan mostrar" para conocidos.
+14:51:37 - Ale Miralles (@amiralles):
+y por supuesto, suma mucho la presencia online. Blog, github, stack overflow, etc.. etc..
+14:52:34 - Ale Miralles (@amiralles):
+yo construiria por ese lado
+14:54:16 - Aldo Gabriel Rojas (@aldogrojas5):
+estoy en eso. Hice un página para la novia de un amigo y ahora me pidieron una más... las voy sumando al portfolio y cada vez q mando un cv las voy a poner... y en la cuenta de github, una de las páginas la estoy rehaciendo en react como para practicar y tener algún proyecto medianamente real...
+14:54:48 - Aldo Gabriel Rojas (@aldogrojas5):
+supongo que en algún momento dejás de ser un candidato descartable a simple vista a alguien con alguna chance! :grin:
+15:02:04 - Ale Miralles (@amiralles):
+Si logras tenerla clara con algo en particular (digamos, react), la experiencia es "chamuyable". Les podes decir trabaje mucho tiempo haciendo mantenimieto de aplicaciones legacy en VB6, me pudri y hace un anio que estoy con proyectos web.
+15:02:18 - Ale Miralles (@amiralles):
+nadie te va a tomar una prueba de VB6 :wink:
+15:02:59 - Ale Miralles (@amiralles):
+Obviamente, exagerar la experiencia, solo tiene sentido si la tenes clara con lo que estas aplicando, si es al pedo.
+15:03:53 - Ale Miralles (@amiralles):
+*sino
+17:04:49 - Julian (@jantonielli01):
+Es medio pija upwork
+17:04:55 - Julian (@jantonielli01):
+Yo labure approx 6 meses por ahí
+17:05:23 - Julian (@jantonielli01):
+Los laburos que hay son una garcha, lo mas safable es encontrar alguno que quiera algo part/full time por unas semanas/meses
+17:05:33 - Julian (@jantonielli01):
+Pero por los laburos sueltos no pagan una verga
+17:08:20 - Ale Miralles (@amiralles):
+Esa fue mi impresion. Por eso no le di mucha bola.
+17:09:21 - Ale Miralles (@amiralles):
+Las cosas sueltas no tenian sentido (economicamente hablando)
+17:49:36 - Aldo Gabriel Rojas (@aldogrojas5):
+<@U7MP5R4MC> che, y esos meses q laburaste ahí, los laburos cómo te los pagan? Al finalizar el proyecto? Por semana? Mes?
+17:50:49 - Santiago Ruffino (@santi_0898):
+Se paga al finalizar proyecto
+17:55:41 - Julian (@jantonielli01):
+Por hora 
+17:55:51 - Julian (@jantonielli01):
+Con Upwork dándome la plata cada 2 semanas 
+17:56:32 - Julian (@jantonielli01):
+Lo mas redituable que hice ahí fue laburar 2 meses full time para una empresa, codeando haskell, sacaba 4k y monedas por mes 
+17:57:31 - Martín Valdés de León (@mvaldesdeleon):
+*monadas
+18:27:09 - Aldo Gabriel Rojas (@aldogrojas5):
+Q lendoooooo
+18:27:29 - Aldo Gabriel Rojas (@aldogrojas5):
+Y con el tema impositivo acá cómo se maneja?
+18:28:08 - Julian (@jantonielli01):
+todo en black
