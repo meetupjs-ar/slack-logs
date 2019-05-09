@@ -1,0 +1,480 @@
+15:46:18 - Federico A. Sawady O'Connor (@sawady.faso):
+<https://www.codementor.io/peterxie>
+15:46:27 - Federico A. Sawady O'Connor (@sawady.faso):
+este tipo quiere que lo ayuden lo antes posible con Java y MongoDB
+15:46:28 - Federico A. Sawady O'Connor (@sawady.faso):
+es una gilada
+15:46:37 - Federico A. Sawady O'Connor (@sawady.faso):
+si alguno tiene tiempo...
+16:10:22 - Aldo Sorbara (@aldo1891):
+no anda el weekly bonus en codementor?
+16:39:12 - Mariano Ramonda (@ing.inf.mariano):
+curiosidad si se puede decir, alguno ya paso los 5k mensuales con CM?
+16:52:11 - Aldo Sorbara (@aldo1891):
+5k dolar??
+16:52:14 - Aldo Sorbara (@aldo1891):
+:open_mouth:
+16:53:57 - Gonzalo González Mora (@gonzalogm):
+Un sueldo para un senior puede superar eso incluso, depende la empresa (generalmente de USA) y tecnología
+16:54:02 - Gonzalo González Mora (@gonzalogm):
+(sí, 5K USD)
+16:54:24 - Aldo Sorbara (@aldo1891):
+yo estoy haciendo cosas muy de vez en cuando y llegue a 3000
+16:54:31 - Aldo Sorbara (@aldo1891):
+en mi 1er mes
+16:54:42 - Gonzalo González Mora (@gonzalogm):
+Re bien igual
+16:54:54 - Mariano Ramonda (@ing.inf.mariano):
+1 mes 3k :clap:
+16:55:13 - Aldo Sorbara (@aldo1891):
+si
+16:55:21 - Aldo Sorbara (@aldo1891):
+y ahora no le estoy dedicando lo que tendria
+16:55:24 - Aldo Sorbara (@aldo1891):
+pero sino la verdad que rinde
+16:55:46 - Aldo Sorbara (@aldo1891):
+la cagada es que vi que hay mucho php wordpress, q son los q mas pagan, y no me da muchas ganas hacerlo
+16:57:27 - Federico A. Sawady O'Connor (@sawady.faso):
+yo el mes pasado hice 1600
+16:57:39 - Julian (@jantonielli01):
+Yo le estuve dedicando 2 horas diaras approx, saque 1400 creo
+15:46:18 - Federico A. Sawady O'Connor (@sawady.faso):
+<https://www.codementor.io/peterxie>
+15:46:27 - Federico A. Sawady O'Connor (@sawady.faso):
+este tipo quiere que lo ayuden lo antes posible con Java y MongoDB
+15:46:28 - Federico A. Sawady O'Connor (@sawady.faso):
+es una gilada
+15:46:37 - Federico A. Sawady O'Connor (@sawady.faso):
+si alguno tiene tiempo...
+16:10:22 - Aldo Sorbara (@aldo1891):
+no anda el weekly bonus en codementor?
+16:39:12 - Mariano Ramonda (@ing.inf.mariano):
+curiosidad si se puede decir, alguno ya paso los 5k mensuales con CM?
+16:52:11 - Aldo Sorbara (@aldo1891):
+5k dolar??
+16:52:14 - Aldo Sorbara (@aldo1891):
+:open_mouth:
+16:53:57 - Gonzalo González Mora (@gonzalogm):
+Un sueldo para un senior puede superar eso incluso, depende la empresa (generalmente de USA) y tecnología
+16:54:02 - Gonzalo González Mora (@gonzalogm):
+(sí, 5K USD)
+16:54:24 - Aldo Sorbara (@aldo1891):
+yo estoy haciendo cosas muy de vez en cuando y llegue a 3000
+16:54:31 - Aldo Sorbara (@aldo1891):
+en mi 1er mes
+16:54:42 - Gonzalo González Mora (@gonzalogm):
+Re bien igual
+16:54:54 - Mariano Ramonda (@ing.inf.mariano):
+1 mes 3k :clap:
+16:55:13 - Aldo Sorbara (@aldo1891):
+si
+16:55:21 - Aldo Sorbara (@aldo1891):
+y ahora no le estoy dedicando lo que tendria
+16:55:24 - Aldo Sorbara (@aldo1891):
+pero sino la verdad que rinde
+16:55:46 - Aldo Sorbara (@aldo1891):
+la cagada es que vi que hay mucho php wordpress, q son los q mas pagan, y no me da muchas ganas hacerlo
+16:57:27 - Federico A. Sawady O'Connor (@sawady.faso):
+yo el mes pasado hice 1600
+16:57:39 - Julian (@jantonielli01):
+Yo le estuve dedicando 2 horas diaras approx, saque 1400 creo
+16:57:44 - Federico A. Sawady O'Connor (@sawady.faso):
+creeo que laburando tipo part-time llegas tranqui a los 3k
+16:57:46 - Federico A. Sawady O'Connor (@sawady.faso):
+tranquilamente
+16:57:55 - Federico A. Sawady O'Connor (@sawady.faso):
+y full para mi ya te parte al medio en cansancio
+16:58:15 - Federico A. Sawady O'Connor (@sawady.faso):
+en un momento son tantos dialectos que me hacen doler la cabeza
+16:58:19 - Mariano Ramonda (@ing.inf.mariano):
+Es más desgastante que un laburo “normal”?
+16:58:23 - Julian (@jantonielli01):
+Te fue re bien, <@UEP9Q4TUP>
+16:58:23 - Federico A. Sawady O'Connor (@sawady.faso):
+see
+16:58:38 - Federico A. Sawady O'Connor (@sawady.faso):
+uno no puede "enseñar" tanta cantidad de tiempo
+16:58:38 - Julian (@jantonielli01):
+Ví que vas 55 laburos ya, que capo
+16:58:44 - Federico A. Sawady O'Connor (@sawady.faso):
+encima esto es "enseñar" más debugging a veces
+16:58:54 - Aldo Sorbara (@aldo1891):
+si, tuve mucha suerte o no se que fue, pero el ser featured me ayudo
+16:59:01 - Aldo Sorbara (@aldo1891):
+me mandan muchos chats
+16:59:06 - Julian (@jantonielli01):
+Ah, eso es joya
+16:59:15 - Julian (@jantonielli01):
+yo todavía no estoy de featured
+17:03:05 - Ale Miralles (@amiralles):
+yo el primer mes hice 1K
+17:03:15 - Ale Miralles (@amiralles):
+vamos a ver como va este
+17:03:32 - Ale Miralles (@amiralles):
+5K no creo que sea posible si no te dedicas de lleno a eso
+17:03:50 - Gonzalo González Mora (@gonzalogm):
+Claro, imagino que lo decía dedicándose full time
+17:04:37 - Julian (@jantonielli01):
+Preguntemosle a <@UGQTUDQSG>
+17:08:30 - Martín Aimar (@maimar):
+bancá que está tirando una session
+17:09:01 - Aldo Sorbara (@aldo1891):
+jajaj
+17:10:01 - Gonza Espeche (@espeche.g):
+Jajaj
+17:12:36 - Mariano Ramonda (@ing.inf.mariano):
+El está en otro level
+17:12:49 - Mariano Ramonda (@ing.inf.mariano):
+Lo veo más cerca de los 10k que de los 5
+17:12:55 - Julian (@jantonielli01):
+Se, yo tmb
+17:13:06 - Mariano Ramonda (@ing.inf.mariano):
+Buenos outcomes muchachos, me alegro
+17:13:49 - Julian (@jantonielli01):
+Se, yo pensaba hacer un resumen más adelante, cuando tenga más data
+17:13:58 - Julian (@jantonielli01):
+Para los que les interese, de cuanto fui ganando
+17:14:21 - Julian (@jantonielli01):
+Siento que es data útil para incentivar a otros a que dejen sus laburos de mierda en argentina jaj
+17:15:54 - Mariano Ramonda (@ing.inf.mariano):
+Jajaja creo que a eso ya los saben todos
+17:16:15 - Ale Miralles (@amiralles):
+es muy buena <@U7MP5R4MC>
+17:16:21 - Mariano Ramonda (@ing.inf.mariano):
+Pero existe una sensación de “seguridad” (y comodidad a la vez) que le gana a la plata
+17:16:34 - Ale Miralles (@amiralles):
+yo ya empece a evangelizar al estilo <@UGQTUDQSG>
+17:16:41 - Julian (@jantonielli01):
+Hmm, no te creas
+17:16:42 - Ale Miralles (@amiralles):
+vamos a ver si alguno se prende
+17:16:43 - Ale Miralles (@amiralles):
+jaja
+17:16:47 - Mariano Ramonda (@ing.inf.mariano):
+Conozco gente muy grosa ganando sueldos de mierda en pesos, pero valoran otras cosas
+17:17:16 - Ale Miralles (@amiralles):
+yo valoro la estabilidad, pero tengo que poder combinarla con algo que sea rentable
+17:17:22 - Ale Miralles (@amiralles):
+un equilibrio digamos
+17:18:01 - Ale Miralles (@amiralles):
+yo laburo desde casa para un empresa argentina y tengo un sueldo fijo (mas aportes, aguinaldo, vacaciones, etc.. etc...)
+17:18:31 - Ale Miralles (@amiralles):
+La cagada, es que como dice <@U86N8M2JK> es en pesos, y obviaente, no esta a la altura de los sueldos de afuera
+17:18:44 - Ale Miralles (@amiralles):
+pero tengo un par de horas libres para codementor y proyectos personales
+17:18:59 - Mariano Ramonda (@ing.inf.mariano):
+Yo laburo fijo para una empresa de usa sin todo eso pero lo absorbe (con creces) el rate de por hora
+17:19:08 - Ale Miralles (@amiralles):
+al final del dia, es una combinacion que me cierra.
+17:19:13 - Mariano Ramonda (@ing.inf.mariano):
+Pero se siente inestable algo así para muchos
+17:19:34 - Mariano Ramonda (@ing.inf.mariano):
+Para mi te pueden rajar de cualquier lado
+17:19:53 - Ale Miralles (@amiralles):
+Si tal cual.
+17:19:55 - Mariano Ramonda (@ing.inf.mariano):
+Y vacaciones pagas, aguinaldo, etc se puede traducir en más plata por hora
+17:20:03 - Ale Miralles (@amiralles):
+Totalmente
+17:20:42 - Mariano Ramonda (@ing.inf.mariano):
+No comparto la cultura seca bocha de workaholics yankies, pero pagan más que nadie lamentablemente 
+17:21:01 - Mariano Ramonda (@ing.inf.mariano):
+Yo hago lo mínimo necesario y les sirve
+17:21:25 - Ale Miralles (@amiralles):
+Si, ni hablar.
+17:21:29 - Julian (@jantonielli01):
+Donde laburás, <@U86N8M2JK>?
+17:21:35 - Ale Miralles (@amiralles):
+Los numeros que manejas en USA son otros.
+17:21:47 - Mariano Ramonda (@ing.inf.mariano):
+Se llama Aptly, de SF
+17:22:05 - Mariano Ramonda (@ing.inf.mariano):
+Creo que vi entrar a este canal a mi recruiter hace poco jajaj
+17:22:41 - Mariano Ramonda (@ing.inf.mariano):
+Y estoy a la espera de si se copan con mi remuneración pretendida en CleverTech, pero lo dudo
+17:22:49 - Mariano Ramonda (@ing.inf.mariano):
+Son medio ratas
+17:28:14 - Adrián Velasco (@adrivelasco1506):
+yo voy 43 sessions en codementor, pero me falta unas décimas llegar a los 2k al menos :cry:
+17:29:07 - Ale Miralles (@amiralles):
+2k no esta nada mal!
+17:29:12 - Ale Miralles (@amiralles):
+porque lloras?
+17:29:16 - Gonza Espeche (@espeche.g):
+Por qué la cara triste? Hdp
+17:29:20 - Gonza Espeche (@espeche.g):
+Jajaj
+17:29:22 - Adrián Velasco (@adrivelasco1506):
+jajajajaja me gusta la victimización
+17:29:41 - Mariano Ramonda (@ing.inf.mariano):
+Jauja y cuánto tiempo llevaron esas casi 2k?
+17:29:43 - Gonza Espeche (@espeche.g):
+Hay muchos acá mirando el chat esperando el momento para aplicar a CM
+17:29:43 - Adrián Velasco (@adrivelasco1506):
+igual pensé que iba a llegar a más pero bueno
+17:29:45 - Mariano Ramonda (@ing.inf.mariano):
+Estimados
+17:29:51 - Adrián Velasco (@adrivelasco1506):
+en promedio saco 300usd por semana
+17:30:00 - Adrián Velasco (@adrivelasco1506):
+una muy buena y con mi novia de viaje (mucho tiempo libre), saqué 400usd
+17:30:46 - Juan Scolari (@juanscolari):
+yo tambien quiero ser mi propio jefe (?  :smile:
+17:31:02 - Juan Scolari (@juanscolari):
+che, re bien lo que vienen haciendo todos :clap:  :clap:
+17:31:49 - Martín Aimar (@maimar):
+yo no metí ninguna, no le pude dedicar tiempo todavía
+17:31:57 - Adrián Velasco (@adrivelasco1506):
+la verdad que al mejor que le va es a Aldo jaja
+17:32:04 - Adrián Velasco (@adrivelasco1506):
+a mí también me hicieron featured por suerte
+17:32:05 - Martín Aimar (@maimar):
+cuando tengo mucho tiempo siempre estoy en un lugar público y es medio garcha si tengo que hablar con todo el ruido de fondo
+17:32:22 - Adrián Velasco (@adrivelasco1506):
+y metí un par de sesiones por contacto directo por md, sin necesidad de ir a buscarlo
+17:32:42 - Adrián Velasco (@adrivelasco1506):
+lo que noté es que sale muchísimo de python, pero demasiado
+17:33:03 - Adrián Velasco (@adrivelasco1506):
+por lo menos en estas últimas semanas, salió bastante tp de facultad y ejercicios boludos de eso
+17:33:04 - Ale Miralles (@amiralles):
+<@UC1QYJACE> muchas veces no es necesario hablar, eh. ojo. A mi paso que me dan el requerimiento, lo hago offline y despues por ahi meto una sesion corta para contarle lo que hice.
+17:33:14 - Martín Aimar (@maimar):
+ah eso estaría bueno
+17:33:18 - Martín Aimar (@maimar):
+pero son tipo 1:1 o freelance?
+17:33:42 - Adrián Velasco (@adrivelasco1506):
+algunos yankees no entienden de la vida y desean hablar por call
+17:33:58 - Adrián Velasco (@adrivelasco1506):
+incluso fue raro pero el finde por primera vez una vieja me pidió que también ponga la cámara para verme
+17:34:01 - Ale Miralles (@amiralles):
+puede ser que el nato quiera live 1:1, vos le ofrezcas el freelo, y agarre.
+17:34:05 - Ale Miralles (@amiralles):
+perdido por perdido....
+17:34:07 - Ale Miralles (@amiralles):
+jaja
+17:34:58 - Ale Miralles (@amiralles):
+yo trabaje mucho de esa forma
+17:35:03 - Juan Scolari (@juanscolari):
+en las sesiones que suelen mostrar? su compu?
+17:35:03 - Aldo Sorbara (@aldo1891):
+si, a mi la camara me pidieron una sola vez
+17:35:06 - Aldo Sorbara (@aldo1891):
+una señora grande jaja
+17:35:11 - Ale Miralles (@amiralles):
+casi la mitad de lo que hice fue freelo.
+17:35:20 - Adrián Velasco (@adrivelasco1506):
+seguro fue la misma entonces jajaja
+17:35:24 - Adrián Velasco (@adrivelasco1506):
+leslie se llamaba creo
+17:36:00 - Mariano Ramonda (@ing.inf.mariano):
+Queriiidoooo me arreglas el código??? Te hago unos tallarines caseros ehh
+17:36:11 - Ale Miralles (@amiralles):
+jajaja
+17:37:54 - Adrián Velasco (@adrivelasco1506):
+hay que aceptar que varios trabajos son estresantes y más debuggear con el remote control que no funciona tan bienn..
+17:38:16 - Martín Aimar (@maimar):
+claro la de hacerla en vivo es un poco estresante para mi
+17:38:37 - Aldo Sorbara (@aldo1891):
+si, trato de escaparle a las live session
+17:38:44 - Aldo Sorbara (@aldo1891):
+siempre trato de tener contexto
+17:38:47 - Adrián Velasco (@adrivelasco1506):
+me tocó debuggear esos sitios hechos con html y jquery que son una boludez pero son muy paja la verdad
+17:38:49 - Martín Aimar (@maimar):
+menos mal hdp jaja
+17:38:50 - Ale Miralles (@amiralles):
+En mi caso fueron las mas rentables, pero si, offilne estas mas tranquilo
+17:38:57 - Adrián Velasco (@adrivelasco1506):
+y la mayoría de los casos, el mismo flaco no tiene ni idea de su propio código
+17:39:00 - Aldo Sorbara (@aldo1891):
+pero son las mas rentables
+17:39:06 - Adrián Velasco (@adrivelasco1506):
+probablemente porque lo terciarizó
+17:39:09 - Adrián Velasco (@adrivelasco1506):
+con otro mentor
+17:39:17 - Aldo Sorbara (@aldo1891):
+tuve uno que haciamos una live session pero el me pasaba el codigo, yo se lo copiaba y pegaba, el lo deployaba
+17:39:24 - Aldo Sorbara (@aldo1891):
+y en realidad ese laburo es mas para un freelo
+17:39:27 - Aldo Sorbara (@aldo1891):
+epro el queria live session
+17:39:33 - Aldo Sorbara (@aldo1891):
+y yo contento pq cobraba cada minuto que pasaba
+17:39:36 - Ale Miralles (@amiralles):
+si quiere live session.....
+17:39:37 - Ale Miralles (@amiralles):
+jajaja
+17:39:39 - Aldo Sorbara (@aldo1891):
+incluso le decia, bueno probalo....
+17:39:46 - Adrián Velasco (@adrivelasco1506):
+sisi, de las sesiones es de donde más se saca
+17:39:53 - Aldo Sorbara (@aldo1891):
+y pasban minutos y no contestaba, y yo obviamente no le pedia que se apure
+17:40:00 - Gonzalo González Mora (@gonzalogm):
+- You should push now…
+- Again?
+- Yeah, just to make sure…
+17:40:10 - Aldo Sorbara (@aldo1891):
+una vez uno se fue porque tenia no se que cosa, y nunca me contesto..... y seguia corriendo el tiempo
+17:40:25 - Aldo Sorbara (@aldo1891):
+a los 20 min me dio cosa ya y cerre yo
+17:40:29 - Marcos Casagrande (@marcoscvp90):
+A mi me pidieron, y les dije: No hace falta, lo importante es el código, consume ancho de banda. #chau
+17:40:39 - Martín Aimar (@maimar):
+una vez uno me pidió free session para mostrarme el código, el tipo tenía una sopa imposible, le dije que para ver eso necesitaba verlo tranquilo un rato, pero después no supe más de él
+17:40:49 - Aldo Sorbara (@aldo1891):
+pero a los chabones no les importa, primero pq le estas solucionando algo que el no sabe y segundo porque son 2,50 para ellos
+17:41:07 - Adrián Velasco (@adrivelasco1506):
+una vez, una china me contrató un freelance job para hacer una app muy básica con create-react-app
+17:41:24 - Adrián Velasco (@adrivelasco1506):
+la entregué, quedó satisfecha, me manda a los segundos un contrato y me pide que se lo mande firmado
+17:41:45 - Adrián Velasco (@adrivelasco1506):
+me dio mucho miedo, claramente no lo firmé por las dudas
+17:41:46 - Ale Miralles (@amiralles):
+que jugador <@UGQTUDQSG>
+17:41:54 - Ale Miralles (@amiralles):
+10!
+17:42:35 - Marcos Casagrande (@marcoscvp90):
+Te acostumbrás, a mi la verdad ya no me molesta ni me cansa, además teniendo en cuenta que rara vez estoy 8 horas haciendo sesiones.
+17:42:50 - Marcos Casagrande (@marcoscvp90):
+:partyparrot:
+17:43:13 - Marcos Casagrande (@marcoscvp90):
+no lo firmaste al final? y que te dijo?
+17:44:03 - Adrián Velasco (@adrivelasco1506):
+me dijo que no pasa nada, que lo quería por protección
+17:44:15 - Aldo Sorbara (@aldo1891):
+tal cual jajaj
+17:44:18 - Adrián Velasco (@adrivelasco1506):
+que escuchó historias de compañeros que tuvieron malas experiencias con devs..
+17:46:17 - Marcos Casagrande (@marcoscvp90):
+y recién leo todo, pero full time se saca 3k fácilmente.
+17:47:04 - Marcos Casagrande (@marcoscvp90):
+Igual la posta es compaginarlo con algun que otro cliente o proyecto freelance que tengas y listo, para llenar los tiempos muertos de CM
+17:52:18 - Rodrigo Ali (@rodrigojali):
+Es muy sexy todo lo que dicen, yo sigo tomando notas. Por lo de la sensación de seguridad, por ahí va como charla en <#C54TWDKN1|experiencia-laboral> para que lo vea más gente también, pero TL;DR considero que la cabeza te hace "click" cuando entendés que 1 mes de laburo para afuera = 3~7 meses de laburo para acá. Entonces si laburás 1 mes y te echan (suponiendo que no sos un cebado y sabes manejar tu plata) tenés 2 meses de gracia para encontrar otro gig
+17:52:36 - Marcos Casagrande (@marcoscvp90):
+De hecho con muchos clientes de CM, te terminan contratando por fuera por varias horas mensuales, entonces ahí está la plata.
+17:52:52 - Rodrigo Ali (@rodrigojali):
+Y como dice arriba Mariano, vos me das a elegir cobrar 40k/month con aguinaldo, vaccays y todo... o ganar USD 3k por mes, me voy por los USD 3k mensuales sin pensarlo.
+17:53:02 - Rodrigo Ali (@rodrigojali):
+Es buena esa Marcos :open_mouth:
+17:53:09 - Marcos Casagrande (@marcoscvp90):
+Es eso, es lo que muchos amigos míos les cuenta entender y ex compañeros de laburo. Ganar x3-7 más no significa ahorrar 3-7 veces más, generalmente ahorrás 20 veces más.
+17:54:17 - Marcos Casagrande (@marcoscvp90):
+Porque si tu sueldo son 50k, y vos tenés gastos fijos por 45-50, significa que ahorrás 5k en el mejor de los casos. Si vos triplicás tus sueldo, a 150k, y elevás tus gastos un poco, pasás a gastar 60k, aún te sobran 90k, que son entre 18 y 90 veces más.
+17:54:44 - Ale Miralles (@amiralles):
+Ojo, no creo que los que aca ganan 40k/month (junior) cobren 3k afuera.
+17:55:10 - Marcos Casagrande (@marcoscvp90):
+Tengo amigos semis, que cobran 40k
+17:55:14 - Julian (@jantonielli01):
+40k para un junior me parece bastante acá igual 
+17:55:23 - Marcos Casagrande (@marcoscvp90):
+y esos amigos, ganarían 3k seguro laburando para afuera.
+17:55:24 - Julian (@jantonielli01):
+Un amigo entró cobrando 22 
+17:55:28 - Ale Miralles (@amiralles):
+Uh.... los estan matando.
+17:55:39 - Marcos Casagrande (@marcoscvp90):
+Si, los están aniquilando, me da pena posta y bronca.
+17:55:46 - Ale Miralles (@amiralles):
+buenos esa gente si, claramente tiene que olvidarse del fijo y salir a buscar otra cosa.
+17:56:00 - Ale Miralles (@amiralles):
+Y si, que te parece.
+17:56:08 - Ale Miralles (@amiralles):
+Es muy bajo. Mal.
+17:56:11 - Marcos Casagrande (@marcoscvp90):
+Tienen miedo a lo desconocido.
+17:56:33 - Ale Miralles (@amiralles):
+Incluso, pueden conseguir algo mejor y seguir en relacion de dependencia
+17:56:44 - Ale Miralles (@amiralles):
+en ese caso no es tan jodido conseguir algo nuevo
+17:56:58 - Marcos Casagrande (@marcoscvp90):
+es lo que digo siempre y lo que dijo <@UFFG5EPGU> recién. Trabjar en relación de dependencia en Argentina, no es seguridad laboral. Ser freelance y cobrar 3k-5k USD variable por mes es seguridad.
+17:57:35 - Marcos Casagrande (@marcoscvp90):
+Si en 3 meses ya hacés el sueldo anual de alguien en relación de dependencia acá, más seguridad que eso no existe.
+17:57:58 - Ale Miralles (@amiralles):
+El tema de la seguridad laboral es algo que hable muchas veces con mis amigos y yo creo que uno se inventa una especie de escudo para no sentirse tan en bolas.
+17:58:06 - Ale Miralles (@amiralles):
+obvio que tal cosa no existe
+17:58:34 - Marcos Casagrande (@marcoscvp90):
+En 2 mes freelance, tuve más ahorros que en toda mi vida.
+17:58:46 - Julian (@jantonielli01):
+Yo viví casi un año en arg con plata que junté en 2 meses laburando para afuera 
+17:58:53 - Julian (@jantonielli01):
+Jaj
+17:59:17 - Marcos Casagrande (@marcoscvp90):
+Es que ese es el calculo. 1-3 meses laburando para afuera, es el sueldo anual en relación de dependencia en Argentina.
+17:59:59 - Marcos Casagrande (@marcoscvp90):
+No hay con que darle, y sacando las empresas que laburan solo para el mercado local, el resto se cagan en guita negreando devs.
+18:00:19 - Ale Miralles (@amiralles):
+Olvidate.
+18:00:23 - Marcos Casagrande (@marcoscvp90):
+Obviamente una empresa quiere conseguir la mayor cantidad de ingresos posibles, pero ahí el dev no tiene que dejarse negrear.
+18:01:39 - Ale Miralles (@amiralles):
+Es verdad que hay muchas empresas que son "picadoras de carne"
+18:01:45 - Ale Miralles (@amiralles):
+lamentablemente, es asi.
+18:02:11 - Marcos Casagrande (@marcoscvp90):
+bendigo el día que conocí Codementor y me hizo abrir los ojos.
+18:04:03 - Ale Miralles (@amiralles):
+La verdad que si.
+18:04:10 - Ale Miralles (@amiralles):
+Esta muy piola ese sitio.
+18:04:22 - Ale Miralles (@amiralles):
+Y no es tan conocido
+18:05:56 - Julian (@jantonielli01):
+Eso es lo que lo hace piola 
+18:06:27 - Julian (@jantonielli01):
+Que no hay taaanta competencia, si no sería igual de verga que los otros mepa 
+18:06:54 - Marcos Casagrande (@marcoscvp90):
+para mi no es la competencia, es el piso salarial alto lo que lo hace diferente.
+18:07:12 - Marcos Casagrande (@marcoscvp90):
+Porque en Upwork, está lleno de gente que quiere pagar 5 USD.
+18:07:29 - Ale Miralles (@amiralles):
+tal cual
+18:07:33 - Ale Miralles (@amiralles):
+vi mucho de eso
+18:07:56 - Marcos Casagrande (@marcoscvp90):
+Y el filtro de que buscan "seniors", aunque se escape algún semi por ahi
+18:07:57 - Ale Miralles (@amiralles):
+onda tipos de India que cobraban menos 10 USD la hora
+18:08:02 - Ale Miralles (@amiralles):
+imposible competir ahi
+18:08:32 - Marcos Casagrande (@marcoscvp90):
+En upwork buscan barato, en CM calidad la mayoría.
+18:09:07 - Julian (@jantonielli01):
+Se, puede ser 
+18:09:13 - Julian (@jantonielli01):
+Que atrae clientes menos rata
+18:09:27 - Marcos Casagrande (@marcoscvp90):
+Habrá que ver con el tiempo, igual ya lleva 4 años.
+18:10:07 - Julian (@jantonielli01):
+Se, aunque es poco 4 años 
+18:10:16 - Julian (@jantonielli01):
+El otro día vi un vid del founder 
+18:10:18 - Ale Miralles (@amiralles):
+A mi en su momento me habian invitado a codementor
+18:10:26 - Julian (@jantonielli01):
+El pitch de CM en una competencia 
+18:10:27 - Ale Miralles (@amiralles):
+pero no me lo vendieron bien
+18:10:32 - Ale Miralles (@amiralles):
+al menos no me cerro
+18:11:02 - Ale Miralles (@amiralles):
+creo que en una epoca eran partners con pluralsight o algo de eso
+18:11:07 - Marcos Casagrande (@marcoscvp90):
+copado o una garcha?
+18:11:23 - Marcos Casagrande (@marcoscvp90):
+hackhands fue comprado y cerrado por pluralsight
+18:11:34 - Marcos Casagrande (@marcoscvp90):
+hackhands era competencia directa de CM, era igual la plataforma.
+18:11:44 - Ale Miralles (@amiralles):
+Ah... por ahi es ese, eh.... y estoy confundido.
+18:11:50 - Marcos Casagrande (@marcoscvp90):
+<https://www.pluralsight.com/hackhands>
+18:12:29 - Ale Miralles (@amiralles):
+debe ser ese entonces.
+18:12:32 - Marcos Casagrande (@marcoscvp90):
+Ahora ya es otra cosa, ni idea muy bien.
+18:12:40 - Julian (@jantonielli01):
+Meh, que se yo, era este <https://youtu.be/ZURhtRPhsBI>
