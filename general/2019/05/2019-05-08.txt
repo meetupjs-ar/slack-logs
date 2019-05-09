@@ -1,0 +1,54 @@
+22:00:03 - allan (@allan.tito):
+Trate de usarlo para C pero me dio un poco de problemas. Igual, gcs por la info :+1:
+22:50:20 - Martin Gonzalez (@martin2786):
+mmm quizas este equivocado pero keep alive te mantiene una conexion http por un tiempo prolongado sin tener que volver a crear una nueva si queres mandar o recibir mas cosas. No veo la conexion con una autenticacion con token. Aunque mantengas la misma conexion si el token expira no podes hacer nada.
+OpenID tiene una feature de autorenew que chequea cada x tiempo si el token esta por expirar y por medio de un iframe hace un request para refrescarlo, eso lo hace automatico.
+10:34:45 - Agos Gio (@agos_gio):
+Buen dia gente! Una consulta… en la startup donde arranque a laburar  queremos hacer cosas de merchandising, por el momento remeras. Podrian pasarme data de algun lugar que tenga buena calidad? Thanks!
+11:41:06 - Ari Sanguinetti (@arielsanguinetti):
+me refiero en el caso de los que te renuevan el token con cada transacción, podes tener una especie de “keep-alive” mandando una consulta cada tanto…
+11:47:43 - Cristhian Duran (@cris):
+<@U2NNKR8G7> usted creo que tiene un candidato para esto
+11:51:28 - Camila Cepeda (@camilunghi):
+Hola! Depende de lo que quieran hacer! Contame si queres más por mensaje privado y te paso un par de proveedores
+17:08:41 - Rodrigo Ali (@rodrigojali):
+Me lo traje de otro slack para el que le sirva: <https://cssfx.dev/>
+17:10:52 - Martín Valdés de León (@mvaldesdeleon):
+Por un lado esta piola, por otro lado me pasa que use algunos loading indicator open source y de repente caes en un sitio cualquiera y tiene el mismo loading indicator y es tipo
+
+<https://i.kym-cdn.com/entries/icons/mobile/000/023/397/C-658VsXoAo3ovC.jpg>
+18:23:06 - Gonzalo González Mora (@gonzalogm):
+<https://www.instagram.com/p/BxNmOIQgEu7/>
+
+Se viene el 1er meetup de React en Rosario. Se pueden inscribir con el link en la bio (perfil) de Instagram. Gracias de nuevo <@U24KJ4JET> y demás que dieron consejos :slightly_smiling_face: veremos qué tal sale!  Se pueden usar a <#CHUNCTPTK|reactrosario> también :wink:
+19:54:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Muy lindo!!r!!! Gracias!!
+20:01:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Igual... le metes un colorcito diferente, un grosor diferente, le cambias la velocidad y pasando rápido no se nota! :rolling_on_the_floor_laughing:
+22:00:03 - allan (@allan.tito):
+Trate de usarlo para C pero me dio un poco de problemas. Igual, gcs por la info :+1:
+22:50:20 - Martin Gonzalez (@martin2786):
+mmm quizas este equivocado pero keep alive te mantiene una conexion http por un tiempo prolongado sin tener que volver a crear una nueva si queres mandar o recibir mas cosas. No veo la conexion con una autenticacion con token. Aunque mantengas la misma conexion si el token expira no podes hacer nada.
+OpenID tiene una feature de autorenew que chequea cada x tiempo si el token esta por expirar y por medio de un iframe hace un request para refrescarlo, eso lo hace automatico.
+10:34:45 - Agos Gio (@agos_gio):
+Buen dia gente! Una consulta… en la startup donde arranque a laburar  queremos hacer cosas de merchandising, por el momento remeras. Podrian pasarme data de algun lugar que tenga buena calidad? Thanks!
+11:41:06 - Ari Sanguinetti (@arielsanguinetti):
+me refiero en el caso de los que te renuevan el token con cada transacción, podes tener una especie de “keep-alive” mandando una consulta cada tanto…
+11:47:43 - Cristhian Duran (@cris):
+<@U2NNKR8G7> usted creo que tiene un candidato para esto
+11:51:28 - Camila Cepeda (@camilunghi):
+Hola! Depende de lo que quieran hacer! Contame si queres más por mensaje privado y te paso un par de proveedores
+17:08:41 - Rodrigo Ali (@rodrigojali):
+Me lo traje de otro slack para el que le sirva: <https://cssfx.dev/>
+17:10:52 - Martín Valdés de León (@mvaldesdeleon):
+Por un lado esta piola, por otro lado me pasa que use algunos loading indicator open source y de repente caes en un sitio cualquiera y tiene el mismo loading indicator y es tipo
+
+<https://i.kym-cdn.com/entries/icons/mobile/000/023/397/C-658VsXoAo3ovC.jpg>
+18:23:06 - Gonzalo González Mora (@gonzalogm):
+<https://www.instagram.com/p/BxNmOIQgEu7/>
+
+Se viene el 1er meetup de React en Rosario. Se pueden inscribir con el link en la bio (perfil) de Instagram. Gracias de nuevo <@U24KJ4JET> y demás que dieron consejos :slightly_smiling_face: veremos qué tal sale!  Se pueden usar a <#CHUNCTPTK|reactrosario> también :wink:
+19:54:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Muy lindo!!r!!! Gracias!!
+20:01:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Igual... le metes un colorcito diferente, un grosor diferente, le cambias la velocidad y pasando rápido no se nota! :rolling_on_the_floor_laughing:
