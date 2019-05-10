@@ -1,0 +1,593 @@
+05:34:48 - gillchristian (@gillchristian):
+Una cosa que me doy cuenta es que meterme con FP, especialmente statically typed FP es que te re cambia la forma de pensar incluso cuando no haces código imperativo (e.g. Go)
+05:35:53 - gillchristian (@gillchristian):
+En mi equipo quedo un solo pibe de backend asi que le estoy haciendo los reviews yo, y entro a ver que hacen cosas en Go que son re _unsafe_ (?)
+05:37:35 - gillchristian (@gillchristian):
+Yo no hice mucho Go, salvo un par de CLIs para cosas mías, pero veo que incluso el codigo en Go lo escribo distinto que la gente que no viene de FP
+05:38:59 - gillchristian (@gillchristian):
+Usan muchos strings como enums pero sin garantia de nada
+05:39:48 - gillchristian (@gillchristian):
+La otra vez discutia con uno de los pibes sobre `interface{}` y el flaco defendia que estaba bien usarlo
+05:40:06 - gillchristian (@gillchristian):
+`interface{}` es basicamente un `unknown` o `any` de TS
+05:40:09 - gillchristian (@gillchristian):
+¯\_(ツ)_/¯
+07:47:01 - Leandro Echevarria (@echevarrialeandro):
+Es como un `logro desbloqueado` en el cerebro que te habilita a pensar y hacer cosas de otras maneras, usualmente mas eficientes y seguras. Yo soy un pichi igual en funcional, recien estoy agarrandome de los pelos con Ramda pero el potencial se ve a kilómetros. Y de yapa es divertido
+08:02:46 - Martín Valdés de León (@mvaldesdeleon):
+Lo que yo note es que mi forma de pensar los problemas es mas del estilo a resolver problemas de fisica.
+
+Ponele, si me dicen "Un cañon dispara una bala", dado que entiendo un poco de las leyes de mecanica, se que para poder responder preguntas tipo "Cuan lejos va a caer", necesito (a,b,c) variables, o (d,e,f) variables, etc. y en funcion de las variables que me van dando (por ejemplo, el angulo del cañon respecto del horizonte... o que luego de 5 segundos alcanza 10 metros de altura... o cualquier otra cosa), puedo ir ajustando el conjunto de variables que me faltan para poder finalmente resolver el problema. Y es mas bien un tema instintivo, no es que tenes que sentarte a despejar las ecuaciones... eso al final, a la hora de calcular la respuesta. Pero ir deduciendo que variables te hacen falta (guiandote por las unidades *coff, coff*), es instintivo porque entendes las leyes.
+
+Post-FP, mi forma de razonar problemas de CS es la misma... ok, necesito llegar a un dato con este tipo... y tengo a mi alcanze variables de estos tipos... entiendo las leyes... y del mismo modo instintivamente sabes si _podes_ o _no podes_ resolverlo con lo que tenes a mano. despues, es bashear datos hasta que los tipos coincidan.
+08:03:16 - Martín Valdés de León (@mvaldesdeleon):
+Oh casualidad, los fisicos hacen mucho de lo mismo guiandose unicamente por las unidades. Hay ecuaciones que las podes deducir porque es la unica forma posible de combinar los datos que tenes para que las unidades de entrada matcheen las de salida.
+08:44:53 - gillchristian (@gillchristian):
+Claro, en mi caso fue un cambio de pensar mas en types y despues en el codigo
+08:45:13 - gillchristian (@gillchristian):
+Pero es algo que no veo tanto fuera de funcional
+09:42:58 - Damian Diaz (@damianmdst):
+De hecho como dato de color (?) cuando agarras el resnick halliday en el primer capitulo sin enseñarte nada de fisica mas que matchear unidades podes llegar a dar con la ecuacion de planck sin saber absolutamente nada mas que unidades. Esta muy bueno llegar a ese estilo de pensamiento. Algun dia retomare ese libro es una genialidad.
+11:19:56 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.meetup.com/berlinhug/events/261292596/> <@U4MSULB2R>
+11:20:19 - Martín Valdés de León (@mvaldesdeleon):
+fijate en el slack de FP, el dude que organiza parece que labura en zalando haciendo ps
+11:33:14 - Rodrigo Juarez (@rjuarez):
+nice!, estoy re colgado igual con Haskell / FP :stuck_out_tongue:
+11:49:56 - Ezequiel Alvarez (@welcometothechango):
+solo para censar, que opinan de Elixir? para mi (subjetivamente y resumido) es demasiado parecido a ruby y trae muchas de las malas costumbres de esa comunidad, en cambio Erlang es hermoso y no lo necesita (?)
+11:57:20 - Martin Bavio (@mbavio):
+yo hago frontend principalmente, pero me toco trabajar en dos proyectos en los cuales el backend estaba implementando en Elixir/Phoenix, proyectos donde el real-time era importante. Dicho esto, debo decir que la premisa de Elixir _bancandosela un paquete_ (gracias a Erlang principalmente) se traslada a la realidad, nunca tuvimos un solo problema de escalabilidad aun cuando el dia del lanzamiento el trafico fue de una cantidad importante de usuarios.
+11:58:27 - gillchristian (@gillchristian):
+A mí me la baja la sintaxis de Ruby :sob: 
+11:58:37 - gillchristian (@gillchristian):
+Es todo lo que puedo decir jaja
+12:03:15 - Martin Bavio (@mbavio):
+tambien pude tener un par de entrevistas con la gente de The Outline (<https://theoutline.com/>), y ellos usan Elixir/Phoenix para todo. Phoenix es como la evolucion de Rails, por ende si no te gusta Ruby es muy probable que Elixir tampoco te guste.
+12:11:04 - Ezequiel Alvarez (@welcometothechango):
+claro pero eso es una ventaja de Erlang, no de Elixir (?)
+12:11:16 - gillchristian (@gillchristian):
+Lo que no me gusta es la sintaxis, el resto me parece piola (que venga de Erlang digamos)
+12:11:33 - Ezequiel Alvarez (@welcometothechango):
+no es solo la sintaxis, la comunidad ruby tiene opiniones _fuertes_ sorbe cosas _polemicas_
+12:11:42 - Ezequiel Alvarez (@welcometothechango):
+(convention-over-configuration por ej)
+12:21:10 - Martin Bavio (@mbavio):
+<@UDPN7GXRC> agree, pero Phoenix corre on top of Elixir, no de Erland directamente :man-shrugging:
+12:21:26 - Julian (@jantonielli01):
+que llorones que son con la sintaxis
+12:21:34 - Julian (@jantonielli01):
+tamos grandes
+12:21:59 - Martin Bavio (@mbavio):
+sintaxis fea/linda es demasiado relativo
+12:22:28 - Julian (@jantonielli01):
+e irrelevante la mayoria de la veces
+12:22:41 - Julian (@jantonielli01):
+podes tener pref obvio, pero no usar un lenguaje solo por la syntax me parece meh
+12:24:08 - gillchristian (@gillchristian):
+Estoy de acuerdo, pero bueno jode jaja
+12:56:55 - Juan Bono (@juanbono):
+A mi me copa bastante elixir, tiene algunas cosas que no me gustan de la comunidad Ruby (usar mucho metaprogramacion por ejemplo) pero despues arregla varias cosas de Erlang (la forma de escribir strings, tiene el pipe operator, el `with`, las macros son más lindas (?), el supervisor dinámico (aunque en Erlang tenés el simple_one_for_one, que es más o menos parecido) y cosas como los agents y las tasks
+12:58:13 - Juan Bono (@juanbono):
+No me molesta la sintaxis, aunque me gusta bastante la sintaxis Prolog-like de Erlang
+13:27:24 - Ezequiel Alvarez (@welcometothechango):
+suena a cosas q podes solucionar con librerias, y si el problema es la sintaxis hacemos un erlang con haskell-syntax y fin, el problema es la ruby-mind
+13:33:29 - Julian (@jantonielli01):
+Convention over configuration :+1::skin-tone-2::+1::skin-tone-2::+1::skin-tone-2::+1::skin-tone-2:
+14:23:47 - Martín Valdés de León (@mvaldesdeleon):
+poast
+14:30:28 - Leandro Echevarria (@echevarrialeandro):
+Qué lenguaje funcional (Elixir no vale) elegirían para hacer backend? Servidores principalmente, manejar data que venga de web, etc etc.
+14:31:10 - Juan Bono (@juanbono):
+Data que venga de web que sería? Tipo un formulario?
+14:32:05 - Leandro Echevarria (@echevarrialeandro):
+APIs se me ocurre principalmente. Lo normal que pueda interactuar React, Vue, sarasa
+14:32:42 - Ezequiel Alvarez (@welcometothechango):
+haskell? servant :heart:
+14:33:39 - Ezequiel Alvarez (@welcometothechango):
+clojure es alta opcion tmbn, JVM :heart:
+14:36:19 - Leandro Echevarria (@echevarrialeandro):
+Agrego otro filtro (solo gusto personal), que no use la JVM :grimacing:
+14:37:19 - Martín Valdés de León (@mvaldesdeleon):
+servant es bastante piola pero tenes que sentirte comodo codeando por inercia o entender ciertos topicos mas avanzados
+14:37:28 - Martín Valdés de León (@mvaldesdeleon):
+`scotty` es bastante straight-forward
+14:38:28 - Leandro Echevarria (@echevarrialeandro):
+Uno de los motivos por los cuales Elixir es hoy en dia mi primera opcion de un lenguaje funcional es porque es el que veo más expuesto, es decir, que si necesito algo lo voy a poder encontrar rápidamente navegando un poquito
+14:40:56 - Juan Bono (@juanbono):
+ReasonML no se que tal será para hacer APIs pero sé que tiene bindings para express asi que calculo que debe estar copado, aparte podes usar bindings de libs de js
+14:47:45 - Ezequiel Alvarez (@welcometothechango):
+`js en el back`
+14:48:07 - Ezequiel Alvarez (@welcometothechango):
+elixir esta super verde igual eh, aca hicieron una app phoenix y tuvieron que implementar bocha de cosas re normales para el auth
+14:48:41 - Ezequiel Alvarez (@welcometothechango):
+btw no recomiendo _cualquier_ fwk haskell, solo servant y yesod, creo q el overhead de "puro funcional" no garpa si usas scotty
+14:49:09 - Ezequiel Alvarez (@welcometothechango):
+en cambio servant es el futuro, genera documentacion, clientes, mensajes de error detallados, parsers, etc todo solo, magico y "gratis"
+14:49:39 - Leandro Echevarria (@echevarrialeandro):
+Servant no lo conocía ni de nombre :open_mouth:. Me lo estás vendiendo muy bien jaja. Voy a leer sobre él más tarde o cuando tenga un rato
+14:49:44 - Leandro Echevarria (@echevarrialeandro):
+Gracias por la data
+15:15:03 - Julian (@jantonielli01):
+Mensajes de errores..
+15:15:14 - Julian (@jantonielli01):
+En haskell son siempre mierda : p 
+15:15:22 - Julian (@jantonielli01):
+Pero si, esta copado servant 
+15:16:36 - Leandro Echevarria (@echevarrialeandro):
+Ahhh servant es un paquete de haskell, entiendo bien? Pensaba que era lenguage stand alone
+15:16:48 - Leandro Echevarria (@echevarrialeandro):
+Veo a haskell muchos escalones mas arriba de mi capacidad funcional hoy dia jaja
+15:18:38 - gillchristian (@gillchristian):
+Depende como lo encares
+15:18:57 - gillchristian (@gillchristian):
+Si empezas con el <http://haskellbook.com|haskellbook.com> no te va a llevar tanto
+15:21:22 - Leandro Echevarria (@echevarrialeandro):
+Cuando me libere un poco de tiempo lo voy a agarrar, junto con otras tantas cosas que tengo en el TODO para estudiar :rolling_on_the_floor_laughing:
+15:22:06 - Leandro Echevarria (@echevarrialeandro):
+Por lo pronto voy de a poco con Ramda para cambiar un poco el bocho de tanto OOP
+15:28:08 - Hernan Rajchert (@sherman):
+Muy buena entrevista a Anders Hejlsberg sobre TypeScript en el build 2019 <https://www.youtube.com/watch?v=tXK50czRbdA>
+15:28:57 - Hernan Rajchert (@sherman):
+Está diciendo fuerte y claro que le están dando más prioridad a los patrones funcionales en TS
+15:29:36 - Hernan Rajchert (@sherman):
+impulsado por mucho por usos como los higher order components en react
+15:30:26 - Hernan Rajchert (@sherman):
+le estan trabajando a HOF genericas que puedan recibir funciones genericas y menciona los problemas no poder usar unification
+15:30:52 - gillchristian (@gillchristian):
+Mi lista de TODO para estudiar es interminable
+15:31:06 - gillchristian (@gillchristian):
+Necesito la cápsula del tiempo de dragon ball
+15:31:17 - Hernan Rajchert (@sherman):
+entre lineas tmb podes ver los palos a oop y un par tmb a angular por promover usar annotations antes de ser standard y que ahora el spec va por otro lado
+15:32:12 - Martín Valdés de León (@mvaldesdeleon):
+TS me parece lo mas decente que podes armar habiendo elegido tener ese set de constraints. Claramente hay dedicacion.
+15:32:22 - Leandro Echevarria (@echevarrialeandro):
+Hermoso :clap::skin-tone-4:
+15:32:24 - Martín Valdés de León (@mvaldesdeleon):
+Pero imaginate si todo eso se hubiese gastado en promover un lenguaje mas piola ya existente.
+15:32:26 - Martín Valdés de León (@mvaldesdeleon):
+:stuck_out_tongue:
+15:32:32 - Hernan Rajchert (@sherman):
+si, mas que nada por la forma de laburar
+15:32:53 - Martín Valdés de León (@mvaldesdeleon):
+Porque por mas buena onda que le pongan, no van a poder hacer que TS tenga las features _que queremos_.
+15:33:15 - Leandro Echevarria (@echevarrialeandro):
+Jajaja sería hermoso tener una lpm. O ganarse la loteria, no laburas nunca mas y estudias full time lo que se te cante por gusto propio
+15:33:22 - Leandro Echevarria (@echevarrialeandro):
+Haces Open SOurce con eso
+15:33:25 - Leandro Echevarria (@echevarrialeandro):
+Utópico
+15:33:43 - Hernan Rajchert (@sherman):
+olvidate… a mi me encanta PureScript o Haskell por su elegancia a la hora de describir programas correctos, reutilizables y muchas veces con mucho menos codigo, pero el nivel de tooling que le meten a TS… mamita
+15:34:36 - Hernan Rajchert (@sherman):
+nop… pero mira la entrevista, fijate lo que le pregunta el chabon y la cara que le pone cuando Anders le habla de funciones genericas que reciben/devuelven funciones genericas y entendes todo
+15:34:44 - Leandro Echevarria (@echevarrialeandro):
+scotty qué sería?
+15:36:00 - Hernan Rajchert (@sherman):
+para la mayoria de los programadores es muy ajeno, y es entendible… entonces tal vez es más fácil acercarse a ellos con algo como TS que decirles aprendé todos estos conceptos y alli si podes empezar a disfrutar
+15:39:27 - Ezequiel Alvarez (@welcometothechango):
+no de compilación, los mensajes de error que serbant deriva de las rutas a nivel de tipos son buenos (onda falta este campo o falta un header)
+15:40:03 - Ezequiel Alvarez (@welcometothechango):
+una libreria web tmbn, pero sencilla, onda `flask` de python
+15:40:33 - Martín Valdés de León (@mvaldesdeleon):
+que se yo... la verdad, las cosas que hoy en dia son mainstream tambien son super ajenas/complejas la primera vez que las ves. onda "angular" y todo lo que trae detras. o todas las propiedades de css. o las cosas que he visto armar con rxjs...
+15:40:50 - Leandro Echevarria (@echevarrialeandro):
+Nice
+15:40:52 - Martín Valdés de León (@mvaldesdeleon):
+no se hasta donde posta es "tan jodido" (un haskell/purescript) para alguien dispuesto a aprender
+15:41:49 - Martín Valdés de León (@mvaldesdeleon):
+igual _posta_ lo unico que me gustaria tener es la sintaxis de ADTs/pattern matching.
+15:43:54 - Julian (@jantonielli01):
+Se, ya con adts soy relativamente feliz 
+15:44:06 - Martín Valdés de León (@mvaldesdeleon):
+claro. el resto lo armas encima de eso.
+15:44:09 - Julian (@jantonielli01):
+Quien mierda prefirió clases y herencia y toda esa mierda jaj
+15:44:20 - Martín Valdés de León (@mvaldesdeleon):
+(+ la feature de generics de generics que menciono Sherman, para ahorrarte algunos type annotations que deberian ser inferidos)
+15:47:45 - Hernan Rajchert (@sherman):
+yo con el pipe operator seria mas feliz
+15:48:05 - Ezequiel Alvarez (@welcometothechango):
+_hacelo en scheme si tenes huevos_
+15:51:07 - Hernan Rajchert (@sherman):
+a nivel teórico, si hacemos borron y cuenta nueva, yo creo que una opción funcional se mostraría mucho mas potente. Si se le hubiese dedicado todo el tiempo/tooling que se le da a TS, Java, .NET a hacer tooling para haskell, estariamos en la gloria. Pero como dice en la entrevista, si no tenes un feature que no te arrepentis de haber metido, no tenes un lenguaje real
+15:52:07 - Hernan Rajchert (@sherman):
+En algún momento había visto una charla de haskell en la que el chabon agradecia que estuvo en el anonimato/universidades por mucho tiempo, porque si se vuelve mainstream muy rapido, la cagan
+05:34:48 - gillchristian (@gillchristian):
+Una cosa que me doy cuenta es que meterme con FP, especialmente statically typed FP es que te re cambia la forma de pensar incluso cuando no haces código imperativo (e.g. Go)
+05:35:53 - gillchristian (@gillchristian):
+En mi equipo quedo un solo pibe de backend asi que le estoy haciendo los reviews yo, y entro a ver que hacen cosas en Go que son re _unsafe_ (?)
+05:37:35 - gillchristian (@gillchristian):
+Yo no hice mucho Go, salvo un par de CLIs para cosas mías, pero veo que incluso el codigo en Go lo escribo distinto que la gente que no viene de FP
+05:38:59 - gillchristian (@gillchristian):
+Usan muchos strings como enums pero sin garantia de nada
+05:39:48 - gillchristian (@gillchristian):
+La otra vez discutia con uno de los pibes sobre `interface{}` y el flaco defendia que estaba bien usarlo
+05:40:06 - gillchristian (@gillchristian):
+`interface{}` es basicamente un `unknown` o `any` de TS
+05:40:09 - gillchristian (@gillchristian):
+¯\_(ツ)_/¯
+07:47:01 - Leandro Echevarria (@echevarrialeandro):
+Es como un `logro desbloqueado` en el cerebro que te habilita a pensar y hacer cosas de otras maneras, usualmente mas eficientes y seguras. Yo soy un pichi igual en funcional, recien estoy agarrandome de los pelos con Ramda pero el potencial se ve a kilómetros. Y de yapa es divertido
+08:02:46 - Martín Valdés de León (@mvaldesdeleon):
+Lo que yo note es que mi forma de pensar los problemas es mas del estilo a resolver problemas de fisica.
+
+Ponele, si me dicen "Un cañon dispara una bala", dado que entiendo un poco de las leyes de mecanica, se que para poder responder preguntas tipo "Cuan lejos va a caer", necesito (a,b,c) variables, o (d,e,f) variables, etc. y en funcion de las variables que me van dando (por ejemplo, el angulo del cañon respecto del horizonte... o que luego de 5 segundos alcanza 10 metros de altura... o cualquier otra cosa), puedo ir ajustando el conjunto de variables que me faltan para poder finalmente resolver el problema. Y es mas bien un tema instintivo, no es que tenes que sentarte a despejar las ecuaciones... eso al final, a la hora de calcular la respuesta. Pero ir deduciendo que variables te hacen falta (guiandote por las unidades *coff, coff*), es instintivo porque entendes las leyes.
+
+Post-FP, mi forma de razonar problemas de CS es la misma... ok, necesito llegar a un dato con este tipo... y tengo a mi alcanze variables de estos tipos... entiendo las leyes... y del mismo modo instintivamente sabes si _podes_ o _no podes_ resolverlo con lo que tenes a mano. despues, es bashear datos hasta que los tipos coincidan.
+08:03:16 - Martín Valdés de León (@mvaldesdeleon):
+Oh casualidad, los fisicos hacen mucho de lo mismo guiandose unicamente por las unidades. Hay ecuaciones que las podes deducir porque es la unica forma posible de combinar los datos que tenes para que las unidades de entrada matcheen las de salida.
+08:44:53 - gillchristian (@gillchristian):
+Claro, en mi caso fue un cambio de pensar mas en types y despues en el codigo
+08:45:13 - gillchristian (@gillchristian):
+Pero es algo que no veo tanto fuera de funcional
+09:42:58 - Damian Diaz (@damianmdst):
+De hecho como dato de color (?) cuando agarras el resnick halliday en el primer capitulo sin enseñarte nada de fisica mas que matchear unidades podes llegar a dar con la ecuacion de planck sin saber absolutamente nada mas que unidades. Esta muy bueno llegar a ese estilo de pensamiento. Algun dia retomare ese libro es una genialidad.
+11:19:56 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.meetup.com/berlinhug/events/261292596/> <@U4MSULB2R>
+11:20:19 - Martín Valdés de León (@mvaldesdeleon):
+fijate en el slack de FP, el dude que organiza parece que labura en zalando haciendo ps
+11:33:14 - Rodrigo Juarez (@rjuarez):
+nice!, estoy re colgado igual con Haskell / FP :stuck_out_tongue:
+11:49:56 - Ezequiel Alvarez (@welcometothechango):
+solo para censar, que opinan de Elixir? para mi (subjetivamente y resumido) es demasiado parecido a ruby y trae muchas de las malas costumbres de esa comunidad, en cambio Erlang es hermoso y no lo necesita (?)
+11:57:20 - Martin Bavio (@mbavio):
+yo hago frontend principalmente, pero me toco trabajar en dos proyectos en los cuales el backend estaba implementando en Elixir/Phoenix, proyectos donde el real-time era importante. Dicho esto, debo decir que la premisa de Elixir _bancandosela un paquete_ (gracias a Erlang principalmente) se traslada a la realidad, nunca tuvimos un solo problema de escalabilidad aun cuando el dia del lanzamiento el trafico fue de una cantidad importante de usuarios.
+11:58:27 - gillchristian (@gillchristian):
+A mí me la baja la sintaxis de Ruby :sob: 
+11:58:37 - gillchristian (@gillchristian):
+Es todo lo que puedo decir jaja
+12:03:15 - Martin Bavio (@mbavio):
+tambien pude tener un par de entrevistas con la gente de The Outline (<https://theoutline.com/>), y ellos usan Elixir/Phoenix para todo. Phoenix es como la evolucion de Rails, por ende si no te gusta Ruby es muy probable que Elixir tampoco te guste.
+12:11:04 - Ezequiel Alvarez (@welcometothechango):
+claro pero eso es una ventaja de Erlang, no de Elixir (?)
+12:11:16 - gillchristian (@gillchristian):
+Lo que no me gusta es la sintaxis, el resto me parece piola (que venga de Erlang digamos)
+12:11:33 - Ezequiel Alvarez (@welcometothechango):
+no es solo la sintaxis, la comunidad ruby tiene opiniones _fuertes_ sorbe cosas _polemicas_
+12:11:42 - Ezequiel Alvarez (@welcometothechango):
+(convention-over-configuration por ej)
+12:21:10 - Martin Bavio (@mbavio):
+<@UDPN7GXRC> agree, pero Phoenix corre on top of Elixir, no de Erland directamente :man-shrugging:
+12:21:26 - Julian (@jantonielli01):
+que llorones que son con la sintaxis
+12:21:34 - Julian (@jantonielli01):
+tamos grandes
+12:21:59 - Martin Bavio (@mbavio):
+sintaxis fea/linda es demasiado relativo
+12:22:28 - Julian (@jantonielli01):
+e irrelevante la mayoria de la veces
+12:22:41 - Julian (@jantonielli01):
+podes tener pref obvio, pero no usar un lenguaje solo por la syntax me parece meh
+12:24:08 - gillchristian (@gillchristian):
+Estoy de acuerdo, pero bueno jode jaja
+12:56:55 - Juan Bono (@juanbono):
+A mi me copa bastante elixir, tiene algunas cosas que no me gustan de la comunidad Ruby (usar mucho metaprogramacion por ejemplo) pero despues arregla varias cosas de Erlang (la forma de escribir strings, tiene el pipe operator, el `with`, las macros son más lindas (?), el supervisor dinámico (aunque en Erlang tenés el simple_one_for_one, que es más o menos parecido) y cosas como los agents y las tasks
+12:58:13 - Juan Bono (@juanbono):
+No me molesta la sintaxis, aunque me gusta bastante la sintaxis Prolog-like de Erlang
+13:27:24 - Ezequiel Alvarez (@welcometothechango):
+suena a cosas q podes solucionar con librerias, y si el problema es la sintaxis hacemos un erlang con haskell-syntax y fin, el problema es la ruby-mind
+13:33:29 - Julian (@jantonielli01):
+Convention over configuration :+1::skin-tone-2::+1::skin-tone-2::+1::skin-tone-2::+1::skin-tone-2:
+14:23:47 - Martín Valdés de León (@mvaldesdeleon):
+poast
+14:30:28 - Leandro Echevarria (@echevarrialeandro):
+Qué lenguaje funcional (Elixir no vale) elegirían para hacer backend? Servidores principalmente, manejar data que venga de web, etc etc.
+14:31:10 - Juan Bono (@juanbono):
+Data que venga de web que sería? Tipo un formulario?
+14:32:05 - Leandro Echevarria (@echevarrialeandro):
+APIs se me ocurre principalmente. Lo normal que pueda interactuar React, Vue, sarasa
+14:32:42 - Ezequiel Alvarez (@welcometothechango):
+haskell? servant :heart:
+14:33:39 - Ezequiel Alvarez (@welcometothechango):
+clojure es alta opcion tmbn, JVM :heart:
+14:36:19 - Leandro Echevarria (@echevarrialeandro):
+Agrego otro filtro (solo gusto personal), que no use la JVM :grimacing:
+14:37:19 - Martín Valdés de León (@mvaldesdeleon):
+servant es bastante piola pero tenes que sentirte comodo codeando por inercia o entender ciertos topicos mas avanzados
+14:37:28 - Martín Valdés de León (@mvaldesdeleon):
+`scotty` es bastante straight-forward
+14:38:28 - Leandro Echevarria (@echevarrialeandro):
+Uno de los motivos por los cuales Elixir es hoy en dia mi primera opcion de un lenguaje funcional es porque es el que veo más expuesto, es decir, que si necesito algo lo voy a poder encontrar rápidamente navegando un poquito
+14:40:56 - Juan Bono (@juanbono):
+ReasonML no se que tal será para hacer APIs pero sé que tiene bindings para express asi que calculo que debe estar copado, aparte podes usar bindings de libs de js
+14:47:45 - Ezequiel Alvarez (@welcometothechango):
+`js en el back`
+14:48:07 - Ezequiel Alvarez (@welcometothechango):
+elixir esta super verde igual eh, aca hicieron una app phoenix y tuvieron que implementar bocha de cosas re normales para el auth
+14:48:41 - Ezequiel Alvarez (@welcometothechango):
+btw no recomiendo _cualquier_ fwk haskell, solo servant y yesod, creo q el overhead de "puro funcional" no garpa si usas scotty
+14:49:09 - Ezequiel Alvarez (@welcometothechango):
+en cambio servant es el futuro, genera documentacion, clientes, mensajes de error detallados, parsers, etc todo solo, magico y "gratis"
+14:49:39 - Leandro Echevarria (@echevarrialeandro):
+Servant no lo conocía ni de nombre :open_mouth:. Me lo estás vendiendo muy bien jaja. Voy a leer sobre él más tarde o cuando tenga un rato
+14:49:44 - Leandro Echevarria (@echevarrialeandro):
+Gracias por la data
+15:15:03 - Julian (@jantonielli01):
+Mensajes de errores..
+15:15:14 - Julian (@jantonielli01):
+En haskell son siempre mierda : p 
+15:15:22 - Julian (@jantonielli01):
+Pero si, esta copado servant 
+15:16:36 - Leandro Echevarria (@echevarrialeandro):
+Ahhh servant es un paquete de haskell, entiendo bien? Pensaba que era lenguage stand alone
+15:16:48 - Leandro Echevarria (@echevarrialeandro):
+Veo a haskell muchos escalones mas arriba de mi capacidad funcional hoy dia jaja
+15:18:38 - gillchristian (@gillchristian):
+Depende como lo encares
+15:18:57 - gillchristian (@gillchristian):
+Si empezas con el <http://haskellbook.com|haskellbook.com> no te va a llevar tanto
+15:21:22 - Leandro Echevarria (@echevarrialeandro):
+Cuando me libere un poco de tiempo lo voy a agarrar, junto con otras tantas cosas que tengo en el TODO para estudiar :rolling_on_the_floor_laughing:
+15:22:06 - Leandro Echevarria (@echevarrialeandro):
+Por lo pronto voy de a poco con Ramda para cambiar un poco el bocho de tanto OOP
+15:28:08 - Hernan Rajchert (@sherman):
+Muy buena entrevista a Anders Hejlsberg sobre TypeScript en el build 2019 <https://www.youtube.com/watch?v=tXK50czRbdA>
+15:28:57 - Hernan Rajchert (@sherman):
+Está diciendo fuerte y claro que le están dando más prioridad a los patrones funcionales en TS
+15:29:36 - Hernan Rajchert (@sherman):
+impulsado por mucho por usos como los higher order components en react
+15:30:26 - Hernan Rajchert (@sherman):
+le estan trabajando a HOF genericas que puedan recibir funciones genericas y menciona los problemas no poder usar unification
+15:30:52 - gillchristian (@gillchristian):
+Mi lista de TODO para estudiar es interminable
+15:31:06 - gillchristian (@gillchristian):
+Necesito la cápsula del tiempo de dragon ball
+15:31:17 - Hernan Rajchert (@sherman):
+entre lineas tmb podes ver los palos a oop y un par tmb a angular por promover usar annotations antes de ser standard y que ahora el spec va por otro lado
+15:32:12 - Martín Valdés de León (@mvaldesdeleon):
+TS me parece lo mas decente que podes armar habiendo elegido tener ese set de constraints. Claramente hay dedicacion.
+15:32:22 - Leandro Echevarria (@echevarrialeandro):
+Hermoso :clap::skin-tone-4:
+15:32:24 - Martín Valdés de León (@mvaldesdeleon):
+Pero imaginate si todo eso se hubiese gastado en promover un lenguaje mas piola ya existente.
+15:32:26 - Martín Valdés de León (@mvaldesdeleon):
+:stuck_out_tongue:
+15:32:32 - Hernan Rajchert (@sherman):
+si, mas que nada por la forma de laburar
+15:32:53 - Martín Valdés de León (@mvaldesdeleon):
+Porque por mas buena onda que le pongan, no van a poder hacer que TS tenga las features _que queremos_.
+15:33:15 - Leandro Echevarria (@echevarrialeandro):
+Jajaja sería hermoso tener una lpm. O ganarse la loteria, no laburas nunca mas y estudias full time lo que se te cante por gusto propio
+15:33:22 - Leandro Echevarria (@echevarrialeandro):
+Haces Open SOurce con eso
+15:33:25 - Leandro Echevarria (@echevarrialeandro):
+Utópico
+15:33:43 - Hernan Rajchert (@sherman):
+olvidate… a mi me encanta PureScript o Haskell por su elegancia a la hora de describir programas correctos, reutilizables y muchas veces con mucho menos codigo, pero el nivel de tooling que le meten a TS… mamita
+15:34:36 - Hernan Rajchert (@sherman):
+nop… pero mira la entrevista, fijate lo que le pregunta el chabon y la cara que le pone cuando Anders le habla de funciones genericas que reciben/devuelven funciones genericas y entendes todo
+15:34:44 - Leandro Echevarria (@echevarrialeandro):
+scotty qué sería?
+15:36:00 - Hernan Rajchert (@sherman):
+para la mayoria de los programadores es muy ajeno, y es entendible… entonces tal vez es más fácil acercarse a ellos con algo como TS que decirles aprendé todos estos conceptos y alli si podes empezar a disfrutar
+15:39:27 - Ezequiel Alvarez (@welcometothechango):
+no de compilación, los mensajes de error que serbant deriva de las rutas a nivel de tipos son buenos (onda falta este campo o falta un header)
+15:40:03 - Ezequiel Alvarez (@welcometothechango):
+una libreria web tmbn, pero sencilla, onda `flask` de python
+15:40:33 - Martín Valdés de León (@mvaldesdeleon):
+que se yo... la verdad, las cosas que hoy en dia son mainstream tambien son super ajenas/complejas la primera vez que las ves. onda "angular" y todo lo que trae detras. o todas las propiedades de css. o las cosas que he visto armar con rxjs...
+15:40:50 - Leandro Echevarria (@echevarrialeandro):
+Nice
+15:40:52 - Martín Valdés de León (@mvaldesdeleon):
+no se hasta donde posta es "tan jodido" (un haskell/purescript) para alguien dispuesto a aprender
+15:41:49 - Martín Valdés de León (@mvaldesdeleon):
+igual _posta_ lo unico que me gustaria tener es la sintaxis de ADTs/pattern matching.
+15:43:54 - Julian (@jantonielli01):
+Se, ya con adts soy relativamente feliz 
+15:44:06 - Martín Valdés de León (@mvaldesdeleon):
+claro. el resto lo armas encima de eso.
+15:44:09 - Julian (@jantonielli01):
+Quien mierda prefirió clases y herencia y toda esa mierda jaj
+15:44:20 - Martín Valdés de León (@mvaldesdeleon):
+(+ la feature de generics de generics que menciono Sherman, para ahorrarte algunos type annotations que deberian ser inferidos)
+15:47:45 - Hernan Rajchert (@sherman):
+yo con el pipe operator seria mas feliz
+15:48:05 - Ezequiel Alvarez (@welcometothechango):
+_hacelo en scheme si tenes huevos_
+15:51:07 - Hernan Rajchert (@sherman):
+a nivel teórico, si hacemos borron y cuenta nueva, yo creo que una opción funcional se mostraría mucho mas potente. Si se le hubiese dedicado todo el tiempo/tooling que se le da a TS, Java, .NET a hacer tooling para haskell, estariamos en la gloria. Pero como dice en la entrevista, si no tenes un feature que no te arrepentis de haber metido, no tenes un lenguaje real
+15:52:07 - Hernan Rajchert (@sherman):
+En algún momento había visto una charla de haskell en la que el chabon agradecia que estuvo en el anonimato/universidades por mucho tiempo, porque si se vuelve mainstream muy rapido, la cagan
+15:52:07 - gillchristian (@gillchristian):
+El sueño del pibe
+15:53:23 - Hernan Rajchert (@sherman):
+en los ultimos vaaarios años hay una movida funcional interesante, en muchos lenguajes frameworks y librerias… eventualmente va a delinear en mejor tooling para todos
+15:54:43 - Leandro Echevarria (@echevarrialeandro):
+Menos mal que no nos cobran por eso (todavía)
+15:56:44 - Ezequiel Alvarez (@welcometothechango):
+`avoid success at all cost`
+15:57:31 - Leandro Echevarria (@echevarrialeandro):
+Respecto al haskell book, éste enseña conceptos funcionales en general o únicamente los muestra aplicados a haskell?
+16:02:28 - Ezequiel Alvarez (@welcometothechango):
+las dos, pero mas que nada haskell
+16:10:56 - Julian (@jantonielli01):
+haskell tiene muchisimas features de mierda tambien jaj
+16:10:57 - Federico A. Sawady O'Connor (@sawady.faso):
+buena explicación, estoy codeando en este preciso momento y así se siente jaja
+16:11:16 - Ezequiel Alvarez (@welcometothechango):
+`silly records`
+16:11:34 - Julian (@jantonielli01):
+records de mierda, implicit params
+16:11:48 - Julian (@jantonielli01):
+mil extensiones al pedo
+16:13:20 - Martín Valdés de León (@mvaldesdeleon):
+por un lado es una mierda, pero por otro lado el sistema de extensiones le permite al compiler avanzar con features locas bastante mas rapido que otros lenguajes mainstream
+16:13:28 - Martín Valdés de León (@mvaldesdeleon):
+pq todo es opt-in y no se rompe ninguna base vieja
+16:13:34 - Julian (@jantonielli01):
+No me refería a que tener extensiones es choto
+16:13:41 - Julian (@jantonielli01):
+digo que mil de esas son una verga
+16:14:04 - Martín Valdés de León (@mvaldesdeleon):
+decis que tantas?
+16:16:17 - Julian (@jantonielli01):
+que se yo, tenes algunas que son re al pedo, las de syntax (lambdacase y etc), tenes algunas que modifican la gramatica (why) (block arguments, etc), y despues de features posta tenes implicit arguments, las de UndecidableX, la de C++ (!!!)
+16:16:50 - Ezequiel Alvarez (@welcometothechango):
+aguante lambdacase igual
+16:17:03 - Julian (@jantonielli01):
+`-XAlternativeLayoutRuleTransitional` que carajo hace esa anda a saber
+16:17:17 - Martín Valdés de León (@mvaldesdeleon):
+lambdacase ftw
+16:17:31 - Julian (@jantonielli01):
+meh
+16:17:57 - Federico A. Sawady O'Connor (@sawady.faso):
+apoyo la moción de Julián con toda violencia
+16:18:02 - Hernan Rajchert (@sherman):
+te digo que viendo ayer la entrevista flashee que estaría muy copado poder escribir extensions a la haskell en TS que sean implementadas con babel transpilando y TS chequeando con plugins… vi que estan explorando plugins en TS, asi que no me sorprenderia que vaya por ese lado… eso permitiria poder tener pipe operator y pattern matching tipados antes de que sean estandar
+16:18:25 - Julian (@jantonielli01):
+eso se viene haciendo hace bastante con babel
+16:18:39 - Julian (@jantonielli01):
+la gente habla tanto de standards al pedo
+16:18:43 - Hernan Rajchert (@sherman):
+si, pero te faltan los tipos :fort:
+16:18:53 - Martín Valdés de León (@mvaldesdeleon):
+justo lo que necesita JS, gente definiendo sus propios operadores en cada codebase
+16:18:59 - Hernan Rajchert (@sherman):
+jaja
+16:19:16 - Hernan Rajchert (@sherman):
+usar con moderación…
+16:19:51 - Julian (@jantonielli01):
+eso no existe : p
+16:20:48 - gillchristian (@gillchristian):
+Dispuesto a aprender es la clave, son todos pechos que no quieren
+16:21:07 - Julian (@jantonielli01):
+o tenés cosas como elm, donde estan encerrado en la cuna, o vas a tener gente explotando cualquier cosa
+16:21:22 - Hernan Rajchert (@sherman):
+<https://youtu.be/eTIh5WUev0k?t=66>
+16:22:34 - Julian (@jantonielli01):
+en haskell ya hay mil libs de mierda con 200 operadores
+16:22:37 - Julian (@jantonielli01):
+ilegibles
+16:22:43 - Martín Valdés de León (@mvaldesdeleon):
+_coff_ lens _coff_
+16:22:49 - Julian (@jantonielli01):
+totalmente
+16:22:52 - Hernan Rajchert (@sherman):
+pipe operator aqui, pattern matching allá, do syntax y mierda ya la pudrí…
+16:23:00 - Julian (@jantonielli01):
+lol
+16:23:35 - gillchristian (@gillchristian):
+Jajaja
+16:24:17 - Hernan Rajchert (@sherman):
+lo que me interesaría de una opción así en JS/TS (no se si es así en haskell), es que al transpilar algo, medio que no te importa si la libreria usa X o Y, porque después solo te queda JS standard
+16:25:33 - Julian (@jantonielli01):
+Sep, en haskell es así
+16:25:46 - Julian (@jantonielli01):
+Osea, todo pasa por varios lenguajes intermedios
+16:26:09 - Julian (@jantonielli01):
+Uno de ellos es GHC core, que es la "posta". Y por más extensiones que le pongas, todo pasa por ahí
+16:27:05 - Julian (@jantonielli01):
+Pero compilar haskell + extensions a Hask98/10 no se si se puede, no clue
+17:10:26 - Hernan Rajchert (@sherman):
+Pregunta para el blog de algo que recuerdo que era así, pero que lo vi hace tanto tiempo que no estoy seguro y no quiero decir burradas (en lo posible :P). Hacer un `add` a nivel assembler requiere varios ciclos de instruccion por un lado por buscar cosas en memoria y tambien para resolver la suma en si, no?… osea para poder calcular 1 + 1 el cpu tiene que mutar registros internos de la ALU, no?
+17:10:36 - Hernan Rajchert (@sherman):
+o en algun momento era así y ahora ya se hace de una?
+17:10:50 - Hernan Rajchert (@sherman):
+o nunca era así y me quedé con cualquiera :stuck_out_tongue:
+17:11:54 - Ezequiel Alvarez (@welcometothechango):
+esta en al documentación de tu CPU eso, literalmente en el manual de Intel
+17:13:24 - Julian (@jantonielli01):
+pa ke quieres saber eso jaja salu2
+17:13:59 - Ezequiel Alvarez (@welcometothechango):
+<https://c9x.me/x86/html/file_module_x86_id_5.html>
+17:14:10 - Gonza Gluzman (@gonza):
+Ok, acabo de ver una pregunta de assembler en <#C3A5KNEV7|functional>
+17:14:11 - Ezequiel Alvarez (@welcometothechango):
+latency 1 == 1 ciclo, obviamente depende de 1000 cosas lol
+17:15:25 - Hernan Rajchert (@sherman):
+Estoy queriendo decir que podes tener una función pura que internamente mute un valor, siempre que la mutación no escape de la función
+17:15:56 - Ezequiel Alvarez (@welcometothechango):
+se, `ST monad` le dicen
+17:16:05 - Hernan Rajchert (@sherman):
+lo que te interesa es que siempre devuelva lo mismo, no si internamente tuvo que mutar algo o no…
+17:16:37 - Ezequiel Alvarez (@welcometothechango):
+(por si no lo viste es justamente lo que hace `ST` en haskell)
+17:16:43 - Hernan Rajchert (@sherman):
+sisi, a nivel post “vengo de explicar” la ST monad y queria poner como ejemplo que incluso para sumar 2 + 2 el alu tiene que mutar registros
+17:17:08 - Hernan Rajchert (@sherman):
+pero no sabia si realmente tiene que mutar registros o yo me habia quedado con cualquiera
+17:17:25 - Ezequiel Alvarez (@welcometothechango):
+ehm internamente la ALU segurisimo muta cosas, literales bits
+17:17:39 - Ezequiel Alvarez (@welcometothechango):
+dsps si lo pone en memoria, registro, cache o whaetver depende de _cosas_
+17:17:46 - Gonza Gluzman (@gonza):
+`La st monad es como... la st monad` :thinking_guy:
+17:18:07 - Hernan Rajchert (@sherman):
+el otro ejemplo que podia/iba a usar es que para correr una regexp literalmente se crea una state machine
+17:19:55 - Martín Valdés de León (@mvaldesdeleon):
+tampoco tenes que ir a cosas tan locas me parece...
+podes armar una funcion comun y corriente de JS x ej para ordenar un array, que recibe un array como argumento, hace una copia y dps ordena la copia in place
+17:20:33 - Martín Valdés de León (@mvaldesdeleon):
+para el consumidor es una funcion tan pura como el map nativo
+17:20:37 - Hernan Rajchert (@sherman):
+si, eso hago despues… con la ST monad :stuck_out_tongue:
+17:20:38 - Julian (@jantonielli01):
+cosas q duelen en la vida: decir *La* monad
+17:20:49 - Ezequiel Alvarez (@welcometothechango):
+_le_ monad
+17:31:24 - Juan Bono (@juanbono):
+`quieeen se ha mutado todo el vino??` -- la monad gimenez
+17:32:24 - Julian (@jantonielli01):
+jajajajaj
+17:33:03 - Hernan Rajchert (@sherman):
+Si alguien quiere revisar el artículo, todavía me falta la última sección y hacerle un spell check <https://paper.dropbox.com/doc/To-mutate-or-inmutate-that-is-the-question--Acz_McULRbty8sCEq9aduHihAQ-uyz9z1R3zixzm60eWUuRq>
+17:35:39 - Julian (@jantonielli01):
+podes robar uno de los mejores titulos q hay en fp
+17:35:45 - Julian (@jantonielli01):
+`Immutability changes everything`
+17:36:07 - Ezequiel Alvarez (@welcometothechango):
+muy buen articulo guacho
+17:36:33 - Hernan Rajchert (@sherman):
+ya hay un blog que se llama así? o charla?
+17:36:58 - Julian (@jantonielli01):
+un paper <http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf>
+17:37:11 - Hernan Rajchert (@sherman):
+Gracias :slightly_smiling_face:. Están abiertos los comments por si quieren dar feedback
+17:38:03 - Hernan Rajchert (@sherman):
+igual cuando le pasé el nombre del articulo al chabon de logrocket me tiró que necesita un poco más de SEO jaja
+17:38:37 - Gonza Gluzman (@gonza):
+`The only thing that is constant is change - Heraclitus` :heart: :heart: :heart:
+17:39:14 - Julian (@jantonielli01):
+que onda esos de logrocket?
+17:39:29 - Julian (@jantonielli01):
+te pagan por esto?
+17:40:04 - Hernan Rajchert (@sherman):
+me contactó un flaco un día porque le gustó un artículo que hice y me preguntó si quería escribir para ellos
+17:40:19 - Julian (@jantonielli01):
+que level
+17:40:29 - Hernan Rajchert (@sherman):
+si, pero claramente no me cierran los números por dinero, lo que si, me da mas exposición
+17:40:57 - Hernan Rajchert (@sherman):
+en el primer dia del blog anterior tuve mas views que en varios meses organicos de mi articulo más visto
+17:43:08 - Hernan Rajchert (@sherman):
+spoiler, `Heraclitus`  se va a llamar la librería hermana de parmenides que te permite cambiar el tipo del contrato
+17:43:17 - Hernan Rajchert (@sherman):
+parmenides la lib que hicimos con gonza
+17:43:39 - Gonza Gluzman (@gonza):
+:goat: :heart:
+17:44:01 - Julian (@jantonielli01):
+Si, eso esta bastante copado, además q es algo divertido
+17:44:07 - Julian (@jantonielli01):
+pasa la lib
+17:44:53 - Hernan Rajchert (@sherman):
+<https://github.com/dggluz/parmenides>
+17:45:52 - Hernan Rajchert (@sherman):
+si, me gusta… pero me está sacando mucho tiempo
+17:45:59 - Hernan Rajchert (@sherman):
+me falta poder ser más consiso jaja
+17:46:16 - Hernan Rajchert (@sherman):
+o poder escribir más rápido…
+17:50:26 - Julian (@jantonielli01):
+leí contrato y pense en solidity jaj
+17:53:56 - Julian (@jantonielli01):
+a los flacos les cobras por hora?
+18:00:44 - Hernan Rajchert (@sherman):
+ojalá, por post
+18:00:50 - Hernan Rajchert (@sherman):
+por eso no me cierran los numeros :smile:
+18:04:12 - Julian (@jantonielli01):
+Jaj, yo ví gente q outsourceaba posts en upwork
+18:45:15 - Juan Bono (@juanbono):
+Jajaj todo un blockchainer (?)
