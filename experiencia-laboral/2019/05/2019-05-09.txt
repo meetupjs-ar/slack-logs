@@ -1,0 +1,140 @@
+07:26:10 - Aldo Gabriel Rojas (@aldogrojas5):
+más lindo aún!!!
+07:28:00 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro! Totalmente de acuerdo. Despues cuando tengas q resolver cosas de q te disfrazas sino
+09:39:02 - Rodrigo Avila (@rodrigo398):
+Hola, consulta: siguiendo el hilo, me registre en toptal, y acabo de schedular una entrevista, algun tips para tener en cuenta?
+10:06:00 - Ale Miralles (@amiralles):
+Hmmm.... no recuerdo nada en particular. Algoritmos y estructuras de datos, seguro. Algo de eso te van a preguntar. Binary Search (Breadth First, Depth First), Graphs (shortest path), por ahi alguna que otra variante sort... etc.
+10:06:52 - Ale Miralles (@amiralles):
+Despues debe haber preguntas especificas sobre el stack que manejas. (i.e. Node, NET, lo que sea).
+10:08:20 - Ale Miralles (@amiralles):
+En  las empresas de aca no se usa tanto, pero practicamente todas las empresas de afuera te toman estructuras de datos.
+10:10:05 - Ale Miralles (@amiralles):
+Hace poco hice la de codementorX y el problema que planteaban se podia resolver con binary search depth first, por ejemplo.
+10:23:50 - Rodrigo Avila (@rodrigo398):
+Wow, bastante complejo. Tenes idea si son varias entrevistas? Creo que cambiare el día de la entrevista así puedo leer algo de estructura de datos. Gracias. 
+10:36:11 - Ale Miralles (@amiralles):
+Creo que esto te puede ayudar
+10:36:12 - Ale Miralles (@amiralles):
+<https://medium.com/@karolisram/getting-into-toptal-the-entire-process-f3ee4f931949>
+10:37:50 - Ale Miralles (@amiralles):
+Hace un tiempo publique una serie de posts sobre estructuras de datos (basicamente orientado a la gente que se prepara para estos tests!) Por ahi le podes pegar una mirada tambien
+10:37:56 - Ale Miralles (@amiralles):
+<https://medium.com/amiralles/mastering-data-structures-in-ruby-recap-682a698b90d0>
+10:38:58 - Ale Miralles (@amiralles):
+En general, binary threes, graphs, y hash tables son las mas "complejas". En mi opinion, si sacas esas, sacas todas.
+10:40:45 - Marcos Casagrande (@marcoscvp90):
+El test de toptal me parece ridículo honestamente. No buscan el top 3%, es puro humo.
+10:41:15 - Marcos Casagrande (@marcoscvp90):
+Porque vamos a ser honestos, un experto en front end etc, no necesita ser experto en algoritmos y estructura de datos, aún así se lo piden para entrar.
+10:41:36 - Ale Miralles (@amiralles):
+Obvio que no.
+10:41:44 - Ale Miralles (@amiralles):
+Eso es una pelotudez.
+10:42:04 - Ale Miralles (@amiralles):
+Pero la mayoria de las empresas de afuera hacen eso.
+10:42:09 - Marcos Casagrande (@marcoscvp90):
+Buscan gente con un degree en computer science básicamente, no el top 3% de los programadores. Si yo aplico para un cargo web, y me piden ejercicios no relacionados con esa área, ya sé que la empresa no vale la pena.
+10:43:28 - Marcos Casagrande (@marcoscvp90):
+Me acuerdo una vez haciendo entrevistas de "prueba", hará 1 año, mandé como devops, las tareas eran, AWS, Docker, Kubernetes, bash etc, lo típico, y después la prueba final después de 3 entrevistas, era algo de estructura de datos y algoritmos, me pareció ridículo.
+10:43:35 - Ale Miralles (@amiralles):
+No solo para el front. Un nato que hace "line of business", necesita saber mas de sql que algoritmos o como reservar un string. Pero juegan con esas reglas.
+10:44:25 - Ale Miralles (@amiralles):
+Es ridiculo. De eso no hay dudas.
+10:44:35 - Ale Miralles (@amiralles):
+Y peor las empresas de aca que copian esas practicas!!!
+10:44:36 - Marcos Casagrande (@marcoscvp90):
+Así que yo, entrevista que hago que no evalúan los conocimientos necesarios para el puesta en si, la abandono instantáneamente y se los hago saber.
+10:44:48 - Ale Miralles (@amiralles):
+parece joda, pero las ahi, eh....!
+10:47:06 - Marcos Casagrande (@marcoscvp90):
+Está lleno la verdad. El tema es que esa prueba la debe de hacer el jefe, que no sabe nada honestamente, pero vio un par de algoritmos en la facultad y se quiere sentir bien. Hay trabajos donde eso es todo, en otros no se usan, entonces empresas que la prueba no sea acorde al cargo, en mi opinión hay que dejarla ir.
+10:47:15 - Ale Miralles (@amiralles):
+Vas a cobrar 1.5k por mes, pero tenes que poder resolver la torre de Hanoi utilizando graphs en una pizarra. Que se yo....
+10:47:38 - Marcos Casagrande (@marcoscvp90):
+Y que total haga la misma prueba a todos los devs, independientemente del área que se desempeñe, demuestra que son unos quesos.
+10:48:51 - Ale Miralles (@amiralles):
+Yo en el unico  caso que lo banco es cuando la recompenza es grande. Por ejemplo, si haciendo eso entro en una empresa de afuera que me va a pagar 6, 7k por mes. Lo haria. Para una empresa del monton de aca, no.
+10:50:24 - Ale Miralles (@amiralles):
+Tengo amigos en Apple, Microsoft, Amazon, Cisco,.... en todos esas empresas les tomaron la mitica "whiteboard interview"
+10:50:37 - Ale Miralles (@amiralles):
+Pero de nuevo, manejan numeros que valen la pena.
+10:51:45 - Ale Miralles (@amiralles):
+"El tema es que esa prueba la debe de hacer el jefe, que no sabe nada honestamente, pero vio un par de algoritmos en la facultad y se quiere sentir bien"
+10:51:49 - Ale Miralles (@amiralles):
+totalmente!
+10:53:00 - Ale Miralles (@amiralles):
+tengo amigos que salieron super frustrados de varias entrevistas, y cuando les preguntaba porque, casi siempre la respuesta era, esa. El nato habia armado un test super academico con problemas que aliminaban directamente a todo aquel que no tuviera entremiento formal.
+10:54:36 - Ale Miralles (@amiralles):
+Si vas a hacer <http://ASP.NET|ASP.NET> MVC, Node, Ruby, whatever, No necesitas un degree. Pero bueno... Asi son las reglas.
+07:26:10 - Aldo Gabriel Rojas (@aldogrojas5):
+más lindo aún!!!
+07:28:00 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro! Totalmente de acuerdo. Despues cuando tengas q resolver cosas de q te disfrazas sino
+09:39:02 - Rodrigo Avila (@rodrigo398):
+Hola, consulta: siguiendo el hilo, me registre en toptal, y acabo de schedular una entrevista, algun tips para tener en cuenta?
+10:06:00 - Ale Miralles (@amiralles):
+Hmmm.... no recuerdo nada en particular. Algoritmos y estructuras de datos, seguro. Algo de eso te van a preguntar. Binary Search (Breadth First, Depth First), Graphs (shortest path), por ahi alguna que otra variante sort... etc.
+10:06:52 - Ale Miralles (@amiralles):
+Despues debe haber preguntas especificas sobre el stack que manejas. (i.e. Node, NET, lo que sea).
+10:08:20 - Ale Miralles (@amiralles):
+En  las empresas de aca no se usa tanto, pero practicamente todas las empresas de afuera te toman estructuras de datos.
+10:10:05 - Ale Miralles (@amiralles):
+Hace poco hice la de codementorX y el problema que planteaban se podia resolver con binary search depth first, por ejemplo.
+10:23:50 - Rodrigo Avila (@rodrigo398):
+Wow, bastante complejo. Tenes idea si son varias entrevistas? Creo que cambiare el día de la entrevista así puedo leer algo de estructura de datos. Gracias. 
+10:36:11 - Ale Miralles (@amiralles):
+Creo que esto te puede ayudar
+10:36:12 - Ale Miralles (@amiralles):
+<https://medium.com/@karolisram/getting-into-toptal-the-entire-process-f3ee4f931949>
+10:37:50 - Ale Miralles (@amiralles):
+Hace un tiempo publique una serie de posts sobre estructuras de datos (basicamente orientado a la gente que se prepara para estos tests!) Por ahi le podes pegar una mirada tambien
+10:37:56 - Ale Miralles (@amiralles):
+<https://medium.com/amiralles/mastering-data-structures-in-ruby-recap-682a698b90d0>
+10:38:58 - Ale Miralles (@amiralles):
+En general, binary threes, graphs, y hash tables son las mas "complejas". En mi opinion, si sacas esas, sacas todas.
+10:40:45 - Marcos Casagrande (@marcoscvp90):
+El test de toptal me parece ridículo honestamente. No buscan el top 3%, es puro humo.
+10:41:15 - Marcos Casagrande (@marcoscvp90):
+Porque vamos a ser honestos, un experto en front end etc, no necesita ser experto en algoritmos y estructura de datos, aún así se lo piden para entrar.
+10:41:36 - Ale Miralles (@amiralles):
+Obvio que no.
+10:41:44 - Ale Miralles (@amiralles):
+Eso es una pelotudez.
+10:42:04 - Ale Miralles (@amiralles):
+Pero la mayoria de las empresas de afuera hacen eso.
+10:42:09 - Marcos Casagrande (@marcoscvp90):
+Buscan gente con un degree en computer science básicamente, no el top 3% de los programadores. Si yo aplico para un cargo web, y me piden ejercicios no relacionados con esa área, ya sé que la empresa no vale la pena.
+10:43:28 - Marcos Casagrande (@marcoscvp90):
+Me acuerdo una vez haciendo entrevistas de "prueba", hará 1 año, mandé como devops, las tareas eran, AWS, Docker, Kubernetes, bash etc, lo típico, y después la prueba final después de 3 entrevistas, era algo de estructura de datos y algoritmos, me pareció ridículo.
+10:43:35 - Ale Miralles (@amiralles):
+No solo para el front. Un nato que hace "line of business", necesita saber mas de sql que algoritmos o como reservar un string. Pero juegan con esas reglas.
+10:44:25 - Ale Miralles (@amiralles):
+Es ridiculo. De eso no hay dudas.
+10:44:35 - Ale Miralles (@amiralles):
+Y peor las empresas de aca que copian esas practicas!!!
+10:44:36 - Marcos Casagrande (@marcoscvp90):
+Así que yo, entrevista que hago que no evalúan los conocimientos necesarios para el puesta en si, la abandono instantáneamente y se los hago saber.
+10:44:48 - Ale Miralles (@amiralles):
+parece joda, pero las ahi, eh....!
+10:47:06 - Marcos Casagrande (@marcoscvp90):
+Está lleno la verdad. El tema es que esa prueba la debe de hacer el jefe, que no sabe nada honestamente, pero vio un par de algoritmos en la facultad y se quiere sentir bien. Hay trabajos donde eso es todo, en otros no se usan, entonces empresas que la prueba no sea acorde al cargo, en mi opinión hay que dejarla ir.
+10:47:15 - Ale Miralles (@amiralles):
+Vas a cobrar 1.5k por mes, pero tenes que poder resolver la torre de Hanoi utilizando graphs en una pizarra. Que se yo....
+10:47:38 - Marcos Casagrande (@marcoscvp90):
+Y que total haga la misma prueba a todos los devs, independientemente del área que se desempeñe, demuestra que son unos quesos.
+10:48:51 - Ale Miralles (@amiralles):
+Yo en el unico  caso que lo banco es cuando la recompenza es grande. Por ejemplo, si haciendo eso entro en una empresa de afuera que me va a pagar 6, 7k por mes. Lo haria. Para una empresa del monton de aca, no.
+10:50:24 - Ale Miralles (@amiralles):
+Tengo amigos en Apple, Microsoft, Amazon, Cisco,.... en todos esas empresas les tomaron la mitica "whiteboard interview"
+10:50:37 - Ale Miralles (@amiralles):
+Pero de nuevo, manejan numeros que valen la pena.
+10:51:45 - Ale Miralles (@amiralles):
+"El tema es que esa prueba la debe de hacer el jefe, que no sabe nada honestamente, pero vio un par de algoritmos en la facultad y se quiere sentir bien"
+10:51:49 - Ale Miralles (@amiralles):
+totalmente!
+10:53:00 - Ale Miralles (@amiralles):
+tengo amigos que salieron super frustrados de varias entrevistas, y cuando les preguntaba porque, casi siempre la respuesta era, esa. El nato habia armado un test super academico con problemas que aliminaban directamente a todo aquel que no tuviera entremiento formal.
+10:54:36 - Ale Miralles (@amiralles):
+Si vas a hacer <http://ASP.NET|ASP.NET> MVC, Node, Ruby, whatever, No necesitas un degree. Pero bueno... Asi son las reglas.
