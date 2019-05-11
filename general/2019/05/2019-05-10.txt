@@ -1,0 +1,74 @@
+14:11:03 - Macarena Gómez (@makigom):
+hecho con mucho :heart:
+14:13:50 - Heber (@heber.acostalipera):
+su channel tiene nombre de dinosaurio :dino:
+15:45:15 - Rodrigo Ali (@rodrigojali):
+Por si quieren leer un poco sobre el proposal para meter `|&gt;`: <https://babeljs.io/blog/2018/07/19/whats-happening-with-the-pipeline-proposal>
+16:34:40 - Pablo Miceli (@pablomiceli24):
+```
+x |&gt; await f
+which would desugar to
+await f(x)
+```
+me encantó el `desugar` xd
+16:36:22 - Rodrigo Ali (@rodrigojali):
+Altísima palabra
+17:19:33 - kblok (@kblok):
+<https://live-stream.github.com/>
+17:21:24 - kblok (@kblok):
+17:30 sale el live stream de Github
+17:50:11 - Martín Valdés de León (@mvaldesdeleon):
+<https://github.com/features/package-registry>
+17:50:28 - Martín Valdés de León (@mvaldesdeleon):
+bastante oportuno, con todo el bad pr que esta teniendo npminc lately
+17:57:09 - Luis Alvarez (@luistensai):
+yo estoy esperando que a gitlab lo compre google :stuck_out_tongue:
+17:57:55 - Gonza Gluzman (@gonza):
+Y que después Disney compre a Google
+17:57:59 - Luis Alvarez (@luistensai):
+y pase esto
+17:59:10 - Luis Alvarez (@luistensai):
+me gustó el palo que le tiraron en el último newsletter que me llegó
+17:59:48 - Gonza Gluzman (@gonza):
+:agite:
+17:59:48 - Juan Scolari (@juanscolari):
+es que tienen un acuerdo o algo con google ahora
+18:00:19 - Luis Alvarez (@luistensai):
+ahora que lo pienso, sería tremendo que M$ los esté boicoteando con Azure jaja
+14:11:03 - Macarena Gómez (@makigom):
+hecho con mucho :heart:
+14:13:50 - Heber (@heber.acostalipera):
+su channel tiene nombre de dinosaurio :dino:
+15:45:15 - Rodrigo Ali (@rodrigojali):
+Por si quieren leer un poco sobre el proposal para meter `|&gt;`: <https://babeljs.io/blog/2018/07/19/whats-happening-with-the-pipeline-proposal>
+16:34:40 - Pablo Miceli (@pablomiceli24):
+```
+x |&gt; await f
+which would desugar to
+await f(x)
+```
+me encantó el `desugar` xd
+16:36:22 - Rodrigo Ali (@rodrigojali):
+Altísima palabra
+17:19:33 - kblok (@kblok):
+<https://live-stream.github.com/>
+17:21:24 - kblok (@kblok):
+17:30 sale el live stream de Github
+17:50:11 - Martín Valdés de León (@mvaldesdeleon):
+<https://github.com/features/package-registry>
+17:50:28 - Martín Valdés de León (@mvaldesdeleon):
+bastante oportuno, con todo el bad pr que esta teniendo npminc lately
+17:57:09 - Luis Alvarez (@luistensai):
+yo estoy esperando que a gitlab lo compre google :stuck_out_tongue:
+17:57:55 - Gonza Gluzman (@gonza):
+Y que después Disney compre a Google
+17:57:59 - Luis Alvarez (@luistensai):
+y pase esto
+17:59:10 - Luis Alvarez (@luistensai):
+me gustó el palo que le tiraron en el último newsletter que me llegó
+17:59:48 - Gonza Gluzman (@gonza):
+:agite:
+17:59:48 - Juan Scolari (@juanscolari):
+es que tienen un acuerdo o algo con google ahora
+18:00:19 - Luis Alvarez (@luistensai):
+ahora que lo pienso, sería tremendo que M$ los esté boicoteando con Azure jaja
