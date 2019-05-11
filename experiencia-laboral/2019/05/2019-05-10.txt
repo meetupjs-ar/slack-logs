@@ -1,0 +1,368 @@
+22:59:05 - Guillermo Perez (@gperez):
+Qué onda la movida <http://www.thecolony.me>? Les llegó algo? No se si estan arrancando o ya venian.
+23:03:49 - Julian (@jantonielli01):
+Nunca los vi 
+23:04:00 - Julian (@jantonielli01):
+Parecen más chamuyo que yo though 
+23:21:37 - Juan Scolari (@juanscolari):
+me escribio el dueño por linkedin hoy
+23:22:17 - Juan Scolari (@juanscolari):
+&gt; Somos el nexo. No cobramos intermediación, con lo cual el developer no pierde rentabilidad en el medio. Funcionamos tipo Toptal y Zipprecuiter
+23:57:23 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/Pi2rCOZ.png>
+23:57:26 - Marcos Casagrande (@marcoscvp90):
+Fucking dinesh
+23:57:46 - Julian (@jantonielli01):
+lol
+23:59:01 - Julian (@jantonielli01):
+la buena data de prueba en prod
+23:59:11 - Marcos Casagrande (@marcoscvp90):
+jajajaja
+23:59:25 - Guillermo Perez (@gperez):
+Eh, yo conozco al señor example :stuck_out_tongue:
+23:59:28 - Marcos Casagrande (@marcoscvp90):
+9 años, codeando a full.
+23:59:31 - Guillermo Perez (@gperez):
+amigo de bobby table
+00:00:03 - Guillermo Perez (@gperez):
+<https://imgs.xkcd.com/comics/exploits_of_a_mom.png>
+00:00:04 - Martin Bavio (@mbavio):
+Example 2 es un enfermo
+00:00:07 - Marcos Casagrande (@marcoscvp90):
+"phyton"
+00:01:04 - Martin Bavio (@mbavio):
+<@UGQTUDQSG> traelo a Dinesh a este slack
+00:01:12 - Martin Bavio (@mbavio):
+asi le sacamos el 10 la hora a forobardeadas
+00:01:41 - Julian (@jantonielli01):
+comes 4 meses en india con 10 dolares
+00:01:47 - Julian (@jantonielli01):
+ya se debe haber comprado 3 hoteles
+00:01:57 - Marcos Casagrande (@marcoscvp90):
+Alguien sabe que es "Coloner"?
+00:02:12 - Martin Bavio (@mbavio):
+como un grupo o algo asi?
+00:02:13 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/qk0isho.png>
+00:02:15 - Marcos Casagrande (@marcoscvp90):
+"Rappi"
+00:02:23 - Martin Bavio (@mbavio):
+`gratis`
+00:02:35 - Martin Bavio (@mbavio):
+que pagina de mierda
+00:02:50 - Marcos Casagrande (@marcoscvp90):
+La página es bastante garcha la verdad.
+00:03:22 - Martin Bavio (@mbavio):
+lo que los devs no deben entender
+00:03:25 - Martin Bavio (@mbavio):
+es que si no hay cut
+00:03:25 - Marcos Casagrande (@marcoscvp90):
+una landing vende humo y listo
+00:03:30 - Martin Bavio (@mbavio):
+entonces ellos son el producto
+00:03:48 - Martin Bavio (@mbavio):
+no esta bueno que no haya nada de % de intermediario
+00:04:16 - Martin Bavio (@mbavio):
+porque eso te dice que algo shady hay, sino es insostenible
+00:05:07 - Martin Bavio (@mbavio):
+dame un toptal bien hecho, con un cut un poco mas honesto y soy todo oidos
+00:07:04 - Marcos Casagrande (@marcoscvp90):
+Cual es el % de toptal?
+00:07:17 - Martin Bavio (@mbavio):
+depende
+00:07:20 - Martin Bavio (@mbavio):
+no es publico
+00:07:29 - Julian (@jantonielli01):
+pense q era 12% o 15%
+00:07:32 - Martin Bavio (@mbavio):
+nah
+00:07:34 - Martin Bavio (@mbavio):
+mucho mas
+22:59:05 - Guillermo Perez (@gperez):
+Qué onda la movida <http://www.thecolony.me>? Les llegó algo? No se si estan arrancando o ya venian.
+23:03:49 - Julian (@jantonielli01):
+Nunca los vi 
+23:04:00 - Julian (@jantonielli01):
+Parecen más chamuyo que yo though 
+23:21:37 - Juan Scolari (@juanscolari):
+me escribio el dueño por linkedin hoy
+23:22:17 - Juan Scolari (@juanscolari):
+&gt; Somos el nexo. No cobramos intermediación, con lo cual el developer no pierde rentabilidad en el medio. Funcionamos tipo Toptal y Zipprecuiter
+23:57:23 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/Pi2rCOZ.png>
+23:57:26 - Marcos Casagrande (@marcoscvp90):
+Fucking dinesh
+23:57:46 - Julian (@jantonielli01):
+lol
+23:59:01 - Julian (@jantonielli01):
+la buena data de prueba en prod
+23:59:11 - Marcos Casagrande (@marcoscvp90):
+jajajaja
+23:59:25 - Guillermo Perez (@gperez):
+Eh, yo conozco al señor example :stuck_out_tongue:
+23:59:28 - Marcos Casagrande (@marcoscvp90):
+9 años, codeando a full.
+23:59:31 - Guillermo Perez (@gperez):
+amigo de bobby table
+00:00:03 - Guillermo Perez (@gperez):
+<https://imgs.xkcd.com/comics/exploits_of_a_mom.png>
+00:00:04 - Martin Bavio (@mbavio):
+Example 2 es un enfermo
+00:00:07 - Marcos Casagrande (@marcoscvp90):
+"phyton"
+00:01:04 - Martin Bavio (@mbavio):
+<@UGQTUDQSG> traelo a Dinesh a este slack
+00:01:12 - Martin Bavio (@mbavio):
+asi le sacamos el 10 la hora a forobardeadas
+00:01:41 - Julian (@jantonielli01):
+comes 4 meses en india con 10 dolares
+00:01:47 - Julian (@jantonielli01):
+ya se debe haber comprado 3 hoteles
+00:01:57 - Marcos Casagrande (@marcoscvp90):
+Alguien sabe que es "Coloner"?
+00:02:12 - Martin Bavio (@mbavio):
+como un grupo o algo asi?
+00:02:13 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/qk0isho.png>
+00:02:15 - Marcos Casagrande (@marcoscvp90):
+"Rappi"
+00:02:23 - Martin Bavio (@mbavio):
+`gratis`
+00:02:35 - Martin Bavio (@mbavio):
+que pagina de mierda
+00:02:50 - Marcos Casagrande (@marcoscvp90):
+La página es bastante garcha la verdad.
+00:03:22 - Martin Bavio (@mbavio):
+lo que los devs no deben entender
+00:03:25 - Martin Bavio (@mbavio):
+es que si no hay cut
+00:03:25 - Marcos Casagrande (@marcoscvp90):
+una landing vende humo y listo
+00:03:30 - Martin Bavio (@mbavio):
+entonces ellos son el producto
+00:03:48 - Martin Bavio (@mbavio):
+no esta bueno que no haya nada de % de intermediario
+00:04:16 - Martin Bavio (@mbavio):
+porque eso te dice que algo shady hay, sino es insostenible
+00:05:07 - Martin Bavio (@mbavio):
+dame un toptal bien hecho, con un cut un poco mas honesto y soy todo oidos
+00:07:04 - Marcos Casagrande (@marcoscvp90):
+Cual es el % de toptal?
+00:07:17 - Martin Bavio (@mbavio):
+depende
+00:07:20 - Martin Bavio (@mbavio):
+no es publico
+00:07:29 - Julian (@jantonielli01):
+pense q era 12% o 15%
+00:07:32 - Martin Bavio (@mbavio):
+nah
+00:07:34 - Martin Bavio (@mbavio):
+mucho mas
+00:07:40 - Martin Bavio (@mbavio):
+he visto 50%
+00:08:23 - Marcos Casagrande (@marcoscvp90):
+A ver, si tu hourly rate está encima de 50usd, me da igual con la guita que se queden, si ellos traen los clientes.
+00:08:59 - Lupe (@lportias):
+pero no es un poco mucho que se queden con el 50%?
+00:09:02 - Martin Bavio (@mbavio):
+para mi si te pagan 50 y al cliente le cobran 100 es demasiado, aun si es buena guita para vos
+00:09:09 - Martin Bavio (@mbavio):
+me sigue pareciendo un abuso
+00:09:16 - Julian (@jantonielli01):
+yo estoy con marcos
+00:09:22 - Marcos Casagrande (@marcoscvp90):
+Si ellos consiguen el cliente, me parece bien, sin ellos no tendrías nada.
+00:09:23 - Julian (@jantonielli01):
+me chupa un huevo cuanto se queden
+00:09:34 - Martin Bavio (@mbavio):
+el tema es que el cut es tan grande
+00:09:34 - Marcos Casagrande (@marcoscvp90):
+MIentras a mi me paguen bien, que ellos ganen lo que quieran.
+00:09:39 - Martin Bavio (@mbavio):
+que termina pasando la obvia
+00:09:49 - Julian (@jantonielli01):
+se
+00:09:57 - Julian (@jantonielli01):
+`te ofresco 1200 5mi`
+00:10:05 - Lupe (@lportias):
+es que si el cliente esta dispuesto a pagar los 100… mientras que a mi me quede lo que yo pedi.. :woman-shrugging:
+00:10:10 - Martin Bavio (@mbavio):
+porque ademas de ser el cut grande
+00:10:17 - Martin Bavio (@mbavio):
+si encima te chupa un huevo el dev
+00:10:22 - Martin Bavio (@mbavio):
+entonces estas caminando por la corniza
+00:10:38 - Martin Bavio (@mbavio):
+de que te salteen
+00:11:39 - Martin Bavio (@mbavio):
+yo creo que podrian robarte un poco menos de %, y despues ofrecerte algun cursito o certificado falopa y sacarte igual la plata
+00:12:01 - Martin Bavio (@mbavio):
+total como ya hemos establecido es mas de lo que necesitas
+00:12:44 - Marcos Casagrande (@marcoscvp90):
+si te parece mucho lo que se queda toptal, si laburás en relación de dependencia, ponete a llorar entonces :joy:
+00:13:03 - Martin Bavio (@mbavio):
+yup
+00:13:04 - Marcos Casagrande (@marcoscvp90):
+La hora que le cobran al cliente 60 USD al dev le pegan 5.
+00:13:14 - Martin Bavio (@mbavio):
+pero en teoria toptal es para los que _despertaron_
+00:13:24 - Lupe (@lportias):
+me deprimi… me voy a dormir.. jejeje
+00:13:32 - Lupe (@lportias):
+hablamos mañana
+00:14:17 - Martin Bavio (@mbavio):
+<@UGQTUDQSG> para un cliente decente de USA, la hora a 60 no la agarran porque desconfian. Mas vale es un 100 a 5
+04:12:00 - Rodrigo Avila (@rodrigo398):
+Excelente che. Gracias por compartir experiencias. Seguire buscando mejores opciones para postular como freelance.
+04:44:04 - Martín Valdés de León (@mvaldesdeleon):
+En el fondo es la misma discusion sobre si decir un numero cuando te preguntan expectativas salariales en una entrevista.
+
+Para mi va a depender de lo siguiente: Tu meta es alcanzar cierto nivel de vida? O maximizar tus ingresos al margen de que hayas exedido tu nivel de vida esperado?
+
+Caso 1, poco te importa cuanto mas por encima de tu salario se lleven los intermediarios, siempre y cuando cumplas con tu meta. Caso 2, seguramente pienses que te estan robando.
+09:27:04 - Lupe (@lportias):
+Aplica también para IT...
+10:44:53 - Aldo Gabriel Rojas (@aldogrojas5):
+:rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing:
+14:31:37 - Bernardo Wilberger (@bernawil):
+medalla de bronce abstenerse
+15:40:17 - Martín Aimar (@maimar):
+<https://devdojo.com/teach>
+17:26:11 - Enzo Retamozo (@egr_96):
+buenas!
+17:26:14 - Enzo Retamozo (@egr_96):
+una humilde pregunta
+17:26:20 - Enzo Retamozo (@egr_96):
+llevo 8 meses desarrollando
+17:26:25 - Enzo Retamozo (@egr_96):
+frontend ..
+17:26:51 - Enzo Retamozo (@egr_96):
+Estaba evaluando una propuesta que me hicieron, pero la verdad estoy en bolas para saber que bruto pedir
+17:27:07 - Rodrigo Ali (@rodrigojali):
+¿De qué provincia sos?
+17:27:08 - Enzo Retamozo (@egr_96):
+Alguno podría darme una mano ?
+17:27:14 - Enzo Retamozo (@egr_96):
+soy de CABA
+17:27:20 - Rodrigo Ali (@rodrigojali):
+¿Cuál es la propuesta?
+17:29:32 - Enzo Retamozo (@egr_96):
+full stack jr/ssr
+
+la idea es ir formandome de a poco dentro de la empresa en react (conte que estoy estudiando por mi cuenta lo cual es verdad :shrug: )
+despues bueno lo base, html css js , un poco de node
+mas o menos sería 70%front 30%back,
+17:30:16 - Rodrigo Ali (@rodrigojali):
+Fck ni idea para ese tipo de job offer, pero supongo que ~35k bruto debería andar
+17:30:41 - Rodrigo Ali (@rodrigojali):
+Te deberían quedar ~29k en mano
+17:31:13 - Santiago Ruffino (@santi_0898):
+Capaz que un poquto mas
+17:31:15 - Rodrigo Ali (@rodrigojali):
+Si no, 30k bruto y te van a dar unos ~25k en mano. Para Jr eso debería andar bien, pero no sé si es normal en CABA
+17:31:28 - Rodrigo Ali (@rodrigojali):
+Creo que CABA debe andar más cerca de los 35k bruto
+17:34:15 - Juan Scolari (@juanscolari):
+por las dudas pedi de mas
+17:34:36 - Santiago Ruffino (@santi_0898):
+Yo cuando me preguntan remuneracion pretendida, digo X en mano
+17:37:19 - Gonza Gluzman (@gonza):
+Consejo: mostrate *muy* motivado
+17:37:28 - Gonza Gluzman (@gonza):
+Es lo que buscan en los jr/trainee
+17:37:43 - Gonza Gluzman (@gonza):
+En un sr pesan más otras cosas
+17:37:50 - Rodrigo Ali (@rodrigojali):
+Pero fuera de eso, está preguntando por cuánta plata pedir.
+17:38:06 - Gonza Gluzman (@gonza):
+Sí, sí
+17:38:08 - Gonza Gluzman (@gonza):
+Lo sé
+17:38:21 - Rodrigo Ali (@rodrigojali):
+¿Cuál sería un numero "bueno" y no una locura para Jr?
+17:38:21 - Gonza Gluzman (@gonza):
+No tengo idea de eso
+17:38:35 - Rodrigo Ali (@rodrigojali):
+Para mi un 30k en mano es como "esperable" para CABA, pero es una corazonada.
+17:39:22 - Rodrigo Ali (@rodrigojali):
+De última como dice Full Stack Scolari, pedite un 40k en mano y te van a decir "se sale de nuestro presupuesto, pero te podemos pagar ESTO"
+17:39:33 - Enzo Retamozo (@egr_96):
+yo igual me siento jr jajaja es decir no voy a venderme algo que no soy, con skills que aun no tengo etc
+17:39:34 - Enzo Retamozo (@egr_96):
+pero si
+17:39:36 - Rodrigo Ali (@rodrigojali):
+Es una forma de tirarle la pelota al otro lado de la cancha
+17:39:37 - Enzo Retamozo (@egr_96):
+pienso quiza pedir mas
+17:39:39 - Enzo Retamozo (@egr_96):
+y ahi negociar
+17:39:40 - Juan Scolari (@juanscolari):
+vos tira igual
+17:40:01 - Juan Scolari (@juanscolari):
+lo peor que te pueden decir es que tanto no llegan o que pagan eso x por otro seniority
+17:40:15 - Juan Scolari (@juanscolari):
+y cuanto mucho te ofrecen lo que querias inicialmente o un poco mas
+17:40:36 - Martín Valdés de León (@mvaldesdeleon):
+<https://openqube.io/encuesta-sueldos-2019.01#Salarios-Segun-Puesto>
+
+la mediana para jr dev es ~31k
+17:40:48 - Martín Valdés de León (@mvaldesdeleon):
+eso quiere decir que la mitad de los jr devs cobran menos y la mitad cobran mas
+17:41:01 - Juan Scolari (@juanscolari):
+apunta a los que cobran mas :stuck_out_tongue:
+17:41:04 - Martín Valdés de León (@mvaldesdeleon):
+(como para poner un dato "objetivo")
+17:42:49 - Juan Scolari (@juanscolari):
+brutos o netos Martin? sabes?
+17:42:53 - Santiago Ruffino (@santi_0898):
+Yo como Jr en CBA estoy pidiendo 25 - 30Kk NETOS
+17:42:59 - Santiago Ruffino (@santi_0898):
+Y hasta ahora me dijeron que esta bien ?)
+17:43:06 - Martín Valdés de León (@mvaldesdeleon):
+bruto es eso
+17:43:31 - Juan Scolari (@juanscolari):
+si, sorry, ahi lo vi
+17:44:31 - Juan Scolari (@juanscolari):
+recien me ofrecieron 30-40k para senior, wtf
+17:44:36 - Rodrigo Ali (@rodrigojali):
+Lol
+17:44:43 - Juan Scolari (@juanscolari):
+bah, para mi, hay que ver como me evaluo :smile:
+17:44:46 - Rodrigo Ali (@rodrigojali):
+:hide_the_pain_harold:
+17:44:50 - Lupe (@lportias):
+como decian mis amigos, tambien tiene que haberse enfrentado a Thanos por lo menos una vez…
+17:44:59 - Juan Scolari (@juanscolari):
+segun mi perfil, pero queria tener una call para ver que tecnologias usaba
+17:45:05 - Juan Scolari (@juanscolari):
+o sea, no se que evaluo
+17:56:02 - Enzo Retamozo (@egr_96):
+bueno vamos a probar
+17:56:08 - Enzo Retamozo (@egr_96):
+muchas gracias :slightly_smiling_face:
+17:58:22 - Juan Scolari (@juanscolari):
+y como te dijeron los chicos, con motivacion, no esperan que sepas todo para ese puesto pero si que le pongas onda :wink:
+17:58:39 - Juan Scolari (@juanscolari):
+si podes hacer un poquito de research de la empresa antes tambien suma
+18:06:18 - Enzo Retamozo (@egr_96):
+Gracias juan! si eso ante todo!
+18:06:45 - Julian (@jantonielli01):
+chamuya una banda
+18:09:31 - Luis Alvarez (@luistensai):
+fake it till you make it
+18:11:07 - Julian (@jantonielli01):
+Se, siempre podés decir que sabes hacer X si lo vas a poder aprender para cuando lo necesites
+18:11:58 - Julian (@jantonielli01):
+Buen ejemplo: decis que sabes react, si sabés un poco de JS. Mal ejemplo: Decir que hablas alemán cuando no sabés una palabra
+18:14:01 - Gonza Gluzman (@gonza):
+Mmmmm… no estoy tan de acuerdo. Si entrás como Jr no buscan que sepas, sino que tengas potencial
+18:14:09 - Gonza Gluzman (@gonza):
+Si entrás como Sr, ahí sí
+20:48:01 - Matias Garat Ortiz (@matiasgaratortiz):
+Si te sirve de referencia... nosotros en caba, santa fe y los demas remotos en el pais, un js developer junior esta arrancando en unos 65k bruto... (unos 1500u$s)
+20:48:24 - Matias Garat Ortiz (@matiasgaratortiz):
+asi que supongo que podes estirarte hacia arriba en lo que pedis para junior, como remuneracion pretendida
+20:50:54 - Julian (@jantonielli01):
+eso es *muy* alto para sueldo de arg
+20:57:51 - Juan Scolari (@juanscolari):
+agree, pero bueno, por ahi puede tirar cv ahi :stuck_out_tongue:
