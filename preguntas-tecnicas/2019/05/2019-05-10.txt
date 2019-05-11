@@ -1,0 +1,374 @@
+10:00:33 - Dayan Ruiz (@dayanr):
+chicos, consulta: tenemos un sitio creado en angularJS, y queremos migrar a angular 8, se puede hacer eso? o sea, pueden coexistir los dos?, se puede tipo ir migrando componentes? hasta que desaparezca todo lo de angular JS?
+10:10:30 - Martin Gonzalez (@martin2786):
+Hola <@UB2T44UTT> se puede pero tenes que tener cuidado como lo haces, pensa que las app de angular se montan sobre un nodo html y a partir de ahi las modificaciones al dom las hace angular, si vas a tener las 2 versiones tenes que tener cuidado de que no se pisen los elementos html (que no haya elementos que actualiza angularjs y angular al mismo tiempo). Quizas lo que podes hacer es con angular 8 ir migrando los componentes aislados hasta que ya no te quede otra que migrar el core de la app. Tenes que tener en cuenta el bundle size tambien, porque vas a tener 2 bundle conviviendo un tiempo.
+10:10:36 - Esteban Yañez (@eyanez):
+me acuerdo que <@U04MT85BN> habia dado una charla dando algunos tips de como migrar de a poco
+10:11:19 - Dayan Ruiz (@dayanr):
+si german apareciera, seria muy bueon
+10:11:36 - Dayan Ruiz (@dayanr):
+es una app de <http://asp.net|asp.net> mvc hecha con angularJS, que viene de 2014
+10:12:35 - Dayan Ruiz (@dayanr):
+la idea es de a poco sacarle todo lo de angularJS
+10:12:38 - Dayan Ruiz (@dayanr):
+y dejarlo con angular 8
+10:12:54 - Dayan Ruiz (@dayanr):
+pregunta: conocen algun articulo que hable de las ventajas de migrar a dia de hoy?
+10:13:08 - Dayan Ruiz (@dayanr):
+es para convencer a mi cliente de que vale la pena invertir su plata en evolucionar de tecnologia
+10:14:58 - Santiago Ruffino (@santi_0898):
+Tiro pregunta simple. Contesten en hilo. Como puedo hacer para ver las diferencias que tengo en mi codigo cuando hago un git pull?
+10:15:15 - Santiago Ruffino (@santi_0898):
+Osea, cuando lo tiro veo que hay cambis en archivos. Pero puedo ver en algun lado QUE cambio en los archivos?
+10:16:00 - Mateo Silguero (@mfsilguero):
+git diff ?
+10:16:12 - Luis Alvarez (@luistensai):
+vos decís antes de mergear o después?
+10:16:35 - Luis Alvarez (@luistensai):
+si ya hiciste git pull, podés hacer git log y también usar gitk
+10:16:52 - Santiago Ruffino (@santi_0898):
+Que es mergear? Se come?
+10:17:00 - Santiago Ruffino (@santi_0898):
+Git log me sirvio
+10:17:12 - Santiago Ruffino (@santi_0898):
+No me mostro los archivos, pero si el historial de los commits
+10:17:21 - Santiago Ruffino (@santi_0898):
+Git diff no me tiro nada
+10:17:41 - Germán Küber (@germankuber):
+Si si..
+10:17:50 - Germán Küber (@germankuber):
+yo di una charla y hice una migración pero hace ya como año y medio
+10:17:58 - Germán Küber (@germankuber):
+angular js a angular 2 o 4 en ese momento
+10:18:08 - Germán Küber (@germankuber):
+en el sitio de angular tener una serie de tips de como migrar...
+10:18:17 - Mateo Silguero (@mfsilguero):
+git diff te muestra los archivos que cambiaste en tu local contra el ultimo commit
+10:18:19 - Germán Küber (@germankuber):
+y si no te paso mis ppt con los 10 pasos para migrar que segui en 2 ocasiones ..
+10:18:31 - Martin Carrera (@mcarrera):
+claro, `git diff` es previo a hacer el commit de tu codigo
+10:18:35 - Mateo Silguero (@mfsilguero):
+Vos lo queres es saber que cambios hubo durante el pull ?
+10:18:44 - Santiago Ruffino (@santi_0898):
+Claro
+10:19:18 - Santiago Ruffino (@santi_0898):
+Yo hice: `git add .` -&gt; `git commit -m "Bla" -&gt; `git push origin master`
+10:19:30 - Luis Alvarez (@luistensai):
+ahí podrías usar gitk, es una ui
+10:20:13 - Luis Alvarez (@luistensai):
+sino `git log` junto con `git diff`
+10:20:49 - Leandro Echevarria (@echevarrialeandro):
+`tig` es otra tool CLI ui para git
+10:21:10 - Santiago Ruffino (@santi_0898):
+Intente usar las UI de Git pero no la entendi
+10:21:18 - Mateo Silguero (@mfsilguero):
+<https://superuser.com/questions/698687/how-to-list-files-modified-by-git-pull-git-merge>
+10:21:20 - Santiago Ruffino (@santi_0898):
+Osea, no me gusto mucho. Prefiero hacerlo desde terminal
+10:21:21 - Martín Valdés de León (@mvaldesdeleon):
+hace `git fetch` y dps `git diff origin/branch`
+10:21:34 - Mateo Silguero (@mfsilguero):
+Aca plantean algo que aun no probe
+10:21:47 - Martín Valdés de León (@mvaldesdeleon):
+fetch te sincroniza las referencias con los upstreams, pero no te mueve ningun puntero local
+10:22:04 - Martín Valdés de León (@mvaldesdeleon):
+`branch` sigue estando como la tenias (sin hacer pull/merge), pero `origin/branch` ahora se movio
+10:22:08 - Martín Valdés de León (@mvaldesdeleon):
+y podes tirar diff
+10:22:23 - Luis Alvarez (@luistensai):
+el tema es si ya hizo pull
+10:23:07 - Martín Valdés de León (@mvaldesdeleon):
+si ya hiciste pull es un poco mas paja, yo me fijaria a manopla en git log a ver cual era mi ultimo commit
+10:23:17 - Santiago Ruffino (@santi_0898):
+Claro, es lo que hice
+10:23:35 - Martín Valdés de León (@mvaldesdeleon):
+podes buscar commits
+10:23:36 - Santiago Ruffino (@santi_0898):
+En realidad, justo me surgio la duda de si estaba haciendo bien los pull y esas cosas
+10:00:33 - Dayan Ruiz (@dayanr):
+chicos, consulta: tenemos un sitio creado en angularJS, y queremos migrar a angular 8, se puede hacer eso? o sea, pueden coexistir los dos?, se puede tipo ir migrando componentes? hasta que desaparezca todo lo de angular JS?
+10:10:30 - Martin Gonzalez (@martin2786):
+Hola <@UB2T44UTT> se puede pero tenes que tener cuidado como lo haces, pensa que las app de angular se montan sobre un nodo html y a partir de ahi las modificaciones al dom las hace angular, si vas a tener las 2 versiones tenes que tener cuidado de que no se pisen los elementos html (que no haya elementos que actualiza angularjs y angular al mismo tiempo). Quizas lo que podes hacer es con angular 8 ir migrando los componentes aislados hasta que ya no te quede otra que migrar el core de la app. Tenes que tener en cuenta el bundle size tambien, porque vas a tener 2 bundle conviviendo un tiempo.
+10:10:36 - Esteban Yañez (@eyanez):
+me acuerdo que <@U04MT85BN> habia dado una charla dando algunos tips de como migrar de a poco
+10:11:19 - Dayan Ruiz (@dayanr):
+si german apareciera, seria muy bueon
+10:11:36 - Dayan Ruiz (@dayanr):
+es una app de <http://asp.net|asp.net> mvc hecha con angularJS, que viene de 2014
+10:12:35 - Dayan Ruiz (@dayanr):
+la idea es de a poco sacarle todo lo de angularJS
+10:12:38 - Dayan Ruiz (@dayanr):
+y dejarlo con angular 8
+10:12:54 - Dayan Ruiz (@dayanr):
+pregunta: conocen algun articulo que hable de las ventajas de migrar a dia de hoy?
+10:13:08 - Dayan Ruiz (@dayanr):
+es para convencer a mi cliente de que vale la pena invertir su plata en evolucionar de tecnologia
+10:14:58 - Santiago Ruffino (@santi_0898):
+Tiro pregunta simple. Contesten en hilo. Como puedo hacer para ver las diferencias que tengo en mi codigo cuando hago un git pull?
+10:15:15 - Santiago Ruffino (@santi_0898):
+Osea, cuando lo tiro veo que hay cambis en archivos. Pero puedo ver en algun lado QUE cambio en los archivos?
+10:16:00 - Mateo Silguero (@mfsilguero):
+git diff ?
+10:16:12 - Luis Alvarez (@luistensai):
+vos decís antes de mergear o después?
+10:16:35 - Luis Alvarez (@luistensai):
+si ya hiciste git pull, podés hacer git log y también usar gitk
+10:16:52 - Santiago Ruffino (@santi_0898):
+Que es mergear? Se come?
+10:17:00 - Santiago Ruffino (@santi_0898):
+Git log me sirvio
+10:17:12 - Santiago Ruffino (@santi_0898):
+No me mostro los archivos, pero si el historial de los commits
+10:17:21 - Santiago Ruffino (@santi_0898):
+Git diff no me tiro nada
+10:17:41 - Germán Küber (@germankuber):
+Si si..
+10:17:50 - Germán Küber (@germankuber):
+yo di una charla y hice una migración pero hace ya como año y medio
+10:17:58 - Germán Küber (@germankuber):
+angular js a angular 2 o 4 en ese momento
+10:18:08 - Germán Küber (@germankuber):
+en el sitio de angular tener una serie de tips de como migrar...
+10:18:17 - Mateo Silguero (@mfsilguero):
+git diff te muestra los archivos que cambiaste en tu local contra el ultimo commit
+10:18:19 - Germán Küber (@germankuber):
+y si no te paso mis ppt con los 10 pasos para migrar que segui en 2 ocasiones ..
+10:18:31 - Martin Carrera (@mcarrera):
+claro, `git diff` es previo a hacer el commit de tu codigo
+10:18:35 - Mateo Silguero (@mfsilguero):
+Vos lo queres es saber que cambios hubo durante el pull ?
+10:18:44 - Santiago Ruffino (@santi_0898):
+Claro
+10:19:18 - Santiago Ruffino (@santi_0898):
+Yo hice: `git add .` -&gt; `git commit -m "Bla" -&gt; `git push origin master`
+10:19:30 - Luis Alvarez (@luistensai):
+ahí podrías usar gitk, es una ui
+10:20:13 - Luis Alvarez (@luistensai):
+sino `git log` junto con `git diff`
+10:20:49 - Leandro Echevarria (@echevarrialeandro):
+`tig` es otra tool CLI ui para git
+10:21:10 - Santiago Ruffino (@santi_0898):
+Intente usar las UI de Git pero no la entendi
+10:21:18 - Mateo Silguero (@mfsilguero):
+<https://superuser.com/questions/698687/how-to-list-files-modified-by-git-pull-git-merge>
+10:21:20 - Santiago Ruffino (@santi_0898):
+Osea, no me gusto mucho. Prefiero hacerlo desde terminal
+10:21:21 - Martín Valdés de León (@mvaldesdeleon):
+hace `git fetch` y dps `git diff origin/branch`
+10:21:34 - Mateo Silguero (@mfsilguero):
+Aca plantean algo que aun no probe
+10:21:47 - Martín Valdés de León (@mvaldesdeleon):
+fetch te sincroniza las referencias con los upstreams, pero no te mueve ningun puntero local
+10:22:04 - Martín Valdés de León (@mvaldesdeleon):
+`branch` sigue estando como la tenias (sin hacer pull/merge), pero `origin/branch` ahora se movio
+10:22:08 - Martín Valdés de León (@mvaldesdeleon):
+y podes tirar diff
+10:22:23 - Luis Alvarez (@luistensai):
+el tema es si ya hizo pull
+10:23:07 - Martín Valdés de León (@mvaldesdeleon):
+si ya hiciste pull es un poco mas paja, yo me fijaria a manopla en git log a ver cual era mi ultimo commit
+10:23:17 - Santiago Ruffino (@santi_0898):
+Claro, es lo que hice
+10:23:35 - Martín Valdés de León (@mvaldesdeleon):
+podes buscar commits
+10:23:36 - Santiago Ruffino (@santi_0898):
+En realidad, justo me surgio la duda de si estaba haciendo bien los pull y esas cosas
+10:23:43 - Martín Valdés de León (@mvaldesdeleon):
+por commit-msg o por contenido
+10:27:45 - Dayan Ruiz (@dayanr):
+estaria bueno ese ppt <@U04MT85BN>
+10:28:00 - Dayan Ruiz (@dayanr):
+necesito convencer a mi cliente y al frontend de mi equipo que hay que migrar
+10:28:03 - Dayan Ruiz (@dayanr):
+dice que no es buena idea
+10:28:08 - Luis Alvarez (@luistensai):
+lo más fácil que veo es, hacer git log, agarrar el sha del commit desde donde querés empezar a ver los cambios y el sha del último commit, y hacés git diff de eso
+10:31:59 - Luis Alvarez (@luistensai):
+eso me traería los cambios desde el martes 7 a las 16:23 hasta el jueves 9 a las 10:25
+10:32:46 - Luis Alvarez (@luistensai):
+si hay commits tuyos en el medio, al horno jaja
+10:40:47 - Aldo Gabriel Rojas (@aldogrojas5):
+Buenos días!!! Les hago una consulta de React:
+Estoy terminando la página (de nuevo) y tengo un inconveniente con las fonts. Tengo definida una fuente que en el navegador de la compu la veo perfectamente, pero cuando entro desde el celu a la dirección q me da la consola, veo q no me la levanta... se les ocurre qué puede ser?
+10:41:40 - Martín Aimar (@maimar):
+cómo cargás la fuente?
+10:43:06 - Aldo Gabriel Rojas (@aldogrojas5):
+La defino en css y tengo una carpeta donde tengo los archivos de la fuente en diferentes formatos
+10:43:35 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo q me llama la atención es q ande en la compu y no en el celu
+10:46:06 - Alejandro Nagy (@nagy.alejandro):
+sera que la fuente no está soportada en el celu? :confused:
+10:46:24 - Alejandro Nagy (@nagy.alejandro):
+por ahí proba de entrar a la página de la fuente en el celu a ver que onda
+10:47:31 - Martín Aimar (@maimar):
+puede ser que no estés copiando el archivo de la fuente en la versión compilada?
+11:13:36 - Aldo Gabriel Rojas (@aldogrojas5):
+Supuestamente la carga del mismo lugar
+11:15:52 - Martín Aimar (@maimar):
+chequeá la consola cuando lo cargás en el celu
+11:44:29 - Aldo Gabriel Rojas (@aldogrojas5):
+Claro, ahi me da el puerto al q tengo q acceder. No informa ningun error ni nada...
+11:44:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Ojala q no! Está muy linda :pray:
+11:54:22 - Luis Ventocilla (@lvsmix):
+Alguno trabajo con AWS? me gustaria saber como armaron el zip para subir elasticbeanstalk
+11:54:47 - Luis Ventocilla (@lvsmix):
+los tutoriales que vi estan con el viejo cliente ( eb)
+11:54:57 - Luis Ventocilla (@lvsmix):
+ahora estan con el nuevo
+11:55:16 - Julian (@jantonielli01):
+yo usaba code deploy con EB
+11:55:28 - Julian (@jantonielli01):
+i.e, merge a master y todo funcionaba automagicamente
+11:55:58 - Luis Ventocilla (@lvsmix):
+tienes el viejo cliente por ahi
+11:56:11 - Luis Ventocilla (@lvsmix):
+porque todo esta en el nuevo
+11:56:25 - Luis Ventocilla (@lvsmix):
+pero cambio todo (jajaja me esta costando AWS) jaja
+11:57:06 - Luis Ventocilla (@lvsmix):
+hoy estoy haciendo esto
+11:57:34 - Luis Ventocilla (@lvsmix):
+zip mi codigo copio una carpeta .ebextensions que tiene unos scripts que para eb los precisa
+11:57:46 - Luis Ventocilla (@lvsmix):
+pude desplegarlo pero no muestra los assets
+11:57:59 - Luis Ventocilla (@lvsmix):
+se que ese trabajo artesanal con el cliente te olvidas
+11:58:11 - Luis Ventocilla (@lvsmix):
+siempre hablando del eb client
+12:01:46 - Luis Ventocilla (@lvsmix):
+(disculpen pero soy muy newbiee en aws)
+12:03:49 - Martín Valdés de León (@mvaldesdeleon):
+yo tb use el `eb` client
+12:03:59 - Martín Valdés de León (@mvaldesdeleon):
+tal cual dice Julian
+12:11:18 - Luis Ventocilla (@lvsmix):
+tienen el instalador por ahi, porque ya no lo encuentro
+12:11:26 - Luis Ventocilla (@lvsmix):
+se migro al nuevo.
+12:13:31 - Martín Valdés de León (@mvaldesdeleon):
+<https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html>
+12:17:35 - Luis Ventocilla (@lvsmix):
+gracias <@U0TFEHWEA>
+13:59:54 - gillchristian (@gillchristian):
+No de dónde preguntar así que pregunto acá
+14:00:23 - gillchristian (@gillchristian):
+Alguno uso `docker-compose` programaticamente?
+14:00:29 - gillchristian (@gillchristian):
+O sabe de alguna lib?
+14:01:17 - Juan Scolari (@juanscolari):
+A que llamas programaticamente?
+14:01:59 - Juan Scolari (@juanscolari):
+que necesitas hacer?
+14:14:51 - gillchristian (@gillchristian):
+Correrlo desde código, en vez del cli
+14:15:07 - gillchristian (@gillchristian):
+En el peor de los casos voy a ejecutar el cli desde el código
+14:17:05 - gillchristian (@gillchristian):
+Hay un libcompose en la org de Docker pero está deprecado
+14:17:20 - gillchristian (@gillchristian):
+Y tampoco quería usar Go jaja
+14:20:55 - gillchristian (@gillchristian):
+Tenemos varios containers y quiero armar un cli que te permita elegir cuales correr
+14:21:03 - Juan Scolari (@juanscolari):
+Nunca lo hice pero me figura esta: <https://github.com/PDMLab/docker-compose#readme>
+14:21:10 - Juan Scolari (@juanscolari):
+Tiene varios downloads en npm
+14:21:48 - Juan Scolari (@juanscolari):
+(no se si cubre lo que decis, es lo mejor que puedo hacer :P)
+14:54:31 - Germán Küber (@germankuber):
+mmmm
+14:54:36 - Germán Küber (@germankuber):
+mira te aseguro qeu es un laburo duro
+14:54:38 - Germán Küber (@germankuber):
+muy duro..
+14:54:44 - Germán Küber (@germankuber):
+depende el tamaño del proyecto
+14:54:51 - Germán Küber (@germankuber):
+pero posta que tiene muchos dolores de cabeza
+14:54:59 - Germán Küber (@germankuber):
+En que version de Angular estan ?
+15:02:05 - gillchristian (@gillchristian):
+Se me terminó la batería del celu a mitad de lo que venía escribiendo
+15:02:25 - gillchristian (@gillchristian):
+Así le doy una mirada, gracias
+15:23:50 - a0viedo (@a0viedo):
+en donde estoy hicieron un wrapper de docker-compose en go
+15:24:17 - a0viedo (@a0viedo):
+<https://github.com/LGUG2Z/rae>
+15:26:30 - Martín Valdés de León (@mvaldesdeleon):
+no se cual es tu caso de uso, pero podrias armarte un cli o tool que lo que haga sea generar el yaml apropiado
+15:28:26 - a0viedo (@a0viedo):
+no entendí el caso de uso
+15:28:47 - a0viedo (@a0viedo):
+fijate si dockly no es lo que querés <https://github.com/lirantal/dockly>
+15:45:48 - Dayan Ruiz (@dayanr):
+estamos en 1.* pero no recuerdo la version exacta, fue creado en hace como 5 o 6 años el proyecto y no se si se actualizo mucho
+16:43:22 - gillchristian (@gillchristian):
+Tenemos un docker-compose con N containers, pero no todo el mundo necesita todo, entonces la idea es armar un cli que puedas medio "interactivamente" elegir que correr, armar bundles tipo los de un equipo siempre corren ciertas cosas
+16:44:26 - gillchristian (@gillchristian):
+Se puede con docker-compose separando en varios archivos, pero bueno eso no tiene gracia como side project :speak_no_evil: 
+16:45:27 - gillchristian (@gillchristian):
+Y el otro use case es poder usar para algunos containers las imágenes del registry en vez de buildear local
+17:36:20 - a0viedo (@a0viedo):
+ahora estoy trabajando en una tool interactiva para la terminal pero no sé si es lo que buscas. la idea es que tengas tabs o "grupos" y que tengas una lista para elegir qué correr o shortcuts para empezar/parar todos los procesos del grupo
+17:37:23 - a0viedo (@a0viedo):
+pero no te hace preguntas cómo `npm init`
+17:53:47 - Diego Harari (@diehara):
+Buenas! hay algo para pasar el layout de una pagina a pdf?
+17:54:45 - Gonza Gluzman (@gonza):
+No sé si entendí
+17:54:57 - Gonza Gluzman (@gonza):
+Pero creo que quizás `pupeteer`
+17:55:10 - Martín Valdés de León (@mvaldesdeleon):
+&gt; Cmd-P -&gt; Save as pdf
+?
+17:55:48 - Gonza Gluzman (@gonza):
+In fact, eso es lo que hace pupeteer por detrás
+17:55:56 - Diego Harari (@diehara):
+no te lo guarda plain html?
+17:55:59 - Diego Harari (@diehara):
+o sea sin css?
+17:56:06 - Martín Valdés de León (@mvaldesdeleon):
+nono
+17:56:12 - Martín Valdés de León (@mvaldesdeleon):
+le pone onda
+17:56:13 - Martín Valdés de León (@mvaldesdeleon):
+:stuck_out_tongue:
+17:56:24 - Martín Valdés de León (@mvaldesdeleon):
+en general es similar a lo que imprimirias, pero en pdf
+17:56:29 - Martín Valdés de León (@mvaldesdeleon):
+(asi que aplica media queries de print)
+17:56:36 - Juan Scolari (@juanscolari):
+Por un segundo dije, wow, Cmd + PDF, despues me avive que era Print :stuck_out_tongue:
+17:56:55 - Diego Harari (@diehara):
+jaja
+17:56:55 - Diego Harari (@diehara):
+oka
+17:56:57 - Diego Harari (@diehara):
+thanks!
+18:00:30 - gillchristian (@gillchristian):
+No tan interactiva jaja
+18:00:46 - gillchristian (@gillchristian):
+Más que nada poder elegir cuales (quizá un prompt) y listo
+18:01:05 - gillchristian (@gillchristian):
+Después el resto sería cómo dijo Martín, generar los archivos y correr con eso
+18:03:25 - Norman Perrin (@norman):
+Saben si con google o algún otra API se puede marcar un radio en un mapa según lat, long y radio?
+18:05:37 - Gonzalo González Mora (@gonzalogm):
+A qué te referís con marcar un radio? o sea, qué estarías queriendo recibir de respuesta vos?
+18:05:51 - Gonzalo González Mora (@gonzalogm):
+O decís en un mapa de google maps?
+18:06:08 - Juan Scolari (@juanscolari):
+dibujar un circulo si
+18:06:16 - Norman Perrin (@norman):
+Me gustaría marcar un pointer o un radio. No dejar el mapa con zoom nada más. En un mapa de google o lo que se pueda
+18:06:51 - Martín Valdés de León (@mvaldesdeleon):
+<https://developers.google.com/maps/documentation/javascript/examples/circle-simple>
+18:06:59 - Martín Valdés de León (@mvaldesdeleon):
+el radius es en metros
+18:07:27 - Juan Scolari (@juanscolari):
+ese, no lo encontraba
+18:09:08 - Norman Perrin (@norman):
+Genial gracias
