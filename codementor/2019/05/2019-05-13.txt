@@ -1,0 +1,184 @@
+14:34:28 - Julian (@jantonielli01):
+<@UGQTUDQSG> salieron varios laburos de solidity la semana pasada, te agarraste alguno?
+14:34:44 - Marcos Casagrande (@marcoscvp90):
+Agarré uno solo
+14:34:55 - Marcos Casagrande (@marcoscvp90):
+Bah, era más de web3 igual.
+14:35:25 - Julian (@jantonielli01):
+Ah, el de meter cosas de erc20 en la página?
+14:35:38 - Julian (@jantonielli01):
+Yo le hablé a ese pero nunca me contestó 
+14:47:18 - Marcos Casagrande (@marcoscvp90):
+Si, ese mismo jaja
+14:47:22 - Marcos Casagrande (@marcoscvp90):
+Vos agarraste algún otro?
+14:47:37 - Julian (@jantonielli01):
+nop, uno me hablo pero decia que no tenia plata
+14:47:41 - Julian (@jantonielli01):
+y queria que se lo haga gratis
+14:47:44 - Julian (@jantonielli01):
+lmao
+14:50:44 - Marcos Casagrande (@marcoscvp90):
+Cada tanto sale uno de esos, suelen ser indios.
+14:51:58 - Ale Miralles (@amiralles):
+A mi me paso una vez con un nato de medio oriente. Tenia dudas sobre algoritmos recursivos y no tenia un mango. Le explique un poco (como para sacarlo del pozo) pero le dije, codementor es un sitio pago, no es un comunity service. Si esta buscando mentores que trabajen gratis, estas en el sitio equivocado.
+14:52:32 - Marcos Casagrande (@marcoscvp90):
+"This is not Stack Overflow", esa es mi respuesta generalmente.
+14:52:54 - Ale Miralles (@amiralles):
+El loco me contaba, medio ofendido, que muchos le ofrecian iniciar una sesion paga.
+14:53:17 - Ale Miralles (@amiralles):
+Yo le dije, y si, de eso se trata...
+16:10:53 - Julian (@jantonielli01):
+yo lo saque cagando
+16:10:54 - Julian (@jantonielli01):
+:stuck_out_tongue:
+16:11:02 - Julian (@jantonielli01):
+No estoy para hacer caridad, sorry
+16:20:31 - Micael Robles (@micaelrobles):
+yo le tiro informacion falsa para confundirlo :troll:
+16:21:55 - Leandro Echevarria (@echevarrialeandro):
+Jajajaj no seas malo :rolling_on_the_floor_laughing:
+16:22:04 - Leandro Echevarria (@echevarrialeandro):
+Decile que vaya a SO
+16:49:48 - Ale Miralles (@amiralles):
+Tal cual. Si buscas algo free, SO puede ser la mejor opcion.
+16:50:40 - Ale Miralles (@amiralles):
+Lo mas loco, es que despues de entender como funcionaba la cosa, seguia posteando y buscando gente que lo ayude gratis!!! un caradura total el pibe.
+16:55:03 - Marcos Casagrande (@marcoscvp90):
+`/report`
+16:55:09 - Julian (@jantonielli01):
+^^^
+16:55:11 - Marcos Casagrande (@marcoscvp90):
+Creo que hay uno que dice; "Asking for free help"
+16:55:50 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/E0dfKRC.png>
+16:55:57 - Ale Miralles (@amiralles):
+No, no... Este no dice eso.
+16:56:04 - Ale Miralles (@amiralles):
+Si lo aclara, de ultima lo entiendo.
+16:56:07 - Julian (@jantonielli01):
+Report: `too poor/indian`
+16:56:11 - Ale Miralles (@amiralles):
+El tipo paga USD 80 la hora
+16:56:31 - Ale Miralles (@amiralles):
+Eso es lo que mas bronca te da.
+16:56:49 - Ale Miralles (@amiralles):
+Yo lo ayude la primera vez, y despues deje de constestarle.
+16:57:31 - Ale Miralles (@amiralles):
+Pero me parece que si.
+16:57:38 - Ale Miralles (@amiralles):
+Voy a empezar a reportar.
+16:57:53 - Ale Miralles (@amiralles):
+Hace un tiempo un indio con un tema similar.
+16:57:59 - Ale Miralles (@amiralles):
+Y no paraba de insistir
+16:58:05 - Marcos Casagrande (@marcoscvp90):
+"Why you don't help sir"?
+16:58:30 - Ale Miralles (@amiralles):
+Yo deje de contestarle, pero me parece que en esos casos lo mejor es reportarlos. Asi no le rompe los huevos a nadie mas.
+16:58:44 - Ale Miralles (@amiralles):
+Tal cual <@UGQTUDQSG>
+16:59:49 - Ale Miralles (@amiralles):
+Yo le dije a uno, "Sorry, I can't help you with that."
+17:00:03 - Ale Miralles (@amiralles):
+y el nato me dice: "But, why?"
+17:00:09 - Ale Miralles (@amiralles):
+HDP!
+17:00:14 - Ale Miralles (@amiralles):
+porque no queres pagar!!!
+17:00:22 - Ale Miralles (@amiralles):
+que sos recruiter ahora!!! :stuck_out_tongue_winking_eye:
+17:02:38 - Marcos Casagrande (@marcoscvp90):
+jajajaja
+14:34:28 - Julian (@jantonielli01):
+<@UGQTUDQSG> salieron varios laburos de solidity la semana pasada, te agarraste alguno?
+14:34:44 - Marcos Casagrande (@marcoscvp90):
+Agarré uno solo
+14:34:55 - Marcos Casagrande (@marcoscvp90):
+Bah, era más de web3 igual.
+14:35:25 - Julian (@jantonielli01):
+Ah, el de meter cosas de erc20 en la página?
+14:35:38 - Julian (@jantonielli01):
+Yo le hablé a ese pero nunca me contestó 
+14:47:18 - Marcos Casagrande (@marcoscvp90):
+Si, ese mismo jaja
+14:47:22 - Marcos Casagrande (@marcoscvp90):
+Vos agarraste algún otro?
+14:47:37 - Julian (@jantonielli01):
+nop, uno me hablo pero decia que no tenia plata
+14:47:41 - Julian (@jantonielli01):
+y queria que se lo haga gratis
+14:47:44 - Julian (@jantonielli01):
+lmao
+14:50:44 - Marcos Casagrande (@marcoscvp90):
+Cada tanto sale uno de esos, suelen ser indios.
+14:51:58 - Ale Miralles (@amiralles):
+A mi me paso una vez con un nato de medio oriente. Tenia dudas sobre algoritmos recursivos y no tenia un mango. Le explique un poco (como para sacarlo del pozo) pero le dije, codementor es un sitio pago, no es un comunity service. Si esta buscando mentores que trabajen gratis, estas en el sitio equivocado.
+14:52:32 - Marcos Casagrande (@marcoscvp90):
+"This is not Stack Overflow", esa es mi respuesta generalmente.
+14:52:54 - Ale Miralles (@amiralles):
+El loco me contaba, medio ofendido, que muchos le ofrecian iniciar una sesion paga.
+14:53:17 - Ale Miralles (@amiralles):
+Yo le dije, y si, de eso se trata...
+16:10:53 - Julian (@jantonielli01):
+yo lo saque cagando
+16:10:54 - Julian (@jantonielli01):
+:stuck_out_tongue:
+16:11:02 - Julian (@jantonielli01):
+No estoy para hacer caridad, sorry
+16:20:31 - Micael Robles (@micaelrobles):
+yo le tiro informacion falsa para confundirlo :troll:
+16:21:55 - Leandro Echevarria (@echevarrialeandro):
+Jajajaj no seas malo :rolling_on_the_floor_laughing:
+16:22:04 - Leandro Echevarria (@echevarrialeandro):
+Decile que vaya a SO
+16:49:48 - Ale Miralles (@amiralles):
+Tal cual. Si buscas algo free, SO puede ser la mejor opcion.
+16:50:40 - Ale Miralles (@amiralles):
+Lo mas loco, es que despues de entender como funcionaba la cosa, seguia posteando y buscando gente que lo ayude gratis!!! un caradura total el pibe.
+16:55:03 - Marcos Casagrande (@marcoscvp90):
+`/report`
+16:55:09 - Julian (@jantonielli01):
+^^^
+16:55:11 - Marcos Casagrande (@marcoscvp90):
+Creo que hay uno que dice; "Asking for free help"
+16:55:50 - Marcos Casagrande (@marcoscvp90):
+<https://i.imgur.com/E0dfKRC.png>
+16:55:57 - Ale Miralles (@amiralles):
+No, no... Este no dice eso.
+16:56:04 - Ale Miralles (@amiralles):
+Si lo aclara, de ultima lo entiendo.
+16:56:07 - Julian (@jantonielli01):
+Report: `too poor/indian`
+16:56:11 - Ale Miralles (@amiralles):
+El tipo paga USD 80 la hora
+16:56:31 - Ale Miralles (@amiralles):
+Eso es lo que mas bronca te da.
+16:56:49 - Ale Miralles (@amiralles):
+Yo lo ayude la primera vez, y despues deje de constestarle.
+16:57:31 - Ale Miralles (@amiralles):
+Pero me parece que si.
+16:57:38 - Ale Miralles (@amiralles):
+Voy a empezar a reportar.
+16:57:53 - Ale Miralles (@amiralles):
+Hace un tiempo un indio con un tema similar.
+16:57:59 - Ale Miralles (@amiralles):
+Y no paraba de insistir
+16:58:05 - Marcos Casagrande (@marcoscvp90):
+"Why you don't help sir"?
+16:58:30 - Ale Miralles (@amiralles):
+Yo deje de contestarle, pero me parece que en esos casos lo mejor es reportarlos. Asi no le rompe los huevos a nadie mas.
+16:58:44 - Ale Miralles (@amiralles):
+Tal cual <@UGQTUDQSG>
+16:59:49 - Ale Miralles (@amiralles):
+Yo le dije a uno, "Sorry, I can't help you with that."
+17:00:03 - Ale Miralles (@amiralles):
+y el nato me dice: "But, why?"
+17:00:09 - Ale Miralles (@amiralles):
+HDP!
+17:00:14 - Ale Miralles (@amiralles):
+porque no queres pagar!!!
+17:00:22 - Ale Miralles (@amiralles):
+que sos recruiter ahora!!! :stuck_out_tongue_winking_eye:
+17:02:38 - Marcos Casagrande (@marcoscvp90):
+jajajaja
