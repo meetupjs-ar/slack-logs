@@ -1,0 +1,582 @@
+11:10:06 - Gonza Rascón (@gonzarascon):
+Hola Gente! Alguno tiene a mano un buen tuto para hacer CRUD RESTful API con MySQL usando express,js? :grimacing:
+11:29:31 - Alejandro Nagy (@nagy.alejandro):
+cualquier api rest en node te va a servir
+11:30:07 - Alejandro Nagy (@nagy.alejandro):
+como ejemplo digo
+11:30:20 - Brian Hume (@brianh20):
+si tenes algo de conocimiento
+11:30:24 - Brian Hume (@brianh20):
+este es un buen starting point
+11:30:24 - Brian Hume (@brianh20):
+<https://www.youtube.com/watch?v=0oXYLzuucwE>
+11:30:28 - Brian Hume (@brianh20):
+excepto porque lo hace con mongo
+11:30:36 - Brian Hume (@brianh20):
+pero.. si cambias el orm/libreria/etc estas
+11:30:38 - Alejandro Nagy (@nagy.alejandro):
+después MySQL supongo que algún package para node.js habrá
+11:30:44 - Brian Hume (@brianh20):
+si
+11:30:49 - Brian Hume (@brianh20):
+de hecho en la paginad e express te dan uno
+11:31:12 - Brian Hume (@brianh20):
+va, sugieren
+11:32:25 - Alejandro Nagy (@nagy.alejandro):
+REST no es más que utilizar códigos de HTTP 1.1 para informarle al cliente de tu API el resultado de su request. Después, dependiendo de que tan “puro” lo querés hacer, podes seguir algunas reglas más estrictas o no
+11:32:29 - Brian Hume (@brianh20):
+<http://expressjs.com/en/guide/database-integration.html#sql-server>
+11:32:35 - Brian Hume (@brianh20):
+ahi tenes para otdas las bases de datos
+11:32:36 - Brian Hume (@brianh20):
+ejemplos
+11:32:38 - Brian Hume (@brianh20):
+obvio que tenes otras
+11:33:04 - Brian Hume (@brianh20):
+un poquito mas arriba de donde te lleva el link
+11:35:07 - Alejandro Nagy (@nagy.alejandro):
+como que el CREATE de tu CRUD debería hacer un put si es objeto independiente nuevo, post si es agregar objeto a una colección, la respuesta satisfactoria debería ser un 200 con un header location con la url donde hacer get de ese objeto y varias otras que no recuerdo ahora :stuck_out_tongue:
+11:45:22 - German Gonzalez (@gercho):
+donde puedo leer todas estas cosas?
+11:49:40 - Juan Scolari (@juanscolari):
+Estoy empezando con Terraform, algun consejo, buena/mala practica, loquesea que me pueda servir?
+11:58:39 - Alejandro Nagy (@nagy.alejandro):
+google :stuck_out_tongue:
+11:58:45 - Alejandro Nagy (@nagy.alejandro):
+busca info sobre REST
+11:58:50 - Gonza Rascón (@gonzarascon):
+Gracias! Voy a ojear esto :smile:
+12:01:43 - Alejandro Nagy (@nagy.alejandro):
+<https://www.restapitutorial.com>
+12:02:25 - Alejandro Nagy (@nagy.alejandro):
+ahí post/put lo tiene a la inversa de lo que yo te decía
+12:04:27 - Alejandro Nagy (@nagy.alejandro):
+PATCH casi nunca lo vi usado, generalmente es GET, POST, PUT, DELETE
+12:19:47 - Julian (@jantonielli01):
+Patch y put son lo mismo en la vida real 
+12:20:58 - Martin Gonzalez (@martin2786):
+Patch es si tenes que actualizar un valor, put reemplaza el objeto entero
+12:25:58 - Martin Gonzalez (@martin2786):
+cuando trabajas con una api rest de un vendor generalmente tienen PATCH implementado. Tambien hay clientes que piden seguir la especificacion estrictamente y tenes que implementarlo tambien. en apis comunes no se suele usar
+12:55:35 - Mariano Argañaras (@arga.mariano):
+gente, una forma de simplificar un condicional de tipo `if (object.response &amp;&amp; object.response.data &amp;&amp; object.response.data.myValue)` ?
+12:57:51 - Mariano Argañaras (@arga.mariano):
+me refiero al checkeo de cada una de las keys y subkeys de un objeto para evitar un `cannot read myValue of undefined`
+12:58:55 - Julian (@jantonielli01):
+```
+if (() =&gt; {try { return a.b.c } catch {return undefined} })()) { ... }
+```
+:joy:
+12:59:50 - Mariano Argañaras (@arga.mariano):
+LOL
+12:59:53 - Mariano Argañaras (@arga.mariano):
+jjaja
+12:59:58 - Martín Valdés de León (@mvaldesdeleon):
+armate una funcion que lo haga por vos, asi lo haces una unica vez en un solo lugar
+13:00:53 - Martín Valdés de León (@mvaldesdeleon):
+`getPath(['foo', 'bar', 'baz'], theObject) =&gt; theValue | undefined`
+13:00:59 - Leandro Echevarria (@echevarrialeandro):
+Algo como <https://ramdajs.com/docs/#has> ?
+13:01:02 - Martín Valdés de León (@mvaldesdeleon):
+claro
+13:01:12 - Leandro Echevarria (@echevarrialeandro):
+O path or whatever Ramda function que haga eso
+11:10:06 - Gonza Rascón (@gonzarascon):
+Hola Gente! Alguno tiene a mano un buen tuto para hacer CRUD RESTful API con MySQL usando express,js? :grimacing:
+11:29:31 - Alejandro Nagy (@nagy.alejandro):
+cualquier api rest en node te va a servir
+11:30:07 - Alejandro Nagy (@nagy.alejandro):
+como ejemplo digo
+11:30:20 - Brian Hume (@brianh20):
+si tenes algo de conocimiento
+11:30:24 - Brian Hume (@brianh20):
+este es un buen starting point
+11:30:24 - Brian Hume (@brianh20):
+<https://www.youtube.com/watch?v=0oXYLzuucwE>
+11:30:28 - Brian Hume (@brianh20):
+excepto porque lo hace con mongo
+11:30:36 - Brian Hume (@brianh20):
+pero.. si cambias el orm/libreria/etc estas
+11:30:38 - Alejandro Nagy (@nagy.alejandro):
+después MySQL supongo que algún package para node.js habrá
+11:30:44 - Brian Hume (@brianh20):
+si
+11:30:49 - Brian Hume (@brianh20):
+de hecho en la paginad e express te dan uno
+11:31:12 - Brian Hume (@brianh20):
+va, sugieren
+11:32:25 - Alejandro Nagy (@nagy.alejandro):
+REST no es más que utilizar códigos de HTTP 1.1 para informarle al cliente de tu API el resultado de su request. Después, dependiendo de que tan “puro” lo querés hacer, podes seguir algunas reglas más estrictas o no
+11:32:29 - Brian Hume (@brianh20):
+<http://expressjs.com/en/guide/database-integration.html#sql-server>
+11:32:35 - Brian Hume (@brianh20):
+ahi tenes para otdas las bases de datos
+11:32:36 - Brian Hume (@brianh20):
+ejemplos
+11:32:38 - Brian Hume (@brianh20):
+obvio que tenes otras
+11:33:04 - Brian Hume (@brianh20):
+un poquito mas arriba de donde te lleva el link
+11:35:07 - Alejandro Nagy (@nagy.alejandro):
+como que el CREATE de tu CRUD debería hacer un put si es objeto independiente nuevo, post si es agregar objeto a una colección, la respuesta satisfactoria debería ser un 200 con un header location con la url donde hacer get de ese objeto y varias otras que no recuerdo ahora :stuck_out_tongue:
+11:45:22 - German Gonzalez (@gercho):
+donde puedo leer todas estas cosas?
+11:49:40 - Juan Scolari (@juanscolari):
+Estoy empezando con Terraform, algun consejo, buena/mala practica, loquesea que me pueda servir?
+11:58:39 - Alejandro Nagy (@nagy.alejandro):
+google :stuck_out_tongue:
+11:58:45 - Alejandro Nagy (@nagy.alejandro):
+busca info sobre REST
+11:58:50 - Gonza Rascón (@gonzarascon):
+Gracias! Voy a ojear esto :smile:
+12:01:43 - Alejandro Nagy (@nagy.alejandro):
+<https://www.restapitutorial.com>
+12:02:25 - Alejandro Nagy (@nagy.alejandro):
+ahí post/put lo tiene a la inversa de lo que yo te decía
+12:04:27 - Alejandro Nagy (@nagy.alejandro):
+PATCH casi nunca lo vi usado, generalmente es GET, POST, PUT, DELETE
+12:19:47 - Julian (@jantonielli01):
+Patch y put son lo mismo en la vida real 
+12:20:58 - Martin Gonzalez (@martin2786):
+Patch es si tenes que actualizar un valor, put reemplaza el objeto entero
+12:25:58 - Martin Gonzalez (@martin2786):
+cuando trabajas con una api rest de un vendor generalmente tienen PATCH implementado. Tambien hay clientes que piden seguir la especificacion estrictamente y tenes que implementarlo tambien. en apis comunes no se suele usar
+12:55:35 - Mariano Argañaras (@arga.mariano):
+gente, una forma de simplificar un condicional de tipo `if (object.response &amp;&amp; object.response.data &amp;&amp; object.response.data.myValue)` ?
+12:57:51 - Mariano Argañaras (@arga.mariano):
+me refiero al checkeo de cada una de las keys y subkeys de un objeto para evitar un `cannot read myValue of undefined`
+12:58:55 - Julian (@jantonielli01):
+```
+if (() =&gt; {try { return a.b.c } catch {return undefined} })()) { ... }
+```
+:joy:
+12:59:50 - Mariano Argañaras (@arga.mariano):
+LOL
+12:59:53 - Mariano Argañaras (@arga.mariano):
+jjaja
+12:59:58 - Martín Valdés de León (@mvaldesdeleon):
+armate una funcion que lo haga por vos, asi lo haces una unica vez en un solo lugar
+13:00:53 - Martín Valdés de León (@mvaldesdeleon):
+`getPath(['foo', 'bar', 'baz'], theObject) =&gt; theValue | undefined`
+13:00:59 - Leandro Echevarria (@echevarrialeandro):
+Algo como <https://ramdajs.com/docs/#has> ?
+13:01:02 - Martín Valdés de León (@mvaldesdeleon):
+claro
+13:01:12 - Leandro Echevarria (@echevarrialeandro):
+O path or whatever Ramda function que haga eso
+13:01:20 - Martín Valdés de León (@mvaldesdeleon):
+<https://ramdajs.com/docs/#path>
+13:01:21 - Martín Valdés de León (@mvaldesdeleon):
+sep
+13:01:23 - Martín Valdés de León (@mvaldesdeleon):
+path
+13:02:06 - Matías Bontempo (@matias.bontempo):
+<https://github.com/tc39/proposal-optional-chaining>
+13:02:30 - Matías Bontempo (@matias.bontempo):
+estoy esperando ansioso que lo oficialicen
+13:04:32 - Mariano Argañaras (@arga.mariano):
+esa, me re va ese approach. Voy a hacer algo como path de Ramda
+13:04:48 - Matías Bontempo (@matias.bontempo):
+`if (((object.response || {}).data || {}).myValue)` creo que funciona tambien
+13:06:32 - Juan Scolari (@juanscolari):
+lodash tambien la tiene
+13:07:10 - Martín Aimar (@maimar):
+<https://lodash.com/docs/4.17.11#get>
+13:07:12 - Martín Aimar (@maimar):
+con puntitos
+13:07:24 - Juan Scolari (@juanscolari):
+sino validar el modelo antes de hacer la logica
+13:18:33 - Brian Hume (@brianh20):
+muy buenaaa ```a?.b.c(++x).d ```
+14:33:48 - Hernan Rajchert (@sherman):
+espero que no :disappointed:, es un paso para el lado equivocado
+14:57:25 - Juan Scolari (@juanscolari):
+Que opinan de Golang como lenguaje de back? :+1: :-1: ?
+15:01:23 - German Gonzalez (@gercho):
+por que <@U0DHEL1PC>?
+15:01:33 - Julian (@jantonielli01):
+Por que lo usarías?
+15:02:29 - Juan Scolari (@juanscolari):
+Va a salir un proyecto en la empresa que laburo y preguntaron si alguno tenia ganas de aprender para hacerlo
+15:03:37 - Aldo Sorbara (@aldo1891):
+en MeLi se usa Go, yo nunca lo hice, solo usaba Node y cosas client side. Pero mis compañeros de back estaban contentos con los resultados
+15:07:11 - Hernan Rajchert (@sherman):
+Dos razones:
+La primera es tratar de mantener el lenguaje lo más chico posible, si podes resolver algo desde el user land, deberias hacerlo allí, sino el lenguaje se vuelve más pesado, la combinanción de combinadores que no queres que pasen aumentan (fijate las razones de porque no pueden agregar el pipe operator y salieron 3 alternativas todas chotas).
+
+La segunda es que, a mi criterio, fomenta malos patrones de programación... Uh, me tira error, ponele “?” que va. Y de repente te comiste un error silenciosamente, que es mucho mas grave que hacer estallar a la aplicación, porque en uno de los casos tenes un error latente que tenes que corregir, y en el otro simplemente no pasa nada, y andá a darte cuenta que el error venia de cuando tal propiedad no estaba definida
+15:08:52 - Sebastian Waisbrot (@seppo0010):
+golang me parece el lenguaje ideal de backend
+es fácil de deployar
+es fácil de codear
+tiene un sistema de tipos decente (aunque le falta generics)
+te permite interoperar fácilmente con cualquier cosa
+tiene un buen manejo de módulos
+tiene asincronía opcional fácil
+es estable
+tiene un gc piola
+tiene threads fáciles de usar y livianos
+15:09:11 - German Gonzalez (@gercho):
+Awesome
+15:10:25 - Sebastian Waisbrot (@seppo0010):
+después con más información podemos ver si es la herramienta correcta para el caso, dependiendo el problema que quieras resolver, qué sabe la gente que va a codear, la lógica de negocio específica
+15:11:26 - Juan Scolari (@juanscolari):
+Grande Sebas! Gracias!!
+15:12:35 - Leandro Echevarria (@echevarrialeandro):
+Adhiero a lo que dice Sebas. Además como dijo Aldo tambien, se usa en las APIs de mayor trafico de Meli. Asi que si se banca millones y millones de requests diarias sin parpadear, entonces tan malo no debe ser de ultima jaja
+15:13:34 - Juan Scolari (@juanscolari):
+Malo seguro que no, pero si vale la pena tirarles que me tengan presente
+15:13:50 - Juan Scolari (@juanscolari):
+O me hago el boludo y sigo con Node jaj
+15:17:41 - Hernan Rajchert (@sherman):
+al final de este post (en el que comparo typescript y purescript) hago mención como en este último el pipe operator puede ser implementado desde user land dado otras deciciones que tomaron sobre el lenguaje :heart:
+15:17:43 - Hernan Rajchert (@sherman):
+<https://blog.logrocket.com/typescript-vs-purescript-not-all-compilers-are-created-equal-c16dadaa7d3e?source=---------2------------------>
+15:18:45 - Hernan Rajchert (@sherman):
+y la charla que muestra un poco de lo hermoso que es hacer lenguajes que se construyan sobre si mismos es esta <https://www.youtube.com/watch?v=_ahvzDzKdB0> :heart:
+15:20:53 - Leandro Echevarria (@echevarrialeandro):
+Si vos queres aprender Go y te sale la oportunidad de hacer algo dentro del laburo con eso metele, creo que asi matas dos pajaros de un tiro
+15:21:01 - Leandro Echevarria (@echevarrialeandro):
+Y en tu tiempo libre despues haces otra cosa :stuck_out_tongue:
+15:23:51 - Juan Scolari (@juanscolari):
+joya, vamos a ver en que queda
+15:26:32 - Ale Miralles (@amiralles):
+Go es muy bueno para el back. La sintaxis es horrible, pero el lenguaje esta piola. Soporte nativo para json, primitivas de concurrencia, facil de deployar, etc... etc... y no tiene features esotericos. Es un lenguaje bastante sencillo.
+15:33:52 - Juan Scolari (@juanscolari):
+A que llaman lo de facil de deployar?
+15:34:29 - Sebastian Waisbrot (@seppo0010):
+compilás y te genera un binario
+15:34:42 - Sebastian Waisbrot (@seppo0010):
+y lo único que tenés que hacer es ejecutar ese binario
+15:34:52 - Sebastian Waisbrot (@seppo0010):
+con node tenés que instalar node para correr la app
+15:35:01 - Sebastian Waisbrot (@seppo0010):
+con golang, una vez compilado, no tenés que tener nada instalado
+15:36:01 - Sebastian Waisbrot (@seppo0010):
+no es _tan_ importante porque necesitás el toolchain para generar el binario
+15:36:12 - Sebastian Waisbrot (@seppo0010):
+pero si tenés un buen proceso de deployment es mejor
+15:39:40 - a0viedo (@a0viedo):
+creo que no negociaría la sintaxis...me quedaría con rust
+15:39:41 - Julian (@jantonielli01):
+Eso igual no es particular de go 
+15:39:48 - Julian (@jantonielli01):
+Es cualquier lenguaje que compile a nativo 
+15:42:56 - Leandro Echevarria (@echevarrialeandro):
+Esta rust lo suficientemente maduro como para server de API?
+15:43:03 - Juan Scolari (@juanscolari):
+En node tambien lo podes hacer, habia un paquete que te lo generaba
+15:43:10 - Leandro Echevarria (@echevarrialeandro):
+Para uso en prod digo, no para pruebas en casa
+15:43:52 - Juan Scolari (@juanscolari):
+Sisi, para uso en prod
+15:44:32 - Juan Scolari (@juanscolari):
+Pero bue, mejor instalarlo en el entorno para la mayoria de los casos
+15:45:12 - Juan Scolari (@juanscolari):
+<https://github.com/zeit/pkg>
+15:45:24 - Juan Scolari (@juanscolari):
+El paquete se llamaba paquete al final :stuck_out_tongue:
+15:48:52 - a0viedo (@a0viedo):
+qué es maduro? rust y go tienen 8 y 9 años ya
+15:49:10 - a0viedo (@a0viedo):
+AWS Lambda corre en rust
+15:49:36 - Leandro Echevarria (@echevarrialeandro):
+PF
+15:49:44 - Leandro Echevarria (@echevarrialeandro):
+Que salame soy, no dije nada :joy:
+15:53:06 - a0viedo (@a0viedo):
+si es mainstream o va a llegar a ser mainstream? undefined
+15:53:34 - Juan Scolari (@juanscolari):
+no sabia que tenia tantos años rust, ultimamente se hizo un poco mas mainstream puede ser?
+15:53:46 - Julian (@jantonielli01):
+Si tu elección es libre, yo iría por rust por ser un poco más interesante
+15:54:03 - Julian (@jantonielli01):
+Go es la misma mierda de siempre, con primitivas para concurrencia nomás
+15:54:11 - a0viedo (@a0viedo):
+yo creo que ahora rust está creciendo mucho más que go
+15:54:21 - Daniel Broder (@dabroder):
+<@UBRJKD5FF> <https://github.com/developit/dlv>
+15:54:35 - Juan Scolari (@juanscolari):
+mi eleccion es si voluntariarme a hacer algo con Go, o no decir nada y serguir con Node
+15:56:46 - Mariano Argañaras (@arga.mariano):
+Muy bueno, chas gracias!
+15:57:43 - a0viedo (@a0viedo):
+si te gusta hacer estrictamente back, creo que hay más posiciones para go que para node
+15:58:27 - a0viedo (@a0viedo):
+si te gusta hacer fullstack las posiciones con js + go son mucho menos que las que piden fullstack con node
+15:59:21 - Sebastian Waisbrot (@seppo0010):
+yo no usaría rust para hacer un backend tradicional, tipo leer base de datos y responder http
+15:59:30 - Sebastian Waisbrot (@seppo0010):
+me parece que es muchísimo más complicado y gana poco
+15:59:47 - Sebastian Waisbrot (@seppo0010):
+y mucho menos hoy, cuando el async/await está por entrar
+16:00:05 - a0viedo (@a0viedo):
+lo mismo se podría decir de go versus node
+16:00:27 - Sebastian Waisbrot (@seppo0010):
+nah, me parece que golang es mucho más sencillo que javascript como lenguaje
+16:00:40 - Sebastian Waisbrot (@seppo0010):
+rust _es_ más complicado
+16:01:06 - Sebastian Waisbrot (@seppo0010):
+obviamente si es db+http, el lenguaje que conozcas va a ser lo mejor
+16:01:19 - Sebastian Waisbrot (@seppo0010):
+porque lo podés hacer ahsta en php
+16:01:36 - Julian (@jantonielli01):
+_that php shaming_
+16:01:39 - Sebastian Waisbrot (@seppo0010):
+si conocés todos los lenguajes por igual, golang me parece superior a rust y a nodejs para eso
+16:01:57 - Julian (@jantonielli01):
+Siempre tenes :haskell:
+16:06:15 - Ale Miralles (@amiralles):
+Sabes que tengo que aprender haskell. Es un pendiente que vengo postergando hace mil.
+16:06:21 - a0viedo (@a0viedo):
+la última versión de java me dijeron que levantó mucho
+16:06:35 - Sebastian Waisbrot (@seppo0010):
+yo le tengo fobia a la jvm
+16:06:42 - Ale Miralles (@amiralles):
+Esta bastante mas cerca de C#
+16:06:50 - Sebastian Waisbrot (@seppo0010):
+haskell, scala, java me hacen entrar en posición fetal
+16:06:58 - Sebastian Waisbrot (@seppo0010):
+y encima en mi trabajo aman esos lenguajes (no haskell, obviamente)
+16:07:08 - Ale Miralles (@amiralles):
+pero te tienen que gustar ese tipo de lenguajes para "sistemas corporativos".
+16:07:55 - Julian (@jantonielli01):
+pero na que ver haskell con java
+16:08:03 - Julian (@jantonielli01):
+??
+16:08:09 - Juan Scolari (@juanscolari):
+yo de que pase de java a node cure mi depresion
+16:08:18 - Ale Miralles (@amiralles):
+jajaja
+16:08:31 - Ale Miralles (@amiralles):
+haskell -&gt; java, nada que ver.
+16:08:40 - a0viedo (@a0viedo):
+la jvm es monsanto, casi seguro que es malo pero no lo vas a poder matar...
+16:08:44 - Ale Miralles (@amiralles):
+scala -&gt; java, si. (y mucho)
+16:08:46 - Juan Scolari (@juanscolari):
+va en los gustos de cada uno igual
+16:09:06 - Sebastian Waisbrot (@seppo0010):
+haskell no corre en la jvm?
+16:09:12 - Julian (@jantonielli01):
+Nop
+16:09:16 - Sebastian Waisbrot (@seppo0010):
+me confundí
+16:09:23 - Sebastian Waisbrot (@seppo0010):
+perdón
+16:09:32 - Ale Miralles (@amiralles):
+Igual banco JVM, CLR, V8, MRI, practicamente todas las VMs.
+16:09:46 - Julian (@jantonielli01):
+Existe `Frege` que es una implementacion particular de un backend para el compilador que genera jvm bytecode para haskell, pero no lo usa ni dios
+16:09:49 - Sebastian Waisbrot (@seppo0010):
+la única vm que banco es wasi
+16:09:52 - Julian (@jantonielli01):
+Compila nativo
+16:10:05 - a0viedo (@a0viedo):
+y ahora GraalVM que las va a matar a todas
+16:10:08 - Juan Scolari (@juanscolari):
+la unica vm que ilumina es la que :fire:
+16:10:09 - Ale Miralles (@amiralles):
+Lo que digo es que el ecosistema que rodea a los proyectos Java (y NET) es bastante moplo en comparacion a Ruby, JavaScript, etc...
+16:11:33 - Sebastian Waisbrot (@seppo0010):
+<https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/>
+16:11:39 - Ale Miralles (@amiralles):
+Con respecto a lenguajes funcionales, los que me resultan interesantes son: OCaml, alguna variante de Lisp, Erlang, y Haskell.
+16:11:40 - Sebastian Waisbrot (@seppo0010):
+esto es lo único que me interesa que avance
+16:11:45 - Julian (@jantonielli01):
+la moraleja es que para los que no conocen, ojeén Haskell
+16:11:59 - Julian (@jantonielli01):
+O si les gusta la syntax ~fea~ de JS/C-like, reasonML
+16:15:09 - Ale Miralles (@amiralles):
+A mi me pasa algo extrano... me gusta la sintaxis de C, aunque sea super "spartan", y no me gusta para nada la sintaxis de Go, que esta inspirada en C. Soy un bicho raro....
+16:15:26 - Sebastian Waisbrot (@seppo0010):
+QUIERO LOS PARENTESIS PARA MIS IFS
+16:15:43 - a0viedo (@a0viedo):
+c y no c++?
+16:16:48 - Ale Miralles (@amiralles):
+Totalmente!
+16:16:57 - Ale Miralles (@amiralles):
+No me gusta para nada C++
+16:17:05 - Ale Miralles (@amiralles):
+Si me gusta C#
+16:17:12 - Ale Miralles (@amiralles):
+estoy medio pirucho.... jajaja
+16:17:12 - Pablo Mescher (@pablomescher):
+yo el poco tiempo que hice algo de C me encontré con que quería emular cosas de lenguajes de mas alto nivel
+16:17:16 - Pablo Mescher (@pablomescher):
+me ponia a hacer structs
+16:17:27 - Pablo Mescher (@pablomescher):
+hacia #DEFINE true 1
+16:17:53 - Gonzalo González Mora (@gonzalogm):
+La única VM que banco es ScummVM
+16:18:07 - Julian (@jantonielli01):
+Lo del define es la que va
+16:18:59 - Pablo Mescher (@pablomescher):
+me volvian loco los strings
+16:19:13 - Pablo Mescher (@pablomescher):
+no puede no tener una forma piola de manipular strings un lenguaje
+16:19:19 - Pablo Mescher (@pablomescher):
+es requisito -1
+16:19:27 - Julian (@jantonielli01):
+Yo usaba C medio dynamically typed
+16:19:39 - Ale Miralles (@amiralles):
+Yo trabajo regularmente con C, C#, Go, Ruby, y JS. Y trato de ponerme el sombrero del programador del lenguage de turno para mantener el codigo lo mas "idiomatico" posible. No suelo extranar features de lenguajes de alto nivel.
+16:19:39 - Julian (@jantonielli01):
+Usaba un solo tipo y casteaba todo a los bifes
+16:20:08 - Pablo Mescher (@pablomescher):
+depende de lo que quieras hacer
+16:20:19 - Ale Miralles (@amiralles):
+<@U7MP5R4MC> como buen programador de C! jajaja
+16:20:24 - Pablo Mescher (@pablomescher):
+si querés martillar un clavo y tenés que empezar fabricandote el clavo y el martillo
+16:20:27 - Pablo Mescher (@pablomescher):
+medio que te da paja
+16:20:33 - Ale Miralles (@amiralles):
+Si, obvio.
+16:20:34 - Julian (@jantonielli01):
+Yo no puedo vivir sin mis `map` y `reduce` como minimo
+16:20:47 - Julian (@jantonielli01):
+Lo sufro
+16:20:52 - Ale Miralles (@amiralles):
+Si queres hacer una aplicacion de negocio, no uses C, usa C#....
+16:21:15 - Ale Miralles (@amiralles):
+Si queres hacer un compilador o un driver, usa C y no JS o Ruby...
+16:21:32 - Julian (@jantonielli01):
+Lo del compilador ni ahí
+16:21:42 - Julian (@jantonielli01):
+Una terrible paja hacer uno en C
+16:21:48 - Ale Miralles (@amiralles):
+Para nada.
+16:21:50 - Julian (@jantonielli01):
+Además que no ganas nada
+16:21:56 - Gonzalo González Mora (@gonzalogm):
+<https://www.scummvm.org/>
+16:22:00 - Ale Miralles (@amiralles):
+Yo he hecho compiladores en C#, C, y Ruby.
+16:22:11 - Ale Miralles (@amiralles):
+a C no hay con que darle por yacc/lex
+16:22:21 - Julian (@jantonielli01):
+Nah, ni ahí
+16:22:27 - Julian (@jantonielli01):
+Hay muchas opciones mejores
+16:22:30 - Ale Miralles (@amiralles):
+no hacer el parser y el lexer es un golazo
+16:23:02 - Ale Miralles (@amiralles):
+(Y actualmente, en Go! jaja)
+16:23:10 - Julian (@jantonielli01):
+Mirate esta, es un lex/yacc/bison/flex con superpowers <https://bnfc.digitalgrammars.com/>
+16:23:48 - Sebastian Waisbrot (@seppo0010):
+<https://meetupjs.slack.com/archives/C06DX6V1R/p1557861634270400>
+no uses golang
+16:23:49 - Ale Miralles (@amiralles):
+Toma..... no la tenia, eh...
+16:23:53 - Ale Miralles (@amiralles):
+lo voy a mirar.
+16:24:05 - Ale Miralles (@amiralles):
+en algun momento use ANTLR tambien, pero no me cerro...
+16:24:08 - Julian (@jantonielli01):
+En mi opinion es una verga C para esas cosas. Si me decís por performance, meh. El compilador más rapido que existe es el de OCaml y es casi todo Ocaml mismo : p <https://github.com/ocaml/ocaml>
+16:24:19 - Sebastian Waisbrot (@seppo0010):
+Rust, no C <https://meetupjs.slack.com/archives/C06DX6V1R/p1557861675271800>
+16:24:28 - Julian (@jantonielli01):
+Ahora, a lo personal, me gusta Haskell para esas cosas
+16:25:05 - Julian (@jantonielli01):
+Use Yacc para un tp de la fac (<https://github.com/jjant/LTAlang/blob/master/src/grammar/grammar.y>) pero me parecio muy paja
+16:25:53 - Julian (@jantonielli01):
+Sep, I know. Eso + la falta de generics :nauseated_face:
+16:27:20 - Ale Miralles (@amiralles):
+Cuando tenga un rato voy a probar lo que me pasaste. Pinta bien.
+16:27:43 - Julian (@jantonielli01):
+See, está muy piola, lo que tiene de flashero tambien
+16:28:03 - Julian (@jantonielli01):
+Es que además de generarte todo lo del AST y demás, te genera pretty-printers (estilo prettier) para tu lenguaje
+16:28:15 - Sebastian Waisbrot (@seppo0010):
+bueno, la falta de generics ocasiona eso
+16:28:17 - Julian (@jantonielli01):
+Así que haces la gramática nomás y desps todo gratis
+16:28:56 - Julian (@jantonielli01):
+Seh, ví algunos que usaban preprocessors para emular generics pero era una paja jaj
+16:28:57 - Leandro Echevarria (@echevarrialeandro):
+Cuando decis "para tu lenguaje", te referis a un lenguaje custom que esté haciendo el?
+16:28:57 - Ale Miralles (@amiralles):
+Sabes que no lo conocia.... Siempre use lex/yacc, antlr, o "hand rolled".
+16:29:05 - Ale Miralles (@amiralles):
+Vamos probarlo a ver que sale.
+16:29:19 - Ale Miralles (@amiralles):
+Espero que si!!!
+16:29:21 - Ale Miralles (@amiralles):
+jajaja
+16:29:22 - Julian (@jantonielli01):
+Si, a eso
+16:30:55 - Ale Miralles (@amiralles):
+Con razon no lo conocia. Esta hecho en haskell!!!
+16:30:57 - Ale Miralles (@amiralles):
+jajaja
+16:31:10 - Ale Miralles (@amiralles):
+ahora tengo un doble motivo para aprender haskell
+16:31:16 - Leandro Echevarria (@echevarrialeandro):
+Tranca. C-Aled version
+16:31:21 - Julian (@jantonielli01):
+Jajaj se, pero toda la magia que te genera puede ser para C, Java, Haskell, lo que quieras
+16:31:42 - Ale Miralles (@amiralles):
+Si. Tal cual.
+16:31:48 - Ale Miralles (@amiralles):
+Eso es lo que esta super piola.
+16:31:51 - Leandro Echevarria (@echevarrialeandro):
+Languages our own way
+16:33:26 - Ale Miralles (@amiralles):
+Laburo en un empresa que hace un producto similar a SAP, pero que corre en .NET. Yo hago el compilador para ese lenguaje.
+16:34:00 - Ale Miralles (@amiralles):
+(Al margen de experimentos propios, obvio)
+16:41:55 - Leandro Echevarria (@echevarrialeandro):
+Nunca fui tan bajo a nivel compilador (yet), me lo imagino al tipico rincon con telarañas :stuck_out_tongue:
+16:45:18 - Ale Miralles (@amiralles):
+jajaja. Es bastante parecido a ese rincon....
+16:45:45 - Julian (@jantonielli01):
+No es taaaan flashero como lo imaginás cuando te empezas a meter igual : p
+16:48:49 - Leandro Echevarria (@echevarrialeandro):
+Cuestion de tirarse de cabeza, con el estudio y practica sale
+17:14:18 - Ezequiel Alvarez (@welcometothechango):
+solo vengo a decir que el miedo a Java/JVM es un vestigio historico que tiene que morir:
+
+• es de los runtimes mas performantes lejos
+• la experiencia de desarrollo (ide, debugging, reports, tooling, etc) esta a KILOMETROS del resto. cuantos runtimes te dejan volver arriba en el stack y re-correr un cacho de codigo? y editar en tiempo real en la misma sesion de debugging el código? (solo se me ocurre chrome devtools)
+• el lenguaje se moderniza sin enloquecer (no es Go ni C++, ni demasiado acotado ni demasiado flexible), java 11 hasta trae una REPL
+• tiene librerias de calidad altisima para lo que quieras hacer (`spring-boot-data` te genera un ORM genérico y extensible con una interfaz nomas, 0 lineas de codigo, por tirar algo)
+17:15:17 - Ezequiel Alvarez (@welcometothechango):
+y a diferencia de Go, no se olvidó de los ultimos 30 años de investigación en computer science  y tiene generics
+17:15:37 - Brian Hume (@brianh20):
+pero.. esto no es meetupJS ?
+17:15:41 - Brian Hume (@brianh20):
+jajajaa
+17:15:50 - Ezequiel Alvarez (@welcometothechango):
+estaban hablando de Go :shrug:
+17:16:00 - Brian Hume (@brianh20):
+es un chiste Ezequiel
+17:16:34 - Ezequiel Alvarez (@welcometothechango):
+voy a organizar un meetup de java moderno asi le limpio el nombre (???)
+17:16:51 - Ezequiel Alvarez (@welcometothechango):
+hasta tiene librerias de FP increibles: <https://www.vavr.io/>
+17:16:51 - Brian Hume (@brianh20):
+se va a llenar de gente de mercado libre (???)
+17:17:11 - Julian (@jantonielli01):
+Si se le olvidaron los últimos 30 años de research 
+17:17:20 - Julian (@jantonielli01):
+Solo que a go se le olvidaron los últimos 60 
+17:17:37 - Julian (@jantonielli01):
+Decir que recién Java 11 trae una repl...
+17:17:37 - Ezequiel Alvarez (@welcometothechango):
+jajaj back to FORTRAN-60
+17:17:50 - Ezequiel Alvarez (@welcometothechango):
+(btw Fortran &gt; Go)
+17:17:52 - Julian (@jantonielli01):
+Ósea good job, te pusiste al día con el 2010? Jaj
+17:44:40 - Emilio Astarita (@emilio):
+también es confuso todo el tema de las licencias en java, onda en java 11 se volvió mas confuso aún de que podes hacer según que JDK / build uses.
+17:44:56 - Emilio Astarita (@emilio):
+Todo eso le resta al lenguaje sobre todo para el developer independiente.
+17:45:30 - Emilio Astarita (@emilio):
+Distribuir un programa en java para aprovechar la parte de "multiplataforma" no es fácil tampoco.
+18:04:38 - Daniel Broder (@dabroder):
+:+1:
