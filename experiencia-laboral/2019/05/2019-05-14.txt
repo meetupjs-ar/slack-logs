@@ -1,0 +1,501 @@
+22:28:21 - Martin Bavio (@mbavio):
+entendi 100pe a 200k, pense que era alto troll el recruiter
+22:31:38 - Martin Bavio (@mbavio):
+el 80% del rant del dia de la fecha relacionado a sueldos y entrevistas se soluciona con el empleo del futuro: representante de devs.
+22:32:02 - Martin Bavio (@mbavio):
+a ver quien es el primero que se anima a largarse como representante, yo me sumo a la prueba piloto.
+22:37:08 - Julian (@jantonielli01):
+Hicimos eso en donde trabajé 
+22:37:17 - Julian (@jantonielli01):
+Estilo hired 
+22:37:22 - Julian (@jantonielli01):
+No funciono muy bien 
+22:37:52 - Martin Bavio (@mbavio):
+no me refiero a una empresa
+22:38:16 - Martin Bavio (@mbavio):
+Me refiero a un representante como el que tienen los jugadores. Una persona.
+22:38:31 - Martin Bavio (@mbavio):
+ademas Hired solo te ofrece a las empresas, pero vos haces el resto.
+22:39:28 - Martin Bavio (@mbavio):
+El representante te conoce como dev, y se encarga de venderte y entrevistarse por vos. Al menos en las primeras negociaciones no tenes que hacer mas nada que confiar en tu representante. Te salvas del perno de entrevistarte al reverendo pedo.
+22:40:07 - Martin Bavio (@mbavio):
+para mi con el nivel de oferta y demanda que tiene el rubro en la actualidad, seria un laburo mas que digno.
+22:40:57 - Lucas Alejo Bellesi (@lucasbellesipocho):
+Onda sería como el representante de un artista?
+22:41:28 - Lucas Alejo Bellesi (@lucasbellesipocho):
+Ahí sí se podría decir me siento como un Rockstar Developer
+22:43:53 - Martin Bavio (@mbavio):
+lol
+22:44:15 - Martin Bavio (@mbavio):
+seria basicamente una persona que se encarga de hacer algunas tareas que claramente todos consideramos tediosas por aca
+22:46:03 - Julian (@jantonielli01):
+Se, eso que describiste hicimos 
+22:46:14 - Julian (@jantonielli01):
+Negociando sueldo y todo 
+22:46:33 - Martin Bavio (@mbavio):
+o sea, armaron una empresa o lo hicieron como individuos? no entiendo.
+22:46:41 - Julian (@jantonielli01):
+Con empresas de US/devs argentinos exclusivamente 
+22:46:53 - Julian (@jantonielli01):
+Éramos una empresa que hacía de representante para devs 
+22:47:24 - Martin Bavio (@mbavio):
+fueron primero a los devs o a las empresas a decirles que les iban a traer devs?
+22:47:39 - Julian (@jantonielli01):
+Probamos ambas : p 
+22:47:45 - Martin Bavio (@mbavio):
+que no funciono?
+22:47:54 - Julian (@jantonielli01):
+Resulta que es muy complicado conseguir devs buenos en arg 
+22:47:57 - Martin Bavio (@mbavio):
+lol
+22:48:18 - Julian (@jantonielli01):
+Lo digo en serio 
+22:48:28 - Martin Bavio (@mbavio):
+yo creo que hay muy buenos devs
+22:48:38 - Martin Bavio (@mbavio):
+lo que pasa es que los buenos todos tienen laburo
+22:48:49 - Martin Bavio (@mbavio):
+y no tienen tiempo o ganas de socializar
+22:49:00 - Martin Bavio (@mbavio):
+no suelen ser los organizadores de los meetups digamos
+22:49:16 - Martin Bavio (@mbavio):
+aunque no generalizo porque tambien hay organizadores que son buenos devs
+22:49:44 - Martin Bavio (@mbavio):
+de todas maneras todos merecen ser representados (?)
+22:50:25 - Marcos Casagrande (@marcoscvp90):
+Cuanto cobraría dicho representante? Un % del primer sueldo?
+22:50:45 - Martin Bavio (@mbavio):
+claro, imagino un fee, o que le pagues fijo por mes como lo harias con un abogado
+22:50:55 - Martin Bavio (@mbavio):
+porque lo interesante seria que esa persona este activa por vos
+22:51:06 - Martin Bavio (@mbavio):
+entonces que no tengas que andar dando manotazos de ahogado cuando te quedas sin gig
+22:51:47 - Marcos Casagrande (@marcoscvp90):
+Y no se si alguien le vaya a pagar todos los meses si ya consiguió un buen laburo.
+22:51:48 - Martin Bavio (@mbavio):
+pero sobretodo lo imagino filtrando los company smells como el que te toco vivir con este rectruiter misterioso
+22:52:55 - Martin Bavio (@mbavio):
+<@UGQTUDQSG> yo le pagaria, porque uno nunca sabe, y porque esta bueno que alguien te conozca a medida y te ande ofreciendo en los lugares donde podes andar bien
+22:53:38 - Martin Bavio (@mbavio):
+tendria que ser una persona un tanto particular, porque deberia entender de development y a la vez tener contactos y manejarse muy sociablemente
+22:54:02 - Martin Bavio (@mbavio):
+el problema es justamente ese, los recruiters son seres muy sociales, pero no entienden una mierda de nuestra forma de pensar
+22:54:16 - Martin Bavio (@mbavio):
+y los devs, en su mayoria, son lo opuesto
+22:54:24 - Martin Bavio (@mbavio):
+entonces para mi hay un hueco a llenar ahi
+22:55:29 - Martin Bavio (@mbavio):
+hasta podria haber un paquete mas economico para juniors y que el representante te consiga lo mejor que pueda para que no te exploten en tus primeras experiencias
+23:22:07 - Julian (@jantonielli01):
+Nosotros cobrábamos 2 sueldos creo 
+23:22:15 - Julian (@jantonielli01):
+Pero a lo largo de un año o algo así 
+00:02:07 - Enzo Retamozo (@egr_96):
+representante de devs jajajaja lloro
+09:02:45 - Matias Garat Ortiz (@matiasgaratortiz):
+ojo al piojo <@U75JU1TFS>... me gusta tu idea...
+09:51:54 - Enzo Retamozo (@egr_96):
+Lo dijeron más arriba che
+10:46:05 - Ale Miralles (@amiralles):
+Los representantes se suelen quedar con (hasta) un 30% del deal que consigan.
+10:46:17 - Ale Miralles (@amiralles):
+Si el deal es bueno, no me molestaria pagar. Para nada.
+10:55:48 - Matias Garat Ortiz (@matiasgaratortiz):
+me parece q la idea seria algo como: un 30% del primero sueldo, y un pago mensual de un monto fijo (en caso de que quieras que tu representante te siga "vendiendo" en los "mercados de pases", sino ya esta hecho)
+10:56:50 - Matias Garat Ortiz (@matiasgaratortiz):
+tambien podria no venderte como empleado si estas conforme donde estas, pero si buscarte oportunidades de crecimiento como ser speaker en eventos, o eventos a los que puedas asistir, encargarse de todo lo que implique asistir, etc...
+10:59:26 - Ale Miralles (@amiralles):
+En general estos natos cobran un 30% sobre el contrato que consiguen. Ponele que el tipo cierra un trato con una empresa de USA por 120K anuales, vos te llevas 84K y el se lleva 36K.
+10:59:56 - Ale Miralles (@amiralles):
+Si el rango que maneja es ese, no me joderia para nada ceder el 30% (es un deal que yo no puedo conseguir).
+11:00:06 - Ale Miralles (@amiralles):
+ahora si consigue 5K por mes, que se vaya a cagar!!!
+11:00:08 - Ale Miralles (@amiralles):
+jajaja
+11:04:51 - Enzo Retamozo (@egr_96):
+Y un DevRep _debería_ saber sobre desarrollo ?
+11:09:34 - Pablo Miceli (@pablomiceli24):
+no creo, solo un poco sobre tecnologias
+11:10:15 - Pablo Miceli (@pablomiceli24):
+y sobre nutrición así puede negociar las frutas que nos convengan mas (?
+11:11:17 - Leandro Echevarria (@echevarrialeandro):
+Y de cocina para una buena receta de medias lunas los viernes
+11:12:30 - Enzo Retamozo (@egr_96):
+un DevRep, Coach, cocinero
+11:12:48 - Enzo Retamozo (@egr_96):
+algo de html &amp; css tiene que saber (?)
+11:13:06 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+jajajajja, ya si arrancan contratando un Jr DevRep no pretendan conseguir laburos para Sr
+11:14:35 - Enzo Retamozo (@egr_96):
+Adrian vos sos familiar de Hernan Cattaneo :point_right: :point_left:  ? bue
+11:14:44 - Enzo Retamozo (@egr_96):
+(?)
+11:15:39 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+me encantaria decir que si, es una posibilidad
+11:22:10 - Ale Miralles (@amiralles):
+Para mi el tipo tendria que tener contactos con empresas que puedan pagar "top dollar" por devs calificados, y ya. Por ahi ser partner con algun dev sr que lo ayude a "separar la paja del trigo", por decirlo de alguna manera, pero no mucho mas.
+11:22:26 - Ale Miralles (@amiralles):
+Los tests para las entrevistas son bastante standard.
+22:28:21 - Martin Bavio (@mbavio):
+entendi 100pe a 200k, pense que era alto troll el recruiter
+22:31:38 - Martin Bavio (@mbavio):
+el 80% del rant del dia de la fecha relacionado a sueldos y entrevistas se soluciona con el empleo del futuro: representante de devs.
+22:32:02 - Martin Bavio (@mbavio):
+a ver quien es el primero que se anima a largarse como representante, yo me sumo a la prueba piloto.
+22:37:08 - Julian (@jantonielli01):
+Hicimos eso en donde trabajé 
+22:37:17 - Julian (@jantonielli01):
+Estilo hired 
+22:37:22 - Julian (@jantonielli01):
+No funciono muy bien 
+22:37:52 - Martin Bavio (@mbavio):
+no me refiero a una empresa
+22:38:16 - Martin Bavio (@mbavio):
+Me refiero a un representante como el que tienen los jugadores. Una persona.
+22:38:31 - Martin Bavio (@mbavio):
+ademas Hired solo te ofrece a las empresas, pero vos haces el resto.
+22:39:28 - Martin Bavio (@mbavio):
+El representante te conoce como dev, y se encarga de venderte y entrevistarse por vos. Al menos en las primeras negociaciones no tenes que hacer mas nada que confiar en tu representante. Te salvas del perno de entrevistarte al reverendo pedo.
+22:40:07 - Martin Bavio (@mbavio):
+para mi con el nivel de oferta y demanda que tiene el rubro en la actualidad, seria un laburo mas que digno.
+22:40:57 - Lucas Alejo Bellesi (@lucasbellesipocho):
+Onda sería como el representante de un artista?
+22:41:28 - Lucas Alejo Bellesi (@lucasbellesipocho):
+Ahí sí se podría decir me siento como un Rockstar Developer
+22:43:53 - Martin Bavio (@mbavio):
+lol
+22:44:15 - Martin Bavio (@mbavio):
+seria basicamente una persona que se encarga de hacer algunas tareas que claramente todos consideramos tediosas por aca
+22:46:03 - Julian (@jantonielli01):
+Se, eso que describiste hicimos 
+22:46:14 - Julian (@jantonielli01):
+Negociando sueldo y todo 
+22:46:33 - Martin Bavio (@mbavio):
+o sea, armaron una empresa o lo hicieron como individuos? no entiendo.
+22:46:41 - Julian (@jantonielli01):
+Con empresas de US/devs argentinos exclusivamente 
+22:46:53 - Julian (@jantonielli01):
+Éramos una empresa que hacía de representante para devs 
+22:47:24 - Martin Bavio (@mbavio):
+fueron primero a los devs o a las empresas a decirles que les iban a traer devs?
+22:47:39 - Julian (@jantonielli01):
+Probamos ambas : p 
+22:47:45 - Martin Bavio (@mbavio):
+que no funciono?
+22:47:54 - Julian (@jantonielli01):
+Resulta que es muy complicado conseguir devs buenos en arg 
+22:47:57 - Martin Bavio (@mbavio):
+lol
+22:48:18 - Julian (@jantonielli01):
+Lo digo en serio 
+22:48:28 - Martin Bavio (@mbavio):
+yo creo que hay muy buenos devs
+22:48:38 - Martin Bavio (@mbavio):
+lo que pasa es que los buenos todos tienen laburo
+22:48:49 - Martin Bavio (@mbavio):
+y no tienen tiempo o ganas de socializar
+22:49:00 - Martin Bavio (@mbavio):
+no suelen ser los organizadores de los meetups digamos
+22:49:16 - Martin Bavio (@mbavio):
+aunque no generalizo porque tambien hay organizadores que son buenos devs
+22:49:44 - Martin Bavio (@mbavio):
+de todas maneras todos merecen ser representados (?)
+22:50:25 - Marcos Casagrande (@marcoscvp90):
+Cuanto cobraría dicho representante? Un % del primer sueldo?
+22:50:45 - Martin Bavio (@mbavio):
+claro, imagino un fee, o que le pagues fijo por mes como lo harias con un abogado
+22:50:55 - Martin Bavio (@mbavio):
+porque lo interesante seria que esa persona este activa por vos
+22:51:06 - Martin Bavio (@mbavio):
+entonces que no tengas que andar dando manotazos de ahogado cuando te quedas sin gig
+22:51:47 - Marcos Casagrande (@marcoscvp90):
+Y no se si alguien le vaya a pagar todos los meses si ya consiguió un buen laburo.
+22:51:48 - Martin Bavio (@mbavio):
+pero sobretodo lo imagino filtrando los company smells como el que te toco vivir con este rectruiter misterioso
+22:52:55 - Martin Bavio (@mbavio):
+<@UGQTUDQSG> yo le pagaria, porque uno nunca sabe, y porque esta bueno que alguien te conozca a medida y te ande ofreciendo en los lugares donde podes andar bien
+22:53:38 - Martin Bavio (@mbavio):
+tendria que ser una persona un tanto particular, porque deberia entender de development y a la vez tener contactos y manejarse muy sociablemente
+22:54:02 - Martin Bavio (@mbavio):
+el problema es justamente ese, los recruiters son seres muy sociales, pero no entienden una mierda de nuestra forma de pensar
+22:54:16 - Martin Bavio (@mbavio):
+y los devs, en su mayoria, son lo opuesto
+22:54:24 - Martin Bavio (@mbavio):
+entonces para mi hay un hueco a llenar ahi
+22:55:29 - Martin Bavio (@mbavio):
+hasta podria haber un paquete mas economico para juniors y que el representante te consiga lo mejor que pueda para que no te exploten en tus primeras experiencias
+23:22:07 - Julian (@jantonielli01):
+Nosotros cobrábamos 2 sueldos creo 
+23:22:15 - Julian (@jantonielli01):
+Pero a lo largo de un año o algo así 
+00:02:07 - Enzo Retamozo (@egr_96):
+representante de devs jajajaja lloro
+09:02:45 - Matias Garat Ortiz (@matiasgaratortiz):
+ojo al piojo <@U75JU1TFS>... me gusta tu idea...
+09:51:54 - Enzo Retamozo (@egr_96):
+Lo dijeron más arriba che
+10:46:05 - Ale Miralles (@amiralles):
+Los representantes se suelen quedar con (hasta) un 30% del deal que consigan.
+10:46:17 - Ale Miralles (@amiralles):
+Si el deal es bueno, no me molestaria pagar. Para nada.
+10:55:48 - Matias Garat Ortiz (@matiasgaratortiz):
+me parece q la idea seria algo como: un 30% del primero sueldo, y un pago mensual de un monto fijo (en caso de que quieras que tu representante te siga "vendiendo" en los "mercados de pases", sino ya esta hecho)
+10:56:50 - Matias Garat Ortiz (@matiasgaratortiz):
+tambien podria no venderte como empleado si estas conforme donde estas, pero si buscarte oportunidades de crecimiento como ser speaker en eventos, o eventos a los que puedas asistir, encargarse de todo lo que implique asistir, etc...
+10:59:26 - Ale Miralles (@amiralles):
+En general estos natos cobran un 30% sobre el contrato que consiguen. Ponele que el tipo cierra un trato con una empresa de USA por 120K anuales, vos te llevas 84K y el se lleva 36K.
+10:59:56 - Ale Miralles (@amiralles):
+Si el rango que maneja es ese, no me joderia para nada ceder el 30% (es un deal que yo no puedo conseguir).
+11:00:06 - Ale Miralles (@amiralles):
+ahora si consigue 5K por mes, que se vaya a cagar!!!
+11:00:08 - Ale Miralles (@amiralles):
+jajaja
+11:04:51 - Enzo Retamozo (@egr_96):
+Y un DevRep _debería_ saber sobre desarrollo ?
+11:09:34 - Pablo Miceli (@pablomiceli24):
+no creo, solo un poco sobre tecnologias
+11:10:15 - Pablo Miceli (@pablomiceli24):
+y sobre nutrición así puede negociar las frutas que nos convengan mas (?
+11:11:17 - Leandro Echevarria (@echevarrialeandro):
+Y de cocina para una buena receta de medias lunas los viernes
+11:12:30 - Enzo Retamozo (@egr_96):
+un DevRep, Coach, cocinero
+11:12:48 - Enzo Retamozo (@egr_96):
+algo de html &amp; css tiene que saber (?)
+11:13:06 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+jajajajja, ya si arrancan contratando un Jr DevRep no pretendan conseguir laburos para Sr
+11:14:35 - Enzo Retamozo (@egr_96):
+Adrian vos sos familiar de Hernan Cattaneo :point_right: :point_left:  ? bue
+11:14:44 - Enzo Retamozo (@egr_96):
+(?)
+11:15:39 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+me encantaria decir que si, es una posibilidad
+11:22:10 - Ale Miralles (@amiralles):
+Para mi el tipo tendria que tener contactos con empresas que puedan pagar "top dollar" por devs calificados, y ya. Por ahi ser partner con algun dev sr que lo ayude a "separar la paja del trigo", por decirlo de alguna manera, pero no mucho mas.
+11:22:26 - Ale Miralles (@amiralles):
+Los tests para las entrevistas son bastante standard.
+11:25:29 - Martín Valdés de León (@mvaldesdeleon):
+Una variacion en el asunto, pero podrias ofrecer un servicio de "preparar" a un dev para conseguir buenas ofertas.
+11:26:26 - Juan Scolari (@juanscolari):
+Ahi pregunté por el *detalle* y rango salarial de una propuesta y la respuesta no los sorprenderá:
+&gt; Juan no tenemos un rango estipulado. Es para un proyecto de un mínimo de 1 año en el Ministerio de Modernización
+11:27:40 - Leandro Echevarria (@echevarrialeandro):
+DECIME AL MENOS CON QUE RANGO VAN A EMPEZAR LPM
+11:28:15 - Juan Scolari (@juanscolari):
+el detalle fue hermoso tambien
+11:28:21 - Leandro Echevarria (@echevarrialeandro):
+Podriamos hacer un bot que pregunte rango salarial en todas las publicaciones d elinkedin que no lo digan
+11:28:21 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+mi respuesta cuando busco filtrar por un numero es: si no me decis de cuanto estamos hablando vamos a seguir perdiendo el tiempo los 2, la mitad de las veces funciono
+11:28:25 - Leandro Echevarria (@echevarrialeandro):
+:rolling_on_the_floor_laughing:
+11:29:18 - Juan Scolari (@juanscolari):
+O sea, si realmente estas buscando laburo podes ser mas condescendiente. Pero bueno, estoy haciendo un experimento
+11:29:43 - Martín Valdés de León (@mvaldesdeleon):
+"No tenemos rango estipulado"
+"Que bueno! No muchas empresas estan dispuestas a pagar lo que haga falta por empleados talentosos en un mercado competitivo como este."
+11:30:00 - Juan Scolari (@juanscolari):
+Claro jajaj, me falta ser mas optimista
+11:30:08 - Juan Scolari (@juanscolari):
+Tengo mucho que aprender todavia
+11:30:17 - Juan Scolari (@juanscolari):
+Lo interprete mal
+11:30:20 - Leandro Echevarria (@echevarrialeandro):
+Jajaja re descolocas al recruiter con la respuesta de Martin :rolling_on_the_floor_laughing:
+11:30:58 - cryser (@carlosryser):
+es muy buenaa.
+11:31:01 - cryser (@carlosryser):
+los dejas tecleando
+11:33:57 - Martin Bavio (@mbavio):
+Decile que tu rango de esfuerzo tampoco esta estipulado actualmente (?)
+11:34:06 - Matias Garat Ortiz (@matiasgaratortiz):
+hace un tiempo tome una clases de _como hablar en publico_ aqui en santa fe, con un flaco q la rompe en el teatro y da estos cursos... tremendo lo que se aprende para el momento de una entrevista, o para cualquier otra cosa
+11:34:55 - Martin Bavio (@mbavio):
+yo creo que el gran secreto de una exitosa entrevista, imho, es saber escuchar, y hablar lo justo y necesario
+11:35:14 - Martin Bavio (@mbavio):
+de hecho ese tambien es una excelente forma de entrevistar
+11:35:23 - Martin Bavio (@mbavio):
+por suerte nunca se cruzan (?)
+11:36:07 - Ale Miralles (@amiralles):
+El tema es que el tipo tiene mas tiempo que vos. Ese es su laburo. El tuyo, no....
+11:39:05 - Matias Garat Ortiz (@matiasgaratortiz):
+_perdon el cambio de tema, no se donde iria la pregunta_ alguien llevo en baires o rosario o cordoba una mac a reparar a OneClick? estoy buscando referencias, ellos son teoricamente los oficiales.. necesito hacer cambiar el flex de la pantalla de un macbook pro
+11:40:10 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+si no responde un numero va a tener que dedicar mucho mas de su tiempo para que continuemos la conversacion, y en este punto, aun no pase de intercambio de emails
+11:41:22 - Martin Bavio (@mbavio):
+en mi humilde experiencia, salvo que sean pavadas, los soportes tecnicos de Apple en ARG apestan.
+11:41:52 - Martin Bavio (@mbavio):
+Puedo hablar por Cordoba y lo que probe en Buenos Aires.
+11:42:07 - Matias Garat Ortiz (@matiasgaratortiz):
+_tengo la misma idea, pero la esperanza de anden lo suficientemente bien para ver si puedo hacer reparar aca jjaajaj_
+11:42:23 - Martín Aimar (@maimar):
+_apestan_
+11:45:17 - Matias Garat Ortiz (@matiasgaratortiz):
+alguien tieene data de uruguay x ej? la posta seria usa, pero no tengo pensado viajar x el momento
+11:50:05 - Dayan Ruiz (@dayanr):
+data de uruguay en que sentido
+11:52:46 - Martín Aimar (@maimar):
+lindas playas, buena gente
+11:53:17 - Juan Scolari (@juanscolari):
+creo que apunta mas a reparacion de Mac xD
+11:55:45 - Matias Garat Ortiz (@matiasgaratortiz):
+claro claro... con los services oficiales de mac en uruguay..
+11:57:18 - Martín Aimar (@maimar):
+hace poco me dijeron que te bajás del barco y te hacen un obsequio de índole floral
+11:58:59 - Martín Aimar (@maimar):
+a mi me parece una falta de respeto
+12:02:29 - Martin Bavio (@mbavio):
+preferis que te regalen paragua, <@UC1QYJACE>?
+12:03:02 - Ariel Barabas (@ariel.barabas):
+(volviendo al tema anterior) a mi me sirvió mucho decir de entrada el monto que me motivaría a cambiar de trabajo, con eso la conversación se acaba al toque y queda todo bien claro
+12:04:01 - Ariel Barabas (@ariel.barabas):
+además de que en varios casos me respondieron “no, el salario para este puesto va de A a B”
+12:05:11 - Ale Miralles (@amiralles):
+Si, es verdad. En las primeras instancias uno no pierde tanto tiempo. La cosa se pone peor si vas a una entrevista o algo asi...
+12:05:50 - Martín Aimar (@maimar):
+en londres te bajás del avión y te dan un paragua
+12:06:14 - Ale Miralles (@amiralles):
+Yo comparto lo que decian mas arriba. Si el sueldo es bueno, seria la primera carta que jugaria el tipo. Si no lo quieren decir, es porque la propuesta es de medio pelo para abajo.
+12:56:29 - Lupe (@lportias):
+y si no te dicen el nombre de la empresa para la que estan busando es otra red flag
+13:29:01 - Mariano Montero (@etmaro):
+Red flag? Hay empresas que por un tema de confidencialidad no puede darse a conocer hasta avanzar un poco en el proceso. Ejemplo estan buscando un nuevo CTO, si publicas la busqueda con el nombre de la empresa se complica.
+13:30:01 - Lupe (@lportias):
+alguno de nosotros vamos a ser CTO de alguna de esas empresas??
+13:30:34 - a0viedo (@a0viedo):
+no me entrevistaría sin saber para qué empresa es
+13:30:37 - Ezequiel Leites (@leites25):
+Y pero cuando te lo van a decir? Cuando le decis, ok me interesa? Mirá si te estan ofreciendo el puesto para la empresa en la que estas trabajando?
+13:30:45 - a0viedo (@a0viedo):
+firmas un NDA y seguis con el proceso
+13:31:16 - Mariano Montero (@etmaro):
+yo estoy mas a favor de que se disclosee el nombre lo antes posible junto con el salario
+13:32:37 - a0viedo (@a0viedo):
+también habría que erradicar preguntas cómo "cuánto estás ganando?" o "con quién vivís?"
+13:32:51 - Mariano Montero (@etmaro):
+pero hay casos que se necesita manejar cierta privacidad, son los menos
+13:33:07 - a0viedo (@a0viedo):
+pero no veo factible que sean ilegales esas preguntas...es un trabajo para abogadev
+13:33:42 - Mariano Montero (@etmaro):
+son preguntas medio de mierda, no se si en otros paises te lo pueden hacer
+13:34:00 - a0viedo (@a0viedo):
+en california preguntar cuanto gana alguien en una entrevista es ilegal
+13:34:17 - Mariano Montero (@etmaro):
+me imaginaba
+13:34:34 - Lupe (@lportias):
+no se a ustedes, pero como una mujer de 38 años, soltera y sin hijos que me hagan esas preguntas me cae para el orto, por que siento que me descartan autmaticamente
+13:34:37 - Mariano Montero (@etmaro):
+y si le preguntas de que religion es la persona la empresa automaicamente entra en bancarrota
+13:35:20 - a0viedo (@a0viedo):
+ni hablar si te preguntan "pensás tener hijos en el corto plazo?"
+13:35:51 - a0viedo (@a0viedo):
+tampoco tengo idea si es legal acá
+13:36:11 - Ezequiel Leites (@leites25):
+Realmente preguntan eso?
+13:36:18 - Mariano Montero (@etmaro):
+le legalidad aca mucho no importa
+13:37:08 - Mariano Montero (@etmaro):
+se que en los preocupacionales hacen pruebas de vih aunque sea recontra ilegal
+13:38:14 - a0viedo (@a0viedo):
+no porque los vayas a fundir con abogados pero el escracho público rinde más cuando una empresa toma una medida ilegal
+13:39:33 - Mariano Montero (@etmaro):
+se, pero el escracho dura poco y nada, sino miremos a IBM que coimeo al Banco Nacion el siglo pasado y no paso nada
+13:40:15 - a0viedo (@a0viedo):
+pero la fama de que te pagan 2 pesos no se la sacaron al día de hoy
+13:41:45 - Mariano Montero (@etmaro):
+Tal cual, pero si les interesara cambiarla lo harian. Claramente pagan dos mangos por que consiguen gente que labura por dos mangos y le chupa un huevo la mala prensa que les puede dar.
+14:04:52 - Co (@co):
+A mi me molesta muchísimo. En algunas entrevista de sistemas me preguntaron si tenía hijos, fueron las menos.
+
+Pero en otros rubros, suele ser más común que te lo pregunten.
+
+Si me llegaran a preguntar si voy a tener hijos, me levantaría y saldría de ese lugar.
+14:38:41 - Lupe (@lportias):
+a mi me han vuelto a llamar para preguntarme la edad y si tengo hijos... me senti re basureada esa vez
+14:39:20 - Lupe (@lportias):
+y... te preguntan estado civil y con quien vivis... medio que por izq lo preguntan...
+14:54:25 - Martín Valdés de León (@mvaldesdeleon):
+Fuera de joda, cual seria el incentivo para no decirte la empresa?
+14:54:35 - Martín Valdés de León (@mvaldesdeleon):
+Si la empresa es una empresa grosa, la marca es publicidad.
+14:55:11 - Juan Scolari (@juanscolari):
+Capaz no quieren que apliques por afuera (?
+14:55:37 - Martín Valdés de León (@mvaldesdeleon):
+Claro, pero eso es incentivo para el recruiter.
+14:55:41 - Gonzalo González Mora (@gonzalogm):
+Es lo que dice Juan, que vos no vayas por afuera y no cobren el bonus
+14:55:46 - Martín Valdés de León (@mvaldesdeleon):
+No para la empresa.
+14:55:48 - Gonzalo González Mora (@gonzalogm):
+hay países que lo cobran igual, tho
+14:55:57 - Gonzalo González Mora (@gonzalogm):
+Es que es un tema de los recruiters me parece
+14:56:41 - Mariano Montero (@etmaro):
+hay de ambos lados
+14:57:16 - Mariano Montero (@etmaro):
+hay empresas que explicitamente te dicen que no quieren que se sepa el nombre hasta que se avanxe
+14:58:56 - Nico (@nhsz):
+Por qué se complicaría?
+15:06:49 - Martín Valdés de León (@mvaldesdeleon):
+podrias dar un ejemplo? me da curiosidad que clase de empresa haria eso. descartando el caso de "Google busca un nuevo CTO y los medios todavia no se enteraron"
+16:05:46 - Andrés (@aglobokar):
+Mi experiencia es que en esas empresas (con mucho personal) una vez que estás adentro prefieren que te vayas a negociar nuevamente. Rara vez aceptan una leve mejora de condiciones si no es gran cosa.
+Me han reasignado a tareas que yo no sabía hacer, cuando el que sabía había pedido un poquito mas para quedarse.
+No pienso mentir, por mas que uno aprenda rápido nunca es lo mismo que otro que tiene experiencia en el tema.
+16:10:13 - Mariano Montero (@etmaro):
+esta llena, mi hermana es recruiter, no de sistemas y siempre hay que le dice que no publiquen el nombre
+16:10:38 - Mariano Montero (@etmaro):
+si dependiera de ella la publicaria por que seria mas facil cerrar esa busqueda
+16:27:03 - Mariano Montero (@etmaro):
+por que todavia no le avisaste al cto actual que lo queres rajar
+20:35:24 - Martin Bavio (@mbavio):
+```
+Un equipo de compañeros de los más geniales del mundo
+(Sé parte de estos casi 100 locos lindos :upside_down_face: )
+· 3 semanas de vacaciones mínimo
+. Hermosa vista desde la oficina o de tu casa :)
+· Con tu ayuda, vamos a capacitarte siempre :nerd_face:
+· Swiss · Omint · Sancor
+· WFH
+· Clases Ingles (Propia Best Teacher :female-teacher: Ever!)
+. Desayunos saludables y mucha mañanas de medialunas
+. Triple de miga como moneda corriente
+· Días Frutales
+· Jueves de Helado
+· Viernes After, Gaseosas y Birras!
+. 300 Locales con % descuentos y promociones
+```
+20:35:36 - Martin Bavio (@mbavio):
+Me llego eso, escupi el mate y le pegue al monitor
+20:36:34 - Lupe (@lportias):
+:joy::agite:
+20:40:24 - Esteban Yañez (@eyanez):
+las consultoras de recursos humanos generalmente no comparten el nombre para que no vayas directo a la empresa y se pierdan la comision
+20:41:17 - Juan Scolari (@juanscolari):
+`Desayunos saludables` y despues desbarrancan:
+- `mucha mañanas de medialunas`
+- `Triple de miga como moneda corriente`
+- `Jueves de Helado`
+- `Viernes After, Gaseosas y Birras!`
+20:41:37 - Juan Scolari (@juanscolari):
+Si me dan un desayuno saludable, despues cuidenme que muerdo la banquina :smile:
+20:42:02 - Juan Scolari (@juanscolari):
+Al menos tienen fruta
+20:42:18 - Martin Bavio (@mbavio):
+no tienen fruta, tienen _Días Frutales_
+20:42:40 - Martin Bavio (@mbavio):
+quien no queria ser el _locos lindo_ numero 101
+20:43:16 - Juan Scolari (@juanscolari):
+ahh, dias frutales jajaj
+20:43:18 - Juan Scolari (@juanscolari):
+excelente
+20:45:55 - Juan Scolari (@juanscolari):
+jodeme que la propuesta es esta, me muero, no escupan
+20:45:57 - Juan Scolari (@juanscolari):
+<https://www.facebook.com/darwoft/photos/a.824946040946043/1836496683124302/?type=1&amp;theater>
+20:47:22 - Martin Bavio (@mbavio):
+correcto!
+20:48:03 - Juan Scolari (@juanscolari):
+estoy entrando en corto
+20:50:01 - Lupe (@lportias):
+:developers:
