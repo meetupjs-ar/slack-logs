@@ -1,0 +1,274 @@
+21:38:15 - Julian (@jantonielli01):
+dios mio
+21:38:25 - Julian (@jantonielli01):
+le pedi la descripcion de lo que necesita a una piba
+21:38:39 - Julian (@jantonielli01):
+me dijo que me mandaba screenshots
+21:38:48 - Julian (@jantonielli01):
+me esta mandando fotos literales de la pantalla con el pdf abierto
+21:39:00 - Julian (@jantonielli01):
+Osea fotos sacadas con el celular a la pantalla de su computadora lmao
+21:39:11 - Gonzalo González Mora (@gonzalogm):
+jajaja
+21:39:19 - Julian (@jantonielli01):
+<https://cdn.filestackcontent.com/NzChw9tQSGyw8ZFESyyA>
+21:39:32 - Gonzalo González Mora (@gonzalogm):
+Enseñale a sacar screenshots y ganate un tip :moneybag:
+21:39:43 - Julian (@jantonielli01):
+como se puede ser tan inutil estudiando CS??
+23:26:40 - Marcos Casagrande (@marcoscvp90):
+Foto aparte, esa inconsistencia en el código se puede ver jaja
+23:38:16 - Juan Scolari (@juanscolari):
+Como hacen para lidiar dia a dia con codigo asi?
+23:46:28 - Julian (@jantonielli01):
+Lol le estoy dando una sesión a un Pibe de prolog 
+23:46:36 - Julian (@jantonielli01):
+Me mire un tutorial media hora antes jaja 
+23:46:38 - Julian (@jantonielli01):
+No sabía nada 
+00:40:29 - Julian (@jantonielli01):
+lest 80$ al bolsillo
+08:24:03 - Marcos Casagrande (@marcoscvp90):
+Cuando tienen código así, generalmente, lo que hay que solucionar es muy fácil, de paso le arreglas un poco el código, así que está bueno. No hay nada mejor que refactorizar jaja.
+08:39:58 - Juan Scolari (@juanscolari):
+sabias palabras jaj
+09:51:36 - Juan Scolari (@juanscolari):
+Prolog seria algo asi como Pascal? Onda para aprender nomas?
+09:51:56 - Juan Scolari (@juanscolari):
+(No me cobres una sesion por la respuesta ;P)
+09:56:22 - Aldo Sorbara (@aldo1891):
+posta, me gusta esos laburos mas "faciles" si se quiere porque siento que ademas ayudo a que aprendan
+09:56:50 - Aldo Sorbara (@aldo1891):
+esta mirando un tutorial "diferencias entre Pascal y Prolog" asi despues te cobra $80 :stuck_out_tongue:
+09:58:34 - Juan Scolari (@juanscolari):
+entiendo la motivacion, pero no los desgasta? mas que digamos estar codeando u otra cosa
+10:07:20 - Federico A. Sawady O'Connor (@sawady.faso):
+se yo había ayudado a uno de Prolog también, pero lo había usado en la facu
+10:07:26 - Federico A. Sawady O'Connor (@sawady.faso):
+aunque no recordaba nada tampoco
+10:07:57 - Federico A. Sawady O'Connor (@sawady.faso):
+es reee distinto a todos los lenguajes porque ya el modelo de cómputo cambia drásticamente
+10:18:01 - Marcos Casagrande (@marcoscvp90):
+Creo que el factor económico es clave. Hacer eso por 5-10 USD, lo que se cobraría en relación de dependencia acá, si quizás es un desgaste. Hacerlo por 60-80 la hora, es easy money, y es algo para cortar con la rutina de cosas más complejas.
+10:20:42 - Juan Scolari (@juanscolari):
+Claro, tenes razon, si lo pensas en tiempo, estar una horita con esto vs cuatro hs codeando cambia la ecuacion
+10:21:51 - Aldo Sorbara (@aldo1891):
+si tal cual el factor economico es clave, ademas por mas simple que sea siempre le podes encontrar lo interesante, yo lo uso como desafio personal, por ejemplo si me piden hacer un form y use redux-form, por ahi uso formiik para probar como es.
+Trato de hacer el laburo como si fuera para mi, cosa que si cambie algo el dia de mañana no se rompa todo el codigo por estar super acoplado, creo que esos son los laburos que mas me gustan, esta bueno mentorear.
+10:49:26 - Ale Miralles (@amiralles):
+<@U6U3183U6> Si queres ver de que se trata prolog (y casos de uso en prod) mirate este video <https://www.youtube.com/watch?v=G_eYTctGZw8>
+11:32:12 - Aldo Sorbara (@aldo1891):
+bueno, otra vez uno que quiere algo gratis
+11:58:23 - Marcos Casagrande (@marcoscvp90):
+Javier Barriga?
+11:59:20 - Marcos Casagrande (@marcoscvp90):
+Porque me pidió ayuda hace 1 hora, se ve que no le bastó que yo le diga que no jaja
+12:01:26 - Aldo Sorbara (@aldo1891):
+jajaja
+12:01:27 - Aldo Sorbara (@aldo1891):
+si
+12:01:34 - Aldo Sorbara (@aldo1891):
+el otro dia me hizo lo mismo
+12:01:41 - Aldo Sorbara (@aldo1891):
+no se si reportarlo o que
+12:12:20 - Ale Miralles (@amiralles):
+Yo hasta ahora no los reportaba, pero me parece que es la que va... Asi no le rompen los huevos a nadie mas.
+12:25:58 - Aldo Sorbara (@aldo1891):
+cayo en mi trampa
+14:33:02 - Julian (@jantonielli01):
+classic codementor
+14:33:15 - Gonzalo González Mora (@gonzalogm):
+jajaja wtf
+14:33:29 - Julian (@jantonielli01):
+&gt;&gt;&gt;My entire life has been hacked. My phones, my house, my car is bugged I believe!! There is some type of program on my Facebook that only lets me see these encrypted posts from people I “think” I know but they have face swapped or something but I recognize the backgrounds. I decipher the posts and they’ll be talking about setting me up, taking my kids from me, 24/7 footage and sound etc. I’ve gotten fake mail, fake calls, my roommate’s phone is bugged as well! These have to be some types of professionals. I was lead down a rabbit hole on a transparent page to some Barry U University mess. I’m really unsure why but I’m almost positive it’s my soon to be ex-husband. He filled his taxes and claimed all three kids without my concern. I’m not sure if the IRS letter I received is legit or not. I got a FAKE Gecko mail out promo. It’s endless. I am about to lose my mind. PLEASE HELP
+14:34:24 - Gonzalo González Mora (@gonzalogm):
+JAJAJAJ
+14:34:27 - Gonzalo González Mora (@gonzalogm):
+maigad
+14:34:38 - Gonzalo González Mora (@gonzalogm):
+Y qué es lo que pide?
+14:34:54 - Ale Miralles (@amiralles):
+un psciologo!
+14:34:55 - Ale Miralles (@amiralles):
+jajaj
+14:35:15 - Gonzalo González Mora (@gonzalogm):
+:joy:
+14:35:43 - Julian (@jantonielli01):
+ayuda al fbi? no se
+14:36:44 - Juan Scolari (@juanscolari):
+waaatt
+14:36:58 - Juan Scolari (@juanscolari):
+cierren todo, Julian se llevo el 1º premio
+14:37:06 - Ale Miralles (@amiralles):
+<@U7MP5R4MC> googlea pscychology 101 y sacale unos mangos... que se yo!
+14:37:14 - Juan Scolari (@juanscolari):
+este canal es el mejor :rolling_on_the_floor_laughing:
+14:37:33 - Leandro Echevarria (@echevarrialeandro):
+Asesoralo con fruta y terminale diciendo que denuncie en la policia que vos no podes hacer mas nada
+14:37:35 - Leandro Echevarria (@echevarrialeandro):
+:rolling_on_the_floor_laughing:
+14:38:11 - Gonzalo González Mora (@gonzalogm):
+El famoso dev superfullstack, front+back+psicólogo
+14:41:17 - Julian (@jantonielli01):
+depsues de aprender prolog en 40 min puedo hacer cualquier cosa
+14:42:47 - Juan Scolari (@juanscolari):
+voto por el superstack
+14:54:14 - Marcos Casagrande (@marcoscvp90):
+jajaja `JSON Bourne`
+17:07:23 - Aldo Sorbara (@aldo1891):
+agarre uno de 1000 :fastparrot: :fastparrot:
+17:20:19 - Julian (@jantonielli01):
+Nice! Que es?
+17:28:27 - Ale Miralles (@amiralles):
+Muy bien!!
+17:30:39 - Aldo Sorbara (@aldo1891):
+react
+17:30:49 - Aldo Sorbara (@aldo1891):
+tiene una api hecha con sanity
+17:30:59 - Aldo Sorbara (@aldo1891):
+y necesita un front que tenga un search con autocomplete y lazy loading
+17:31:01 - Aldo Sorbara (@aldo1891):
+y un detail
+17:31:03 - Aldo Sorbara (@aldo1891):
+asi que son 2 pantallas
+17:50:30 - Ale Miralles (@amiralles):
+Un exito!
+18:44:16 - Leandro Echevarria (@echevarrialeandro):
+Tomaaaa al ángulo
+21:38:15 - Julian (@jantonielli01):
+dios mio
+21:38:25 - Julian (@jantonielli01):
+le pedi la descripcion de lo que necesita a una piba
+21:38:39 - Julian (@jantonielli01):
+me dijo que me mandaba screenshots
+21:38:48 - Julian (@jantonielli01):
+me esta mandando fotos literales de la pantalla con el pdf abierto
+21:39:00 - Julian (@jantonielli01):
+Osea fotos sacadas con el celular a la pantalla de su computadora lmao
+21:39:11 - Gonzalo González Mora (@gonzalogm):
+jajaja
+21:39:19 - Julian (@jantonielli01):
+<https://cdn.filestackcontent.com/NzChw9tQSGyw8ZFESyyA>
+21:39:32 - Gonzalo González Mora (@gonzalogm):
+Enseñale a sacar screenshots y ganate un tip :moneybag:
+21:39:43 - Julian (@jantonielli01):
+como se puede ser tan inutil estudiando CS??
+23:26:40 - Marcos Casagrande (@marcoscvp90):
+Foto aparte, esa inconsistencia en el código se puede ver jaja
+23:38:16 - Juan Scolari (@juanscolari):
+Como hacen para lidiar dia a dia con codigo asi?
+23:46:28 - Julian (@jantonielli01):
+Lol le estoy dando una sesión a un Pibe de prolog 
+23:46:36 - Julian (@jantonielli01):
+Me mire un tutorial media hora antes jaja 
+23:46:38 - Julian (@jantonielli01):
+No sabía nada 
+00:40:29 - Julian (@jantonielli01):
+lest 80$ al bolsillo
+08:24:03 - Marcos Casagrande (@marcoscvp90):
+Cuando tienen código así, generalmente, lo que hay que solucionar es muy fácil, de paso le arreglas un poco el código, así que está bueno. No hay nada mejor que refactorizar jaja.
+08:39:58 - Juan Scolari (@juanscolari):
+sabias palabras jaj
+09:51:36 - Juan Scolari (@juanscolari):
+Prolog seria algo asi como Pascal? Onda para aprender nomas?
+09:51:56 - Juan Scolari (@juanscolari):
+(No me cobres una sesion por la respuesta ;P)
+09:56:22 - Aldo Sorbara (@aldo1891):
+posta, me gusta esos laburos mas "faciles" si se quiere porque siento que ademas ayudo a que aprendan
+09:56:50 - Aldo Sorbara (@aldo1891):
+esta mirando un tutorial "diferencias entre Pascal y Prolog" asi despues te cobra $80 :stuck_out_tongue:
+09:58:34 - Juan Scolari (@juanscolari):
+entiendo la motivacion, pero no los desgasta? mas que digamos estar codeando u otra cosa
+10:07:20 - Federico A. Sawady O'Connor (@sawady.faso):
+se yo había ayudado a uno de Prolog también, pero lo había usado en la facu
+10:07:26 - Federico A. Sawady O'Connor (@sawady.faso):
+aunque no recordaba nada tampoco
+10:07:57 - Federico A. Sawady O'Connor (@sawady.faso):
+es reee distinto a todos los lenguajes porque ya el modelo de cómputo cambia drásticamente
+10:18:01 - Marcos Casagrande (@marcoscvp90):
+Creo que el factor económico es clave. Hacer eso por 5-10 USD, lo que se cobraría en relación de dependencia acá, si quizás es un desgaste. Hacerlo por 60-80 la hora, es easy money, y es algo para cortar con la rutina de cosas más complejas.
+10:20:42 - Juan Scolari (@juanscolari):
+Claro, tenes razon, si lo pensas en tiempo, estar una horita con esto vs cuatro hs codeando cambia la ecuacion
+10:21:51 - Aldo Sorbara (@aldo1891):
+si tal cual el factor economico es clave, ademas por mas simple que sea siempre le podes encontrar lo interesante, yo lo uso como desafio personal, por ejemplo si me piden hacer un form y use redux-form, por ahi uso formiik para probar como es.
+Trato de hacer el laburo como si fuera para mi, cosa que si cambie algo el dia de mañana no se rompa todo el codigo por estar super acoplado, creo que esos son los laburos que mas me gustan, esta bueno mentorear.
+10:49:26 - Ale Miralles (@amiralles):
+<@U6U3183U6> Si queres ver de que se trata prolog (y casos de uso en prod) mirate este video <https://www.youtube.com/watch?v=G_eYTctGZw8>
+11:32:12 - Aldo Sorbara (@aldo1891):
+bueno, otra vez uno que quiere algo gratis
+11:58:23 - Marcos Casagrande (@marcoscvp90):
+Javier Barriga?
+11:59:20 - Marcos Casagrande (@marcoscvp90):
+Porque me pidió ayuda hace 1 hora, se ve que no le bastó que yo le diga que no jaja
+12:01:26 - Aldo Sorbara (@aldo1891):
+jajaja
+12:01:27 - Aldo Sorbara (@aldo1891):
+si
+12:01:34 - Aldo Sorbara (@aldo1891):
+el otro dia me hizo lo mismo
+12:01:41 - Aldo Sorbara (@aldo1891):
+no se si reportarlo o que
+12:12:20 - Ale Miralles (@amiralles):
+Yo hasta ahora no los reportaba, pero me parece que es la que va... Asi no le rompen los huevos a nadie mas.
+12:25:58 - Aldo Sorbara (@aldo1891):
+cayo en mi trampa
+14:33:02 - Julian (@jantonielli01):
+classic codementor
+14:33:15 - Gonzalo González Mora (@gonzalogm):
+jajaja wtf
+14:33:29 - Julian (@jantonielli01):
+&gt;&gt;&gt;My entire life has been hacked. My phones, my house, my car is bugged I believe!! There is some type of program on my Facebook that only lets me see these encrypted posts from people I “think” I know but they have face swapped or something but I recognize the backgrounds. I decipher the posts and they’ll be talking about setting me up, taking my kids from me, 24/7 footage and sound etc. I’ve gotten fake mail, fake calls, my roommate’s phone is bugged as well! These have to be some types of professionals. I was lead down a rabbit hole on a transparent page to some Barry U University mess. I’m really unsure why but I’m almost positive it’s my soon to be ex-husband. He filled his taxes and claimed all three kids without my concern. I’m not sure if the IRS letter I received is legit or not. I got a FAKE Gecko mail out promo. It’s endless. I am about to lose my mind. PLEASE HELP
+14:34:24 - Gonzalo González Mora (@gonzalogm):
+JAJAJAJ
+14:34:27 - Gonzalo González Mora (@gonzalogm):
+maigad
+14:34:38 - Gonzalo González Mora (@gonzalogm):
+Y qué es lo que pide?
+14:34:54 - Ale Miralles (@amiralles):
+un psciologo!
+14:34:55 - Ale Miralles (@amiralles):
+jajaj
+14:35:15 - Gonzalo González Mora (@gonzalogm):
+:joy:
+14:35:43 - Julian (@jantonielli01):
+ayuda al fbi? no se
+14:36:44 - Juan Scolari (@juanscolari):
+waaatt
+14:36:58 - Juan Scolari (@juanscolari):
+cierren todo, Julian se llevo el 1º premio
+14:37:06 - Ale Miralles (@amiralles):
+<@U7MP5R4MC> googlea pscychology 101 y sacale unos mangos... que se yo!
+14:37:14 - Juan Scolari (@juanscolari):
+este canal es el mejor :rolling_on_the_floor_laughing:
+14:37:33 - Leandro Echevarria (@echevarrialeandro):
+Asesoralo con fruta y terminale diciendo que denuncie en la policia que vos no podes hacer mas nada
+14:37:35 - Leandro Echevarria (@echevarrialeandro):
+:rolling_on_the_floor_laughing:
+14:38:11 - Gonzalo González Mora (@gonzalogm):
+El famoso dev superfullstack, front+back+psicólogo
+14:41:17 - Julian (@jantonielli01):
+depsues de aprender prolog en 40 min puedo hacer cualquier cosa
+14:42:47 - Juan Scolari (@juanscolari):
+voto por el superstack
+14:54:14 - Marcos Casagrande (@marcoscvp90):
+jajaja `JSON Bourne`
+17:07:23 - Aldo Sorbara (@aldo1891):
+agarre uno de 1000 :fastparrot: :fastparrot:
+17:20:19 - Julian (@jantonielli01):
+Nice! Que es?
+17:28:27 - Ale Miralles (@amiralles):
+Muy bien!!
+17:30:39 - Aldo Sorbara (@aldo1891):
+react
+17:30:49 - Aldo Sorbara (@aldo1891):
+tiene una api hecha con sanity
+17:30:59 - Aldo Sorbara (@aldo1891):
+y necesita un front que tenga un search con autocomplete y lazy loading
+17:31:01 - Aldo Sorbara (@aldo1891):
+y un detail
+17:31:03 - Aldo Sorbara (@aldo1891):
+asi que son 2 pantallas
+17:50:30 - Ale Miralles (@amiralles):
+Un exito!
+18:44:16 - Leandro Echevarria (@echevarrialeandro):
+Tomaaaa al ángulo
