@@ -1,0 +1,232 @@
+21:26:54 - Enzo Retamozo (@egr_96):
+Triple de miga ? Maravillosa jugada
+22:30:50 - Guillermo Perez (@gperez):
+O para evitar que otros recruiters republiquen la búsqueda (?
+10:58:49 - Germán Burgardt (@germanandresburgardt):
+Gente tuve una entrevista técnica en la que había ejercicios onda me daban un pedazo de código y tenía que hacerlo mas mantenible, dsps otro tenía que hacerlo mas legible. Particularmente estos dos: <https://gist.github.com/GBurgardt/bd46edf38cb6562e45be64c3498550c9>
+11:00:02 - Germán Burgardt (@germanandresburgardt):
+la cuestión es que hice re mal esa parte, les quería consultar de algún material que me recomienden para saber como encararlos, como los resolverían ustds
+11:05:05 - kblok (@kblok):
+Clean Code y Code Complete son buenos libros
+11:06:50 - kblok (@kblok):
+esos libros te van a servir a nivel general que hace a un buen codigo
+11:07:10 - kblok (@kblok):
+"como resolverlo" más allá del lenguaje en si, yo me enfocaría saber las buenas prácticas del lenguaje, code style y los features del lenguaje
+11:10:38 - Ale Miralles (@amiralles):
+Para esos casos, yo te recomiendo Refactoring de Fowler
+11:10:39 - Ale Miralles (@amiralles):
+<https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=2J61AW3WKXSBD&amp;keywords=refactoring&amp;qid=1557929376&amp;s=gateway&amp;sprefix=refactoring%2Caps%2C863&amp;sr=8-1>
+11:11:02 - Ale Miralles (@amiralles):
+Yo tengo la edicion original
+11:11:03 - Ale Miralles (@amiralles):
+<https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_2?crid=2J61AW3WKXSBD&amp;keywords=refactoring&amp;qid=1557929445&amp;s=gateway&amp;sprefix=refactoring%2Caps%2C863&amp;sr=8-2>
+11:11:48 - Germán Burgardt (@germanandresburgardt):
+Perfecto, libros así buscaba, gracias gente!
+11:15:02 - Pablo Mescher (@pablomescher):
+creo que ya lo linkié como 20 veces en este slack, pero nunca viene mal <https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/>
+11:25:27 - Juan Scolari (@juanscolari):
+No lo habia visto, que bueno que llegue a la misma conclusion del final mientras lo leia :smile:
+11:32:29 - Ale Miralles (@amiralles):
+La primera es la mejor de todas, pero yo reemplazaria `if i % 3 == 0 &amp;&amp; i % 5 == 0` por `if i % 15 == 0` y nos ahorramos un cmp :wink:
+11:33:16 - Rodrigo Ali (@rodrigojali):
+`==` :developers:
+11:33:38 - Dayan Ruiz (@dayanr):
+yo cambiaria `==` por `=====`
+11:33:53 - Rodrigo Ali (@rodrigojali):
+JAJAJA
+11:33:58 - Rodrigo Ali (@rodrigojali):
+=========
+11:34:00 - Dayan Ruiz (@dayanr):
+el último chequea el SO que estás usando
+11:36:58 - Dayan Ruiz (@dayanr):
+ahora me recordé de un amigo que le preguntaron en una entrevista la diferencia entre: `&amp;` y `&amp;&amp;`
+- mi amigo le dijo: Ni puta idea,
+- el loco le quiso pasar a la siguiente pregunta,
+- mi amigo replicó: pero dime que es, así aprendo.
+- El entrevistador le dijo: Yo tampoco se, se que existe y quería ver si tu sabías
+11:37:31 - Ale Miralles (@amiralles):
+jajajaja
+11:37:35 - Dayan Ruiz (@dayanr):
+es posta
+11:37:39 - Ale Miralles (@amiralles):
+escuche varias de ese estilo, eh....
+11:37:41 - Ale Miralles (@amiralles):
+si te creo.
+11:38:31 - Ale Miralles (@amiralles):
+muchas veces pasa que el que va a entrevistar al recurso, por algun motivo no puede ir, y la entrevista la termina haciendo otro, que nada que ver.
+11:38:50 - Ale Miralles (@amiralles):
+muchas veces me han contado casos de ese estilo.
+11:41:34 - Dayan Ruiz Riera (@dayanrr91):
+A mi me pasó hace poco de tomar una entrevista para fullstack .NEt y el loco arrancó con db y back. Y le pregunté: y el front? Y me dijo:  ah yo no se nada front. Yo solo se backend
+11:41:43 - Dayan Ruiz Riera (@dayanrr91):
+Fue tipo: ok
+11:42:34 - Santiago Ruffino (@santi_0898):
+Fue por un mal entendido de la posicion? O el pibe solo fue medio "tonto"?
+11:43:16 - Santiago Ruffino (@santi_0898):
+Porque ayer me paso. La mina me dijo que iba a tener una llamada para hablar con el lider del equipo para la posicion. Y que ibamos a hablar un poco y me iban a mandar los ejercicios despues
+11:43:23 - Santiago Ruffino (@santi_0898):
+Y que usaban PHP
+11:43:44 - Santiago Ruffino (@santi_0898):
+Tengo la llamada, y el pibe me dice "Bueno, abri este link y empezamos con los ejercicios". Era todo HTML y CSS
+11:44:45 - Aldo Sorbara (@aldo1891):
+me paso hace una semana con una oferta que mandaron a <#C045DQUMP|jobs> ...
+-bueno hay posiciones para front y para back, por lo que entiendo vos aplicas para back no?
+-No, para front
+- Ah ok, la de rrhh nunca me aviso, yo hago back, pero bueno sigamos adelante con la entrevista
+Entrevista malisima y me "bocharon" sin tener una entrevista tecnica real, en esos casos es preferible decir: "bueno hubo un error vamos a reagendar con la de rrhh"
+11:46:20 - Ale Miralles (@amiralles):
+Si. Totalmente.
+11:47:18 - Rodrigo Ali (@rodrigojali):
+... o te bochamos para proteger egos :stuck_out_tongue:
+11:47:48 - Juan Scolari (@juanscolari):
+a mi me mandaron una prueba de ruby para un puesto de node
+11:48:01 - Juan Scolari (@juanscolari):
+pero bue, fue equivocacion :stuck_out_tongue:
+11:48:15 - Juan Scolari (@juanscolari):
+despues me mandaron la de node y era igual, solo cambiaron la palabra jaj
+11:48:21 - Aldo Sorbara (@aldo1891):
+la sintaxis es casi calcada (?
+11:48:23 - Aldo Sorbara (@aldo1891):
+jajajaj
+11:50:57 - Dayan Ruiz (@dayanr):
+fue un poco de las 2
+11:51:29 - Dayan Ruiz (@dayanr):
+anyway siempre esta la de, tengo en linkedin c# java, html css, y te escriben para un puesto de desarrollador en perl
+11:52:19 - Dayan Ruiz (@dayanr):
+hola, vimos tu perfil, y nos pareció muy interesante, agradable y coqueto, veo que eres medio mecanico de autos, pero necesitamos un guardia de seguridad de estacion de servicio de osos de peluche, te interesa conocer mas de la propuesta?, dejame mail y telefono
+12:01:12 - Lupe (@lportias):
+tal cual... ven "desarrollador" y asumen cualquier cosa
+12:11:27 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+te pregunto si deseabas seguir con la entrevista o siguio como si nada?
+12:30:20 - Aldo Sorbara (@aldo1891):
+<@U3BFF2QH4> siguio, basicamente improvisando, creo que no hable nunca de tecnologias o preguntas tecnicas, basicamente porque mi area de expertise no era su area de expertise
+13:05:08 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+con que poca seriedad se toman muchas empresas el proceso de contratar gente, como si estuvieran haciendote un favor
+13:08:02 - Aldo Sorbara (@aldo1891):
+me dio mas bronca porque realmente estaba interesado en la empresa y en el puesto, y yo estuve mandando mails para pedir updates una vez por semana porque no me  mandaban ninguna mensaje del status del proceso
+13:14:33 - Lupe (@lportias):
+es lamentable, pero muy comun
+13:35:14 - Dayan Ruiz (@dayanr):
+ah si yo mando mensaje para saber status y no me responden sigo buscando
+13:36:29 - Dayan Ruiz (@dayanr):
+hubo un momento donde me interesaba mucho quedar bien siempre yo, cuando me di cuenta de que me trataban como un numero (es lo que en realidad somos), pues ya esta, empece a tratarlos como numeros y me fue mucho mejor
+14:20:45 - Lupe (@lportias):
+y si... cuando estaba buscando el año pasado, a algunas propuestas les hacia seguimiento por que me interesaban, pero el resto, si llamaban de nuevo bien y sino ya tenia alineadas mas entrevistas en otros lados
+18:47:43 - GAlvarado (@anzaldo.alvarado.gabr):
+que oferta era?
+21:26:54 - Enzo Retamozo (@egr_96):
+Triple de miga ? Maravillosa jugada
+22:30:50 - Guillermo Perez (@gperez):
+O para evitar que otros recruiters republiquen la búsqueda (?
+10:58:49 - Germán Burgardt (@germanandresburgardt):
+Gente tuve una entrevista técnica en la que había ejercicios onda me daban un pedazo de código y tenía que hacerlo mas mantenible, dsps otro tenía que hacerlo mas legible. Particularmente estos dos: <https://gist.github.com/GBurgardt/bd46edf38cb6562e45be64c3498550c9>
+11:00:02 - Germán Burgardt (@germanandresburgardt):
+la cuestión es que hice re mal esa parte, les quería consultar de algún material que me recomienden para saber como encararlos, como los resolverían ustds
+11:05:05 - kblok (@kblok):
+Clean Code y Code Complete son buenos libros
+11:06:50 - kblok (@kblok):
+esos libros te van a servir a nivel general que hace a un buen codigo
+11:07:10 - kblok (@kblok):
+"como resolverlo" más allá del lenguaje en si, yo me enfocaría saber las buenas prácticas del lenguaje, code style y los features del lenguaje
+11:10:38 - Ale Miralles (@amiralles):
+Para esos casos, yo te recomiendo Refactoring de Fowler
+11:10:39 - Ale Miralles (@amiralles):
+<https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=2J61AW3WKXSBD&amp;keywords=refactoring&amp;qid=1557929376&amp;s=gateway&amp;sprefix=refactoring%2Caps%2C863&amp;sr=8-1>
+11:11:02 - Ale Miralles (@amiralles):
+Yo tengo la edicion original
+11:11:03 - Ale Miralles (@amiralles):
+<https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=sr_1_2?crid=2J61AW3WKXSBD&amp;keywords=refactoring&amp;qid=1557929445&amp;s=gateway&amp;sprefix=refactoring%2Caps%2C863&amp;sr=8-2>
+11:11:48 - Germán Burgardt (@germanandresburgardt):
+Perfecto, libros así buscaba, gracias gente!
+11:15:02 - Pablo Mescher (@pablomescher):
+creo que ya lo linkié como 20 veces en este slack, pero nunca viene mal <https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/>
+11:25:27 - Juan Scolari (@juanscolari):
+No lo habia visto, que bueno que llegue a la misma conclusion del final mientras lo leia :smile:
+11:32:29 - Ale Miralles (@amiralles):
+La primera es la mejor de todas, pero yo reemplazaria `if i % 3 == 0 &amp;&amp; i % 5 == 0` por `if i % 15 == 0` y nos ahorramos un cmp :wink:
+11:33:16 - Rodrigo Ali (@rodrigojali):
+`==` :developers:
+11:33:38 - Dayan Ruiz (@dayanr):
+yo cambiaria `==` por `=====`
+11:33:53 - Rodrigo Ali (@rodrigojali):
+JAJAJA
+11:33:58 - Rodrigo Ali (@rodrigojali):
+=========
+11:34:00 - Dayan Ruiz (@dayanr):
+el último chequea el SO que estás usando
+11:36:58 - Dayan Ruiz (@dayanr):
+ahora me recordé de un amigo que le preguntaron en una entrevista la diferencia entre: `&amp;` y `&amp;&amp;`
+- mi amigo le dijo: Ni puta idea,
+- el loco le quiso pasar a la siguiente pregunta,
+- mi amigo replicó: pero dime que es, así aprendo.
+- El entrevistador le dijo: Yo tampoco se, se que existe y quería ver si tu sabías
+11:37:31 - Ale Miralles (@amiralles):
+jajajaja
+11:37:35 - Dayan Ruiz (@dayanr):
+es posta
+11:37:39 - Ale Miralles (@amiralles):
+escuche varias de ese estilo, eh....
+11:37:41 - Ale Miralles (@amiralles):
+si te creo.
+11:38:31 - Ale Miralles (@amiralles):
+muchas veces pasa que el que va a entrevistar al recurso, por algun motivo no puede ir, y la entrevista la termina haciendo otro, que nada que ver.
+11:38:50 - Ale Miralles (@amiralles):
+muchas veces me han contado casos de ese estilo.
+11:41:34 - Dayan Ruiz Riera (@dayanrr91):
+A mi me pasó hace poco de tomar una entrevista para fullstack .NEt y el loco arrancó con db y back. Y le pregunté: y el front? Y me dijo:  ah yo no se nada front. Yo solo se backend
+11:41:43 - Dayan Ruiz Riera (@dayanrr91):
+Fue tipo: ok
+11:42:34 - Santiago Ruffino (@santi_0898):
+Fue por un mal entendido de la posicion? O el pibe solo fue medio "tonto"?
+11:43:16 - Santiago Ruffino (@santi_0898):
+Porque ayer me paso. La mina me dijo que iba a tener una llamada para hablar con el lider del equipo para la posicion. Y que ibamos a hablar un poco y me iban a mandar los ejercicios despues
+11:43:23 - Santiago Ruffino (@santi_0898):
+Y que usaban PHP
+11:43:44 - Santiago Ruffino (@santi_0898):
+Tengo la llamada, y el pibe me dice "Bueno, abri este link y empezamos con los ejercicios". Era todo HTML y CSS
+11:44:45 - Aldo Sorbara (@aldo1891):
+me paso hace una semana con una oferta que mandaron a <#C045DQUMP|jobs> ...
+-bueno hay posiciones para front y para back, por lo que entiendo vos aplicas para back no?
+-No, para front
+- Ah ok, la de rrhh nunca me aviso, yo hago back, pero bueno sigamos adelante con la entrevista
+Entrevista malisima y me "bocharon" sin tener una entrevista tecnica real, en esos casos es preferible decir: "bueno hubo un error vamos a reagendar con la de rrhh"
+11:46:20 - Ale Miralles (@amiralles):
+Si. Totalmente.
+11:47:18 - Rodrigo Ali (@rodrigojali):
+... o te bochamos para proteger egos :stuck_out_tongue:
+11:47:48 - Juan Scolari (@juanscolari):
+a mi me mandaron una prueba de ruby para un puesto de node
+11:48:01 - Juan Scolari (@juanscolari):
+pero bue, fue equivocacion :stuck_out_tongue:
+11:48:15 - Juan Scolari (@juanscolari):
+despues me mandaron la de node y era igual, solo cambiaron la palabra jaj
+11:48:21 - Aldo Sorbara (@aldo1891):
+la sintaxis es casi calcada (?
+11:48:23 - Aldo Sorbara (@aldo1891):
+jajajaj
+11:50:57 - Dayan Ruiz (@dayanr):
+fue un poco de las 2
+11:51:29 - Dayan Ruiz (@dayanr):
+anyway siempre esta la de, tengo en linkedin c# java, html css, y te escriben para un puesto de desarrollador en perl
+11:52:19 - Dayan Ruiz (@dayanr):
+hola, vimos tu perfil, y nos pareció muy interesante, agradable y coqueto, veo que eres medio mecanico de autos, pero necesitamos un guardia de seguridad de estacion de servicio de osos de peluche, te interesa conocer mas de la propuesta?, dejame mail y telefono
+12:01:12 - Lupe (@lportias):
+tal cual... ven "desarrollador" y asumen cualquier cosa
+12:11:27 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+te pregunto si deseabas seguir con la entrevista o siguio como si nada?
+12:30:20 - Aldo Sorbara (@aldo1891):
+<@U3BFF2QH4> siguio, basicamente improvisando, creo que no hable nunca de tecnologias o preguntas tecnicas, basicamente porque mi area de expertise no era su area de expertise
+13:05:08 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+con que poca seriedad se toman muchas empresas el proceso de contratar gente, como si estuvieran haciendote un favor
+13:08:02 - Aldo Sorbara (@aldo1891):
+me dio mas bronca porque realmente estaba interesado en la empresa y en el puesto, y yo estuve mandando mails para pedir updates una vez por semana porque no me  mandaban ninguna mensaje del status del proceso
+13:14:33 - Lupe (@lportias):
+es lamentable, pero muy comun
+13:35:14 - Dayan Ruiz (@dayanr):
+ah si yo mando mensaje para saber status y no me responden sigo buscando
+13:36:29 - Dayan Ruiz (@dayanr):
+hubo un momento donde me interesaba mucho quedar bien siempre yo, cuando me di cuenta de que me trataban como un numero (es lo que en realidad somos), pues ya esta, empece a tratarlos como numeros y me fue mucho mejor
+14:20:45 - Lupe (@lportias):
+y si... cuando estaba buscando el año pasado, a algunas propuestas les hacia seguimiento por que me interesaban, pero el resto, si llamaban de nuevo bien y sino ya tenia alineadas mas entrevistas en otros lados
+18:47:43 - GAlvarado (@anzaldo.alvarado.gabr):
+que oferta era?
