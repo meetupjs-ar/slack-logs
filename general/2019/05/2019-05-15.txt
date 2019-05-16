@@ -1,0 +1,112 @@
+11:08:57 - Santiago Ruffino (@santi_0898):
+Hay algun drive o repo donde se vayan recopilando ejercicios de entrevistas o esas cosas?
+11:09:17 - Santiago Ruffino (@santi_0898):
+Estaba pensando en que estaria bueno tener algo asi. No para "escrachar" los ejercicios de las empresas. Pero si para tener cosas para practicar
+11:13:10 - Lucas (@livchitsl):
+Hola, el otro día me topé con esto <https://dailycodingproblem.com/> el problema es que la versión gratis no te manda las respuestas, pero te puede servir... yo lo dejé porque recién estoy aprendiendo y me superó :confused:
+11:13:56 - Santiago Ruffino (@santi_0898):
+Claro, yo pensaba algo para juntar casos reales
+11:16:07 - Lucas (@livchitsl):
+según ellos los problemas son de entrevistas y te dicen qué empresa lo toma cuando te lo mandan. Claro que no es exactamente una compilación...
+11:18:37 - kblok (@kblok):
+<http://www.codewars.com|www.codewars.com> tiene buenos ejercicios
+11:18:53 - Sebastian Waisbrot (@seppo0010):
+¿hackerrank no es eso?
+11:37:13 - Brian Hume (@brianh20):
+yo tengo varios code challenges que me pidieron guardados
+11:37:17 - Brian Hume (@brianh20):
+pedime
+11:39:27 - Luciano Muñoz (@luchisds):
+Tambien tenes el libro <http://www.crackingthecodinginterview.com/>
+11:40:15 - Luciano Muñoz (@luchisds):
+Es pago pero google es tu mejor amigo (guiño guiño)
+12:17:49 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+No me pude contener
+12:18:35 - Jorge Cano (@jorgeucano):
+pasta dura, pasta blanda, pasta base
+12:18:39 - Jorge Cano (@jorgeucano):
+parecen drogas
+12:18:51 - Lupe (@lportias):
+jaaaaaaa!!!!
+12:20:42 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+no me pude contener, pasta base la agregue yo, pero que traducciones por favor!
+12:37:33 - Luis Alvarez (@luistensai):
+Todos :grimacing:
+16:41:02 - Luis Ventocilla (@lvsmix):
+Acabo de armar esta meetup si se quieran sumar o ayudarme a organizar meetup son bienvenidos
+16:41:03 - Luis Ventocilla (@lvsmix):
+<https://www.meetup.com/es/Java-Bs-As/>
+17:09:47 - cryser (@carlosryser):
+arma un slack tambien
+17:18:51 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+le falta script a tu meetup <@U3G5S3FC2>
+17:23:01 - Luis Ventocilla (@lvsmix):
+jajaja
+17:36:02 - Esteban Yañez (@eyanez):
+no habia un grupo de meetups de java?
+17:36:30 - Esteban Yañez (@eyanez):
+probablemente inactivos, pero por ahi lo podes revivir en lugar de salir de 0
+17:37:44 - Esteban Yañez (@eyanez):
+si, estaba este, que no hace nada desde 2017 <https://www.meetup.com/es-ES/jugargentina/>
+17:37:53 - Esteban Yañez (@eyanez):
+pero tienen 2500 miembros
+18:19:11 - Luis Ventocilla (@lvsmix):
+Nadie responde, me canse de mandarles mails, para ayudarles en la organizacion. Es una pena y eso que tiene 5 personas. <@U4RPLC35F>
+18:27:02 - Esteban Yañez (@eyanez):
+que fiaca!
+11:08:57 - Santiago Ruffino (@santi_0898):
+Hay algun drive o repo donde se vayan recopilando ejercicios de entrevistas o esas cosas?
+11:09:17 - Santiago Ruffino (@santi_0898):
+Estaba pensando en que estaria bueno tener algo asi. No para "escrachar" los ejercicios de las empresas. Pero si para tener cosas para practicar
+11:13:10 - Lucas (@livchitsl):
+Hola, el otro día me topé con esto <https://dailycodingproblem.com/> el problema es que la versión gratis no te manda las respuestas, pero te puede servir... yo lo dejé porque recién estoy aprendiendo y me superó :confused:
+11:13:56 - Santiago Ruffino (@santi_0898):
+Claro, yo pensaba algo para juntar casos reales
+11:16:07 - Lucas (@livchitsl):
+según ellos los problemas son de entrevistas y te dicen qué empresa lo toma cuando te lo mandan. Claro que no es exactamente una compilación...
+11:18:37 - kblok (@kblok):
+<http://www.codewars.com|www.codewars.com> tiene buenos ejercicios
+11:18:53 - Sebastian Waisbrot (@seppo0010):
+¿hackerrank no es eso?
+11:37:13 - Brian Hume (@brianh20):
+yo tengo varios code challenges que me pidieron guardados
+11:37:17 - Brian Hume (@brianh20):
+pedime
+11:39:27 - Luciano Muñoz (@luchisds):
+Tambien tenes el libro <http://www.crackingthecodinginterview.com/>
+11:40:15 - Luciano Muñoz (@luchisds):
+Es pago pero google es tu mejor amigo (guiño guiño)
+12:17:49 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+No me pude contener
+12:18:35 - Jorge Cano (@jorgeucano):
+pasta dura, pasta blanda, pasta base
+12:18:39 - Jorge Cano (@jorgeucano):
+parecen drogas
+12:18:51 - Lupe (@lportias):
+jaaaaaaa!!!!
+12:20:42 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+no me pude contener, pasta base la agregue yo, pero que traducciones por favor!
+12:37:33 - Luis Alvarez (@luistensai):
+Todos :grimacing:
+16:41:02 - Luis Ventocilla (@lvsmix):
+Acabo de armar esta meetup si se quieran sumar o ayudarme a organizar meetup son bienvenidos
+16:41:03 - Luis Ventocilla (@lvsmix):
+<https://www.meetup.com/es/Java-Bs-As/>
+17:09:47 - cryser (@carlosryser):
+arma un slack tambien
+17:18:51 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+le falta script a tu meetup <@U3G5S3FC2>
+17:23:01 - Luis Ventocilla (@lvsmix):
+jajaja
+17:36:02 - Esteban Yañez (@eyanez):
+no habia un grupo de meetups de java?
+17:36:30 - Esteban Yañez (@eyanez):
+probablemente inactivos, pero por ahi lo podes revivir en lugar de salir de 0
+17:37:44 - Esteban Yañez (@eyanez):
+si, estaba este, que no hace nada desde 2017 <https://www.meetup.com/es-ES/jugargentina/>
+17:37:53 - Esteban Yañez (@eyanez):
+pero tienen 2500 miembros
+18:19:11 - Luis Ventocilla (@lvsmix):
+Nadie responde, me canse de mandarles mails, para ayudarles en la organizacion. Es una pena y eso que tiene 5 personas. <@U4RPLC35F>
+18:27:02 - Esteban Yañez (@eyanez):
+que fiaca!
