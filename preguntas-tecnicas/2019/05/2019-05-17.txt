@@ -1,0 +1,320 @@
+11:46:10 - Martín Aimar (@maimar):
+algún buen editor wysiwyg? puse ckeditor 5 que está muy bueno pero parece que le sacaron la opción de editar el html source :open_mouth:
+11:51:40 - Pedro (@pedro461):
+tinymce?
+11:52:30 - Martín Aimar (@maimar):
+ahí estoy probando ese
+11:52:34 - Martín Aimar (@maimar):
+tiene integración para vue también
+12:15:56 - Pedro (@pedro461):
+see
+12:15:56 - Pedro (@pedro461):
+jaj
+12:32:40 - Martín Aimar (@maimar):
+tuve que hacer una bizarreada para poder usarlo sin tinymce cloud pero va bien
+12:32:58 - Juan Scolari (@juanscolari):
+saben si se pueden ver las requests salientes de una app del iphone?
+12:33:36 - Juan Scolari (@juanscolari):
+onda como la consola de chrome en la web
+12:37:23 - Nico (@nicokorn96):
+queres debuggear en iphone?
+12:37:50 - Nico (@nicokorn96):
+digo ver la consola de iphone
+12:41:36 - Juan Scolari (@juanscolari):
+use case de ej:
+- Entro a la app de Instragram
+- Quiero ver que requests le manda a sus servidores, con los headers, parametros, url, etc
+12:41:36 - Nico (@nicokorn96):
+:point_up:
+12:41:47 - Juan Scolari (@juanscolari):
+app, no del safari
+12:41:52 - Nico (@nicokorn96):
+no eso no
+12:42:00 - Nico (@nicokorn96):
+olvidate
+12:42:04 - Nico (@nicokorn96):
+es ios
+12:42:18 - Santiago Ruffino (@santi_0898):
+No creo
+12:42:46 - Nico (@nicokorn96):
+lo que te dice santi es lo mas cercano a la consola
+12:43:05 - Nico (@nicokorn96):
+sino si tenes mac te podes conectar remotamente a la consola de safari creo
+12:43:23 - Nico (@nicokorn96):
+o chrome con algun plugin creo que te deja conectarte a chrome mobile
+12:43:46 - Martin Carrera (@mcarrera):
+podes debuggear si es TU app
+12:44:01 - Juan Scolari (@juanscolari):
+web mobile lo hice alguna vez
+12:44:05 - Juan Scolari (@juanscolari):
+queria saber si podia app
+12:44:05 - Santiago Ruffino (@santi_0898):
+No se si haciendo Jailbreak puedas hacer algo
+12:44:31 - Juan Scolari (@juanscolari):
+sin hacer jailbreak :stuck_out_tongue_winking_eye:
+12:44:32 - Juan Scolari (@juanscolari):
+jaj
+12:44:35 - Juan Scolari (@juanscolari):
+las quiero todas
+12:44:50 - Santiago Ruffino (@santi_0898):
+Si viejo
+11:46:10 - Martín Aimar (@maimar):
+algún buen editor wysiwyg? puse ckeditor 5 que está muy bueno pero parece que le sacaron la opción de editar el html source :open_mouth:
+11:51:40 - Pedro (@pedro461):
+tinymce?
+11:52:30 - Martín Aimar (@maimar):
+ahí estoy probando ese
+11:52:34 - Martín Aimar (@maimar):
+tiene integración para vue también
+12:15:56 - Pedro (@pedro461):
+see
+12:15:56 - Pedro (@pedro461):
+jaj
+12:32:40 - Martín Aimar (@maimar):
+tuve que hacer una bizarreada para poder usarlo sin tinymce cloud pero va bien
+12:32:58 - Juan Scolari (@juanscolari):
+saben si se pueden ver las requests salientes de una app del iphone?
+12:33:36 - Juan Scolari (@juanscolari):
+onda como la consola de chrome en la web
+12:37:23 - Nico (@nicokorn96):
+queres debuggear en iphone?
+12:37:50 - Nico (@nicokorn96):
+digo ver la consola de iphone
+12:41:36 - Juan Scolari (@juanscolari):
+use case de ej:
+- Entro a la app de Instragram
+- Quiero ver que requests le manda a sus servidores, con los headers, parametros, url, etc
+12:41:36 - Nico (@nicokorn96):
+:point_up:
+12:41:47 - Juan Scolari (@juanscolari):
+app, no del safari
+12:41:52 - Nico (@nicokorn96):
+no eso no
+12:42:00 - Nico (@nicokorn96):
+olvidate
+12:42:04 - Nico (@nicokorn96):
+es ios
+12:42:18 - Santiago Ruffino (@santi_0898):
+No creo
+12:42:46 - Nico (@nicokorn96):
+lo que te dice santi es lo mas cercano a la consola
+12:43:05 - Nico (@nicokorn96):
+sino si tenes mac te podes conectar remotamente a la consola de safari creo
+12:43:23 - Nico (@nicokorn96):
+o chrome con algun plugin creo que te deja conectarte a chrome mobile
+12:43:46 - Martin Carrera (@mcarrera):
+podes debuggear si es TU app
+12:44:01 - Juan Scolari (@juanscolari):
+web mobile lo hice alguna vez
+12:44:05 - Juan Scolari (@juanscolari):
+queria saber si podia app
+12:44:05 - Santiago Ruffino (@santi_0898):
+No se si haciendo Jailbreak puedas hacer algo
+12:44:31 - Juan Scolari (@juanscolari):
+sin hacer jailbreak :stuck_out_tongue_winking_eye:
+12:44:32 - Juan Scolari (@juanscolari):
+jaj
+12:44:35 - Juan Scolari (@juanscolari):
+las quiero todas
+12:44:50 - Santiago Ruffino (@santi_0898):
+Si viejo
+12:44:54 - Santiago Ruffino (@santi_0898):
+Vos tambien
+12:45:04 - Juan Scolari (@juanscolari):
+alguna cosa onda interceptando el trafico, usando la compu como proxy
+12:45:06 - Martín Aimar (@maimar):
+sniffear? existe eso?
+12:45:13 - Juan Scolari (@juanscolari):
+si, tipo sniffear
+12:45:18 - Ezequiel Leites (@leites25):
+Posiblemente solo sniffeando
+12:45:26 - Juan Scolari (@juanscolari):
+alguna vez intente pero falle
+12:46:07 - Juan Scolari (@juanscolari):
+Como sugieren aca: <https://apple.stackexchange.com/questions/18108/how-do-you-watch-http-requests-an-iphone-app-is-making>
+12:47:08 - Nico (@nicokorn96):
+casi hacker?
+12:48:58 - Martín Valdés de León (@mvaldesdeleon):
+Dale internet al telefono dde tu laptop y tira un wireshark
+12:49:28 - Juan Scolari (@juanscolari):
+Ahh, alguna vez lo use el wireshark hace mil años
+12:49:43 - Enzo Retamozo (@egr_96):
+buenos dias
+12:50:21 - Martín Valdés de León (@mvaldesdeleon):
+Si rooteas el device o lo que haga falta para instalar root certs podes tirar mitm y romper https
+12:51:18 - Juan Scolari (@juanscolari):
+:+1:  mejor sin rootear nada, voy a probar con el wireshark
+12:51:21 - Luis Alvarez (@luistensai):
+o un fiddler
+12:51:50 - Juan Scolari (@juanscolari):
+fiddler probe hace un tiempito pero no lo entendi
+12:51:54 - Luis Alvarez (@luistensai):
+podés setear a fiddler como proxy de tu wifi
+12:52:07 - Luis Alvarez (@luistensai):
+sí, ya hace muchísimo que no lo tengo que usar por suerte
+12:52:09 - Leandro Echevarria (@echevarrialeandro):
+Yo lo hago con burp suite eso <@U6U3183U6>
+12:52:11 - Luis Alvarez (@luistensai):
+era medio complicado jaja
+12:52:46 - Leandro Echevarria (@echevarrialeandro):
+Dejame ver si tengo a mano justo hace poco vi en youtube una charla de un bounty hunter que mostraba burp+instagram justo
+12:53:41 - Juan Scolari (@juanscolari):
+gracias!
+12:53:58 - Martin Bavio (@mbavio):
+Pregunta: alguien habia pasado hace un tiempo una app grafica online para dibujar _mapas de stacks_
+12:54:03 - Martin Bavio (@mbavio):
+alguien tiene la url a mano?
+12:55:33 - Juan Bono (@juanbono):
+Como sería eso?
+12:55:45 - Juan Bono (@juanbono):
+Te dibuja los elementos del stack?
+12:58:26 - Martin Bavio (@mbavio):
+hace como un mapa de los distintos componentes
+12:58:32 - Leandro Echevarria (@echevarrialeandro):
+<@U6U3183U6> <https://www.youtube.com/watch?v=Ehq6ofUbslI>
+13:00:08 - Juan Scolari (@juanscolari):
+larguito jaj, le pegue una pispeada rapida y se ve super interesante. lo voy a ver cuando termine de laburar, gracias!!
+13:03:24 - Leandro Echevarria (@echevarrialeandro):
+No me acuerdo si explicaba algo de la configuracion, pero el tema ese de ver los endpoints que le pega la app lo podés hacer con Burp Suite (seguro hay otras tambien, yo no conozco). Te podes saltear el video y mirar configs para hacerlo directamente jaa
+13:12:34 - Dario Miñones (@dminones):
+yo use alguna vez este. <https://www.charlesproxy.com/>
+13:13:00 - Dario Miñones (@dminones):
+Pero hace mucho y no me acuerdo asi que  no te puedo dar los pasos
+14:37:49 - Lucas Accastello (@accastellolucas):
+Gente, alguien que haya trabajado con el chatbot de Azure y Dialogflow de Google y me pueda tirar resumidamente un vs o el por qué elegir uno u otro?
+15:15:51 - Santiago Ruffino (@santi_0898):
+Yo use Dialogflow
+15:45:03 - Jeremias Gibilbank (@jeremias.gibilbank):
+No se si es el channel correcto para consultar esto, en mi laburo usamos el geocoder de Gmaps en nuestra solucion, y de un momento para otro que lo empezaron a cobrar, nos vino un billing tremendo. Estamos probando Algolia Places, esta muy bueno y se supone que es mas economico, hicimos unas especie de adaptors porque teniamos varias cosas colgando de la estructura que nos devolvia Gmaps. Alguno tuvo experiencia con Algolia Places? Alguna otra alternativa como servicio?
+15:46:14 - Martín Aimar (@maimar):
+está <http://here.com|here.com> pero es espantoso
+15:46:30 - Martín Aimar (@maimar):
+<http://mapbox.com|mapbox.com>
+15:47:27 - Jeremias Gibilbank (@jeremias.gibilbank):
+lo vi here, no me gusto mucho
+15:47:41 - Jeremias Gibilbank (@jeremias.gibilbank):
+para el display de los maps vamos a seguir usando Gmaps porque no hacemos mucho eso y es la parte "economica"
+15:47:58 - Jeremias Gibilbank (@jeremias.gibilbank):
+mas que nada donde nos hicieron un agujero fue en el geolocator, nos vinieron 1500 dolares
+15:48:07 - Jeremias Gibilbank (@jeremias.gibilbank):
+es lo que pagamos de ec2 mas o menos jajaj
+15:49:09 - Martín Aimar (@maimar):
+ah si en un proyecto que estaba hasta hace poco pasó
+15:49:13 - Martín Aimar (@maimar):
+y se pasaron a here jaja
+15:49:30 - Martín Aimar (@maimar):
+y tratando de cachear los llamados a gmaps porque había muchos repetidos al pedo también
+15:50:24 - Jeremias Gibilbank (@jeremias.gibilbank):
+claro nuestro primer aproach era ese, hacer una capa de cache entre los requests y google maps, pero cuando evaluamos todo el tiempo que teniamos que invertir en que eso funcione decente desistimos
+15:50:48 - Martín Aimar (@maimar):
+ahh y no debería ser taaanto pero depende de cómo sean los llamados
+15:50:53 - Jeremias Gibilbank (@jeremias.gibilbank):
+Estamos por entrar a prod con algolia places, espero que no nos encontremos una sorpresa
+15:52:19 - Jeremias Gibilbank (@jeremias.gibilbank):
+donde mas se usa es en la carga de clientes de nuestros clientes (hacemos sw para conces de autos), entonces cuando se atiende el cliente se lo geolocaliza con su casa, es bastante random, por eso tambien no nos cerraba tanto lo de cache
+15:53:19 - Martín Aimar (@maimar):
+claro si son siempre distintos no va a haber mucho para cachear jaja
+17:02:17 - Martín Aimar (@maimar):
+se puede mergear un PR con un force push en una protected branch?
+17:04:37 - Juan Scolari (@juanscolari):
+yo vi ese no rotundo jajaj
+17:04:56 - Juan Scolari (@juanscolari):
+“creo” que no
+17:05:01 - Juan Scolari (@juanscolari):
+no deberia
+17:05:17 - Martín Aimar (@maimar):
+supongo que no debería
+17:05:27 - Martín Aimar (@maimar):
+al cabo que si no al final terminaría el force push en la branch
+17:05:32 - Martín Aimar (@maimar):
+aunque no sé qué onda si hay rebase
+17:05:33 - Julian (@jantonielli01):
+si se puede
+17:05:46 - Juan Scolari (@juanscolari):
+modificando la historia?
+17:05:47 - Julian (@jantonielli01):
+bah, a ver si entiendo la pregunta
+17:05:54 - Juan Scolari (@juanscolari):
+o sea, si no modifica nada si
+17:06:01 - Julian (@jantonielli01):
+vos tenes `br1` protegida
+17:06:08 - Julian (@jantonielli01):
+y le haces un pr de `br2`
+17:06:25 - Julian (@jantonielli01):
+Haces un force push a br2 y la queres mergear?
+17:06:31 - Martín Aimar (@maimar):
+si
+17:06:45 - Luis Alvarez (@luistensai):
+alguno tiene experiencia con connection strings de sql server? :nauseated_face:
+17:06:55 - Julian (@jantonielli01):
+se, con eso no pasa nada
+17:06:59 - Martín Aimar (@maimar):
+uh
+17:07:06 - Martín Aimar (@maimar):
+entonces le agrego reviews a los pr
+17:07:41 - Julian (@jantonielli01):
+pero un force push no está necesariamente mal
+17:07:50 - Martín Aimar (@maimar):
+me imagino
+17:08:04 - Martín Aimar (@maimar):
+pero supongo que debería haber una justificación también
+17:08:07 - Julian (@jantonielli01):
+Si cambias la historia no te va a dejar mergear, hagas un fp o nó
+17:08:39 - Julian (@jantonielli01):
+Ej, manqueo en un commit: `git commit -m "mi commit"; git push`
+17:08:59 - Julian (@jantonielli01):
+lo arreglo `git commit --amend --no-edit` =&gt; no puedo pushear sin force
+17:09:46 - Julian (@jantonielli01):
+Ahí está 100% ok tirar un `git push -f`
+17:09:56 - Juan Scolari (@juanscolari):
+ni
+17:10:03 - Martín Aimar (@maimar):
+nunca tuve que usar force con amend
+17:10:10 - Juan Scolari (@juanscolari):
+porque si otro se bajo el repo y no lo arreglas al toque va a tener conflicto
+17:10:29 - Julian (@jantonielli01):
+Capaz no pusheaste antes de amendear : p
+17:10:31 - Julian (@jantonielli01):
+Seh
+17:10:47 - Martín Aimar (@maimar):
+ahh ahora te entiendo
+17:11:08 - Martín Aimar (@maimar):
+pero ahí no deberías tirar amend :stuck_out_tongue:
+17:16:55 - Martin Bavio (@mbavio):
+borre el no porque si se puede jaja
+17:30:36 - Juan Scolari (@juanscolari):
+yo ya no se, se los dejo a los que saben aca :smile:
+17:40:10 - Tomás Sevillano (@tsevillano):
+igual si re escribiste parte de la historia te dice que estas behind y no podes mergear
+17:40:44 - Julian (@jantonielli01):
+:point_up_2::skin-tone-2::point_up_2::skin-tone-2:
+17:40:56 - Julian (@jantonielli01):
+No tiene que ver con force pushear 
+17:40:59 - Gonza Gluzman (@gonza):
+La historia la escriben los que ganan
+17:41:13 - Julian (@jantonielli01):
+La historia la escriben los miners 
+17:41:15 - Julian (@jantonielli01):
+Arre
+17:41:18 - Rodrigo Ali (@rodrigojali):
+_ - Margarita Stolbizer _
+17:42:03 - Tomás Sevillano (@tsevillano):
+igual si pusheaste un commit "malo" deberias hacer otro commit con el arreglo y no hacer un force
+17:43:41 - Gonza Gluzman (@gonza):
+Salvo que te hayas mandado una más grande
+17:43:46 - Gonza Gluzman (@gonza):
+Como subir un secreto
+17:43:58 - Gonza Gluzman (@gonza):
+O un `console.log('tu vieja')`
+17:44:04 - Gonza Gluzman (@gonza):
+O algo así
+17:44:24 - Julian (@jantonielli01):
+Nosotros tuvimos uno así por meses 
+17:44:38 - Julian (@jantonielli01):
+Hasta que lo vio alguien de pedo 
+17:47:22 - Tomás Sevillano (@tsevillano):
+:joy:
+17:47:30 - Tomás Sevillano (@tsevillano):
+eso tiene que llegar a prod
+17:49:04 - Gonza Gluzman (@gonza):
+`mi vieja mula ya no es lo que era`
