@@ -1,0 +1,496 @@
+23:56:31 - Federico A. Sawady O'Connor (@sawady.faso):
+habrá algún país tipo que te vas y no te dicen nada y vivis freelo como un campeon?
+23:56:32 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja
+23:56:41 - Federico A. Sawady O'Connor (@sawady.faso):
+Antigua y Barbuda, allá vamos
+09:57:09 - Marcos Casagrande (@marcoscvp90):
+Vivís en él, acá entra cualquiera y no te dicen nada
+10:26:13 - Martin Bavio (@mbavio):
+:point_up_2:
+11:09:40 - Santiago Ruffino (@santi_0898):
+Alguien de aca usa Toggl?
+11:11:33 - Federico A. Sawady O'Connor (@sawady.faso):
+jajaj tenés razón
+11:12:53 - Martín Aimar (@maimar):
+lo usaba hasta que le dije a mi empleador que no lo iba a usar más
+11:13:29 - Santiago Ruffino (@santi_0898):
+Pero lo usabas como empleado?
+11:13:36 - Martín Aimar (@maimar):
+si
+11:13:56 - Santiago Ruffino (@santi_0898):
+Tengo que empezar a ver los tiempos que demoran las otras areas. Yo sreia el "supervisor"
+11:14:00 - Martín Aimar (@maimar):
+para contar el tiempo que me llevaban las tareas
+11:14:01 - Martin Carrera (@mcarrera):
+creo q esta bueno para uso personal, o para acomodarte y frilancear
+11:14:55 - Santiago Ruffino (@santi_0898):
+Yo por mi cuenta, lo uso
+11:15:27 - Santiago Ruffino (@santi_0898):
+Pero ahora necesito incorporarlo a un equipo de trabajo
+11:16:01 - Martin Carrera (@mcarrera):
+no soy fanatico del control de horas a otras personas
+11:16:45 - Santiago Ruffino (@santi_0898):
+Yo tampoco, incluso puede ser contraproducente
+11:17:05 - Santiago Ruffino (@santi_0898):
+Pero tengo que analizar procesos de la empresa, para ver que automatizar
+11:17:21 - Santiago Ruffino (@santi_0898):
+(Con suerte, me cambio de trabajo antes de que pueda medir algo)
+11:29:34 - Marcos Casagrande (@marcoscvp90):
+Yo lo uso, pero como freelance, para ver que tan rentable me salen las tareas, y para no laburar de mas algún que otro mes. En relación de dependencia me rompería las bolas.
+
+Pero me gusta bastante la verdad, no sé si hay algo mejor, pero estoy muy conforme.
+11:30:01 - Marcos Casagrande (@marcoscvp90):
+Sé que tiene una opción para "teams", no lo probé eso la verdad.
+11:32:28 - Santiago Ruffino (@santi_0898):
+Claro, eso es lo que estoy probando. La parte de teams
+11:32:55 - Santiago Ruffino (@santi_0898):
+Igual, repito. No es para controlar. Es para detectar procesos largos y que podriam optimizarse. Esto no lo tengo que relevar a mis superiores ni nadie. Queda para mi
+11:40:13 - Martin Bavio (@mbavio):
+yo uso Toggl para llevar mi tiempo laboral, <@U9KMYNJMV>
+11:43:48 - Micael Robles (@micaelrobles):
+yo lo use como empleado trabajando en una oficina jajaja
+11:44:11 - Micael Robles (@micaelrobles):
+tenia sentido segun mis jefes igual, eran las horas que le terminaban facturando al cliente
+11:45:01 - Micael Robles (@micaelrobles):
+y no lo usaba tipo timer, escribía las horas al final del dia y las submiteaba 1 vez por semana
+11:45:06 - Martin Bavio (@mbavio):
+lo lindo es que cuando lo haces con conciencia
+11:45:11 - Luis Alvarez (@luistensai):
+yo lo uso, está bastante bueno, tengo un script que me hice para llenar la timesheet que me exigen jaja
+11:45:13 - Martin Bavio (@mbavio):
+despues podes sacar todas las metricas de tu tiempo
+11:45:27 - Martin Bavio (@mbavio):
+y que no se te pase la vida entre incendio e incendio
+11:46:03 - Martin Carrera (@mcarrera):
+igual, escribir las horas al final del dia termina siendo medio contraproducente tambien
+11:46:06 - Martin Carrera (@mcarrera):
+a mi juicio
+11:46:25 - Martin Carrera (@mcarrera):
+terminas dibujando bastante
+11:46:29 - Martin Carrera (@mcarrera):
+o trabajando como exclavo
+11:46:29 - Martin Bavio (@mbavio):
+luego podes obsesionarte con el tiempo de tu vida como este flaco: <http://feltron.com/FAR14.html>
+11:46:35 - Micael Robles (@micaelrobles):
+si,.. era algo _aproximado_
+11:46:55 - Martín Aimar (@maimar):
+a mi me re embola
+11:47:18 - Martín Aimar (@maimar):
+le dije “estoy todo el día trabajando en cosas tuyas, no quiero contar más el tiempo”
+11:47:22 - Martín Aimar (@maimar):
+y chau
+11:47:29 - Martin Bavio (@mbavio):
+si, hacerlo para otro es una paja
+11:47:37 - Martin Carrera (@mcarrera):
+por eso de nuevo, para mi sirve si lo usas vos solo
+11:47:39 - Martin Carrera (@mcarrera):
+o para frilancear
+11:47:43 - Martin Carrera (@mcarrera):
+o para tu vida personal
+11:47:52 - Martin Carrera (@mcarrera):
+y para hacer retrospectiva de cuanto time productivo tenes
+11:47:53 - Micael Robles (@micaelrobles):
+llegaba el final de la semana y me di cuenta que no habia puesto las horas en ningun dia
+11:47:56 - Micael Robles (@micaelrobles):
+tenia que dibujarlo todo
+11:48:17 - Martin Bavio (@mbavio):
+igual, me gustaria conocer al freelo que nunca haya dibujado tiempo
+11:48:23 - Martin Carrera (@mcarrera):
+dibujas
+11:48:29 - Martin Bavio (@mbavio):
+seria como conocer a Pitagoras
+11:48:29 - Martin Carrera (@mcarrera):
+pero a conciencia de cuanto te llevo realmente :joy:
+11:48:40 - Martín Aimar (@maimar):
+al filo de las cuestiones de privacidad, si de alguna manera pudiera ver cuánto tiempo tuvo el foco cada ventana creo que eso me serviría más
+12:09:18 - Matias Garat Ortiz (@matiasgaratortiz):
+hay un par de apps para Pomodoro que te dan esa info... al igual que las dietas, siempre los lunes voy a arrancar con eso para ver como se gasta el tiempo y me dura solo hasta el martes... luego ya me olvide...
+14:31:48 - Lupe (@lportias):
+por mas $$???
+14:34:28 - Lupe (@lportias):
+No se si es lo mismo, pero ya van varias emrpesas en las que estuve que usan jira... y tenes que cargar las estimaciones por tarea y despues lo que te lleva realmente esa  tarea...
+14:35:01 - Lupe (@lportias):
+al principio me tuve que poner una alarma al final del dia para cargar las horas, pero ahora es medio automatico...
+14:36:22 - Lupe (@lportias):
+el embole es cuando te exigen que carges las 8 horas laborales y no quieren que cargues los "tiempos muertos"... asi que t enes que empezar a inflar los tiempos de las tareas para llegar a las 8 horas...
+14:37:30 - Martín Aimar (@maimar):
+bottom line, contar el tiempo es siempre cualquiera
+14:38:16 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+me paso exactamente igual <@UHQ6V863F>, alto embole,, al menos teniamos un ticket donde todos cargabamos el tiempo de los scrum rituals.
+14:42:16 - Luis Alvarez (@luistensai):
+not everything can be measured and not everything that can be measured counts
+14:43:40 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+decile eso a los PMs que tienen que elevar reportes <@U09SB6K5H>
+14:44:10 - Luis Alvarez (@luistensai):
+sí, hoy por hoy no me queda otra que usar toggl y al final de la semana correr un script que levante un csv
+14:44:13 - Luis Alvarez (@luistensai):
+es lo que estoy haciendo
+14:44:29 - Luis Alvarez (@luistensai):
+lo charlé, no hay caso
+14:44:51 - Luis Alvarez (@luistensai):
+les encanta el micromanagement y no saben cómo solucionar cosas, entonces es mejor ponerle más laburo a los de abajo jaja
+14:45:16 - Luis Alvarez (@luistensai):
+porque desde que tenemos timesheets nunca hicimos ningún cambio y sigue todo igual :man-shrugging:
+14:48:25 - Martín Aimar (@maimar):
+lo que pasa es que el cambio está en uno
+15:05:36 - Lupe (@lportias):
+por suerte ahora tengo un Lider que entiende que hay tiempos de reunion o de rotura de ambientes que no se cargan, asi que no me exige que tenga las 8 horas por dia
+15:06:01 - Lupe (@lportias):
+pero si, es un embole cuando tenes un supervisor que no entiende los rituales de scrum y los tiempos muertos
+15:06:29 - Martín Aimar (@maimar):
+te mata la rotura de ambientes
+15:12:35 - Luis Alvarez (@luistensai):
+yo entiendo que hay que anotarlos todos esos tiempos también
+15:12:41 - Luis Alvarez (@luistensai):
+como overhead por ejemplo
+15:13:12 - Luis Alvarez (@luistensai):
+o meetings, como quieras verlo
+23:56:31 - Federico A. Sawady O'Connor (@sawady.faso):
+habrá algún país tipo que te vas y no te dicen nada y vivis freelo como un campeon?
+23:56:32 - Federico A. Sawady O'Connor (@sawady.faso):
+jaja
+23:56:41 - Federico A. Sawady O'Connor (@sawady.faso):
+Antigua y Barbuda, allá vamos
+09:57:09 - Marcos Casagrande (@marcoscvp90):
+Vivís en él, acá entra cualquiera y no te dicen nada
+10:26:13 - Martin Bavio (@mbavio):
+:point_up_2:
+11:09:40 - Santiago Ruffino (@santi_0898):
+Alguien de aca usa Toggl?
+11:11:33 - Federico A. Sawady O'Connor (@sawady.faso):
+jajaj tenés razón
+11:12:53 - Martín Aimar (@maimar):
+lo usaba hasta que le dije a mi empleador que no lo iba a usar más
+11:13:29 - Santiago Ruffino (@santi_0898):
+Pero lo usabas como empleado?
+11:13:36 - Martín Aimar (@maimar):
+si
+11:13:56 - Santiago Ruffino (@santi_0898):
+Tengo que empezar a ver los tiempos que demoran las otras areas. Yo sreia el "supervisor"
+11:14:00 - Martín Aimar (@maimar):
+para contar el tiempo que me llevaban las tareas
+11:14:01 - Martin Carrera (@mcarrera):
+creo q esta bueno para uso personal, o para acomodarte y frilancear
+11:14:55 - Santiago Ruffino (@santi_0898):
+Yo por mi cuenta, lo uso
+11:15:27 - Santiago Ruffino (@santi_0898):
+Pero ahora necesito incorporarlo a un equipo de trabajo
+11:16:01 - Martin Carrera (@mcarrera):
+no soy fanatico del control de horas a otras personas
+11:16:45 - Santiago Ruffino (@santi_0898):
+Yo tampoco, incluso puede ser contraproducente
+11:17:05 - Santiago Ruffino (@santi_0898):
+Pero tengo que analizar procesos de la empresa, para ver que automatizar
+11:17:21 - Santiago Ruffino (@santi_0898):
+(Con suerte, me cambio de trabajo antes de que pueda medir algo)
+11:29:34 - Marcos Casagrande (@marcoscvp90):
+Yo lo uso, pero como freelance, para ver que tan rentable me salen las tareas, y para no laburar de mas algún que otro mes. En relación de dependencia me rompería las bolas.
+
+Pero me gusta bastante la verdad, no sé si hay algo mejor, pero estoy muy conforme.
+11:30:01 - Marcos Casagrande (@marcoscvp90):
+Sé que tiene una opción para "teams", no lo probé eso la verdad.
+11:32:28 - Santiago Ruffino (@santi_0898):
+Claro, eso es lo que estoy probando. La parte de teams
+11:32:55 - Santiago Ruffino (@santi_0898):
+Igual, repito. No es para controlar. Es para detectar procesos largos y que podriam optimizarse. Esto no lo tengo que relevar a mis superiores ni nadie. Queda para mi
+11:40:13 - Martin Bavio (@mbavio):
+yo uso Toggl para llevar mi tiempo laboral, <@U9KMYNJMV>
+11:43:48 - Micael Robles (@micaelrobles):
+yo lo use como empleado trabajando en una oficina jajaja
+11:44:11 - Micael Robles (@micaelrobles):
+tenia sentido segun mis jefes igual, eran las horas que le terminaban facturando al cliente
+11:45:01 - Micael Robles (@micaelrobles):
+y no lo usaba tipo timer, escribía las horas al final del dia y las submiteaba 1 vez por semana
+11:45:06 - Martin Bavio (@mbavio):
+lo lindo es que cuando lo haces con conciencia
+11:45:11 - Luis Alvarez (@luistensai):
+yo lo uso, está bastante bueno, tengo un script que me hice para llenar la timesheet que me exigen jaja
+11:45:13 - Martin Bavio (@mbavio):
+despues podes sacar todas las metricas de tu tiempo
+11:45:27 - Martin Bavio (@mbavio):
+y que no se te pase la vida entre incendio e incendio
+11:46:03 - Martin Carrera (@mcarrera):
+igual, escribir las horas al final del dia termina siendo medio contraproducente tambien
+11:46:06 - Martin Carrera (@mcarrera):
+a mi juicio
+11:46:25 - Martin Carrera (@mcarrera):
+terminas dibujando bastante
+11:46:29 - Martin Carrera (@mcarrera):
+o trabajando como exclavo
+11:46:29 - Martin Bavio (@mbavio):
+luego podes obsesionarte con el tiempo de tu vida como este flaco: <http://feltron.com/FAR14.html>
+11:46:35 - Micael Robles (@micaelrobles):
+si,.. era algo _aproximado_
+11:46:55 - Martín Aimar (@maimar):
+a mi me re embola
+11:47:18 - Martín Aimar (@maimar):
+le dije “estoy todo el día trabajando en cosas tuyas, no quiero contar más el tiempo”
+11:47:22 - Martín Aimar (@maimar):
+y chau
+11:47:29 - Martin Bavio (@mbavio):
+si, hacerlo para otro es una paja
+11:47:37 - Martin Carrera (@mcarrera):
+por eso de nuevo, para mi sirve si lo usas vos solo
+11:47:39 - Martin Carrera (@mcarrera):
+o para frilancear
+11:47:43 - Martin Carrera (@mcarrera):
+o para tu vida personal
+11:47:52 - Martin Carrera (@mcarrera):
+y para hacer retrospectiva de cuanto time productivo tenes
+11:47:53 - Micael Robles (@micaelrobles):
+llegaba el final de la semana y me di cuenta que no habia puesto las horas en ningun dia
+11:47:56 - Micael Robles (@micaelrobles):
+tenia que dibujarlo todo
+11:48:17 - Martin Bavio (@mbavio):
+igual, me gustaria conocer al freelo que nunca haya dibujado tiempo
+11:48:23 - Martin Carrera (@mcarrera):
+dibujas
+11:48:29 - Martin Bavio (@mbavio):
+seria como conocer a Pitagoras
+11:48:29 - Martin Carrera (@mcarrera):
+pero a conciencia de cuanto te llevo realmente :joy:
+11:48:40 - Martín Aimar (@maimar):
+al filo de las cuestiones de privacidad, si de alguna manera pudiera ver cuánto tiempo tuvo el foco cada ventana creo que eso me serviría más
+12:09:18 - Matias Garat Ortiz (@matiasgaratortiz):
+hay un par de apps para Pomodoro que te dan esa info... al igual que las dietas, siempre los lunes voy a arrancar con eso para ver como se gasta el tiempo y me dura solo hasta el martes... luego ya me olvide...
+14:31:48 - Lupe (@lportias):
+por mas $$???
+14:34:28 - Lupe (@lportias):
+No se si es lo mismo, pero ya van varias emrpesas en las que estuve que usan jira... y tenes que cargar las estimaciones por tarea y despues lo que te lleva realmente esa  tarea...
+14:35:01 - Lupe (@lportias):
+al principio me tuve que poner una alarma al final del dia para cargar las horas, pero ahora es medio automatico...
+14:36:22 - Lupe (@lportias):
+el embole es cuando te exigen que carges las 8 horas laborales y no quieren que cargues los "tiempos muertos"... asi que t enes que empezar a inflar los tiempos de las tareas para llegar a las 8 horas...
+14:37:30 - Martín Aimar (@maimar):
+bottom line, contar el tiempo es siempre cualquiera
+14:38:16 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+me paso exactamente igual <@UHQ6V863F>, alto embole,, al menos teniamos un ticket donde todos cargabamos el tiempo de los scrum rituals.
+14:42:16 - Luis Alvarez (@luistensai):
+not everything can be measured and not everything that can be measured counts
+14:43:40 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+decile eso a los PMs que tienen que elevar reportes <@U09SB6K5H>
+14:44:10 - Luis Alvarez (@luistensai):
+sí, hoy por hoy no me queda otra que usar toggl y al final de la semana correr un script que levante un csv
+14:44:13 - Luis Alvarez (@luistensai):
+es lo que estoy haciendo
+14:44:29 - Luis Alvarez (@luistensai):
+lo charlé, no hay caso
+14:44:51 - Luis Alvarez (@luistensai):
+les encanta el micromanagement y no saben cómo solucionar cosas, entonces es mejor ponerle más laburo a los de abajo jaja
+14:45:16 - Luis Alvarez (@luistensai):
+porque desde que tenemos timesheets nunca hicimos ningún cambio y sigue todo igual :man-shrugging:
+14:48:25 - Martín Aimar (@maimar):
+lo que pasa es que el cambio está en uno
+15:05:36 - Lupe (@lportias):
+por suerte ahora tengo un Lider que entiende que hay tiempos de reunion o de rotura de ambientes que no se cargan, asi que no me exige que tenga las 8 horas por dia
+15:06:01 - Lupe (@lportias):
+pero si, es un embole cuando tenes un supervisor que no entiende los rituales de scrum y los tiempos muertos
+15:06:29 - Martín Aimar (@maimar):
+te mata la rotura de ambientes
+15:12:35 - Luis Alvarez (@luistensai):
+yo entiendo que hay que anotarlos todos esos tiempos también
+15:12:41 - Luis Alvarez (@luistensai):
+como overhead por ejemplo
+15:13:12 - Luis Alvarez (@luistensai):
+o meetings, como quieras verlo
+15:13:23 - Martín Aimar (@maimar):
+en otro lado cuando había una llamada nos decían que anotemos el tiempo de la llamada en la tarea
+15:29:17 - Juan Bono (@juanbono):
+Que es tiempo de rotura de ambientes?
+15:31:28 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+nosotros pasamos de registrar estrictamente las 8 horas por dia a 6, y se entendia que las restantes 2 se iban en meetings varias, pero a los efectos de los reportes, creo que tambien esta bueno que tengas registrado cuanto tiempo te costo desarrollar X feature, es mucho mas real que los puntos
+15:31:51 - Jeremias Gibilbank (@jeremias.gibilbank):
+en mi laburo te piden que cargues las horas para ver cuanto se le dedica a cada proyecto, me hacia falta una tool porque soy mega desordenado, voy a probar toggl
+15:32:26 - Martín Aimar (@maimar):
+lo peor de toggl es olvidarte de apagarlo
+15:32:49 - Gonza Gluzman (@gonza):
+Si me habrá pasado!
+15:33:20 - Gonza Gluzman (@gonza):
+Después te llega el email, “te dejaste toggl prendido”
+15:33:30 - Jeremias Gibilbank (@jeremias.gibilbank):
+jajaja lpmm, ya me pasara
+15:33:45 - Jeremias Gibilbank (@jeremias.gibilbank):
+se pueden editar a manopla las sesiones despues?
+15:33:49 - Martín Aimar (@maimar):
+si
+15:34:10 - Martín Aimar (@maimar):
+podés continuar una tarea anterior también
+15:34:45 - Jeremias Gibilbank (@jeremias.gibilbank):
+ahi me baje la app desktop de windows, tiene mini ventanita flotante always on top, me cabe
+15:34:55 - Hernan Rajchert (@sherman):
+Yo lo uso personalmente 
+15:35:00 - Martín Aimar (@maimar):
+también extensión de chrome
+16:23:42 - Lupe (@lportias):
+nunca se te rompió un ambiente y estuviste 3 horas reinstalando todo? en mi laburo anterior, cada vez que Magento actualizaba algo se te rompia todo... y ahora hay un pelotudo que cada vez que pushea un branch rompe todo el repo.. asi que perdes tiempo en arreglar esas cagadas que se manda el...
+16:24:02 - Lupe (@lportias):
+listo, me paso a rant.. jejee
+16:24:26 - Martín Aimar (@maimar):
+ahh nada que ver, yo estaba pensando en algo como que estabas súper enchufado codeando y venía alguien a joder y eso te “rompía el ambiente”
+16:25:28 - Lupe (@lportias):
+no.. eso se soluciona con un simple "callate".. :joy:
+16:26:32 - Juan Scolari (@juanscolari):
+se soluciona echandolo (?
+16:27:38 - Lupe (@lportias):
+jajaja, seria lo logico... pero se esta haciendo desear...
+16:28:06 - Jeremias Gibilbank (@jeremias.gibilbank):
+aca nos mudamos a open office y eso de las interrupciones nos esta matando, no podemos hacer entender al resto que los devs necesitan una cueva aislada
+16:37:32 - Julian (@jantonielli01):
+que bajon la open office
+16:37:36 - Julian (@jantonielli01):
+sorry pero manquearon : p
+16:38:53 - Santiago Ruffino (@santi_0898):
+Muertes al open office
+16:39:22 - Martín Aimar (@maimar):
+qué es open office?
+16:39:27 - Lupe (@lportias):
+yo vengo trabajando en open office hace años... ya ni me doy cuenta de la diferencia
+16:39:41 - Marcos Casagrande (@marcoscvp90):
+La versión gratuita de windows office :trollface:
+16:39:45 - Julian (@jantonielli01):
+<@UC1QYJACE> mesitas sin paredes
+16:39:59 - Julian (@jantonielli01):
+donde te fumas todo el día el ruido de los demas
+16:40:00 - Martín Aimar (@maimar):
+onda un hangar
+16:40:13 - Julian (@jantonielli01):
+seh
+16:40:26 - Martín Aimar (@maimar):
+qué moderno
+16:40:39 - Julian (@jantonielli01):
+es una retrasades total
+16:40:44 - Julian (@jantonielli01):
+lo unico q hace es bajar costo de alquiler
+16:40:58 - Julian (@jantonielli01):
+pero ya esta re mil verificado que es una mierda para productividad y demas
+16:41:15 - Martin Carrera (@mcarrera):
+capaz este bueno en otros rubros
+16:41:27 - Martin Carrera (@mcarrera):
+donde necesites colaboracion o no concentrarte :stuck_out_tongue_winking_eye:
+16:41:42 - Martín Aimar (@maimar):
+la cocina de un restaurant
+16:44:13 - Martin Bavio (@mbavio):
+solo esta bueno si es un loft, estas soltero y es tu vivienda
+16:50:55 - Juan Bono (@juanbono):
+Ahh sisi me pasó :( . No se me prendió la lamparita de qué era eso jajaja
+16:56:06 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+banco el open office con separaciones de media altura formando islas, he estado en algunas que son mas tranquilas que biblioteca un domingo, pero la gente tiene mucho que ver
+16:56:42 - Rodrigo Juarez (@rjuarez):
+si no tenes meeting rooms o algún lugar donde te rompan los huevos debe ser infierno
+16:57:06 - Rodrigo Juarez (@rjuarez):
+la que hago es reservar meeting rooms e ir switcheando
+17:00:25 - Lupe (@lportias):
+si, tembien hay que tener lugares de esparcimiento si tenes una open office...
+17:01:19 - Lupe (@lportias):
+en una de las emrpesas en las que estuve, se armaban lo que yo llamaba reuniones de consorcio y varias veces las armaron al lado de mi escritorio cuando yo tenia una entrega urgente...
+17:03:17 - Lupe (@lportias):
+una vez me tuve que acercar a los chicos y pedirles que se fueran a otro lado... obvio que me trataron de mala onda, lo mas gracioso es que entre ellos estaba el PO que me venia apurando con la entrega... asi que lo mire y le dije "queres que te entregue esto hoy o no?" y ahi se hizo cargo y se los llevo a la terraza
+17:03:21 - Lupe (@lportias):
+:joy:
+17:16:09 - Jeremias Gibilbank (@jeremias.gibilbank):
+Claro aca tenemos separaciones con muebles y salas de meetings, la cagada es que estamos con un lugar de paso cerca, y sin querer joderte (pero lo hacen) te piden/consultan algo
+17:29:53 - Pablo Mescher (@pablomescher):
+Yo siempre laburé en open office o desde casa
+17:29:57 - Pablo Mescher (@pablomescher):
+asi que no tengo con qué comparar
+17:30:42 - Pablo Mescher (@pablomescher):
+lo peor fue cuando laburé en open office _con un call center atrás_
+17:31:43 - Alejandro Nagy (@nagy.alejandro):
+Yo labure en Call Center
+17:31:55 - Alejandro Nagy (@nagy.alejandro):
+no se lo recomiendo a nadie :stuck_out_tongue:
+17:33:58 - Santiago Ruffino (@santi_0898):
+Yo laburo Open office. Donde el vendedor esta al lado mio llamando por telefono
+17:34:08 - Santiago Ruffino (@santi_0898):
+La administrativa al frente, intentando cobrar a los clientes
+17:34:23 - Santiago Ruffino (@santi_0898):
+Y a 5 metros, los optimizadores que hablan por telefono con los clientes y entre ellos
+17:34:53 - Martín Aimar (@maimar):
+yo laburo en un café que ponen la misma playlist de 10 temas durante todo el día
+17:34:57 - Gonza Gluzman (@gonza):
+Santi, si crees en la reencarnación, en la próxima vida vas a cansarte de triunfar
+17:36:12 - Santiago Ruffino (@santi_0898):
+Nooo, nada peor que la misma playlist. Nosotros tenemos una radio, y yo le doy masa a mi Spotify
+17:36:24 - Santiago Ruffino (@santi_0898):
+Debo haber sido muy hijo de puta para laburar asi ahora
+17:38:28 - Luis Alvarez (@luistensai):
+en un sótano, te faltó ese detalle :joy:
+17:39:16 - Gonza Gluzman (@gonza):
+Seguro que te tomabas toda la coca del fernet
+17:39:51 - Gonza Gluzman (@gonza):
+O que viajabas en el bondi lleno con la mochila en la espalda
+17:39:54 - Rodrigo Ali (@rodrigojali):
+Yo por suerte clavo auris y me olvido.
+17:40:14 - Rodrigo Ali (@rodrigojali):
+Ahora estoy en coworking openoffice y antes estuve en ofis de empresas y siempre clavo auris
+17:41:39 - Luis Alvarez (@luistensai):
+lo que pasa es que había un par en el call center que tenían un timbre y tono de voz, que con auris y todo los escuchabas a 50 mts
+17:42:15 - Rodrigo Ali (@rodrigojali):
+Heavy
+17:44:06 - Martín Aimar (@maimar):
+Pero auris con ANC y listo
+17:44:54 - Luis Alvarez (@luistensai):
+pagaraprata
+17:49:54 - Martin Bavio (@mbavio):
+igual <@U9KMYNJMV>, lo que te esta pasando se llama derecho de piso. Todos, en mayor o menor medida, lo hemos tenido que pagar.
+17:50:16 - Rodrigo Ali (@rodrigojali):
+Santi se viene pagando un edificio entero entonces.
+17:50:23 - Martin Bavio (@mbavio):
+Yo mis dos primeros laburos remotos confiaban tan poco en mi que me sacaban screenshots cada 5 minutos y laburaba en horario de Australia con 8 locos de Singapur
+17:50:32 - Martin Bavio (@mbavio):
+habia un yanqui que nos tenia recagando a todos
+17:51:03 - Santiago Ruffino (@santi_0898):
+Porque estaria pagando derecho de piso? Sin intencion de hacer bardo
+17:51:13 - Martin Bavio (@mbavio):
+porque son tus primeras armas en el rubro
+17:51:25 - Martin Bavio (@mbavio):
+a medida que vayas ganando experiencia y mas trabajos previos
+17:51:35 - Martin Bavio (@mbavio):
+si seguis manteniendo esa capacidad de trabajar duro y adaptarte
+17:51:39 - Martin Bavio (@mbavio):
+tu situacion va a ir cambiando
+17:52:41 - Martin Bavio (@mbavio):
+es medio como algo que aplica a todos, son pocos los iluminados que de arranque pueden tener una posicion de privilegio y confort
+17:54:20 - Santiago Ruffino (@santi_0898):
+Ahhh, bien. Pense que era derecho de piso en la empresa
+17:55:27 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> es un bajon igual que siempre sea asi, que al junior lo exploten y hasta pongan en riesgo su dignidad. Se podria ser mas cordial y humano en el trato de aquel que esta haciendo sus primeras armas.
+17:55:45 - Gonza Gluzman (@gonza):
+En la medicina pasa zarpado eso
+17:55:52 - Gonza Gluzman (@gonza):
+A los residentes los tienen cagando fuego
+17:56:04 - Martin Bavio (@mbavio):
+Por uno como vos que aguanta hasta conseguir otra cosa mejor, debe haber 10 que abandonan por la tristeza que esto les genera y se van a hacer otra cosa.
+17:56:16 - Martin Bavio (@mbavio):
+La medicina esta rota. (?)
+17:57:25 - Santiago Ruffino (@santi_0898):
+Obvio. Igual, lo dije muchas veces
+17:57:28 - Santiago Ruffino (@santi_0898):
+No todo es malo
+17:58:14 - Martin Bavio (@mbavio):
+Y no, te da de comer y te pagan para aprender. Eso esta bueno.
+17:59:32 - Santiago Ruffino (@santi_0898):
+Mi problema principalmente es que al ser el primer empleado en tecnologia, y mi jefe tener un problema personal con los programadores, no es una buena combinacion
+18:00:10 - Santiago Ruffino (@santi_0898):
+Cuesta hacer entender que a veces necesito concentrarme para codear, y eso implica ponerme auriculares o estar solo en una oficina. Y tengo que salir del quilombo
+18:01:27 - Martin Bavio (@mbavio):
+lo bueno es que cuando tengas esas cosas
+18:01:31 - Martin Bavio (@mbavio):
+vas a estar en el cielo
+18:01:49 - Martin Bavio (@mbavio):
+y las vas a valorar mas que otros que ya lo tienen desde su primer trabajo
+18:02:46 - Santiago Ruffino (@santi_0898):
+Obvio. Aca hablan de Home Office como si nada, y yo cuando lo pedi me dijeron que no
+18:02:54 - Santiago Ruffino (@santi_0898):
+Voy a ser mas agradecido con la vida ?)
+18:04:45 - Martin Bavio (@mbavio):
+bueno, pero ese como si nada tiene un camino previo, a eso me refiero.
+18:05:07 - Martin Bavio (@mbavio):
+yo hablo como si nada del home office, pero tambien las tuve que pagar hace 15 años
+18:05:23 - Martin Bavio (@mbavio):
+haciendo splash pages en flash para torneos de futbol y cosas asi sin dignidad alguna
+18:20:17 - Lupe (@lportias):
+yo estuve años sin HO… ahora es algo muchisimo mas comun
+18:40:08 - Dario Fernando (@someunderscore_):
+Y comía empanadas en frasco
