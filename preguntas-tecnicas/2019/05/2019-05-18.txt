@@ -1,0 +1,362 @@
+21:20:50 - Santiago Ruffino (@santi_0898):
+Hola gente! Se que es tarde, pero bueno. Me la juego. Alguien que tenga un poco de maña en PHP?
+21:21:25 - Santiago Ruffino (@santi_0898):
+Necesito hacer un dropdown con elementos que traigo de una API. Pero me esta poniendo solo el primer elemento dentro del dropdown, y el resto lo muestra afuera. Debe ser una gilada, pero no lo se
+21:21:26 - Santiago Ruffino (@santi_0898):
+e
+21:25:51 - Marcos Casagrande (@marcoscvp90):
+Posteá el código a ver.
+21:26:03 - Santiago Ruffino (@santi_0898):
+``` &lt;?php
+
+$content = file_get_contents("<https://beta.id90travel.com/airlines>");
+$response = json_decode($content, true);
+
+echo "&lt;p&gt;Selecciona un hotel&lt;/p&gt;";
+echo "&lt;select name =\"section\" id =\"section\"&gt; 
+      &lt;option selected=\"selected\"&gt;Choose one&lt;/option&gt;";
+
+
+foreach ($response as &amp;$valor) {
+    $list_hotels = $valor["display_name"];
+//    echo $list_hotels;
+    echo "&lt;option value=".$list_hotels."&gt;".$list_hotels."&lt;/option&gt;";
+    echo"&lt;/select&gt;";
+}
+```
+21:26:23 - Santiago Ruffino (@santi_0898):
+`$list_hotels` ya tiene el string que necesito mostrar
+21:27:04 - Santiago Ruffino (@santi_0898):
+Ya esta, me lo solucionaron por privado
+21:27:11 - Santiago Ruffino (@santi_0898):
+Estoy cerrando el select apenas terminar la primera iteracion
+21:27:13 - Marcos Casagrande (@marcoscvp90):
+Poné `&lt;/select&gt;` fuera del forEach
+21:27:16 - Marcos Casagrande (@marcoscvp90):
+yep :slightly_smiling_face:
+21:27:16 - Santiago Ruffino (@santi_0898):
+:facepalm:
+21:27:24 - Santiago Ruffino (@santi_0898):
+Eso pasa por no pensar 2 segundos
+21:27:39 - Marcos Casagrande (@marcoscvp90):
+A veces tenés que preguntar para darte cuenta solo.
+21:27:54 - Santiago Ruffino (@santi_0898):
+Patito de hule pair programming
+21:30:27 - Santiago Ruffino (@santi_0898):
+Perdon, no dejo de joder ni en Slack un viernes a las 21:30
+21:30:28 - Santiago Ruffino (@santi_0898):
+Jajaja
+22:09:35 - Leandro Echevarria (@echevarrialeandro):
+Night! Le estoy dando vueltas de mas a algo muy sencillo, `overwhelming` ftw.
+Tengo una api sencilla hecha en node. NO existen ni existiran usuarios, una app en React va a consumir su data nada mas. Que estrategia de proteccion es adecuada aca? Mas que nada para que no se quieran pasar de verga cagando a trompadas los endpoints. Throttling no estoy seguro porque si refreshean seguido la pag no quiero putear por eso :thinking_face:
+22:10:45 - Leandro Echevarria (@echevarrialeandro):
+Y no es nada tramboliko la verdad para implementar una capa de cache or something (salvo que esta sea la estrategia de proteccion real)
+22:13:06 - Santiago Ruffino (@santi_0898):
+Limitar las peticiones por usuario en X periodo de tiempo?
+22:14:47 - Leandro Echevarria (@echevarrialeandro):
+No hay ni habra usuarios
+22:15:07 - Leandro Echevarria (@echevarrialeandro):
+Cualquiera entra a la web y ve la data. Simil a una landing pero con algun filtrito y no mucho mas
+22:15:35 - Leandro Echevarria (@echevarrialeandro):
+Pero acostumbrado a hacer apis protegidas, me agarro en el medio del campo este jaja
+22:30:29 - Julian (@jantonielli01):
+<https://stackoverflow.com/questions/32670016/protecting-express-js-server-from-brute-force>
+22:33:02 - Martin Gonzalez (@martin2786):
+En mi opinion una cosa es una api publica y la otra es una app publica, en tu caso queres una app publica pero no una api publica. esto quiere decir que tu front deberia pedir un token igual para conectar a la api. puede ser por un user configurado en un env o algo asi. Asi no te pueden cagar a palos los endpoint.
+22:34:04 - Leandro Echevarria (@echevarrialeandro):
+Pero el token se ve en el devtools en las requests. Lo agarras en 5 segundos :thinking_face:
+22:34:14 - Leandro Echevarria (@echevarrialeandro):
+Ty checking
+22:39:46 - Julian (@jantonielli01):
+La más fácil es poner un nginx con rate limiting 
+22:39:54 - Julian (@jantonielli01):
+Y arguably la mejor 
+22:40:05 - Julian (@jantonielli01):
+También podes meter un middleware de express 
+22:40:24 - Leandro Echevarria (@echevarrialeandro):
+Que diablos es el arguably?
+21:20:50 - Santiago Ruffino (@santi_0898):
+Hola gente! Se que es tarde, pero bueno. Me la juego. Alguien que tenga un poco de maña en PHP?
+21:21:25 - Santiago Ruffino (@santi_0898):
+Necesito hacer un dropdown con elementos que traigo de una API. Pero me esta poniendo solo el primer elemento dentro del dropdown, y el resto lo muestra afuera. Debe ser una gilada, pero no lo se
+21:21:26 - Santiago Ruffino (@santi_0898):
+e
+21:25:51 - Marcos Casagrande (@marcoscvp90):
+Posteá el código a ver.
+21:26:03 - Santiago Ruffino (@santi_0898):
+``` &lt;?php
+
+$content = file_get_contents("<https://beta.id90travel.com/airlines>");
+$response = json_decode($content, true);
+
+echo "&lt;p&gt;Selecciona un hotel&lt;/p&gt;";
+echo "&lt;select name =\"section\" id =\"section\"&gt; 
+      &lt;option selected=\"selected\"&gt;Choose one&lt;/option&gt;";
+
+
+foreach ($response as &amp;$valor) {
+    $list_hotels = $valor["display_name"];
+//    echo $list_hotels;
+    echo "&lt;option value=".$list_hotels."&gt;".$list_hotels."&lt;/option&gt;";
+    echo"&lt;/select&gt;";
+}
+```
+21:26:23 - Santiago Ruffino (@santi_0898):
+`$list_hotels` ya tiene el string que necesito mostrar
+21:27:04 - Santiago Ruffino (@santi_0898):
+Ya esta, me lo solucionaron por privado
+21:27:11 - Santiago Ruffino (@santi_0898):
+Estoy cerrando el select apenas terminar la primera iteracion
+21:27:13 - Marcos Casagrande (@marcoscvp90):
+Poné `&lt;/select&gt;` fuera del forEach
+21:27:16 - Marcos Casagrande (@marcoscvp90):
+yep :slightly_smiling_face:
+21:27:16 - Santiago Ruffino (@santi_0898):
+:facepalm:
+21:27:24 - Santiago Ruffino (@santi_0898):
+Eso pasa por no pensar 2 segundos
+21:27:39 - Marcos Casagrande (@marcoscvp90):
+A veces tenés que preguntar para darte cuenta solo.
+21:27:54 - Santiago Ruffino (@santi_0898):
+Patito de hule pair programming
+21:30:27 - Santiago Ruffino (@santi_0898):
+Perdon, no dejo de joder ni en Slack un viernes a las 21:30
+21:30:28 - Santiago Ruffino (@santi_0898):
+Jajaja
+22:09:35 - Leandro Echevarria (@echevarrialeandro):
+Night! Le estoy dando vueltas de mas a algo muy sencillo, `overwhelming` ftw.
+Tengo una api sencilla hecha en node. NO existen ni existiran usuarios, una app en React va a consumir su data nada mas. Que estrategia de proteccion es adecuada aca? Mas que nada para que no se quieran pasar de verga cagando a trompadas los endpoints. Throttling no estoy seguro porque si refreshean seguido la pag no quiero putear por eso :thinking_face:
+22:10:45 - Leandro Echevarria (@echevarrialeandro):
+Y no es nada tramboliko la verdad para implementar una capa de cache or something (salvo que esta sea la estrategia de proteccion real)
+22:13:06 - Santiago Ruffino (@santi_0898):
+Limitar las peticiones por usuario en X periodo de tiempo?
+22:14:47 - Leandro Echevarria (@echevarrialeandro):
+No hay ni habra usuarios
+22:15:07 - Leandro Echevarria (@echevarrialeandro):
+Cualquiera entra a la web y ve la data. Simil a una landing pero con algun filtrito y no mucho mas
+22:15:35 - Leandro Echevarria (@echevarrialeandro):
+Pero acostumbrado a hacer apis protegidas, me agarro en el medio del campo este jaja
+22:30:29 - Julian (@jantonielli01):
+<https://stackoverflow.com/questions/32670016/protecting-express-js-server-from-brute-force>
+22:33:02 - Martin Gonzalez (@martin2786):
+En mi opinion una cosa es una api publica y la otra es una app publica, en tu caso queres una app publica pero no una api publica. esto quiere decir que tu front deberia pedir un token igual para conectar a la api. puede ser por un user configurado en un env o algo asi. Asi no te pueden cagar a palos los endpoint.
+22:34:04 - Leandro Echevarria (@echevarrialeandro):
+Pero el token se ve en el devtools en las requests. Lo agarras en 5 segundos :thinking_face:
+22:34:14 - Leandro Echevarria (@echevarrialeandro):
+Ty checking
+22:39:46 - Julian (@jantonielli01):
+La más fácil es poner un nginx con rate limiting 
+22:39:54 - Julian (@jantonielli01):
+Y arguably la mejor 
+22:40:05 - Julian (@jantonielli01):
+También podes meter un middleware de express 
+22:40:24 - Leandro Echevarria (@echevarrialeandro):
+Que diablos es el arguably?
+22:40:34 - Leandro Echevarria (@echevarrialeandro):
+Si, justo estoy mirando middlewares ahora
+22:40:52 - Leandro Echevarria (@echevarrialeandro):
+A ver que onda. Todavia me falta para hacer la parte de React pero queria ir evaluando posibilidades
+22:41:21 - Julian (@jantonielli01):
+Discutiblemente 
+22:41:31 - Julian (@jantonielli01):
+Significa : p 
+22:42:17 - Leandro Echevarria (@echevarrialeandro):
+Ah que pelotudo, y eso que recien lllego de ingles jajaja
+22:43:08 - Julian (@jantonielli01):
+No hay drama papá 
+22:43:41 - Leandro Echevarria (@echevarrialeandro):
+Graciela por la data
+22:55:02 - Santiago Ruffino (@santi_0898):
+Molesto de nuevo yo
+22:55:33 - Santiago Ruffino (@santi_0898):
+Entiendo que en las lineas 36 y 39 estoy guardando en algo llamado "usuario" y "password" esos valores
+22:55:49 - Santiago Ruffino (@santi_0898):
+Como hago para "guardar" la opcion que esta en el select option?
+22:55:56 - Santiago Ruffino (@santi_0898):
+Tengo que agregarle un "value" en algun lado?
+22:58:08 - Leandro Echevarria (@echevarrialeandro):
+Ponele un value al &lt;option&gt; ahi mientras vas iterando
+22:58:58 - Santiago Ruffino (@santi_0898):
+```&lt;select class="form-control" id="sel1" value="airline"&gt;
+
+                &lt;?php
+                foreach ($response as &amp;$valor) {
+                    $list_hotels = $valor["display_name"];
+                    echo "&lt;option value='.$list_hotels.'&gt;".$list_hotels."&lt;/option&gt;";
+                }
+                ?&gt;
+                &lt;/select&gt;```
+22:59:32 - Leandro Echevarria (@echevarrialeandro):
+Yass
+22:59:53 - Julian (@jantonielli01):
+que haces laburando a esta hora chabon
+22:59:58 - Julian (@jantonielli01):
+anda de joda
+23:00:08 - Julian (@jantonielli01):
+a bailar el cuarteto o esas cosas raras de cordobes
+23:00:12 - Leandro Echevarria (@echevarrialeandro):
+Jajaj
+23:00:27 - Leandro Echevarria (@echevarrialeandro):
+Si esta laburando con una botella cortada con fernet lo podes perdonar
+23:00:41 - Santiago Ruffino (@santi_0898):
+Tengo una cerveza en la heladera esperandome. Y no es laburo, es una entrevista
+23:00:43 - Santiago Ruffino (@santi_0898):
+Je
+23:00:50 - Santiago Ruffino (@santi_0898):
+Por eso me importa tanto como para hacerlo a las 23
+23:00:57 - Santiago Ruffino (@santi_0898):
+Y ustedes que hacen en Slack a esta hora?
+23:01:12 - Leandro Echevarria (@echevarrialeandro):
+Donde te estas metiendo que usan php asi embebido todavia???????????????
+23:01:37 - Marcos Casagrande (@marcoscvp90):
+en lugar de `value=airline` sería `name="airline"`
+23:01:48 - Leandro Echevarria (@echevarrialeandro):
+Lo tengo abierto siempre jaja. Igual estoy hueveando con unas apis :shrug::skin-tone-4:
+23:01:51 - Leandro Echevarria (@echevarrialeandro):
+Tengo menos vida que una ameba
+23:02:01 - Julian (@jantonielli01):
+same, lo tengo abierto siempre
+23:02:03 - Marcos Casagrande (@marcoscvp90):
+Es para puesto junior la entrevista <@U9KMYNJMV>?
+23:02:12 - Julian (@jantonielli01):
+yo tuneando mi terminal como tremendo virgo
+23:02:18 - Julian (@jantonielli01):
+c'est la vie
+23:02:21 - Leandro Echevarria (@echevarrialeandro):
+SEEEEEE :fastparrot:
+23:02:44 - Marcos Casagrande (@marcoscvp90):
+Sino, no te conviene mezclar PHP y HTML.
+23:02:56 - Santiago Ruffino (@santi_0898):
+Es para un Jr, si
+23:03:00 - Santiago Ruffino (@santi_0898):
+No es la idea dejar todo mezclado
+23:03:03 - Marcos Casagrande (@marcoscvp90):
+Yo estoy integrando la API de stripe, una fiesta btw.
+23:03:04 - Leandro Echevarria (@echevarrialeandro):
+En estos dias le puse el Nord theme a todo. Ahora me queda configurar bien todos los hotkeys y demas pelotudeces. E instalar i3 en Linux y aprender a usar el chunkwm en la mac que no tengo ni puta idea.
+23:03:05 - Santiago Ruffino (@santi_0898):
+Quiero intentar usar las view despues
+23:03:13 - Santiago Ruffino (@santi_0898):
+Pero me interesa terminarlo, despues le pego una pulida
+23:03:17 - Leandro Echevarria (@echevarrialeandro):
+Nord Theme recomendadisimo btw
+23:03:30 - Marcos Casagrande (@marcoscvp90):
+joya, si es para jr, no está mal :slightly_smiling_face:
+23:03:48 - Marcos Casagrande (@marcoscvp90):
+Igual mejor si usás algun template engine, o simil.
+23:03:52 - Leandro Echevarria (@echevarrialeandro):
+<https://www.nordtheme.com/>
+23:04:03 - Julian (@jantonielli01):
+Ah, yo tengo un theme asqueroso
+23:04:12 - Santiago Ruffino (@santi_0898):
+No me dejan usar frameworks
+23:04:15 - Leandro Echevarria (@echevarrialeandro):
+Esa paleta de colores es hermosa
+23:04:25 - Leandro Echevarria (@echevarrialeandro):
+Se la clave a todo como en el cumplanito
+23:04:30 - Santiago Ruffino (@santi_0898):
+No se si contara igual...
+23:04:51 - Marcos Casagrande (@marcoscvp90):
+No sé si un template engine cuenta como framework para ellos.
+23:05:39 - Santiago Ruffino (@santi_0898):
+No me van a contestar hasta el lunes a la s8
+23:05:44 - Santiago Ruffino (@santi_0898):
+Asi que prefiero seguir como voy. Jajaja
+23:05:47 - Santiago Ruffino (@santi_0898):
+Igual, gracias por el consejo
+23:05:55 - Marcos Casagrande (@marcoscvp90):
+Está muy buena esa paleta
+23:05:56 - Julian (@jantonielli01):
+con la fuente manqueada incluso
+23:06:10 - Marcos Casagrande (@marcoscvp90):
+Horrible eso jaja
+23:06:23 - Leandro Echevarria (@echevarrialeandro):
+Jajaja de la tanga
+23:06:35 - Julian (@jantonielli01):
+y bueno
+23:06:38 - Leandro Echevarria (@echevarrialeandro):
+Metele la nord a tmux y vim al menos
+23:06:44 - Marcos Casagrande (@marcoscvp90):
+Acá tenés varios, por si te pinta meterlo:
+
+<https://ourcodeworld.com/articles/read/847/top-7-best-open-source-php-template-engines>
+23:06:47 - Leandro Echevarria (@echevarrialeandro):
+Con eso subis 15 niveles a como estas ahora jaja
+23:07:21 - Julian (@jantonielli01):
+hmm yo creo que el mio le gana
+23:07:57 - Julian (@jantonielli01):
+<@U9KMYNJMV> te venís para caba?
+23:09:40 - Santiago Ruffino (@santi_0898):
+No, porque me iria para CABA? Jajaja
+23:09:45 - Santiago Ruffino (@santi_0898):
+Igual, cada vez lo considero mas
+23:11:44 - Julian (@jantonielli01):
+ah pense q te estabas busncando uno aca
+23:11:47 - Julian (@jantonielli01):
+flashé
+23:12:35 - Santiago Ruffino (@santi_0898):
+Un laburo de PHP?
+23:12:43 - Santiago Ruffino (@santi_0898):
+Nah, si me voy a caba, buscaria de algo que me guste mas
+23:12:44 - Santiago Ruffino (@santi_0898):
+Jajaja
+23:13:02 - Leandro Echevarria (@echevarrialeandro):
+A mi me gustaria mas no laburar :rolling_on_the_floor_laughing:
+23:14:40 - Julian (@jantonielli01):
+ahí miré nord, no me gusto mucho
+23:14:50 - Julian (@jantonielli01):
+tiene 0 contraste <https://github.com/arcticicestudio/nord-vim>
+23:16:23 - Leandro Echevarria (@echevarrialeandro):
+Editala papaaa this is unix mfaca
+23:16:36 - Leandro Echevarria (@echevarrialeandro):
+:fastparrot:
+23:16:56 - Julian (@jantonielli01):
+no soy 2señador : v
+23:17:38 - Leandro Echevarria (@echevarrialeandro):
+Ponele amarillo a la fuente si queres contraste :rolling_on_the_floor_laughing:
+23:25:05 - Santiago Ruffino (@santi_0898):
+Not bad
+23:25:06 - Santiago Ruffino (@santi_0898):
+Jajaja}
+23:27:32 - Santiago Ruffino (@santi_0898):
+Como harian esto aunque sea con Postman?
+23:28:18 - Santiago Ruffino (@santi_0898):
+No estaria pudiendo replicar la peticion
+23:29:22 - Leandro Echevarria (@echevarrialeandro):
+<https://medium.com/@darilldrems/how-to-send-arrays-with-get-or-post-request-in-postman-f87ca70b154e>
+23:29:30 - Santiago Ruffino (@santi_0898):
+Sisi, lo encontre
+23:29:32 - Santiago Ruffino (@santi_0898):
+Jajaja
+23:29:40 - Santiago Ruffino (@santi_0898):
+`<https://beta.id90travel.com/session?session[airline]=HAWAIIAN> AIRLINES (HA)&amp;session[username]=halucas&amp;session[password]=1234567&amp;session[remember_me]=1`
+23:36:34 - Daniel Broder (@dabroder):
+que lindo tema
+00:08:12 - Martin Gonzalez (@martin2786):
+Le pones una expiracion corta y lo vas renovando, los tokens siempre se ven sea la app que sea. La clave esta en que si te lo sacan, cuando lo quieran usar este inservible.
+00:09:50 - Martin Gonzalez (@martin2786):
+Ademas si usas CORS restringido a tu dominio no pueden usar postman y mandar el token de una.
+00:10:14 - Leandro Echevarria (@echevarrialeandro):
+Cierto, me habia olvidado que puedo usar el cors a mi favor
+00:10:16 - Leandro Echevarria (@echevarrialeandro):
+Que gil
+00:10:19 - Leandro Echevarria (@echevarrialeandro):
+Gracias por los hints
+00:21:01 - Martin Gonzalez (@martin2786):
+de nada!
+20:35:21 - Santiago Ruffino (@santi_0898):
+Hola gente! Alguno sabe como meter un datepicker usando solo HTML y Bootstrap?
+20:35:28 - Santiago Ruffino (@santi_0898):
+Encontre muchos con Jquery, pero no era la idea
+20:41:54 - Pablo Miceli (@pablomiceli24):
+quizas esto? <https://www.w3schools.com/html/tryit.asp?filename=tryhtml_input_date>
+20:42:18 - Julian (@jantonielli01):
+por que no querés jquery?
+20:42:47 - Santiago Ruffino (@santi_0898):
+Si, me sirve pablo. Esta buscando algo con Bootstrap ya que lo estoy usando en todas las pantallas. Pero si no queda otra, vamos por lo basico
+20:43:08 - Santiago Ruffino (@santi_0898):
+No queria usarlo, pero si no queda otra...
+20:43:17 - Santiago Ruffino (@santi_0898):
+Recomendas que lo use Julian?
+20:44:33 - Julian (@jantonielli01):
+Ehh no a priori, solo preguntaba por que no querías
