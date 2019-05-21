@@ -1,0 +1,667 @@
+21:49:29 - Marcos Casagrande (@marcoscvp90):
+<https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451>
+21:49:44 - Marcos Casagrande (@marcoscvp90):
+Los salarios de Buffer, actualizado 2019. Son públicos.
+22:12:38 - Lupe (@lportias):
+:facepalm: :gun:
+22:15:03 - Federico A. Sawady O'Connor (@sawady.faso):
+:drooling_face:
+11:13:43 - Martin Bavio (@mbavio):
+:ghost:
+12:01:48 - Alejandro Nagy (@nagy.alejandro):
+Dónde aplico? :stuck_out_tongue:
+12:03:44 - Marcos Casagrande (@marcoscvp90):
+No tienen posiciones abiertas ahora mismo.
+12:03:45 - Martin Bavio (@mbavio):
+Hay una chica de Buenos Aires trabajando de Software Engineer, ganando aprox 7.5k mensuales.
+12:04:07 - Marcos Casagrande (@marcoscvp90):
+Si, hace front end, react principalmente.
+12:04:47 - Marcos Casagrande (@marcoscvp90):
+Una genia, la hizo re bien.
+12:05:36 - Martin Bavio (@mbavio):
+Basados en su _Eng Matrix_, ese seria aprox el rate de inicio.
+12:06:20 - Martin Bavio (@mbavio):
+ah no, es nivel III
+12:06:45 - Marcos Casagrande (@marcoscvp90):
+Lo que más me sorprende, no es tanto el sueldo a los programadores, que está genial, pero nada extraño para ser una empresa de estados unidos. Sino el sueldo de los diseñadores.
+12:07:13 - Marcos Casagrande (@marcoscvp90):
+Nunca vi diseñadores con esos sueldos.
+12:07:39 - Martin Bavio (@mbavio):
+0.22 es el indice de _cost of living_ de BA a SF, tremendo.
+12:08:53 - Martin Bavio (@mbavio):
+o sea, 1000 dolares en SF para ellos son equivalentes a 4628 dolares en BA
+12:09:34 - Martin Bavio (@mbavio):
+de ahi que Sol cobre bastante menos (en dolares) de lo que cobraria siendo Software Engineer III en SF.
+12:09:55 - Martin Bavio (@mbavio):
+muy interesante que pongan toda esta data en publico, y que se tomen el trabajo de hacer las equivalencias.
+12:10:19 - Marcos Casagrande (@marcoscvp90):
+Lo que me parece que no toman en cuenta, son los impuestos de este país :joy:
+12:11:00 - Marcos Casagrande (@marcoscvp90):
+Algún contador que haga el cálculo rápido de cuanto te quedan 96.000 dólares, tras las las garras de la AFIP?
+12:11:16 - Marcos Casagrande (@marcoscvp90):
+Lo malo de que tu sueldo sea público, es que no podés negrearlo.
+12:11:23 - Martin Bavio (@mbavio):
+depende donde vivas, en BA tenes ganancias mas IIBB de baires
+12:11:53 - Martin Bavio (@mbavio):
+creo que del IIBB en Baires estas excento si exportas software, pero no estoy seguro.
+12:12:07 - Marcos Casagrande (@marcoscvp90):
+en capital estás excento, al menos.
+12:12:11 - Federico A. Sawady O'Connor (@sawady.faso):
+creo que no, pagás igual
+12:12:17 - Martin Bavio (@mbavio):
+entonces es el 35%
+12:12:44 - Martin Carrera (@mcarrera):
+estas excento en CABA de IIBB si sólo haces facturas E
+12:13:08 - Federico A. Sawady O'Connor (@sawady.faso):
+no no, yo facturo a CABA
+12:13:11 - Martin Bavio (@mbavio):
+34k en impuestos al año aprox
+12:13:15 - Federico A. Sawady O'Connor (@sawady.faso):
+y lo respectivo a caba no pago IIBB
+12:13:16 - Federico A. Sawady O'Connor (@sawady.faso):
+con factura C
+12:13:31 - Federico A. Sawady O'Connor (@sawady.faso):
+aunque como vivo en provincia estoy en convenio multilateral
+12:13:33 - Martin Bavio (@mbavio):
+contando solo ganancias
+12:13:36 - Federico A. Sawady O'Connor (@sawady.faso):
+y pago un porcentaje a BS AS
+12:14:10 - Martin Bavio (@mbavio):
+si a eso le sumas bienes personales si tenes una propiedad o un auto, e IIBB si no vivis en CABA
+12:14:19 - Martin Bavio (@mbavio):
+es por lo menos el 40% anual
+12:15:31 - Aldo Sorbara (@aldo1891):
+no hagan esa cuenta que voy a ir a la afip con una 32
+12:15:35 - Marcos Casagrande (@marcoscvp90):
+básicamente, le queda el sueldo en unos 55k.
+12:15:36 - Aldo Sorbara (@aldo1891):
+terribles impuestos
+12:15:46 - Aldo Sorbara (@aldo1891):
+lloro
+12:15:56 - Marcos Casagrande (@marcoscvp90):
+Que no está mal, pero si de 96k, te queda eso, o 60k, rompo todo.
+12:16:00 - Marcos Casagrande (@marcoscvp90):
+Que país bananero.
+12:16:09 - Martin Bavio (@mbavio):
+y si, por algo Payoneer anda como piña en ARG
+12:16:15 - Gonzalo González Mora (@gonzalogm):
+El problema no es que te quede eso, el tema es que el estado se afana todo
+12:16:24 - Marcos Casagrande (@marcoscvp90):
+<https://www.libremercado.com/2018-10-16/irlanda-recauda-casi-el-doble-que-espana-con-tres-veces-menos-de-presion-fiscal-1276626323/>
+12:16:36 - Aldo Sorbara (@aldo1891):
+si al menos supiera que esa plata la estan invirtiendo bien, estaria "contento"
+12:16:43 - Gonzalo González Mora (@gonzalogm):
+Pq si estás en un país escandinavo con 40% de impuestos pero que funciona todo de diez, yo lo pago contento
+12:16:55 - Marcos Casagrande (@marcoscvp90):
+Ahí se ven los beneficios, de reducir los impuestos. Acá negrean todo, con motivo, porque con esa cantidad de impuestos nadie los va a querer pagar. Si fuesen menor, seguramente recaudarína mas.
+12:17:04 - Martin Bavio (@mbavio):
+la locura es que en vez de ofrecer excenciones y/o descuentos en ganacias para los que exportan software, este año hayan agregado un impuesto mas
+12:17:12 - Martin Bavio (@mbavio):
+al reves de todo el sentido comun del universo
+12:17:29 - Alejandro Nagy (@nagy.alejandro):
+Socialismo Keynesiano :man-shrugging:
+12:17:47 - Martin Bavio (@mbavio):
+si ofrecieran beneficios muchos devs que exportan empezarian a blanquear, y son cada vez mas
+12:17:59 - Alejandro Nagy (@nagy.alejandro):
+che, no hay un canal de politica-enonomia ?, porque no se si da charlar de estos temas en <#C54TWDKN1|experiencia-laboral>
+12:18:01 - Mariano Montero (@etmaro):
+La exportacion de servicios no financieros esta exenta de IIBB.
+La retencion de exportaciondes de AFIP (4 pesos por cada dolar) podes no pagarla si te anotas como PYME. Se puede si sos monotributista. Tenes que facturar en 12 meses menos de 600.000 dolares.
+12:18:41 - Alejandro Nagy (@nagy.alejandro):
+a mi me encanta debatir del tema, pero no quiero desvirtuarles el canal :stuck_out_tongue:
+12:18:42 - Marcos Casagrande (@marcoscvp90):
+Si de esos 100k, de impuestos se pagarían 20k (que sigue siendo una fortuna), diría que la gran mayoría dejaría de ser monotributista, y los pagaría.
+12:19:23 - Gonzalo González Mora (@gonzalogm):
+No sé si es tan así acá
+12:19:43 - Marcos Casagrande (@marcoscvp90):
+y, tener la plata en blanco tiene bastantes beneficios.
+12:19:56 - Gonzalo González Mora (@gonzalogm):
+Cuántos casos ha habido de gente con cargos re altos que estaban registrados con el escalón más bajo de monotributo
+12:20:04 - Martin Bavio (@mbavio):
+dejar de andar con la mochilita con plata es la sensacion mas linda del mundo
+12:20:57 - Martin Bavio (@mbavio):
+ademas que cuando empezas a ganar mas o menos bien, te queres comprar algo y no tenes forma de demostrar ninguno de tus ingresos, vivis perseguido
+12:21:24 - Alejandro Nagy (@nagy.alejandro):
+Yo creo que la tranquilidad es lo mejor
+12:21:42 - Marcos Casagrande (@marcoscvp90):
+Exacto, la tranquilidad es genial, un 10-20% es un precio justo, más que eso me parece un robo.
+12:21:51 - Alejandro Nagy (@nagy.alejandro):
+depende
+12:21:59 - Alejandro Nagy (@nagy.alejandro):
+como dijeron, el ejemplo de los nórdicos
+12:22:11 - Ezequiel Leites (@leites25):
+Claro, el monotributo dentro de todo no esta tan escapado, el problema es cuando te pasas a inscripto, ahi te matan.
+12:22:16 - Alejandro Nagy (@nagy.alejandro):
+cobran 40%, pero no tengo que pagar salud, ni transporte porque funcionan perfecto
+21:49:29 - Marcos Casagrande (@marcoscvp90):
+<https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451>
+21:49:44 - Marcos Casagrande (@marcoscvp90):
+Los salarios de Buffer, actualizado 2019. Son públicos.
+22:12:38 - Lupe (@lportias):
+:facepalm: :gun:
+22:15:03 - Federico A. Sawady O'Connor (@sawady.faso):
+:drooling_face:
+11:13:43 - Martin Bavio (@mbavio):
+:ghost:
+12:01:48 - Alejandro Nagy (@nagy.alejandro):
+Dónde aplico? :stuck_out_tongue:
+12:03:44 - Marcos Casagrande (@marcoscvp90):
+No tienen posiciones abiertas ahora mismo.
+12:03:45 - Martin Bavio (@mbavio):
+Hay una chica de Buenos Aires trabajando de Software Engineer, ganando aprox 7.5k mensuales.
+12:04:07 - Marcos Casagrande (@marcoscvp90):
+Si, hace front end, react principalmente.
+12:04:47 - Marcos Casagrande (@marcoscvp90):
+Una genia, la hizo re bien.
+12:05:36 - Martin Bavio (@mbavio):
+Basados en su _Eng Matrix_, ese seria aprox el rate de inicio.
+12:06:20 - Martin Bavio (@mbavio):
+ah no, es nivel III
+12:06:45 - Marcos Casagrande (@marcoscvp90):
+Lo que más me sorprende, no es tanto el sueldo a los programadores, que está genial, pero nada extraño para ser una empresa de estados unidos. Sino el sueldo de los diseñadores.
+12:07:13 - Marcos Casagrande (@marcoscvp90):
+Nunca vi diseñadores con esos sueldos.
+12:07:39 - Martin Bavio (@mbavio):
+0.22 es el indice de _cost of living_ de BA a SF, tremendo.
+12:08:53 - Martin Bavio (@mbavio):
+o sea, 1000 dolares en SF para ellos son equivalentes a 4628 dolares en BA
+12:09:34 - Martin Bavio (@mbavio):
+de ahi que Sol cobre bastante menos (en dolares) de lo que cobraria siendo Software Engineer III en SF.
+12:09:55 - Martin Bavio (@mbavio):
+muy interesante que pongan toda esta data en publico, y que se tomen el trabajo de hacer las equivalencias.
+12:10:19 - Marcos Casagrande (@marcoscvp90):
+Lo que me parece que no toman en cuenta, son los impuestos de este país :joy:
+12:11:00 - Marcos Casagrande (@marcoscvp90):
+Algún contador que haga el cálculo rápido de cuanto te quedan 96.000 dólares, tras las las garras de la AFIP?
+12:11:16 - Marcos Casagrande (@marcoscvp90):
+Lo malo de que tu sueldo sea público, es que no podés negrearlo.
+12:11:23 - Martin Bavio (@mbavio):
+depende donde vivas, en BA tenes ganancias mas IIBB de baires
+12:11:53 - Martin Bavio (@mbavio):
+creo que del IIBB en Baires estas excento si exportas software, pero no estoy seguro.
+12:12:07 - Marcos Casagrande (@marcoscvp90):
+en capital estás excento, al menos.
+12:12:11 - Federico A. Sawady O'Connor (@sawady.faso):
+creo que no, pagás igual
+12:12:17 - Martin Bavio (@mbavio):
+entonces es el 35%
+12:12:44 - Martin Carrera (@mcarrera):
+estas excento en CABA de IIBB si sólo haces facturas E
+12:13:08 - Federico A. Sawady O'Connor (@sawady.faso):
+no no, yo facturo a CABA
+12:13:11 - Martin Bavio (@mbavio):
+34k en impuestos al año aprox
+12:13:15 - Federico A. Sawady O'Connor (@sawady.faso):
+y lo respectivo a caba no pago IIBB
+12:13:16 - Federico A. Sawady O'Connor (@sawady.faso):
+con factura C
+12:13:31 - Federico A. Sawady O'Connor (@sawady.faso):
+aunque como vivo en provincia estoy en convenio multilateral
+12:13:33 - Martin Bavio (@mbavio):
+contando solo ganancias
+12:13:36 - Federico A. Sawady O'Connor (@sawady.faso):
+y pago un porcentaje a BS AS
+12:14:10 - Martin Bavio (@mbavio):
+si a eso le sumas bienes personales si tenes una propiedad o un auto, e IIBB si no vivis en CABA
+12:14:19 - Martin Bavio (@mbavio):
+es por lo menos el 40% anual
+12:15:31 - Aldo Sorbara (@aldo1891):
+no hagan esa cuenta que voy a ir a la afip con una 32
+12:15:35 - Marcos Casagrande (@marcoscvp90):
+básicamente, le queda el sueldo en unos 55k.
+12:15:36 - Aldo Sorbara (@aldo1891):
+terribles impuestos
+12:15:46 - Aldo Sorbara (@aldo1891):
+lloro
+12:15:56 - Marcos Casagrande (@marcoscvp90):
+Que no está mal, pero si de 96k, te queda eso, o 60k, rompo todo.
+12:16:00 - Marcos Casagrande (@marcoscvp90):
+Que país bananero.
+12:16:09 - Martin Bavio (@mbavio):
+y si, por algo Payoneer anda como piña en ARG
+12:16:15 - Gonzalo González Mora (@gonzalogm):
+El problema no es que te quede eso, el tema es que el estado se afana todo
+12:16:24 - Marcos Casagrande (@marcoscvp90):
+<https://www.libremercado.com/2018-10-16/irlanda-recauda-casi-el-doble-que-espana-con-tres-veces-menos-de-presion-fiscal-1276626323/>
+12:16:36 - Aldo Sorbara (@aldo1891):
+si al menos supiera que esa plata la estan invirtiendo bien, estaria "contento"
+12:16:43 - Gonzalo González Mora (@gonzalogm):
+Pq si estás en un país escandinavo con 40% de impuestos pero que funciona todo de diez, yo lo pago contento
+12:16:55 - Marcos Casagrande (@marcoscvp90):
+Ahí se ven los beneficios, de reducir los impuestos. Acá negrean todo, con motivo, porque con esa cantidad de impuestos nadie los va a querer pagar. Si fuesen menor, seguramente recaudarína mas.
+12:17:04 - Martin Bavio (@mbavio):
+la locura es que en vez de ofrecer excenciones y/o descuentos en ganacias para los que exportan software, este año hayan agregado un impuesto mas
+12:17:12 - Martin Bavio (@mbavio):
+al reves de todo el sentido comun del universo
+12:17:29 - Alejandro Nagy (@nagy.alejandro):
+Socialismo Keynesiano :man-shrugging:
+12:17:47 - Martin Bavio (@mbavio):
+si ofrecieran beneficios muchos devs que exportan empezarian a blanquear, y son cada vez mas
+12:17:59 - Alejandro Nagy (@nagy.alejandro):
+che, no hay un canal de politica-enonomia ?, porque no se si da charlar de estos temas en <#C54TWDKN1|experiencia-laboral>
+12:18:01 - Mariano Montero (@etmaro):
+La exportacion de servicios no financieros esta exenta de IIBB.
+La retencion de exportaciondes de AFIP (4 pesos por cada dolar) podes no pagarla si te anotas como PYME. Se puede si sos monotributista. Tenes que facturar en 12 meses menos de 600.000 dolares.
+12:18:41 - Alejandro Nagy (@nagy.alejandro):
+a mi me encanta debatir del tema, pero no quiero desvirtuarles el canal :stuck_out_tongue:
+12:18:42 - Marcos Casagrande (@marcoscvp90):
+Si de esos 100k, de impuestos se pagarían 20k (que sigue siendo una fortuna), diría que la gran mayoría dejaría de ser monotributista, y los pagaría.
+12:19:23 - Gonzalo González Mora (@gonzalogm):
+No sé si es tan así acá
+12:19:43 - Marcos Casagrande (@marcoscvp90):
+y, tener la plata en blanco tiene bastantes beneficios.
+12:19:56 - Gonzalo González Mora (@gonzalogm):
+Cuántos casos ha habido de gente con cargos re altos que estaban registrados con el escalón más bajo de monotributo
+12:20:04 - Martin Bavio (@mbavio):
+dejar de andar con la mochilita con plata es la sensacion mas linda del mundo
+12:20:57 - Martin Bavio (@mbavio):
+ademas que cuando empezas a ganar mas o menos bien, te queres comprar algo y no tenes forma de demostrar ninguno de tus ingresos, vivis perseguido
+12:21:24 - Alejandro Nagy (@nagy.alejandro):
+Yo creo que la tranquilidad es lo mejor
+12:21:42 - Marcos Casagrande (@marcoscvp90):
+Exacto, la tranquilidad es genial, un 10-20% es un precio justo, más que eso me parece un robo.
+12:21:51 - Alejandro Nagy (@nagy.alejandro):
+depende
+12:21:59 - Alejandro Nagy (@nagy.alejandro):
+como dijeron, el ejemplo de los nórdicos
+12:22:11 - Ezequiel Leites (@leites25):
+Claro, el monotributo dentro de todo no esta tan escapado, el problema es cuando te pasas a inscripto, ahi te matan.
+12:22:16 - Alejandro Nagy (@nagy.alejandro):
+cobran 40%, pero no tengo que pagar salud, ni transporte porque funcionan perfecto
+12:22:20 - Alejandro Nagy (@nagy.alejandro):
+y la seguridad también
+12:22:33 - Martin Bavio (@mbavio):
+en los numeros que estamos hablando, es imposible no pasarse del monotributo sin truchearla
+12:22:44 - Alejandro Nagy (@nagy.alejandro):
+entonces parte de mis ingresos que estarían destinados a pagarme eso por mi cuenta los paso a impuestos por el mismo nivel de servicio
+12:22:51 - Martin Bavio (@mbavio):
+antes la podias truchear con las _sociedades monotributistas_, pero ya ni esa existe
+12:22:54 - Alejandro Nagy (@nagy.alejandro):
+Monotributo no sigue en 75.000$ por mes?
+12:23:07 - Federico A. Sawady O'Connor (@sawady.faso):
+el tope?
+12:23:09 - Alejandro Nagy (@nagy.alejandro):
+si
+12:23:16 - Federico A. Sawady O'Connor (@sawady.faso):
+yo estoy en 90k
+12:23:18 - Federico A. Sawady O'Connor (@sawady.faso):
+y creo que no me paso
+12:23:21 - Ezequiel Leites (@leites25):
+El mas grande llega a ~100
+12:23:23 - Federico A. Sawady O'Connor (@sawady.faso):
+es un millon 100 mil aprox
+12:23:25 - Alejandro Nagy (@nagy.alejandro):
+o 812.000$ al año (algo así) que te daba 75k por mes
+12:23:27 - Federico A. Sawady O'Connor (@sawady.faso):
+anual
+12:23:31 - Alejandro Nagy (@nagy.alejandro):
+ah ok, lo subieron un toque
+12:23:33 - Federico A. Sawady O'Connor (@sawady.faso):
+se
+12:23:36 - Martin Bavio (@mbavio):
+2.5k dolares por mes maximo aprox
+12:23:37 - Federico A. Sawady O'Connor (@sawady.faso):
+pero estoy al borde
+12:23:43 - Federico A. Sawady O'Connor (@sawady.faso):
+menos de 2.5 eh
+12:23:44 - Alejandro Nagy (@nagy.alejandro):
+igual nada, un chiste lo que lo subieron
+12:23:45 - Federico A. Sawady O'Connor (@sawady.faso):
+subió el dolar
+12:23:47 - Federico A. Sawady O'Connor (@sawady.faso):
+yo estoy en 2k
+12:23:51 - Martin Bavio (@mbavio):
+claro, menos
+12:23:57 - Federico A. Sawady O'Connor (@sawady.faso):
+y si sube el dolar, cagué
+12:23:58 - Ezequiel Leites (@leites25):
+Si, donde se dispara un par de pesos te mata
+12:24:01 - Federico A. Sawady O'Connor (@sawady.faso):
+tengo que negrar como campéon
+12:24:05 - Martin Bavio (@mbavio):
+si ganas 3k por mes ya te pasaste y tenes que ser RI o trucharla
+12:24:18 - Alejandro Nagy (@nagy.alejandro):
+con 3K como RI mejor truchala
+12:24:22 - Santiago Ruffino (@santi_0898):
+<#CHNL3EA4R|finanzas-y-legales>
+12:24:31 - Marcos Casagrande (@marcoscvp90):
+Eso es lo ridículo, el monotributo debería ser hasta 5k USD para mi, mínimo.
+12:24:33 - Federico A. Sawady O'Connor (@sawady.faso):
+es que si me paso a autonomo tengo que aumentar un monton los ingresos
+12:24:55 - Federico A. Sawady O'Connor (@sawady.faso):
+son unos delincuentes en este país con respecto a impuestos
+12:24:56 - Santiago Ruffino (@santi_0898):
+No soy policia forros. Jajaja, es porque ahi esta la gente que sabe del tema. Y seguramente pueden ayudar mas
+12:24:59 - Federico A. Sawady O'Connor (@sawady.faso):
+ni que fuese millonario
+12:25:01 - Martin Bavio (@mbavio):
+monotributo para exportacion, o exenciones en ganancias.
+12:25:21 - Alejandro Nagy (@nagy.alejandro):
+Monotributo es para Autonomos en $
+12:25:33 - Alejandro Nagy (@nagy.alejandro):
+si exportas, debería ser otra categoría, con limites en USD
+12:25:38 - Martin Bavio (@mbavio):
+exacto
+12:26:02 - Alejandro Nagy (@nagy.alejandro):
+pero acá se arma todo para robarte hasta la última gota de sangre con impuestos
+12:26:07 - Alejandro Nagy (@nagy.alejandro):
+no porque tenga sentido :stuck_out_tongue:
+12:26:21 - Martin Bavio (@mbavio):
+o cobra la mitad de ganancias y se acabaron los viajes en buquebus a buscar guita
+12:28:12 - Marcos Casagrande (@marcoscvp90):
+hasta que la salud pública no funcione bien, y haya seguridad, cualquier impuesto es un robo.
+12:29:40 - Gonza Gluzman (@gonza):
+Emmmm… No digo que los impuestos estén bien aplicados ni que los servicios anden bárbaro, pero es medio extremo decir que cualquier impuesto es un robo si no anda todo perfecto. Porque hasta para pagarle a médicos y policías que trabajen mal, vas a necesitar dinero :man-shrugging:
+12:30:00 - Martín Aimar (@maimar):
+cuál es el ELI5 de por qué hay una presión tributaria altísima y sigue habiendo déficit fiscal?
+12:30:17 - Martin Bavio (@mbavio):
+corrupcion y trabajo en negro?
+12:30:51 - Martín Aimar (@maimar):
+me parece mucho, tiene que haber algo estructuralmente funcionando mal
+12:31:55 - Martín Valdés de León (@mvaldesdeleon):
+se llama "recesion"
+12:32:10 - Marcos Casagrande (@marcoscvp90):
+Los tenés que echar si trabajan mal. Acá el estado es una juntada de vagos, y no echan a los corruptos, vagos, ñoquis, siguen robando y robando.
+12:32:12 - Martín Valdés de León (@mvaldesdeleon):
+si el volumen de la economia, ajustado por inflacion, se reduce, la unica forma de recaudar mas es subir la tasa nominal
+12:32:30 - Martín Valdés de León (@mvaldesdeleon):
+la solucion pasa por hacer que la economia crezca
+12:32:33 - Marcos Casagrande (@marcoscvp90):
+Si estás pagando por un servicio que no te ofrecen, te están robando/estafando
+12:33:31 - Federico A. Sawady O'Connor (@sawady.faso):
+la solución es irse del país (?
+12:34:35 - Marcos Casagrande (@marcoscvp90):
+Si alguno le interesa, hoy me ofrecieron reubicación a Alemania, todo pago y visa sponsor. Esta es la empresa: Zero to One Search
+12:35:04 - Marcos Casagrande (@marcoscvp90):
+Si alguno se quiere ir a Alemania, en un rato le pido el contacto al recruiter.
+12:35:19 - Marcos Casagrande (@marcoscvp90):
+`Senior Node.js developer` es el puesto que buscan. _Only English is required. (German is optional)_
+12:35:56 - Gonza Gluzman (@gonza):
+Bueno, pero deberías contratar a otros que trabajen bien. Y con los sueldos que se ofrecen, se te va a complicar un poco. La cosa se soluciona aumentando el presupuesto, no desfinanciando.
+Eso por un lado, por otro, no estoy ni a palos de acuerdo con el diagnóstico (de que el Estado esté lleno de vagos o de ineptos).
+12:36:48 - Marcos Casagrande (@marcoscvp90):
+mirá como creció el estado en los últimos 12 años, la mitad del país depende del estado, eso es inviable. Y la mitad no hacen nada.
+12:38:27 - Gonza Gluzman (@gonza):
+Por qué decís que es inviable? :thinking_face:
+12:38:40 - Gonza Gluzman (@gonza):
+Y por qué que la mitad no hacen nada?
+12:38:43 - Marcos Casagrande (@marcoscvp90):
+porque la otra mitad tiene que mantenerlos, el estado no genera plata.
+12:38:56 - Gonza Gluzman (@gonza):
+No tiene por qué generar plata el Estado
+12:39:00 - Gonza Gluzman (@gonza):
+Tiene que garantizar derechos
+12:39:05 - Marcos Casagrande (@marcoscvp90):
+Cuantos policías ves con el celular?, Fuiste a un Hospital público? Hay mucha gente en plantilla que *no* va a laburar.
+12:39:09 - Gonza Gluzman (@gonza):
+:man-shrugging:
+12:39:20 - Gonza Gluzman (@gonza):
+Fui a hospitales públicos, sí
+12:39:54 - Gonza Gluzman (@gonza):
+Conozco los servicios públicos y sé que hay un montón por mejorar
+12:40:02 - Gonza Gluzman (@gonza):
+Pero se mejoran con más inversión
+12:40:04 - Gonza Gluzman (@gonza):
+No con menos
+12:40:21 - Marcos Casagrande (@marcoscvp90):
+nos roban la mitad del sueldo en impuestos, que más inversión, tienen que reducir el gasto público.
+12:40:29 - Marcos Casagrande (@marcoscvp90):
+Se lo roban todo, no hace falta inversión, hace falta que dejen de robar.
+12:41:48 - Gonza Gluzman (@gonza):
+Vamos por partes: cobrar impuestos no es un robo, es un mecanismo completamente válido para financiar al Estado, acá y en cualquier parte del mundo. Otra historia es si eso te gusta o no, o si estás de acuerdo con el destino de la recaudación o no (o incluso si luego se roban esa recaudación, el robo no está en el hecho de cobrar impuestos, sino después).
+12:42:14 - Federico A. Sawady O'Connor (@sawady.faso):
+JAJAJAJAJ
+12:44:13 - Marcos Casagrande (@marcoscvp90):
+El impuesto, es un robo, te están imponiendo algo.
+12:44:35 - Marcos Casagrande (@marcoscvp90):
+si no te dan los servicios, que deberían darte, es un robo 100%.
+12:44:44 - Gonza Gluzman (@gonza):
+Bueno, ahí estamos en desacuerdo
+12:44:52 - Marcos Casagrande (@marcoscvp90):
+En Argentina, los impuestos son un robo a mano armada. En un país civilizado, no.
+12:45:32 - Gonza Gluzman (@gonza):
+En “un país civilizado” no son un robo o no son un robo a mano armada?
+12:45:36 - Marcos Casagrande (@marcoscvp90):
+Si te parece bien que de 10k, te saquen 5k, perfecto. A mi eso me parece un robo.
+12:46:03 - Marcos Casagrande (@marcoscvp90):
+En un país civilizado, al menos te dan el servicio por el cual pagás. Te están obligando a pagarlo, pero te lo dan.
+12:46:05 - Gonza Gluzman (@gonza):
+Son dos cosas distintas, lo que me parezca bien o mal y lo que es o no es un robo
+12:46:10 - Marcos Casagrande (@marcoscvp90):
+Acá te sacan la plata y no te dan nada.
+12:46:23 - Marcos Casagrande (@marcoscvp90):
+Si a vos alguien te saca plata, y no te da nada a cambio, no te parece un robo?
+12:46:32 - Gonza Gluzman (@gonza):
+Yo con lo que estoy de acuerdo es con impuestos progresivos y con garantías de los derechos
+12:47:16 - Gonza Gluzman (@gonza):
+No, no me parece un robo. Es simplemente el mecanismo con el que funcionan los países.
+12:47:40 - Gonza Gluzman (@gonza):
+Y no estoy de acuerdo con que no te den nada a cambio. Te garantizan tus derechos
+12:47:45 - Marcos Casagrande (@marcoscvp90):
+Que derechos?
+12:47:56 - Gonza Gluzman (@gonza):
+Si sos privilegiado, quizás no necesites tanto esas garantías
+12:47:57 - Marcos Casagrande (@marcoscvp90):
+Que te maten en la calle o te roben? Y no podés defenderte porque vas preso?
+12:48:05 - Martín Valdés de León (@mvaldesdeleon):
+El tema no es tampoco cuanto pagas de impuestos, sino lo que se haga con esa guita. Aca el 42% de mi sueldo queda en el camino.
+12:48:17 - Marcos Casagrande (@marcoscvp90):
+Esos derechos? O el derecho a pagar una obra social, porque el hospital del estado que estás pagando se cae a pedazos?
+12:48:27 - Rodrigo Ali (@rodrigojali):
+Claro, no hay return en obras publicas ni nada
+12:48:32 - Rodrigo Ali (@rodrigojali):
+Tenes todo que no anda
+12:48:33 - Rodrigo Ali (@rodrigojali):
+NO ANDA
+12:48:37 - Rodrigo Ali (@rodrigojali):
+<#C6PJH6JP3|rant> NO ANDA
+12:48:38 - Gonza Gluzman (@gonza):
+Salud, educación, seguridad
+12:48:46 - Gonza Gluzman (@gonza):
+Esos son los derechos
+12:48:47 - Marcos Casagrande (@marcoscvp90):
+seguridad, en serio?
+12:48:50 - Gonza Gluzman (@gonza):
+Sí
+12:48:53 - Gonza Gluzman (@gonza):
+En serio
+12:48:58 - Marcos Casagrande (@marcoscvp90):
+no sé en que país vivís, pero en Argentina *no* hay seguridad.
+12:49:07 - Gonza Gluzman (@gonza):
+Compará índices de seguridad de distintos países
+12:49:12 - Gonza Gluzman (@gonza):
+Quizás te lleves una sorpresa
+12:49:16 - Gonza Gluzman (@gonza):
+Y no digo que anden bien
+12:49:23 - Marcos Casagrande (@marcoscvp90):
+no me importan los otros países, acá no hay seguridad.
+12:49:29 - Marcos Casagrande (@marcoscvp90):
+que en brasil te maten más, no significa que acá estemos bien.
+12:49:40 - Gonza Gluzman (@gonza):
+No digo que estemos bien
+12:50:09 - Marcos Casagrande (@marcoscvp90):
+Estamos como el orto, Argentina es un país inseguro.
+12:50:29 - Marcos Casagrande (@marcoscvp90):
+Argentina es un país bananero, la salud, la seguridad, y la educación no funcionan en este país.
+12:50:52 - Marcos Casagrande (@marcoscvp90):
+Si funcionase la educación, no habría tanta inseguridad.
+12:51:05 - Marcos Casagrande (@marcoscvp90):
+Pero bueno, viví una mentira, si te hace feliz. I'm out.
+12:51:15 - Gonza Gluzman (@gonza):
+Oki :slightly_smiling_face:
+12:51:52 - Nicolas Taboada (@ntaboada93):
+gente, la tiro por aca. Alguno tiene idea que requisitos se necesitan para abrir una cuenta en algun banco de USA. (siendo no residente obvio)
+12:52:06 - Nicolas Taboada (@ntaboada93):
+encuentro mucha info en google pero no toy seguro si es viable ono
+12:52:19 - Martin Bavio (@mbavio):
+Que vayas al banco en USA :slightly_smiling_face:
+12:54:20 - Tomás Sevillano (@tsevillano):
+una direccion en USA
+12:54:46 - Gonza Gluzman (@gonza):
+Justo obras públicas es de lo que más hay (bueno, después de solventar la timba financiera). Lo que está fallando más bien es presupuesto en educación, salud, etc.
+12:54:48 - Martin Bavio (@mbavio):
+puede ser donde te estas hospedando tranquilamente, es para que te lleguen las tarjetas
+12:55:03 - Martin Bavio (@mbavio):
+o un PO Box y adios problema
+12:55:04 - Gonza Gluzman (@gonza):
+Lo otro importante es la estructura impositiva
+12:57:12 - Mariano Montero (@etmaro):
+Voy en unos meses a abrirme una. En teoria el gobierno solo demanda un pasaporte y otro id con foto. Muchas te piden un servicio a tu nombre en tu direccion. Despues depende de cada banco si te la da o no. Podes ir a un chase en NY y que te la nieguen y despues vas a LA y el Chase te abre la cuenta. Es re aleatorio. Tenes que ir y probar.
+12:59:32 - Martin Bavio (@mbavio):
+Yo la abri hace un par de años y solo me pidieron pasaporte y DNI. Lo hice ni bien llegue y les dije que era porque queria tener una tarjeta local mientras viajaba.
+13:01:47 - Gonza Espeche (@espeche.g):
+que beneficios tiene abrirse una cuenta allá viviendo acá?
+13:02:31 - Martin Bavio (@mbavio):
+cobrar laburos
+13:02:40 - Martin Bavio (@mbavio):
+guardar la guita
+13:03:05 - Nicolas Taboada (@ntaboada93):
+tema impuestos, si empezas a tener la guita ahi te cobran algo?
+13:03:29 - Martin Bavio (@mbavio):
+no dentro de un rango, que creo que varia en cada banco
+13:03:33 - Gonza Espeche (@espeche.g):
+claro, dejas toda la viyuya ahí, pero para usarla acá que onda? te la girás a una tarjeta de crédito/paypal/derivados?
+13:03:53 - Martin Bavio (@mbavio):
+<@U5L3AMCKT> te dan debito, credito ni en pedo
+13:04:15 - Martin Bavio (@mbavio):
+podes usar la de debito, o algun servicio de los muchos que hay, o un cajero
+13:04:31 - Gonza Gluzman (@gonza):
+Arrobaste al `gonza` equivocado :joy:
+13:04:39 - Martin Bavio (@mbavio):
+ups perdon!
+13:04:40 - Gonza Gluzman (@gonza):
+Era <@UBVFLQKNV>
+13:04:43 - Gonza Espeche (@espeche.g):
+jajaj, ahora tenes que aportar algo Gonza
+13:04:44 - Gonza Gluzman (@gonza):
+No problem!
+13:04:56 - Gonza Gluzman (@gonza):
+Emmm… a lo hecho, pecho (?
+13:05:38 - Mariano Ramonda (@ing.inf.mariano):
+lo que parece un detalle pero a veces no se tiene en cuenta es que es necesario estar en USA hasta recibir las tarjetas, en persona, donde te estes hospedando, o sea, un minimo de 2 semanas habitualmente
+13:06:14 - Mariano Montero (@etmaro):
+Tenes que abrirte una checking account, no una savings que te genera interes,
+13:06:45 - Mariano Montero (@etmaro):
+Si te genera interes empezas a estar en el radar del IRS (AFIP de alla) y ahi ya empiezan los problemas.
+13:20:31 - Diego Harari (@diehara):
+Yo creo que la displicencia para pagar impuestos en Argentina, se debe a la historia del país, a la gran corrupción que existió, existe y existirá. Y a los problemas de base que nunca solucionaron. Entonces uno tiene que pagar un montón de impuestos y solventar de manera privada todo lo que es deficiente de parte del estado. En algún momento las cuentas no dan.
+13:55:09 - Alejandro Nagy (@nagy.alejandro):
+ahhh, hablan de economía y política y me tientan :stuck_out_tongue:
+13:55:51 - Alejandro Nagy (@nagy.alejandro):
+el 60% del presupuesto nacional es para Servicios Sociales (educación, salud, planes y otros)
+13:56:15 - Alejandro Nagy (@nagy.alejandro):
+supongamos que el presupuesto nacional son 1.000$, para darle un número. 600$ son para Servicios Sociales
+13:57:10 - Alejandro Nagy (@nagy.alejandro):
+de esos 600$, el 60% es para Seguridad Social (planes), el 11% para Educación, y el 6% para Salud
+13:58:02 - Mariano Montero (@etmaro):
+che no te sacan screenshot cuando estas tipeando esto? jajja
+13:58:05 - Alejandro Nagy (@nagy.alejandro):
+20 millones de personas que dependen del Estado (planes, jubilaciones de reparto, empleados públicos etc), 8 millones de personas que generan riqueza. Do the math.
+13:58:16 - Alejandro Nagy (@nagy.alejandro):
+estoy en el almuerzo, el tracker está apagado
+13:58:22 - Santiago Ruffino (@santi_0898):
+JAJAJAJA
+13:58:31 - Santiago Ruffino (@santi_0898):
+*Usa slack desde el celu*
+13:58:42 - Julian (@jantonielli01):
+O el segundo monitor 
+13:58:59 - Alejandro Nagy (@nagy.alejandro):
+te captura la placa, no 1 monitor :stuck_out_tongue:
+13:59:13 - Alejandro Nagy (@nagy.alejandro):
+si tenes una VM corriendo tenes 2 screenshots, el del host y el de la VM :stuck_out_tongue:
+13:59:17 - Alejandro Nagy (@nagy.alejandro):
+no son giles :stuck_out_tongue:
+13:59:29 - Mariano Montero (@etmaro):
+ahh tranca
+13:59:43 - Mariano Montero (@etmaro):
+hay una persona que se encarga de analizar todos los screenshots?
+13:59:53 - Alejandro Nagy (@nagy.alejandro):
+un equipo, Risk Assessment
+14:00:01 - Alejandro Nagy (@nagy.alejandro):
+si tus indicadores son bajos revisan
+14:00:14 - Alejandro Nagy (@nagy.alejandro):
+y después al azar agarran a uno cualquiera
+14:00:14 - Mariano Montero (@etmaro):
+la cantidad de data que generas es notable
+14:00:27 - Alejandro Nagy (@nagy.alejandro):
+por eso te pagan diferido
+14:00:35 - Alejandro Nagy (@nagy.alejandro):
+laburas semana 1, analizan semana 2, cobras semana 3
+15:49:14 - Ale Miralles (@amiralles):
+Para abrir la cuenta no necesitas mas que el pasaporte y quedarte el tiempo suficiente como para que te lleguen las tarjetas. De ahi en mas es todo electronico.
+15:49:58 - Ale Miralles (@amiralles):
+(Y yo te recomendaria quedarte en un airbnb, complejo de condos, o algo por el estilo, para que la direccion del hotel no sea delatora, digamos...)
+15:54:49 - Nicolas Taboada (@ntaboada93):
+hace poco la abriste?
+16:07:04 - Ale Miralles (@amiralles):
+Hace poco mas de un año.
+16:07:24 - Ale Miralles (@amiralles):
+en Bank of America de Aventura (MIA)
+18:32:42 - Rodrigo Ali (@rodrigojali):
+¿Cuál es el mejor día para Home Office (en Argentina) y por qué?
+18:32:57 - Julian (@jantonielli01):
+todos : v
+18:33:59 - Rodrigo Ali (@rodrigojali):
+Deci que no sos una DB devolviendo resultados a Queries
+18:43:17 - Martin Carrera (@mcarrera):
+depende de vos
+18:43:29 - Martin Carrera (@mcarrera):
+si sos de salir a tomar una birra con la gente del laburo todos los viernes, no agarres wfh un viernes
+18:43:43 - Martin Carrera (@mcarrera):
+si te cuesta mucho ir a la oficina los lunes, pedite los lunes (aunque te vas a perder muchos x feriados)
+18:43:54 - Martin Carrera (@mcarrera):
+a menos q puedas renegociar los q te caen feriados
+18:44:17 - Martin Carrera (@mcarrera):
+si tenes alguna actividad que te convenga estar en tu casa algun dia particular
+18:44:44 - Martin Carrera (@mcarrera):
+eso si solo podes pedir 1 dia
+18:52:20 - Rodrigo Ali (@rodrigojali):
+Claro, yo pensaba como "día default" El miércoles
+18:52:43 - Rodrigo Ali (@rodrigojali):
+Onda si no tenes una razón de peso para hacer HO un día particular
+18:54:13 - Rodrigo Ali (@rodrigojali):
+Cortas la semana, podes ir de after más tranqui porque no tenés que ir a la Ofi, es como un "mini finde" pero laburando
+18:54:24 - Sergio Daniel Xalambrí (@sergiodxa):
+wait en las empresas donde solo te dan un día de HO por semana tenés que decir un día fijo todas las semanas?
+18:54:35 - Rodrigo Ali (@rodrigojali):
+Se
+18:54:39 - Martin Carrera (@mcarrera):
+supuestamente x un tema de ART
+18:54:40 - Rodrigo Ali (@rodrigojali):
+Al menos en la mía
+18:54:41 - Sergio Daniel Xalambrí (@sergiodxa):
+no podemos simplemente a la mañana decir "hoy no voy a la oficina" y fue?
+18:54:56 - Rodrigo Ali (@rodrigojali):
+Tengo entendido que por ART no
+18:54:58 - Martin Carrera (@mcarrera):
+al menos cuando yo laburaba en una empresa que hacia eso, esa era la excusa
+18:55:04 - Martin Carrera (@mcarrera):
+ART y organizacion del equipo
+18:55:22 - Rodrigo Ali (@rodrigojali):
+Pero dependiendo del team podes moverlo
+18:56:16 - Sergio Daniel Xalambrí (@sergiodxa):
+me suena a chamuyo de las empresas
+18:56:26 - Rodrigo Ali (@rodrigojali):
+Capa
+18:56:37 - Sergio Daniel Xalambrí (@sergiodxa):
+ya de por si seguro que no quieren darte el HO, solo lo hacen por presión social de que muchos piden
+18:57:15 - Rodrigo Ali (@rodrigojali):
+Claramente el futuro es laburar 100% remoto 6hs/4 días
+18:57:29 - Rodrigo Ali (@rodrigojali):
+Peeeeeero hoy tengo acceso a esto ahora mismo
+18:57:50 - Rodrigo Ali (@rodrigojali):
+Beibi steps
+19:03:31 - Marcos Casagrande (@marcoscvp90):
+Dónde laburaba antes, no eran fijos, pero tampoco los elegías vos. Cada mes generaban un calendario con los 4 días de HO.
+19:03:49 - Marcos Casagrande (@marcoscvp90):
+Prefiero día fijo la verdad, al menos lo elegís vos, y sabés que ese día tenés HO siempre.
+19:03:54 - Rodrigo Ali (@rodrigojali):
+JoJo
+19:04:44 - Marcos Casagrande (@marcoscvp90):
+No sé si ahora cambiaron la modalidad, pero era medio paja la verdad.
+19:05:28 - Martin Carrera (@mcarrera):
+ojo a mi me paso eso tmb, q te lo seleccione otro
+19:05:37 - Martin Carrera (@mcarrera):
+y es lo peor, es casi como no tenerlo
+20:56:08 - Diego Harari (@diehara):
+miercoles a pleno
