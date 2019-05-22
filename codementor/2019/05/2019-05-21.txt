@@ -1,0 +1,416 @@
+14:20:28 - Aldo Sorbara (@aldo1891):
+Buenas, chicos pregunto por aca primero. Para trabajos freelos por hora, para una agencia de argentina, cuanto pedirian? SR frontend
+14:49:15 - Ale Miralles (@amiralles):
+Me mataste. Cero experiencia en el front.
+14:53:41 - Martín Aimar (@maimar):
+es muy diferente la tarifa front y back?
+14:54:41 - Aldo Sorbara (@aldo1891):
+no creo
+14:58:16 - Ale Miralles (@amiralles):
+En mi caso, para los freelos argentos, suelo estimar USD 30 la hora.
+14:58:44 - Ale Miralles (@amiralles):
+Nunca quede afuera, por eso asumo que es bajo!
+14:58:45 - Ale Miralles (@amiralles):
+jajaja
+14:58:54 - Martín Aimar (@maimar):
+para acá es una banda
+15:00:26 - Ale Miralles (@amiralles):
+para freelos me parece que no, eh..... (.NET, Ruby, JS)
+15:00:49 - Aldo Sorbara (@aldo1891):
+tire 27 creo,
+15:00:52 - Aldo Sorbara (@aldo1891):
+bueno no esta tan mal
+15:00:53 - Ale Miralles (@amiralles):
+Pero como decia antes, cero experiencia en el front.
+15:01:00 - Aldo Sorbara (@aldo1891):
+seguramente es poco,
+15:01:09 - Aldo Sorbara (@aldo1891):
+ire pidiendo mas a medida que agarre mas
+15:01:59 - Ale Miralles (@amiralles):
+Si, tal cual.
+15:02:10 - Ale Miralles (@amiralles):
+Yo creo que depende mucho de la linea de clientes tambien.
+15:02:34 - Ale Miralles (@amiralles):
+si la agencia le factura a un banco, le va a pasar USD 200 la hora por abajo de las patas, y es para una pymes, mucho menos.
+15:02:52 - Ale Miralles (@amiralles):
+Eso influye mucho en el precio.
+15:03:46 - Aldo Sorbara (@aldo1891):
+recien estoy "arrancando" como freelance (es mas, sigo en relacion de dependencia hasta julio seguramente), asi que estoy tanteando valores y cuanto laburo puedo tener
+15:06:12 - Ale Miralles (@amiralles):
+Yo hace rato que hago cosas freelance, pero nunca deje de estar en relacion de dependencia. Eso tambien ayuda a la hora de poner el precio y negociar los terminos del laburo.
+15:06:30 - Julian (@jantonielli01):
+yo le tire 30 a unos que me pidieron un laburo
+15:06:33 - Julian (@jantonielli01):
+y salieron espantados jaja
+15:06:58 - Julian (@jantonielli01):
+esperaban pagar 500-700 pe la hora creo
+15:07:07 - Leandro Echevarria (@echevarrialeandro):
+Que sigan soñando
+15:07:27 - Ale Miralles (@amiralles):
+Estan locos!
+15:07:27 - Ale Miralles (@amiralles):
+Que aprendan a programar!!!
+15:07:28 - Ale Miralles (@amiralles):
+jajaja
+15:07:41 - Julian (@jantonielli01):
+Nah, van a conseguir alguno al toque
+15:07:46 - Aldo Sorbara (@aldo1891):
+tampoco hay que regalarse
+15:07:47 - Julian (@jantonielli01):
+que se lo haga por esa plata, o menos
+15:08:10 - Aldo Sorbara (@aldo1891):
+si siempre hay uno que agarra
+15:08:34 - Mariano Ramonda (@ing.inf.mariano):
+hablar de dolares aca en Arg no es buen plan
+15:08:39 - Marcos Casagrande (@marcoscvp90):
+yo la verdad, no laburo para Argentina porque nadie quiere pagar la tarifa.
+15:08:49 - Ale Miralles (@amiralles):
+tal cual
+15:08:53 - Mariano Ramonda (@ing.inf.mariano):
+no importa el nro, si decir dolar, cagaste
+15:08:57 - Ale Miralles (@amiralles):
+si no tenes la necesidad inmediata, que lo hagan ellos.
+15:09:03 - Ale Miralles (@amiralles):
+corta
+15:09:11 - Ale Miralles (@amiralles):
+mas teniendo buen nivel de ingles.
+15:09:29 - Marcos Casagrande (@marcoscvp90):
+Cuando recién arrancaba como freelance, tiré 40 USD, y me dijeron que estaba loco. Ahora la verdad, no hago descuento, pagan 80 o que la chupen, si la quiere pagar que lo pague, sino ya fue.
+15:09:32 - Ale Miralles (@amiralles):
+<@U86N8M2JK> si. Pasa mucho eso...
+15:09:41 - Marcos Casagrande (@marcoscvp90):
+Además es peor, porque si le facturás, tenés que pagar IVA.
+15:10:08 - Julian (@jantonielli01):
+Yo he mandado a hacer landing pages por 50 dolares jaj, así que ya no me quejo tanto de los esclavizadores
+15:10:30 - Marcos Casagrande (@marcoscvp90):
+Así que yo ya no laburo para Argentina, pero si tenés un posible cliente, yo no me bajaría mucho la tarifa comparada con afuera. No tenés necesidad.
+15:10:52 - Ale Miralles (@amiralles):
+Yo he visto las facturas que le pasan a los clientes (empresas grandes), y la hora no baja de USD 150. Porque voy a laburar por 15?
+15:10:55 - Ale Miralles (@amiralles):
+No tiene sentido.
+15:11:07 - Marcos Casagrande (@marcoscvp90):
+Otra cosa es que no consigas nada afuera por 60 ponele, bueno ahí podés bajar la tarifa, pero si tenés suficiente laburo por 50-60, no tiene sentido bajarse a 35 para Argentina.
+15:11:07 - Julian (@jantonielli01):
+Tmb está la clásica de pedir laburos de diseño en un grupo de la FADU, todos saltan aunque les pagues 300 pe
+15:11:37 - Leandro Echevarria (@echevarrialeandro):
+Pero nosotros tenemos exceso de oferta, diseño quizas no
+15:11:42 - Leandro Echevarria (@echevarrialeandro):
+(desconozco realmente)
+15:12:09 - Mariano Ramonda (@ing.inf.mariano):
+yo trabaje en una soft fact que paga hasta 4k verdes bruto en relacion de dep, con feriados, 3 semanas de vacaciones pagas, aguinaldo, toda la bola
+15:12:27 - Mariano Ramonda (@ing.inf.mariano):
+eso quiere decir que el cliente por un dev asi paga mas de 100 dolares, siempre
+15:12:38 - Mariano Ramonda (@ing.inf.mariano):
+en el rango de los 100 a 150
+15:12:50 - Mariano Ramonda (@ing.inf.mariano):
+asi que afirmo tal cosa
+15:12:51 - Ale Miralles (@amiralles):
+A mi no me parece loco USD 30 la hora. De hecho, como decia antes, me parece poco, pero dentro de todo me sirve y lo hago por eso.
+14:20:28 - Aldo Sorbara (@aldo1891):
+Buenas, chicos pregunto por aca primero. Para trabajos freelos por hora, para una agencia de argentina, cuanto pedirian? SR frontend
+14:49:15 - Ale Miralles (@amiralles):
+Me mataste. Cero experiencia en el front.
+14:53:41 - Martín Aimar (@maimar):
+es muy diferente la tarifa front y back?
+14:54:41 - Aldo Sorbara (@aldo1891):
+no creo
+14:58:16 - Ale Miralles (@amiralles):
+En mi caso, para los freelos argentos, suelo estimar USD 30 la hora.
+14:58:44 - Ale Miralles (@amiralles):
+Nunca quede afuera, por eso asumo que es bajo!
+14:58:45 - Ale Miralles (@amiralles):
+jajaja
+14:58:54 - Martín Aimar (@maimar):
+para acá es una banda
+15:00:26 - Ale Miralles (@amiralles):
+para freelos me parece que no, eh..... (.NET, Ruby, JS)
+15:00:49 - Aldo Sorbara (@aldo1891):
+tire 27 creo,
+15:00:52 - Aldo Sorbara (@aldo1891):
+bueno no esta tan mal
+15:00:53 - Ale Miralles (@amiralles):
+Pero como decia antes, cero experiencia en el front.
+15:01:00 - Aldo Sorbara (@aldo1891):
+seguramente es poco,
+15:01:09 - Aldo Sorbara (@aldo1891):
+ire pidiendo mas a medida que agarre mas
+15:01:59 - Ale Miralles (@amiralles):
+Si, tal cual.
+15:02:10 - Ale Miralles (@amiralles):
+Yo creo que depende mucho de la linea de clientes tambien.
+15:02:34 - Ale Miralles (@amiralles):
+si la agencia le factura a un banco, le va a pasar USD 200 la hora por abajo de las patas, y es para una pymes, mucho menos.
+15:02:52 - Ale Miralles (@amiralles):
+Eso influye mucho en el precio.
+15:03:46 - Aldo Sorbara (@aldo1891):
+recien estoy "arrancando" como freelance (es mas, sigo en relacion de dependencia hasta julio seguramente), asi que estoy tanteando valores y cuanto laburo puedo tener
+15:06:12 - Ale Miralles (@amiralles):
+Yo hace rato que hago cosas freelance, pero nunca deje de estar en relacion de dependencia. Eso tambien ayuda a la hora de poner el precio y negociar los terminos del laburo.
+15:06:30 - Julian (@jantonielli01):
+yo le tire 30 a unos que me pidieron un laburo
+15:06:33 - Julian (@jantonielli01):
+y salieron espantados jaja
+15:06:58 - Julian (@jantonielli01):
+esperaban pagar 500-700 pe la hora creo
+15:07:07 - Leandro Echevarria (@echevarrialeandro):
+Que sigan soñando
+15:07:27 - Ale Miralles (@amiralles):
+Estan locos!
+15:07:27 - Ale Miralles (@amiralles):
+Que aprendan a programar!!!
+15:07:28 - Ale Miralles (@amiralles):
+jajaja
+15:07:41 - Julian (@jantonielli01):
+Nah, van a conseguir alguno al toque
+15:07:46 - Aldo Sorbara (@aldo1891):
+tampoco hay que regalarse
+15:07:47 - Julian (@jantonielli01):
+que se lo haga por esa plata, o menos
+15:08:10 - Aldo Sorbara (@aldo1891):
+si siempre hay uno que agarra
+15:08:34 - Mariano Ramonda (@ing.inf.mariano):
+hablar de dolares aca en Arg no es buen plan
+15:08:39 - Marcos Casagrande (@marcoscvp90):
+yo la verdad, no laburo para Argentina porque nadie quiere pagar la tarifa.
+15:08:49 - Ale Miralles (@amiralles):
+tal cual
+15:08:53 - Mariano Ramonda (@ing.inf.mariano):
+no importa el nro, si decir dolar, cagaste
+15:08:57 - Ale Miralles (@amiralles):
+si no tenes la necesidad inmediata, que lo hagan ellos.
+15:09:03 - Ale Miralles (@amiralles):
+corta
+15:09:11 - Ale Miralles (@amiralles):
+mas teniendo buen nivel de ingles.
+15:09:29 - Marcos Casagrande (@marcoscvp90):
+Cuando recién arrancaba como freelance, tiré 40 USD, y me dijeron que estaba loco. Ahora la verdad, no hago descuento, pagan 80 o que la chupen, si la quiere pagar que lo pague, sino ya fue.
+15:09:32 - Ale Miralles (@amiralles):
+<@U86N8M2JK> si. Pasa mucho eso...
+15:09:41 - Marcos Casagrande (@marcoscvp90):
+Además es peor, porque si le facturás, tenés que pagar IVA.
+15:10:08 - Julian (@jantonielli01):
+Yo he mandado a hacer landing pages por 50 dolares jaj, así que ya no me quejo tanto de los esclavizadores
+15:10:30 - Marcos Casagrande (@marcoscvp90):
+Así que yo ya no laburo para Argentina, pero si tenés un posible cliente, yo no me bajaría mucho la tarifa comparada con afuera. No tenés necesidad.
+15:10:52 - Ale Miralles (@amiralles):
+Yo he visto las facturas que le pasan a los clientes (empresas grandes), y la hora no baja de USD 150. Porque voy a laburar por 15?
+15:10:55 - Ale Miralles (@amiralles):
+No tiene sentido.
+15:11:07 - Marcos Casagrande (@marcoscvp90):
+Otra cosa es que no consigas nada afuera por 60 ponele, bueno ahí podés bajar la tarifa, pero si tenés suficiente laburo por 50-60, no tiene sentido bajarse a 35 para Argentina.
+15:11:07 - Julian (@jantonielli01):
+Tmb está la clásica de pedir laburos de diseño en un grupo de la FADU, todos saltan aunque les pagues 300 pe
+15:11:37 - Leandro Echevarria (@echevarrialeandro):
+Pero nosotros tenemos exceso de oferta, diseño quizas no
+15:11:42 - Leandro Echevarria (@echevarrialeandro):
+(desconozco realmente)
+15:12:09 - Mariano Ramonda (@ing.inf.mariano):
+yo trabaje en una soft fact que paga hasta 4k verdes bruto en relacion de dep, con feriados, 3 semanas de vacaciones pagas, aguinaldo, toda la bola
+15:12:27 - Mariano Ramonda (@ing.inf.mariano):
+eso quiere decir que el cliente por un dev asi paga mas de 100 dolares, siempre
+15:12:38 - Mariano Ramonda (@ing.inf.mariano):
+en el rango de los 100 a 150
+15:12:50 - Mariano Ramonda (@ing.inf.mariano):
+asi que afirmo tal cosa
+15:12:51 - Ale Miralles (@amiralles):
+A mi no me parece loco USD 30 la hora. De hecho, como decia antes, me parece poco, pero dentro de todo me sirve y lo hago por eso.
+15:13:12 - Mariano Ramonda (@ing.inf.mariano):
+<@U28KZ0BR9> :point_up_2:
+15:13:51 - Mariano Ramonda (@ing.inf.mariano):
+la diferencia es que los que pagan 100 o mas la hora no pagan "el servicio de un dev freelance", pagan otra cosa
+15:14:07 - Mariano Ramonda (@ing.inf.mariano):
+contratan un servicio, un paquete que viene con ciertas seguridades
+15:14:11 - Ale Miralles (@amiralles):
+Si. Totalmente.
+15:14:13 - Mariano Ramonda (@ing.inf.mariano):
+es otra cosa
+15:14:23 - Mariano Ramonda (@ing.inf.mariano):
+no hay que verlo asi, comparar directamente
+15:14:30 - Mariano Ramonda (@ing.inf.mariano):
+un banco no te va a contratar como freelance
+15:14:33 - Ale Miralles (@amiralles):
+Pero a lo que voy, es a que ni siquiera mandan seniors!!!
+15:14:42 - Ale Miralles (@amiralles):
+Las licitaciones lo mismo.
+15:14:47 - Mariano Ramonda (@ing.inf.mariano):
+ni siquiera les importa
+15:14:48 - Ale Miralles (@amiralles):
+Entiendo que es otro mercado.
+15:14:51 - Mariano Ramonda (@ing.inf.mariano):
+porque estan asegurados
+15:15:05 - Ale Miralles (@amiralles):
+Si. Claro.
+15:15:08 - Ale Miralles (@amiralles):
+Mil veces hable eso.
+15:15:37 - Ale Miralles (@amiralles):
+A parte, en un projecto grande, el tipo tendria que estar loco contratando a un nato independiente. Manana se pira, se muda a Tailandia, y anda a cantarle a Gardel.
+15:15:47 - Mariano Ramonda (@ing.inf.mariano):
+aca podriamos reunir a un grupo de no se, 10 excelentes devs, que hagan soft de mucha calidad, rapido, lo que sea, pero ningun banco va a contratar a ese team
+15:16:00 - Ale Miralles (@amiralles):
+tal cual.
+15:16:31 - Ale Miralles (@amiralles):
+Prefieren un grupo de programadores "medio pelo" que trabajen para una empresa con trayectoria.
+15:16:37 - Mariano Ramonda (@ing.inf.mariano):
+se firman contratos de confidencialidad, se pactan tiempos de entrega que comprometen financieramente a la empresa
+15:16:43 - Mariano Ramonda (@ing.inf.mariano):
+exacto
+15:17:04 - Mariano Ramonda (@ing.inf.mariano):
+al software lo contrata un sector de una empresa que no tiene nada que ver con software
+15:17:09 - Ale Miralles (@amiralles):
+Si, si... Yo trabajo en el rubro bancos, y es asi.
+15:17:34 - Mariano Ramonda (@ing.inf.mariano):
+nosotros muchaches, estamos en la base de la piramide, les cuento :stuck_out_tongue:
+15:17:44 - Mariano Ramonda (@ing.inf.mariano):
+manotiemos lo que podamos
+15:18:55 - Mariano Ramonda (@ing.inf.mariano):
+y se va a la mierda el channel tan facil
+15:20:03 - Ale Miralles (@amiralles):
+jajaja. Totalmente.
+15:42:58 - Marcos Casagrande (@marcoscvp90):
+que paja hacer software para un banco igualmente
+15:43:30 - Ale Miralles (@amiralles):
+En general, si.
+15:45:34 - Ale Miralles (@amiralles):
+Yo igualmente hago el core del sistema. No trabajo con analistas, ni traders, ni end-users, ni nada que se le parezca. Pero si,  el ambiente "bancos" es general es bastante plomo....
+15:49:58 - Mariano Ramonda (@ing.inf.mariano):
+un amigo a travez de accenture le a cobol para el galicia... :developers:
+15:51:11 - Leandro Echevarria (@echevarrialeandro):
+Wacala pobre hombre. Ojala el sueldo no le baje d 150k
+15:52:07 - Mariano Ramonda (@ing.inf.mariano):
+no sabes lo bajo que es
+15:52:16 - Mariano Ramonda (@ing.inf.mariano):
+pero el esta chocho con los "beneficios"
+15:52:26 - Mariano Ramonda (@ing.inf.mariano):
+para mi el esta haciendo obra benefica ahi
+15:57:51 - Ale Miralles (@amiralles):
+Galicia es uno de los clientes de la empresa en la que trabajo yo.
+15:58:04 - Ale Miralles (@amiralles):
+Practicamente todo el back termina en Cobol.
+15:58:41 - Ale Miralles (@amiralles):
+Tienen apis en .NET y Java. Pero al final del recorrido, termina siendo Cobol.
+15:59:16 - Ale Miralles (@amiralles):
+Sabes que conozco gente que hace Cobol por dos mangos. No lo voy a entender nunca.
+15:59:38 - Ale Miralles (@amiralles):
+(Y hablo de gente joven, eh. No de tipos que estan a meses de retirarse. Una locura)
+16:45:30 - Marcos Casagrande (@marcoscvp90):
+no saben que son 10 personas en total, esperá que se aviven
+16:57:12 - Ale Miralles (@amiralles):
+Si. Ni hablar.
+19:12:42 - Adrián Velasco (@adrivelasco1506):
+a mí un amigo iOS dev. con experiencia de más de 5 años laburando como freelance me dijo "una empresa *(local)* que pague bien, como mucho te puede ofrecer 25 USD la hora"
+19:13:31 - Julian (@jantonielli01):
+No se si "como mucho"
+19:13:36 - Julian (@jantonielli01):
+Pero si es full time, es un buen rate
+19:15:09 - Adrián Velasco (@adrivelasco1506):
+obvio es bastante plata pero ponele que sea verdad, sigue siendo muy poco..
+19:16:05 - Julian (@jantonielli01):
+No, 25USD la hora para un full time está bien
+19:16:20 - Julian (@jantonielli01):
+Es re normal que el rate por hora de FT sea la mitad de freelo
+19:16:26 - Adrián Velasco (@adrivelasco1506):
+sisi perdón, digo en relación a laburos remotos
+19:16:43 - Adrián Velasco (@adrivelasco1506):
+aunque deben empezar en ese número también
+19:17:38 - Adrián Velasco (@adrivelasco1506):
+qué piensan de en vez trabajar por hora, dolarizar el sueldo como hacen en Altoros supuestamente, te terminan pagando en pesos obviamente según el cambio del día?
+19:17:51 - Adrián Velasco (@adrivelasco1506):
+cuánto pedirían en ese caso
+19:18:17 - Julian (@jantonielli01):
+Yo personalmente con 3-4k estoy feliz
+19:18:38 - Julian (@jantonielli01):
+Voy a pedir lo máximo que creo que me vayan a pagar
+19:18:47 - Julian (@jantonielli01):
+Pero con eso estoy re ok
+19:19:33 - Adrián Velasco (@adrivelasco1506):
+vos decís de pedir siempre el máximo?
+19:19:51 - Adrián Velasco (@adrivelasco1506):
+con 4k por mes te acercás a un sueldo anual de *apróx.* a 50k jajaja, es bastante
+19:19:51 - Julian (@jantonielli01):
+Si
+19:24:06 - Julian (@jantonielli01):
+Que se yo, no me parece exagerado
+19:42:27 - Marcos Casagrande (@marcoscvp90):
+4k para acá no es poco, está re bien la verdad, mejor que eso no vas a conseguir, si alguno consigue ese sueldo la hizo re bien.
+19:43:03 - Ale Miralles (@amiralles):
+Para empresas de Arg, 3-4k es el tope de gama en lineas generales.
+19:43:05 - Marcos Casagrande (@marcoscvp90):
+Para un semi sr, como vos Adri, 2k usd creo que es lo máximo que se puede llegar acá en Argentina
+19:44:07 - Marcos Casagrande (@marcoscvp90):
+Y no sé que empresa paga eso siendo honestos. La mayoría de seniors que conozco no llegan a esos valores acá. Pero remoto sacás 3.5-5k como semi.
+19:46:32 - Ale Miralles (@amiralles):
+"Hola, estoy buscando dev REACT Native SSr o Sr, para trabajar full time en palermo. 1 dia de HO, osde 310, gimnasio, MAC, celular. Rango 100 a 150k, dependiendo el seniority. Si alguno le interesa me escribe y hablamos. "
+19:46:49 - Ale Miralles (@amiralles):
+Ese anuncio lo tiraron hoy en jobs
+19:47:06 - Ale Miralles (@amiralles):
+150k ARS son 3.2k verdes.
+19:47:13 - Ale Miralles (@amiralles):
+Para una empresa de aca no esta nada mal.
+19:47:25 - Ale Miralles (@amiralles):
+En ese rango hay varias propuestas.
+19:47:47 - Ale Miralles (@amiralles):
+De 4k para arriba, no vi nunca por estos pagos.
+19:48:30 - Ale Miralles (@amiralles):
+Igualmente, como hablamos siempre, el negocio es laburar para afuera.
+19:50:14 - Juan Scolari (@juanscolari):
+abre mas puertas tambien
+19:50:21 - Juan Scolari (@juanscolari):
+y no hay limite
+19:51:10 - Juan Scolari (@juanscolari):
+aca los 150k ARS te pueden pasar en unos meses a ser 2.5 USD
+19:51:58 - Adrián Velasco (@adrivelasco1506):
+si obvio, la gracia sería tratar de si buscás en argentina atarlo al dólar
+19:52:00 - Juan Scolari (@juanscolari):
+lo otro igual a favor, es el aguinaldo y las vacaciones pagas
+19:52:11 - Juan Scolari (@juanscolari):
+para tenerlos en cuenta en la ecuacion
+19:52:16 - Juan Scolari (@juanscolari):
+y feriados
+19:52:16 - Marcos Casagrande (@marcoscvp90):
+Es lo que me paso a mi, estaba ganando 2200 USD en Noviembre 2017, en Junio, había pasado a 1400 o cosa así, ahí renuncié.
+19:52:47 - Marcos Casagrande (@marcoscvp90):
+en Agosto subio a 40 después, ahí me suicidaba si seguía en relación de dependencia
+19:52:59 - Juan Scolari (@juanscolari):
+nos cagaron a todos esa vuelta
+19:53:07 - Adrián Velasco (@adrivelasco1506):
+posta
+19:53:08 - Juan Scolari (@juanscolari):
+a nadie que conozca le ajustaron bien
+19:53:33 - Adrián Velasco (@adrivelasco1506):
+es que si te ajustaban tenía que ser el 50% mínimo jaja
+19:53:46 - Adrián Velasco (@adrivelasco1506):
+y era negociar eso o renunciar para cambiarte de laburo y conseguir algo mejor
+19:55:07 - Ale Miralles (@amiralles):
+100% diria yo.
+19:55:24 - Ale Miralles (@amiralles):
+el dolar paso de 20 a 40 sin anestesia.
+19:55:55 - Ale Miralles (@amiralles):
+me acuerdo porque en esa fecha confirme un proyecto a 12 meses en pesos!!!
+19:56:00 - Ale Miralles (@amiralles):
+me queria matar.
+19:56:14 - Ale Miralles (@amiralles):
+(igualmente, me lo merezco por boludo, no....)
+19:57:17 - Juan Scolari (@juanscolari):
+somos 40 millones de boludos, no te preocupes jajaj
+19:57:27 - Ale Miralles (@amiralles):
+jajaja
+19:58:12 - Adrián Velasco (@adrivelasco1506):
+me acuerdo que en esa época, me llamó mi jefe y me dijo "por la situación y tu performance, decidimos darte un 25% de aumento de una y no progresivo, igualmente tratá de no difundirlo porque no es un aumento que se lo hicimos a todos"
+19:58:44 - Adrián Velasco (@adrivelasco1506):
+a la semana comuniqué mi renuncia, literal
+19:59:21 - Adrián Velasco (@adrivelasco1506):
+igualmente creo que tampoco me logré acomodar, fue duro lo del dólar
+19:59:31 - Adrián Velasco (@adrivelasco1506):
+se nos escapó a todos :disappointed_relieved:
+19:59:49 - Ale Miralles (@amiralles):
+Si, ni hablar.
+20:03:15 - Adrián Velasco (@adrivelasco1506):
+es que, por ahí es muy errado mi pensamiento, pero como hacés para de un día para el otro, ir y decir "quiero ganar el doble" cuando lo merecés pero al mismo tiempo no sos una pieza indispensable en la empresa cuando pueden contratar otra persona con tus mismos skills y la misma plata
+20:09:23 - Ale Miralles (@amiralles):
+El problema es ese. Si no sos una pieza clave, lamentablemente, no tenes muchas piezas para negociar.
+20:10:31 - Ale Miralles (@amiralles):
+Lo mismo, si tu laburo lo puede hacer alguien con menos experiencia. Aunque el resultado final no sea el mismo, el tipo tiene en la cabeza que hay otra persona que puede hacer lo mismo por menos plata.
+20:10:34 - Ale Miralles (@amiralles):
+Pasa mucho eso.
+20:14:47 - Marcos Casagrande (@marcoscvp90):
+Por eso Adri, cuando no tenés la ventaja en la negociación, lo mejor es irte a otro laburo, porque ahí no te van a dar lo que querés
