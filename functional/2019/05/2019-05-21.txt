@@ -1,0 +1,72 @@
+01:03:25 - Martín Valdés de León (@mvaldesdeleon):
+<https://i.imgur.com/Zz5uvyG.png>
+04:08:53 - gillchristian (@gillchristian):
+Cuando usas map pero necesitabas flatMap
+06:28:49 - Martín Valdés de León (@mvaldesdeleon):
+recien vi que "Taller de Algebra 1" para CS en exactas es con Haskell... pero me puse a ver las filminas y es un bodrio xD
+09:13:12 - Martín Valdés de León (@mvaldesdeleon):
+siempre bardeo gente de twitter, pero alguien que en general postea y retweetea cosas decentes es <https://twitter.com/rauschma>
+10:55:43 - Ezequiel Alvarez (@welcometothechango):
+<@U0TFEHWEA> che por que decís eso del taller de algebra? aclaro que es para estudiantes de Algebra 1 (no solo son de Computacion), y que no es para aprender haskell sino para tener acercamiento a una PC y practicar induccion
+10:56:11 - Leandro Echevarria (@echevarrialeandro):
+En la UBA?
+10:56:43 - Ezequiel Alvarez (@welcometothechango):
+asumí que si pq se llama igual el taller
+10:58:47 - Martín Valdés de León (@mvaldesdeleon):
+me parecieron una particular mezcla de densas y aburridas
+10:58:54 - Martín Valdés de León (@mvaldesdeleon):
+y eso que curse Algebra 1 y me encanto
+11:02:16 - Ezequiel Alvarez (@welcometothechango):
+son talleres, los encaran en la compu, es una cuestión práctica mas que nada, yo la cursé con y sin y me gustó mas con (?)
+12:09:31 - Juan Bono (@juanbono):
+Tienen los slides o algo para ver qué onda?
+12:19:14 - Juan Bono (@juanbono):
+Ahh ahí las vi, igual mucho más no sé si se pueda dar en el contexto de los temas que se ven en álgebra I (segun lo que veo en la página)
+12:42:32 - Martín Valdés de León (@mvaldesdeleon):
+<https://campus.exactas.uba.ar/pluginfile.php/122509/mod_resource/content/11/clase02.pdf>
+12:42:37 - Martín Valdés de León (@mvaldesdeleon):
+no critico el contenido, sino la forma
+12:43:11 - Martín Valdés de León (@mvaldesdeleon):
+el contenido en si esta perfecto, pero es la forma mas aburrida posible de introducirlo :joy:
+13:49:16 - Ezequiel Alvarez (@welcometothechango):
+es para algebra y para gente que no estudia computacion, no me desubicado (?)
+15:07:04 - Federico A. Sawady O'Connor (@sawady.faso):
+muy forzado queda para mi
+17:16:44 - gillchristian (@gillchristian):
+<https://engineering.itpro.tv/2019/05/21/announcing-the-haskell-weekly-podcast/>
+01:03:25 - Martín Valdés de León (@mvaldesdeleon):
+<https://i.imgur.com/Zz5uvyG.png>
+04:08:53 - gillchristian (@gillchristian):
+Cuando usas map pero necesitabas flatMap
+06:28:49 - Martín Valdés de León (@mvaldesdeleon):
+recien vi que "Taller de Algebra 1" para CS en exactas es con Haskell... pero me puse a ver las filminas y es un bodrio xD
+09:13:12 - Martín Valdés de León (@mvaldesdeleon):
+siempre bardeo gente de twitter, pero alguien que en general postea y retweetea cosas decentes es <https://twitter.com/rauschma>
+10:55:43 - Ezequiel Alvarez (@welcometothechango):
+<@U0TFEHWEA> che por que decís eso del taller de algebra? aclaro que es para estudiantes de Algebra 1 (no solo son de Computacion), y que no es para aprender haskell sino para tener acercamiento a una PC y practicar induccion
+10:56:11 - Leandro Echevarria (@echevarrialeandro):
+En la UBA?
+10:56:43 - Ezequiel Alvarez (@welcometothechango):
+asumí que si pq se llama igual el taller
+10:58:47 - Martín Valdés de León (@mvaldesdeleon):
+me parecieron una particular mezcla de densas y aburridas
+10:58:54 - Martín Valdés de León (@mvaldesdeleon):
+y eso que curse Algebra 1 y me encanto
+11:02:16 - Ezequiel Alvarez (@welcometothechango):
+son talleres, los encaran en la compu, es una cuestión práctica mas que nada, yo la cursé con y sin y me gustó mas con (?)
+12:09:31 - Juan Bono (@juanbono):
+Tienen los slides o algo para ver qué onda?
+12:19:14 - Juan Bono (@juanbono):
+Ahh ahí las vi, igual mucho más no sé si se pueda dar en el contexto de los temas que se ven en álgebra I (segun lo que veo en la página)
+12:42:32 - Martín Valdés de León (@mvaldesdeleon):
+<https://campus.exactas.uba.ar/pluginfile.php/122509/mod_resource/content/11/clase02.pdf>
+12:42:37 - Martín Valdés de León (@mvaldesdeleon):
+no critico el contenido, sino la forma
+12:43:11 - Martín Valdés de León (@mvaldesdeleon):
+el contenido en si esta perfecto, pero es la forma mas aburrida posible de introducirlo :joy:
+13:49:16 - Ezequiel Alvarez (@welcometothechango):
+es para algebra y para gente que no estudia computacion, no me desubicado (?)
+15:07:04 - Federico A. Sawady O'Connor (@sawady.faso):
+muy forzado queda para mi
+17:16:44 - gillchristian (@gillchristian):
+<https://engineering.itpro.tv/2019/05/21/announcing-the-haskell-weekly-podcast/>
