@@ -1,0 +1,465 @@
+11:22:35 - Santiago Ruffino (@santi_0898):
+Tengo un HTML+CSS. Si quisiera usar una libreria como Material components. Como deberia hacer para poder usarla?
+11:22:52 - Santiago Ruffino (@santi_0898):
+Porque la doc me dice `npm install @material/card`
+11:23:03 - Santiago Ruffino (@santi_0898):
+Y yo estoy como :man-shrugging::skin-tone-2:
+11:23:16 - Aldo Gabriel Rojas (@aldogrojas5):
+Fijate en la doc de la libreria
+11:23:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Algunas solo declaras en el html el css y el script y ya salen
+11:23:41 - Aldo Gabriel Rojas (@aldogrojas5):
+Otras tenes q insralarlas
+11:23:50 - Leandro Echevarria (@echevarrialeandro):
+&lt;head&gt;
+  &lt;link href="<https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css>" rel="stylesheet"&gt;
+  &lt;script src="<https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js>"&gt;&lt;/script&gt;
+&lt;/head&gt;
+11:23:53 - Leandro Echevarria (@echevarrialeandro):
+<https://material.io/develop/web/docs/getting-started/>
+11:24:14 - Santiago Ruffino (@santi_0898):
+Ahhhh, mira vos
+11:24:18 - Santiago Ruffino (@santi_0898):
+Yo estaba leyendo este <https://github.com/material-components/material-components-web/tree/master/packages/mdc-card>
+11:24:31 - Aldo Gabriel Rojas (@aldogrojas5):
+<https://getmdl.io/>
+11:24:45 - Aldo Gabriel Rojas (@aldogrojas5):
+Este le mandas el cdn y ya sale andando sin instalar nada
+11:25:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo q dijo él está mejor explicado :rolling_on_the_floor_laughing:
+13:37:23 - Santiago Ruffino (@santi_0898):
+Voy a hacer una prueba de una mini app con React. Con que me conviene hacer el Back? Habia pensado NodeJS porque es el stack que se maneja normalmente
+13:37:41 - Santiago Ruffino (@santi_0898):
+Si bien mi zona de confort es Python, quiero tirarme para algo que se use mas en el mercado
+11:22:35 - Santiago Ruffino (@santi_0898):
+Tengo un HTML+CSS. Si quisiera usar una libreria como Material components. Como deberia hacer para poder usarla?
+11:22:52 - Santiago Ruffino (@santi_0898):
+Porque la doc me dice `npm install @material/card`
+11:23:03 - Santiago Ruffino (@santi_0898):
+Y yo estoy como :man-shrugging::skin-tone-2:
+11:23:16 - Aldo Gabriel Rojas (@aldogrojas5):
+Fijate en la doc de la libreria
+11:23:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Algunas solo declaras en el html el css y el script y ya salen
+11:23:41 - Aldo Gabriel Rojas (@aldogrojas5):
+Otras tenes q insralarlas
+11:23:50 - Leandro Echevarria (@echevarrialeandro):
+&lt;head&gt;
+  &lt;link href="<https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css>" rel="stylesheet"&gt;
+  &lt;script src="<https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js>"&gt;&lt;/script&gt;
+&lt;/head&gt;
+11:23:53 - Leandro Echevarria (@echevarrialeandro):
+<https://material.io/develop/web/docs/getting-started/>
+11:24:14 - Santiago Ruffino (@santi_0898):
+Ahhhh, mira vos
+11:24:18 - Santiago Ruffino (@santi_0898):
+Yo estaba leyendo este <https://github.com/material-components/material-components-web/tree/master/packages/mdc-card>
+11:24:31 - Aldo Gabriel Rojas (@aldogrojas5):
+<https://getmdl.io/>
+11:24:45 - Aldo Gabriel Rojas (@aldogrojas5):
+Este le mandas el cdn y ya sale andando sin instalar nada
+11:25:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Lo q dijo él está mejor explicado :rolling_on_the_floor_laughing:
+13:37:23 - Santiago Ruffino (@santi_0898):
+Voy a hacer una prueba de una mini app con React. Con que me conviene hacer el Back? Habia pensado NodeJS porque es el stack que se maneja normalmente
+13:37:41 - Santiago Ruffino (@santi_0898):
+Si bien mi zona de confort es Python, quiero tirarme para algo que se use mas en el mercado
+13:37:58 - Ezequiel Leites (@leites25):
+Medio un poco de todo
+13:38:07 - Ezequiel Leites (@leites25):
+En el laburo anterior usabamos PHP como Back
+13:38:22 - Ezequiel Leites (@leites25):
+Ahora aca usan Java, Node y PHP depende a donde se le pegue :stuck_out_tongue:
+13:39:24 - Martín Aimar (@maimar):
+Laravel
+13:40:15 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> la idea justamente de tener el front-end decoupled es que puedas usar lo que tengas ganas como tu API
+13:40:36 - Martin Bavio (@mbavio):
+y de hecho que lo puedas cambiar on the fly y que eso no cambie nada en tu decoupled front-end
+13:40:59 - Santiago Ruffino (@santi_0898):
+Sisi, lo entiendo. Pero pregunto porque me da la impresion de que se suele usar React + Node. Y de paso quiero aprender cosas nuevas. Por eso busco alternaticas a Python y Flask
+13:41:16 - Martin Bavio (@mbavio):
+por ende, si tu zona de confort es Python, dale masa a Django o lo que sea que te haga mas feliz.
+13:42:01 - Martin Bavio (@mbavio):
+igual yo te recomendaria que empieces a pensar que te gusta mas, para empezar a especializarte
+13:42:15 - Martin Bavio (@mbavio):
+hay un viejo dicho que dice _jack of all trades, master of none_
+13:42:19 - Martin Carrera (@mcarrera):
+la joda de usar React + Node es que si sabes js no necesitas mas
+13:42:36 - Martin Carrera (@mcarrera):
+y los js engineers pueden tocar todo
+13:42:47 - Martin Bavio (@mbavio):
+claro, en caso que te guste la idea de especializarte en javascript, usar Node para backend es una excelente idea <@U9KMYNJMV>
+13:42:55 - Martin Carrera (@mcarrera):
+si la vas a hacer vos solo y estas contento con python, usa python
+13:43:04 - Martin Carrera (@mcarrera):
+si queres aprender node, usa node
+13:43:21 - Martin Carrera (@mcarrera):
+depende tambien de los tiempos y necesidades
+13:43:32 - Martin Bavio (@mbavio):
+de todas maneras aun sabiendo js, todos sabemos que ser un verdadero backend engineer es mucho mas que el lenguaje que usas
+13:44:09 - Martin Bavio (@mbavio):
+yo puedo hacer una API basica porque se javascript, pero un backend engineer en serio tiene muchisimos mas conocimientos que yo del contexto de backend, y con las mismas herramientas va a hacer algo muchisimo mejor
+13:46:06 - Martin Bavio (@mbavio):
+de la misma manera que un node backend engineer quizas pueda resolver un frontend sencillo porque sabe javascript, pero le falta el conocimiento del dominio, en la mayoria de los casos
+13:46:52 - Martin Bavio (@mbavio):
+todavia no he conocido a un full-stack que realmente la rompa en ambos contextos, la mayoria de los full-stacks son personas con experiencia que se hicieron seniors en uno de los lados y pueden resolver el otro lado, pero no lo dominan.
+13:47:59 - Martin Bavio (@mbavio):
+tanto front-end people que puede sacar una API con Express pero quizas sus ideas de arquitectura, diseño de DB, seguridad y otros son muy sencillas y se quedan cortas en un backend complejo
+13:48:14 - Martin Bavio (@mbavio):
+o al reves, y tenes un backend que detesta y no quiere aprender CSS
+13:48:17 - Gonza Gluzman (@gonza):
+Yo creo que soy más o menos igual de choto en ambos lados :sweat_smile:
+13:48:46 - Jorge Cano (@jorgeucano):
+aprende sobre performance, buenos algoritmos, patterns y demas mas sobre nivel arquitectura
+13:48:51 - Martin Bavio (@mbavio):
+esta bueno poder resolver ambos lados, pero ser experto en ambos es muuuuuy complejo
+13:49:04 - Martin Bavio (@mbavio):
+sobretodo porque el dia dura 24 horas para todos
+13:50:03 - Martin Bavio (@mbavio):
+entonces como haces para aprender todo lo que acaba de decir <@U1XSDSM4H> y a la vez aprender las mejores practicas para desarrollar una interfaz, incluyendo CSS que suele ser un monstruo por si mismo?
+13:50:32 - Jorge Cano (@jorgeucano):
+estoy de acuerdo con Martin
+13:50:37 - Jorge Cano (@jorgeucano):
+pensa en que te gusta mas
+13:50:41 - Jorge Cano (@jorgeucano):
+y especializate en eso
+13:50:45 - Jorge Cano (@jorgeucano):
+la vas a pasar mejor
+13:50:48 - Jorge Cano (@jorgeucano):
+vas a ser mejor desarrollador
+13:50:51 - Jorge Cano (@jorgeucano):
+y vas a ganar mas
+13:51:10 - Martin Bavio (@mbavio):
+y vas a poder laburar desdde donde quieras
+13:51:14 - Jorge Cano (@jorgeucano):
+el dia de mañana la gente abandona javascript
+13:51:22 - Jorge Cano (@jorgeucano):
+y vos no vas a depender de un framework o lib
+13:51:23 - Martin Bavio (@mbavio):
+porque te van a venir a buscar por lo que vos sabes muy bien, y el resto no
+13:51:29 - Julian (@jantonielli01):
+&gt; el día de ~mañana~ hoy la gente abandona javascript
+13:51:31 - Julian (@jantonielli01):
+ftfy
+13:52:10 - Jorge Cano (@jorgeucano):
+digo al final
+13:52:12 - Jorge Cano (@jorgeucano):
+vos sos desarrollador
+13:52:16 - Jorge Cano (@jorgeucano):
+no un “javascripter”
+13:52:18 - Jorge Cano (@jorgeucano):
+que se yo …
+13:52:23 - Martin Bavio (@mbavio):
+tal cual
+13:52:46 - Martin Bavio (@mbavio):
+para mi si sos front-end tenes que entender el contexto del browser, muchisimo mas alla de si hoy solo se puede codear con js para el mismo
+13:52:57 - Jorge Cano (@jorgeucano):
+ESO si queres mejorar tus skills
+13:53:08 - Jorge Cano (@jorgeucano):
+ahora si queres estar de 9 a 6 en una oficina haciendo tickets
+13:53:09 - Jorge Cano (@jorgeucano):
+y nada mas
+13:53:14 - Jorge Cano (@jorgeucano):
+“sin tener cosas complicadas”
+13:53:19 - Jorge Cano (@jorgeucano):
+aprende un poquito de todo
+13:53:22 - Jorge Cano (@jorgeucano):
+y anda moviendote a conveniencia
+13:53:42 - Martin Bavio (@mbavio):
+si, es verdad que el generalista tambien tiene su lugar
+13:54:10 - Martin Bavio (@mbavio):
+pero _el estres_ (?)
+13:54:19 - Santiago Ruffino (@santi_0898):
+Jajaja
+13:54:23 - Jorge Cano (@jorgeucano):
+es una realidad
+13:54:28 - Jorge Cano (@jorgeucano):
+hay gente que lo toma como “un trabajo de oficina”
+13:54:28 - Martin Bavio (@mbavio):
+es _sexy_ la idea de querer saber todo
+13:54:32 - Jorge Cano (@jorgeucano):
+en donde todo es mas mecanico
+13:54:35 - Santiago Ruffino (@santi_0898):
+Estoy por encarar un proyecto pequeño solo. Entonces tengo la libertad de elegir lo que quiera
+13:54:42 - Martin Bavio (@mbavio):
+porque es real que todo _suena divertido_
+13:54:44 - Jorge Cano (@jorgeucano):
+y esta perfecto
+13:55:00 - Gonza Gluzman (@gonza):
+Es más importante saber por arriba y desarrollar sentido crítico que saber mucho y no tener buen juicio
+13:55:10 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> es un proyecto para aprender cosas tecnicas o para hacer plata?
+13:55:25 - Santiago Ruffino (@santi_0898):
+Aprender ahora. Hacer plata despues
+13:55:25 - Gonza Gluzman (@gonza):
+Y el sentido crítico es básicamente fundamentar con honestidad intelectual todas las decisiones
+13:56:00 - Martin Bavio (@mbavio):
+porque si es un producto te diria que hagas un MVP tratando de reusar lo maximo que puedas y no pierdas el tiempo
+13:56:15 - Martin Bavio (@mbavio):
+despues hay tiempo para hacer de cero cuando valides
+13:56:37 - Martin Bavio (@mbavio):
+podes saber por arriba y a la vez ser un especialista, no?
+13:56:43 - Santiago Ruffino (@santi_0898):
+Claro
+13:57:09 - Martin Bavio (@mbavio):
+reusar nivel fijate si podes usar wordpress :francella:
+13:57:18 - Gonza Gluzman (@gonza):
+Emmm… Medio que si sos especialista en algo entiendo que sabés algo con mucha más profundidad que la mayoría
+13:57:32 - Jorge Cano (@jorgeucano):
+exacto
+13:57:38 - Jorge Cano (@jorgeucano):
+si es ganar dinero anda siempre por lo seguro y rapido
+13:57:45 - Jorge Cano (@jorgeucano):
+para aprender y divertirte usa lo que tengas ganas
+13:58:01 - Santiago Ruffino (@santi_0898):
+Odio Wordpress chabon. Prefiero usar codigo
+13:58:06 - Martin Bavio (@mbavio):
+si claro, pero eso no quita que puedas seguir informandote sobre el big picture, no?
+13:58:21 - Santiago Ruffino (@santi_0898):
+Capaz que reutilizo Python, y me concentro en el Front con React
+13:58:23 - Santiago Ruffino (@santi_0898):
+Grcias :smile:
+13:58:28 - Martin Bavio (@mbavio):
+podes seguir leyendo los docs de las nuevas tools en general, asi al menos podes formar una opinion
+13:58:42 - Martin Bavio (@mbavio):
+que tiene de malo wordpress?
+13:58:42 - Gonza Gluzman (@gonza):
+No, claro. Pero como bien dijiste, el día tiene 24 horas. No podés especializarte en todo.
+13:58:52 - Julian (@jantonielli01):
+no lo usa nadie
+13:58:52 - Julian (@jantonielli01):
+arre
+13:58:57 - Martin Bavio (@mbavio):
+I mean, el 90% de la web es texto
+13:59:10 - Gonza Gluzman (@gonza):
+* porno
+13:59:52 - Gonza Gluzman (@gonza):
+<https://youtu.be/ZZZh4VDfArA>
+13:59:55 - Pablo Miceli (@pablomiceli24):
+wordpress esta re hackeado, era una herramienta para blogs pero se usa para cualquier cosa ahora
+14:00:15 - Martin Bavio (@mbavio):
+true, pero si vas a hacer un blog o una magazine, por ahi en vez de perder tiempo haciendo todo de nuevo
+14:00:15 - Pablo Miceli (@pablomiceli24):
+yo le pongo fichitas a strapi
+14:00:23 - Martin Bavio (@mbavio):
+lo tenes andando en 20 segundos con wordpress
+14:00:26 - Martin Bavio (@mbavio):
+y te sale 3 pesos por mes
+14:00:38 - Pablo Miceli (@pablomiceli24):
+se, en ese sentido re va
+14:00:53 - Martin Bavio (@mbavio):
+ojo, yo odio wordpress, pero tampoco se puede ser tan cabeza de tacho como para dejarlo de lado solo porque lo odio
+14:01:21 - Santiago Ruffino (@santi_0898):
+Yo lo quise usar y no hub chance
+14:01:32 - Santiago Ruffino (@santi_0898):
+Mi blog lo estoy haciendo en `Contenz`
+14:01:33 - Martin Bavio (@mbavio):
+para que lo quisiste usar?
+14:01:41 - Santiago Ruffino (@santi_0898):
+Mi blog
+14:01:52 - Martin Bavio (@mbavio):
+lol es la herramienta mas facil del mundo de usar para un blog
+14:01:58 - Martin Bavio (@mbavio):
+tiene un admin de la puta madre for free
+14:02:13 - Martin Bavio (@mbavio):
+y es OSS, tu content no queda lockeado en un medium ni nada parecido
+14:02:49 - Martin Bavio (@mbavio):
+y tenes quinicientos themes disponibles
+14:02:58 - Martin Bavio (@mbavio):
+para alguien no dev o sin ganas de perder el tiempo, es alto win
+14:03:12 - Martin Bavio (@mbavio):
+despues cuando tu blog lo visiten un millon de personas diarias
+14:03:17 - Santiago Ruffino (@santi_0898):
+Muy mainstream
+14:03:25 - Martin Bavio (@mbavio):
+hay tiempo para hacer la gran Smashing Magazine
+14:03:43 - Martin Bavio (@mbavio):
+y migrar todo a un headless hosteado en Netlify asi es menos _mainstream_ (?)
+14:05:42 - Martin Bavio (@mbavio):
+si me dedicara a hacer entrevistas tecnicas, creo que lo primero que haria es preguntar what if con respecto al uso de ciertas tools. Si la respuesta viene con sentimientos de por medio, o busqueda de hype, seria mi primer red flag.
+14:08:20 - Martin Bavio (@mbavio):
+igual si es para aprender y divertirte hacelo en Elm y Haskell, <@U9KMYNJMV>
+14:09:24 - Martín Valdés de León (@mvaldesdeleon):
+Purescript + Haskell
+14:20:44 - Julian (@jantonielli01):
+El php stack 
+14:20:52 - Julian (@jantonielli01):
+Purescript Haskell Postgres
+14:21:16 - Rodrigo Ali (@rodrigojali):
+Consulta, ¿iniciar un blogging personal (tech o no, da igual) en Medium/similar o armar uno en WP/similar? ¿Por qué?
+14:21:43 - Julian (@jantonielli01):
+Medium 
+14:21:48 - Martín Valdés de León (@mvaldesdeleon):
+la posta es escribirlo a mano alzada y subir las fotos a instagram
+14:22:03 - Julian (@jantonielli01):
+Y <http://dev.to|dev.to> ponele 
+14:22:16 - Julian (@jantonielli01):
+Si tenes muchas ganas hacete tu propio blog
+14:22:19 - Rodrigo Ali (@rodrigojali):
+Claro, yo pensaba hacer uno en medium o <http://dev.to|dev.to> y ver si se puede portear el content al otro
+14:22:37 - Julian (@jantonielli01):
+Pero en general eso significa que vas a estar 30 años armando el tuyo propio y nunca vas a actually escribir nada
+14:22:39 - Rodrigo Ali (@rodrigojali):
+Onda hago un post en <http://dev.to|dev.to> y que se replique en medium (o viceversa)
+14:22:43 - Julian (@jantonielli01):
+ Así que medium y a la pija
+14:23:09 - Julian (@jantonielli01):
+tengo un tweet relevante para esto
+14:23:26 - Julian (@jantonielli01):
+<https://twitter.com/markdalgleish/status/1108433814647300097>
+14:23:36 - Rodrigo Ali (@rodrigojali):
+Jajajaja todo el overkill
+14:25:22 - Rodrigo Ali (@rodrigojali):
+Si lo fuera a armar yo por mi lado, intentaría implementar el JAM stack así de paso aprendo sobre ese stack
+14:25:25 - Juan Bono (@juanbono):
+Jajaja qué buen sticker
+14:25:53 - Rodrigo Ali (@rodrigojali):
+JAM con Gatsby ponele, pero beats the purpose, porque si la idea es escribir un blog buscaría (de ser posible) algo pre-armado y no armarlo yo
+14:26:07 - Rodrigo Ali (@rodrigojali):
+Si quisiera aprender y no escribir, entonces aprendería con lo que ea y no intentando hacer un blog necesariamente
+14:26:14 - Julian (@jantonielli01):
+sep
+14:26:50 - Rodrigo Ali (@rodrigojali):
+Entonces TL;DR  sería que si quiero escribir un blog y "ganar visibilidad" como dev, conviene hacer en Medium/dev.to
+14:27:10 - Rodrigo Ali (@rodrigojali):
+Y si quiero escribir un blog y "monetizar" conviene armarlo yo, supongo (con WP o lo que sea)?
+14:27:45 - Julian (@jantonielli01):
+sep
+14:27:54 - Julian (@jantonielli01):
+aunque no lo vas a monetizar : p
+14:28:32 - Julian (@jantonielli01):
+Incluso para eso, pone los posts "premium" (o como se llamen) de medium y seguro es mejor
+14:30:51 - Martín Valdés de León (@mvaldesdeleon):
+da charlas en meetups, manda cfps, y escribi blogposts
+14:31:03 - Martín Valdés de León (@mvaldesdeleon):
+y twitea responsablemente
+14:31:49 - Rodrigo Ali (@rodrigojali):
+Charlas de meetup si, CFPS ni idea qué es, blogposts es la idea, twitter no uso la verdad =(
+14:31:50 - Rodrigo Ali (@rodrigojali):
+Me da alta paja
+14:32:00 - Julian (@jantonielli01):
+call for proposals
+14:32:11 - Julian (@jantonielli01):
+i.e, mandar para ser speaker a conferencias
+14:32:37 - Martín Valdés de León (@mvaldesdeleon):
+<https://tchspk.rs/cfp>
+14:34:34 - Rodrigo Ali (@rodrigojali):
+Nice, ty. Lo de las conferencias lo voy a dejar para un toque más adelante cuando me sienta más seguro
+14:43:58 - Ale Miralles (@amiralles):
+"monetizar" la veo jodida...
+14:44:35 - Ale Miralles (@amiralles):
+Medium esta piola como plataforma, pero es una cagada que la gente no puede leer mas de dos historias gratis por mes.
+14:44:43 - Julian (@jantonielli01):
+Si podes 
+14:44:55 - Ale Miralles (@amiralles):
+Si vos escribis un post por semana, el que te sigue no los puede leer sino se suscribe.
+14:45:04 - Julian (@jantonielli01):
+Las historias premium son asi, 3 por mes 
+14:45:12 - Julian (@jantonielli01):
+Pero las gratis no 
+14:45:20 - Ale Miralles (@amiralles):
+Si, tenes los friend-links (o algo asi) pero no es lo mismo.
+14:45:25 - Rodrigo Ali (@rodrigojali):
+Ah, depende de cómo vos las definas cuando los creás?
+14:45:35 - Ale Miralles (@amiralles):
+Ahora cambio el tema de las gratis (creo)
+14:45:53 - Ale Miralles (@amiralles):
+el otro dia me llego un email (y yo tengo todo public)
+14:46:02 - Martín Valdés de León (@mvaldesdeleon):
+abri los links de medium en incognito mode
+14:46:08 - Martín Valdés de León (@mvaldesdeleon):
+y podes todo lo que quieras
+14:46:32 - Ale Miralles (@amiralles):
+si, se puede usar ese hack
+14:46:49 - Julian (@jantonielli01):
+Igual creo que flashas con las gratis 
+14:47:06 - Martin Carrera (@mcarrera):
+siempre podes deslogearte de medium
+14:47:12 - Ale Miralles (@amiralles):
+pero a lo que voy es a que si queres que te "descubran" es medio choto el modelo actual de medium
+14:47:12 - Ale Miralles (@amiralles):
+igual yo lo uso, y me ha servido
+14:47:45 - Martín Valdés de León (@mvaldesdeleon):
+si queres que te descubran necesitas que te retwitee alguien con seguidores
+14:47:53 - Ale Miralles (@amiralles):
+si, tal cual.
+14:47:57 - Martín Valdés de León (@mvaldesdeleon):
+o postearte en reddit y tener suerte
+14:52:30 - Ale Miralles (@amiralles):
+<@U7MP5R4MC> Si, puede ser. Lo lei por arriba.
+14:54:35 - Rodrigo Ali (@rodrigojali):
+Con visibilidad me refería a la hora de postularme, como tengo todo mi laburo bajo NDA no tengo mucho para mostrar en entrevistas. Entonces me gustaba la idea de empezar un par de proyectos chicos para aprender un par de tachs que tengo en mira y de paso mostrar cómo hago el código y cómo encaro el laburo, y por otro lado escribir blogs y tal para que vean que tengo "participación en la comunidad" como le dijeron un par de recruiters que me crucé
+14:54:44 - Rodrigo Ali (@rodrigojali):
+La idea no es por ahora que me llueva laburo por ese lado
+14:54:57 - Rodrigo Ali (@rodrigojali):
+Hasta ahora la verdad lo que más me consigue laburo es el networking
+14:57:49 - Santiago Ruffino (@santi_0898):
+Busca “Contentz” <@UFFG5EPGU> 
+14:58:13 - Rodrigo Ali (@rodrigojali):
+Ni bien lo mencionaste más arriba lo empecé a buscar, como alternativa a "construir mi propio blog"
+14:58:18 - Rodrigo Ali (@rodrigojali):
+Gracias por el heads-up
+15:00:50 - Juan Bono (@juanbono):
+Saben si se puede usar Gatsby u otra cosa para pasar de JSON a markdown? (Tengo un JSON con el texto, título, autor, tags de un artículo y me gustaría tenerlo compilado a markdown) vi que algo de eso existía pero no se que tanto se usa xD
+15:02:25 - Julian (@jantonielli01):
+con pandoc deberías poder <https://pandoc.org>
+15:02:50 - Julian (@jantonielli01):
+(fun fact: está hecho en haskell)
+15:04:57 - Juan Bono (@juanbono):
+Ahh gracias! Ahora lo veo
+15:27:29 - Luciano Muñoz (@luchisds):
+"Contentz" es de <@U09KF2RPU>, si tienen dudas con algo seguro le pueden preguntar
+15:28:06 - Santiago Ruffino (@santi_0898):
+Un crack Sergio
+15:28:43 - Leandro Echevarria (@echevarrialeandro):
+Hoy vi una arrobada en Twitter a Sergio por contentz
+15:38:07 - Santiago Ruffino (@santi_0898):
+No fui yo :face_with_rolling_eyes:
+15:46:04 - Martín Valdés de León (@mvaldesdeleon):
+en las entrevistas nunca tuve que "mostrar" trabajos anteriores
+15:46:14 - Martín Valdés de León (@mvaldesdeleon):
+y por mas NDA que haya podes hablar en terminos generales
+16:08:17 - Sergio Daniel Xalambrí (@sergiodxa):
+<@UFFG5EPGU> cualquier duda de Contentz me avisas, <@U9KMYNJMV> ya me hizo notar cosas a mejorar
+18:34:52 - Gonza Espeche (@espeche.g):
+Que vendría a ser contentz?
+19:08:24 - Julian (@jantonielli01):
+lmgtfy: <https://sergiodxa.com/articles/presentando-contentz/>
+19:13:46 - Gonza Espeche (@espeche.g):
+tuve que googlear lmgtfy
+19:28:22 - Julian (@jantonielli01):
+alguno usa vim y tiene la mac con la barra chota? que onda?
+19:28:29 - Julian (@jantonielli01):
+remappearon el esc?
+19:42:08 - Sergio Daniel Xalambrí (@sergiodxa):
+yo uso blockmayus como esc, aunque no uso mucho vim, en general usar esc en la barra chota es molesto
+19:44:51 - Ale Miralles (@amiralles):
+No tengo mac con barra chota, pero desde siempre uso CAPS como ESC.
+19:53:52 - Juan Scolari (@juanscolari):
+que usan como GUI para Postrgres?
+19:56:40 - Ale Miralles (@amiralles):
+GUI? que es eso?
+19:56:41 - Ale Miralles (@amiralles):
+jajaja
+19:57:48 - Juan Scolari (@juanscolari):
+tipo el pgAdmin
+19:57:52 - Juan Scolari (@juanscolari):
+pero no me gusta
+20:01:02 - Leandro Echevarria (@echevarrialeandro):
+teamsql capaz te sirv
+20:12:20 - Ale Miralles (@amiralles):
+Yo en algun momento use uno generico, servia para postgres, sql server, oracle. Pero no me puedo acordar el nombre...
+20:14:24 - Juan Scolari (@juanscolari):
+~Cross-platform SQL Client~
+TeamSQL has retired and is not available for download anymore.
+20:14:40 - Juan Scolari (@juanscolari):
+la desgracia me persigue jajaj
+20:16:03 - Leandro Echevarria (@echevarrialeandro):
+Fuaa que leche
+20:16:07 - Leandro Echevarria (@echevarrialeandro):
+DBeaver??
+20:16:21 - Leandro Echevarria (@echevarrialeandro):
+No era lindo esteticamente ese recuerdo, no se si habra mejorado la UI
+20:19:42 - Juan Scolari (@juanscolari):
+lo voy a probar
