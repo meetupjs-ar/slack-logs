@@ -1,0 +1,46 @@
+06:24:33 - Marcos Tomatti (@chefguevara):
+consulta para los que usan VSC, que usan para correr tests desde en la app (no consola)?
+09:17:20 - Dario Miñones (@dminones):
+Yo tengo una launch config para correr todos los tests. Y una para correr el test en cuestión. 
+09:22:36 - Luis Alvarez (@luistensai):
+en un proyecto tenía bien configurado jest + <https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest>
+actualicé vs code y creo que no está andando ahora mismo
+09:23:12 - Luis Alvarez (@luistensai):
+pero andaba lindo, corría on save, y te marcaba test por test si estaba verde o rojo
+09:23:17 - Luis Alvarez (@luistensai):
+y podías debuggear
+09:23:49 - Luis Alvarez (@luistensai):
+te marca los filenames en rojo si algún test falló
+09:23:55 - Luis Alvarez (@luistensai):
+al editar algo
+09:27:22 - Santiago Ruffino (@santi_0898):
+<http://Cypress.io|Cypress.io> ?)
+09:31:51 - Dario Miñones (@dminones):
+Aca hay una recipe de como hacerlo para jest pero al ser medio artesanal aplica tb para mocha o el que estes usando
+09:31:52 - Dario Miñones (@dminones):
+<https://github.com/microsoft/vscode-recipes/tree/master/debugging-jest-tests>
+10:22:26 - Marcos Tomatti (@chefguevara):
+gracias!!!
+06:24:33 - Marcos Tomatti (@chefguevara):
+consulta para los que usan VSC, que usan para correr tests desde en la app (no consola)?
+09:17:20 - Dario Miñones (@dminones):
+Yo tengo una launch config para correr todos los tests. Y una para correr el test en cuestión. 
+09:22:36 - Luis Alvarez (@luistensai):
+en un proyecto tenía bien configurado jest + <https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest>
+actualicé vs code y creo que no está andando ahora mismo
+09:23:12 - Luis Alvarez (@luistensai):
+pero andaba lindo, corría on save, y te marcaba test por test si estaba verde o rojo
+09:23:17 - Luis Alvarez (@luistensai):
+y podías debuggear
+09:23:49 - Luis Alvarez (@luistensai):
+te marca los filenames en rojo si algún test falló
+09:23:55 - Luis Alvarez (@luistensai):
+al editar algo
+09:27:22 - Santiago Ruffino (@santi_0898):
+<http://Cypress.io|Cypress.io> ?)
+09:31:51 - Dario Miñones (@dminones):
+Aca hay una recipe de como hacerlo para jest pero al ser medio artesanal aplica tb para mocha o el que estes usando
+09:31:52 - Dario Miñones (@dminones):
+<https://github.com/microsoft/vscode-recipes/tree/master/debugging-jest-tests>
+10:22:26 - Marcos Tomatti (@chefguevara):
+gracias!!!
