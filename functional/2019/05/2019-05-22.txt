@@ -1,0 +1,534 @@
+11:53:19 - Hernan Rajchert (@sherman):
+Estuve probando un par de cosas para mejorar la interoperabilidad entre task y promises/async-await. <https://github.com/ts-task/task/issues/14>… que opinan?
+11:57:17 - gillchristian (@gillchristian):
+No esta mal, en lo personal no me gusta mucho async/await pero va a sumar con los que le gusta
+11:57:29 - gillchristian (@gillchristian):
+O sea, me entra a joder cuando tengo que tirar try/catch
+11:57:43 - gillchristian (@gillchristian):
+No hay chance de hacerlo tipado? O es intencional?
+12:01:19 - Leandro Echevarria (@echevarrialeandro):
+Como atraparias el error sin un trycatch?
+12:01:46 - Gonza Gluzman (@gonza):
+Ojo que Error !== Excepción
+12:02:12 - Gonza Gluzman (@gonza):
+Una cosa a la que le hiciste un `throw` sólo podés atraparla con un `try/catch`
+12:02:34 - Gonza Gluzman (@gonza):
+Pero una vez que le hicieste el `try/catch`, ya no _necesitás_ atraparla más
+12:03:01 - Gonza Gluzman (@gonza):
+Luego, a los errores en general tenés varias formas de comunicarlos entre tus distintas partes del software
+12:03:12 - Gonza Gluzman (@gonza):
+*Una* forma es con un `throw`
+12:03:16 - Gonza Gluzman (@gonza):
+Pero no es la única
+12:03:24 - Gonza Gluzman (@gonza):
+Cada forma tiene sus ventajas y desventajas
+12:03:58 - Gonza Gluzman (@gonza):
+En particular esa librería `ts-task/task`, comunica los errores wrappeándolos en un objeto
+12:04:09 - Gonza Gluzman (@gonza):
+Que es muy similar a una `Promise`
+12:04:49 - Gonza Gluzman (@gonza):
+Internamente, dentro de los métodos que tiene (`map`, `chain`) *hace* un `try/catch`
+12:05:01 - Gonza Gluzman (@gonza):
+Pero la idea es que el usuario de la librería no tenga que hacerlo
+12:05:15 - Gonza Gluzman (@gonza):
+Sino que use el mecanismo de comunicación de errores que te provee esa librería
+12:05:41 - Gonza Gluzman (@gonza):
+No sé si me expliqué, <@U873ZQTEG>
+12:07:28 - Leandro Echevarria (@echevarrialeandro):
+Si si, perfecto. Claro yo hice la pregunta por otro lado entonces, la tipica de seguir throweando el error hasta que algo lo handlee.
+12:08:21 - Leandro Echevarria (@echevarrialeandro):
+&gt; Pero la idea es que el usuario de la librería no tenga que hacerlo
+const data, err = lib.map();
+Abstractamente, esa seria la manera de encarar el uso de esas libs que hacen el trycatch internamente, para saber si salio todo ok?
+12:10:38 - Hernan Rajchert (@sherman):
+No hay chance hoy por hoy… Las excepciones no son tipadas en typescript y de alli la necesidad de usar Task para poder mantener control sobre cuales son los errores posibles de la aplicación.
+12:12:27 - Hernan Rajchert (@sherman):
+Ojo, solo si tiras un throw dentro de un map, o un chain, o un pipe que te lo mete dentro de un objeto (llamado UnknownError)… Después tus errores custom pueden no estar wrappeados, si queres podes tener string pelado como error. Pero lo que si, para devolver un error lo tenes que hacer dentro de un `chain` y devolviendo un `Task.reject('buu')`
+12:13:08 - Gonza Gluzman (@gonza):
+Eeeeh, no entendí
+12:13:24 - Gonza Gluzman (@gonza):
+Te pongo un ejemplo de cómo se usa esa lib:
+12:13:28 - Hernan Rajchert (@sherman):
+La lib tiene la misma semantica que Promises en manejo de error. Que es la misma que Either
+12:14:29 - Leandro Echevarria (@echevarrialeandro):
+Dale averga
+12:14:47 - Leandro Echevarria (@echevarrialeandro):
+Either?
+12:16:43 - Hernan Rajchert (@sherman):
+Aca hay una explicación de como se usa en un ejemplo real… pero en ingles y con voz de indio :stuck_out_tongue: <https://youtu.be/T7O1T1wmw00?t=486>
+12:17:54 - Hernan Rajchert (@sherman):
+O acá en español, per super reducido porque lightning talk
+12:17:54 - Hernan Rajchert (@sherman):
+<https://youtu.be/Bm0eIBZYRZw>
+12:18:34 - Gonza Gluzman (@gonza):
+```
+const average = (numbers: number[]) =&gt;
+    numbers.length ? Task.resolve(sum(numbers) / numbers.length) : Task.reject(new CanNotGetAvgOfEmptyList());
+```
+
+Y después:
+
+```
+average(salary)
+    .map(avg =&gt; showMessage(`The average salary is ${avg}`))
+    .catch(caseError(isError(CanNotGetAvgOfEmptyList), showError))
+    .fork(console.error, _ =&gt; undefined);
+```
+12:18:34 - Leandro Echevarria (@echevarrialeandro):
+Jajajaj
+12:19:09 - Gonza Gluzman (@gonza):
+Mejor mirá los videos que te pasó <@U0DHEL1PC>, que están buenos :joy:
+12:19:13 - Leandro Echevarria (@echevarrialeandro):
+Ahh super claro. Como decian antes, sigue siendo una promise a efectos practicos
+12:19:32 - Gonza Gluzman (@gonza):
+Es una promesa, sí, pero con la ventaja de que está tipada en el error
+12:19:34 - Leandro Echevarria (@echevarrialeandro):
+SI, voy a ver la lightning despues que no ando con taaanto tiempo jej
+12:19:41 - Gonza Gluzman (@gonza):
+jajajaj
+12:19:42 - Gonza Gluzman (@gonza):
+Oki
+12:20:06 - Leandro Echevarria (@echevarrialeandro):
+El fork seria el fallback?
+12:20:44 - Gonza Gluzman (@gonza):
+Mmmm… nope
+12:21:20 - Gonza Gluzman (@gonza):
+Hay otra diferencia entre las `Promise` y las `Task` y es que las `Task` son _lazy_ y las `Promise` son _eager_
+12:21:34 - Gonza Gluzman (@gonza):
+Es decir, una Promesa se evalúa en cuanto es creada
+12:22:13 - Gonza Gluzman (@gonza):
+Pero a una `Task` tenés que decirle “_evaluate_” (`.fork(err, result)`) para que haga algo
+12:22:59 - Martín Valdés de León (@mvaldesdeleon):
+fork es "ejecutar"
+12:23:07 - Martín Valdés de León (@mvaldesdeleon):
+y le pusieron `fork` for historical reasons
+12:23:07 - Martín Valdés de León (@mvaldesdeleon):
+:stuck_out_tongue:
+12:23:14 - Leandro Echevarria (@echevarrialeandro):
+Claro, entiendo. Y por qué el undefined entonces en el fork? O es solo a ejemplos de aca?
+12:23:27 - Martín Valdés de León (@mvaldesdeleon):
+porque no quieren hacer nada con el resultado de la promesa
+12:23:30 - Martín Valdés de León (@mvaldesdeleon):
+solo ejecutar los efectos
+12:23:33 - Gonza Gluzman (@gonza):
+Cla
+12:23:47 - Martín Valdés de León (@mvaldesdeleon):
+asi que la callback de "Exito" es una funcion boba que no hace nada salvo devolver undefined
+12:23:53 - Leandro Echevarria (@echevarrialeandro):
+Perfecto ahora :ok_hand::skin-tone-4:
+12:23:55 - Martín Valdés de León (@mvaldesdeleon):
+tecnicamente recibe el resultado como argumento, pero no lo usa
+12:23:58 - Leandro Echevarria (@echevarrialeandro):
+Te guardas el resultado y nv
+12:25:00 - Hernan Rajchert (@sherman):
+Si, pero  lazy y con un metodo pipe (como rxjs) para poder encadenar mejor con logica custom hasta que salga el pipe operator
+12:25:41 - Leandro Echevarria (@echevarrialeandro):
+Al margen, estoy con el cap 1 del haskell book y ya me convenció. Voy asi :mindblown:
+12:28:39 - Gonza Gluzman (@gonza):
+Ése era del cálculo lambda, no?
+12:32:25 - Leandro Echevarria (@echevarrialeandro):
+Yess
+12:32:28 - Leandro Echevarria (@echevarrialeandro):
+La intro
+12:45:57 - Julian (@jantonielli01):
+como solucionan este tema en task? <https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html>
+12:46:25 - Martín Valdés de León (@mvaldesdeleon):
+typescript te deja crear union types ad hoc
+12:46:34 - Julian (@jantonielli01):
+con algo tipo `mapError(Left . Right. Left . Left)`? : p
+12:46:36 - Martín Valdés de León (@mvaldesdeleon):
+asi que no necesitas declarar el sum type de errores que pretendes tirar before-hand
+12:46:58 - Julian (@jantonielli01):
+Hmm
+12:47:10 - Martín Valdés de León (@mvaldesdeleon):
+los errores se van "sumando" y "restando" solos, digamos
+12:47:10 - Julian (@jantonielli01):
+Pero ahí es una paja handlearlos
+12:47:12 - Martín Valdés de León (@mvaldesdeleon):
+en eso esta piola
+12:47:24 - gillchristian (@gillchristian):
+Ahh flashie que el success tampoco era tipado
+12:47:26 - gillchristian (@gillchristian):
+No dije nada
+12:47:27 - Julian (@jantonielli01):
+Osea todo el punto es que sepas cuales son
+12:47:37 - Martín Valdés de León (@mvaldesdeleon):
+ponele que tenes un error de tipo `A | B | C | D` fluyendo, y le tiras un handler que procesa `B | C`
+12:47:42 - Martín Valdés de León (@mvaldesdeleon):
+te queda un error `A | D` fluyendo
+12:47:55 - Martín Valdés de León (@mvaldesdeleon):
+(mas los errores que aporte el handler)
+12:48:06 - Gonza Gluzman (@gonza):
+Exactamente lo que dijo <@U0TFEHWEA> :clap: :clap:
+12:48:11 - Julian (@jantonielli01):
+Ah, mirá, no sabía que era automagico
+12:48:26 - Martín Valdés de León (@mvaldesdeleon):
+es una de las features piolas de TS
+12:48:34 - Martín Valdés de León (@mvaldesdeleon):
+como te inventa tipos dinamicamente
+11:53:19 - Hernan Rajchert (@sherman):
+Estuve probando un par de cosas para mejorar la interoperabilidad entre task y promises/async-await. <https://github.com/ts-task/task/issues/14>… que opinan?
+11:57:17 - gillchristian (@gillchristian):
+No esta mal, en lo personal no me gusta mucho async/await pero va a sumar con los que le gusta
+11:57:29 - gillchristian (@gillchristian):
+O sea, me entra a joder cuando tengo que tirar try/catch
+11:57:43 - gillchristian (@gillchristian):
+No hay chance de hacerlo tipado? O es intencional?
+12:01:19 - Leandro Echevarria (@echevarrialeandro):
+Como atraparias el error sin un trycatch?
+12:01:46 - Gonza Gluzman (@gonza):
+Ojo que Error !== Excepción
+12:02:12 - Gonza Gluzman (@gonza):
+Una cosa a la que le hiciste un `throw` sólo podés atraparla con un `try/catch`
+12:02:34 - Gonza Gluzman (@gonza):
+Pero una vez que le hicieste el `try/catch`, ya no _necesitás_ atraparla más
+12:03:01 - Gonza Gluzman (@gonza):
+Luego, a los errores en general tenés varias formas de comunicarlos entre tus distintas partes del software
+12:03:12 - Gonza Gluzman (@gonza):
+*Una* forma es con un `throw`
+12:03:16 - Gonza Gluzman (@gonza):
+Pero no es la única
+12:03:24 - Gonza Gluzman (@gonza):
+Cada forma tiene sus ventajas y desventajas
+12:03:58 - Gonza Gluzman (@gonza):
+En particular esa librería `ts-task/task`, comunica los errores wrappeándolos en un objeto
+12:04:09 - Gonza Gluzman (@gonza):
+Que es muy similar a una `Promise`
+12:04:49 - Gonza Gluzman (@gonza):
+Internamente, dentro de los métodos que tiene (`map`, `chain`) *hace* un `try/catch`
+12:05:01 - Gonza Gluzman (@gonza):
+Pero la idea es que el usuario de la librería no tenga que hacerlo
+12:05:15 - Gonza Gluzman (@gonza):
+Sino que use el mecanismo de comunicación de errores que te provee esa librería
+12:05:41 - Gonza Gluzman (@gonza):
+No sé si me expliqué, <@U873ZQTEG>
+12:07:28 - Leandro Echevarria (@echevarrialeandro):
+Si si, perfecto. Claro yo hice la pregunta por otro lado entonces, la tipica de seguir throweando el error hasta que algo lo handlee.
+12:08:21 - Leandro Echevarria (@echevarrialeandro):
+&gt; Pero la idea es que el usuario de la librería no tenga que hacerlo
+const data, err = lib.map();
+Abstractamente, esa seria la manera de encarar el uso de esas libs que hacen el trycatch internamente, para saber si salio todo ok?
+12:10:38 - Hernan Rajchert (@sherman):
+No hay chance hoy por hoy… Las excepciones no son tipadas en typescript y de alli la necesidad de usar Task para poder mantener control sobre cuales son los errores posibles de la aplicación.
+12:12:27 - Hernan Rajchert (@sherman):
+Ojo, solo si tiras un throw dentro de un map, o un chain, o un pipe que te lo mete dentro de un objeto (llamado UnknownError)… Después tus errores custom pueden no estar wrappeados, si queres podes tener string pelado como error. Pero lo que si, para devolver un error lo tenes que hacer dentro de un `chain` y devolviendo un `Task.reject('buu')`
+12:13:08 - Gonza Gluzman (@gonza):
+Eeeeh, no entendí
+12:13:24 - Gonza Gluzman (@gonza):
+Te pongo un ejemplo de cómo se usa esa lib:
+12:13:28 - Hernan Rajchert (@sherman):
+La lib tiene la misma semantica que Promises en manejo de error. Que es la misma que Either
+12:14:29 - Leandro Echevarria (@echevarrialeandro):
+Dale averga
+12:14:47 - Leandro Echevarria (@echevarrialeandro):
+Either?
+12:16:43 - Hernan Rajchert (@sherman):
+Aca hay una explicación de como se usa en un ejemplo real… pero en ingles y con voz de indio :stuck_out_tongue: <https://youtu.be/T7O1T1wmw00?t=486>
+12:17:54 - Hernan Rajchert (@sherman):
+O acá en español, per super reducido porque lightning talk
+12:17:54 - Hernan Rajchert (@sherman):
+<https://youtu.be/Bm0eIBZYRZw>
+12:18:34 - Gonza Gluzman (@gonza):
+```
+const average = (numbers: number[]) =&gt;
+    numbers.length ? Task.resolve(sum(numbers) / numbers.length) : Task.reject(new CanNotGetAvgOfEmptyList());
+```
+
+Y después:
+
+```
+average(salary)
+    .map(avg =&gt; showMessage(`The average salary is ${avg}`))
+    .catch(caseError(isError(CanNotGetAvgOfEmptyList), showError))
+    .fork(console.error, _ =&gt; undefined);
+```
+12:18:34 - Leandro Echevarria (@echevarrialeandro):
+Jajajaj
+12:19:09 - Gonza Gluzman (@gonza):
+Mejor mirá los videos que te pasó <@U0DHEL1PC>, que están buenos :joy:
+12:19:13 - Leandro Echevarria (@echevarrialeandro):
+Ahh super claro. Como decian antes, sigue siendo una promise a efectos practicos
+12:19:32 - Gonza Gluzman (@gonza):
+Es una promesa, sí, pero con la ventaja de que está tipada en el error
+12:19:34 - Leandro Echevarria (@echevarrialeandro):
+SI, voy a ver la lightning despues que no ando con taaanto tiempo jej
+12:19:41 - Gonza Gluzman (@gonza):
+jajajaj
+12:19:42 - Gonza Gluzman (@gonza):
+Oki
+12:20:06 - Leandro Echevarria (@echevarrialeandro):
+El fork seria el fallback?
+12:20:44 - Gonza Gluzman (@gonza):
+Mmmm… nope
+12:21:20 - Gonza Gluzman (@gonza):
+Hay otra diferencia entre las `Promise` y las `Task` y es que las `Task` son _lazy_ y las `Promise` son _eager_
+12:21:34 - Gonza Gluzman (@gonza):
+Es decir, una Promesa se evalúa en cuanto es creada
+12:22:13 - Gonza Gluzman (@gonza):
+Pero a una `Task` tenés que decirle “_evaluate_” (`.fork(err, result)`) para que haga algo
+12:22:59 - Martín Valdés de León (@mvaldesdeleon):
+fork es "ejecutar"
+12:23:07 - Martín Valdés de León (@mvaldesdeleon):
+y le pusieron `fork` for historical reasons
+12:23:07 - Martín Valdés de León (@mvaldesdeleon):
+:stuck_out_tongue:
+12:23:14 - Leandro Echevarria (@echevarrialeandro):
+Claro, entiendo. Y por qué el undefined entonces en el fork? O es solo a ejemplos de aca?
+12:23:27 - Martín Valdés de León (@mvaldesdeleon):
+porque no quieren hacer nada con el resultado de la promesa
+12:23:30 - Martín Valdés de León (@mvaldesdeleon):
+solo ejecutar los efectos
+12:23:33 - Gonza Gluzman (@gonza):
+Cla
+12:23:47 - Martín Valdés de León (@mvaldesdeleon):
+asi que la callback de "Exito" es una funcion boba que no hace nada salvo devolver undefined
+12:23:53 - Leandro Echevarria (@echevarrialeandro):
+Perfecto ahora :ok_hand::skin-tone-4:
+12:23:55 - Martín Valdés de León (@mvaldesdeleon):
+tecnicamente recibe el resultado como argumento, pero no lo usa
+12:23:58 - Leandro Echevarria (@echevarrialeandro):
+Te guardas el resultado y nv
+12:25:00 - Hernan Rajchert (@sherman):
+Si, pero  lazy y con un metodo pipe (como rxjs) para poder encadenar mejor con logica custom hasta que salga el pipe operator
+12:25:41 - Leandro Echevarria (@echevarrialeandro):
+Al margen, estoy con el cap 1 del haskell book y ya me convenció. Voy asi :mindblown:
+12:28:39 - Gonza Gluzman (@gonza):
+Ése era del cálculo lambda, no?
+12:32:25 - Leandro Echevarria (@echevarrialeandro):
+Yess
+12:32:28 - Leandro Echevarria (@echevarrialeandro):
+La intro
+12:45:57 - Julian (@jantonielli01):
+como solucionan este tema en task? <https://www.parsonsmatt.org/2018/11/03/trouble_with_typed_errors.html>
+12:46:25 - Martín Valdés de León (@mvaldesdeleon):
+typescript te deja crear union types ad hoc
+12:46:34 - Julian (@jantonielli01):
+con algo tipo `mapError(Left . Right. Left . Left)`? : p
+12:46:36 - Martín Valdés de León (@mvaldesdeleon):
+asi que no necesitas declarar el sum type de errores que pretendes tirar before-hand
+12:46:58 - Julian (@jantonielli01):
+Hmm
+12:47:10 - Martín Valdés de León (@mvaldesdeleon):
+los errores se van "sumando" y "restando" solos, digamos
+12:47:10 - Julian (@jantonielli01):
+Pero ahí es una paja handlearlos
+12:47:12 - Martín Valdés de León (@mvaldesdeleon):
+en eso esta piola
+12:47:24 - gillchristian (@gillchristian):
+Ahh flashie que el success tampoco era tipado
+12:47:26 - gillchristian (@gillchristian):
+No dije nada
+12:47:27 - Julian (@jantonielli01):
+Osea todo el punto es que sepas cuales son
+12:47:37 - Martín Valdés de León (@mvaldesdeleon):
+ponele que tenes un error de tipo `A | B | C | D` fluyendo, y le tiras un handler que procesa `B | C`
+12:47:42 - Martín Valdés de León (@mvaldesdeleon):
+te queda un error `A | D` fluyendo
+12:47:55 - Martín Valdés de León (@mvaldesdeleon):
+(mas los errores que aporte el handler)
+12:48:06 - Gonza Gluzman (@gonza):
+Exactamente lo que dijo <@U0TFEHWEA> :clap: :clap:
+12:48:11 - Julian (@jantonielli01):
+Ah, mirá, no sabía que era automagico
+12:48:26 - Martín Valdés de León (@mvaldesdeleon):
+es una de las features piolas de TS
+12:48:34 - Martín Valdés de León (@mvaldesdeleon):
+como te inventa tipos dinamicamente
+12:48:43 - Martín Valdés de León (@mvaldesdeleon):
+para satisfacer todos los constraints y demas
+12:48:59 - Martín Valdés de León (@mvaldesdeleon):
+usando union e intersection
+12:49:18 - Julian (@jantonielli01):
+Y cuales son los drawbacks de eso? Si querés hacer disjoint unions, i.e, `Either A A` supongo que tenés que wrappearlos en un objetito o algo así
+12:49:25 - Julian (@jantonielli01):
+Pero fuera de eso que onda
+12:49:56 - Martín Valdés de León (@mvaldesdeleon):
+creo que el drawback es que siempre tenes un `| undefined` dando vueltas, no <@U5L3AMCKT>?
+12:50:26 - Gonza Gluzman (@gonza):
+Nope, por qué tendrías un `| undefined`?
+12:50:50 - Martín Valdés de León (@mvaldesdeleon):
+recordaba algo asi de verlos charlar al respecto
+12:50:54 - Gonza Gluzman (@gonza):
+No entendí
+12:51:08 - Gonza Gluzman (@gonza):
+Lo que hay es un `UnknownError`
+12:51:32 - Martín Valdés de León (@mvaldesdeleon):
+ahi va
+12:51:56 - Gonza Gluzman (@gonza):
+Pero eso es porque cuando hacés un `.map`, `.chain` o `.catch` no sabés si el callback que reciben no te está haciendo un `throw`
+12:52:07 - Gonza Gluzman (@gonza):
+Entonces asumís que _puede_ hacerlo
+12:52:34 - Gonza Gluzman (@gonza):
+Y como la excepción no está tipada (es `any`), la wrappeamos en un `UnknownError`
+12:52:47 - Gonza Gluzman (@gonza):
+Para que no te cague toda la inferencia de tipos
+12:53:04 - Gonza Gluzman (@gonza):
+Porque `TuError | TuOtroError | any` termina siendo `any`
+12:53:26 - Gonza Gluzman (@gonza):
+Entonces al final de todo, siempre tenés que esperar un `UnknownError`, como mínimo
+12:53:31 - Julian (@jantonielli01):
+En Haskell `Either String String` no es lo mismo que `String`, entiendo que en TS, `String | String` si lo és
+12:54:03 - Gonza Gluzman (@gonza):
+`string | string` es `string` en TS, sí
+12:54:17 - Gonza Gluzman (@gonza):
+Pero `string | string` no sería `Either&lt;string, string&gt;`
+12:55:09 - Gonza Gluzman (@gonza):
+Vos podés hacerte una clase `Either&lt;Left, Right&gt;` con la lógica del `Either` de haskell
+12:55:28 - Martín Valdés de León (@mvaldesdeleon):
+tendrias que darle un type alias, si queres  usar el mismo tipo como dos tipos distintos
+12:55:48 - Martín Valdés de León (@mvaldesdeleon):
+igual en este caso estas siempre hablando de tipar el error. el success va tipado aparte.
+12:55:53 - Martín Valdés de León (@mvaldesdeleon):
+`Task&lt;Foo, Bar&gt;`
+12:56:25 - Martín Valdés de León (@mvaldesdeleon):
+pero si realmente tenes dos error types que son string, y queres handelearlos por separado, necesitas type aliases u otra forma de diferenciarlos
+12:57:31 - Julian (@jantonielli01):
+que cosa rara ts
+12:57:32 - Julian (@jantonielli01):
+: p
+12:59:27 - Gonza Gluzman (@gonza):
+Claro, la idea es que si querés handlear dos errores por separado, sean de _tipos distintos_
+12:59:51 - Gonza Gluzman (@gonza):
+El “_problema_” ahí es que TS tiene tipado estructural, no nominal
+13:12:15 - Hernan Rajchert (@sherman):
+Pero `Task&lt;string, string&gt;` es distinto a `string | string`
+13:12:35 - Hernan Rajchert (@sherman):
+y podes tener un `Either&lt;string, string&gt;` que no sea asincronico
+13:13:50 - Hernan Rajchert (@sherman):
+Siiii queres manejar dos string distintos, podrias con string literal, pero creo que seria horrible… AKA, podes tener un `Task&lt;number, 'dont like 2' | 'dont like bigger than 5'&gt;`
+13:15:10 - Gonza Gluzman (@gonza):
+True dat
+13:15:19 - Hernan Rajchert (@sherman):
+Lo que decia martin antes, medio que TS trabaja con conjuntos y se hizo algunas abstracciones copadas con eso, entonces los type guards que maneja, que te permiten evitar null pointer exception son el mismo mecanismo que te permite tener ‘foo’ que pertenece al conjunto `string`, que te permite tener un error como el que puse recien
+13:16:17 - Hernan Rajchert (@sherman):
+La idea de la serie de “Not all compilers are created equal” era para llegar medio a este punto y mostrar como en PureScript lo tenes que hacer con un `Variant` y en TS simplemente con union types…
+16:19:07 - gillchristian (@gillchristian):
+<https://twitter.com/mojobojo/status/1131277796540538880?s=21>
+16:21:24 - Luis Alvarez (@luistensai):
+done, and correctly done son dos cosas distintas :stuck_out_tongue:
+17:48:52 - Jonas Millan (@millan.jonas.1994):
+hola gente ando haciendo un ejercicio en hackerrank y me dieron ganas de tratar de hacerlo con recursion
+17:49:36 - Jonas Millan (@millan.jonas.1994):
+pero hacker rank me dice q estoy retornado fruta cuando en el console log se ve q es correcto
+17:50:37 - Pablo Miceli (@pablomiceli24):
+por lo que vi de hacker rank, a veces las funciones tienen que retornar, o aveces simplemente tener que logear en consola el resultado
+17:50:38 - Jonas Millan (@millan.jonas.1994):
+me dice q mi return seria undefined
+17:51:39 - Jonas Millan (@millan.jonas.1994):
+el el momento que hago el if se ve que lo que deberia de retornar es lo correcto pero tira undefined
+17:52:19 - Leonardo Paglialunga (@paglialungalf):
+agregale return a la ultima linea del else: `return iterationsToEquality(arr, iteraciones)`
+17:54:42 - Jonas Millan (@millan.jonas.1994):
+anda paro no con todos los casos igual graciassss
+17:58:44 - Jonas Millan (@millan.jonas.1994):
+igual fallan por tiempo calculo q es pq la recursion es mas lenta q un loop?
+18:00:24 - Ezequiel Alvarez (@welcometothechango):
+suena a recursion infinita, taaaaanto mas lenta va a ser? antes stackoverflow
+18:00:45 - Ezequiel Alvarez (@welcometothechango):
+igual diria SO no? :thinking_face: capaz si (?)
+18:01:06 - Jonas Millan (@millan.jonas.1994):
+no es infinita
+18:04:21 - Leonardo Paglialunga (@paglialungalf):
+pasate el enunciado a ver que tal
+18:04:54 - Leonardo Paglialunga (@paglialungalf):
+y si te dicen que caso es el que falla tambien (no recuerdo si hackerrank te daba esa data)
+18:07:01 - Ezequiel Alvarez (@welcometothechango):
+no deberia ser infinita, digo que capaz hay un bug
+18:07:45 - Jonas Millan (@millan.jonas.1994):
+aca encontre un articulo q habla de time complexity en recursion
+18:07:45 - Jonas Millan (@millan.jonas.1994):
+<https://medium.com/developers-writing/fibonacci-sequence-algorithm-in-javascript-b253dc7e320e>
+18:07:54 - Jonas Millan (@millan.jonas.1994):
+con un fibonacci
+18:08:15 - Julian (@jantonielli01):
+Segurisimo es recursion infinita
+18:11:15 - Jonas Millan (@millan.jonas.1994):
+no es infinita pq en los primeros casos termina
+18:11:27 - Jonas Millan (@millan.jonas.1994):
+se nota q meten un array gigante
+18:11:30 - Jonas Millan (@millan.jonas.1994):
+en uno de los casos
+18:11:59 - Jonas Millan (@millan.jonas.1994):
+y hackerrank debe de cortar ejecucion si algo tomo mucho tiempo por miedo a una recursion infinita o a un loop
+18:12:09 - Ezequiel Alvarez (@welcometothechango):
+ah es fibonacci?? jajaj si explota si haces recursion naive
+18:12:38 - Jonas Millan (@millan.jonas.1994):
+esta no es fibonacci
+18:13:18 - Jonas Millan (@millan.jonas.1994):
+es un ejercicio q te pasan un array [1,3,3] y sumas todo excepto el primer mayor hasta q te den todos iguales
+18:13:53 - Jonas Millan (@millan.jonas.1994):
+[1,3,3] =&gt; [2,3,4] =&gt; [3,4,4]
+18:14:19 - Ezequiel Alvarez (@welcometothechango):
+y te pide cuantas iteraciones fueron, ok
+18:14:53 - Jonas Millan (@millan.jonas.1994):
+debe de meterle un array enorme y explota
+18:15:07 - Gonza Gluzman (@gonza):
+No entendí la consigna
+18:16:27 - Ezequiel Alvarez (@welcometothechango):
+le suma uno a tdos los nros menos el primer mas grande? algo asi
+18:16:46 - Ezequiel Alvarez (@welcometothechango):
+eso sigue [4,4,5] =&gt; [5,5,5]
+18:16:56 - Jonas Millan (@millan.jonas.1994):
+sep
+18:17:05 - Jonas Millan (@millan.jonas.1994):
+el tema es q no solo tiene 3 de length
+18:17:08 - Jonas Millan (@millan.jonas.1994):
+puede ser N
+18:17:08 - Ezequiel Alvarez (@welcometothechango):
+lindo trabajo demostrar q eso termina (?)
+18:17:49 - Jonas Millan (@millan.jonas.1994):
+igual me parece interesante el hecho de q recursion sea mas lento que loops
+18:18:00 - Jonas Millan (@millan.jonas.1994):
+pero aparentemente es mas eficiente en espacio
+18:18:06 - Ezequiel Alvarez (@welcometothechango):
+che y tu codigo como retorna la respuesta?
+18:18:10 - Jonas Millan (@millan.jonas.1994):
+en el articulo se ve
+18:18:19 - Jonas Millan (@millan.jonas.1994):
+tiene un return arriba
+18:18:41 - Ezequiel Alvarez (@welcometothechango):
+recursión en gral es mucho mas lento, pensa que estas haciendo stack y copiando environment para cada llamada, y encima las loops estan ultra-optimizadas porque venimos de FORTRAN
+18:19:09 - Ezequiel Alvarez (@welcometothechango):
+<@U84C620N5> si pero si entra en el else no tiene `return`
+18:19:29 - Jonas Millan (@millan.jonas.1994):
+sisi desp se lo agregue
+18:19:31 - Jonas Millan (@millan.jonas.1994):
+jaja
+18:19:37 - Ezequiel Alvarez (@welcometothechango):
+(otro tema es recursion con llamado de cola pero eso ya no anda en JS so ....)
+18:19:52 - Jonas Millan (@millan.jonas.1994):
+siempre me dio curiosidad
+18:19:59 - Jonas Millan (@millan.jonas.1994):
+por la programacion dinamica
+18:20:04 - Jonas Millan (@millan.jonas.1994):
+q hacen cosas re flashearas
+18:20:12 - Ezequiel Alvarez (@welcometothechango):
+si pero cosas flasheras re especificas
+18:20:20 - Ezequiel Alvarez (@welcometothechango):
+y se puede hacer sin recursión tmbn sobre matrices
+18:20:43 - Ezequiel Alvarez (@welcometothechango):
+no dice que tan grande es el caso que falla?
+18:21:48 - Jonas Millan (@millan.jonas.1994):
+nah
+18:21:59 - Jonas Millan (@millan.jonas.1994):
+lo estoy reslviendo con un while
+18:22:11 - Jonas Millan (@millan.jonas.1994):
+igual es re bobo el ej con un while
+18:26:59 - Jonas Millan (@millan.jonas.1994):
+grcias igual eze
+18:27:15 - Martín Valdés de León (@mvaldesdeleon):
+No se la consigna entera pero FWIW ese algoritmo pincha.
+18:27:23 - Martín Valdés de León (@mvaldesdeleon):
+Salvo que los numeros en el array sean unicos.
+18:27:31 - Julian (@jantonielli01):
+yo pense lo mismo
+18:27:34 - Julian (@jantonielli01):
+pero parece que no
+18:29:22 - Julian (@jantonielli01):
+por ej `[2,2,1] =&gt; [2, 3, 2] =&gt; [3, 3, 3]`
+18:29:54 - Martín Valdés de León (@mvaldesdeleon):
+Claro, eso para el mayor 2 veces.
+18:30:03 - Martín Valdés de León (@mvaldesdeleon):
+Demostrar que eso es cierto para el mayor duplicado n veces ya es mas paja.
+18:30:11 - Martín Valdés de León (@mvaldesdeleon):
+Pero si, no deberia loopear forever.
