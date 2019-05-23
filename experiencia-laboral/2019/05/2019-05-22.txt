@@ -1,0 +1,671 @@
+04:17:23 - Martín Valdés de León (@mvaldesdeleon):
+estoy leyendo un resumen de salarios de alemania y me encontre algo que me llamo la atencion. hay una clarisima tendencia a que mientras mas empleados tiene la empresa, mejor el salario (tanto mediana como promedio)
+04:34:04 - Damian Diaz (@damianmdst):
+Explican a que se debe la tendencia ? O fue un calculo que hiciste mas a ojo en base a una lista de salarios/cant de personas ?
+04:38:24 - Martín Valdés de León (@mvaldesdeleon):
+hay una tabla....
+
+cantidad de empleados, Q1, mediana, promedio, Q3 (salarios brutos anuales)
+04:39:23 - Damian Diaz (@damianmdst):
+Claro entiendo pero a que se debera el factor mayor gente, mejor salario ?
+04:39:33 - Martín Valdés de León (@mvaldesdeleon):
+ni idea, por eso me llama la atencion :smile:
+04:39:50 - Martín Valdés de León (@mvaldesdeleon):
+no esperaba algo tan marcado
+04:40:12 - Martín Valdés de León (@mvaldesdeleon):
+una startup en argentina no te paga peor que una consultora multinacional
+04:42:06 - Damian Diaz (@damianmdst):
+Claro es lo que tenia en mi cabeza, las soft factory en arg tienen la tendencia de que a mayor gente el salario que ofrecen empieza a ser menor, en este caso intuyo que por la reputación que tienen, el ratio de cambio no debería ser problema para ellos
+04:57:27 - Julian (@jantonielli01):
+Y en us, las startups suelen pagar mejor, al menos en las zonas populares 
+04:57:54 - Julian (@jantonielli01):
+Porque no tienen otra forma de atraer empleados (vs los miles de beneficios que da trabajar en alguna corpo)
+04:59:11 - Martín Valdés de León (@mvaldesdeleon):
+Si, estimo que debe ser un tema cultural de aca.
+04:59:39 - Martín Valdés de León (@mvaldesdeleon):
+Algo que note es que mis coworkers son muchisisisimo mas propoensos a ponerse la camiseta y/o confortzonear.
+05:00:01 - Martín Valdés de León (@mvaldesdeleon):
+No les gusta cambiar de laburo y no se preocupan mucho por estar bien remunerados.
+05:01:30 - Julian (@jantonielli01):
+Pero eso es en todos lados 
+05:02:08 - Julian (@jantonielli01):
+Si sos viejo (&gt; 35, sorry) jaj
+05:02:23 - Martín Valdés de León (@mvaldesdeleon):
+es que justamente
+05:02:44 - Martín Valdés de León (@mvaldesdeleon):
+hay gente que entro a la empresa como su primer laburo dps de la facu, hace 6-7 años
+04:17:23 - Martín Valdés de León (@mvaldesdeleon):
+estoy leyendo un resumen de salarios de alemania y me encontre algo que me llamo la atencion. hay una clarisima tendencia a que mientras mas empleados tiene la empresa, mejor el salario (tanto mediana como promedio)
+04:34:04 - Damian Diaz (@damianmdst):
+Explican a que se debe la tendencia ? O fue un calculo que hiciste mas a ojo en base a una lista de salarios/cant de personas ?
+04:38:24 - Martín Valdés de León (@mvaldesdeleon):
+hay una tabla....
+
+cantidad de empleados, Q1, mediana, promedio, Q3 (salarios brutos anuales)
+04:39:23 - Damian Diaz (@damianmdst):
+Claro entiendo pero a que se debera el factor mayor gente, mejor salario ?
+04:39:33 - Martín Valdés de León (@mvaldesdeleon):
+ni idea, por eso me llama la atencion :smile:
+04:39:50 - Martín Valdés de León (@mvaldesdeleon):
+no esperaba algo tan marcado
+04:40:12 - Martín Valdés de León (@mvaldesdeleon):
+una startup en argentina no te paga peor que una consultora multinacional
+04:42:06 - Damian Diaz (@damianmdst):
+Claro es lo que tenia en mi cabeza, las soft factory en arg tienen la tendencia de que a mayor gente el salario que ofrecen empieza a ser menor, en este caso intuyo que por la reputación que tienen, el ratio de cambio no debería ser problema para ellos
+04:57:27 - Julian (@jantonielli01):
+Y en us, las startups suelen pagar mejor, al menos en las zonas populares 
+04:57:54 - Julian (@jantonielli01):
+Porque no tienen otra forma de atraer empleados (vs los miles de beneficios que da trabajar en alguna corpo)
+04:59:11 - Martín Valdés de León (@mvaldesdeleon):
+Si, estimo que debe ser un tema cultural de aca.
+04:59:39 - Martín Valdés de León (@mvaldesdeleon):
+Algo que note es que mis coworkers son muchisisisimo mas propoensos a ponerse la camiseta y/o confortzonear.
+05:00:01 - Martín Valdés de León (@mvaldesdeleon):
+No les gusta cambiar de laburo y no se preocupan mucho por estar bien remunerados.
+05:01:30 - Julian (@jantonielli01):
+Pero eso es en todos lados 
+05:02:08 - Julian (@jantonielli01):
+Si sos viejo (&gt; 35, sorry) jaj
+05:02:23 - Martín Valdés de León (@mvaldesdeleon):
+es que justamente
+05:02:44 - Martín Valdés de León (@mvaldesdeleon):
+hay gente que entro a la empresa como su primer laburo dps de la facu, hace 6-7 años
+05:02:49 - Martín Valdés de León (@mvaldesdeleon):
+y sigue haciendo lo mismo
+05:03:05 - Martín Valdés de León (@mvaldesdeleon):
+mismo titulo, mismas responsabilidades
+05:11:10 - Julian (@jantonielli01):
+Que bajón 
+06:34:11 - Rodrigo Juarez (@rjuarez):
+huh, acá no vi tanto lo de ponerse la camiseta, en startups si (es ultra culto)
+06:34:20 - Rodrigo Juarez (@rjuarez):
+pero no tanto de los alemanes sino de la gente que viene de afuera
+08:36:42 - Alejandro Nagy (@nagy.alejandro):
+<https://meetupjs.slack.com/archives/C54TWDKN1/p1558512128249800>
+08:36:50 - Alejandro Nagy (@nagy.alejandro):
+:anger:
+08:59:58 - Santiago Ruffino (@santi_0898):
+Soy el unico en una startup que paga peor que una megacorporacion?
+09:00:14 - Santiago Ruffino (@santi_0898):
+Que loco, porque mi logica decia que una startup paga menos que una empresa grande
+09:01:59 - Alejandro Nagy (@nagy.alejandro):
+hablamos de startups enserio, no pymes garcas :stuck_out_tongue:
+09:02:17 - Santiago Ruffino (@santi_0898):
+Ahhh
+09:02:19 - Santiago Ruffino (@santi_0898):
+Perfecto
+09:02:27 - Santiago Ruffino (@santi_0898):
+Pymes != Startup?
+09:02:36 - Alejandro Nagy (@nagy.alejandro):
+yo diría que si
+09:03:41 - Alejandro Nagy (@nagy.alejandro):
+no importa el tamaño de la empresa, yo creo que la diferencia está en que la startup muta mucho y no tiene todavía un modelo de negocio solidificado, la pyme me pa que ya paso esa etapa y está más plantada en su modelo de negocio
+09:04:25 - Alejandro Nagy (@nagy.alejandro):
+aunque la verdad no tengo claro en qué momento una empresa, aca o en cualquier parte del mundo
+09:04:35 - Alejandro Nagy (@nagy.alejandro):
+deja de ser “emprendimiento/startup” para pasar a ser “pequeña empresa”
+09:09:55 - Federico A. Sawady O'Connor (@sawady.faso):
+confirmo en mi caso que también en las startup gané mucho más, pero porque pude ir a hablar de sueldos directamente con los dueños
+09:10:17 - Federico A. Sawady O'Connor (@sawady.faso):
+para mi esa es una ventaja
+09:10:17 - Agustin Polo (@apolo_codes):
+aca en arg a mi me sigue dando la sensacion de que si no cambias de laburo (ie: no la comfortzoneas) no llegas nunca a ganarle a la inflacion. entonces es mas un metodo de supervivencia el cambiar el laburo. en otros lugares con economia mas estable imagino que debe ser distinto. sumado a que, en terminos culturales, paises europeos tengo entendido que se suele ser mas de conseguir un buen trabajo y listo, eventualmente cambiaras pero no al año o dos.
+09:12:02 - Agustin Polo (@apolo_codes):
+las empresas grandes te pueden dar un sueldo bueno cuando entras pero anda pelear algo mas que el 10/15% cuando viste que la inflacion te comio el sueldo
+09:13:13 - Federico A. Sawady O'Connor (@sawady.faso):
+depende de la empresa, pero sí, ir a pelear es más costoso
+09:14:16 - Agustin Polo (@apolo_codes):
+y en sistemas en arg garpa mas cobrar en usd y a las empresas grandes se les debe hacer imposible manejar eso (calculo)
+09:20:35 - Alejandro Nagy (@nagy.alejandro):
+Eso siempre fue un problema al hablar con gente de afuera
+09:20:47 - Alejandro Nagy (@nagy.alejandro):
+ven el CV y te preguntan “Porqué cambias tanto de trabajo?”
+09:21:24 - Alejandro Nagy (@nagy.alejandro):
+Uff, si vivieras acá sabrías que en 2 años tu sueldo se licuo y ganas entre 20 y 30% menos, y ya no te alcanza
+09:21:57 - Alejandro Nagy (@nagy.alejandro):
+y las empresas acá lo saben, fomentan la rotación para no tener que subir mucho los sueldos
+09:22:25 - Alejandro Nagy (@nagy.alejandro):
+de hecho por años quisieron planchar los sueldos y parece que finalmente lo lograron, porque veo que localmente la mayoría ofrece sueldos que se pagaban a principios de 2018
+09:22:43 - Rodrigo Juarez (@rjuarez):
+Nunca me preguntaron por qué cambio tanto de trabajo (cambio 1 vez por año promedio)
+09:23:16 - Rodrigo Juarez (@rjuarez):
+El turnover en tech por lo general es 1 año y medio, no creo que sea específico de Argentina solamente
+09:23:52 - Alejandro Nagy (@nagy.alejandro):
+no se si especifico
+09:24:03 - Alejandro Nagy (@nagy.alejandro):
+pero ciertamente en la intensidad Argentina destaca
+09:25:14 - Alejandro Nagy (@nagy.alejandro):
+trabaje con gente de Canada, US, UK, GER y varios paises más. Conoci gente que tenía entre 5 y 25 años en la empresa, casos variados. Eran pocos los que entraban y se iban al año. Pocos como para que se acuerden de eso más que de los que se quedan 25 años
+09:25:54 - Alejandro Nagy (@nagy.alejandro):
+seguro hay rotación, pero sus periodos son mucho más largos
+10:09:33 - Rodrigo Ali (@rodrigojali):
+En un año tu sueldo hoy se licua un 30% ponele jajaja (suponiendo que te dan aumentos durante el año)
+10:10:11 - Rodrigo Ali (@rodrigojali):
+En Globant ponele te daban 2 aumentos de 10% durante el año (hablando 2018) en promedio a la mayoría de los empleados con los que hablé, y tenías una inflación anual del ~50%
+10:10:59 - Rodrigo Ali (@rodrigojali):
+Si te dan dos aumentos de ~23% durante el mismo año, ponele que vas a estar a la par de la inflación (no ganaste nada de guita, digamos).
+10:14:16 - Martin Gonzalez (@martin2786):
+Es que segun tengo entendido, en paises con mayor estabilidad no te dan aumentos seguido por hacer la misma tarea, los aumentos vienen de la mano de crecimiento profesional o cambios de puesto. Por eso podes estar 10 o 12 meses cobrando el mismo sueldo tranquilamente, cosa que aca seria inviable.
+10:15:03 - Rodrigo Ali (@rodrigojali):
+Que está bien eso jajaja, te lo banco. A mi si me dejás con el mismo poder adquisitivo con el que entré durante 1 año, estoy más que feliz, me diste estabilidad.
+10:15:31 - Rodrigo Ali (@rodrigojali):
+(de ahí a que me pinte o no ser más ambicioso es otro tema, pero al menos tengo estabilidad, que es más de lo que tienen muchos)
+10:15:53 - Alejandro Nagy (@nagy.alejandro):
+se dan aumentos por inflación
+10:16:05 - Alejandro Nagy (@nagy.alejandro):
+pero claro, como la inflación es 1.5% anual casi ni te enteras :stuck_out_tongue:
+10:16:24 - Alejandro Nagy (@nagy.alejandro):
+pero si, mayormente en otros paises o subis de puesto
+10:16:29 - Alejandro Nagy (@nagy.alejandro):
+o tenes algún bono de performance, o algo así
+10:16:42 - Alejandro Nagy (@nagy.alejandro):
+equity también, dependiendo del puesto
+10:17:31 - Rodrigo Ali (@rodrigojali):
+Claro, pero porque podés vivir tu día a día sabiendo que el día de mañana no se te rompen los numeros al diome porque #Razones
+10:17:37 - Rodrigo Ali (@rodrigojali):
+Podés planificar y proyectar
+10:17:41 - Alejandro Nagy (@nagy.alejandro):
+si
+10:17:52 - Alejandro Nagy (@nagy.alejandro):
+es el motivo principal por el que yo me quiero ir a la merde
+10:17:57 - Rodrigo Ali (@rodrigojali):
+Llevame :heart:
+10:18:07 - Matias Garat Ortiz (@matiasgaratortiz):
+Exacto... nosotros teniamos originalmente aumentos cada 4 meses, 3 al año, con un valor promedio de la inflacion de esos meses, que era bueno xq era la inflacion congreso, no indec, y era mas alta, mas real. asi que en promedio eran unos 3 aumentos de unos 10-13% cada uno, sobre el aumento anterior obviamente...
+10:18:18 - Alejandro Nagy (@nagy.alejandro):
+Mi hno siempre me discute “vos te pensas que es el paraiso X país, y no es así“, y yo siempre le digo
+10:18:30 - Alejandro Nagy (@nagy.alejandro):
+no es el paraíso, pero allá saco un crédito a 30 años y lo pago, y me compro mi casa
+10:18:38 - Alejandro Nagy (@nagy.alejandro):
+acá saco un crédito a 30 años y estoy jugando a la ruleta rusa
+10:18:54 - Rodrigo Ali (@rodrigojali):
+Claro, no se trata de encontrar el paraíso, se trata de buscar estabilidad y ya jajaja, eso es por ahí lo que la gente no entiende. Es sacarte una preocupación de encima.
+10:19:05 - Rodrigo Ali (@rodrigojali):
+Tal cual Ale, preguntale a los que sacaron créditos UVA
+10:19:33 - Matias Garat Ortiz (@matiasgaratortiz):
+luego pasamos a hacer aumentos mensuale, en base al promedio del mes anterior, y como segunda opcion para el que queria otra forma de sentir mas "estabilidad", dolarizamos, y sabes q cobras X dolares al mes, convertidos a un valor promedio de 24 a 24 de cada mes
+10:19:37 - Rodrigo Ali (@rodrigojali):
+Gente que compro algo a X, pagó la mitad de las cuotas o el 30% de las cuotas, y cuando se disparó el dolar el resto de la deuda era prácticamente el doble
+10:19:56 - Rodrigo Ali (@rodrigojali):
+Es buenísima esa Mati, al menos te das cuenta que los tipos intentan palearlo de alguna forma.
+10:20:03 - Adrián Velasco (@adrivelasco1506):
+y qué rango manejan en altoros para un dev. ssr - sr?
+10:20:14 - Rodrigo Ali (@rodrigojali):
+En Globant por ej les chupaba un huevo, y no te daban aumento por inflación porque sabrá Dios.
+10:20:19 - Matias Garat Ortiz (@matiasgaratortiz):
+un sr arranca en 3000
+10:20:43 - Alejandro Nagy (@nagy.alejandro):
+yo estaba en Globant en el 2008, plena crisis de la burbuja inmobiliaria
+10:20:52 - Matias Garat Ortiz (@matiasgaratortiz):
+y hay mas instancias (sr+, sr++) donde el monto sube
+10:20:54 - Rodrigo Ali (@rodrigojali):
+Juju
+10:20:58 - Alejandro Nagy (@nagy.alejandro):
+a la hora de pagar los bonos de rendimiento y hacer la revisión de sueldo dijeron “no podemos, la crisis, blah blah”
+10:21:16 - Alejandro Nagy (@nagy.alejandro):
+ese mismo Diciembre en la fiesta de fin de año se subió uno de los 4 ladris a festejar que habían tenido un año de facturación record
+10:21:26 - Adrián Velasco (@adrivelasco1506):
+pero es lo que queda en mano? prepaga y monotributo corre por parte del empleado?
+10:21:33 - Alejandro Nagy (@nagy.alejandro):
+diciendo eso frente a todos los empleados a los que les dijiste “no hay bono ni aumento por crisis”
+10:21:36 - Alejandro Nagy (@nagy.alejandro):
+:facepalm:
+10:21:46 - Juan Scolari (@juanscolari):
+tipico del buen globant
+10:21:55 - Matias Garat Ortiz (@matiasgaratortiz):
+no hay monotriuto, estamos en rel de dependencia... con altoros argentina
+10:21:57 - Alejandro Nagy (@nagy.alejandro):
+sip
+10:21:57 - Germán Burgardt (@germanandresburgardt):
+tipico del buen migoya
+10:22:00 - Alejandro Nagy (@nagy.alejandro):
+eso es Globant
+10:22:08 - Alejandro Nagy (@nagy.alejandro):
+Migoya, ahí ta. No me acordaba el nombre
+10:22:20 - Matias Garat Ortiz (@matiasgaratortiz):
+no, eso es el bruto... de ahi desconta jubilacion, os, etc
+10:22:40 - Adrián Velasco (@adrivelasco1506):
+pero se puede dolarizar estando en rel. de dependencia? pregunto desde la ignorancia
+10:24:06 - Matias Garat Ortiz (@matiasgaratortiz):
+no se puede pagar en dolar... pero vos sabes q tenes un sueldo de X dolares, y la empresa el dia 24 calcula el monto de conversion
+10:24:06 - Adrián Velasco (@adrivelasco1506):
+osea entendí que al final se termina haciendo la conversión a AR$, pero es un monto que va a variar mes a mes, eso funciona con trabajar en rel. de dependencia?
+10:24:40 - Matias Garat Ortiz (@matiasgaratortiz):
+si, se puede hacerlo... debe ser un mambo para el contador q cada mes tiene q pagar valores diferentes a cada empleado
+10:24:44 - Matias Garat Ortiz (@matiasgaratortiz):
+pero se puede
+10:25:00 - Rodrigo Ali (@rodrigojali):
+El GRAN Migoya. Martin "Si les pagamos a los devs lo que se merecen no sería negocio" Migoya
+10:25:16 - Adrián Velasco (@adrivelasco1506):
+es un quilombo jajaja, claro
+10:25:21 - Adrián Velasco (@adrivelasco1506):
+gracias
+10:25:25 - Matias Garat Ortiz (@matiasgaratortiz):
+de nada
+10:25:46 - Belen Gebel (@belgebel):
+Saludos desde Globant Gente! la empresa que si queres un aumento mejor ponete a buscar otro laburo
+10:40:12 - Aldo Sorbara (@aldo1891):
+<@U87KK559R> y un sr+ y sr++ cuanto ganan?
+10:47:10 - Matias Garat Ortiz (@matiasgaratortiz):
+no tengo el numero ahora en mente, y no recuerdo donde esta la planilla -numeros abiertos dentro de la empresa- pero ponele q deben ser unos 300 o 400dls mas cada uno de ellos
+10:47:14 - Matias Garat Ortiz (@matiasgaratortiz):
+algo asi
+10:48:31 - Matias Garat Ortiz (@matiasgaratortiz):
+450 ponele... un 15% mas o menos entre cada instancia interna a un seniority
+11:08:51 - Lupe (@lportias):
+me paso algo parecido... un hotsale nos cagaros a puteadas por que "habia salido todo mal" y a la semana en el after que organizaba la empresa salta el dueño diciendo que estaba re contento por que habian vendido cantidades record... :face_with_rolling_eyes:
+11:15:21 - Ale Miralles (@amiralles):
+Muy bueno. Esa modalidad no se suele ver muy seguido por estos pagos.
+11:19:07 - Matias Garat Ortiz (@matiasgaratortiz):
+si... y entiendo x lo charlado con los chicos de la oficina de caba que los salarios son competitivos para el mercado de caba... para el de santa fe, sin dudas estan x arriba, y salvo q labures freelance para afuera, en rel de dependencia en sta fe, ese sueldo no lo tenes en otra empresa
+11:20:25 - Ale Miralles (@amiralles):
+<@UJ6L8HN3X> Tengo informacion de insiders que dicen que son bastante HDPs con la guita. (e.g. a Disney le cobran 10K/month x dev, y a los que laburan ahi les pagan 2 mangos y ajustes de 3%. Una payasada)
+11:22:02 - Ale Miralles (@amiralles):
+Si totalmente. Como deciamos ayer. En Baires, 3, 3.5K por un Sr es "tope de gama". No vas a conseguir mas que eso. Esta muy bien.
+11:23:01 - Alejandro Nagy (@nagy.alejandro):
+Sep, es así. Tienen muy buena venta aparentemente
+11:23:06 - Alejandro Nagy (@nagy.alejandro):
+o muchos contactos, no se
+11:23:24 - Alejandro Nagy (@nagy.alejandro):
+Yo te puedo contar, de 1ra mano, que tuvieron un quilombo tremendo con EA. Por el 2008 también
+11:23:33 - Alejandro Nagy (@nagy.alejandro):
+le vendían Srs y ponian Jrs
+11:23:34 - Brian Stanley (@brianstanley):
+Ahora que loco no? como vendes a un dev por 10k al mes y no te armas un equipo senior propio por la mitad
+11:23:35 - Damian Diaz (@damianmdst):
+eso es hiper sabido, una vez cuando estaba en jp estaba el tipo que hacia la union entre el cliente y los devs para venderlos y le dijo "mira tengo uno que es muy bueno pero cobra caro ... 90dls la hora " hace dos años, era un jr jajaja
+11:23:42 - Alejandro Nagy (@nagy.alejandro):
+EA usa C++, se re nota cuando pones un Jr vs un Sr
+11:24:00 - Alejandro Nagy (@nagy.alejandro):
+hacían los PRs los TL de EA y veían cosas que decían “WTF?!”
+11:24:11 - Alejandro Nagy (@nagy.alejandro):
+los cagaron a puteadas, les bajaron el pulgar y perdieron Fifa
+11:24:34 - Alejandro Nagy (@nagy.alejandro):
+no se como carajo hicieron, pero años después recuperaron la cuenta y terminaron con NHL y UFC
+11:24:58 - Leandro Echevarria (@echevarrialeandro):
+Las software factories aman poner Jrs como Srs
+11:25:07 - Leandro Echevarria (@echevarrialeandro):
+Obvio por la diff $$ que les deja si lo pueden meter
+11:25:43 - Martín Valdés de León (@mvaldesdeleon):
+Todas las consultoras hacen lo mismo, Globant no es la excepcion. Asi que si no vas a armar un equipo in-house, va a ser lo mismo contrates a quien contrates.
+11:25:58 - Martín Valdés de León (@mvaldesdeleon):
+En general hay mucha relacion de amiguismo con CTOs y demas y por eso los siguen contratando.
+11:26:04 - Martín Valdés de León (@mvaldesdeleon):
+(Cuando no directamente corrupcion)
+11:26:31 - Alejandro Nagy (@nagy.alejandro):
+la de la plata bajo la mesa es re sabida
+11:27:01 - Martín Valdés de León (@mvaldesdeleon):
+Y en general para un exec es mucho mas zafable decir "nos cago el proveedor"
+11:27:07 - Martín Valdés de León (@mvaldesdeleon):
+y salvar su pellejo
+11:27:11 - Martín Valdés de León (@mvaldesdeleon):
+que decir "la cagamos nosotros"
+11:27:16 - Santiago Ruffino (@santi_0898):
+Pero gente, nosotros tambien nos vendemos como mas de lo que somos (No todos, pero la mayoria)
+11:27:18 - Alejandro Nagy (@nagy.alejandro):
+el tema es así, más o menos. La mayoría de los CTOs tienen un budget anual para el area. Si ese budget no se gasta al 100%, al año siguiente se reduce
+11:27:40 - Santiago Ruffino (@santi_0898):
+Nosotros nos vendemos a una empresa. Esa empresa nos vende a otra empresa
+11:27:47 - Alejandro Nagy (@nagy.alejandro):
+Entonces en gran parte de los contratos lo que se hace es el CTO te favorece a vos, si vos sobrefacturas para que le de el presupuesto, y pasa algo de plata al bolsillo del CTO
+11:32:56 - Rodrigo Ali (@rodrigojali):
+Ta bien Santi, pero vos te podés inflar un toque. No te vas a vender como el gurú de Py porque te van a sacar cagando.
+
+Acá estos tipos te toman por USD 6/hr ponele y te venden por USD 90/hr
+11:33:14 - Rodrigo Ali (@rodrigojali):
+Pará un poco Carlin Calvo
+11:33:17 - Rodrigo Ali (@rodrigojali):
+#casiHacker
+11:33:24 - Alejandro Nagy (@nagy.alejandro):
+jaja
+11:34:00 - Alejandro Nagy (@nagy.alejandro):
+la verdad que me encantaría entender porqué pasan esas cosas. Onda, porqué acepta una empresa pagar tanto por un tipo en otro país cuando uno local le sale menos
+11:34:33 - Alejandro Nagy (@nagy.alejandro):
+bah, no se si menos. Pero ponele casi lo mismo
+11:35:18 - Alejandro Nagy (@nagy.alejandro):
+un SE cobraba más o menos 10k CAD x mes en 2015, cuando yo trabaje con ellos
+11:35:26 - Rodrigo Ali (@rodrigojali):
+Porque en teoría tenés una empresa que te garantiza calidad de producto.
+11:35:47 - Rodrigo Ali (@rodrigojali):
+Entonces no es lo mismo que venga un Carlitos a cobrarte eso por hora, que venga una empresa con X chapa y trayectoria y te cobre eso
+11:36:17 - Alejandro Nagy (@nagy.alejandro):
+estaba a 1.30 USD así que serían unos 7k USD
+11:36:43 - Alejandro Nagy (@nagy.alejandro):
+Globant seguro le cobraba más de 3.5k USD, porque me pagaba 2.5k a mí
+11:36:51 - Alejandro Nagy (@nagy.alejandro):
+mínimo 5k USD le cobraba
+11:37:14 - Alejandro Nagy (@nagy.alejandro):
+no veo el valor de ahorrarme 2k usd y tener un chango en otro país versus tenerlo en mi estudio
+11:37:37 - Rodrigo Ali (@rodrigojali):
+Aparte, y esto es una suposición mía, los tipos negocian de otra forma, ya no te dicen cosas como "si, te cobro X por hora" si no que te dicen "cuánto voy a elevar el valor de tu producto, lo voy a elevar Y en un año, asi que te voy a cobrar eso". En casos que conozco de Globant, en teoría nos vendían por ~USD 6k a los Jr, y los Jr veíamos unos ~USD 500 de eso
+11:39:36 - Martín Valdés de León (@mvaldesdeleon):
+Al final del dia es lo mismo que, si queres construir una casa, podes salir vos a buscar un arquitecto, obreros, electricistas, plomeros, etc, y negociar con cada uno, o ir directo a una constructora y pagarle por el producto terminado.
+11:39:47 - Martín Valdés de León (@mvaldesdeleon):
+Obviamente vas a pagar mas, pero ellos se hacen cargo de cordinar todo.
+11:40:25 - Martín Valdés de León (@mvaldesdeleon):
+Y con consultoras como estas, yo no creo que sea 100% transparente que el equipo que labura en tu proyecto va a estar en India o whatever.
+11:40:41 - Martín Valdés de León (@mvaldesdeleon):
+eso es mas "los internals de la consultora" como deciden hacer la guita
+11:41:05 - Alejandro Nagy (@nagy.alejandro):
+puede ser falta de recursos, onda no consiguen la suficiente cantidad de gente a tiempo y agarran de consultora
+11:41:11 - Martín Valdés de León (@mvaldesdeleon):
+Pero eso es gut feeling, ni idea. Quiza Globant te pasa distintos precios si lo queres "hecho en india" o "hecho en uk"
+11:41:16 - Martín Valdés de León (@mvaldesdeleon):
+¯\_(ツ)_/¯
+11:41:21 - Alejandro Nagy (@nagy.alejandro):
+en este caso EA sabía quienes eramos porque venian a Bs As a las oficinas, y nos llevaban allá 1 mes
+11:42:19 - Martín Valdés de León (@mvaldesdeleon):
+Igual esta bueno saber los precios que pagan los clientes. En mi laburo anterior les tirabamos un flat rate de 1k eur/dia
+11:42:23 - Martín Valdés de León (@mvaldesdeleon):
+para dev/design/pm
+11:42:27 - Martin Bavio (@mbavio):
+Globant otra vez no :disappointed:
+11:42:47 - Martín Valdés de León (@mvaldesdeleon):
+el precio es  independiente del seniority, asi que en nuestro caso "ganamos guita" mientras mas podamos staffear con interns/jrs
+11:43:08 - Martin Bavio (@mbavio):
+aguanten los juniors (?)
+11:45:05 - Ale Miralles (@amiralles):
+<@U0TFEHWEA> tengo entendido que en Globant es igual, tenes dev, pm, etc... no hacen diferencia por senority.
+11:48:07 - Ale Miralles (@amiralles):
+<@U9KMYNJMV> vos podes exagerar un poco tus habilidades, y queda en el nato que te hace la entrevista contratarte o sacarte a patadas en el culo. Yo no veo mal como programador aspirar un poco mas arriba de tu capacidad, si conseguis el laburo y lo podes sacar adelante, me parece una jugada valida. En el caso de las empresas es mas una estafa que otra cosa.
+11:50:08 - Martín Valdés de León (@mvaldesdeleon):
+Yo no diria que es exagerar, sino vender tu potencial. En la medida en que no mientras sobre tus experiencias y habilidades, todo bien.
+11:50:49 - Ale Miralles (@amiralles):
+Si, tal cual.
+11:50:54 - Martin Carrera (@mcarrera):
+A mi me hizo un click la cabeza cuando vi en una soft factory q estaban cobrando 150 usd mi hora de laburo y a mi me pagaban 15
+11:51:08 - Martin Bavio (@mbavio):
+durisimo
+11:51:14 - Martin Bavio (@mbavio):
+10x es mucho
+11:51:27 - Ale Miralles (@amiralles):
+Igual no te sientas mal, es lo que hace en todos lados!!!
+11:51:32 - Aldo Sorbara (@aldo1891):
+OMG
+11:51:36 - Martin Carrera (@mcarrera):
+claro pero uno no lo ve :joy:
+11:51:40 - Martin Carrera (@mcarrera):
+uno asume que cobran 3x o 5x
+11:51:41 - Martin Carrera (@mcarrera):
+no 10x
+11:51:48 - Martin Bavio (@mbavio):
+muy bien cobrada esa hora ademas
+11:51:53 - Aldo Sorbara (@aldo1891):
+si fuera un trato justo a mi no me joderia
+11:51:58 - Martín Valdés de León (@mvaldesdeleon):
+Yo no miraria TANTO ese factor. Primero mira si tu sueldo, al margen de todo, esta bien.
+11:52:05 - Martin Bavio (@mbavio):
+excelentes para cobrar, excelentes para pagar _poco_
+11:52:16 - Martín Valdés de León (@mvaldesdeleon):
+Porque si estas cobrando bien, lo que te dice ese factor es : "Si queres quedarte con toda la torta, tenes que ponerte tu empresa"
+11:52:31 - Martín Aimar (@maimar):
+si hay valor agregado que justifique el 10x vale
+11:52:35 - Martín Valdés de León (@mvaldesdeleon):
+Hacerte cargo de salir a buscar clientes, armar equipos, manejar payroll, toda la bola.
+11:52:41 - Aldo Sorbara (@aldo1891):
+si, y no es tan facil como parece
+11:52:46 - Martin Carrera (@mcarrera):
+obvio que no
+11:52:51 - Aldo Sorbara (@aldo1891):
+por eso, si fuera un trato justo para mi, no me joderia
+11:52:57 - Martin Carrera (@mcarrera):
+justifico que cobren mas de lo que me pagan
+11:52:57 - Martin Bavio (@mbavio):
+podes tambien quedarte con toda la torta y no hacer todo eso
+11:52:59 - Ale Miralles (@amiralles):
+USD 15/h -&gt; ARS 120k/m
+11:53:04 - Martin Carrera (@mcarrera):
+pero 10x?
+11:53:10 - Ale Miralles (@amiralles):
+Es lo que cobra la mayoria de los srs "bien pagos"
+11:53:14 - Martin Carrera (@mcarrera):
+al margen q el sueldo no era bueno
+11:53:42 - Martin Carrera (@mcarrera):
+y como en toda software factory, decian que no habia guita para aumentos
+11:53:55 - Martin Bavio (@mbavio):
+para es mi sumamente necesario el rol de middleman, y es sumamente justo que cobren por ello
+11:54:33 - Ale Miralles (@amiralles):
+Si. Totalmente.
+11:54:33 - Martin Bavio (@mbavio):
+dentro de ciertos parametros logicos, 10x me parece un poco mucho, mas alla que vos seas el rey midas en tu tierra devaluada
+11:54:50 - Gonza Espeche (@espeche.g):
+10px es mucho, pero es el resultado de un buen laburo comercial
+11:54:52 - Rodrigo Ali (@rodrigojali):
+Claro, aplica la misma lógica de "quedarse con toda la torta" pero desde el POV del middleman
+11:55:44 - Rodrigo Ali (@rodrigojali):
+Igual eso no croe que cambie, por eso el que tiene que cambiar es uno y generalmente cuando uno se da cuenta de eso, intenta tomarse el palo
+11:56:12 - Rodrigo Ali (@rodrigojali):
+Y mostrar la experiencia que tuvo hacia afuera cosa que otras personas tomen decisiones un poco más educadas sobre si aceptar o no una propuesta de laburo ahi
+11:56:24 - Martin Bavio (@mbavio):
+y si, es la ruedita, agarran pibes recien recibidos que no tienen experiencia laboral, y es un win-win para todos.
+11:56:24 - Gonza Gluzman (@gonza):
+Eso se llama plusvalía
+11:56:31 - Rodrigo Ali (@rodrigojali):
+Porque decir "no labures en Globant" me parece muy extremo, a mi me parece gran empresa para otras cosasq ue no son ganar plata :stuck_out_tongue:
+11:56:50 - Rodrigo Ali (@rodrigojali):
+Lo digo posta igual.
+11:56:54 - Martin Carrera (@mcarrera):
+la soft factory esta buena si tenes menos de 3 años de experiencia
+11:56:59 - Rodrigo Ali (@rodrigojali):
+Yo aprendí BOCHA curtiéndome ahí.
+11:57:02 - Martin Carrera (@mcarrera):
+aprendes mucho y te orienta en tu carrera profesional
+11:57:07 - Rodrigo Ali (@rodrigojali):
+Exacto jajaa
+11:57:10 - Martin Carrera (@mcarrera):
+pero la paga es en el 99% una mierda
+11:57:19 - Gonza Espeche (@espeche.g):
+Si, para el que recien arranca Globant está perfecto. Cuando la tenes un toque más clara te pegás el palo.
+11:57:37 - Martin Bavio (@mbavio):
+igual no son todas iguales, he visto salarios en Santex muy buenos y gente muy capaz  quedandose en puestos intermedios durante bastante tiempo
+11:57:38 - Martín Valdés de León (@mvaldesdeleon):
+En mi laburo anterior el rate era 6x
+11:57:39 - Martin Carrera (@mcarrera):
+o sea tenes que considerar la capacitacion como parte del sueldo, lamentablemente :joy:
+11:57:47 - Martin Bavio (@mbavio):
+hay que ver tambien lo que si hay, entre tanto globant
+11:57:51 - Martín Valdés de León (@mvaldesdeleon):
+y mi salario era mayor a la media
+11:58:05 - Ale Miralles (@amiralles):
+Yo creo lo mismo. Porque si sos de ir de clientes, te da muchos contactos. Y eso suma un monton para la carrera. Ahora, si queres hacer guita o vas por la tuya, o conseguis un rol "fundamental" en una empresa que haga producto.
+11:58:27 - Ale Miralles (@amiralles):
+Para eso, la consultora, no sirve.
+11:58:53 - Martin Bavio (@mbavio):
+es zarpadamente proporcional la proliferacion de consultoras a medida que el dolar se va a la mierda
+11:58:57 - Martin Bavio (@mbavio):
+es como la nueva cancha de padel
+11:59:05 - Martín Valdés de León (@mvaldesdeleon):
+Si queres hacer guita pega laburo en una FAANG.
+11:59:21 - Martín Valdés de León (@mvaldesdeleon):
+preferiblemente facebook
+11:59:35 - Martín Valdés de León (@mvaldesdeleon):
+e ignora que laburas para Satan
+11:59:40 - Rodrigo Ali (@rodrigojali):
+Las canchas de padel...
+11:59:53 - Rodrigo Ali (@rodrigojali):
+Los cyber del 2010
+12:00:06 - Martin Bavio (@mbavio):
+exacto
+12:00:10 - Ale Miralles (@amiralles):
+Los parripollos!!!
+12:00:23 - Martin Bavio (@mbavio):
+entras a linkedin y es como que son un virus
+12:00:23 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.levels.fyi/salary/Facebook/>
+12:00:24 - Ale Miralles (@amiralles):
+(La mayoria son muy chicos para recordar eso, no?)
+12:00:52 - Martin Carrera (@mcarrera):
+las birrerias artesanales son los ciber del 2005?
+12:01:07 - Martin Bavio (@mbavio):
+el puesto de buen recruiter freelance se esta haciendo cada vez mas valioso
+12:01:39 - Gonza Espeche (@espeche.g):
+los que andan en linkedin, aceptan a cuanta invitacion les llega?
+12:01:48 - Martin Bavio (@mbavio):
+no
+12:02:20 - Gonza Espeche (@espeche.g):
+antes lo hacia pero tuve que cortarlo hermano por que se te va de las manos, cuando te queres acordar tenes +1K contactos
+12:02:21 - Martin Bavio (@mbavio):
+yo entro a taggear a amigos en trabajos que no quieren
+12:02:24 - Rodrigo Ali (@rodrigojali):
+Yo si. Pero ahora estoy empezando a filtrar.
+12:02:31 - Leandro Echevarria (@echevarrialeandro):
+Yo no acepto a todos
+12:02:34 - Rodrigo Ali (@rodrigojali):
+Sobre todo elimino a los que usan LinkedIn como si fuera Facebook.
+12:02:39 - Leandro Echevarria (@echevarrialeandro):
+Si no son del ambito tecnologico trato de ignorar
+12:03:23 - Gonza Espeche (@espeche.g):
+trato de aceptar a los que me invitan con un mensaje o algo mas "humano"
+12:04:10 - Rodrigo Ali (@rodrigojali):
+Podés poner un filtro en tu mismo profile, onda "si sos recruiter, mandame un mensaje que diga "Charmander" en el asunto" y si te llegan mensajes sin ese asunto, los rechazás porque ni vieron tu perfil :stuck_out_tongue:
+12:04:19 - Pablo Miceli (@pablomiceli24):
+yo agrego a todos y les contestos bien a todos, pero de paranoico nomas, por que me da miedo quedarme sin laburo abruptamente, entonces se que activo un flag en linkedin y consigo algo al toque
+12:04:19 - Ale Miralles (@amiralles):
+Yo en general acepto a todos, pero cuando me contactan, les tiro entre lineas la "hollywood rule". No me llames, yo te llamo" :wink:
+12:04:24 - Gonza Espeche (@espeche.g):
+jaaaja tremenda la de Charmander
+12:04:28 - Martín Valdés de León (@mvaldesdeleon):
+yo respondo con un link a un ejericicio de hackerrank con 30 minutos para resolverlo y si no lo pasan no les acepto la invitacion
+12:04:30 - Rodrigo Ali (@rodrigojali):
+ASi te olvidás de los "vimos tu perfil y re das fit para este puesto de REPOSITOR EXTERNO EN DISCO"
+12:04:42 - Pablo Miceli (@pablomiceli24):
+lei un consejo en internet una vez que me re quedó... `never burn bridges`
+12:05:18 - Leandro Echevarria (@echevarrialeandro):
+Si me envian algo, es mas fuerte que yo y les contesto amablemente. Y no joden mas por ahora
+12:05:25 - Gonza Espeche (@espeche.g):
+si, estoy en esa tambien Pablo, realmente *nunca se sabe*
+12:05:31 - Rodrigo Ali (@rodrigojali):
+Te vas a ulcerar todo Lean
+12:05:40 - Leandro Echevarria (@echevarrialeandro):
+See, ultimamente igual vienen re tranquilos
+12:05:43 - Rodrigo Ali (@rodrigojali):
+Te banco no quemar puentes
+12:05:44 - Leandro Echevarria (@echevarrialeandro):
+Por suerte
+12:06:01 - Leandro Echevarria (@echevarrialeandro):
+Cuando hay rachas de muichos mensajes, eventualmente contesto con 1 linea y nos vimos
+12:06:26 - Leandro Echevarria (@echevarrialeandro):
+Pero por dentro, muchas veces me dan ganas de contestarles con templates con {nombre} y todas esas cosas :rolling_on_the_floor_laughing:
+12:06:32 - Martin Bavio (@mbavio):
+los puentes que mas hay que bancar son con ex clientes y ex colegas de laburo
+12:06:36 - Gonza Espeche (@espeche.g):
+igualmente hay una realidad... quien anda mirando el Home de Linkedin? por día ponele promedio llegás a leer 10 posts? no es nada
+12:07:05 - Rodrigo Ali (@rodrigojali):
+Suficiente para sacar de mi newsfeed a gente que agregué y habla de política
+12:07:11 - Rodrigo Ali (@rodrigojali):
+O de cadenas de oración
+12:07:29 - Rodrigo Ali (@rodrigojali):
+O cualquier cosa no-profesional related
+12:09:38 - Lupe (@lportias):
+es buena esa!!!
+12:09:40 - Ale Miralles (@amiralles):
+Yo creo que como dice <@U75JU1TFS> las propuestas potables en general viene de conocidos, no de random recruiters
+12:09:58 - Martin Carrera (@mcarrera):
+yo tengo un template con le que le respondo a todos
+12:10:15 - Rodrigo Ali (@rodrigojali):
+La vieja y confiable networking
+12:10:21 - Martin Carrera (@mcarrera):
+asi como ellos te mandan un template
+12:10:27 - Lupe (@lportias):
+si me ha pasado eso!!!
+12:10:30 - Martin Carrera (@mcarrera):
+vos respondes con otro template
+12:10:36 - Martin Carrera (@mcarrera):
+y queda ahi
+12:10:51 - Martin Carrera (@mcarrera):
+o cierra con un :+1::skin-tone-2:  o un “Ok gracias”
+12:11:02 - Rodrigo Ali (@rodrigojali):
+Esto ya se habló me acuerdo ajajaja, armar un bot que responda a recruiters de la misma forma que te contactan ellos. No solo con un temaplte, si no con el formato "beneficios de contratarme" y cosas asi
+12:11:17 - Rodrigo Ali (@rodrigojali):
+"Onda `como fruta los martes y jueves `"
+12:11:24 - Leandro Echevarria (@echevarrialeandro):
+Me encantaria hacer eso jajajj, pero por ahora mi moral es mas fuerte
+12:11:26 - Leandro Echevarria (@echevarrialeandro):
+:disappointed:
+12:12:00 - Julian (@jantonielli01):
+Les voy a poner un bot para cuando repiten los temas 
+12:12:12 - Gonza Espeche (@espeche.g):
+retomamos tema manager de devs?
+12:12:42 - Rodrigo Ali (@rodrigojali):
+Propongo a <@U9KMYNJMV>
+12:12:54 - Gonza Espeche (@espeche.g):
+VOT SI
+12:15:30 - Rodrigo Ali (@rodrigojali):
+El publico se renueva :stuck_out_tongue:
+12:15:55 - Julian (@jantonielli01):
+Eso es lo peor jaj son siempre los mismos 5 gatos locos : p
+12:16:51 - Rodrigo Juarez (@rjuarez):
+hay que pinear impuestos de la afip + relocation
+12:21:14 - Mariano Montero (@etmaro):
+hace unos años cansados de los recruiters falopa que te mandan oportunidades en cobol cuando programas en ruby hicimos una competencia con unos compañeros
+12:21:45 - Mariano Montero (@etmaro):
+cada uno se armo un perfil falso de linkedin y el que recibia mas ofertas de laburo en un mes ganaba
+12:22:14 - Martin Bavio (@mbavio):
+<@U4LUFGL7Q> en la realidad tambien sos parecido a _Zach Galifianakis_ o es solo la foto de perfil?
+12:22:30 - Mariano Montero (@etmaro):
+banca que te paso algo
+12:33:41 - Martin Bavio (@mbavio):
+estas igual, <@U4LUFGL7Q>!
+12:34:03 - Mariano Montero (@etmaro):
+odio disfrazarme asi que los mas facil era robarme un bebe
+12:34:16 - Mariano Montero (@etmaro):
+_de juguete_
+13:22:07 - Santiago Ruffino (@santi_0898):
+Puta madre. Me perdi toda la conversacion por estar en una reunion }
+14:09:17 - gillchristian (@gillchristian):
+Me perdi de no laburar por estar laburando :speak_no_evil:
+14:17:38 - Matias Garat Ortiz (@matiasgaratortiz):
+si en lugar de laburar, solo prestaran atencion al chanel, seria mas facil... :man-shrugging::joy:
+15:04:53 - Luciano Muñoz (@luchisds):
+Che dejen a la gente no laburar tranquila!
+17:10:13 - Marcos Casagrande (@marcoscvp90):
+Alguno tiene referencias de Agile Engine?
+
+<https://agileengine.com/careers/>
+17:11:36 - Marcos Casagrande (@marcoscvp90):
+Tengo un par de amigos que los están entrevistando y queria saber que onda. Tienen varios puestos que cubrir por lo que veo en la página, pagan en USD.
+17:12:28 - Julian (@jantonielli01):
+A un amigo le hablaron el otro día 
+17:12:33 - Julian (@jantonielli01):
+Parecen medio chamuyo 
+17:14:24 - Marcos Casagrande (@marcoscvp90):
+Opino lo mismo, pero capaz había alguien laburando ahí. Le ofrecieron 3k USD, semi senior front end. Lo cual está bastante bien.
+17:27:31 - Julian (@jantonielli01):
+Sep 
+17:28:07 - Aldo Sorbara (@aldo1891):
+conozco gente ahi <@UGQTUDQSG>
+17:28:14 - Aldo Sorbara (@aldo1891):
+un ex compañero esta como TL
+17:28:25 - Aldo Sorbara (@aldo1891):
+a mi me entrevistaron pero no segui el proceso
+17:28:38 - Marcos Casagrande (@marcoscvp90):
+todo en orden? Pagan a fin de mes es más que nada la pregunta jaja
+17:28:46 - Aldo Sorbara (@aldo1891):
+si, pagar pagan
+17:29:37 - Aldo Sorbara (@aldo1891):
+un SR creo que estan pagando maximo 27 USD la hora
+17:30:10 - Marcos Casagrande (@marcoscvp90):
+Mi amigo dijo que SSR 19 la hora.
+17:33:40 - Aldo Sorbara (@aldo1891):
+si, seguramente, SR me acuerdo que era maximo 27 porque pedi mas y me dijeron su "rango"
+17:33:53 - Aldo Sorbara (@aldo1891):
+igual conozco casos en donde despues dan mas si realmente estan interesados en que estes ahi
+17:51:00 - Lupe (@lportias):
+otra propuesta que me cayo recien:
+17:51:27 - Lupe (@lportias):
+de Wunderman... donde se que no tiene HO ni almuerzos...
+17:51:41 - Gonzalo González Mora (@gonzalogm):
+14 días de vacaciones desde el arranque? WTF, eso es lo mínimo legal o estoy equivocado?
+17:52:12 - Lupe (@lportias):
+despues de los 6 meses tenes los 15 dias...
+17:52:51 - Gonzalo González Mora (@gonzalogm):
+Ahh de una
+17:52:57 - Lupe (@lportias):
+si entras despues de mitad de año, te corresponde un dia por mes trabajado... asi que si entras en octubre, solo tenes 3 dias de vacaciones
+18:02:05 - Martin Gonzalez (@martin2786):
+"cereales (martes y jueves)"
+No entiendo, los guardan bajo llave los demas dias? por que no compran una bolsa grande y lo dejan toda la semana?
+18:05:21 - Gonzalo González Mora (@gonzalogm):
+:rat:
+18:06:20 - Santiago Ruffino (@santi_0898):
+Prefiero cereales baratos, pero todos los dias
