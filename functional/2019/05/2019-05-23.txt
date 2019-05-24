@@ -1,0 +1,24 @@
+02:36:45 - Julian (@jantonielli01):
+<https://github.com/elm-explorations/linear-algebra/blob/1.0.3/src/Elm/Kernel/MJS.js#L472>
+02:36:47 - Julian (@jantonielli01):
+lmao
+02:36:51 - Julian (@jantonielli01):
+el buen codigo optimizado
+08:38:10 - gillchristian (@gillchristian):
+Ahi publicaron el schedule de Monadic Party <https://monadic.party/#schedule>
+08:38:16 - gillchristian (@gillchristian):
+Todo el hype :haskell:
+17:19:31 - Jonas Millan (@millan.jonas.1994):
+pasa q el mayor no se suma por ende nunca loopea al infinito
+02:36:45 - Julian (@jantonielli01):
+<https://github.com/elm-explorations/linear-algebra/blob/1.0.3/src/Elm/Kernel/MJS.js#L472>
+02:36:47 - Julian (@jantonielli01):
+lmao
+02:36:51 - Julian (@jantonielli01):
+el buen codigo optimizado
+08:38:10 - gillchristian (@gillchristian):
+Ahi publicaron el schedule de Monadic Party <https://monadic.party/#schedule>
+08:38:16 - gillchristian (@gillchristian):
+Todo el hype :haskell:
+17:19:31 - Jonas Millan (@millan.jonas.1994):
+pasa q el mayor no se suma por ende nunca loopea al infinito
