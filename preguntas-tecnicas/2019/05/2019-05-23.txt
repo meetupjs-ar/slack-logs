@@ -1,0 +1,609 @@
+21:16:05 - Santiago Ruffino (@santi_0898):
+Estoy iniciando un proyecto personal donde voy a trabajar con DBs. No tengo idea de nada. Pero quiero empezar con alguna plataforma que me "facilite" levantar la DB. Podria ser AWS?
+21:22:41 - Juan Bono (@juanbono):
+Facilitar en que sentido?
+21:23:36 - Santiago Ruffino (@santi_0898):
+Poder hacer un deply mas rapido. Y si es gratis, mejor
+21:23:49 - Santiago Ruffino (@santi_0898):
+AWS tiene DynamoDB que es gratis hastas 750GB
+22:51:15 - Juan Scolari (@juanscolari):
+AWS hace todo dificil :smile:
+22:52:28 - Juan Scolari (@juanscolari):
+Pero te sirve una banda
+01:00:54 - Julian (@jantonielli01):
+Heroku es fácil
+08:44:10 - Alejandro Nagy (@nagy.alejandro):
+Heroku es “create-react-app”, AWS es configuralo a pulmón :stuck_out_tongue:
+08:44:40 - Alejandro Nagy (@nagy.alejandro):
+Qué DB queres usar <@U9KMYNJMV>?
+08:45:21 - Alejandro Nagy (@nagy.alejandro):
+para mongoDB tenes <https://www.mongodb.com/cloud/atlas>
+08:45:25 - Alejandro Nagy (@nagy.alejandro):
+gratis y facil de setear
+08:48:49 - Santiago Ruffino (@santi_0898):
+No tengo ninguna DB de preferencia. Por lo que estuve hablando, debería usar algo NO relacionar
+08:54:17 - Juan Stiza (@juanstiza):
+Si es para jugar, creo que cualquier DB va a venir bien. Creo que Mongo es el “Standard”, hay muchísima documentación, etc. DynamoDB, no tanto. Ambas DBs, cuando las queres llevar a producción con cierta cantidad de throughput y/o capacidad, tienen sus problemas y cosillas… cosillas que muchas empresas no suelen ver cuando su app comienza a crecer y luego se convierten en un infierno.
+08:56:41 - Leandro Echevarria (@echevarrialeandro):
+Tirá ejemplos que esas cosas son las mas interesantes llevadas al terreno
+08:56:49 - Leandro Echevarria (@echevarrialeandro):
+:fastparrot:
+09:09:35 - Santiago Ruffino (@santi_0898):
+Es para jugar, pero a la vez quisiera que sea "escalable" por si quiero que la prueben mas personas
+09:33:43 - Juan Stiza (@juanstiza):
+Que se yo, en Mongo tener cuidado con los indices, que ocupan memoria. Sharding: si se pretende tener una base de datos con redundancia y escalabilidad, es necesario. Eso, o bien tener que ir “agrandando” el disco de vez en cuando, poniendo en riesgo la app.
+09:34:26 - Juan Stiza (@juanstiza):
+con DynamoDB, tener bien claro de antemano la capacidad necesaria: los índices estan fuertemente ligados a tu modelo. NoSQL requirere de cierto grado de planeamiento, a diferencia de SQL.
+09:35:01 - Juan Stiza (@juanstiza):
+Bah, es mi experiencia… Hasta ahora, en las dos ultimas empresas en las que estuve, estas cosas no se consideraron y ahora tenemos una DB de mongo, con medio terabyte, a punto de explotar
+09:36:09 - Leandro Echevarria (@echevarrialeandro):
+Ufff lindo
+09:36:34 - Leandro Echevarria (@echevarrialeandro):
+Aca tenemos replica sets nomas por ahora (falta casi un mes para prod igual)
+09:38:11 - Juan Stiza (@juanstiza):
+Bueno, con replica sets por lo menos tenes redundancia
+09:38:24 - Juan Stiza (@juanstiza):
+y si tenes que “agrandar” un disco, lo podes hacer uno por uno y no tenes downtime
+09:38:31 - Juan Stiza (@juanstiza):
+además, mongo es caro
+09:38:32 - Juan Stiza (@juanstiza):
+jaj
+09:39:45 - Leandro Echevarria (@echevarrialeandro):
+Tenemos clusters de servers y ahi metemos los mongos, no usamos los mongo as a service digamos
+09:43:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola gente! Cómo les va? Tengo una consulta.
+Hice una mini app con React.js q consume una api de datos meteorologicos. Muy básica. Entre los datos, uno es la dirección del viento, para lo que hice una mini brújula, que dependiendo los deg q me mande la api, debería moverse para un lado u otro usando css con `transform: rotateZ(90deg);`
+
+El tema es q en js me anda joya... en react no la pude hacer andar aún. No me tira ningún error.
+
+La declaro dentro del div q forma la aguja. No me da error, pero sigue sin moverse.
+`let aguja = `transform: rotateZ(${wind.deg}deg)`;
+
+&lt;div class="aguja" style={aguja}&gt;&lt;/div&gt;`
+
+El class aguja tiene otras caracteristicas para que gire desde la base y la posición absoluta y demás. Pero lo que me anda en js normal y no manda error, no sé q se me está pasando por alto
+09:44:44 - Gonzalo González Mora (@gonzalogm):
+Y además con Mongo tenés el tema que si tu data era relacional, y entrás a meter populate para hacer pseudo-join, tarde o temprano entrás a tener problemas de performance jaja
+09:46:16 - Leandro Echevarria (@echevarrialeandro):
+:shushing_face: Que al equipo no le gusta postgres
+09:46:26 - Leandro Echevarria (@echevarrialeandro):
+Lo voy a meter de prepo cuando no esten mirando (?
+09:47:30 - Gonzalo González Mora (@gonzalogm):
+Uff, sí, posta te digo, en mi laburo tenemos ese quilombo actualmente. Hay cosas que directamente ni podemos hacer pq explota todo mal (por ej ciertos listados en la sección de admin, etc.)
+09:51:43 - Leandro Echevarria (@echevarrialeandro):
+Si, coincido con eso tambien. Igual ni en pedo nuestra db lebanta medio tera
+09:51:51 - Leandro Echevarria (@echevarrialeandro):
+Si llega a levantar eso me retiro del mercado :rolling_on_the_floor_laughing:
+09:52:09 - Lucas Goncalves (@goncalveslucasv):
+Hola gente una consulta, cual piensan que es la mejor estrategia de seguridad para un login entre una app react client y un backend ? me refiero a que la password no viaje plain en el request al back
+09:52:39 - Leandro Echevarria (@echevarrialeandro):
+TLS
+09:56:05 - Lucas Goncalves (@goncalveslucasv):
+okkey! nunca lo implemente, voy a investigar!
+09:56:07 - Lucas Goncalves (@goncalveslucasv):
+muchas gracias!
+09:56:27 - Lucas Goncalves (@goncalveslucasv):
+y un workaround? mas q nada para tener un plan b en caso de fuego? :stuck_out_tongue:
+09:56:48 - Gonzalo González Mora (@gonzalogm):
+La nuestra tampoco eh jaja tenemos 170K users, y la DB pesa 7GB nomás, pero si entrás a meter unos populate anidados lo mata mal a nivel memoria. Por ahí se podía hacer alguna optimización :man-shrugging: finalmente decidimos hacer los reportes con Domo y listo
+10:01:42 - Martín Valdés de León (@mvaldesdeleon):
+en general es TLS bien configurado y nada mas. podes abrir las devtools en un login de google/facebook y vas a ver que el pw se manda en plaintext
+10:01:50 - Martín Valdés de León (@mvaldesdeleon):
+(al menos la ultima vez que hice el experimento era asi)
+10:02:36 - Martín Valdés de León (@mvaldesdeleon):
+si sos paranoico podes usar encriptacion asimetrica donde el front lee una clave publica del back y encripta con eso
+10:04:57 - Leandro Echevarria (@echevarrialeandro):
+Durisimo. Domo es de Mongo/trabaja con mongo?
+10:05:22 - Lucas Goncalves (@goncalveslucasv):
+claro, yo siempre me maneje con la pw en plaintext, ahora me levantaron un requerimiento que es inseguro porque "alguien se podría meter en el medio" que busque una forma, me estaba imaginando encriptarla con un salt en ssr
+10:05:49 - Alejandro Nagy (@nagy.alejandro):
+hash?
+21:16:05 - Santiago Ruffino (@santi_0898):
+Estoy iniciando un proyecto personal donde voy a trabajar con DBs. No tengo idea de nada. Pero quiero empezar con alguna plataforma que me "facilite" levantar la DB. Podria ser AWS?
+21:22:41 - Juan Bono (@juanbono):
+Facilitar en que sentido?
+21:23:36 - Santiago Ruffino (@santi_0898):
+Poder hacer un deply mas rapido. Y si es gratis, mejor
+21:23:49 - Santiago Ruffino (@santi_0898):
+AWS tiene DynamoDB que es gratis hastas 750GB
+22:51:15 - Juan Scolari (@juanscolari):
+AWS hace todo dificil :smile:
+22:52:28 - Juan Scolari (@juanscolari):
+Pero te sirve una banda
+01:00:54 - Julian (@jantonielli01):
+Heroku es fácil
+08:44:10 - Alejandro Nagy (@nagy.alejandro):
+Heroku es “create-react-app”, AWS es configuralo a pulmón :stuck_out_tongue:
+08:44:40 - Alejandro Nagy (@nagy.alejandro):
+Qué DB queres usar <@U9KMYNJMV>?
+08:45:21 - Alejandro Nagy (@nagy.alejandro):
+para mongoDB tenes <https://www.mongodb.com/cloud/atlas>
+08:45:25 - Alejandro Nagy (@nagy.alejandro):
+gratis y facil de setear
+08:48:49 - Santiago Ruffino (@santi_0898):
+No tengo ninguna DB de preferencia. Por lo que estuve hablando, debería usar algo NO relacionar
+08:54:17 - Juan Stiza (@juanstiza):
+Si es para jugar, creo que cualquier DB va a venir bien. Creo que Mongo es el “Standard”, hay muchísima documentación, etc. DynamoDB, no tanto. Ambas DBs, cuando las queres llevar a producción con cierta cantidad de throughput y/o capacidad, tienen sus problemas y cosillas… cosillas que muchas empresas no suelen ver cuando su app comienza a crecer y luego se convierten en un infierno.
+08:56:41 - Leandro Echevarria (@echevarrialeandro):
+Tirá ejemplos que esas cosas son las mas interesantes llevadas al terreno
+08:56:49 - Leandro Echevarria (@echevarrialeandro):
+:fastparrot:
+09:09:35 - Santiago Ruffino (@santi_0898):
+Es para jugar, pero a la vez quisiera que sea "escalable" por si quiero que la prueben mas personas
+09:33:43 - Juan Stiza (@juanstiza):
+Que se yo, en Mongo tener cuidado con los indices, que ocupan memoria. Sharding: si se pretende tener una base de datos con redundancia y escalabilidad, es necesario. Eso, o bien tener que ir “agrandando” el disco de vez en cuando, poniendo en riesgo la app.
+09:34:26 - Juan Stiza (@juanstiza):
+con DynamoDB, tener bien claro de antemano la capacidad necesaria: los índices estan fuertemente ligados a tu modelo. NoSQL requirere de cierto grado de planeamiento, a diferencia de SQL.
+09:35:01 - Juan Stiza (@juanstiza):
+Bah, es mi experiencia… Hasta ahora, en las dos ultimas empresas en las que estuve, estas cosas no se consideraron y ahora tenemos una DB de mongo, con medio terabyte, a punto de explotar
+09:36:09 - Leandro Echevarria (@echevarrialeandro):
+Ufff lindo
+09:36:34 - Leandro Echevarria (@echevarrialeandro):
+Aca tenemos replica sets nomas por ahora (falta casi un mes para prod igual)
+09:38:11 - Juan Stiza (@juanstiza):
+Bueno, con replica sets por lo menos tenes redundancia
+09:38:24 - Juan Stiza (@juanstiza):
+y si tenes que “agrandar” un disco, lo podes hacer uno por uno y no tenes downtime
+09:38:31 - Juan Stiza (@juanstiza):
+además, mongo es caro
+09:38:32 - Juan Stiza (@juanstiza):
+jaj
+09:39:45 - Leandro Echevarria (@echevarrialeandro):
+Tenemos clusters de servers y ahi metemos los mongos, no usamos los mongo as a service digamos
+09:43:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola gente! Cómo les va? Tengo una consulta.
+Hice una mini app con React.js q consume una api de datos meteorologicos. Muy básica. Entre los datos, uno es la dirección del viento, para lo que hice una mini brújula, que dependiendo los deg q me mande la api, debería moverse para un lado u otro usando css con `transform: rotateZ(90deg);`
+
+El tema es q en js me anda joya... en react no la pude hacer andar aún. No me tira ningún error.
+
+La declaro dentro del div q forma la aguja. No me da error, pero sigue sin moverse.
+`let aguja = `transform: rotateZ(${wind.deg}deg)`;
+
+&lt;div class="aguja" style={aguja}&gt;&lt;/div&gt;`
+
+El class aguja tiene otras caracteristicas para que gire desde la base y la posición absoluta y demás. Pero lo que me anda en js normal y no manda error, no sé q se me está pasando por alto
+09:44:44 - Gonzalo González Mora (@gonzalogm):
+Y además con Mongo tenés el tema que si tu data era relacional, y entrás a meter populate para hacer pseudo-join, tarde o temprano entrás a tener problemas de performance jaja
+09:46:16 - Leandro Echevarria (@echevarrialeandro):
+:shushing_face: Que al equipo no le gusta postgres
+09:46:26 - Leandro Echevarria (@echevarrialeandro):
+Lo voy a meter de prepo cuando no esten mirando (?
+09:47:30 - Gonzalo González Mora (@gonzalogm):
+Uff, sí, posta te digo, en mi laburo tenemos ese quilombo actualmente. Hay cosas que directamente ni podemos hacer pq explota todo mal (por ej ciertos listados en la sección de admin, etc.)
+09:51:43 - Leandro Echevarria (@echevarrialeandro):
+Si, coincido con eso tambien. Igual ni en pedo nuestra db lebanta medio tera
+09:51:51 - Leandro Echevarria (@echevarrialeandro):
+Si llega a levantar eso me retiro del mercado :rolling_on_the_floor_laughing:
+09:52:09 - Lucas Goncalves (@goncalveslucasv):
+Hola gente una consulta, cual piensan que es la mejor estrategia de seguridad para un login entre una app react client y un backend ? me refiero a que la password no viaje plain en el request al back
+09:52:39 - Leandro Echevarria (@echevarrialeandro):
+TLS
+09:56:05 - Lucas Goncalves (@goncalveslucasv):
+okkey! nunca lo implemente, voy a investigar!
+09:56:07 - Lucas Goncalves (@goncalveslucasv):
+muchas gracias!
+09:56:27 - Lucas Goncalves (@goncalveslucasv):
+y un workaround? mas q nada para tener un plan b en caso de fuego? :stuck_out_tongue:
+09:56:48 - Gonzalo González Mora (@gonzalogm):
+La nuestra tampoco eh jaja tenemos 170K users, y la DB pesa 7GB nomás, pero si entrás a meter unos populate anidados lo mata mal a nivel memoria. Por ahí se podía hacer alguna optimización :man-shrugging: finalmente decidimos hacer los reportes con Domo y listo
+10:01:42 - Martín Valdés de León (@mvaldesdeleon):
+en general es TLS bien configurado y nada mas. podes abrir las devtools en un login de google/facebook y vas a ver que el pw se manda en plaintext
+10:01:50 - Martín Valdés de León (@mvaldesdeleon):
+(al menos la ultima vez que hice el experimento era asi)
+10:02:36 - Martín Valdés de León (@mvaldesdeleon):
+si sos paranoico podes usar encriptacion asimetrica donde el front lee una clave publica del back y encripta con eso
+10:04:57 - Leandro Echevarria (@echevarrialeandro):
+Durisimo. Domo es de Mongo/trabaja con mongo?
+10:05:22 - Lucas Goncalves (@goncalveslucasv):
+claro, yo siempre me maneje con la pw en plaintext, ahora me levantaron un requerimiento que es inseguro porque "alguien se podría meter en el medio" que busque una forma, me estaba imaginando encriptarla con un salt en ssr
+10:05:49 - Alejandro Nagy (@nagy.alejandro):
+hash?
+10:05:57 - Lucas Goncalves (@goncalveslucasv):
+pero si digo facebook usa pw plaintext es argumento suficiente para ellos :rolling_on_the_floor_laughing:
+10:06:08 - Lucas Goncalves (@goncalveslucasv):
+eso y ver lo de tls entonces :thinking_face:
+10:06:16 - Alejandro Nagy (@nagy.alejandro):
+Si guardas tus password como hash, y la mandas hasheada desde react?
+10:06:54 - Martín Valdés de León (@mvaldesdeleon):
+TLS bien configurado te asegura que no podes MITM
+10:07:02 - Alejandro Nagy (@nagy.alejandro):
+si no digo que no sea lo mejor
+10:07:04 - Martín Valdés de León (@mvaldesdeleon):
+tenes q settear los headers adecuados para pinnear el cert
+10:07:10 - Alejandro Nagy (@nagy.alejandro):
+digo por si no quiere o puede ponerlo :stuck_out_tongue:
+10:07:38 - Lucas Goncalves (@goncalveslucasv):
+claro, mandar hasheado el pw tambien sería suficiente quiza :thinking_face:
+10:08:15 - Lucas Goncalves (@goncalveslucasv):
+bueno voy a tirar por la opcion de tls, si veo que no quieren o no puedo configurarlo bien voy por el workaround con hash
+10:08:20 - Lucas Goncalves (@goncalveslucasv):
+muchas gracias!
+10:09:53 - Gonzalo González Mora (@gonzalogm):
+Es una app para hacer Business Intelligence, te importa de un montón de tipos de DB, incluída Mongo, está muy copada (pero creo que es salada)
+10:10:16 - Mateo Silguero (@mfsilguero):
+Los styles en react tiene que ser objetos
+Tipo:
+
+const agujaStyle = {
+  transform: `rotateZ(${wind.deg}deg)`
+}
+
+&lt;div style={agujaStyle}&gt;
+10:11:05 - Mateo Silguero (@mfsilguero):
+rotateZ... Debe ser un string
+10:27:02 - Martin Bavio (@mbavio):
+si queres hacer cosas hipsters usa FaunaDB, <@U9KMYNJMV>
+10:35:50 - Santiago Ruffino (@santi_0898):
+No quiero hipster, jajaja
+10:35:51 - Santiago Ruffino (@santi_0898):
+Quiero algo donde me puedan ayudar
+10:39:50 - Aldo Gabriel Rojas (@aldogrojas5):
+Si, lo puse entre (`) comillas invertidas pero salio mal en el mensaje. En el codigo se veía bien
+10:44:33 - Jorge Cano (@jorgeucano):
+postgresql :stuck_out_tongue:
+10:44:37 - Jorge Cano (@jorgeucano):
+no vayas por nosql
+10:44:54 - Jorge Cano (@jorgeucano):
+en el 99.9999999999999% de los casos no lo necesitas
+10:47:09 - Juan Stiza (@juanstiza):
++1 postgresql
+10:47:32 - Juan Stiza (@juanstiza):
+<https://media.giphy.com/media/3ornka9rAaKRA2Rkac/giphy.gif>
+10:50:54 - Rodrigo Ali (@rodrigojali):
+¿Vale la pena intentar meter GraphQL para la solución que quiere alcanzar Santi?
+10:51:44 - Santiago Ruffino (@santi_0898):
+Pienso hacer el back en Python + Flask. Deberia intentar orientar la busqueda a alguna DB que tenga "facilidad" con eso?
+10:51:44 - Jorge Cano (@jorgeucano):
+el tiene el 100% del proyecto
+10:51:46 - Jorge Cano (@jorgeucano):
+yo creo que no :slightly_smiling_face:
+10:51:57 - Jorge Cano (@jorgeucano):
+graphql esta bueno
+10:52:07 - Jorge Cano (@jorgeucano):
+para cuando be y fe team estan separados
+10:52:09 - Rodrigo Ali (@rodrigojali):
+Vi que se está moviendo mucho
+10:52:11 - Jorge Cano (@jorgeucano):
+y tienen demasiado que hacer de ambos lados
+10:52:18 - Jorge Cano (@jorgeucano):
+entonces, ninguno depende del otro :slightly_smiling_face:
+10:52:23 - Rodrigo Ali (@rodrigojali):
+Clah...
+10:52:25 - Rodrigo Ali (@rodrigojali):
+Comprende
+10:52:33 - Jorge Cano (@jorgeucano):
+seria como un “middleware query”
+10:52:44 - Santiago Ruffino (@santi_0898):
+Salvo que tenga doble personalidad, y mi YO del front sea totalmente distinto al YO del back
+10:52:48 - Rodrigo Ali (@rodrigojali):
+Claro, es como un backend del front
+10:53:00 - Jorge Cano (@jorgeucano):
+esta genial, pero no creo que necesite eso
+10:53:13 - Jorge Cano (@jorgeucano):
+con react fe, python flask be, y postgresql
+10:53:20 - Jorge Cano (@jorgeucano):
+va a tener el stack sin necesitar de nada mas
+10:53:36 - Jorge Cano (@jorgeucano):
+bueno, react router y webpack y redux(no mentira no usen redux) … y algo mas (hasta ahi llega mi conocimiento de react xD)
+10:54:21 - Rodrigo Ali (@rodrigojali):
+Yo estoy armando una app chica para aprender un par de cosas, que es básicamente un "dar tu recomendacion y review de series/pelis"
+10:54:37 - Santiago Ruffino (@santi_0898):
+Rorry, que ser partner de mi proyecto? Te dejo hacer el front ?)
+10:54:40 - Santiago Ruffino (@santi_0898):
+Jajaja
+10:54:47 - Rodrigo Ali (@rodrigojali):
+Lo usamos adentro del laburo, hice un spreadsheet y lo voy a pasar a app, y estoy pensando el stack, obviamente es re chico, y estaba viendo si vale la pena meter o no Graph
+10:54:50 - Rodrigo Ali (@rodrigojali):
+(para aprender más que nada)
+10:54:53 - Rodrigo Ali (@rodrigojali):
+Pero me parece overkill
+10:55:25 - Jorge Cano (@jorgeucano):
+si es para divertirte y aprender
+10:55:27 - Jorge Cano (@jorgeucano):
+ME PARECE GENIAL
+10:55:29 - Rodrigo Ali (@rodrigojali):
+Se
+10:55:32 - Jorge Cano (@jorgeucano):
+si queres sacar algo rapido
+10:55:34 - Jorge Cano (@jorgeucano):
+anda por lo que sabes
+10:55:34 - Rodrigo Ali (@rodrigojali):
+No me interesa que escale la verdad
+10:55:40 - Rodrigo Ali (@rodrigojali):
+Y no tengo deadlines
+10:55:44 - Jorge Cano (@jorgeucano):
+obviamente vas a trabajar de mas
+10:55:48 - Jorge Cano (@jorgeucano):
+pero podes aprender con eso
+10:56:16 - Jorge Cano (@jorgeucano):
+en un proyecto para un curso
+10:56:19 - Martin Bavio (@mbavio):
+GraphQL esta bueno, y como tiene mucho hype actualmente esta lleno de nuevas tools
+10:56:21 - Jorge Cano (@jorgeucano):
+me paso que meti cosas que no debia
+10:56:23 - Rodrigo Ali (@rodrigojali):
+Así que quería hacer React (para aprender hooks de paso, ya usé React antes), ver de usar algo que no sea redux onda mobx, o capaz redux-thunk, usar alguna DB onda postgres y usar algo hecho en Node
+10:56:25 - Rodrigo Ali (@rodrigojali):
+ASi aprendo node
+10:56:25 - Martin Bavio (@mbavio):
+pero no es ni ahi para cualquier proyecto
+10:56:29 - Jorge Cano (@jorgeucano):
+y termine haciendo una cosa loca por eso mismo
+10:56:31 - Jorge Cano (@jorgeucano):
+termino en un post
+10:56:32 - Jorge Cano (@jorgeucano):
+<https://itnext.io/from-no-sql-database-to-firestore-angularfire-82dc13ecda65>
+10:56:52 - Martin Bavio (@mbavio):
+el learning curve es un toque alto, especialmente si haces la parte del backend tambien
+10:56:56 - Rodrigo Ali (@rodrigojali):
+Jajaja lo voy a ver mas tarde
+10:57:16 - Martin Bavio (@mbavio):
+para hacer un blog ponele es matar moscas a rayos de destructor de Star Wars
+10:57:30 - Jorge Cano (@jorgeucano):
+por usar firebase (no sql)
+10:57:37 - Jorge Cano (@jorgeucano):
+tuve que hacer una funcion de “join” de querys
+10:57:49 - Jorge Cano (@jorgeucano):
+ya que no se puede hacer sobre el mismo
+10:58:28 - Rodrigo Ali (@rodrigojali):
+Claro, no no, lo mio va a ser una app bastante tranqui. Quiero que tenga:
+• un login simple (no me voy a matar con seguridad, al menos no ahora)
+• Muestre una lista de las cosas cargadas hasta ahora, con filtros
+• Te deje cargar una recomendación
+• Consuma (de ser posible) alguna API de imdb o algo asi (es para series y pelis)
+10:58:40 - Rodrigo Ali (@rodrigojali):
+De paso aprendo a hacer también login y permisos de usuarios
+10:59:03 - Jorge Cano (@jorgeucano):
+ahi esta super de mas graphql :slightly_smiling_face: pero si queres aprender
+10:59:08 - Jorge Cano (@jorgeucano):
+quien te quita lo bailado?
+11:00:50 - Rodrigo Ali (@rodrigojali):
+Posta, estaba pensando usar Node con Express pero me parece demasiado grande Express...
+11:01:02 - Rodrigo Ali (@rodrigojali):
+Estoy buscando alternativas
+11:01:11 - Jorge Cano (@jorgeucano):
+nostoros en el laburo estamos usando
+11:01:17 - Jorge Cano (@jorgeucano):
+hapi js
+11:01:21 - Jorge Cano (@jorgeucano):
+para el ssr
+11:01:24 - Jorge Cano (@jorgeucano):
+y super contentos
+11:01:57 - Rodrigo Ali (@rodrigojali):
+No sé si voy a hacer SSR, pero podría probar, mandar el template ya hecho y que la app después popule el template
+11:02:22 - Rodrigo Ali (@rodrigojali):
+Gracias por todas las recomendaciones, gracias Santi por iniciar el tema :stuck_out_tongue:
+11:03:34 - Martin Bavio (@mbavio):
+<@UFFG5EPGU> a mi me gusta Koa
+11:03:50 - Rodrigo Ali (@rodrigojali):
+Why?
+11:04:02 - Martin Bavio (@mbavio):
+es lightweight
+11:04:23 - Martin Bavio (@mbavio):
+y el source code de su core lo puedo entender hasta yo
+11:04:35 - Martin Bavio (@mbavio):
+ni router tiene out of the box
+11:05:35 - Rodrigo Ali (@rodrigojali):
+=o nice, voy a leer Hapi y Koa
+11:05:52 - Rodrigo Ali (@rodrigojali):
+También estuve viendo algo de Fastify y Restify pero como que meh, no me convencieron
+11:06:51 - Santiago Ruffino (@santi_0898):
+Probe Express para hacer la parte del back
+11:07:01 - Santiago Ruffino (@santi_0898):
+Si es algo chico, y tenes ganas de aprender algo, usa Flask
+11:07:06 - Santiago Ruffino (@santi_0898):
+Es MUY facil de usar
+11:07:07 - Martin Bavio (@mbavio):
+El padre de Hapi es un developer al cual respeto mucho, Eran Hammer
+11:07:13 - Santiago Ruffino (@santi_0898):
+Es Python, pero se aprende rapido
+11:07:17 - Martin Bavio (@mbavio):
+lo hizo para WallMart inicialmente si yo mal no entendi
+11:07:22 - Jorge Cano (@jorgeucano):
+a python le faltan los {}
+11:07:29 - Martin Bavio (@mbavio):
+tengo entendido que esta muy bueno HapiJS para REST APIs
+11:07:33 - Rodrigo Ali (@rodrigojali):
+Puede ser lo de Flask y Py, jamás toque Py
+11:07:35 - Martin Bavio (@mbavio):
+no lo probe nunca
+11:07:45 - Santiago Ruffino (@santi_0898):
+Python le pinta la cara a JS. Vengan de a uno
+11:07:52 - Rodrigo Ali (@rodrigojali):
+#forobardo ahnopara
+11:08:14 - Martin Bavio (@mbavio):
+es como comparar manzanas con paltas
+11:08:23 - Santiago Ruffino (@santi_0898):
+Las dos son frutas?
+11:08:28 - Martin Bavio (@mbavio):
+nah
+11:08:40 - Rodrigo Ali (@rodrigojali):
+Son frutas.
+11:10:18 - Adrián Velasco (@adrivelasco1506):
+tengo unas ganas de meterle a flask, lo recomiendan todos, no tuve tiempo para codear algo, primero quiero terminar un curso de python que ya arranqué jaja
+11:11:25 - Santiago Ruffino (@santi_0898):
+Si necesitan aiuda con Python y/o Flask, me tiran MD o algo. Asi devuelvo algo de conocimiento a la comunidad ?)
+11:13:40 - Gastón (@gastonrivata):
+Ya que estamos pregunto: porque demasiado grande Express?
+11:30:26 - Rodrigo Ali (@rodrigojali):
+Porque (supongo yo eh) fue el framework Node más popular durante mucho tiempo, entonces empezó a crecer porque le empezaron a meter muchas funcionalidades
+11:30:46 - Rodrigo Ali (@rodrigojali):
+Como pasa también con ciertas librerías muy usadas como Moment y Lodash
+11:31:11 - Rodrigo Ali (@rodrigojali):
+El tema para mi es no caer en usar un cañón para matar una mosca, yo creo que Express excede mucho en capacidad lo que yo necesito cubrir
+11:31:43 - Gonzalo González Mora (@gonzalogm):
+Tmb depende a quién le preguntás por lo que vi, hay gente a la que le parece muy pelado, por ej gente que viene de Rails
+11:32:04 - Rodrigo Ali (@rodrigojali):
+Nah obvio, yo hablo contextual frameworks de Node
+11:32:08 - Gonzalo González Mora (@gonzalogm):
+Ahh de una
+11:32:12 - Rodrigo Ali (@rodrigojali):
+Por ahí faltó aclarar eso
+11:32:51 - Rodrigo Ali (@rodrigojali):
+Otro que vi como creciendo en popularidad es Loopback
+11:33:27 - Gonzalo González Mora (@gonzalogm):
+Mmm ese no tuvo popularidad hace unos años y ahora medio que murió?
+11:34:32 - Gastón (@gastonrivata):
+Loopback está bueno para POCs, salen cosas rapidisimo, pero tengo entendido que no escala bien
+11:36:54 - Martin Bavio (@mbavio):
+Quien dijo que Express es demasiado grande? Nada que ver.
+11:37:06 - Rodrigo Ali (@rodrigojali):
+Yo en base a cosas que leí en articulos :stuck_out_tongue:
+11:37:26 - Martin Bavio (@mbavio):
+Demasiado grande es Rails
+11:37:30 - Rodrigo Ali (@rodrigojali):
+Y contextualmente contra otros frameworks de Node onda Hapi y Restify
+11:37:37 - Martin Bavio (@mbavio):
+Hapi es mas pesado que Express
+11:37:42 - Rodrigo Ali (@rodrigojali):
+:open_mouth:
+11:37:45 - Martin Bavio (@mbavio):
+porque tiene incluidas mas cosas
+11:37:54 - Martin Bavio (@mbavio):
+porque es apuntado a un caso en particular
+11:38:05 - Martin Bavio (@mbavio):
+mientras que Express se usa para un monton de diversas cosas
+12:21:48 - Daniel Broder (@dabroder):
+<@UFFG5EPGU> si querés probar cosas alternativas y livianas tenés <https://github.com/lukeed/polka> y <https://github.com/zeit/micro>
+12:22:26 - Rodrigo Ali (@rodrigojali):
+Mi idea es probar techs para aprender y de paso que se usen en general, o sea, que me ayuden a conseguir laburo en la mayoría de ls lugares
+12:23:10 - Rodrigo Ali (@rodrigojali):
+Digamos ,la idea es aprender el concepto y aplicar el concepto con alguna tool que sea bastante usada
+12:24:05 - Daniel Broder (@dabroder):
+entonces arrancá por `express`
+12:25:34 - Rodrigo Ali (@rodrigojali):
+Ahora mismo estoy entre Express/Koa, Flask y Go
+12:25:43 - Daniel Broder (@dabroder):
+<https://2018.stateofjs.com/back-end-frameworks/overview/> fijate que es el más popular
+12:25:51 - Rodrigo Ali (@rodrigojali):
+Seh jajaja eso estuve viendo
+12:26:01 - Rodrigo Ali (@rodrigojali):
+De ahí saqué de hecho el tema de usar (o no) GraphQL
+12:34:19 - Germán Burgardt (@germanandresburgardt):
+Alguna function js / lodash que dado dos índices y un array me intercambie de posición esos elementos?
+12:36:26 - Leandro Echevarria (@echevarrialeandro):
+Swapealo a manopla che :stuck_out_tongue:
+12:37:10 - Germán Burgardt (@germanandresburgardt):
+Alta paja :upside_down_face: jaj
+12:40:02 - Leandro Echevarria (@echevarrialeandro):
+Acá hay para elegir xd <https://www.reddit.com/r/javascript/comments/4ppifp/better_functional_way_to_swap_array_values/>
+12:40:18 - Martin Carrera (@mcarrera):
+`[arr[0], arr[1]] = [arr[1], arr[0]]`
+12:40:40 - Martin Carrera (@mcarrera):
+asi swappeas en 1 linea sin necesidad de meter una lib gigante
+12:41:04 - Martin Carrera (@mcarrera):
+ojo q vas a mutar el array
+12:43:16 - Germán Burgardt (@germanandresburgardt):
+perfect, en realidad no sabía como googlearlo, no se me ocurría la palabra `swap`. Gracias gente!
+13:37:37 - david garcia (@manuonda):
+y usan knex o sequelize ??
+13:44:57 - Julian (@jantonielli01):
+Por que?
+13:49:32 - Santiago Ruffino (@santi_0898):
+Porque no voy a usar varias tablas ni relacionadas entre si. Me falta terminar de "esquematizar" toda la app. Pero lo estuve analizando y no me haria falta
+14:12:38 - Jorge Cano (@jorgeucano):
+ni idea :P… se que lo usamos xD
+15:33:36 - Nico (@nicokorn96):
+buenas gente alguno que sepa de python me puede orientar de que se debe este error?
+15:33:40 - Nico (@nicokorn96):
+<https://imgur.com/a/9RaDbM0>
+15:34:14 - Nico (@nicokorn96):
+(ya se que es un problema de que no debe encontrar un modulo pero la carpeta est'a)
+15:34:39 - Nico (@nicokorn96):
+yo con python = 0
+15:34:49 - Rodrigo Ali (@rodrigojali):
+<@U9KMYNJMV> es tu momento bro
+15:34:58 - Nico (@nicokorn96):
+tirame la ruffisenial
+15:36:20 - Nico (@nicokorn96):
+si lo resolves cerramos el proyecto <@U9KMYNJMV>
+15:36:39 - Rodrigo Ali (@rodrigojali):
+Sin presión Santi pero de vos depende el laburo de Nico.
+15:36:49 - Santiago Ruffino (@santi_0898):
+Jajaja, no pasa nada
+15:37:58 - Nico (@nicokorn96):
+no pressure
+15:38:23 - Santiago Ruffino (@santi_0898):
+Estas usando venv? O algo que pueda hacer que no encuentro la libreria?
+15:39:36 - Santiago Ruffino (@santi_0898):
+Es una libreria "oficial" o es algo propio?
+15:40:53 - Nico (@nicokorn96):
+ni re puta idea
+15:41:02 - Nico (@nicokorn96):
+es un proyecto re legacy
+15:41:14 - Nico (@nicokorn96):
+del 2017 que me dijeron "levantalo "
+15:41:27 - Nico (@nicokorn96):
+y yo python no cazo one
+15:41:54 - Nico (@nicokorn96):
+el venv no lo tengo
+15:41:59 - Nico (@nicokorn96):
+la carpeta
+15:42:15 - Nico (@nicokorn96):
+instale los requirements del proyecto
+15:44:20 - Nico (@nicokorn96):
+mis requirements.txt son estos
+15:45:59 - Santiago Ruffino (@santi_0898):
+Existe alguna carpeta en algun lado que se llama Droptek?
+15:46:40 - Nico (@nicokorn96):
+yap
+15:46:45 - Nico (@nicokorn96):
+droptek_platform
+15:46:57 - Nico (@nicokorn96):
+pero no tiene algun archivo o carpeta env
+15:47:00 - Nico (@nicokorn96):
+o venv
+15:47:02 - Nico (@nicokorn96):
+o .env
+15:47:04 - Nico (@nicokorn96):
+o algo asi
+15:52:53 - Santiago Ruffino (@santi_0898):
+Fijate si tiene algun archivo que se llama `__init__.py`
+15:53:29 - Santiago Ruffino (@santi_0898):
+Cambia del codigo que estas ejecutando y pone `from droptek_platform import pipeline`
+15:53:31 - Julian (@jantonielli01):
+Ya fue 
+15:53:35 - Julian (@jantonielli01):
+Reescribí la app 
+15:57:20 - Martín Aimar (@maimar):
+greenfield ftw
+15:58:36 - Nico (@nicokorn96):
+ya le dije a mi jefe que convenia tirarlo a la mierda
+15:58:49 - Leandro Echevarria (@echevarrialeandro):
+Pocos jefes escuchan a sus devs
+15:58:59 - Leandro Echevarria (@echevarrialeandro):
+Los que no, terminan mal (?
+15:58:59 - Nico (@nicokorn96):
+como me rompen las bolas estas cosas legacy
+15:59:18 - Nico (@nicokorn96):
+ademas al ultima vez que se ejecuto bien fue en el 2017
+15:59:24 - Nico (@nicokorn96):
+ppor algo sera
+15:59:38 - Nico (@nicokorn96):
+reffactorizamos todo a node menos este fucking modulo
+15:59:39 - Nico (@nicokorn96):
+lpm
+16:12:20 - Santiago Ruffino (@santi_0898):
+Probaste de cambiar esa linea de codigo en el codigo?
+16:17:50 - Juan Bono (@juanbono):
+Create un virtualenv con la versión de Python del proyecto, tira `source venv/bin/activate` para usar el virtualenv y ahí instala las deps del requirements.txt
+16:19:18 - Juan Bono (@juanbono):
+(`pip install -r requirements.txt`)
+16:31:57 - Maxi (@tholem98):
+Recomiendan pasarse de express a koa? Que diferencias hay y cuan alta es la curva de aprendizaje?
+16:37:16 - Martín Valdés de León (@mvaldesdeleon):
+A mi me gusta mas koa pq los middlewares procesan tanto el request como el response.
+16:37:27 - Martín Valdés de León (@mvaldesdeleon):
+Salvo eso me parecieron casi identicos.
+16:38:35 - Martín Valdés de León (@mvaldesdeleon):
+Ahora... _pasarse_... si ya tenes un proyecto en exrpress andando,  yo no lo migraria a koa _para usar koa_
+16:44:22 - Maxi (@tholem98):
+Claro, no ganas nada al migrar pero empezar un proyecto nuevo con koa en lugar de express conviene, no?
+16:53:07 - Martín Valdés de León (@mvaldesdeleon):
+Yo me fijaria si los middlewares de express son compatibles con koa. Deberian serlo o al menos deberia ser facil armar un adaptador en ese sentido (express -&gt; koa). En el sentido opuesto no.
+16:53:47 - Martín Valdés de León (@mvaldesdeleon):
+O al menos revisa eso,  que no te vaya a faltar alguna lib.
+17:02:07 - Maxi (@tholem98):
+Gracias
+17:05:56 - Martín Valdés de León (@mvaldesdeleon):
+De nada! Igual, honestamente, a grandes razgos el framework que eligas no va a hacer mucha diferencia.
