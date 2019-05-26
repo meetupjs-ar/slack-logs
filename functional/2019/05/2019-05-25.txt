@@ -1,0 +1,40 @@
+22:56:09 - Julian (@jantonielli01):
+<https://www.youtube.com/watch?v=F7F-BzOB670>
+22:56:58 - Julian (@jantonielli01):
+```
+loeb fs = xs where xs = fmap ($ xs) fs
+
+loeb [length, (!! 0), (\xs -&gt; xs !! 0 + xs !! 1)] -- =&gt; [3, 3, 6]
+```
+22:56:59 - Julian (@jantonielli01):
+woah
+23:04:12 - Julian (@jantonielli01):
+<https://twitter.com/_jjant/status/1132104908554014720>
+
+:agite2:
+07:01:05 - Martín Valdés de León (@mvaldesdeleon):
+se atajo de toque richard
+07:31:30 - gillchristian (@gillchristian):
+The classic "we've discussed it"
+12:53:24 - gillchristian (@gillchristian):
+<https://twitter.com/thompson_si/status/1132206867961339905?s=20>
+22:56:09 - Julian (@jantonielli01):
+<https://www.youtube.com/watch?v=F7F-BzOB670>
+22:56:58 - Julian (@jantonielli01):
+```
+loeb fs = xs where xs = fmap ($ xs) fs
+
+loeb [length, (!! 0), (\xs -&gt; xs !! 0 + xs !! 1)] -- =&gt; [3, 3, 6]
+```
+22:56:59 - Julian (@jantonielli01):
+woah
+23:04:12 - Julian (@jantonielli01):
+<https://twitter.com/_jjant/status/1132104908554014720>
+
+:agite2:
+07:01:05 - Martín Valdés de León (@mvaldesdeleon):
+se atajo de toque richard
+07:31:30 - gillchristian (@gillchristian):
+The classic "we've discussed it"
+12:53:24 - gillchristian (@gillchristian):
+<https://twitter.com/thompson_si/status/1132206867961339905?s=20>
