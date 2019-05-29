@@ -1,0 +1,367 @@
+22:47:08 - Diego Harari (@diehara):
+<https://www.youtube.com/watch?v=SsoOG6ZeyUI>
+09:23:48 - Pedro (@pedro461):
+uso vim y spaces (aunq hice que la tecla tab escriba espacios y listo jaja).. justamente por lo de las escaleras
+09:23:54 - Pedro (@pedro461):
+:joy:
+09:24:46 - Martín Aimar (@maimar):
+alguien que use espacios indenta con la barra espaciadora?
+09:25:16 - Pedro (@pedro461):
+buena pregunta, yo lo digo por el video, la mina usa el space
+09:25:53 - Martín Aimar (@maimar):
+si pero pensé que sería para el chiste no más
+09:26:09 - Pedro (@pedro461):
+claro
+09:26:12 - Pedro (@pedro461):
+no se me ocurrió
+09:26:27 - Pedro (@pedro461):
+la pregunta entonces sería 2 spaces o 4?
+09:26:56 - Martín Aimar (@maimar):
+js y html 2
+09:27:15 - Pedro (@pedro461):
+yo uso 2 siempre (mi pantalla es muy chica para jugar tanto con el espacio jaja)
+09:27:53 - Martín Aimar (@maimar):
+mi editor muestra 30 líneas, el tuyo?
+09:28:14 - Pedro (@pedro461):
+uso vim, como podré saberlo jaja
+09:28:26 - Martín Aimar (@maimar):
+no se puede poner que te numere las líneas?
+09:28:28 - Martín Aimar (@maimar):
+si no contalas
+09:28:40 - Pedro (@pedro461):
+45
+09:28:49 - Pedro (@pedro461):
+ahi me fije
+09:28:55 - Martín Aimar (@maimar):
+ahh un tocazo
+09:28:57 - Santiago Ruffino (@santi_0898):
+Pedro esta buscando excusas para comprar un monitor msa grande
+09:29:06 - Pedro (@pedro461):
+y si practicamente toda la pantalla, es la terminal en full screen
+09:29:14 - Santiago Ruffino (@santi_0898):
+"Mi pintilli is mi chici"
+09:29:19 - Pedro (@pedro461):
+Santi me descubriste!
+09:29:22 - Santiago Ruffino (@santi_0898):
+Jajajaja
+09:29:24 - Pedro (@pedro461):
+jajajaja
+09:29:47 - Pedro (@pedro461):
+44 en realidad, la última es mi airline
+09:30:06 - Martín Aimar (@maimar):
+ah yo no tengo una línea aérea
+09:30:43 - Pedro (@pedro461):
+ahi va un screenshot
+09:31:53 - Martín Aimar (@maimar):
+tenés el monitor en CGA?
+09:32:12 - Pedro (@pedro461):
+jajaja no, es una mac, es solo la terminal en su tema original
+09:32:34 - Pedro (@pedro461):
+cuando no existía el dark mode eso era blanco
+09:32:37 - Pedro (@pedro461):
+jamas me importó jaja
+09:33:28 - Santiago Ruffino (@santi_0898):
+Pregunta rozando el Rant. Porque usan VIM o usan la terminal para codear teniendo tantas IDEs bonitas y que ayudan?
+09:33:52 - Martín Aimar (@maimar):
+y si sabés usar vim te ayuda también
+09:35:55 - Pedro (@pedro461):
+Yo creo que las razones son muchas, en mi caso en particular me gusta VIM porq es rápido (una vez que te acostumbras), es portable (en cualquier lugar, un servidor en la nube, otra pc, lo que sea, siempre va a ser igual, y la configuración es un solo un bash script en mi casa)… es muy customizable (yo no soy amigo de la hiper customización, pero algunas cositas le toqué, como que me mostrara syntax en archivos .vue por ejemplo)
+09:35:59 - Alejandro Nagy (@nagy.alejandro):
+se ve mas o menos igual a mi vscode
+09:36:02 - Alejandro Nagy (@nagy.alejandro):
+so :man-shrugging:
+09:36:18 - Pedro (@pedro461):
+además si lo combinas con tmux, tenés una herramienta muy poderosa
+09:36:26 - Pedro (@pedro461):
+y super portable
+09:37:10 - Alejandro Nagy (@nagy.alejandro):
+si hay en el proyecto configs como linters o formatters
+09:37:18 - Alejandro Nagy (@nagy.alejandro):
+tu vim los interpreta?
+22:47:08 - Diego Harari (@diehara):
+<https://www.youtube.com/watch?v=SsoOG6ZeyUI>
+09:23:48 - Pedro (@pedro461):
+uso vim y spaces (aunq hice que la tecla tab escriba espacios y listo jaja).. justamente por lo de las escaleras
+09:23:54 - Pedro (@pedro461):
+:joy:
+09:24:46 - Martín Aimar (@maimar):
+alguien que use espacios indenta con la barra espaciadora?
+09:25:16 - Pedro (@pedro461):
+buena pregunta, yo lo digo por el video, la mina usa el space
+09:25:53 - Martín Aimar (@maimar):
+si pero pensé que sería para el chiste no más
+09:26:09 - Pedro (@pedro461):
+claro
+09:26:12 - Pedro (@pedro461):
+no se me ocurrió
+09:26:27 - Pedro (@pedro461):
+la pregunta entonces sería 2 spaces o 4?
+09:26:56 - Martín Aimar (@maimar):
+js y html 2
+09:27:15 - Pedro (@pedro461):
+yo uso 2 siempre (mi pantalla es muy chica para jugar tanto con el espacio jaja)
+09:27:53 - Martín Aimar (@maimar):
+mi editor muestra 30 líneas, el tuyo?
+09:28:14 - Pedro (@pedro461):
+uso vim, como podré saberlo jaja
+09:28:26 - Martín Aimar (@maimar):
+no se puede poner que te numere las líneas?
+09:28:28 - Martín Aimar (@maimar):
+si no contalas
+09:28:40 - Pedro (@pedro461):
+45
+09:28:49 - Pedro (@pedro461):
+ahi me fije
+09:28:55 - Martín Aimar (@maimar):
+ahh un tocazo
+09:28:57 - Santiago Ruffino (@santi_0898):
+Pedro esta buscando excusas para comprar un monitor msa grande
+09:29:06 - Pedro (@pedro461):
+y si practicamente toda la pantalla, es la terminal en full screen
+09:29:14 - Santiago Ruffino (@santi_0898):
+"Mi pintilli is mi chici"
+09:29:19 - Pedro (@pedro461):
+Santi me descubriste!
+09:29:22 - Santiago Ruffino (@santi_0898):
+Jajajaja
+09:29:24 - Pedro (@pedro461):
+jajajaja
+09:29:47 - Pedro (@pedro461):
+44 en realidad, la última es mi airline
+09:30:06 - Martín Aimar (@maimar):
+ah yo no tengo una línea aérea
+09:30:43 - Pedro (@pedro461):
+ahi va un screenshot
+09:31:53 - Martín Aimar (@maimar):
+tenés el monitor en CGA?
+09:32:12 - Pedro (@pedro461):
+jajaja no, es una mac, es solo la terminal en su tema original
+09:32:34 - Pedro (@pedro461):
+cuando no existía el dark mode eso era blanco
+09:32:37 - Pedro (@pedro461):
+jamas me importó jaja
+09:33:28 - Santiago Ruffino (@santi_0898):
+Pregunta rozando el Rant. Porque usan VIM o usan la terminal para codear teniendo tantas IDEs bonitas y que ayudan?
+09:33:52 - Martín Aimar (@maimar):
+y si sabés usar vim te ayuda también
+09:35:55 - Pedro (@pedro461):
+Yo creo que las razones son muchas, en mi caso en particular me gusta VIM porq es rápido (una vez que te acostumbras), es portable (en cualquier lugar, un servidor en la nube, otra pc, lo que sea, siempre va a ser igual, y la configuración es un solo un bash script en mi casa)… es muy customizable (yo no soy amigo de la hiper customización, pero algunas cositas le toqué, como que me mostrara syntax en archivos .vue por ejemplo)
+09:35:59 - Alejandro Nagy (@nagy.alejandro):
+se ve mas o menos igual a mi vscode
+09:36:02 - Alejandro Nagy (@nagy.alejandro):
+so :man-shrugging:
+09:36:18 - Pedro (@pedro461):
+además si lo combinas con tmux, tenés una herramienta muy poderosa
+09:36:26 - Pedro (@pedro461):
+y super portable
+09:37:10 - Alejandro Nagy (@nagy.alejandro):
+si hay en el proyecto configs como linters o formatters
+09:37:18 - Alejandro Nagy (@nagy.alejandro):
+tu vim los interpreta?
+09:37:34 - Pedro (@pedro461):
+otra cosa que me gusta de vim (seguro qeu con los ides se puede pero no encontré la manera de hacerlo igual que vim) es el tema de como podes controlar los panes, además de que no despegas las manos del teclado y eso a mi gusto es muy cómodo
+09:37:37 - Alejandro Nagy (@nagy.alejandro):
+0 conocimiento de VIM, no lo use nunca…no es bardeo :stuck_out_tongue:
+09:38:24 - Pedro (@pedro461):
+no los interpreta, a menos que instales un plugin para eso.. pero generalmente todos son iguales, y antes de pushear podes correr `yarn lint` o lo que sea y lo arreglas, en mi caso y en los proyectos que laburé nunca fue un big deal
+09:41:11 - Pedro (@pedro461):
+y todo bien, bardeá lo que quieras, claramente hay ides muy buenos (vscode es el mejorcito que vi)… pero yo simplemente no me acostumbro o me cuesta mucho salir de VIM, es como un tren de ida
+09:41:36 - Martín Aimar (@maimar):
+para mí pasa con todos los editores eso
+09:41:40 - Martín Aimar (@maimar):
+usás el que te gusta y listo
+09:42:03 - Pedro (@pedro461):
+claramente
+09:42:46 - Pedro (@pedro461):
+intenté usar vscode y webstorm, me coparon, muy buenos! pero siempre volví a la terminal (inlcuso les instalé un vim emulator a los dos y ni así es lo mismo que directamente en la terminal, no se como explicarlo)
+09:43:05 - Pedro (@pedro461):
+creo que es más costumbre que otra cosa
+09:43:10 - Martín Valdés de León (@mvaldesdeleon):
+motivos para usar vim: no salir de la consola
+09:43:29 - Martín Valdés de León (@mvaldesdeleon):
+bonus, si laburas mucho con servidores remotos, en el 99% de los lugares a los que ssh-ees vas a tener vim
+09:43:35 - Jesus Africano (@jesus.africano):
+a mi hasta ahora me cuesta mucho salir de los "editores tradicionales" y la verdad hasta ahora no pude establecerme una ruta clara para empezar a usarlo mas encerio
+09:43:35 - Pedro (@pedro461):
+vim + tmux = :heart:
+09:44:19 - Pedro (@pedro461):
+y como dijo Martín.. cuando te toca laburar con servidores remotos el saber bien vim ayuda mucho
+09:44:38 - Pedro (@pedro461):
+y sobretodo si aprendés vim sin plugins, a lo crudo
+09:45:02 - Pedro (@pedro461):
+a la larga te das cuenta que podes hacer “casi” todo si ningún plugin, y podés mapear teclas para comodidad muy fácil
+09:45:14 - Martín Valdés de León (@mvaldesdeleon):
+despues, el tema con vim es que es un "editor de texto"
+09:45:27 - Martín Valdés de León (@mvaldesdeleon):
+es un soft optimizado para crear y manipular archivos de texto plano
+09:45:30 - Santiago Ruffino (@santi_0898):
+Las veces que use en servers, use Nano
+09:45:32 - Santiago Ruffino (@santi_0898):
+No vim
+09:45:38 - Martín Valdés de León (@mvaldesdeleon):
+y es muy muy bueno en eso
+09:45:50 - Martín Valdés de León (@mvaldesdeleon):
+por ejemplo, tenes como 10 teclas que te hacen "empezar a escribir"
+09:45:53 - Martín Valdés de León (@mvaldesdeleon):
+todas sutilmente distintas
+09:46:10 - Pedro (@pedro461):
+otra cosa que me gusta de vim es que no tiene autocomplete, pero si tiene el poderosísimo tab… es muchísimo más cómodo a la larga, antes no veía como podía vivir sin autocompletar, hoy creo que es una molestia constante
+09:46:11 - Martín Valdés de León (@mvaldesdeleon):
+y las vas a usar todas
+09:46:30 - Martín Valdés de León (@mvaldesdeleon):
+vim tiene completions por default eh, y estan re piolas
+09:46:53 - Martín Valdés de León (@mvaldesdeleon):
+^X, ^N, ^P
+09:47:05 - Pedro (@pedro461):
+si, pero esos completions son simplemente con tab.. y lo bueno es qeu busca en el file, en otros files, en el sistema, es una pasada, mucho más poderoso que cualquier otro que probé
+09:47:28 - Martín Valdés de León (@mvaldesdeleon):
+lo q es genial es "repetir"...
+09:47:31 - Pedro (@pedro461):
+hay un plugin de vim super-Tab  que esta muy bueno para combinar eso
+09:47:46 - Pedro (@pedro461):
+o copiar todo lo que hay dentro de un tag
+09:47:47 - Martín Valdés de León (@mvaldesdeleon):
+si le das ^X^P y te gusta la primer palabra, podes apretar again, y te empieza a completar mas y mas
+09:47:52 - Martín Valdés de León (@mvaldesdeleon):
+copiandote de donde agarro la primer palabra
+09:47:59 - Martín Valdés de León (@mvaldesdeleon):
+es magia
+09:48:01 - Pedro (@pedro461):
+y no se si alguna vez usaste el comando `cgn`
+09:48:04 - Pedro (@pedro461):
+es una locura
+09:48:14 - Martín Valdés de León (@mvaldesdeleon):
+q hace?
+09:49:20 - Pedro (@pedro461):
+vos podees buscar una palabra con `/` una vez que la encontraste apretas `cgn` podes cambiar esa palabra por lo que quieras, y apretando `.` va a hacer lo mismo en todos los lugares en los que esté esa palabra, sin necesidad de volver a escribir, es como tener un multicursors pero menos invasivo
+09:49:45 - Pedro (@pedro461):
+cgn vendría a ser como “change and go next”
+09:50:04 - Pedro (@pedro461):
+y el `qq` ??
+09:50:29 - Pedro (@pedro461):
+ese es el mejor de todos, podes grabar literalmente grabar todo lo que hiciste y después reproducirlo exactamente igual donde quieras
+09:50:38 - Pedro (@pedro461):
+es una locura, y cada día aprendo más cosas
+09:50:43 - Martín Valdés de León (@mvaldesdeleon):
+macros es una re feature
+09:51:05 - Martín Valdés de León (@mvaldesdeleon):
+el tema es q tenes q irte soltando y cada cosa nueva lleva un rato aprender
+09:51:24 - Pedro (@pedro461):
+y si
+09:53:45 - Pedro (@pedro461):
+lo que tiene de fácil es que cada comando como que representa alguna palabra en inglés, entonces básicamente es como que para recordarlos solo tenes qu epensar en inglés lo que queres hacer, por ejemplo querés copiar todo loq ue esta adentro de llaves `{`
+09:54:13 - Pedro (@pedro461):
+en inglés sería `yank inside brackets`, en vim `yi{`
+09:59:59 - Martín Aimar (@maimar):
+en sublime con cmd+d (customizable) selecciona una palabra, y si le das de nuevo cmd+d selecciona también la próxima ocurrencia y pone un nuevo cursor ahí, hay similar en vim?
+10:00:14 - Pedro (@pedro461):
+lo que puse recién
+10:00:17 - Pedro (@pedro461):
+solo que no tan visual
+10:00:22 - Pedro (@pedro461):
+es practicamente lo mismo
+10:00:28 - Pedro (@pedro461):
+`cgn`
+10:00:42 - Martín Aimar (@maimar):
+y cuando le das next ya te lo cambia?
+10:00:48 - Pedro (@pedro461):
+claro
+10:00:58 - Pedro (@pedro461):
+con apretar el `.`
+10:02:38 - Martín Aimar (@maimar):
+ahh discutible, ahí juega costumbre y preferencia
+10:03:11 - Rodrigo (@rpinco):
+una sutil diferencia, no tiene multiples cursores como sublime/vscode, pero te permite hacer cosas parecidas
+10:04:05 - Rodrigo (@rpinco):
+imo la feature de multiples cursores es el mejor invento desde que existe el debugger
+10:04:30 - Martín Aimar (@maimar):
+me parece clave
+10:07:12 - Daniel Broder (@dabroder):
+recién estoy empezando con `vim`, este artículo me ayudo a configurar linters y demás yerbas <https://freshman.tech/vim-javascript/>
+10:08:22 - Martín Aimar (@maimar):
+qué feature grosa usan de sus editores?
+10:09:10 - Martín Aimar (@maimar):
+para mí es el multicursor y poder autocompletar símbolos que use en el proyecto
+10:09:13 - Pedro (@pedro461):
+normal mode jaja
+10:09:19 - Martín Aimar (@maimar):
+no sé qué mucho más uso
+10:09:34 - Jorge Cano (@jorgeucano):
+uso vim solo para cuando son cosas chiquitas y rapidas
+10:09:40 - Jorge Cano (@jorgeucano):
+pero esta bueno conocerlo bien
+10:10:50 - Luis Alvarez (@luistensai):
+sí tiene, yo lo usé con lineas consecuentes, pero no sé si te permitirá buscar y poner cursores en palabras que matcheen, calculo que sí...
+10:11:40 - Luis Alvarez (@luistensai):
+creo que el que usé se llama visual mode
+10:11:53 - Luis Alvarez (@luistensai):
+pero no lo usé/exploré mucho
+10:26:41 - Ale Miralles (@amiralles):
+Para el "incremental replace" yo me arme una funcion custom y a la cucha.
+10:27:12 - Ale Miralles (@amiralles):
+" Replaces the current word under cursor prompting for a new value.
+function ReplaceWordUnderCursor()
+	call inputsave()
+	let word = expand("&lt;cword&gt;")
+	if (word != "")
+		let newword = input("Replace [".word."] with: ")
+		call inputrestore()
+		execute "%s/".word."/".newword."/gc"
+	else
+		echo "No word under cursor."
+	end
+endfunction
+10:27:45 - Ale Miralles (@amiralles):
+Esa funcion la mapeo al shortcut &lt;leader&gt;r
+10:28:07 - Ale Miralles (@amiralles):
+Es una solucion "casera" pero para lo que yo la uso va bien.
+10:43:10 - Pedro (@pedro461):
+excelente Ale!
+10:44:22 - Leandro Echevarria (@echevarrialeandro):
+Yo de a ratos activo la extension de las vim keybindings en el vscode para ir acostumbrandome. Y cuando tengo que editar o usar archivos sueltos, voy directo a vim
+10:44:41 - Leandro Echevarria (@echevarrialeandro):
+De a poco se te va acostumbrando el cerebro y los dedos, está muy bueno. Incluso es entretenido
+10:45:02 - Leandro Echevarria (@echevarrialeandro):
+Si estoy hasta las manos, ahi no, no activo nada :rolling_on_the_floor_laughing:
+10:45:58 - Pedro (@pedro461):
+jaja, yo estoy tan acostumbrado a vim que hasta sin querer descubrí que gmail y los browser tienen key bindings tipo vim
+10:46:13 - Pedro (@pedro461):
+por ahí me pongo a escribir un mail y se me meten comandos sin querer jajajaj
+11:07:28 - Ale Miralles (@amiralles):
+<@UGLH5CM8B> me pasa todo el tiempo!!! jajaja
+11:08:45 - Ale Miralles (@amiralles):
+<@U873ZQTEG> Yo arranque de forma similar, aunque en ese momento VS Code no existia! Usaba VsVim en Visual Studio y vintage mode en sublime. Es una buena forma de arrancar. A mi me dio resultado.
+14:33:39 - Leandro Echevarria (@echevarrialeandro):
+Si si, está copado. Para un uso normal de escribir algunas cosas y moverme en un archivo existente, como si fuera en un server voy bien. Pero todavia para codear y moverme entre varios archivos haciendo busquedas y las demas cosas que implica codear, todavia me falta. Pero práctica, el camino está bueno también
+15:08:57 - Jeremias Gibilbank (@jeremias.gibilbank):
+Gente, en el laburo nos van a contratar slack premium pero solo para los devs, saben si podemos hacer un shared channel contra otro workspace que sea free?
+15:15:14 - Martín Valdés de León (@mvaldesdeleon):
+Se que en el slack del laburo (pago) tenian "invitados" o algo asi
+15:15:34 - Martín Valdés de León (@mvaldesdeleon):
+googlea un toque que onda eso
+15:18:50 - Jeremias Gibilbank (@jeremias.gibilbank):
+Ahi lo estuvimos viendo, aca esta todo: <https://get.slack.help/hc/en-us/articles/202518103-Multi-Channel-and-Single-Channel-Guests>
+15:19:51 - Jeremias Gibilbank (@jeremias.gibilbank):
+Lo tienen re pensado para que pagues a todos jajaj, los channels compartidos, entre pagos, y los guest estan buenos, pero solo ven a los del single channel donde los metiste y general
+16:01:02 - Hernan Rajchert (@sherman):
+Hola! El Martes que viene hacemos la segunda Nardoz del año en las oficinas de Stensul en Palermo. Les dejo el link para anotarse <https://www.eventbrite.com/e/nardoz-junio-tickets-62442963585>
+16:05:17 - Santiago Ruffino (@santi_0898):
+Porque le van a pagar Slack solo a los devs? Me da intriga
+16:05:55 - Jeremias Gibilbank (@jeremias.gibilbank):
+porque :rat:
+16:07:01 - Jeremias Gibilbank (@jeremias.gibilbank):
+Igualmente la realidad es que los unicos que lo usamos para laburo somos los devs, y la comunicacion dev-helpdesk
+16:17:57 - Brian Hume (@brianh20):
+me gusta esa nueva tendencia a decir porque (omitir todo el preambulo) conclusion
+16:36:00 - Mariano Ramonda (@ing.inf.mariano):
+alguien que este trabajando en toptal o haya estado a quien le pueda hacer algunas preguntas?
+16:37:19 - Rodrigo Ali (@rodrigojali):
+<@U75JU1TFS> creo.
+16:55:03 - Nicolás Orchow (@nicoorchow):
+arranco el lunes a laburar en el core team. depende la pregunta capaz pueda ayudarte
+17:15:51 - Maria Ines Parnisari (@mparnisari):
+Yo estoy en la plataforma pero nunca trabajé, si tenés preguntas sobre el proceso de entrevistas te puedo ayudar
+19:40:54 - Santiago Ruffino (@santi_0898):
+Lo comparto por las dudas
+19:40:56 - Santiago Ruffino (@santi_0898):
+<https://python3statement.org/>
