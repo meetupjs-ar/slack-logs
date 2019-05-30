@@ -1,0 +1,270 @@
+23:08:25 - Julian (@jantonielli01):
+que quilombo
+23:08:28 - Julian (@jantonielli01):
+que paja python
+10:00:20 - Cristhian Duran (@cris):
+está checkeado esto?
+10:00:28 - Cristhian Duran (@cris):
+hoy es el cumple de React?
+10:00:41 - Cristhian Duran (@cris):
+mandenle un tuiti a dan
+10:01:03 - Rodrigo Ali (@rodrigojali):
+No creo, creo que había sido releaseado onda Q4
+10:01:07 - Rodrigo Ali (@rodrigojali):
+De sabrá Dios qué año
+10:02:46 - Santiago Ruffino (@santi_0898):
+O alguien agarro para la cagada al bot
+10:04:14 - Santiago Ruffino (@santi_0898):
+```What I wish I knew when I started to work with React.js
+What I wish I knew when I started to work with React.js
+by David Yu
+
+After its initial release on May 29, 2013, React.js has taken over the internet. It’s not a secret that myself and many other developers owe their success to this amazing framework.```
+10:04:32 - Rodrigo Ali (@rodrigojali):
+:open_mouth:
+10:04:39 - Rodrigo Ali (@rodrigojali):
+Weeeeeeeeeeee feli cumple
+10:05:42 - Cristhian Duran (@cris):
+ahí tenemos otra buena pregunta para el kahoot de los meetups :ok_hand:
+10:06:11 - Cristhian Duran (@cris):
+<@UDJJ1RZT5> creo que no hablamos de que en los meetups de rosario tienen que tener kahoot
+10:06:22 - Santiago Ruffino (@santi_0898):
+Kahoot :heart:
+10:06:26 - Santiago Ruffino (@santi_0898):
+Lastima que soy muy malo
+10:23:03 - Aldo Sorbara (@aldo1891):
+yo soy malo con las fechas, con suerte me acuerdo mi cumpleaños
+10:24:19 - Gonzalo González Mora (@gonzalogm):
+jajaj no tengo idea qué es Kahoot, voy a checkear jaja
+10:25:35 - Santiago Ruffino (@santi_0898):
+No conoces Kahoot?!
+10:25:40 - Santiago Ruffino (@santi_0898):
+Tus meetups fueron una mentira
+10:25:57 - Gonzalo González Mora (@gonzalogm):
+jajaja :see_no_evil: cuentenmenNNN
+10:26:47 - Santiago Ruffino (@santi_0898):
+Es una app donde tenes un "server" que es el host donde suben preguntas y  todo eso. Y despues desde el celular, la gente abre kahoot y se loguea en la sesion de juego
+10:26:50 - Santiago Ruffino (@santi_0898):
+Y es preguntas y respuestas
+10:27:18 - Santiago Ruffino (@santi_0898):
+Aparece una pregunta en la pantalla, y cuatro respuestas. Despues en tu celular tenes 4 botones que representan las respuestas
+10:27:35 - Santiago Ruffino (@santi_0898):
+Sumas puntos por respuesta correcta y tiempo que demoraste
+10:27:51 - Gonzalo González Mora (@gonzalogm):
+Ahh copadooo
+10:28:27 - Santiago Ruffino (@santi_0898):
+Esta bueno para dar premios. Y aparte haces preguntas sobre las talks o sobre la comunidad en si
+10:28:40 - Santiago Ruffino (@santi_0898):
+Por ejemplo, "Cuando fue la primera Meetup de React en Rosario?"
+10:54:02 - Gonzalo González Mora (@gonzalogm):
+De una jaja
+11:18:43 - Agustin Polo (@apolo_codes):
+buenas!, no se si alguien lo compartio por aca una vez pero habia circulando por internet un speech para darles a los de fibertel cuando te aumentaban sin aviso la factura de internet. algun alma caritativa lo tendra por ahi? porque me acaba de pasar. capaz a alguno mas le paso este mes!
+11:19:21 - Marcos Casagrande (@marcoscvp90):
+"Dame de baja el servicio"
+11:21:44 - Leandro Echevarria (@echevarrialeandro):
+Ahi te paso!
+11:22:14 - Leandro Echevarria (@echevarrialeandro):
+Por un lado, aporte del gran <@U86A4QH8U>:
+Silvio Messina [2:51 PM]
+Acá comparto una modelo sobre como reclamar por el aumento de servicios sin el debido anticipo de *60 días*: :point_down: (edited)
+
+<https://docs.google.com/document/d/1x23FvHNYOQaIiIE1VJlz9T_x_2JdnrJzL542dLDURxM/edit>
+11:22:23 - Leandro Echevarria (@echevarrialeandro):
+Y por el otro, derechoenzapatillas:
+<https://www.derechoenzapatillas.com/2018/aumentos-sin-aviso-donde-y-como-reclamar/>
+11:22:51 - Leandro Echevarria (@echevarrialeandro):
+Ahi estan los recursos completos, deberia bastarte con decirles que estan violando la ley bla bla articulo meh meh
+11:23:14 - Agustin Polo (@apolo_codes):
+buenisimo. mil grx!
+11:23:18 - Leandro Echevarria (@echevarrialeandro):
+:fastparrot:
+11:34:03 - Silvio Messina (@smessina):
+Consejo extra: pónganse firmes con el reclamo y sino usen “la vieja confiable”: pedir la baja y aguantar 10/15 días a que los quieran reconquistar.
+11:37:21 - Leandro Echevarria (@echevarrialeandro):
+Si, yo con citarselos a telecentro me dieron bola. Aunque no apoyandose en la ley si no con su discurcito del orto que "chequearon tu historial como cliente" y debido a eso les permiten hacerte una bonificacion sin aumento por 60 dias.
+11:37:31 - Leandro Echevarria (@echevarrialeandro):
+Mi "historial" como cliente, empieza en diciembre recien :rolling_on_the_floor_laughing:
+11:37:58 - Leandro Echevarria (@echevarrialeandro):
+Y les conteste con que el historial no me importaba, que la ley bla bla. Y ahi me contestó un bot y quedé re calentado
+11:40:37 - Silvio Messina (@smessina):
+A mi me boludearon tan mal q ya hice reclamo en Def del Consumidor
+11:41:13 - Silvio Messina (@smessina):
+El año pasado hice lo mismo... y tuve internet gratis hasta el mes pasado
+11:48:55 - Agustin Polo (@apolo_codes):
+el tema es que no puedo estar sin internet porque mi novia labura desde casa. yo a lo sumo me voy al coworking y estoy bien pero la jodo a ella
+12:50:08 - Silvio Messina (@smessina):
+Pedis la “baja” a partir del primer día del mes siguiente y durante ese ínterin es que te van a querer ofrecer del área de “clientes especiales” algún beneficio/bonificación.
+
+Hasta ese entonces, seguís con internet operativo 
+12:59:16 - Mariano Montero (@etmaro):
+hdp, alguna vez alguna pregunta que sepa y recuerde jajajaja
+13:00:33 - Gonza Rascón (@gonzarascon):
+*Hola gente!*
+
+Les recuerdo que se siguen aceptando respuestas para la encuesta que estoy haciendo para mi proyecto de Tesis.
+
+Realmente no debería llevar mas de 5 minutos hacerla!
+
+Gracias por su ayuda!
+
+<https://forms.gle/9bzdRboYZXe524929>
+13:03:10 - Cristhian Duran (@cris):
+JAJAJAJAJ
+13:03:54 - Rodrigo Ali (@rodrigojali):
+Listo broti, ahí respondí. Buena suerte con la tesis!
+13:05:59 - Gonza Rascón (@gonzarascon):
+Muchísimas gracias! :nerd_face:
+14:15:22 - Sergio Daniel Xalambrí (@sergiodxa):
+te respondí doble, como profesor y como alumno
+14:15:49 - Gonza Rascón (@gonzarascon):
+Grosso Sergio, muchas gracias! :wink:
+14:26:49 - Gustavo Machado (@machadogj):
+respondido!
+15:01:50 - Gonza Rascón (@gonzarascon):
+Gracias Gustavo!
+20:07:14 - Nico (@nhsz):
+Pregunta, puede ser que Kyle Simpson haya dado una charla en una meetupjs? No encuentro el video, fue hace un par de años
+20:08:42 - Sergio Gianazza (@gianu):
+si, dio una charla en Meetup.js...pero creo que era en la epoca que no grababamos las charlas aún
+20:10:24 - Nico (@nhsz):
+vi el video alguna vez, no me acuerdo si en youtube
+20:11:18 - Sergio Gianazza (@gianu):
+dejame ver si esta en el canal de meetup
+20:15:07 - Nico (@nhsz):
+fue en el 2014 <https://www.meetup.com/es/Meetup-js/events/163493182/>
+23:08:25 - Julian (@jantonielli01):
+que quilombo
+23:08:28 - Julian (@jantonielli01):
+que paja python
+10:00:20 - Cristhian Duran (@cris):
+está checkeado esto?
+10:00:28 - Cristhian Duran (@cris):
+hoy es el cumple de React?
+10:00:41 - Cristhian Duran (@cris):
+mandenle un tuiti a dan
+10:01:03 - Rodrigo Ali (@rodrigojali):
+No creo, creo que había sido releaseado onda Q4
+10:01:07 - Rodrigo Ali (@rodrigojali):
+De sabrá Dios qué año
+10:02:46 - Santiago Ruffino (@santi_0898):
+O alguien agarro para la cagada al bot
+10:04:14 - Santiago Ruffino (@santi_0898):
+```What I wish I knew when I started to work with React.js
+What I wish I knew when I started to work with React.js
+by David Yu
+
+After its initial release on May 29, 2013, React.js has taken over the internet. It’s not a secret that myself and many other developers owe their success to this amazing framework.```
+10:04:32 - Rodrigo Ali (@rodrigojali):
+:open_mouth:
+10:04:39 - Rodrigo Ali (@rodrigojali):
+Weeeeeeeeeeee feli cumple
+10:05:42 - Cristhian Duran (@cris):
+ahí tenemos otra buena pregunta para el kahoot de los meetups :ok_hand:
+10:06:11 - Cristhian Duran (@cris):
+<@UDJJ1RZT5> creo que no hablamos de que en los meetups de rosario tienen que tener kahoot
+10:06:22 - Santiago Ruffino (@santi_0898):
+Kahoot :heart:
+10:06:26 - Santiago Ruffino (@santi_0898):
+Lastima que soy muy malo
+10:23:03 - Aldo Sorbara (@aldo1891):
+yo soy malo con las fechas, con suerte me acuerdo mi cumpleaños
+10:24:19 - Gonzalo González Mora (@gonzalogm):
+jajaj no tengo idea qué es Kahoot, voy a checkear jaja
+10:25:35 - Santiago Ruffino (@santi_0898):
+No conoces Kahoot?!
+10:25:40 - Santiago Ruffino (@santi_0898):
+Tus meetups fueron una mentira
+10:25:57 - Gonzalo González Mora (@gonzalogm):
+jajaja :see_no_evil: cuentenmenNNN
+10:26:47 - Santiago Ruffino (@santi_0898):
+Es una app donde tenes un "server" que es el host donde suben preguntas y  todo eso. Y despues desde el celular, la gente abre kahoot y se loguea en la sesion de juego
+10:26:50 - Santiago Ruffino (@santi_0898):
+Y es preguntas y respuestas
+10:27:18 - Santiago Ruffino (@santi_0898):
+Aparece una pregunta en la pantalla, y cuatro respuestas. Despues en tu celular tenes 4 botones que representan las respuestas
+10:27:35 - Santiago Ruffino (@santi_0898):
+Sumas puntos por respuesta correcta y tiempo que demoraste
+10:27:51 - Gonzalo González Mora (@gonzalogm):
+Ahh copadooo
+10:28:27 - Santiago Ruffino (@santi_0898):
+Esta bueno para dar premios. Y aparte haces preguntas sobre las talks o sobre la comunidad en si
+10:28:40 - Santiago Ruffino (@santi_0898):
+Por ejemplo, "Cuando fue la primera Meetup de React en Rosario?"
+10:54:02 - Gonzalo González Mora (@gonzalogm):
+De una jaja
+11:18:43 - Agustin Polo (@apolo_codes):
+buenas!, no se si alguien lo compartio por aca una vez pero habia circulando por internet un speech para darles a los de fibertel cuando te aumentaban sin aviso la factura de internet. algun alma caritativa lo tendra por ahi? porque me acaba de pasar. capaz a alguno mas le paso este mes!
+11:19:21 - Marcos Casagrande (@marcoscvp90):
+"Dame de baja el servicio"
+11:21:44 - Leandro Echevarria (@echevarrialeandro):
+Ahi te paso!
+11:22:14 - Leandro Echevarria (@echevarrialeandro):
+Por un lado, aporte del gran <@U86A4QH8U>:
+Silvio Messina [2:51 PM]
+Acá comparto una modelo sobre como reclamar por el aumento de servicios sin el debido anticipo de *60 días*: :point_down: (edited)
+
+<https://docs.google.com/document/d/1x23FvHNYOQaIiIE1VJlz9T_x_2JdnrJzL542dLDURxM/edit>
+11:22:23 - Leandro Echevarria (@echevarrialeandro):
+Y por el otro, derechoenzapatillas:
+<https://www.derechoenzapatillas.com/2018/aumentos-sin-aviso-donde-y-como-reclamar/>
+11:22:51 - Leandro Echevarria (@echevarrialeandro):
+Ahi estan los recursos completos, deberia bastarte con decirles que estan violando la ley bla bla articulo meh meh
+11:23:14 - Agustin Polo (@apolo_codes):
+buenisimo. mil grx!
+11:23:18 - Leandro Echevarria (@echevarrialeandro):
+:fastparrot:
+11:34:03 - Silvio Messina (@smessina):
+Consejo extra: pónganse firmes con el reclamo y sino usen “la vieja confiable”: pedir la baja y aguantar 10/15 días a que los quieran reconquistar.
+11:37:21 - Leandro Echevarria (@echevarrialeandro):
+Si, yo con citarselos a telecentro me dieron bola. Aunque no apoyandose en la ley si no con su discurcito del orto que "chequearon tu historial como cliente" y debido a eso les permiten hacerte una bonificacion sin aumento por 60 dias.
+11:37:31 - Leandro Echevarria (@echevarrialeandro):
+Mi "historial" como cliente, empieza en diciembre recien :rolling_on_the_floor_laughing:
+11:37:58 - Leandro Echevarria (@echevarrialeandro):
+Y les conteste con que el historial no me importaba, que la ley bla bla. Y ahi me contestó un bot y quedé re calentado
+11:40:37 - Silvio Messina (@smessina):
+A mi me boludearon tan mal q ya hice reclamo en Def del Consumidor
+11:41:13 - Silvio Messina (@smessina):
+El año pasado hice lo mismo... y tuve internet gratis hasta el mes pasado
+11:48:55 - Agustin Polo (@apolo_codes):
+el tema es que no puedo estar sin internet porque mi novia labura desde casa. yo a lo sumo me voy al coworking y estoy bien pero la jodo a ella
+12:50:08 - Silvio Messina (@smessina):
+Pedis la “baja” a partir del primer día del mes siguiente y durante ese ínterin es que te van a querer ofrecer del área de “clientes especiales” algún beneficio/bonificación.
+
+Hasta ese entonces, seguís con internet operativo 
+12:59:16 - Mariano Montero (@etmaro):
+hdp, alguna vez alguna pregunta que sepa y recuerde jajajaja
+13:00:33 - Gonza Rascón (@gonzarascon):
+*Hola gente!*
+
+Les recuerdo que se siguen aceptando respuestas para la encuesta que estoy haciendo para mi proyecto de Tesis.
+
+Realmente no debería llevar mas de 5 minutos hacerla!
+
+Gracias por su ayuda!
+
+<https://forms.gle/9bzdRboYZXe524929>
+13:03:10 - Cristhian Duran (@cris):
+JAJAJAJAJ
+13:03:54 - Rodrigo Ali (@rodrigojali):
+Listo broti, ahí respondí. Buena suerte con la tesis!
+13:05:59 - Gonza Rascón (@gonzarascon):
+Muchísimas gracias! :nerd_face:
+14:15:22 - Sergio Daniel Xalambrí (@sergiodxa):
+te respondí doble, como profesor y como alumno
+14:15:49 - Gonza Rascón (@gonzarascon):
+Grosso Sergio, muchas gracias! :wink:
+14:26:49 - Gustavo Machado (@machadogj):
+respondido!
+15:01:50 - Gonza Rascón (@gonzarascon):
+Gracias Gustavo!
+20:07:14 - Nico (@nhsz):
+Pregunta, puede ser que Kyle Simpson haya dado una charla en una meetupjs? No encuentro el video, fue hace un par de años
+20:08:42 - Sergio Gianazza (@gianu):
+si, dio una charla en Meetup.js...pero creo que era en la epoca que no grababamos las charlas aún
+20:10:24 - Nico (@nhsz):
+vi el video alguna vez, no me acuerdo si en youtube
+20:11:18 - Sergio Gianazza (@gianu):
+dejame ver si esta en el canal de meetup
+20:15:07 - Nico (@nhsz):
+fue en el 2014 <https://www.meetup.com/es/Meetup-js/events/163493182/>
