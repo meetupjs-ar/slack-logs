@@ -1,0 +1,294 @@
+21:26:10 - Mateo Silguero (@mfsilguero):
+alguien sabe como sacar si un numero es semiprimo ? :thinking_face:
+21:33:12 - Julian (@jantonielli01):
+Factorizalo y fijate si tiene solo 2 divisores
+10:30:59 - Gonza Gluzman (@gonza):
+Semiprimo?
+10:31:25 - Martín Valdés de León (@mvaldesdeleon):
+producto de dos primos
+10:32:16 - Gonza Gluzman (@gonza):
+Medio incestuoso eso
+10:32:30 - Gonza Gluzman (@gonza):
+Btw, gracias! Ni sabía que existía eso
+10:32:32 - Santiago Ruffino (@santi_0898):
+JAJAJAJA
+10:33:05 - Martín Valdés de León (@mvaldesdeleon):
+A los matematicos les encanta agarrar cualquier propiedad y ponerle un nombre.
+10:34:22 - Gonza Gluzman (@gonza):
+Un nombre difícil, la mayoría de las veces
+11:07:50 - Hernan Rajchert (@sherman):
+Alguien sabe como hacer que aparezca el “used by” de github en las páginas de organizaciones de OSS?
+11:08:25 - Hernan Rajchert (@sherman):
+En una personal me aparece, <https://github.com/hrajchert/express-shared-routes>… pero en la de task, que tiene una org, no <https://github.com/ts-task/task>
+11:32:35 - Pablo Ariel Bilevich (@pablobvch):
+Buenas gente, tengo una consuta para hacerles, estoy depurando unos warnings del eslint y les queria pedir una mano. Baje unos 350 warnings aprox y me quedaron estos que no los estoy udiendo resolver. Este el codigo del archivo que tiene warning ```
+// @flow
+import type { DeletePageResource } from "./deletePageResource";
+import type { Plan } from "../../utils/plan";
+import type { Warning } from "../../utils/warning";
+
+type DeletePageState = {|
+  isLoading: boolean,
+  isWarningFormSubmitting: boolean,
+  plans: Array&lt;Plan&gt;,
+  resource?: DeletePageResource,
+  warning?: Warning
+|};
+
+const setWarning = (warning: Warning) =&gt; (
+  DeletePageResource: DeletePageResource
+) =&gt; ({
+  ...DeletePageResource,
+  warning
+});
+
+const setResource = (resource: DeletePageResource) =&gt; (
+  DeletePageResource: DeletePageResource
+) =&gt; ({
+  ...DeletePageResource,
+  resource
+});
+
+const setIsWarningFormSubmitting = (isWarningFormSubmitting: boolean) =&gt; (
+  DeletePageResource: DeletePageResource
+) =&gt; ({
+  ...DeletePageResource,
+  isWarningFormSubmitting
+});
+
+const setIsLoading = (isLoading: boolean) =&gt; (
+  DeletePageResource: DeletePageResource
+) =&gt; ({
+  ...DeletePageResource,
+  isLoading
+});
+
+const initialValue = {
+  isLoading: true,
+  isWarningFormSubmitting: false,
+  resource: undefined,
+  warning: undefined
+};
+
+const create = (): DeletePageState =&gt; initialValue;
+
+export {
+  create,
+  setIsLoading,
+  setIsWarningFormSubmitting,
+  setResource,
+  setWarning
+};
+
+export type { DeletePageState };
+``` y estos son los errores ``` Line 16:  'DeletePageResource' was used before it was defined  no-use-before-define
+  Line 23:  'DeletePageResource' was used before it was defined  no-use-before-define
+  Line 30:  'DeletePageResource' was used before it was defined  no-use-before-define
+  Line 37:  'DeletePageResource' was used before it was defined  no-use-before-define ``` seguramente es una boludes que no estoy pudiendo visualizar. GRacias, abrazo!
+11:40:11 - Juan Stiza (@juanstiza):
+viste esto? <https://github.com/facebook/create-react-app/issues/2103>
+11:40:30 - Juan Stiza (@juanstiza):
+y este: <https://github.com/babel/babel-eslint/issues/485>
+11:53:20 - Pablo Ariel Bilevich (@pablobvch):
+<@U80N7JL6P> Hola Juan, gracias por la ayuda. Estoy tratando de entender lo que me pasaste, revisando el codigo no veo que haya referencias circulares o entendi mal el issue?
+11:53:58 - Juan Stiza (@juanstiza):
+Al parecer ESLint se queja cuando declaras un tipo con Flow y lo interpreta como una declaración.. o sea, algo anda mal ahí, pero tal vez es un bug
+11:56:22 - Pablo Ariel Bilevich (@pablobvch):
+En todo el proyecto tengo varias declaraciones de flow y en ningun otro lugar tengo algun tipo de error asi
+11:56:39 - Pablo Ariel Bilevich (@pablobvch):
+para mi hay algo ahi que no estoy pudiendo ver
+11:58:09 - Juan Stiza (@juanstiza):
+Puede ser que estés usando `DeletePageResource` como parametro y tipo a la vez?
+11:58:22 - Juan Stiza (@juanstiza):
+```
+const setIsLoading = (isLoading: boolean) =&gt; (
+  [d]eletePageResource: DeletePageResource &lt;&lt;---
+) =&gt; ({
+  ...deletePageResource,
+  isLoading
+});
+```
+12:04:00 - Pablo Ariel Bilevich (@pablobvch):
+ahi lo pase a minusculas, era eso
+12:04:16 - Pablo Ariel Bilevich (@pablobvch):
+Muchas gracias :slightly_smiling_face:
+12:04:47 - Pablo Ariel Bilevich (@pablobvch):
+dsp pruebo el impacto del cambio. gracias!
+12:15:21 - Juan Stiza (@juanstiza):
+dale!!
+14:07:19 - Jeremias Gibilbank (@jeremias.gibilbank):
+El otro dia habian hablado/consultado cosas de AWS Lambdas, la otra vez hubo webinar de algunos detalles y buenos usos de las lambdas, les dejo el link: <https://pages.awscloud.com/LATAM_PAC_CS_SSC-webinar-landing-page_20190326_LP.html> , hay varios webinars ahi, el de lambdas es "Webinar-A-Thon: Mejores prácticas y lecciones aprendidas con aplicaciones Serverless"
+16:16:04 - Santiago Ruffino (@santi_0898):
+Hay forma de saber sobre que plataforma esta corriendo un Ecommerce que no sea preguntandole al dueño? Jajaja
+16:17:17 - Martin Carrera (@mcarrera):
+pasa un link y lo intentamos crackear jaja
+16:18:18 - Santiago Ruffino (@santi_0898):
+<https://www.visualizar.net/>
+16:19:17 - ari (@arieldiaz):
+<https://www.tiendaquick.com/>
+16:20:27 - Santiago Ruffino (@santi_0898):
+Are you sure?
+16:20:28 - Gustavo Machado (@machadogj):
+yo lo primero que veo es el network tab, en los headers, a veces dicen algo mas especifico:
+```
+x-powered-by: PHP/5.6.40
+x-powered-by: PleskLin
+```
+si no, ya hay que mirar el html
+16:20:52 - ari (@arieldiaz):
+tiene el logo en el footer  :stuck_out_tongue:
+16:21:02 - Santiago Ruffino (@santi_0898):
+Ah
+16:21:05 - Santiago Ruffino (@santi_0898):
+Que cara de verga
+16:21:10 - Santiago Ruffino (@santi_0898):
+Y yo revisando el codigo como un hackerman
+17:35:49 - Nicolas Taboada (@ntaboada93):
+gracias!!!!!
+21:26:10 - Mateo Silguero (@mfsilguero):
+alguien sabe como sacar si un numero es semiprimo ? :thinking_face:
+21:33:12 - Julian (@jantonielli01):
+Factorizalo y fijate si tiene solo 2 divisores
+10:30:59 - Gonza Gluzman (@gonza):
+Semiprimo?
+10:31:25 - Martín Valdés de León (@mvaldesdeleon):
+producto de dos primos
+10:32:16 - Gonza Gluzman (@gonza):
+Medio incestuoso eso
+10:32:30 - Gonza Gluzman (@gonza):
+Btw, gracias! Ni sabía que existía eso
+10:32:32 - Santiago Ruffino (@santi_0898):
+JAJAJAJA
+10:33:05 - Martín Valdés de León (@mvaldesdeleon):
+A los matematicos les encanta agarrar cualquier propiedad y ponerle un nombre.
+10:34:22 - Gonza Gluzman (@gonza):
+Un nombre difícil, la mayoría de las veces
+11:07:50 - Hernan Rajchert (@sherman):
+Alguien sabe como hacer que aparezca el “used by” de github en las páginas de organizaciones de OSS?
+11:08:25 - Hernan Rajchert (@sherman):
+En una personal me aparece, <https://github.com/hrajchert/express-shared-routes>… pero en la de task, que tiene una org, no <https://github.com/ts-task/task>
+11:32:35 - Pablo Ariel Bilevich (@pablobvch):
+Buenas gente, tengo una consuta para hacerles, estoy depurando unos warnings del eslint y les queria pedir una mano. Baje unos 350 warnings aprox y me quedaron estos que no los estoy udiendo resolver. Este el codigo del archivo que tiene warning ```
+// @flow
+import type { DeletePageResource } from "./deletePageResource";
+import type { Plan } from "../../utils/plan";
+import type { Warning } from "../../utils/warning";
+
+type DeletePageState = {|
+  isLoading: boolean,
+  isWarningFormSubmitting: boolean,
+  plans: Array&lt;Plan&gt;,
+  resource?: DeletePageResource,
+  warning?: Warning
+|};
+
+const setWarning = (warning: Warning) =&gt; (
+  DeletePageResource: DeletePageResource
+) =&gt; ({
+  ...DeletePageResource,
+  warning
+});
+
+const setResource = (resource: DeletePageResource) =&gt; (
+  DeletePageResource: DeletePageResource
+) =&gt; ({
+  ...DeletePageResource,
+  resource
+});
+
+const setIsWarningFormSubmitting = (isWarningFormSubmitting: boolean) =&gt; (
+  DeletePageResource: DeletePageResource
+) =&gt; ({
+  ...DeletePageResource,
+  isWarningFormSubmitting
+});
+
+const setIsLoading = (isLoading: boolean) =&gt; (
+  DeletePageResource: DeletePageResource
+) =&gt; ({
+  ...DeletePageResource,
+  isLoading
+});
+
+const initialValue = {
+  isLoading: true,
+  isWarningFormSubmitting: false,
+  resource: undefined,
+  warning: undefined
+};
+
+const create = (): DeletePageState =&gt; initialValue;
+
+export {
+  create,
+  setIsLoading,
+  setIsWarningFormSubmitting,
+  setResource,
+  setWarning
+};
+
+export type { DeletePageState };
+``` y estos son los errores ``` Line 16:  'DeletePageResource' was used before it was defined  no-use-before-define
+  Line 23:  'DeletePageResource' was used before it was defined  no-use-before-define
+  Line 30:  'DeletePageResource' was used before it was defined  no-use-before-define
+  Line 37:  'DeletePageResource' was used before it was defined  no-use-before-define ``` seguramente es una boludes que no estoy pudiendo visualizar. GRacias, abrazo!
+11:40:11 - Juan Stiza (@juanstiza):
+viste esto? <https://github.com/facebook/create-react-app/issues/2103>
+11:40:30 - Juan Stiza (@juanstiza):
+y este: <https://github.com/babel/babel-eslint/issues/485>
+11:53:20 - Pablo Ariel Bilevich (@pablobvch):
+<@U80N7JL6P> Hola Juan, gracias por la ayuda. Estoy tratando de entender lo que me pasaste, revisando el codigo no veo que haya referencias circulares o entendi mal el issue?
+11:53:58 - Juan Stiza (@juanstiza):
+Al parecer ESLint se queja cuando declaras un tipo con Flow y lo interpreta como una declaración.. o sea, algo anda mal ahí, pero tal vez es un bug
+11:56:22 - Pablo Ariel Bilevich (@pablobvch):
+En todo el proyecto tengo varias declaraciones de flow y en ningun otro lugar tengo algun tipo de error asi
+11:56:39 - Pablo Ariel Bilevich (@pablobvch):
+para mi hay algo ahi que no estoy pudiendo ver
+11:58:09 - Juan Stiza (@juanstiza):
+Puede ser que estés usando `DeletePageResource` como parametro y tipo a la vez?
+11:58:22 - Juan Stiza (@juanstiza):
+```
+const setIsLoading = (isLoading: boolean) =&gt; (
+  [d]eletePageResource: DeletePageResource &lt;&lt;---
+) =&gt; ({
+  ...deletePageResource,
+  isLoading
+});
+```
+12:04:00 - Pablo Ariel Bilevich (@pablobvch):
+ahi lo pase a minusculas, era eso
+12:04:16 - Pablo Ariel Bilevich (@pablobvch):
+Muchas gracias :slightly_smiling_face:
+12:04:47 - Pablo Ariel Bilevich (@pablobvch):
+dsp pruebo el impacto del cambio. gracias!
+12:15:21 - Juan Stiza (@juanstiza):
+dale!!
+14:07:19 - Jeremias Gibilbank (@jeremias.gibilbank):
+El otro dia habian hablado/consultado cosas de AWS Lambdas, la otra vez hubo webinar de algunos detalles y buenos usos de las lambdas, les dejo el link: <https://pages.awscloud.com/LATAM_PAC_CS_SSC-webinar-landing-page_20190326_LP.html> , hay varios webinars ahi, el de lambdas es "Webinar-A-Thon: Mejores prácticas y lecciones aprendidas con aplicaciones Serverless"
+16:16:04 - Santiago Ruffino (@santi_0898):
+Hay forma de saber sobre que plataforma esta corriendo un Ecommerce que no sea preguntandole al dueño? Jajaja
+16:17:17 - Martin Carrera (@mcarrera):
+pasa un link y lo intentamos crackear jaja
+16:18:18 - Santiago Ruffino (@santi_0898):
+<https://www.visualizar.net/>
+16:19:17 - ari (@arieldiaz):
+<https://www.tiendaquick.com/>
+16:20:27 - Santiago Ruffino (@santi_0898):
+Are you sure?
+16:20:28 - Gustavo Machado (@machadogj):
+yo lo primero que veo es el network tab, en los headers, a veces dicen algo mas especifico:
+```
+x-powered-by: PHP/5.6.40
+x-powered-by: PleskLin
+```
+si no, ya hay que mirar el html
+16:20:52 - ari (@arieldiaz):
+tiene el logo en el footer  :stuck_out_tongue:
+16:21:02 - Santiago Ruffino (@santi_0898):
+Ah
+16:21:05 - Santiago Ruffino (@santi_0898):
+Que cara de verga
+16:21:10 - Santiago Ruffino (@santi_0898):
+Y yo revisando el codigo como un hackerman
+17:35:49 - Nicolas Taboada (@ntaboada93):
+gracias!!!!!
