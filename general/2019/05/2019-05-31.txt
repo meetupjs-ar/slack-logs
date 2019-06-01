@@ -1,0 +1,663 @@
+21:00:40 - Francisco (@frajova):
+o si alguien tiene ref sobre BairesDev, un conocido me pregunto y no se que decirle…
+21:01:00 - Ezequiel Leites (@leites25):
+openqube
+21:02:21 - Francisco (@frajova):
+Gracias Eze..
+21:19:14 - Lupe (@lportias):
+en mi experiencia, cada vez que me llaman de ahi es cualquiera…
+21:26:30 - Gonzalo González Mora (@gonzalogm):
+Yo no escuché buenas referencias de BairesDev tampoco
+21:49:50 - Leonardo Paglialunga (@paglialungalf):
+son conocidos por el spam de recruiting
+21:50:16 - Leonardo Paglialunga (@paglialungalf):
+segun me comentaron, una vez que estas adentro la experiencia depende del cliente, puede estar muy bien o ser la peor bosta
+23:05:59 - Francisco (@frajova):
+Genial!! una conocida me pregunto si conocia la empresa, aparentemente le ofrecieron trabajar home office
+23:06:04 - Francisco (@frajova):
+Gracias a todos!!
+02:56:56 - Martín Valdés de León (@mvaldesdeleon):
+pero si laburas en bairesdev estas en el top 1%!
+02:57:49 - Martín Valdés de León (@mvaldesdeleon):
+&gt;We receive more than 145,000 job applicants each year, and after a very strict interviewing and evaluation process, less than 1% of those applicants are hired.
+02:58:04 - Martín Valdés de León (@mvaldesdeleon):
+ok... top 1% de tu pool de aplicantes, no top 1% del talento
+03:16:20 - gillchristian (@gillchristian):
+145k de mails de spam al año mandan
+03:16:25 - gillchristian (@gillchristian):
+Que venta de humo
+03:22:05 - Martín Valdés de León (@mvaldesdeleon):
+me gustaria saber cual es el rate de produccion de aplicantes de IT en latam
+03:22:16 - Martín Valdés de León (@mvaldesdeleon):
+onda, realmente hay 145k aplicantes NUEVOS cada año?
+08:21:37 - gillchristian (@gillchristian):
+Nope
+08:25:55 - gillchristian (@gillchristian):
+Muy difícil de creer
+09:05:55 - Juan Scolari (@juanscolari):
+a 145k nos spammean siempre :smile:
+09:22:41 - gillchristian (@gillchristian):
+claro, eso seguro
+09:22:51 - gillchristian (@gillchristian):
+deben contar eso como aplicantes o algo asi
+09:38:55 - ArturoNovoa (@arturonovoaph):
+Che. no me asusten que hoy tengo que hacer el examen para BairesDev :open_mouth:
+09:41:32 - Agustin Polo (@apolo_codes):
+el examen ese es feisimo :joy:  es por tiempo y tens que liquidar cosas que solo sabes si tenes los examenes de certificacion a mano. `would not recommend`
+09:42:43 - Leandro Echevarria (@echevarrialeandro):
+De certif de wat?
+09:43:51 - Gonzalo González Mora (@gonzalogm):
+Preguntas tipo trivia?
+09:45:30 - Agustin Polo (@apolo_codes):
+algunas eran preguntas que podias buscar en los examenes de certificacion de .net (era de .net el proceso)
+09:48:49 - Agustin Polo (@apolo_codes):
+dsps me mandaron ejercicios de codigo que al menos para mi eran demasiado largos para resolver en el tiempo que te daban
+09:49:28 - Agustin Polo (@apolo_codes):
+es muy impersonal
+09:51:24 - Martin Gonzalez (@martin2786):
+varias veces me mandaron mail de la nada con un link para una entrevista online diciendo: Gracias por aplicar a esta posicion con nosotros, aca te pasamos los datos para la evaluacion online!
+
+Un desastre la estrategia de recruiting la verdad.
+10:19:03 - Lupe (@lportias):
+de ahi no salio la Sofia... que mando un mail masivo sin cc?
+11:29:59 - Martin Bavio (@mbavio):
+145k aplicantes contando la familia entera hasta los abuelos de cada aplicante, no?
+12:54:28 - ari (@arieldiaz):
+buenas, si alguno puede y me da una mano respondiendo este cuestionario (es sobre inversiones ) <https://docs.google.com/forms/d/e/1FAIpQLSfzvYDdVU9FBVlqOZ65rvojHTRCxfcsfNvYTjeKr3CIvg88ng/viewform> gracias a todes!
+13:01:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi la llené!... curiosidad... a qué va apuntada la info? Me interesa el tema de inversiones :grinning:
+13:19:25 - Brian Hume (@brianh20):
+me suena
+13:19:38 - Brian Hume (@brianh20):
+<@UJB2TM202>
+13:19:44 - Brian Hume (@brianh20):
+Que examenes tenes?
+13:19:48 - Brian Hume (@brianh20):
+Te cuento, si son los online son multiple choice
+13:19:56 - Brian Hume (@brianh20):
+si es para React, ya se que te van a tomar, toman lo mismo hace 3 años
+13:20:50 - ari (@arieldiaz):
+una app para invertir afuera! jajaj
+13:21:18 - Ale Miralles (@amiralles):
+El examen de .NET es como dice <@U0DSKCY9Z>. Un amigo lo hizo hace poco y le fue como el culo.
+13:22:35 - Brian Hume (@brianh20):
+yo hice el de react y si sabes las cosas... lo podes resolver medio justo de tiempo
+13:22:56 - Ale Miralles (@amiralles):
+A mi me contactaron cuando estaban arrancando. En su momento la guita era buena. A plata de hoy serian 3.5K/month.
+13:23:01 - Ale Miralles (@amiralles):
+(verdes, obvio)
+13:23:04 - Brian Hume (@brianh20):
+no es dificil pero tenes que bancarte la incomodidad de hacerlo compartiendo pantalla
+13:23:20 - Ale Miralles (@amiralles):
+Puede ser que el examen sea jodido, pero si la guita es buena....
+13:23:24 - Brian Hume (@brianh20):
+A mi me hicieron el proceso habiendo pedido mas que eso
+y me OFRECIERON REAL 55 brutos
+13:23:40 - Ale Miralles (@amiralles):
+what!!
+13:23:42 - Brian Hume (@brianh20):
+Lo conte aca
+13:23:45 - Ale Miralles (@amiralles):
+senior?
+13:25:03 - Brian Hume (@brianh20):
+eso decian... pero igual pensa que de 3.5k.. que serian algo asi como 160k en mano me ofrecieron 55k bruto
+
+el entrevistador me dijo que fue la mejor entrevista que tomo en los ultimos 2 años
+
+y despues me llego el mail con la oferta economica que nunca contestaron...
+
+a raiz de esto lo conte aca
+
+y de hecho, le dije a mucha gente que los ignoren incluyendo a Arturo!! jajajaja
+13:25:31 - Brian Hume (@brianh20):
+Pero bueno, hay momentos para ignorarlos y momentos para darles bola. Arrancando seguramente es una experiencia util
+13:25:38 - Ale Miralles (@amiralles):
+en su momento era mas o menos esa guita facturando
+13:25:46 - Ale Miralles (@amiralles):
+no en relacion de dependencia
+13:25:53 - Brian Hume (@brianh20):
+Dato de color&gt; un amigo mio trabajo en recruiting y le hicieron instalar un keylogger para registrar su actividad
+13:26:09 - Ale Miralles (@amiralles):
+pero, si. En mano te quedaba un buen sueldo (siempre en relacion al mercado local, no...)
+13:27:02 - Brian Hume (@brianh20):
+igual alta falta de respeto tomarte una tecnica y no cumplir despues
+13:27:58 - Ale Miralles (@amiralles):
+El CEO de Baires Dev laburo un tiempo conmigo. Estuvo, no se..., tres, cuatro meses, ponele; y se fue a la mierda. Al tiempo me conacto con esto de Baires Dev.
+13:28:05 - Ale Miralles (@amiralles):
+Pero no se como se manejan ahora.
+13:28:11 - Ale Miralles (@amiralles):
+La verdad ni idea.
+13:28:29 - Ale Miralles (@amiralles):
+Tengo buena onda con el pibe, pero no nos vemos hace mil (ahora vive en SF)
+13:28:35 - Brian Hume (@brianh20):
+Mira se varias internas... pero no voy a ontar mas quemi experiencia propia
+13:30:25 - Ale Miralles (@amiralles):
+Mi unica referencia con la empresa es este pibe, que obviamente, no me va a contar lo malo!
+21:00:40 - Francisco (@frajova):
+o si alguien tiene ref sobre BairesDev, un conocido me pregunto y no se que decirle…
+21:01:00 - Ezequiel Leites (@leites25):
+openqube
+21:02:21 - Francisco (@frajova):
+Gracias Eze..
+21:19:14 - Lupe (@lportias):
+en mi experiencia, cada vez que me llaman de ahi es cualquiera…
+21:26:30 - Gonzalo González Mora (@gonzalogm):
+Yo no escuché buenas referencias de BairesDev tampoco
+21:49:50 - Leonardo Paglialunga (@paglialungalf):
+son conocidos por el spam de recruiting
+21:50:16 - Leonardo Paglialunga (@paglialungalf):
+segun me comentaron, una vez que estas adentro la experiencia depende del cliente, puede estar muy bien o ser la peor bosta
+23:05:59 - Francisco (@frajova):
+Genial!! una conocida me pregunto si conocia la empresa, aparentemente le ofrecieron trabajar home office
+23:06:04 - Francisco (@frajova):
+Gracias a todos!!
+02:56:56 - Martín Valdés de León (@mvaldesdeleon):
+pero si laburas en bairesdev estas en el top 1%!
+02:57:49 - Martín Valdés de León (@mvaldesdeleon):
+&gt;We receive more than 145,000 job applicants each year, and after a very strict interviewing and evaluation process, less than 1% of those applicants are hired.
+02:58:04 - Martín Valdés de León (@mvaldesdeleon):
+ok... top 1% de tu pool de aplicantes, no top 1% del talento
+03:16:20 - gillchristian (@gillchristian):
+145k de mails de spam al año mandan
+03:16:25 - gillchristian (@gillchristian):
+Que venta de humo
+03:22:05 - Martín Valdés de León (@mvaldesdeleon):
+me gustaria saber cual es el rate de produccion de aplicantes de IT en latam
+03:22:16 - Martín Valdés de León (@mvaldesdeleon):
+onda, realmente hay 145k aplicantes NUEVOS cada año?
+08:21:37 - gillchristian (@gillchristian):
+Nope
+08:25:55 - gillchristian (@gillchristian):
+Muy difícil de creer
+09:05:55 - Juan Scolari (@juanscolari):
+a 145k nos spammean siempre :smile:
+09:22:41 - gillchristian (@gillchristian):
+claro, eso seguro
+09:22:51 - gillchristian (@gillchristian):
+deben contar eso como aplicantes o algo asi
+09:38:55 - ArturoNovoa (@arturonovoaph):
+Che. no me asusten que hoy tengo que hacer el examen para BairesDev :open_mouth:
+09:41:32 - Agustin Polo (@apolo_codes):
+el examen ese es feisimo :joy:  es por tiempo y tens que liquidar cosas que solo sabes si tenes los examenes de certificacion a mano. `would not recommend`
+09:42:43 - Leandro Echevarria (@echevarrialeandro):
+De certif de wat?
+09:43:51 - Gonzalo González Mora (@gonzalogm):
+Preguntas tipo trivia?
+09:45:30 - Agustin Polo (@apolo_codes):
+algunas eran preguntas que podias buscar en los examenes de certificacion de .net (era de .net el proceso)
+09:48:49 - Agustin Polo (@apolo_codes):
+dsps me mandaron ejercicios de codigo que al menos para mi eran demasiado largos para resolver en el tiempo que te daban
+09:49:28 - Agustin Polo (@apolo_codes):
+es muy impersonal
+09:51:24 - Martin Gonzalez (@martin2786):
+varias veces me mandaron mail de la nada con un link para una entrevista online diciendo: Gracias por aplicar a esta posicion con nosotros, aca te pasamos los datos para la evaluacion online!
+
+Un desastre la estrategia de recruiting la verdad.
+10:19:03 - Lupe (@lportias):
+de ahi no salio la Sofia... que mando un mail masivo sin cc?
+11:29:59 - Martin Bavio (@mbavio):
+145k aplicantes contando la familia entera hasta los abuelos de cada aplicante, no?
+12:54:28 - ari (@arieldiaz):
+buenas, si alguno puede y me da una mano respondiendo este cuestionario (es sobre inversiones ) <https://docs.google.com/forms/d/e/1FAIpQLSfzvYDdVU9FBVlqOZ65rvojHTRCxfcsfNvYTjeKr3CIvg88ng/viewform> gracias a todes!
+13:01:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi la llené!... curiosidad... a qué va apuntada la info? Me interesa el tema de inversiones :grinning:
+13:19:25 - Brian Hume (@brianh20):
+me suena
+13:19:38 - Brian Hume (@brianh20):
+<@UJB2TM202>
+13:19:44 - Brian Hume (@brianh20):
+Que examenes tenes?
+13:19:48 - Brian Hume (@brianh20):
+Te cuento, si son los online son multiple choice
+13:19:56 - Brian Hume (@brianh20):
+si es para React, ya se que te van a tomar, toman lo mismo hace 3 años
+13:20:50 - ari (@arieldiaz):
+una app para invertir afuera! jajaj
+13:21:18 - Ale Miralles (@amiralles):
+El examen de .NET es como dice <@U0DSKCY9Z>. Un amigo lo hizo hace poco y le fue como el culo.
+13:22:35 - Brian Hume (@brianh20):
+yo hice el de react y si sabes las cosas... lo podes resolver medio justo de tiempo
+13:22:56 - Ale Miralles (@amiralles):
+A mi me contactaron cuando estaban arrancando. En su momento la guita era buena. A plata de hoy serian 3.5K/month.
+13:23:01 - Ale Miralles (@amiralles):
+(verdes, obvio)
+13:23:04 - Brian Hume (@brianh20):
+no es dificil pero tenes que bancarte la incomodidad de hacerlo compartiendo pantalla
+13:23:20 - Ale Miralles (@amiralles):
+Puede ser que el examen sea jodido, pero si la guita es buena....
+13:23:24 - Brian Hume (@brianh20):
+A mi me hicieron el proceso habiendo pedido mas que eso
+y me OFRECIERON REAL 55 brutos
+13:23:40 - Ale Miralles (@amiralles):
+what!!
+13:23:42 - Brian Hume (@brianh20):
+Lo conte aca
+13:23:45 - Ale Miralles (@amiralles):
+senior?
+13:25:03 - Brian Hume (@brianh20):
+eso decian... pero igual pensa que de 3.5k.. que serian algo asi como 160k en mano me ofrecieron 55k bruto
+
+el entrevistador me dijo que fue la mejor entrevista que tomo en los ultimos 2 años
+
+y despues me llego el mail con la oferta economica que nunca contestaron...
+
+a raiz de esto lo conte aca
+
+y de hecho, le dije a mucha gente que los ignoren incluyendo a Arturo!! jajajaja
+13:25:31 - Brian Hume (@brianh20):
+Pero bueno, hay momentos para ignorarlos y momentos para darles bola. Arrancando seguramente es una experiencia util
+13:25:38 - Ale Miralles (@amiralles):
+en su momento era mas o menos esa guita facturando
+13:25:46 - Ale Miralles (@amiralles):
+no en relacion de dependencia
+13:25:53 - Brian Hume (@brianh20):
+Dato de color&gt; un amigo mio trabajo en recruiting y le hicieron instalar un keylogger para registrar su actividad
+13:26:09 - Ale Miralles (@amiralles):
+pero, si. En mano te quedaba un buen sueldo (siempre en relacion al mercado local, no...)
+13:27:02 - Brian Hume (@brianh20):
+igual alta falta de respeto tomarte una tecnica y no cumplir despues
+13:27:58 - Ale Miralles (@amiralles):
+El CEO de Baires Dev laburo un tiempo conmigo. Estuvo, no se..., tres, cuatro meses, ponele; y se fue a la mierda. Al tiempo me conacto con esto de Baires Dev.
+13:28:05 - Ale Miralles (@amiralles):
+Pero no se como se manejan ahora.
+13:28:11 - Ale Miralles (@amiralles):
+La verdad ni idea.
+13:28:29 - Ale Miralles (@amiralles):
+Tengo buena onda con el pibe, pero no nos vemos hace mil (ahora vive en SF)
+13:28:35 - Brian Hume (@brianh20):
+Mira se varias internas... pero no voy a ontar mas quemi experiencia propia
+13:30:25 - Ale Miralles (@amiralles):
+Mi unica referencia con la empresa es este pibe, que obviamente, no me va a contar lo malo!
+13:30:27 - Ale Miralles (@amiralles):
+jajaja
+13:31:04 - Ale Miralles (@amiralles):
+A mi amigo no le hicieron historia por la plata (creo que habia pedido algo de 80/90k) pero no paso la entrevista.
+13:31:13 - Aldo Gabriel Rojas (@aldogrojas5):
+Me gusta! La hacés vos, o estás en el equipo que la va a hacer?
+13:31:20 - Ale Miralles (@amiralles):
+si pasaba probablemente le hubieran dicho "OK, te damos 60"
+13:31:24 - Ale Miralles (@amiralles):
+que se yo.
+13:32:11 - Ale Miralles (@amiralles):
+Yo lo que siempre rescato de ellos, es que cuando me contactaron a mi, fue una oferta concreta con **numero** y todo.
+13:32:33 - Ale Miralles (@amiralles):
+Algo raro para los recruiters que andan por estas latitudes.
+13:40:08 - Aldo Gabriel Rojas (@aldogrojas5):
+Yo los leo y me asombran las cosas que cuentan!
+13:41:34 - Aldo Gabriel Rojas (@aldogrojas5):
+cómo se cae un precio al tercio de lo habitual en un negocio como este? Las empresas estar desarrollan para gente del país o para afuera?
+13:42:03 - ari (@arieldiaz):
+por ahora el que sabe de eso que no es dev y yo, pero falta un tiempo para arrancar a desarrollar :stuck_out_tongue:
+13:42:18 - Aldo Gabriel Rojas (@aldogrojas5):
+Pq si desarrollaran para el mercado interno es entendible que los sueldos no sean similares a los internacionales...
+13:43:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Serviría una tabla de referencia para puestos de trabajo a nivel mundial como para que los que van a agarrar un laburo por dos mangos no se apresuren a aceptar un laburo por el pancho y la coca? Pq en definitiva a la larga esa devaluación de la mano de obra afecta a todos
+13:44:47 - Aldo Gabriel Rojas (@aldogrojas5):
+genial! Yo estuve haciendo unos cursos de inversión muy copados con mi hermano. Y tengo contactos con algunos brokers :grinning:
+13:50:43 - ArturoNovoa (@arturonovoaph):
+:wink: Claro que si mi Capitan!
+13:52:01 - ArturoNovoa (@arturonovoaph):
+Si, es el Multiples Choice
+14:04:12 - Brian Hume (@brianh20):
+Hay varios lugares donde ver esas cosas... pero... al mismo tiempo, eso no quiere decir que te contratarian ni que te pudieran contratar... mas trasnferencias, impuestos, legalidades...
+14:05:34 - Brian Hume (@brianh20):
+Despues de esos te llaman para la tecnica
+14:33:27 - Ale Miralles (@amiralles):
+<@UGW464VJS> <https://insights.stackoverflow.com/survey/2019#salary>
+14:33:51 - Ale Miralles (@amiralles):
+No es la "fuente de la verdad" pero como para tener una referencia global puede llegar a ser util.
+14:35:10 - Ale Miralles (@amiralles):
+Esta piola que los tipos hacen diferencia entre US y resto del mundo (como para sea un poco mas "real" la cosa)
+14:39:42 - Martin Carrera (@mcarrera):
+bastante bien orientados esos sueldos
+14:40:05 - Ale Miralles (@amiralles):
+Si. Tal cual.
+14:47:33 - Aldo Gabriel Rojas (@aldogrojas5):
+me muero de la alegria si algun dia cobro 3k usd programando!
+14:47:54 - Aldo Gabriel Rojas (@aldogrojas5):
+perdon, hago una joda... si me muero no los puedo disfrutar!
+14:51:45 - Ale Miralles (@amiralles):
+3K es completamente posible en Argentina. Pero es el techo. No vas a llegar mucho mas alla.
+14:52:04 - Ale Miralles (@amiralles):
+ahi empezas a mirar para afuera! :wink:
+14:52:04 - Aldo Sorbara (@aldo1891):
+depende el seniority
+14:52:56 - Aldo Sorbara (@aldo1891):
+como senior si, diria que el maximo es 3700, pero lo mas normal es en el rango 2200/3200
+14:54:21 - Ale Miralles (@amiralles):
+3700 son casi 180K. No es imposible, pero esta bastante lejos de la norma.
+14:55:29 - Martin Carrera (@mcarrera):
+3700 usd en relacion de dependencia?
+14:55:37 - Ale Miralles (@amiralles):
+Yo diria que 2.2k..3.2k es bastante mas cercano a la realidad.
+14:56:14 - Aldo Sorbara (@aldo1891):
+conozco seniors cobrando eso, pero es dificil, por eso dije MAXIMO, y el rango claramente esta entre 2200/3200
+14:56:25 - Martin Carrera (@mcarrera):
+no creo que sea imposible, pero como dice <@U28KZ0BR9> lo veo muy alejado de la norma
+14:57:27 - Ale Miralles (@amiralles):
+Yo tambien <@UEP9Q4TUP>. Pero conozco muchos mas cobrando 2.5..3k
+14:58:01 - Ale Miralles (@amiralles):
+los que estan cerca de 4K estan dentro de la categoria "programador unicornio"
+14:58:02 - Ale Miralles (@amiralles):
+jajaja
+14:58:41 - Aldo Sorbara (@aldo1891):
+si si coincido, maximo 3700, el rango "normal" 2200/3200
+14:59:08 - Martin Carrera (@mcarrera):
+btw, comparti donde pagan 3700 que seguro a mas de uno le interesa :joy:
+15:00:21 - Brian Hume (@brianh20):
+Es como todo
+15:00:46 - Brian Hume (@brianh20):
+Cuando llegas a 1000 conoces a gente que cobra 1500 y así... seguramente entre gente que cobra 3500 conocen a gente que cobra 4 o 5
+15:02:20 - Ale Miralles (@amiralles):
+Bancos, por ejemplo. Un caso concreto, una mina era "el puente" tecnico-funcional entre gerencia de sistemas y los usuarios de la mesa. Cobraba bien, cuando fue a renunciar, bajo el capo mas capo de sistemas, y sin dudarlo un segundo, le dijo: "OK, te duplico el sueldo y te damos un credito preferencial para que te compres una casa. Pero no quiero que te vayas." (true story)
+15:02:40 - Martin Carrera (@mcarrera):
+que bien
+15:03:17 - Ale Miralles (@amiralles):
+Pero de 300/400 personas con las que trabaje a lo largo de mi carrera, conozco uno o dos casos mas como ese. El resto son siempre historias de explotacion!!! jajajaja
+15:03:26 - Aldo Sorbara (@aldo1891):
+Bancos es un buen ejemplo
+15:03:31 - Aldo Sorbara (@aldo1891):
+Altoros es otro ejemplo
+15:03:33 - Aldo Sorbara (@aldo1891):
+Rappi
+15:03:43 - Aldo Sorbara (@aldo1891):
+pero son los menos
+15:05:39 - Ale Miralles (@amiralles):
+Si, claro.
+15:12:07 - Alejandro Nagy (@nagy.alejandro):
+Yo acá la oferta más alta que tuve fue 150k bruto
+15:12:45 - Alejandro Nagy (@nagy.alejandro):
+afuera aplique a puestos por entre 4 y 5k USD
+15:21:42 - Ale Miralles (@amiralles):
+Tal cual. Esos son los numeros que tengo como referencia.
+15:22:05 - Ale Miralles (@amiralles):
+(Se que afuera podes conseguir mas, pero con 5K, Gardel)
+15:24:09 - Mati Dastugue (@matiasdastugue):
+Tal como dice <@UEP9Q4TUP>, Altoros por ejemplo, maneja sueldos de 3000-3800 para seniors, esta dividido por bandas.
+15:27:08 - Ale Miralles (@amiralles):
+Son muy buenos sueldos para Argentina. Esta bueno saberlo.
+15:30:13 - Ale Miralles (@amiralles):
+Esa frase me suena a Linus Torvalds
+15:30:15 - Ale Miralles (@amiralles):
+jajaja
+15:31:53 - Leandro Echevarria (@echevarrialeandro):
+Así que si quieren aplicar a Altoros, ahi tienen la ley (?
+15:34:03 - Alejandro Nagy (@nagy.alejandro):
+y quién es el Juez?
+15:35:09 - Alejandro Nagy (@nagy.alejandro):
+porque Code Quality suena muy lindo, pero si la vara la aplica un terrorista del código…
+15:37:03 - Mariano Montero (@etmaro):
+Depende la emrpesa. Para una startup argentina de fin tech, estaba en relacion de dependencia y cobraba por hora. Habia meses que clavaba 6k, sino 5k tranca. Despues pasaron los sueldos a pesos y ya no fue lo mismo.
+15:37:26 - Alejandro Nagy (@nagy.alejandro):
+Mi viejo sueldo ya no es lo que era :musical_note:
+15:37:51 - Mariano Montero (@etmaro):
+Mal, por mas que te pasen a pesos y te ajusten por inflacion es imposible que siga al dolar
+15:38:00 - Gonzalo González Mora (@gonzalogm):
+La muerte
+15:38:04 - Gonzalo González Mora (@gonzalogm):
+Perdieron muchos empleados?
+15:38:07 - Gonzalo González Mora (@gonzalogm):
+en el pasaje a pesos
+15:38:25 - Mariano Montero (@etmaro):
+No, llamativamente
+15:38:31 - Gonzalo González Mora (@gonzalogm):
+Qué raro
+15:38:38 - Mariano Montero (@etmaro):
+Yo me fui antes de ese cambio
+15:38:56 - Mariano Montero (@etmaro):
+Despues los que entraron no conocieron esa epoca ~dorada~ verde
+15:39:05 - Gonzalo González Mora (@gonzalogm):
+Claro
+15:39:39 - Mariano Montero (@etmaro):
+Se dieron cuenta que era mucha guita para la argentina
+15:39:55 - Alejandro Nagy (@nagy.alejandro):
+yo estoy viendo eso ahora. El tema de “mucha guita para Arg”
+15:40:00 - Gonzalo González Mora (@gonzalogm):
+jajaj se
+15:40:02 - Alejandro Nagy (@nagy.alejandro):
+muchas empresas acá, que contratan gente remota para afuera
+15:40:03 - Leandro Echevarria (@echevarrialeandro):
+Me parece cualquiera eso, no?
+15:40:11 - Alejandro Nagy (@nagy.alejandro):
+te tiran abajo con un 3k, 3.5k
+15:40:31 - Gonzalo González Mora (@gonzalogm):
+Ni me gasto por esa plata, con ganancias perdés todo
+15:40:35 - Alejandro Nagy (@nagy.alejandro):
+no entiendo como pueden pensar que 3k USD facturando rinde
+15:40:39 - Alejandro Nagy (@nagy.alejandro):
+tal cual, te viola ganancias
+15:41:25 - Alejandro Nagy (@nagy.alejandro):
+terminas cobrando menos que un laburo en relación de dependencia local
+15:42:21 - Alejandro Nagy (@nagy.alejandro):
+si, intente hacerlo con giphy y me fallo
+15:42:23 - Alejandro Nagy (@nagy.alejandro):
+tiro fruta mal
+15:42:25 - Aldo Sorbara (@aldo1891):
+pincha
+15:45:28 - Gonzalo González Mora (@gonzalogm):
+jaja
+15:48:14 - Aldo Sorbara (@aldo1891):
+/gif mi vieja mula
+15:48:32 - Santiago Ruffino (@santi_0898):
+Para. que no me conviene agarrar un trabajo de 3k dólares?
+15:48:51 - Santiago Ruffino (@santi_0898):
+Para afuera?
+15:48:53 - Alejandro Nagy (@nagy.alejandro):
+mira, si nunca facturaste el 1er año por ahí safa
+15:49:13 - Alejandro Nagy (@nagy.alejandro):
+porque los primeros meses lo pasas como Monotributista, y te pasas a RI al final del año, con lo que tu impuesto 2019 sería bajo
+15:49:27 - Alejandro Nagy (@nagy.alejandro):
+pero después, con 12 meses enteros facturando 3k por mes, tu impuesto es el total. 35%
+15:49:44 - Alejandro Nagy (@nagy.alejandro):
+35% de 36k
+15:50:20 - Mati Dastugue (@matiasdastugue):
+Terminas ganando 2 pesos con 50
+15:50:21 - Alejandro Nagy (@nagy.alejandro):
+11.400 USD si no me falla la cabeza :stuck_out_tongue:
+15:50:22 - Gonzalo González Mora (@gonzalogm):
+Claro, tmb depende qué sueldo podés agarrar acá en Argentina. Pero la idea es comparar un sueldo de 100-120K vs 138K un sueldo de 3K USD ponele
+15:50:40 - Alejandro Nagy (@nagy.alejandro):
+osea que de tus 36k que ganaste en el año, pagarías 11.400USD de impuesto
+15:50:50 - Alejandro Nagy (@nagy.alejandro):
+en 6 cuotas creo que es durante el año
+15:50:53 - Gonzalo González Mora (@gonzalogm):
+Se te va mucho con gananciasy a vces si tenés un buen sueldo acá, ni te conviene por 10K más
+15:51:10 - Santiago Ruffino (@santi_0898):
+Claro, hay muchas cosas. Yo ahora voy a cobrar 30k. Pero estoy en proceso con una empresa de 2,5k U$D. 
+15:51:12 - Gonzalo González Mora (@gonzalogm):
+pero bueno, varía en cada uno
+15:51:16 - Alejandro Nagy (@nagy.alejandro):
+agregale a eso que te tenes que pagar la Obra Social, ahorrar para tu jubilación, por si te rajan, etc etc
+15:51:17 - Gonzalo González Mora (@gonzalogm):
+Sí, en ese caso sí
+15:51:32 - Gonzalo González Mora (@gonzalogm):
+Exacto, lo que dice Ale
+15:52:08 - Gonzalo González Mora (@gonzalogm):
+Tenés que analizar bien su situación actual y esa y ver si te conviene o no, va a variar bastante caso por caso, pero hay veces que no es tanta la dif
+15:52:47 - Alejandro Nagy (@nagy.alejandro):
+Si es tu primer laburo para afuera Santiago buscate un contador. Empeza como Monotributo y si el sueldo sigue en esos valores solo trae a la Argentina la plata equivalente al Monotributo, el resto en negro. Es feo, es deshonesto…te acepto todo lo que vos quieras y te doy la razón
+15:53:04 - Alejandro Nagy (@nagy.alejandro):
+pero lamentablemente si declaras todo, te viola la AFIP y terminas cobrando 2$
+15:53:15 - Martin Gonzalez (@martin2786):
+<@U9KMYNJMV> Depende de la situacion de cada uno, pero si es tu primer laburo formal en una empresa de software y no estas urgido por la plata, yo me quedaria con esos 30k y laburaria para que en la siguiente empresa pueda hacer una diferencia notable. despues recien me iria por algo en dolares afuera. Sino la experiencia puede ser muy frustrante.
+15:55:22 - Martin Gonzalez (@martin2786):
+<@U9KMYNJMV> por lo poco que leo aca de tu situacion, me parece que tendrias que tratar de bajar la ansiedad e ir de a poco, mi impresion es que estas tratando de saltarte pasos. Y haciendo eso te puede ir muy bien o muy mal
+15:58:09 - Alejandro Nagy (@nagy.alejandro):
+Teniendo en cuenta como esta el pais y la que se viene, yo no le diría que no a los USD
+15:58:28 - Alejandro Nagy (@nagy.alejandro):
+aunque no sea la situación ideal. Especialmente si no tenes un fuerte ahorro con que bancarte la que venga
+15:59:03 - Alejandro Nagy (@nagy.alejandro):
+puede que tengas razón <@UEW0J9N5V> y termine siendo una mala experiencia
+15:59:22 - Alejandro Nagy (@nagy.alejandro):
+pero sería una mala experiencia en USD y no una con 30k ARS que por ahí en medio de la crisis te rajan, y quedas en pampa y la vía :stuck_out_tongue:
+15:59:24 - Gonzalo González Mora (@gonzalogm):
+Yo creo que con lo mal que la pasó en el alburo anterior casi cualquier cosa va a ser mejor jaja y si es con :dollar: mejor
+16:00:00 - Gonzalo González Mora (@gonzalogm):
+Personalmente me arriesgaría a los USD pero bue jaj
+16:01:07 - Santiago Ruffino (@santi_0898):
+Hola Martin! Gracias por los consejos o comentarios. Coincido en que capaz que estoy salteando pasos
+16:01:19 - Santiago Ruffino (@santi_0898):
+Pero no me parece que intentar laburar para una empresa de afuera sea saltearse un paso
+16:01:51 - Santiago Ruffino (@santi_0898):
+Es un laburo, como cualquier otro. No veo la diferencia si hago el mismo trabajo en hacerlo para una empresa de Arg, o hacerlo para una empresa de afuera
+16:02:10 - Santiago Ruffino (@santi_0898):
+Igual, llevemos la conversacion a otro channel. Asi no spammeamos aca
+16:02:29 - Martin Carrera (@mcarrera):
+el tema es q las empresas de afuera suelen no buscar jrs
+16:02:56 - Martin Carrera (@mcarrera):
+entonces si entras con no demasiada experiencia, a laburar 100% remoto, puede que te termines quemando
+16:03:58 - Gonzalo González Mora (@gonzalogm):
+Eso es verdad
+16:04:01 - Silvio Messina (@smessina):
+<@U9KMYNJMV> es un Messi-Dev en potencia papá, se lo van a llevar a Europa a jugar en la Champions.js en cualquier momento 
+16:04:57 - Rodrigo Ali (@rodrigojali):
+Mi visión sobre el tema en particular es que laburar en empresas grandes de tecnología suma bocha. En muchos sentidos que no tocan necesariamente el técnico
+16:05:16 - Santiago Ruffino (@santi_0898):
+Jajaja, no tan asi. Pero a ver, yo a la empresa le dije "Tengo año y medio como Dev. Estos son mis proyectos y use estas tecnologias. Te sirve?" y ellos dijeron "Si, hable con el CEO y no hay drama por el seniority" Aclaro que ellos buscaban senior con +3 de experiencia
+16:05:24 - Rodrigo Ali (@rodrigojali):
+Yo por eso primero me tiré a crear mis armas primero en empresas de ARgentina un par de años y de ahí buscar afuera.
+16:05:43 - Santiago Ruffino (@santi_0898):
+Entonces, yo les dije quien soy y que hago. Si ellos consideran que les sirvo, enhorabuena
+16:05:48 - Gonza Gluzman (@gonza):
+Pero la remuneración esa era para un Sr?
+16:05:54 - Martin Gonzalez (@martin2786):
+Yo me referia a que tu experiencia laboral (por lo que segui en slack, puedo estar totalmente equivocado) es en una empresa de marketing donde eras el unico programador, no tenias que trabajar en equipo, seguir una metodologia, gente que te revise el codigo, etc. Hacer esa experiencia trabajando para un cliente de USA directo como remoto quizas es un poco agresivo, yo la haria en una empresa de aca primero, cuando este comodo veo lo otro. A eso me refiero por saltar pasos.
+Ahora, si te bancas esa situacion, dale nomas, vas a crecer un monton, de eso podes estar seguro.
+16:05:59 - Gonza Gluzman (@gonza):
+O para cualquier seniority?
+16:06:17 - Rodrigo Ali (@rodrigojali):
+Claro, es lo que dijo Martin a lo que me refiero
+16:06:32 - Santiago Ruffino (@santi_0898):
+Yo pedi 2.5 para lo que YO soy. El sueldo que ellos daban para un Sr creo que eran 4,5 o 5k
+16:07:06 - Santiago Ruffino (@santi_0898):
+Entiendo Rorry y Martin. Pero cual es la diferencia entre que mi codigo lo revise el pibe de Córdoba que esta al lado mio, o el gringo yanki?
+16:07:27 - Rodrigo Ali (@rodrigojali):
+No pasa por quién revise necesariamente tu código.
+16:07:38 - Rodrigo Ali (@rodrigojali):
+Pasa por cómo delivereás tu laburo por ahi
+16:07:41 - Rodrigo Ali (@rodrigojali):
+(entre otras cosas)
+16:08:23 - Martin Carrera (@mcarrera):
+personalmente, laburar con gente en el mismo lugar creo que ayuda mas para aprender, hacer pair programming, definir metodologias, etc
+16:08:40 - Rodrigo Ali (@rodrigojali):
+Exacto. Y aprender con proyectos grandes con casos de uso y problemas reales.
+16:08:58 - Martin Carrera (@mcarrera):
+capaz alguien en la misma oficina que vos te puede dedicar mas tiempo, y ese tiempo va a tener mayor calidad porque estas sentado allado
+16:09:03 - Rodrigo Ali (@rodrigojali):
+Onda "uh, se rompió NPM y nadie sabe por qué... ah, es porque no se están encontrando los artifacts en nexus" ponele
+16:09:16 - Martin Carrera (@mcarrera):
+x eso creo que para los perfiles juniors - semi seniors esta bueno el laburo presencial
+16:09:42 - Rodrigo Ali (@rodrigojali):
+Seh. Leyendo mucho articulo y experiencia de devs, llegué a la misma conclusión que dice Martin.
+16:12:18 - Martin Carrera (@mcarrera):
+a mi me sirvio muchisimo laburar en una software factory por dos mangos, pero me lo cobre en experiencia y conocimiento
+16:12:34 - Rodrigo Ali (@rodrigojali):
+Hacés networking, aprendés a comunicarte con otras personas, aprendés a laburar en equipo, a compartir espacio y tiempo con gente que labura, aprendés cosas como laburo Agile, SCRUM, estimar laburo, etc.
+16:12:36 - Martin Carrera (@mcarrera):
+siendo mi 2do laburo viniendo de un primero donde haciamos todo “atado con alambre”
+16:13:08 - Rodrigo Ali (@rodrigojali):
+Man, aprendés a laburar con otras corners que NO son devs.
+16:13:15 - Rodrigo Ali (@rodrigojali):
+Como UX, BA, QA
+16:14:51 - Santiago Ruffino (@santi_0898):
+Claro
+16:14:57 - Santiago Ruffino (@santi_0898):
+Esta bien
+16:15:02 - Santiago Ruffino (@santi_0898):
+Capaz que yo estoy quemando etapas
+16:15:14 - Santiago Ruffino (@santi_0898):
+Igual, tomo un poco de todo. Para eso es el Slack
+16:15:15 - Santiago Ruffino (@santi_0898):
+Jajaja
+16:16:44 - Rodrigo Ali (@rodrigojali):
+De una, son experiencias de otras personas, si pensás que te pueden servir, dales bola, si tus objetivos son otros, desestimá. Como todo. La idea es compartir info para que quien tenga que tomar una decisión, la tome de la forma más educada posible.
+16:16:52 - Martin Carrera (@mcarrera):
+igual, es como todo
+16:16:59 - Martin Carrera (@mcarrera):
+podes quemar etapas y ser millonario tambien
+16:17:07 - Rodrigo Ali (@rodrigojali):
+Claro.
+16:18:42 - Rodrigo Ali (@rodrigojali):
+Por ahí si vas por el path de quemar etapas, mi consejo sería que leas experiencia de gente labura remoto y cómo lidia con eso:
+• separar "casa" de "laburo"
+• aprender a marcar tiempos donde "se labura" y tiempos donde "NO se labura"
+• aprender a mantenerte activo y no caer en sedentarismo
+• aprender a no descuidar las social skills uqe vas a perder por NO laburar en una oficina con interacción IRL
+• aprender de gente que labure remoto desde Arg en cómo meter guita (y ver cómo decidís implementarlo vos)
+• aprender a cómo lidiar con burnout y ansiedad/stress
+16:18:44 - Santiago Ruffino (@santi_0898):
+O quemar etapas y largarte a llorar porque sos un fracaso
+16:19:10 - Santiago Ruffino (@santi_0898):
+NO creo que salga el laburo de remoto, pero no es oportunidad como para no arriesgarse
+16:19:26 - Santiago Ruffino (@santi_0898):
+Igual, iria a un Coworking 2 o 3 veces por semana para socializar, abrir la jeta un rato
+16:19:45 - Rodrigo Ali (@rodrigojali):
+De una, pegate el lance y mucha mierda con eso :smile:, si se te da tenés La Maquinita en Nueva Córdoba
+16:20:38 - Santiago Ruffino (@santi_0898):
+No, ahi no porque estas vos ?)
+16:21:47 - Adrián Velasco (@adrivelasco1506):
+Lo de remoto debe ser una experiencia distinta pero no creo que sea peor o mejor que trabajar onsite, osea, el ir a una fucking oficina de 9 a 18hs también es jodido, a mí al menos, me pasa que al año ya es molesto. Me imagino que la sensación de estar un año en tu casa debe ser la misma jajaja
+16:22:11 - Santiago Ruffino (@santi_0898):
+Yo creo que lo bueno de laburar remoto es porque laburar de donde se que te cante
+16:22:25 - Santiago Ruffino (@santi_0898):
+Si te queres ir a la casa de tu amante, de tu novia, esposa, mejor amigo, te vas y listo
+16:22:35 - Santiago Ruffino (@santi_0898):
+Queres viajar a Groenlandia? Vaia
+16:22:49 - Alejandro Nagy (@nagy.alejandro):
+si eso es un concepto marketinero, fyi
+16:22:53 - Adrián Velasco (@adrivelasco1506):
+Sí tal cual, eso está bueno, pero lo veo poco posible en un laburo remoto
+16:22:59 - Adrián Velasco (@adrivelasco1506):
+Lo veo más posible estando como freelancer.
+16:23:02 - Alejandro Nagy (@nagy.alejandro):
+tenes que ganar MUY bien, no tener hijos y no estar estudiando para poder hacer eso
+16:23:16 - Alejandro Nagy (@nagy.alejandro):
+2.5k USD al mes no te pagan eso, fyi
+16:23:34 - Martin Carrera (@mcarrera):
+otra cosa es que tenes familia, NO PODES laburar en el living de tu casa
+16:23:41 - Rodrigo Ali (@rodrigojali):
+Claro, necesitás que NADA te ate, y necesitás ganar bien porque viajar es caro (en general)
+16:23:46 - Martin Carrera (@mcarrera):
+tenes que tener un espacio dedicado donde al menos puedas cerrar una puerta
+16:23:58 - Alejandro Nagy (@nagy.alejandro):
+en mi empresa trabaja un pibe que hace 1 año está recorriendo el mundo
+16:24:00 - Martin Carrera (@mcarrera):
+y eso sale $$$ tmb
+16:24:00 - Rodrigo Ali (@rodrigojali):
+Medio que esto se está yendo para el lado de <#C54TWDKN1|experiencia-laboral>
+16:24:07 - Rodrigo Ali (@rodrigojali):
+:male-police-officer:
+17:13:39 - Gonzalo González Mora (@gonzalogm):
+Tenía entendido que no pagaban bien pero hoy les pedí de 35 a 45USD la hora y me dijo que podrían pagar eso así que sale hacer los tests jajaja
+17:14:43 - Aldo Gabriel Rojas (@aldogrojas5):
+Menos si tenes pibes chiquitos como yo :scream:
+17:19:32 - Aldo Gabriel Rojas (@aldogrojas5):
+<@UEP9Q4TUP> eso es para un senior bien plantado, no?
+17:20:17 - Aldo Sorbara (@aldo1891):
+3700? si, casi Lead
+17:38:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Xp de cuántos años? 5 para arriba maso?
+19:27:03 - Ale Miralles (@amiralles):
+<@UALD7P7EW> Yo trabaje la mitad de mi carrera on-site y la otra mitad desde mi casa (misma empresa, mismo equipo, mismos clientes) Ni yo ni mis companeros volveriamos a una oficina de 9-18 ni en pedo!
+19:29:08 - Ale Miralles (@amiralles):
+(Aclaro que tengo una oficina en casa, con puertas que se cierran y noise-cancelling headphones ;))
+19:29:20 - Marcos Casagrande (@marcoscvp90):
+Yo prefiero trabajar en mi casa, a ir a la oficina. Las siestas son impagables.
+19:29:48 - Ale Miralles (@amiralles):
+<@U9KMYNJMV> No tiene nada de malo saltearte algunos pasos, si tu ingles es bueno, te sentis seguro y al que te contrata le cierra, "go for it!"
+19:30:19 - Marcos Casagrande (@marcoscvp90):
+No sé si cuenta, pero mi oficina es toda mi casa, porque vivo solo? jaja.
+19:30:51 - Ale Miralles (@amiralles):
+Jajajaj
+19:31:14 - Marcos Casagrande (@marcoscvp90):
+De momento laburo en el living, en el futuro buscaré un ambiente más igual.
+19:32:09 - Ale Miralles (@amiralles):
+Yo cuando estoy solo en casa tambien laburo en el living. Pero cuando esta el nene dando vueltas (o el nene y algun amiguito) es un quilombo. No te queda otra que tener una cueva. jaja.
+19:33:14 - Marcos Casagrande (@marcoscvp90):
+Obvio. Yo tengo al nene del vecino, que grita todo el día, no puedo cancelarlo :joy:
+19:34:19 - Ale Miralles (@amiralles):
+jajajaja calculo que eso debe ser mas duro todavia. Cuando son propios, son propios. Pero cuando es de otro, lo queres matar.
+19:36:25 - Juan Scolari (@juanscolari):
+yo estoy en el living en un lado de la mesa cuando trabajo y en otro cuando boludeo (? jaj
+19:37:33 - Adrián Velasco (@adrivelasco1506):
+Te envidio sanamente
