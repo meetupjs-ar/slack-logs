@@ -1,0 +1,240 @@
+21:18:25 - Lupe (@lportias):
+tal cual, y una vez que encontras lo que mas te gusta, trata de profecionalizarte en esa tecnologia (mas alla de que siempre tenés que estar al tanto de las cosas nuevas)
+21:29:44 - Leandro Doldán (@leandromdoldan):
+Gracias! Me gustaría saber sus opiniones en cosas más allá del stack
+21:29:48 - Leandro Doldán (@leandromdoldan):
+Capaz flasheo
+21:30:16 - Leandro Doldán (@leandromdoldan):
+Ahora estoy en un lugar donde estoy haciendo de todo, pero me preocupa un poco que no haya seniors
+21:30:27 - Leandro Doldán (@leandromdoldan):
+Contratan sólo pendejos. El más grande 26
+21:31:04 - Leandro Doldán (@leandromdoldan):
+Puede ser perjudicial al principio? Veo mucho yankee en blogs diciendo que al principio está bueno priorizar laburar con gente de muuuchos años
+21:31:15 - Leandro Doldán (@leandromdoldan):
+Obvio que edad != experiencia
+21:31:36 - Leandro Doldán (@leandromdoldan):
+O por ejemplo, priorizar empresas chicas/startups
+21:33:12 - Lupe (@lportias):
+depende mucho de la empresa
+21:33:43 - Lupe (@lportias):
+yo tuve malas experiencias con empresas chicas Y grandes… todo depende de como es la gente que maneja cada empresa y el ambiente que logran con la gente
+22:45:55 - Adrián Velasco (@adrivelasco1506):
+Caí muy tarde pero que buena y rara pregunta la de qué porcentraje es de laburo y de ocio. Me da curiosidad qué criterio tienen para evaluar la respuesta que das jajaja
+22:48:28 - Adrián Velasco (@adrivelasco1506):
+Alguien en este channel dijo algo clave, que lo que se desea no es que estés con el text editor abierto y codeando de 9 a 18hs sino que en ese horario seas accesible y siempre estés laboralmente disponible. Así que la respuesta de 100% no me parece muy alocada jajaja
+00:40:16 - Ale Miralles (@amiralles):
+<@UFDMPGZ3R> Si podes rescindir algo de guita, las consultoras no son una mala opcion. En general vas a moverte mucho entre clientes y proyectos. Vas a terminar conociendo mucha gente y varios tech stacks. Pero es para hacerlo un tiempo, ganar contactos, experiencia, y usar esos contactos y esa experiencia para buscar otra cosa. La guita grossa, no esta en la consultora.
+02:50:40 - Martín Valdés de León (@mvaldesdeleon):
+Creo que depende mucho de demasiadas cosas... en especial de cuanto te das maña para aprender cosas que no sabes, para estar fuera de tu zona de confort, y para tomar decisiones importantes y hacerte cargo cuando todavia no tenes la experiencia.
+02:51:27 - Martín Valdés de León (@mvaldesdeleon):
+Yo nunca tuve gente con mas experiencia en mis areas en el laburo anterior, y a mi me sirvio un monton porque pude hacerme cargo de un monton de cosas donde no tenia que discutir o defender mis decisiones tecnicas con nadie (pero si la cagaba me iba a tener que hacer cargo).
+02:53:15 - Martín Valdés de León (@mvaldesdeleon):
+En empresas chicas/startups tambien se suele dar esto. Y si bien un Jr seguramente tenga una experiencia mas "tranquila" o "suave" en  una empresa establecida con seniors/mentors... si caes en una startup en el momento justo es como hacer power-leveling.
+02:53:42 - Martín Valdés de León (@mvaldesdeleon):
+Porque vas a tener que abarcar mucho mas conocimiento en menos tiempo.
+02:54:15 - Martín Valdés de León (@mvaldesdeleon):
+El tema es que no vas a tener a nadie en el laburo para ir a preguntarle, asi que tenes que sentirte relativamente comodo ante esas situaciones.
+08:38:49 - Alejandro Nagy (@nagy.alejandro):
+6-2
+08:39:01 - Alejandro Nagy (@nagy.alejandro):
+6 horas de laburo real, 2 horas de boludeo
+08:40:17 - Alejandro Nagy (@nagy.alejandro):
+la mayoría de las estimaciones se hacen con eso en cuenta
+09:04:30 - Juan Scolari (@juanscolari):
+que herramienta usas?
+09:26:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Yo opino de metido nomás pq no laburo aun de esto. Pero estar el 100% escribiendo código no es lo mismo q estar trabajando el 100% del tiempo. Hay muchas cosas q tienen q ver con pensar, diagramar, buscar soluciones, etc, q tienen q ver con el proceso de trabajo y no tienen q ver con apretar teclas
+09:29:31 - Alejandro Nagy (@nagy.alejandro):
+está re medido esto igual
+09:30:06 - Alejandro Nagy (@nagy.alejandro):
+ya se sabe que tu cerebro tiene picos de actividad y después entra si o si en descanso. Por eso en el estudio se hacen tiempos de 40' de reloj con alguna pausa de 10' o cosas por el estilo
+09:30:24 - Alejandro Nagy (@nagy.alejandro):
+podes estar 3 horas codeando a full pero de repente vas a hacer “zone out”
+09:31:47 - Alejandro Nagy (@nagy.alejandro):
+ese estado en el que tenes que leer 3 veces una linea de texto o que ya te cuesta pensar una pavada. Ahí es porque tu cerebro se agotó y necesita descansar un toque
+09:32:06 - Alejandro Nagy (@nagy.alejandro):
+es un músculo más y se fatiga como todos
+09:35:59 - Hernan Rajchert (@sherman):
+Toggle
+09:42:51 - Aldo Gabriel Rojas (@aldogrojas5):
+Totalmente de acuerdo
+09:58:52 - Jorge Cano (@jorgeucano):
+para mi depende del momento del proyecto y mis ganas ese dia
+09:59:16 - Jorge Cano (@jorgeucano):
+pero un promedio mas real es 70 work (con meetings adentro) y 30 de otras cosa
+10:17:05 - Juan Stiza (@juanstiza):
+Me pasó parecido a otros, siempre que estuve acompañado de un “senior”, resultó ser un vago/irresponsable, creo que me sirvió para aprender lo que “no” hacer.
+10:17:29 - Juan Stiza (@juanstiza):
+Estar acompañado de alguien con más experiencia puede ser bueno o malo, depende de la gente.
+10:18:01 - Juan Stiza (@juanstiza):
+Y con respecto a los tiempos, hace un tiempo que probé con Pomodoro, y no está nada mal.
+10:18:40 - Juan Stiza (@juanstiza):
+Laburando como remoto a veces perdes la noción de cuanto tiempo estás al 100% y cuando descansas, usualmente en una oficina tenes interrupciones que te quitan de ese estado de trabajo “intenso”
+10:26:15 - Lupe (@lportias):
+igual, rarisima pregunta para una interview...
+10:41:59 - Germán Burgardt (@germanandresburgardt):
+Igual veo que exageré con la sinceridad diciendo 40-60
+10:45:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Capaz q la proxima te tiras mas a la proporción inversa!
+10:49:15 - Germán Burgardt (@germanandresburgardt):
+Totalmente, o dejo de hacerme el sincero y tiro 110% working
+10:51:51 - Aldo Gabriel Rojas (@aldogrojas5):
+Jajjajajaa soy una máquina de codear, funciono a café barato y galletitas de agua. Tengo puesta una sonda vesical para no perder tiempo en ir al baño. :zany_face:
+11:21:56 - Martin Bavio (@mbavio):
+Mientras resuelvas lo que ambos acordamos que hay que hacer en un lapso de tiempo tambien acordado, por mi podes ser 90 ocio y 10 trabajo que me da absolutamente igual. Quality over quantity.
+11:26:15 - Juan Stiza (@juanstiza):
+:point_up_2::skin-tone-2: Y evitar el scope creep a toda costa.
+12:14:15 - Ale Miralles (@amiralles):
+<@U75JU1TFS> Totalmente. Y como dice <@UGW464VJS>, no es solo escribir codigo. Programar es mucho mas que eso.
+14:44:33 - Rodrigo Ali (@rodrigojali):
+En mi caso depende de los objetivos que tengo. Si no tengo urgencia y tal =/, no es una pregunta con "una respuesta general" en mi caso.
+19:07:24 - Mariano Montero (@etmaro):
+Buenas
+19:11:50 - Mariano Montero (@etmaro):
+Cuando hacen una factura E que ponen si no tienen los datos de su cliente.
+19:12:31 - Marcos Casagrande (@marcoscvp90):
+Pedirle los datos al cliente sería la mejor opción, sino te cae la AFIP casi seguro (?)
+19:12:43 - Marcos Casagrande (@marcoscvp90):
+Yo le rompí las bolas hasta que me los dieron.
+19:13:52 - Marcos Casagrande (@marcoscvp90):
+y el 99% de los clientes no tienen problema igual en darte los datos.
+19:14:35 - Marcos Casagrande (@marcoscvp90):
+De dónde es el cliente?
+19:20:03 - Juan Scolari (@juanscolari):
+tambien, le pediria los datos
+19:27:17 - Martin Carrera (@mcarrera):
+igual no necesitas demasiados datos, solo el nombre de la empresa y una direccion creo
+19:27:42 - Marcos Casagrande (@marcoscvp90):
+Necesitás el Tax ID, dirección, razón social
+19:32:00 - Mariano Montero (@etmaro):
+Necesitas
+ID Impositivo	
+Apellido y Nombre o Razón Social	
+Domicilio	
+Email
+19:32:06 - Mariano Montero (@etmaro):
+cliente americano
+19:33:25 - Marcos Casagrande (@marcoscvp90):
+No hace falta email, es opcional en la factura.
+19:42:05 - Martin Carrera (@mcarrera):
+nunca complete un ID Impositivo creo :thinking_face:
+21:18:25 - Lupe (@lportias):
+tal cual, y una vez que encontras lo que mas te gusta, trata de profecionalizarte en esa tecnologia (mas alla de que siempre tenés que estar al tanto de las cosas nuevas)
+21:29:44 - Leandro Doldán (@leandromdoldan):
+Gracias! Me gustaría saber sus opiniones en cosas más allá del stack
+21:29:48 - Leandro Doldán (@leandromdoldan):
+Capaz flasheo
+21:30:16 - Leandro Doldán (@leandromdoldan):
+Ahora estoy en un lugar donde estoy haciendo de todo, pero me preocupa un poco que no haya seniors
+21:30:27 - Leandro Doldán (@leandromdoldan):
+Contratan sólo pendejos. El más grande 26
+21:31:04 - Leandro Doldán (@leandromdoldan):
+Puede ser perjudicial al principio? Veo mucho yankee en blogs diciendo que al principio está bueno priorizar laburar con gente de muuuchos años
+21:31:15 - Leandro Doldán (@leandromdoldan):
+Obvio que edad != experiencia
+21:31:36 - Leandro Doldán (@leandromdoldan):
+O por ejemplo, priorizar empresas chicas/startups
+21:33:12 - Lupe (@lportias):
+depende mucho de la empresa
+21:33:43 - Lupe (@lportias):
+yo tuve malas experiencias con empresas chicas Y grandes… todo depende de como es la gente que maneja cada empresa y el ambiente que logran con la gente
+22:45:55 - Adrián Velasco (@adrivelasco1506):
+Caí muy tarde pero que buena y rara pregunta la de qué porcentraje es de laburo y de ocio. Me da curiosidad qué criterio tienen para evaluar la respuesta que das jajaja
+22:48:28 - Adrián Velasco (@adrivelasco1506):
+Alguien en este channel dijo algo clave, que lo que se desea no es que estés con el text editor abierto y codeando de 9 a 18hs sino que en ese horario seas accesible y siempre estés laboralmente disponible. Así que la respuesta de 100% no me parece muy alocada jajaja
+00:40:16 - Ale Miralles (@amiralles):
+<@UFDMPGZ3R> Si podes rescindir algo de guita, las consultoras no son una mala opcion. En general vas a moverte mucho entre clientes y proyectos. Vas a terminar conociendo mucha gente y varios tech stacks. Pero es para hacerlo un tiempo, ganar contactos, experiencia, y usar esos contactos y esa experiencia para buscar otra cosa. La guita grossa, no esta en la consultora.
+02:50:40 - Martín Valdés de León (@mvaldesdeleon):
+Creo que depende mucho de demasiadas cosas... en especial de cuanto te das maña para aprender cosas que no sabes, para estar fuera de tu zona de confort, y para tomar decisiones importantes y hacerte cargo cuando todavia no tenes la experiencia.
+02:51:27 - Martín Valdés de León (@mvaldesdeleon):
+Yo nunca tuve gente con mas experiencia en mis areas en el laburo anterior, y a mi me sirvio un monton porque pude hacerme cargo de un monton de cosas donde no tenia que discutir o defender mis decisiones tecnicas con nadie (pero si la cagaba me iba a tener que hacer cargo).
+02:53:15 - Martín Valdés de León (@mvaldesdeleon):
+En empresas chicas/startups tambien se suele dar esto. Y si bien un Jr seguramente tenga una experiencia mas "tranquila" o "suave" en  una empresa establecida con seniors/mentors... si caes en una startup en el momento justo es como hacer power-leveling.
+02:53:42 - Martín Valdés de León (@mvaldesdeleon):
+Porque vas a tener que abarcar mucho mas conocimiento en menos tiempo.
+02:54:15 - Martín Valdés de León (@mvaldesdeleon):
+El tema es que no vas a tener a nadie en el laburo para ir a preguntarle, asi que tenes que sentirte relativamente comodo ante esas situaciones.
+08:38:49 - Alejandro Nagy (@nagy.alejandro):
+6-2
+08:39:01 - Alejandro Nagy (@nagy.alejandro):
+6 horas de laburo real, 2 horas de boludeo
+08:40:17 - Alejandro Nagy (@nagy.alejandro):
+la mayoría de las estimaciones se hacen con eso en cuenta
+09:04:30 - Juan Scolari (@juanscolari):
+que herramienta usas?
+09:26:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Yo opino de metido nomás pq no laburo aun de esto. Pero estar el 100% escribiendo código no es lo mismo q estar trabajando el 100% del tiempo. Hay muchas cosas q tienen q ver con pensar, diagramar, buscar soluciones, etc, q tienen q ver con el proceso de trabajo y no tienen q ver con apretar teclas
+09:29:31 - Alejandro Nagy (@nagy.alejandro):
+está re medido esto igual
+09:30:06 - Alejandro Nagy (@nagy.alejandro):
+ya se sabe que tu cerebro tiene picos de actividad y después entra si o si en descanso. Por eso en el estudio se hacen tiempos de 40' de reloj con alguna pausa de 10' o cosas por el estilo
+09:30:24 - Alejandro Nagy (@nagy.alejandro):
+podes estar 3 horas codeando a full pero de repente vas a hacer “zone out”
+09:31:47 - Alejandro Nagy (@nagy.alejandro):
+ese estado en el que tenes que leer 3 veces una linea de texto o que ya te cuesta pensar una pavada. Ahí es porque tu cerebro se agotó y necesita descansar un toque
+09:32:06 - Alejandro Nagy (@nagy.alejandro):
+es un músculo más y se fatiga como todos
+09:35:59 - Hernan Rajchert (@sherman):
+Toggle
+09:42:51 - Aldo Gabriel Rojas (@aldogrojas5):
+Totalmente de acuerdo
+09:58:52 - Jorge Cano (@jorgeucano):
+para mi depende del momento del proyecto y mis ganas ese dia
+09:59:16 - Jorge Cano (@jorgeucano):
+pero un promedio mas real es 70 work (con meetings adentro) y 30 de otras cosa
+10:17:05 - Juan Stiza (@juanstiza):
+Me pasó parecido a otros, siempre que estuve acompañado de un “senior”, resultó ser un vago/irresponsable, creo que me sirvió para aprender lo que “no” hacer.
+10:17:29 - Juan Stiza (@juanstiza):
+Estar acompañado de alguien con más experiencia puede ser bueno o malo, depende de la gente.
+10:18:01 - Juan Stiza (@juanstiza):
+Y con respecto a los tiempos, hace un tiempo que probé con Pomodoro, y no está nada mal.
+10:18:40 - Juan Stiza (@juanstiza):
+Laburando como remoto a veces perdes la noción de cuanto tiempo estás al 100% y cuando descansas, usualmente en una oficina tenes interrupciones que te quitan de ese estado de trabajo “intenso”
+10:26:15 - Lupe (@lportias):
+igual, rarisima pregunta para una interview...
+10:41:59 - Germán Burgardt (@germanandresburgardt):
+Igual veo que exageré con la sinceridad diciendo 40-60
+10:45:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Capaz q la proxima te tiras mas a la proporción inversa!
+10:49:15 - Germán Burgardt (@germanandresburgardt):
+Totalmente, o dejo de hacerme el sincero y tiro 110% working
+10:51:51 - Aldo Gabriel Rojas (@aldogrojas5):
+Jajjajajaa soy una máquina de codear, funciono a café barato y galletitas de agua. Tengo puesta una sonda vesical para no perder tiempo en ir al baño. :zany_face:
+11:21:56 - Martin Bavio (@mbavio):
+Mientras resuelvas lo que ambos acordamos que hay que hacer en un lapso de tiempo tambien acordado, por mi podes ser 90 ocio y 10 trabajo que me da absolutamente igual. Quality over quantity.
+11:26:15 - Juan Stiza (@juanstiza):
+:point_up_2::skin-tone-2: Y evitar el scope creep a toda costa.
+12:14:15 - Ale Miralles (@amiralles):
+<@U75JU1TFS> Totalmente. Y como dice <@UGW464VJS>, no es solo escribir codigo. Programar es mucho mas que eso.
+14:44:33 - Rodrigo Ali (@rodrigojali):
+En mi caso depende de los objetivos que tengo. Si no tengo urgencia y tal =/, no es una pregunta con "una respuesta general" en mi caso.
+19:07:24 - Mariano Montero (@etmaro):
+Buenas
+19:11:50 - Mariano Montero (@etmaro):
+Cuando hacen una factura E que ponen si no tienen los datos de su cliente.
+19:12:31 - Marcos Casagrande (@marcoscvp90):
+Pedirle los datos al cliente sería la mejor opción, sino te cae la AFIP casi seguro (?)
+19:12:43 - Marcos Casagrande (@marcoscvp90):
+Yo le rompí las bolas hasta que me los dieron.
+19:13:52 - Marcos Casagrande (@marcoscvp90):
+y el 99% de los clientes no tienen problema igual en darte los datos.
+19:14:35 - Marcos Casagrande (@marcoscvp90):
+De dónde es el cliente?
+19:20:03 - Juan Scolari (@juanscolari):
+tambien, le pediria los datos
+19:27:17 - Martin Carrera (@mcarrera):
+igual no necesitas demasiados datos, solo el nombre de la empresa y una direccion creo
+19:27:42 - Marcos Casagrande (@marcoscvp90):
+Necesitás el Tax ID, dirección, razón social
+19:32:00 - Mariano Montero (@etmaro):
+Necesitas
+ID Impositivo	
+Apellido y Nombre o Razón Social	
+Domicilio	
+Email
+19:32:06 - Mariano Montero (@etmaro):
+cliente americano
+19:33:25 - Marcos Casagrande (@marcoscvp90):
+No hace falta email, es opcional en la factura.
+19:42:05 - Martin Carrera (@mcarrera):
+nunca complete un ID Impositivo creo :thinking_face:
