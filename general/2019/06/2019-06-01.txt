@@ -1,0 +1,60 @@
+09:47:02 - Francisco (@frajova):
+Esaaaa Gonza!! :clap::clap:
+10:19:46 - Maxi (@tholem98):
+Hola, estoy buscando informacion sobre CNN en javascript. Si alguien sabe o conoce al respecto podria ayudarme a orientar mi busqueda proporcionandome algunos links o comentandome lo que sabe al DM?
+
+Desde ya, muchas gracias
+11:39:44 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola! Vos decís algo como si tienen una api?
+12:28:54 - Gonzalo GC (@nouvellegon):
+Hola gente.
+Me recomendaron este slack porque estoy retomando mi actividad como programador. Durante varios años estuve sin codear casi nada, y mi background es principalmente en Javascript. En su momento (2015/2016) laburé en una empresa en donde colaboré en el desarrollo de un sistema web de gestión recursos humanos y en otro de monitoreo de datos de procesos industriales, donde utilice principalmente PHP, JavaScript y conocí Node.js .  Luego abandone el rubro y comencé a trabajar en otra cosa, específicamente Project Management, en una empresa de traducción. Siempre seguí programando alguna que otra cosa en mi tiempo libre, y en el último año y medio descubrí Python porque me servia para implementar algunas ideas en análisis de datos. La cuestión es que me enamoré de Python y de a poco empezaron a surgirme algunas ideas para proyectos personales y fui aplicándolas, y me fui metiendo en el mundo de Flask, Django, PostgreSQL y termine de alguna manera, otra vez en el mundo web. Escribo por este medio porque en este momento quiero orientarme para ver a donde enfocar mis esfuerzos en los próximos meses/año. Mi objetivo es poder trabajar lo antes posible en el rubro. En este momento me estoy debatiendo dos cosas:
+1- Si volver a JS o seguir en Python (hoy en día me estoy sintiendo muy cómodo con Python)
+2- Si orientarme al Backend o al Frontend (y volver a JS, porque entiendo que el frontend esta dominado por JS y de Python hay muy poco) o abarcar un poco de los dos.
+Me gustaría saber sus experiencias y comentarios, para poderme orientar un poco.
+Gracias!
+12:29:13 - Maxi (@tholem98):
+Convolutional neural network en javascript. Deep lerning para enseñar al programa a tomar decisiones y clasificar cosas en base a los datos que le pasas.
+
+Aun no tengo los conocimientos muy claros por lo que se me escapan algunas cosas, por eso mas que nada estaba buscando una orientacion sobre por donde debo comenzar a investigar
+12:39:09 - Dario Fernando (@someunderscore_):
+Yo empeze de una para afuera como contractor, tuve la fortuna de conseguir mi primer laburo gracias a este slack, ya van casi 2 años eso si un buen contador fue lo que mas me costo jaja  :stuck_out_tongue:
+12:50:15 - Rodrigo Ali (@rodrigojali):
+<@UK5UUU0CC> IMO si querés laburar lo antes posible, metele a JS y front, es lo que tiene más chances de landear un laburo hoy hasta donde sé. Al menos en Córdoba y Buenos Aires.
+14:08:04 - Martín Aimar (@maimar):
+tensorflow.js
+15:44:01 - Mariano Montero (@etmaro):
+<@UK5UUU0CC> laburo hay en casi todo. Python lo podes usar para desarrollo web y tranquilamente podes usar js en el mismo laburo. A su vez la division entre front end y backend es arbitraria y podes codear en ambos lados a la vez. Si tenes una story que involucra modificar la UI y una API lo puede hacer la misma persona.
+18:19:36 - Diego Harari (@diehara):
+Estoy vendiendo macbook pro, precio efvo mas bajo que ML
+<https://articulo.mercadolibre.com.ar/MLA-789934201-macbook-pro-retina-13-mid-2014-_JM?quantity=1&amp;variation=38163895344>
+09:47:02 - Francisco (@frajova):
+Esaaaa Gonza!! :clap::clap:
+10:19:46 - Maxi (@tholem98):
+Hola, estoy buscando informacion sobre CNN en javascript. Si alguien sabe o conoce al respecto podria ayudarme a orientar mi busqueda proporcionandome algunos links o comentandome lo que sabe al DM?
+
+Desde ya, muchas gracias
+11:39:44 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola! Vos decís algo como si tienen una api?
+12:28:54 - Gonzalo GC (@nouvellegon):
+Hola gente.
+Me recomendaron este slack porque estoy retomando mi actividad como programador. Durante varios años estuve sin codear casi nada, y mi background es principalmente en Javascript. En su momento (2015/2016) laburé en una empresa en donde colaboré en el desarrollo de un sistema web de gestión recursos humanos y en otro de monitoreo de datos de procesos industriales, donde utilice principalmente PHP, JavaScript y conocí Node.js .  Luego abandone el rubro y comencé a trabajar en otra cosa, específicamente Project Management, en una empresa de traducción. Siempre seguí programando alguna que otra cosa en mi tiempo libre, y en el último año y medio descubrí Python porque me servia para implementar algunas ideas en análisis de datos. La cuestión es que me enamoré de Python y de a poco empezaron a surgirme algunas ideas para proyectos personales y fui aplicándolas, y me fui metiendo en el mundo de Flask, Django, PostgreSQL y termine de alguna manera, otra vez en el mundo web. Escribo por este medio porque en este momento quiero orientarme para ver a donde enfocar mis esfuerzos en los próximos meses/año. Mi objetivo es poder trabajar lo antes posible en el rubro. En este momento me estoy debatiendo dos cosas:
+1- Si volver a JS o seguir en Python (hoy en día me estoy sintiendo muy cómodo con Python)
+2- Si orientarme al Backend o al Frontend (y volver a JS, porque entiendo que el frontend esta dominado por JS y de Python hay muy poco) o abarcar un poco de los dos.
+Me gustaría saber sus experiencias y comentarios, para poderme orientar un poco.
+Gracias!
+12:29:13 - Maxi (@tholem98):
+Convolutional neural network en javascript. Deep lerning para enseñar al programa a tomar decisiones y clasificar cosas en base a los datos que le pasas.
+
+Aun no tengo los conocimientos muy claros por lo que se me escapan algunas cosas, por eso mas que nada estaba buscando una orientacion sobre por donde debo comenzar a investigar
+12:39:09 - Dario Fernando (@someunderscore_):
+Yo empeze de una para afuera como contractor, tuve la fortuna de conseguir mi primer laburo gracias a este slack, ya van casi 2 años eso si un buen contador fue lo que mas me costo jaja  :stuck_out_tongue:
+12:50:15 - Rodrigo Ali (@rodrigojali):
+<@UK5UUU0CC> IMO si querés laburar lo antes posible, metele a JS y front, es lo que tiene más chances de landear un laburo hoy hasta donde sé. Al menos en Córdoba y Buenos Aires.
+14:08:04 - Martín Aimar (@maimar):
+tensorflow.js
+15:44:01 - Mariano Montero (@etmaro):
+<@UK5UUU0CC> laburo hay en casi todo. Python lo podes usar para desarrollo web y tranquilamente podes usar js en el mismo laburo. A su vez la division entre front end y backend es arbitraria y podes codear en ambos lados a la vez. Si tenes una story que involucra modificar la UI y una API lo puede hacer la misma persona.
+18:19:36 - Diego Harari (@diehara):
+Estoy vendiendo macbook pro, precio efvo mas bajo que ML
+<https://articulo.mercadolibre.com.ar/MLA-789934201-macbook-pro-retina-13-mid-2014-_JM?quantity=1&amp;variation=38163895344>
