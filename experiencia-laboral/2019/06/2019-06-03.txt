@@ -1,0 +1,436 @@
+21:34:18 - Leandro Doldán (@leandromdoldan):
+Referencias de MediaMonks??
+21:40:26 - Alejandro Nagy (@nagy.alejandro):
+Yo no pongo ID Impositivo
+21:40:34 - Alejandro Nagy (@nagy.alejandro):
+pongo el CUIT del país donde está radicada la empresa
+21:40:41 - Alejandro Nagy (@nagy.alejandro):
+en mi caso Emiratos Arabes
+01:22:41 - Martin Carrera (@mcarrera):
+tengo un amigo ahi adentro, y esta bastante conforme
+04:14:41 - Martín Valdés de León (@mvaldesdeleon):
+<@UJ8316J9H> labura ahi
+21:34:18 - Leandro Doldán (@leandromdoldan):
+Referencias de MediaMonks??
+21:40:26 - Alejandro Nagy (@nagy.alejandro):
+Yo no pongo ID Impositivo
+21:40:34 - Alejandro Nagy (@nagy.alejandro):
+pongo el CUIT del país donde está radicada la empresa
+21:40:41 - Alejandro Nagy (@nagy.alejandro):
+en mi caso Emiratos Arabes
+01:22:41 - Martin Carrera (@mcarrera):
+tengo un amigo ahi adentro, y esta bastante conforme
+04:14:41 - Martín Valdés de León (@mvaldesdeleon):
+<@UJ8316J9H> labura ahi
+09:54:55 - Nico (@nicokorn96):
+Hola gente, como va ? me ofrecieron laburar de team leader para una empresa para manejar un grupo de 4 juniors, soy dev SSR, cuanto deberia pasar de sueldo a la empresa para que sea justo?
+10:02:22 - Marcos Casagrande (@marcoscvp90):
+Cuanto pensás pasarle vos? Todo es muy relativo sobre lo que es justo o no.
+10:02:56 - Martín Valdés de León (@mvaldesdeleon):
+Esos 4 jrs oficialmente reportan a vos, o hay un manager encima de todos?
+10:03:24 - Martín Valdés de León (@mvaldesdeleon):
+Vas a ser responsable de contratar gente nueva, performance reviews, salary reviews?
+10:08:54 - Marcos Casagrande (@marcoscvp90):
+Yo creo que justo y Argentina no van de la mano, así que tenés que aspirar a algo que te sirva a vos actualmente y sea mayor a tu sueldo actual, e intentar estar por encima de la media del mercado Argentino. Sin saber lo que ganas o que empresa, un sueldo bueno para Argentina para un ssr serian 70k neto. Ahora bien, ningún amigo/conocido mio gana eso como ssr acá. (No digo que no haya empresa que pueda pagar eso igual)
+10:11:46 - Matias Garat Ortiz (@matiasgaratortiz):
+coincido con marcos, en que si esas son las responsabilidades que vas a tener, esa es la base del sueldo...
+10:12:28 - Nico (@nicokorn96):
+a mi
+10:14:01 - Nico (@nicokorn96):
+gracias chicos
+10:14:59 - Martín Valdés de León (@mvaldesdeleon):
+diria que las responsabilidades no matchean la experiencia que piden, asi que pedi en base a las responsabilidades
+10:15:03 - Martín Valdés de León (@mvaldesdeleon):
+y no en base a la experiencia
+10:17:07 - Marcos Casagrande (@marcoscvp90):
+Igual, la situación depende de lo que ganas vos ahora. Si vos estas ganando 30k y pedís 70k te podes quedar afuera, se que la mayoría de empresas pagan sobre 50k a los semi, entonces pedir 55k ya sería un aumento de un 8x%, lo cual es un crecimiento impresionante personalmente, vas a poder ahorrar.
+10:18:50 - Marcos Casagrande (@marcoscvp90):
+Justo no será nunca, si querés justicia vas a tener que trabajar para afuera. Pero lo importante es pagar las facturas primero.
+10:27:17 - Adrián Velasco (@adrivelasco1506):
+Hace poco me llegaron al menos 5 ofertas para SSr/Sr Dev. con React de entre 90k - 120k (bruto) todas, pero el tema de los sueldos es bastante relativo. Supongo que un TL debería superar ese rango que pasé o más. :thinking_face:
+10:29:25 - Adrián Velasco (@adrivelasco1506):
+```Hola Adri buen día ¿cómo estás? ¿como te trata este viernes?
+Estuve revisando tu perfil y me pareció interesante.
+
+Tengo algunas propuestas laborales para trabajar en CABA
+En el caso de que te interesen avisame por aca,mandame tu mail o cv a jeremias@hroasis y te envio la info DETALLADA de cada posición…. Como para hacerte un resumen:
+
+Microcentro &gt;React +3Años &gt; 90 -100 brutos -Inglés upper.
+Microcentro &gt;JS Team Lider &gt; 90 -100 brutos -Inglés upper.
+Microcentro&gt; Ssr React + Angular +.Net &gt; 75-85 brutos.
+Belgrano &gt;FStack: React + Python &gt; 85-90 brutos.
+Palermo &gt;Emp. Producto &gt; React 2 años + JS/TS+4años &gt; 100-120 brutos.
+Recoleta &gt;Emp. Producto&gt; VainillaJS+React +3años &gt;80-120 brutos.
+Congreso&gt;Importante S.F&gt;React+4años+JS +años +Inglés &gt;100-150 brutos.```
+10:31:47 - Nico (@nicokorn96):
+claro siento que si le pido 70 bruto me van a mandar a la verga
+10:32:19 - Mariano Ramonda (@ing.inf.mariano):
+just in case, recuerden que en relacion de dependencia el empleador termina pagando aprox un 25% mas de lo que le paga al empleado en bruto
+10:32:55 - Gustavo Spredemann (@gustavo.spredemann):
+Hola… A mi me gusta la cultura y el trabajo que hacemos.  Avisame si tenés preguntas especificas.
+10:33:02 - Mariano Ramonda (@ing.inf.mariano):
+no digo que sea un justificativo, es para entender bien cuanto se esta pagando aca en relacion a trabajar para por ejemplo USA
+10:33:15 - Mariano Ramonda (@ing.inf.mariano):
+ademas de lo que ya todos saben, aguinaldo, vacaciones, etc
+10:33:51 - Mariano Ramonda (@ing.inf.mariano):
+en USA existen los PTOs (paid time off), aca existen dias por mudanza, examenes, enfermedad, cuidado de familiar a cargo, etc
+10:35:46 - Nico (@nicokorn96):
+i know
+10:36:01 - Alejandro Nagy (@nagy.alejandro):
+creo que es más que el 25%
+10:36:31 - Marcos Casagrande (@marcoscvp90):
+Yo decía netos igual. Todo depende la situación, hay empresas que de verdad no pueden pagar esos sueldos, otras que no quieren. 70 bruto no me parece tanto, son unos 55k neto, ir debajo de 50k me perece regalarse para un semi, ya que hay suficientes empresas que paguen eso en CABA al menos.
+10:36:34 - Nico (@nicokorn96):
+pero no deberias hacer el calculo en cuanto ¨le va a costar a tu empleador ¨
+10:36:35 - Alejandro Nagy (@nagy.alejandro):
+pero bueh, así están los sueldos locales
+10:36:53 - Alejandro Nagy (@nagy.alejandro):
+para mi quedaron desfasados, aprovecharon el quilombo del dolar y durmieron al mercado local planchando los sueldos
+10:38:01 - Mariano Ramonda (@ing.inf.mariano):
+si, no te tiene que "importar" cuanto termina pagando tu empleador
+10:38:28 - Mariano Ramonda (@ing.inf.mariano):
+tenes que tenerlo en cuenta cuando analizas cuanto te termina llegando a tu bolsillo (eso es lo que importa al final del dia)
+10:38:51 - Nico (@nicokorn96):
+claro entiendo el tema es que, cuando fui me ofrecieron 45 en mano, y para las responsablilidades me parecio poco,  pero como les ¨gusto mucho mi perfil¨ hoy me llamaban para preguntarme si decia que si o que no
+10:39:19 - Mariano Ramonda (@ing.inf.mariano):
+porque un empleador de USA te puede estar desembolsillando lo mismo que uno aca y a vos te va a llegar mucho menos
+10:39:37 - Mariano Ramonda (@ing.inf.mariano):
+entonces no es siempre una cuestion de cuanto desenfunda el empleador aca
+10:39:45 - Nico (@nicokorn96):
+todos los caminos conducen al exterior
+10:39:52 - Mariano Ramonda (@ing.inf.mariano):
+completely agree
+10:40:15 - Mariano Ramonda (@ing.inf.mariano):
+USA + Uragüey
+10:40:31 - Nico (@nicokorn96):
+suiza
+10:40:31 - Alejandro Nagy (@nagy.alejandro):
+Uruguay por qué? :confused:
+10:40:36 - Nico (@nicokorn96):
+lavado de plata
+10:40:48 - Alejandro Nagy (@nagy.alejandro):
+Uruguay tiene tratado con Argentina para intercambio de información muchachos…
+10:40:53 - Nico (@nicokorn96):
+son expertos en dibujar numeros
+10:40:53 - Alejandro Nagy (@nagy.alejandro):
+en Uruguay no esconden nada :stuck_out_tongue:
+10:41:05 - Nico (@nicokorn96):
+nah pero son expertos en sacar la plara afuera
+10:41:16 - Mariano Ramonda (@ing.inf.mariano):
+esos datos son solo accesibles si te abren una causa en Arg
+10:41:22 - Alejandro Nagy (@nagy.alejandro):
+no
+10:41:24 - Marcos Casagrande (@marcoscvp90):
+Me parece poco la verdad si vas a tener gente a cargo, todo ssr debería aspirar al menos a 50k.
+10:41:26 - Mariano Ramonda (@ing.inf.mariano):
+hay que ser muy desprolijo para llegar a ese punto
+10:41:28 - Alejandro Nagy (@nagy.alejandro):
+la AFIP tiene acceso
+10:42:07 - Marcos Casagrande (@marcoscvp90):
+Igual de 45 a 50 no hay una diferencia enorme para ellos, así que tirales contraoferta
+10:42:16 - Nico (@nicokorn96):
+no, puro humo
+10:42:21 - Mariano Ramonda (@ing.inf.mariano):
+si, con causa en curso
+10:42:23 - Mariano Ramonda (@ing.inf.mariano):
+si no, no
+10:42:38 - Mariano Ramonda (@ing.inf.mariano):
+antes, hace unos años, ni con causa
+10:45:29 - Nico (@nicokorn96):
+bue pero eso pasa si sos lazaro baez
+10:45:46 - Nico (@nicokorn96):
+casos extraordinarios
+10:46:49 - Alejandro Nagy (@nagy.alejandro):
+<https://www.contadoresdeluruguay.com.uy/es/articulos/tratados-de-doble-tributacion-de-uruguay/>
+10:47:31 - Alejandro Nagy (@nagy.alejandro):
+La AFIP solo necesita requerir la información para impuestos como Ganancias o Bienes Personales
+10:48:00 - Alejandro Nagy (@nagy.alejandro):
+no necesita una denuncia, un juez ni nada
+10:48:02 - Alejandro Nagy (@nagy.alejandro):
+solo pedirlo
+10:49:11 - Alejandro Nagy (@nagy.alejandro):
+esa página lo resume pero acá tenes el documento formal, de la página de AFIP
+10:49:12 - Alejandro Nagy (@nagy.alejandro):
+<http://www.afip.gov.ar/institucional/Documentos/acuerdos/Uruguay.pdf>
+10:49:15 - Ale Miralles (@amiralles):
+45 en mano y con gente a cargo, me parece una locura. A menos que necesites la guita desesperadamente, subiles un poco el numero. Deciles que en este momento estas evaluando otras propuestas, y que sin tener en cuenta bonus por desempeno  y cosas por el estilo, el numero que estas manejando esta en el rango  57...65 a ver que te dicen.
+10:49:42 - Ale Miralles (@amiralles):
+Por ahi se estiran y te dan, no se... 55?
+10:50:11 - Ale Miralles (@amiralles):
+que como decia <@UGQTUDQSG>, sigue siendo bajo, pero le sacas 10 lucas mas.
+10:51:12 - Ale Miralles (@amiralles):
+Por ahi si, si les tiras 70 de una te sacan cagando.
+10:51:26 - Ale Miralles (@amiralles):
+Pero si ven que estas abierto a negociar, nunca se sabe....
+10:55:01 - Marcos Casagrande (@marcoscvp90):
+Gracias por el dato, chau Uruguay.
+11:03:53 - Nico (@nicokorn96):
+en mano me estan hablando no _
+11:03:55 - Nico (@nicokorn96):
+?
+11:05:26 - Ale Miralles (@amiralles):
+Si, claro.
+11:05:48 - Nico (@nicokorn96):
+oka si me llaman pruebo a ver que onda
+11:06:55 - Ale Miralles (@amiralles):
+Si pedis 85k brutos, despues de descuentos, ganancias, y toda la bola, a vos te quedan ~60k
+11:07:18 - Nico (@nicokorn96):
+ah no tenia en cuenta ganancias... fucking pais
+11:07:32 - Nico (@nicokorn96):
+si me voy a timbuctu... vale?:joy:
+11:07:58 - Ale Miralles (@amiralles):
+(Como para que tengas una idea si te preguntan por el bruto)
+11:07:58 - Ale Miralles (@amiralles):
+jajaja
+11:07:59 - Ale Miralles (@amiralles):
+Asi es.....
+11:07:59 - Ale Miralles (@amiralles):
+creo que si te pasas de 40 lucas o algo asi, ya empezas a pagar.
+11:08:29 - Nico (@nicokorn96):
+36 800 creo que si te pasas
+11:08:34 - Nico (@nicokorn96):
+o 38 800
+11:09:05 - Nico (@nicokorn96):
+nose si lo aumentaron
+11:09:24 - Marcos Casagrande (@marcoscvp90):
+<https://calcularsueldo.com.ar/sueldoneto.html>
+11:09:35 - Marcos Casagrande (@marcoscvp90):
+Para que te hagas una idea más que nada
+11:10:10 - Mariano Ramonda (@ing.inf.mariano):
+conozco unos 7 devs que hace casi 10 años tienen cuenta en Uruguay, nunca dejaron de tributar en Argentina un cierto monto acorde a sus gastos, nunca tuvieron cruzamiento de datos
+consulte diferentes contadores a lo largo de los ultimos 10 años, siempre coincidieron que en la practica AFIP solicita datos (desde que pueda hacerlo) a Uruguay en caso de investigacion por presunta evasion
+solo paso esta info porque es lo que veo en la realidad, que ojo, puede no ser la norma, pero las alertas que AFIP maneja son para contabilidades desprolijas (pude hacer contacto con gente trabajando en AFIP un par de veces)
+11:10:31 - Mariano Ramonda (@ing.inf.mariano):
+no animo a nadie a ir a Uruguay, solo comparto lo que conozco por experiencia
+11:10:52 - Marcos Casagrande (@marcoscvp90):
+Que necesitás para abrir cuenta en Uruguay, pasaporte solo?
+11:11:09 - Mariano Ramonda (@ing.inf.mariano):
+difiere segun el banco
+11:11:52 - Mariano Ramonda (@ing.inf.mariano):
+a mi en BBVA de Paysandu me pidio DNI, un deposito de algunos miles de dolares, y no recuerdo bien, pero algunos papeles extra basicos (algo asi como para corroborar domicilio)
+11:12:48 - Mariano Ramonda (@ing.inf.mariano):
+escuche que hay un banco venezolano con sede en Uruguay que esta complicandole la movida a los que tienen cuenta ahi para estos manejes, no se muchos mas detalles, pero evitaria un banco asi simplemente porque esta en una situacion diferente a los demas
+11:14:19 - Mariano Ramonda (@ing.inf.mariano):
+disclaimer, actualmente me manejo solo con Banco Nacion, pero tuve cuenta en Uruguay por muchos años, a muy poca honra, pero lo que me saqueaban en la epoca del cepo cambiario era ridiculo
+11:14:47 - Mariano Ramonda (@ing.inf.mariano):
+entiendo fuertemente a quienes dicen: cobrame impuestos acordes y los pago con gusto
+11:15:06 - Mariano Ramonda (@ing.inf.mariano):
+aca en Arg a mi me mataron desde que trabajo
+11:20:41 - Alejandro Nagy (@nagy.alejandro):
+Si, está bien. Yo no digo que automaticamente así como depositaste 1$ te cae la AFIP en tu casa
+11:21:05 - Alejandro Nagy (@nagy.alejandro):
+solo digo que no vendan la falsa seguridad de “pone la guita en Uruguay que no pasa nada”, porque no es así :stuck_out_tongue:
+11:22:09 - Mariano Ramonda (@ing.inf.mariano):
+no, asi sea en Uruguay, o internamente en Argentina, lo que siempre hay que hacer es mantener la "prolijidad contable"
+11:22:17 - Mariano Ramonda (@ing.inf.mariano):
+sino, siempre vas a ser blanco para AFIP
+11:22:43 - Alejandro Nagy (@nagy.alejandro):
+a mi lo que si me dijeron es, una vez que te hicieron 1 auditoría ya sos blanco fijo
+11:23:01 - Mariano Ramonda (@ing.inf.mariano):
+tiene mucho sentido
+14:35:01 - Nicolas Taboada (@ntaboada93):
+dentro de mantener projlijidad contable tambien entra declarar menos de lo que realmente ganas? :stuck_out_tongue:
+14:35:51 - Nicolas Taboada (@ntaboada93):
+es viable cliente afuera --&gt; cuenta usa  --&gt; emitir facturas por menos plata --&gt; mover esa plata a tu cuenta de aca
+14:39:28 - Mariano Montero (@etmaro):
+mira no se como la vas a traer
+14:40:16 - Mariano Montero (@etmaro):
+Pero si te haces una transferencia a tu cuenta en argentina la afip se entera al toque, el banco le informa el que envia la orden de pago internacional.
+14:41:24 - Nico (@nicokorn96):
+por transferwise
+14:41:26 - Nico (@nicokorn96):
+talvez
+14:41:34 - Nico (@nicokorn96):
+o nunca la traes
+14:41:38 - Nico (@nicokorn96):
+la dejas afuera
+14:41:43 - Nico (@nicokorn96):
+y viajas y la traes cash
+14:41:48 - Mariano Montero (@etmaro):
+no se como opera bien transferwise
+14:42:07 - Nico (@nicokorn96):
+como una persona inteligente, deja la plata afuera
+14:42:09 - Mariano Montero (@etmaro):
+obvio que ahi tenes el problema que estas 100% en negro, no podes usar tarjetas, etc
+14:42:20 - Nico (@nicokorn96):
+"""negro""
+14:42:22 - Nicolas Taboada (@ntaboada93):
+no estoy diciendo no declarar nada
+14:42:25 - Nico (@nicokorn96):
+afuera de la afip
+14:42:26 - Nicolas Taboada (@ntaboada93):
+estoy diciendo declarar menos
+14:42:29 - Nico (@nicokorn96):
+no es negro
+14:42:40 - Mariano Montero (@etmaro):
+no, ya se, lo decia por lo que dice Nico
+14:43:00 - Nico (@nicokorn96):
+para mi lejos de la afip no es en negro
+14:43:06 - Mariano Montero (@etmaro):
+decilo como quieras, no estas pagando los impuestos
+14:43:20 - Mariano Montero (@etmaro):
+yo no los pago en su totalidad pero es la verdad
+14:43:22 - Nico (@nicokorn96):
+:man-shrugging:
+14:43:43 - Nico (@nicokorn96):
+todos hacemos lo mismo, tratamos de evadirlos lo maximo posible
+14:44:24 - Mariano Montero (@etmaro):
+Es todo una decision, podes evadir todo. Anda a comprar un bien registrable despues.
+14:44:32 - Nicolas Taboada (@ntaboada93):
+mi idea
+14:44:33 - Nicolas Taboada (@ntaboada93):
+de aca a 2 año
+14:44:38 - Nicolas Taboada (@ntaboada93):
+es irme afuera a vivir
+14:44:41 - Nicolas Taboada (@ntaboada93):
+y ya cai en RI
+14:44:46 - Nico (@nicokorn96):
+somo 2
+14:44:52 - Nicolas Taboada (@ntaboada93):
+y que se me vaya casi un 30% En impuestos…
+14:44:59 - Nicolas Taboada (@ntaboada93):
+y no es que estamos en dinamarca
+14:45:03 - Nicolas Taboada (@ntaboada93):
+que anda todo barbaro
+14:45:06 - Nicolas Taboada (@ntaboada93):
+ahi te los pago encantado
+14:45:11 - Rodrigo Ali (@rodrigojali):
+Esto por ahí va más en <#CHNL3EA4R|finanzas-y-legales>  :slightly_smiling_face:
+14:45:21 - Rodrigo Ali (@rodrigojali):
+Se habla mucho de este tema ahi
+14:45:38 - Nico (@nicokorn96):
+tenes razon
+14:45:39 - Mariano Montero (@etmaro):
+pero hdp, estas 24hs al dia derivando conversaciones ajajjajaja
+14:45:55 - Rodrigo Ali (@rodrigojali):
+Es mi laburo
+14:46:01 - Rodrigo Ali (@rodrigojali):
+...o no
+14:46:04 - Nico (@nicokorn96):
+cobra comision
+14:46:10 - Rodrigo Ali (@rodrigojali):
+Oh, sería tan lindo.
+14:46:16 - Mariano Montero (@etmaro):
+si no te pagan te estan cagando
+14:47:39 - Pablo Miceli (@pablomiceli24):
+si no te gusta... <#C6PJH6JP3|rant> (?
+14:48:24 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+un segundo te hablan de evadir impuestos y al siguiente "deberias cobrar comision"
+14:49:04 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+creo que con la intencion de evadirla tambien
+15:13:09 - Mariano Ramonda (@ing.inf.mariano):
+que tal si yo digo que gano X por mes trabajando para el exterior, lo declaro y supongamos que con un monotributo me alcanza, pero en realidad genero 2 X, y te digo pero el 2do X es un "monto  no remunerativo", como bien hace nuestro gobierno con sus empleados?
+mi vieja tenia hace mucho un trabajo de medio tiempo para un gremio docente como administrativa, al mismo tiempo que el gremio "luchaba" contra los montos no remunerativos (en criollo: en negro), el mismo gremio le pagaba TODO como "no remunerativo"
+entendamos donde estamos parados colegas
+15:16:41 - Ale Miralles (@amiralles):
+Mil veces cite casos parecidos. Es asi...
+15:29:04 - Mariano Montero (@etmaro):
+La argentina es inviable. La carga impositiva es insostenible, por eso muchos evaden y te empuja a emigrar. Lo que decia es podes estar en contra de un impuesto pero evadirlo no deja de ser ilegal. Hay que tenerlo en cuenta.
+15:30:05 - Mariano Montero (@etmaro):
+Para que te des una idea facture en la argentina en pesos, compre dolares. Luego esos dolares los retire de mi cuenta porque flashe una corrida que nunca ocurrio (le paso a muchos el año pasado).
+15:30:44 - Mariano Montero (@etmaro):
+Volvi a depositar los mismos dolares yo mismo por ventanilla. Arba me aplico una retencion.
+15:31:26 - Mariano Montero (@etmaro):
+Los llamo y le comento la situacion y me dicen que es correcta. Parece que te penalizan por estar bancarizado.
+15:32:24 - Mariano Montero (@etmaro):
+Si no tuvieras cuenta bancaria nunca te podrian retener y pagas solo la alicuota que te corresponde y no como ahora que de cualqueir transferencia te sacan un %, aunque sea que un amigo te dio su parte de un asado.
+15:33:35 - Marcos Casagrande (@marcoscvp90):
+Esto es lo peor, le tuve que pedir a mis amigos que me dejen de transferir 100-600$ porque los hijos de puta de Arba me retenian
+15:34:06 - Luis Alvarez (@luistensai):
+SIRCREB?
+15:34:24 - Luis Alvarez (@luistensai):
+si es así, es por no tener bien declarados los IIBB
+15:34:28 - Ezequiel Leites (@leites25):
+Lo peor es que si vas a reclamar a Arba plata que no te tendrian que retener, te dan vueltas hasta que te la devuelven, ni siquiera te la toman a cuenta de impuestos :man-shrugging:
+15:34:36 - Juan Stiza (@juanstiza):
+Acá el gobierno chileno tuvo la maravillosa idea de cobrarte jubilación y salud de la devolucion de impuestos.
+15:34:53 - Luis Alvarez (@luistensai):
+se arregla presentando la declaración de IIBB
+15:34:57 - Adrián Velasco (@adrivelasco1506):
+¿Esto es real? Justo le pregunté a un amigo porque tengo varios ahorros en dólares y en efectivo (menos de 10K igual) y quiero volver a depositarlos pero tengo miedo que me pidan justificarlos o algo
+15:35:02 - Luis Alvarez (@luistensai):
+me pasó por mucho tiempo hasta que una contadora me lo solucionó
+15:36:23 - Luis Alvarez (@luistensai):
+lo más cómico es que tenía otro contador, pero el muy hdp no me hacía la presentación mensualmente, más allá de eso, hay que presentarla incluso si lo que hay que pagar por IIBB son 0 (por exportación de servicios en CABA/BA por ejemplo)
+15:36:34 - Marcos Casagrande (@marcoscvp90):
+Pero no corresponde pagar un contador, horas de trámites etc etv
+15:36:47 - Luis Alvarez (@luistensai):
+si sabés hacerlo bien, lo podés hacer
+15:36:59 - Marcos Casagrande (@marcoscvp90):
+A mi me sacaron 13000$ en total. Ir a reclamarlos es una pérdida de tiempo ya.
+15:37:05 - Luis Alvarez (@luistensai):
+son obligaciones :man-shrugging:
+15:37:08 - Ezequiel Leites (@leites25):
+Juegan con eso
+15:37:13 - Ezequiel Leites (@leites25):
+Que te joda mas ir a romper las bolas que cobrarlos
+15:37:14 - Luis Alvarez (@luistensai):
+sí, a mi me sacaron más incluso
+15:37:22 - Marcos Casagrande (@marcoscvp90):
+No tienen que sacarte en primer lugar, no es obligaciones.
+15:37:55 - Marcos Casagrande (@marcoscvp90):
+Te robo 200 dolares, podes venir a buscarlos después de comerte horas de cola. Es un robo y son unos hijos de puta.
+15:38:04 - Luis Alvarez (@luistensai):
+son obligaciones impositivas, como que no?
+15:38:11 - Luis Alvarez (@luistensai):
+que no sean justas es otra cosa
+15:38:25 - Ezequiel Leites (@leites25):
+Pero hay veces que te sacan 2 veces sobre lo mismo
+15:38:27 - Ezequiel Leites (@leites25):
+Eso es lo que mas jode
+15:38:35 - Marcos Casagrande (@marcoscvp90):
+Que obligación tenés? Me descontaba del reintegro del iva de la banco.
+15:38:39 - Marcos Casagrande (@marcoscvp90):
+Obligación de que?
+15:39:17 - Marcos Casagrande (@marcoscvp90):
+Pague impuestos sobre el ingreso que hice, me hacen una devolución de algo que ya pagué, te vuelven a sacar? De que obligación hablas ahí Luis?
+15:39:35 - Marcos Casagrande (@marcoscvp90):
+País inviable.
+15:39:56 - Mariano Ramonda (@ing.inf.mariano):
+Con los bancos es igual, o tarjetas de crédito, cualquier error de ellos Renés que esperar a que se decidan reintegrarte, y olvídate que te paguen intereses devengados. Ahora vos te atrasaste y pagas intereses, todo muy bananero
+15:40:05 - Luis Alvarez (@luistensai):
+es la ley impositiva vigente, es lamentable, pero es la que tenemos
+15:40:20 - Luis Alvarez (@luistensai):
+como ciudadanos tenemos que cumplirla
+15:40:34 - Marcos Casagrande (@marcoscvp90):
+Yo no voy a cumplir algo que es un robo.
+15:41:41 - Marcos Casagrande (@marcoscvp90):
+La ley Argentina no sirve. Mira los corruptos presentándose a cargos políticos. Una candidata a vicepresidente chorra. Que ley?
+15:42:22 - Marcos Casagrande (@marcoscvp90):
+País bananero y ridículo, lo mejor, es negrear todo lo que puedas en este país, al que paga impuestos, lo cagan.
+15:43:02 - Luis Alvarez (@luistensai):
+sí, no digo que sea justa, es más estoy seguro que las empresas más grandes son las que menos impuestos pagan de una forma u otra
+15:44:10 - Luis Alvarez (@luistensai):
+hay dinosaurios que nos legislan y nos gobiernan
+15:44:17 - Luis Alvarez (@luistensai):
+pero cómo hacés para cambiar el sistema?
+15:45:55 - Marcos Casagrande (@marcoscvp90):
+Nosotros no podemos hacer nada, salvo no votar peronistas y esperar que en algún momento cambie.
+15:46:14 - Mariano Ramonda (@ing.inf.mariano):
+mientras cambie y no cambiemos
+15:46:22 - Luis Alvarez (@luistensai):
+o te metés al sistema y lo cambias desde adentro (?)
+15:46:44 - Marcos Casagrande (@marcoscvp90):
+Se envió al canal sin querer, pero bueno, lo único que podemos hacer, es estar en negro para que no te saquen lo que no corresponde.
+15:46:54 - Marcos Casagrande (@marcoscvp90):
+Esa es la tristeza de este país.
+15:47:08 - Mariano Ramonda (@ing.inf.mariano):
+vivimos en la condena del 3er mundo, ya es cultural la cuestion
+15:47:44 - Luis Alvarez (@luistensai):
+lamentablemente es la via que todos agarramos jaja
+16:01:57 - Mariano Montero (@etmaro):
+Justificacion decis que son los mismos que sacaste. Si estas en Ingresos Brutos de Arba llama y pregunta por las retenciones. O busca padron de retenciones que te dice si estas en el padron y con que porcentaje.
+16:04:13 - Mariano Montero (@etmaro):
+En teoria podes recuperar la guita. Si solo vas a exportar servicios directamente hay que darse de baja de IIBB, esto me lo dijo el de 0800 de arba. Me dijo si queres quedate pero vas a tener las retenciones.
+16:04:57 - Mariano Montero (@etmaro):
+Las retenciones no discriminan. Son una mierda. Es una presuncion de evasion.
+16:07:46 - Luis Alvarez (@luistensai):
+lo que pasa es que tenés que presentarlas en 0 por más que no tengas, eso es lo que me dijo la contadora
+16:07:55 - Luis Alvarez (@luistensai):
+para que no te retenga SIRCREB
+16:08:16 - Luis Alvarez (@luistensai):
+si sos exportador, podés hacer el reclamo y te la devuelven, pero es un quilombo y lleva tiempo
+16:16:27 - Mariano Montero (@etmaro):
+mira, ahora solo voy a exportar y nada de facturar de manera local. Averigue, lei la ley y muchos foros donde muchos decian cosas sin saber y a veces los asesoraban mal. En ARBA me dijero que si no vas a facturar localmente te podes dar de baja. No hay problema. Si haces un mix ahi es otra cosa.
+16:17:21 - Alejandro Nagy (@nagy.alejandro):
+vengan a <#CHNL3EA4R|finanzas-y-legales> que estamos hablando del tema justamente, y no le agitamos el canal a <@UFFG5EPGU>
