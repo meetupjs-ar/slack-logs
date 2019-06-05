@@ -1,0 +1,116 @@
+10:13:24 - Pablo Ariel Bilevich (@pablobvch):
+Buen día chicos, alguna opinión de este libro? ´´´<https://www.fullstackreact.com/´´´> no estoy seguro, pero creo que se ha hablado de esto antes.
+10:19:42 - Jorge Cano (@jorgeucano):
+me gusto la tapa
+10:19:45 - Jorge Cano (@jorgeucano):
+media ochentera
+10:19:56 - Jorge Cano (@jorgeucano):
+conozco a la gente de <http://fullstack.io|fullstack.io> desde hace mucho hacen libros :stuck_out_tongue:
+10:20:08 - Jorge Cano (@jorgeucano):
+ahora sobre ese libro no te puedo decir mucho mas xD que la tapa esta copada
+10:21:43 - Pablo Ariel Bilevich (@pablobvch):
+me convenciste Jorge... voy por esa :stuck_out_tongue:
+10:21:47 - Jorge Cano (@jorgeucano):
+ajajajajja
+10:21:53 - Jorge Cano (@jorgeucano):
+espero que no sea una cagada xD
+10:21:56 - Jorge Cano (@jorgeucano):
+igual mira bien el temario
+10:22:01 - Jorge Cano (@jorgeucano):
+a ver si te sirve
+10:22:05 - Jorge Cano (@jorgeucano):
+no se que TAN metido estas en react
+10:23:40 - Pablo Ariel Bilevich (@pablobvch):
+Esta unos 40usd con acceso a contenido actualizado. Aun no hay mucho de React Hooks. raro eso. Estoy entre eso o membresia anual en <http://egghead.io|egghead.io> con contenido adicional, no solo de React.
+10:23:59 - Jorge Cano (@jorgeucano):
+a mi egghead me gusta bastante
+10:24:14 - Jorge Cano (@jorgeucano):
+y <https://thinkster.io/> que cambio de dueño
+10:24:18 - Jorge Cano (@jorgeucano):
+y ahora esta metiendose full time en esto
+10:24:47 - Jorge Cano (@jorgeucano):
+y tiene One Day Introduction to React with Kent C. Dodds
+10:25:01 - Jorge Cano (@jorgeucano):
+que supongo que es uno de los mejores en react enseñando
+11:19:49 - Gonza Gluzman (@gonza):
+Yo estoy!
+11:21:21 - Hernan Rajchert (@sherman):
+:raised_hands:
+11:54:33 - Eduardo (@em.nietomontoya):
+Hola a todos, soy nuevo en el grupo. una pregunta para saber, cuanto es lo sueldo minimo que pueda pedir un Ssr?
+11:58:48 - Marcos Casagrande (@marcoscvp90):
+Va a depender de muchas cosas, tecnologías que manejes, provincia, años de experiencia, etc.
+11:59:00 - Brian Hume (@brianh20):
+sobre lo del libro de fullstack react yo lo lei, se consigue y lo lei antes de ir a mi primer entrevista de react y quede
+11:59:19 - Brian Hume (@brianh20):
+es una conversacion infinita
+11:59:25 - Marcos Casagrande (@marcoscvp90):
+Pero como *mínimo* diría 40k neto. Calculo que la media en CABA está entre 45-50k para un SSR, por lo que veo en ofertas y me comentan mis amigos.
+12:01:19 - Sebastian Waisbrot (@seppo0010):
+quizás esto te pueda orientar <https://seppo0010.github.io/sysarmy-sueldos/>
+12:01:46 - Sebastian Waisbrot (@seppo0010):
+son datos de enero
+12:01:52 - Sebastian Waisbrot (@seppo0010):
+sumale un... ¿20%?
+12:08:50 - Mariano Montero (@etmaro):
+Eduardo te recomiendo que preguntes en <#C54TWDKN1|experiencia-laboral>
+13:43:40 - Eduardo (@em.nietomontoya):
+Gracias por la info,  es para tener una idea porque en mi trabajo ya me siento estacando y necesito mas experiencia
+10:13:24 - Pablo Ariel Bilevich (@pablobvch):
+Buen día chicos, alguna opinión de este libro? ´´´<https://www.fullstackreact.com/´´´> no estoy seguro, pero creo que se ha hablado de esto antes.
+10:19:42 - Jorge Cano (@jorgeucano):
+me gusto la tapa
+10:19:45 - Jorge Cano (@jorgeucano):
+media ochentera
+10:19:56 - Jorge Cano (@jorgeucano):
+conozco a la gente de <http://fullstack.io|fullstack.io> desde hace mucho hacen libros :stuck_out_tongue:
+10:20:08 - Jorge Cano (@jorgeucano):
+ahora sobre ese libro no te puedo decir mucho mas xD que la tapa esta copada
+10:21:43 - Pablo Ariel Bilevich (@pablobvch):
+me convenciste Jorge... voy por esa :stuck_out_tongue:
+10:21:47 - Jorge Cano (@jorgeucano):
+ajajajajja
+10:21:53 - Jorge Cano (@jorgeucano):
+espero que no sea una cagada xD
+10:21:56 - Jorge Cano (@jorgeucano):
+igual mira bien el temario
+10:22:01 - Jorge Cano (@jorgeucano):
+a ver si te sirve
+10:22:05 - Jorge Cano (@jorgeucano):
+no se que TAN metido estas en react
+10:23:40 - Pablo Ariel Bilevich (@pablobvch):
+Esta unos 40usd con acceso a contenido actualizado. Aun no hay mucho de React Hooks. raro eso. Estoy entre eso o membresia anual en <http://egghead.io|egghead.io> con contenido adicional, no solo de React.
+10:23:59 - Jorge Cano (@jorgeucano):
+a mi egghead me gusta bastante
+10:24:14 - Jorge Cano (@jorgeucano):
+y <https://thinkster.io/> que cambio de dueño
+10:24:18 - Jorge Cano (@jorgeucano):
+y ahora esta metiendose full time en esto
+10:24:47 - Jorge Cano (@jorgeucano):
+y tiene One Day Introduction to React with Kent C. Dodds
+10:25:01 - Jorge Cano (@jorgeucano):
+que supongo que es uno de los mejores en react enseñando
+11:19:49 - Gonza Gluzman (@gonza):
+Yo estoy!
+11:21:21 - Hernan Rajchert (@sherman):
+:raised_hands:
+11:54:33 - Eduardo (@em.nietomontoya):
+Hola a todos, soy nuevo en el grupo. una pregunta para saber, cuanto es lo sueldo minimo que pueda pedir un Ssr?
+11:58:48 - Marcos Casagrande (@marcoscvp90):
+Va a depender de muchas cosas, tecnologías que manejes, provincia, años de experiencia, etc.
+11:59:00 - Brian Hume (@brianh20):
+sobre lo del libro de fullstack react yo lo lei, se consigue y lo lei antes de ir a mi primer entrevista de react y quede
+11:59:19 - Brian Hume (@brianh20):
+es una conversacion infinita
+11:59:25 - Marcos Casagrande (@marcoscvp90):
+Pero como *mínimo* diría 40k neto. Calculo que la media en CABA está entre 45-50k para un SSR, por lo que veo en ofertas y me comentan mis amigos.
+12:01:19 - Sebastian Waisbrot (@seppo0010):
+quizás esto te pueda orientar <https://seppo0010.github.io/sysarmy-sueldos/>
+12:01:46 - Sebastian Waisbrot (@seppo0010):
+son datos de enero
+12:01:52 - Sebastian Waisbrot (@seppo0010):
+sumale un... ¿20%?
+12:08:50 - Mariano Montero (@etmaro):
+Eduardo te recomiendo que preguntes en <#C54TWDKN1|experiencia-laboral>
+13:43:40 - Eduardo (@em.nietomontoya):
+Gracias por la info,  es para tener una idea porque en mi trabajo ya me siento estacando y necesito mas experiencia
