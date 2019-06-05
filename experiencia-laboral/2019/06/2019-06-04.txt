@@ -1,0 +1,282 @@
+21:08:36 - Federico A. Sawady O'Connor (@sawady.faso):
+es muy poco entre 65 y 70k anuales en Munich para senior software engineer no?
+21:09:16 - Federico A. Sawady O'Connor (@sawady.faso):
+porque yo suponía que sí pero veo que el average es ese cuando me pongo a googlear
+21:15:29 - Marcos Casagrande (@marcoscvp90):
+No me parece poco definitivamente. Tampoco es muchísimo, pero esta bien
+21:24:09 - Marcos Casagrande (@marcoscvp90):
+Igual si es neto, si es bruto no se en cuanto queda, porque ni idea los impuestos de Alemania
+21:38:29 - Federico A. Sawady O'Connor (@sawady.faso):
+es bruto
+21:46:08 - Julian (@jantonielli01):
+<https://www.bbx.de/grossnet-wage-calculator-germany/>
+21:46:28 - Julian (@jantonielli01):
+es bastante barato alemania igual (comparado con otros de europa)
+21:47:47 - Federico A. Sawady O'Connor (@sawady.faso):
+posta? entendía que todo lo contrario
+21:48:38 - Julian (@jantonielli01):
+los dias que estuve ahí me parecio barato, en cosas como comida definitivamente
+21:48:46 - Julian (@jantonielli01):
+vs francia/uk
+21:49:24 - Julian (@jantonielli01):
+podes pregutarle más a <@U0TFEHWEA> y <@U4MSULB2R>
+01:26:58 - Rodrigo Juarez (@rjuarez):
+HHmm tengo entendido que Munich es bastante caro. Para Berlín está más que bien, pero para Munich mepa que no. Te diría que te fijes acá: <https://immobilienscout24.de>
+y compares los precios de dpto, que es lo que más guita se lleva
+03:06:17 - Martín Valdés de León (@mvaldesdeleon):
+70k seria el promedio. no es mala guita, son tipo 3300 en mano.
+03:06:50 - Martín Valdés de León (@mvaldesdeleon):
+si te da podes tirarte a mas. 80 seria mas lindo. 90 es still doable. 100 ya es el rango superior.
+03:07:15 - Martín Valdés de León (@mvaldesdeleon):
+si queres mas de 100 como engineer tenes que ir a una empresa que particularmente pague bien.
+03:08:34 - Martín Valdés de León (@mvaldesdeleon):
+Fijate los alquileres como dice Rodrigo. Si conseguis algo con costo final ~ 1/3 de tu sueldo en mano estas bien.
+03:09:34 - Martín Valdés de León (@mvaldesdeleon):
+Cuando mires alquileres, "Kaltmiete" es el precio tramoya. Tenes que sumarle Nebenkosten/Heizkosten (que serian los costos compartidos del dpto + calefaccion)
+03:11:07 - Martín Valdés de León (@mvaldesdeleon):
+"frio" 1600, costos adicionales 250. costos de calefaccion: incluido en el adicional. total: 1850 (x ej)
+03:48:08 - Rodrigo Juarez (@rjuarez):
+PD: si vas a buscar, busca como München (<https://www.immobilienscout24.de/Suche/S-T/Wohnung-Miete/Bayern/Muenchen-Kreis?enteredFrom=one_step_search>). Recomendaría también que busques algo cerca a la oficina donde vas a laburar, para que tengas idea del precio por area / barrio. En Berlín si estas en un barrio copado vas a pagar 900~ por 40/50mts2, por esa misma plata o un poquito más conseguís el doble de espacio en otros barrios
+10:11:28 - Julian (@jantonielli01):
+Alguno sabe cuanto paga ML hoy para un junior 
+10:11:33 - Julian (@jantonielli01):
+Part time?
+21:08:36 - Federico A. Sawady O'Connor (@sawady.faso):
+es muy poco entre 65 y 70k anuales en Munich para senior software engineer no?
+21:09:16 - Federico A. Sawady O'Connor (@sawady.faso):
+porque yo suponía que sí pero veo que el average es ese cuando me pongo a googlear
+21:15:29 - Marcos Casagrande (@marcoscvp90):
+No me parece poco definitivamente. Tampoco es muchísimo, pero esta bien
+21:24:09 - Marcos Casagrande (@marcoscvp90):
+Igual si es neto, si es bruto no se en cuanto queda, porque ni idea los impuestos de Alemania
+21:38:29 - Federico A. Sawady O'Connor (@sawady.faso):
+es bruto
+21:46:08 - Julian (@jantonielli01):
+<https://www.bbx.de/grossnet-wage-calculator-germany/>
+21:46:28 - Julian (@jantonielli01):
+es bastante barato alemania igual (comparado con otros de europa)
+21:47:47 - Federico A. Sawady O'Connor (@sawady.faso):
+posta? entendía que todo lo contrario
+21:48:38 - Julian (@jantonielli01):
+los dias que estuve ahí me parecio barato, en cosas como comida definitivamente
+21:48:46 - Julian (@jantonielli01):
+vs francia/uk
+21:49:24 - Julian (@jantonielli01):
+podes pregutarle más a <@U0TFEHWEA> y <@U4MSULB2R>
+01:26:58 - Rodrigo Juarez (@rjuarez):
+HHmm tengo entendido que Munich es bastante caro. Para Berlín está más que bien, pero para Munich mepa que no. Te diría que te fijes acá: <https://immobilienscout24.de>
+y compares los precios de dpto, que es lo que más guita se lleva
+03:06:17 - Martín Valdés de León (@mvaldesdeleon):
+70k seria el promedio. no es mala guita, son tipo 3300 en mano.
+03:06:50 - Martín Valdés de León (@mvaldesdeleon):
+si te da podes tirarte a mas. 80 seria mas lindo. 90 es still doable. 100 ya es el rango superior.
+03:07:15 - Martín Valdés de León (@mvaldesdeleon):
+si queres mas de 100 como engineer tenes que ir a una empresa que particularmente pague bien.
+03:08:34 - Martín Valdés de León (@mvaldesdeleon):
+Fijate los alquileres como dice Rodrigo. Si conseguis algo con costo final ~ 1/3 de tu sueldo en mano estas bien.
+03:09:34 - Martín Valdés de León (@mvaldesdeleon):
+Cuando mires alquileres, "Kaltmiete" es el precio tramoya. Tenes que sumarle Nebenkosten/Heizkosten (que serian los costos compartidos del dpto + calefaccion)
+03:11:07 - Martín Valdés de León (@mvaldesdeleon):
+"frio" 1600, costos adicionales 250. costos de calefaccion: incluido en el adicional. total: 1850 (x ej)
+03:48:08 - Rodrigo Juarez (@rjuarez):
+PD: si vas a buscar, busca como München (<https://www.immobilienscout24.de/Suche/S-T/Wohnung-Miete/Bayern/Muenchen-Kreis?enteredFrom=one_step_search>). Recomendaría también que busques algo cerca a la oficina donde vas a laburar, para que tengas idea del precio por area / barrio. En Berlín si estas en un barrio copado vas a pagar 900~ por 40/50mts2, por esa misma plata o un poquito más conseguís el doble de espacio en otros barrios
+10:11:28 - Julian (@jantonielli01):
+Alguno sabe cuanto paga ML hoy para un junior 
+10:11:33 - Julian (@jantonielli01):
+Part time?
+10:21:57 - Aldo Sorbara (@aldo1891):
+hay jrs part time ? <@U7MP5R4MC>
+10:23:31 - Aldo Sorbara (@aldo1891):
+Antes habia porque venian de la escuelita, ahora de ahi salen "analistas" (seria un JR avanzado)
+10:25:21 - Rodrigo Ali (@rodrigojali):
+Si, pero suelen contratarlos como PPP
+10:25:26 - Rodrigo Ali (@rodrigojali):
+Al menos en Córdoba
+10:26:00 - Rodrigo Ali (@rodrigojali):
+También hay algunas (pocas) empresas que contratan alumnos de la UTN y les ofrecen part time por $2 para que no dejen el estudio
+10:26:38 - Rodrigo Ali (@rodrigojali):
+A esos les suelen ofrecer, hoy, entre $6k~$8k neto. A los del PPP les ofrecen ~$12k neto. Todo esto hablando de Córdoba.
+10:29:45 - Julian (@jantonielli01):
+Me dijeron que si, le dijeron 30 hs, y que le podían negociar 25
+10:30:37 - Julian (@jantonielli01):
+A ver qué es PPP
+10:32:06 - Aldo Sorbara (@aldo1891):
+Part Time Programmer ?
+10:32:30 - Pablo Miceli (@pablomiceli24):
+Practica Profesional Puré
+10:33:35 - Rodrigo Ali (@rodrigojali):
+Plan Primer Paso
+10:33:46 - Rodrigo Ali (@rodrigojali):
+25k por 30hs no me parece mal para Jr part-time TBH
+10:34:27 - Jorge Cano (@jorgeucano):
+30 horas mensuales?
+10:34:45 - Jorge Cano (@jorgeucano):
+nop, es imposible eso xD
+10:34:49 - Jorge Cano (@jorgeucano):
+30 horas semanales es mas que part time
+10:34:56 - Jorge Cano (@jorgeucano):
+part time serian 20 horas semanales
+10:35:41 - Rodrigo Juarez (@rjuarez):
+creo que le siguen diciendo part time por más que sean 6hs por día
+10:35:47 - Rodrigo Juarez (@rjuarez):
+no?
+10:36:19 - Jorge Cano (@jorgeucano):
+yo cuando trabajaba part time eran 4 horas diarias
+10:36:22 - Aldo Sorbara (@aldo1891):
+part time puede ser 4 o 6 hs
+10:37:46 - Rodrigo Ali (@rodrigojali):
+Claro, part time es "no full time" acá en Arg por lo visto :stuck_out_tongue:
+10:38:15 - Rodrigo Ali (@rodrigojali):
+Entonces si laburás cualquier cosa entre 10 &gt;= X &lt; 40 horas semanales, sos part time
+10:43:19 - Federico A. Sawady O'Connor (@sawady.faso):
+les había dicho 100 al principio, luego la recruiter me dijo que más de 75k no me iba a pagar, y ahora me lo bajaron a 70k como máximo, porque el rango de los devs está entre 65 y 70
+10:45:30 - Aldo Gabriel Rojas (@aldogrojas5):
+Y de esos laburos part time hay lugares para buscar? Alguien tiene idea si en Rosario hay laburitos así?
+10:46:22 - Rodrigo Ali (@rodrigojali):
+Siempre podés tirar en la entrevista si aceptan gente Part-Time, en empresas grandes es re negociable eso, siempre.
+10:51:46 - Aldo Gabriel Rojas (@aldogrojas5):
+Decís de mandar email con mi cv y pedir q me tire. Un huesito?
+10:52:05 - Julian (@jantonielli01):
+Acá le dicen part time a 30hs desde el ‘95
+10:52:11 - Aldo Gabriel Rojas (@aldogrojas5):
+*tiren un huesito
+10:52:51 - Julian (@jantonielli01):
+Anyway, a mi me habían ofrecido 22k hace más de 2 años por part time 
+10:52:55 - Aldo Gabriel Rojas (@aldogrojas5):
+30hs semanales es casi casi q fulltime
+10:52:57 - Julian (@jantonielli01):
+25 me parece medio poco 
+10:53:47 - Aldo Gabriel Rojas (@aldogrojas5):
+Hace un par de años eras jr?
+10:53:58 - Aldo Sorbara (@aldo1891):
+si, recien preguntee y me dijeron 25 brutos
+10:54:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Perdon la ignorancia... soy monotributista de toda la vida... 25 brutos serían en mano?
+10:54:40 - Aldo Gabriel Rojas (@aldogrojas5):
+O brutos es sin los descuentos?
+10:55:04 - Aldo Gabriel Rojas (@aldogrojas5):
+Sisi, ya se que el bruto soy yo por preguntar eso :joy:
+10:55:14 - Damian Diaz (@damianmdst):
+Neto = Plata en mano.
+10:55:20 - Damian Diaz (@damianmdst):
+25 brutos te quedan 21/22 en mano aprox
+10:55:29 - Rodrigo Ali (@rodrigojali):
+Claro, es clave la pregunta de Aldo. Si hace un par de años eras Jr y te ofrecieron eso como part-time, tiene sentido.
+10:56:19 - Jorge Cano (@jorgeucano):
+como Sr podes agarrar varios part time jr y haces mas guita (?)
+10:56:26 - Jorge Cano (@jorgeucano):
+poenele que agarras 10 part time jr
+10:56:32 - Jorge Cano (@jorgeucano):
+y laburas unas6 horas diarias
+10:56:34 - Jorge Cano (@jorgeucano):
+en los 10 proyectos
+10:56:35 - Jorge Cano (@jorgeucano):
+:thinking_face:
+10:56:39 - Jorge Cano (@jorgeucano):
+ganas mas guita?
+10:56:59 - Jorge Cano (@jorgeucano):
+10 * 25000 =&gt; 250000
+10:57:41 - Aldo Gabriel Rojas (@aldogrojas5):
+Jajaja pasa q tenes q estar en 10 lugares a la vez... o comprarte un delorean como el de marty mcfly y hacer un dia de 68hs... (8 mas para dormir)
+10:57:48 - Jorge Cano (@jorgeucano):
+nono seria
+10:57:50 - Jorge Cano (@jorgeucano):
+en tu casa
+10:58:05 - Aldo Gabriel Rojas (@aldogrojas5):
+Jr desde la casa no creo q exista... o si?
+10:58:16 - Jorge Cano (@jorgeucano):
+ni idea
+10:58:20 - Jorge Cano (@jorgeucano):
+igual es una locura xD
+10:58:43 - Jorge Cano (@jorgeucano):
+pero podrias trabajar prometo 40 minutos en cada uno (deberias ser increiblemtne productivo en esos 40 minutos) para superar 6 horas
+10:58:45 - Jorge Cano (@jorgeucano):
+nono… es imposible
+10:58:46 - Jorge Cano (@jorgeucano):
+inviable
+10:58:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Yo lo veo mas como q la empresa te paga para capacitarte pq invierte en vos esperando algo a mediano plazo
+10:59:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Con el delorean no
+10:59:51 - Jorge Cano (@jorgeucano):
+hajjajaj estan caros :stuck_out_tongue: y deberias importarlo… son demasiados impuestos
+10:59:59 - Aldo Gabriel Rojas (@aldogrojas5):
+Jajajajajaj
+11:00:05 - Jorge Cano (@jorgeucano):
+y para eso agarras 10 laburos full time como Sr
+11:00:10 - Jorge Cano (@jorgeucano):
+en un año laburaste lo que 10
+11:00:14 - Jorge Cano (@jorgeucano):
+sos 10 años mas viejo
+11:00:22 - Jorge Cano (@jorgeucano):
+pero podrias llegar a invertir en muchos condominios y no laburar mas
+11:00:23 - Jorge Cano (@jorgeucano):
+:stuck_out_tongue:
+11:00:57 - Martín Valdés de León (@mvaldesdeleon):
+si no tenes "apuro en irte" fijate de conseguir una mejor oferta, o en Berlin que los alquieres salen tipo 30-40% menos
+11:04:16 - Federico A. Sawady O'Connor (@sawady.faso):
+Na, no tengo apuro en irme. Y si, Munich me sonaba caro sobre todo por lo que vi sobre el tema alquileres. Por eso no me cerraba el número también. Voy a esperar a que caiga una mejor. Gracias!!!
+11:07:26 - Martín Valdés de León (@mvaldesdeleon):
+despues para que tengas en cuenta, te deberian ofrecer tipo 25-30 dias habiles de vacaciones, y si te interesa deberias tener chances raznables de pedir company car
+11:07:31 - Martín Valdés de León (@mvaldesdeleon):
+ya que es algo habitual en alemania
+11:08:29 - Martín Valdés de León (@mvaldesdeleon):
+lo podes usar para fines personales (lease irte de vacaciones), es todo incluido (nafta incluida), y te termina costando tipo 200-300 euros por mes en impuestos, pq se considera ganancia
+11:08:40 - Martín Valdés de León (@mvaldesdeleon):
+(dependiendo del precio del auto que elijas)
+11:09:47 - Julian (@jantonielli01):
+Era como SSR en ese momento creo 
+11:11:51 - Julian (@jantonielli01):
+Igual yo medio que anti recomiendo ML porque soy un hater
+11:14:06 - Lupe (@lportias):
+despues de los comentarios que hizo el CEO? ... creo que varios somos haters...
+11:17:01 - Julian (@jantonielli01):
+Ah cierto que galperin era medio imbecil 
+11:17:55 - Aldo Sorbara (@aldo1891):
+Laburar ahi esta bueno como experiencia de ver como se maneja una empresa grande y todas las cosas a tener en cuenta cuando haces un producto,
+Las tecnologias son copadas, a veces lo que tiene de malo es que al ser tan grande, perdes el poder de decidir, por ejemplo, tu arquitectura. Los sueldos estan bajos comparado al mercado
+11:18:19 - Aldo Sorbara (@aldo1891):
+Y Galperin es un empresario y habla como tal
+11:18:26 - Aldo Sorbara (@aldo1891):
+yo el 95% de las cosas no comparto
+11:19:47 - Ale Miralles (@amiralles):
+Yo pense que pagaban bien. (Al menos lo escuche al amigo Galperin diciendo que los sueldos estaban arriba del promedio de mercado.)
+11:20:14 - Ale Miralles (@amiralles):
+Tengo una amigo laburando ahi, le voy a preguntar a el a ver que onda.
+11:23:41 - Aldo Sorbara (@aldo1891):
+dicen que estan en el p75, osea por arriba de la media pero no son los que mas pagan
+11:24:07 - Aldo Sorbara (@aldo1891):
+para mi la relacion, (laburo + impacto) / sueldo que te dan es mala
+11:25:49 - Julian (@jantonielli01):
+Bueno entonces le tiro a mi amigo 25k neto por 30hs 
+11:27:56 - Ale Miralles (@amiralles):
+<@UEP9Q4TUP> debe haber sido eso lo que escuche.... Por ahi es mas que la media, pero no deja de ser malo.
+13:17:40 - Germán Burgardt (@germanandresburgardt):
+yo cobro 35k por 30hs y soy de pedo ssr
+13:17:50 - Germán Burgardt (@germanandresburgardt):
+pero como monotributista
+14:11:21 - Aldo Gabriel Rojas (@aldogrojas5):
+Y eso es maso lo q se paga o estás por debajo del promedio?
+14:18:39 - Germán Burgardt (@germanandresburgardt):
+Acá en argentina está bastante bien para mi exp
+14:18:45 - Germán Burgardt (@germanandresburgardt):
+igual tenes que consdierar que estoy como monotributista
+14:19:00 - Germán Burgardt (@germanandresburgardt):
+con toodo lo que eso conlleva
+16:01:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Te pagan aparte la os y el monotributo o te lo tenes q pagar de ahi?
+16:12:32 - Germán Burgardt (@germanandresburgardt):
+Me pagan aparte monotributo, y me lo gestionan ellos. y pagan aguinaldo y vacaciones (pero no hay ningún papel que me asegure esto, es todo palabra)
+17:27:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Más vale... si te lo ponen en papel se comen tremendo hueco...
+Por lo menos te pagan todo... ojalá sea en tiempo y forma!
+18:17:43 - Gonza Espeche (@espeche.g):
+un amigo entró a ML este año como Junior Web Dev y gana 38 en mano aprox + toda la bola de beneficios corporativos
+18:19:36 - Ale Miralles (@amiralles):
+Nada mal para un perfil Jr.
+19:24:39 - Julian (@jantonielli01):
+Cuanta exp tenes? (Me generó duda por lo de “de pedo SSR”)
+20:05:55 - Federico A. Sawady O'Connor (@sawady.faso):
+uh esa es buena
+20:56:26 - Lucas Alejo Bellesi (@lucasbellesipocho):
+un poco más actualmente (lo se por alguien que referi) en la primera revisión si el desempeño es bueno te dan un aumento también:grin:
