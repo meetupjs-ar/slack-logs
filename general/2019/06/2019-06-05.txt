@@ -1,0 +1,28 @@
+22:12:50 - Diego Harari (@diehara):
+fijate que en udemy hay dos en ingles muy buenos uno de stephen grear y otro de max ... no recuerdo el apellido. pero estan 10 dolares y los actualizan, lo dan con hooks
+09:41:33 - Agustin Polo (@apolo_codes):
+holas, como va? tengo una consulta sobre github+CircleCI. estoy como contributor en un repo privado (no-org/team), al entrar a los detalles de las builds que se corren en CircleCI por un PR me pincha diciendo que no pudo asociar mi usuario o algo asi. imagino que es la misma razon por la cual yo no pude asociar darle follow al repo en CircleCI la primer vez sino que lo tuvo que hacer la duena del repo. Alguien sabe si me puede dar permisos y como? Sin hacer el upgrade a team
+10:46:47 - Jorge Cano (@jorgeucano):
+uhhh a mi me paso
+10:46:53 - Jorge Cano (@jorgeucano):
+tuve que validar un token o algo asi xD
+19:37:16 - Flavio Dilello (@flaviodilello):
+Hola!!!
+19:37:29 - Flavio Dilello (@flaviodilello):
+Nuevecito
+19:47:23 - Maxi (@tholem98):
+Bienvenido!
+22:12:50 - Diego Harari (@diehara):
+fijate que en udemy hay dos en ingles muy buenos uno de stephen grear y otro de max ... no recuerdo el apellido. pero estan 10 dolares y los actualizan, lo dan con hooks
+09:41:33 - Agustin Polo (@apolo_codes):
+holas, como va? tengo una consulta sobre github+CircleCI. estoy como contributor en un repo privado (no-org/team), al entrar a los detalles de las builds que se corren en CircleCI por un PR me pincha diciendo que no pudo asociar mi usuario o algo asi. imagino que es la misma razon por la cual yo no pude asociar darle follow al repo en CircleCI la primer vez sino que lo tuvo que hacer la duena del repo. Alguien sabe si me puede dar permisos y como? Sin hacer el upgrade a team
+10:46:47 - Jorge Cano (@jorgeucano):
+uhhh a mi me paso
+10:46:53 - Jorge Cano (@jorgeucano):
+tuve que validar un token o algo asi xD
+19:37:16 - Flavio Dilello (@flaviodilello):
+Hola!!!
+19:37:29 - Flavio Dilello (@flaviodilello):
+Nuevecito
+19:47:23 - Maxi (@tholem98):
+Bienvenido!
