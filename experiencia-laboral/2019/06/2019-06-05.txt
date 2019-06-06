@@ -1,0 +1,422 @@
+22:13:41 - Aldo Sorbara (@aldo1891):
+Jr o analista??
+22:13:52 - Aldo Sorbara (@aldo1891):
+Analista es más que Jr, pero menos que ssr en Meli
+22:19:07 - Wilfredo Alcala (@alcalawilfre):
+Misma duda
+22:44:46 - Rodrigo Ali (@rodrigojali):
+Ah... la vieja y confiable "Junior plus"
+10:35:38 - Miranda J. Ignacio (@mirandajignacio):
+En mi anterior trabajo fui “junior nivel 3”
+10:45:09 - Rodrigo Ali (@rodrigojali):
+Mierda jajaja, cuántos niveles hasta Ssr
+11:49:12 - Matt Serrato (@matiashernanserrato):
+35k bruto o neto?
+12:00:41 - Wilfredo Alcala (@alcalawilfre):
+Una consulta que seguro se ha hecho muchas veces.
+
+Más allá de los años de experiencia, en qué momento un Jr puede decir que ya es Ssr o un Ssr decir que es Sr? Cómo te mides? He trabajado con Jrs que saben muchísimo.. Yo soy semi senior, pero así los años de experiencia me den, siento que me faltan como 10 años de conocimientos para llegar a saber lo que saben algunos seniors (un architect de mi laburo por ejemplo)....
+
+perdón si ya lo respondieron recientemente
+12:03:08 - Matt Serrato (@matiashernanserrato):
+Yo pienso que cuando sos menos depndiente de otras programadores para resolver ciertas tareas, poder resolver tareas mas complejas, incluso hacer features. hacer bug fixing no solo rapido sino bien incluso usando clean code. hay muchas variables para medir esto.
+12:03:42 - Ezequiel Leites (@leites25):
+Yo creo que no va por tema de tiempos si no por tema de conocimientos / experiencia / mas podes resolver cosas solo
+12:04:15 - Gonza Gluzman (@gonza):
+Coincido en tomar la autonomía como indicador
+12:04:21 - Ezequiel Leites (@leites25):
+Podes tener programadores que trabajaron 5 años y todavia son jrs, como un jr que recien arranca en un año poder considerarlo como ssr
+12:04:49 - Ezequiel Leites (@leites25):
+Tipo, laburar en una agencia digital, para mi, no te enseña mucho a no ser que la agencia tenga muy buenos proyectos
+12:04:55 - Gonza Gluzman (@gonza):
+Para mí algo fundamental es saber desempeñarte más o menos bien en las _diversas_ tareas que exige un laburo
+12:05:06 - Ezequiel Leites (@leites25):
+Una startup, en 6 meses, si lo aprovechas, te potencia muchisimo
+12:05:22 - Gonza Gluzman (@gonza):
+Por ejemplo, te sabés todo, programás bárbaro, pero hacés que todos en el equipo se peleen…
+12:05:27 - Jorge Cano (@jorgeucano):
+se supone que un Sr no deberia necesitar de “ayuda” para entender un proyecto/problema
+12:05:50 - Jorge Cano (@jorgeucano):
+Se supone que un Ssr deberia necesitar “poca ayuda” para entender un proyecto/problema
+12:05:58 - Jorge Cano (@jorgeucano):
+y un jr es quien necesita ayuda para entender
+12:07:25 - Jorge Cano (@jorgeucano):
+Obviamente que es dificil tomar esos parametros
+12:07:33 - Jorge Cano (@jorgeucano):
+por eso la gente cree que experiencia === años de trabajo
+12:07:38 - Jorge Cano (@jorgeucano):
+cuando no es 100% real
+12:08:18 - Jorge Cano (@jorgeucano):
+Y despues de Sr para “arriba” hay mas
+12:11:19 - Matt Serrato (@matiashernanserrato):
+<@U1XSDSM4H> que sigue después de sr?
+12:11:29 - Jorge Cano (@jorgeucano):
+y podes derivar a varios lugares
+12:11:29 - Mariano Montero (@etmaro):
+jubilacion
+12:11:31 - Jorge Cano (@jorgeucano):
+Arquitecto
+12:11:40 - Jorge Cano (@jorgeucano):
+“Ingeniero principal”
+12:11:44 - Damian Diaz (@damianmdst):
+En esa parte discrepo, porque si no presupones que una persona Sr esta capacitada para llevar adelante cualquier tarea, y en realidad creo que se valora mas la aptitud de la persona de que “estudiando” el problema y haciendo un research mas profundo puede llegar a resolver el problema. Pero no necesariamente tiene que ser asi.
+12:11:50 - Jorge Cano (@jorgeucano):
+Experto (en algunos lugares existe)
+12:13:21 - Gonza Gluzman (@gonza):
+Rockstar, después ninja
+12:15:00 - Alejandro Nagy (@nagy.alejandro):
+después de Sr empezas con cosas como Arquitecto o Lider Técnico
+12:15:04 - Ezequiel Leites (@leites25):
+Y despues arrancas tu propia startup
+12:15:23 - Julian (@jantonielli01):
+Y después volves a SSR
+12:16:15 - Wilfredo Alcala (@alcalawilfre):
+Pero puedes ser senior en Backend por ejemplo pero no sabes un carajo de frontend, pero después tienes otro senior que sabe hasta de psicología
+12:16:50 - Wilfredo Alcala (@alcalawilfre):
+Capaz hacen falta más categorías :thinking_face:
+12:16:53 - Jorge Cano (@jorgeucano):
+no creo
+12:16:58 - Jorge Cano (@jorgeucano):
+que hagan falta mas categorias
+12:17:07 - Jorge Cano (@jorgeucano):
+al final depende de un monton de cosas
+12:17:12 - Gonza Gluzman (@gonza):
+Depende para qué se usen las categorías
+12:17:12 - Jorge Cano (@jorgeucano):
+y depende mucho de que vos quieras
+12:17:32 - Jorge Cano (@jorgeucano):
+hay gente que le gusta cumplir horario y no esforzarse mucho … y hacer siempre lo mismo
+12:17:37 - Jorge Cano (@jorgeucano):
+no “avanzar” por asi decirlo
+12:17:48 - Jorge Cano (@jorgeucano):
+y a pesar de que tengan 20 años programando hacen lo mismo siempre
+12:18:37 - Marcos Casagrande (@marcoscvp90):
+Yo conozco gente que lleva 10 años, se creen senior, pero son semi senior honestamente.
+12:18:46 - Marcos Casagrande (@marcoscvp90):
+Y hay miles de esos.
+12:19:09 - Jorge Cano (@jorgeucano):
+no esta mal igual
+12:19:14 - Ezequiel Leites (@leites25):
+Depende de los compañeros y lo que te lleve la empresa
+12:19:16 - Jorge Cano (@jorgeucano):
+osea cada uno hace lo que quiere/tiene/puede ganas
+12:19:26 - Ezequiel Leites (@leites25):
+Si tenes compañeros o proyectos que te hacen superarte, vas escalando mas
+12:19:35 - Marcos Casagrande (@marcoscvp90):
+No digo que haya que echarlos o que esté mal igual, cada uno elige como vivir.
+12:19:41 - Jorge Cano (@jorgeucano):
+sisi totalmente
+12:19:52 - Marcos Casagrande (@marcoscvp90):
+Pero cuando se creen senior, es un problema.
+12:20:01 - Jorge Cano (@jorgeucano):
+al final
+22:13:41 - Aldo Sorbara (@aldo1891):
+Jr o analista??
+22:13:52 - Aldo Sorbara (@aldo1891):
+Analista es más que Jr, pero menos que ssr en Meli
+22:19:07 - Wilfredo Alcala (@alcalawilfre):
+Misma duda
+22:44:46 - Rodrigo Ali (@rodrigojali):
+Ah... la vieja y confiable "Junior plus"
+10:35:38 - Miranda J. Ignacio (@mirandajignacio):
+En mi anterior trabajo fui “junior nivel 3”
+10:45:09 - Rodrigo Ali (@rodrigojali):
+Mierda jajaja, cuántos niveles hasta Ssr
+11:49:12 - Matt Serrato (@matiashernanserrato):
+35k bruto o neto?
+12:00:41 - Wilfredo Alcala (@alcalawilfre):
+Una consulta que seguro se ha hecho muchas veces.
+
+Más allá de los años de experiencia, en qué momento un Jr puede decir que ya es Ssr o un Ssr decir que es Sr? Cómo te mides? He trabajado con Jrs que saben muchísimo.. Yo soy semi senior, pero así los años de experiencia me den, siento que me faltan como 10 años de conocimientos para llegar a saber lo que saben algunos seniors (un architect de mi laburo por ejemplo)....
+
+perdón si ya lo respondieron recientemente
+12:03:08 - Matt Serrato (@matiashernanserrato):
+Yo pienso que cuando sos menos depndiente de otras programadores para resolver ciertas tareas, poder resolver tareas mas complejas, incluso hacer features. hacer bug fixing no solo rapido sino bien incluso usando clean code. hay muchas variables para medir esto.
+12:03:42 - Ezequiel Leites (@leites25):
+Yo creo que no va por tema de tiempos si no por tema de conocimientos / experiencia / mas podes resolver cosas solo
+12:04:15 - Gonza Gluzman (@gonza):
+Coincido en tomar la autonomía como indicador
+12:04:21 - Ezequiel Leites (@leites25):
+Podes tener programadores que trabajaron 5 años y todavia son jrs, como un jr que recien arranca en un año poder considerarlo como ssr
+12:04:49 - Ezequiel Leites (@leites25):
+Tipo, laburar en una agencia digital, para mi, no te enseña mucho a no ser que la agencia tenga muy buenos proyectos
+12:04:55 - Gonza Gluzman (@gonza):
+Para mí algo fundamental es saber desempeñarte más o menos bien en las _diversas_ tareas que exige un laburo
+12:05:06 - Ezequiel Leites (@leites25):
+Una startup, en 6 meses, si lo aprovechas, te potencia muchisimo
+12:05:22 - Gonza Gluzman (@gonza):
+Por ejemplo, te sabés todo, programás bárbaro, pero hacés que todos en el equipo se peleen…
+12:05:27 - Jorge Cano (@jorgeucano):
+se supone que un Sr no deberia necesitar de “ayuda” para entender un proyecto/problema
+12:05:50 - Jorge Cano (@jorgeucano):
+Se supone que un Ssr deberia necesitar “poca ayuda” para entender un proyecto/problema
+12:05:58 - Jorge Cano (@jorgeucano):
+y un jr es quien necesita ayuda para entender
+12:07:25 - Jorge Cano (@jorgeucano):
+Obviamente que es dificil tomar esos parametros
+12:07:33 - Jorge Cano (@jorgeucano):
+por eso la gente cree que experiencia === años de trabajo
+12:07:38 - Jorge Cano (@jorgeucano):
+cuando no es 100% real
+12:08:18 - Jorge Cano (@jorgeucano):
+Y despues de Sr para “arriba” hay mas
+12:11:19 - Matt Serrato (@matiashernanserrato):
+<@U1XSDSM4H> que sigue después de sr?
+12:11:29 - Jorge Cano (@jorgeucano):
+y podes derivar a varios lugares
+12:11:29 - Mariano Montero (@etmaro):
+jubilacion
+12:11:31 - Jorge Cano (@jorgeucano):
+Arquitecto
+12:11:40 - Jorge Cano (@jorgeucano):
+“Ingeniero principal”
+12:11:44 - Damian Diaz (@damianmdst):
+En esa parte discrepo, porque si no presupones que una persona Sr esta capacitada para llevar adelante cualquier tarea, y en realidad creo que se valora mas la aptitud de la persona de que “estudiando” el problema y haciendo un research mas profundo puede llegar a resolver el problema. Pero no necesariamente tiene que ser asi.
+12:11:50 - Jorge Cano (@jorgeucano):
+Experto (en algunos lugares existe)
+12:13:21 - Gonza Gluzman (@gonza):
+Rockstar, después ninja
+12:15:00 - Alejandro Nagy (@nagy.alejandro):
+después de Sr empezas con cosas como Arquitecto o Lider Técnico
+12:15:04 - Ezequiel Leites (@leites25):
+Y despues arrancas tu propia startup
+12:15:23 - Julian (@jantonielli01):
+Y después volves a SSR
+12:16:15 - Wilfredo Alcala (@alcalawilfre):
+Pero puedes ser senior en Backend por ejemplo pero no sabes un carajo de frontend, pero después tienes otro senior que sabe hasta de psicología
+12:16:50 - Wilfredo Alcala (@alcalawilfre):
+Capaz hacen falta más categorías :thinking_face:
+12:16:53 - Jorge Cano (@jorgeucano):
+no creo
+12:16:58 - Jorge Cano (@jorgeucano):
+que hagan falta mas categorias
+12:17:07 - Jorge Cano (@jorgeucano):
+al final depende de un monton de cosas
+12:17:12 - Gonza Gluzman (@gonza):
+Depende para qué se usen las categorías
+12:17:12 - Jorge Cano (@jorgeucano):
+y depende mucho de que vos quieras
+12:17:32 - Jorge Cano (@jorgeucano):
+hay gente que le gusta cumplir horario y no esforzarse mucho … y hacer siempre lo mismo
+12:17:37 - Jorge Cano (@jorgeucano):
+no “avanzar” por asi decirlo
+12:17:48 - Jorge Cano (@jorgeucano):
+y a pesar de que tengan 20 años programando hacen lo mismo siempre
+12:18:37 - Marcos Casagrande (@marcoscvp90):
+Yo conozco gente que lleva 10 años, se creen senior, pero son semi senior honestamente.
+12:18:46 - Marcos Casagrande (@marcoscvp90):
+Y hay miles de esos.
+12:19:09 - Jorge Cano (@jorgeucano):
+no esta mal igual
+12:19:14 - Ezequiel Leites (@leites25):
+Depende de los compañeros y lo que te lleve la empresa
+12:19:16 - Jorge Cano (@jorgeucano):
+osea cada uno hace lo que quiere/tiene/puede ganas
+12:19:26 - Ezequiel Leites (@leites25):
+Si tenes compañeros o proyectos que te hacen superarte, vas escalando mas
+12:19:35 - Marcos Casagrande (@marcoscvp90):
+No digo que haya que echarlos o que esté mal igual, cada uno elige como vivir.
+12:19:41 - Jorge Cano (@jorgeucano):
+sisi totalmente
+12:19:52 - Marcos Casagrande (@marcoscvp90):
+Pero cuando se creen senior, es un problema.
+12:20:01 - Jorge Cano (@jorgeucano):
+al final
+12:20:04 - Jorge Cano (@jorgeucano):
+no importa nada
+12:20:11 - Jorge Cano (@jorgeucano):
+pero al final, se ve todo en la cancha
+12:20:13 - Marcos Casagrande (@marcoscvp90):
+Ya estamos todos muertos.
+12:20:17 - Jorge Cano (@jorgeucano):
+osea PRs definiciones y demas
+12:20:57 - Gonza Gluzman (@gonza):
+Algo fundamental es ser criteri:bear:
+12:21:12 - Julian (@jantonielli01):
+Es todo chamuyo igual 
+12:21:13 - Gonza Gluzman (@gonza):
+Fundamentar todas las decisiones
+12:21:38 - Julian (@jantonielli01):
+Las categorías son bastante una mierda porque el criterio varía más que el clima 
+12:22:09 - Julian (@jantonielli01):
+Si te gusta lo que pagan a los seniors en alguna empresa, tira que lo sos aunque tengas 3 meses de experiencia 
+12:22:50 - Ezequiel Leites (@leites25):
+Tbm las empresas buscan SR y cuando haces el examen parece que estan buscando JR
+12:24:32 - Aldo Sorbara (@aldo1891):
+o SR
+12:25:37 - Aldo Sorbara (@aldo1891):
+hace poco un compañero tuvo una entrevista, el actualmente donde esta es SR y para esa empresa "para ser SR tenes que saber front, back, deployar, nginx, aws, NASA, hacer un cohete a la luna..."
+12:25:50 - Rodrigo Ali (@rodrigojali):
+En resumen: lo que define qué es Tr/Jr/Ssr/Sr/etc en una empresa, es la empresa misma.
+12:25:50 - Aldo Sorbara (@aldo1891):
+un poco exagerado el final, pero no tanto
+12:25:53 - Rodrigo Ali (@rodrigojali):
+:stuck_out_tongue:
+12:26:25 - Julian (@jantonielli01):
+Yo recomiendo casi nunca tomar puestos de trainee 
+12:26:32 - Julian (@jantonielli01):
+A menos que no sepas nada
+12:26:37 - Rodrigo Juarez (@rjuarez):
+El seniority varia mucho de empresa a empresa. Podes ser sr en una software factory, caes en otro lado y vas para atrás
+12:26:58 - Rodrigo Ali (@rodrigojali):
+Ahí es cuando prendés la maquinita de humo.
+12:27:09 - Aldo Sorbara (@aldo1891):
+coincido en que el seniority es chamuyo
+12:27:28 - Rodrigo Juarez (@rjuarez):
+red flag son las empresas que tienen jr advanced o ssr level 3\
+12:27:31 - Aldo Sorbara (@aldo1891):
+aprendi mucho de gente que se la consideraba JR, y vi muchos SR preguntando como abrir un tab del chrome
+12:27:56 - Alejandro Nagy (@nagy.alejandro):
+medir el seniority exacto de alguien es difícil
+12:28:01 - Alejandro Nagy (@nagy.alejandro):
+pero no creo que sea chamuyo
+12:28:02 - Gonza Gluzman (@gonza):
+Cuántos Sr se necesita para abrir un tab en chrome?
+12:28:17 - Rodrigo Ali (@rodrigojali):
+Depende del SM
+12:28:19 - Aldo Sorbara (@aldo1891):
+depende la empresa :stuck_out_tongue:
+12:28:43 - Santiago Ruffino (@santi_0898):
+Los JRs vamos a dominar el mundo.
+12:28:56 - Alejandro Nagy (@nagy.alejandro):
+la diferencia entre alguien que trabajo 2 años en 1 tecnología solo haciendo SPAs vs alguien que trabajo 10 años haciendo SPAs, aplicaciones distribuidas, embebidas, en la nube, etc etc es abismal
+12:28:57 - Ezequiel Leites (@leites25):
+Santi, vos solo vas a dominar el mundo
+12:29:17 - Ezequiel Leites (@leites25):
+Empezando por Cordoba
+12:29:20 - Santiago Ruffino (@santi_0898):
+Nah, va a ser gracias a ustedes. Vamos a ser el partido Desarrollista
+12:29:30 - Rodrigo Ali (@rodrigojali):
+Obvio. También la diferencia entre alguien que laburó 1 año haciendo de todo, con alguien que laburó 10 años sobre la misma SPA, es abismal
+12:29:59 - Santiago Ruffino (@santi_0898):
+Es distinto como se ve el seniority dependiendo de la empresa y como trabaja
+12:30:15 - Rodrigo Ali (@rodrigojali):
+Fuera de eso hay mil factores más que pueden tener en cuenta en una empresa para definir seniority
+12:30:19 - Santiago Ruffino (@santi_0898):
+Ejemplo. En una empresa donde saltas de proyecto cada dos meses, se va a notar en las soft skills
+12:30:33 - Rodrigo Ali (@rodrigojali):
+Como por ejemplo saber con quiénes hablar, o qué equipo hace qué cosa, o qué tanta proactividad tenés para "generar" tu propio laburo
+12:30:37 - Santiago Ruffino (@santi_0898):
+Si trabajas en un mismo proyecto 10 años, seguramente tu seniority se va a dejar ver cuando entiendas el producto y sus "mañas"
+12:30:44 - Rodrigo Ali (@rodrigojali):
+Qué tanta actividad cross-team buscás realizar, etc
+12:30:52 - Rodrigo Ali (@rodrigojali):
+Las soft-skills son mucho muy importante.
+12:32:27 - Rodrigo Ali (@rodrigojali):
+Vos podés ser un crack en X, Y, Z tecnologías. Pero si en la empresa se labura en equipos, y yo te meto en un equipo donde NO FUNCÁS, no me servís, por más que en tus ratos libres hagas compiladores y seas un capo. DE última te tomaré como consultor, pero no te tomo en mi team, porque sencillamente no funcás para eso.
+12:32:31 - Alejandro Nagy (@nagy.alejandro):
+pero ahí es donde se están confundiendo
+12:32:43 - Alejandro Nagy (@nagy.alejandro):
+que yo sepa mucho sobre el producto que hicieron en 1 empresa no me hace senior
+12:32:56 - Rodrigo Ali (@rodrigojali):
+DE hecho sí, en muchas empresas es así.
+12:33:00 - Rodrigo Ali (@rodrigojali):
+Contribuye a tu seniority
+12:33:17 - Rodrigo Ali (@rodrigojali):
+El "Ownership" que tenés sobre los productos de la empresa. Por eso, a la seniority la define la empresa.
+12:33:31 - Julian (@jantonielli01):
+Estoy de acuerdo con Alejandro en eso 
+12:33:44 - Alejandro Nagy (@nagy.alejandro):
+pero estamos hablando en general, no de 1 empresa
+12:33:58 - Alejandro Nagy (@nagy.alejandro):
+mira, a mi una empresa me dijo que soy Jr porque no tengo experiencia laboral en node.js
+12:34:04 - Rodrigo Ali (@rodrigojali):
+Yo estoy hablando de las 3 empresas donde laburé al menos, de última será coincidencia.
+12:34:08 - Alejandro Nagy (@nagy.alejandro):
+hace 13 años que desarrollo software…
+12:34:13 - Julian (@jantonielli01):
+Están confundiendo “seniority real” vs “seniority medido”, este último es el que es chamuyo, varía por empresa, y define tu sueldo.
+12:34:16 - Alejandro Nagy (@nagy.alejandro):
+si vamos a medir por lo que dice 1 empresa :stuck_out_tongue:
+12:34:43 - Rodrigo Ali (@rodrigojali):
+¿Y dónde está la vara que mide la "seniority real"?
+12:34:51 - Rodrigo Ali (@rodrigojali):
+Hasta que eso no exista, entonces es chamuyo también :stuck_out_tongue:
+12:34:53 - Alejandro Nagy (@nagy.alejandro):
+creo que hay cosas que todos acordamos
+12:34:57 - Rodrigo Ali (@rodrigojali):
+Y si existe y no la conozco, mala mia
+12:35:34 - Pablo Miceli (@pablomiceli24):
+el seniority real es el que inventa uno en su CV (?
+12:35:46 - Alejandro Nagy (@nagy.alejandro):
+a un Jr no le pedís que te implemente un patrón, haga optimization, o te arme una aplicación de 0
+12:36:16 - Rodrigo Ali (@rodrigojali):
+Preguntale a Santi :stuck_out_tongue:
+12:36:36 - Rodrigo Ali (@rodrigojali):
+A mi en mi laburo anteior me pedían eso, y no tenia idea como hacerlo.
+12:36:39 - Alejandro Nagy (@nagy.alejandro):
+no quiero ofender a nadie, tal vez Santiago sea superdotado, lo haga y lo haga mejor que yo
+12:36:52 - Alejandro Nagy (@nagy.alejandro):
+pero 99.9% de los Jrs lo harían para la mierda, y sería codigo que después vemos y criticamos
+12:36:57 - Rodrigo Ali (@rodrigojali):
+Sep, seguramente.
+12:37:10 - Rodrigo Ali (@rodrigojali):
+Creo que en lo que todos podemos estar de aucerdo es que no está estandarizado
+12:37:10 - Wilfredo Alcala (@alcalawilfre):
+que crack :clap:
+12:37:10 - Ezequiel Leites (@leites25):
+Por eso depende de las personas que te rodeas
+12:37:18 - Rodrigo Ali (@rodrigojali):
+Entonces cada cual lo hace como le pinta o lo define como le pinta
+12:37:25 - Santiago Ruffino (@santi_0898):
+Nah, yo tambien lo hacia para la mierda. Lo hacia, pero para la mierda
+12:37:33 - Rodrigo Ali (@rodrigojali):
+Por ese tipo de cosas tomaron los "años de experiencia" como indicador principal de Seniority
+12:37:36 - Ezequiel Leites (@leites25):
+Capas un JR con un SR o alguien que simplemente tenga mas experiencia en patrones, le corrije el PR y despues el JR sigue siendo JR pero aprendio eso
+12:37:55 - Alejandro Nagy (@nagy.alejandro):
+es la suma de cosas
+12:38:00 - Alejandro Nagy (@nagy.alejandro):
+la suma de experiencia, no los años
+12:38:06 - Ezequiel Leites (@leites25):
+Suma de todas las fuerzas = 0
+12:38:18 - Alejandro Nagy (@nagy.alejandro):
+haber hecho tantas aplicaciones distintas, con tantas tecnologías distintas
+12:38:40 - Alejandro Nagy (@nagy.alejandro):
+te da la visión de que problemas podes tener (que ya tuviste o que conoces que existen)
+12:38:52 - Julian (@jantonielli01):
++1
+12:38:56 - Alejandro Nagy (@nagy.alejandro):
+cuanto puede llevar, como podrías hacerlo mejor, o más rápido dependiendo de lo que piden
+12:39:07 - Julian (@jantonielli01):
+despues de usar varios lenguajes y libs tmb te das cuenta que casi todo es la misma mierda
+12:39:14 - Alejandro Nagy (@nagy.alejandro):
+^
+12:39:36 - Alejandro Nagy (@nagy.alejandro):
+es lo que digo en todas las entrevistas. Después de 13 años…tendré que aprenderme algún cambio de sintaxis, alguna lib que se usa
+12:39:54 - Alejandro Nagy (@nagy.alejandro):
+pero no hay grandes sorpresas si tengo que trabajar en Python, node o C++
+12:40:58 - Alejandro Nagy (@nagy.alejandro):
+bueno C++ por ahí no fue el mejor ejemplo…yo porque lo uso pero ponele C#
+12:41:01 - Alejandro Nagy (@nagy.alejandro):
+:stuck_out_tongue:
+12:41:10 - Santiago Ruffino (@santi_0898):
+Para mi, el seniority te lo da la capcidad de pasar el problema general a cualquier lenguaje
+12:41:23 - Santiago Ruffino (@santi_0898):
+No saber hacer un "Shell Short" en todos los lenguajes
+12:41:43 - Alejandro Nagy (@nagy.alejandro):
+hay cosas más importantes que el lenguaje
+12:41:55 - Santiago Ruffino (@santi_0898):
+Si no que te digan "Mira, tenemos que hacer X cosa" y vos puedas plantear el "pseudocodigo" de eso
+12:41:59 - Alejandro Nagy (@nagy.alejandro):
+preguntas que haces antes de empezar a pensar en que lenguaje
+12:43:14 - Alejandro Nagy (@nagy.alejandro):
+que tipo de app, si es online dónde lo vas a hostear, para cuantos usuarios, seguridad?, redundancia?, con que te tenes que integrar, etc etc etc
+12:43:43 - Alejandro Nagy (@nagy.alejandro):
+montón de consideraciones que tal vez algún Jr con mucha vocación tenga…pero no le exigiría normalmente a un Jr que las haga
+12:43:45 - Rodrigo Ali (@rodrigojali):
+Estoy de acuerdo que esa fue la idea de los años. Pero no es 100% accurate
+12:43:49 - Rodrigo Ali (@rodrigojali):
+:stuck_out_tongue:
+12:44:00 - Alejandro Nagy (@nagy.alejandro):
+No, por eso un TL o alguien entrevistando debería revisar tu CV
+12:44:00 - Rodrigo Ali (@rodrigojali):
+Aunque me parece una de las más... conciliadoras
+12:44:49 - Alejandro Nagy (@nagy.alejandro):
+y si ve 10 años de jQuery en la misma app debería preguntarte qué más hiciste, o testear tu conocimiento de areas fuera de jQuery
+12:44:59 - Alejandro Nagy (@nagy.alejandro):
+porque tal vez lo tengas, pero no se ve en el CV
+12:45:48 - Rodrigo Ali (@rodrigojali):
+De una
+12:45:54 - Gonza Gluzman (@gonza):
+No CV en el CV
