@@ -1,0 +1,306 @@
+04:43:31 - Martín Valdés de León (@mvaldesdeleon):
+<https://github.com/numirias/security/blob/master/doc/2019-06-04_ace-vim-neovim.md>
+05:06:04 - Martín Valdés de León (@mvaldesdeleon):
+TL;DR actualicen vim &gt;=  8.1.1365 y neovim a &gt;= 0.3.6
+11:57:45 - Heber (@heber.acostalipera):
+no hay nodeconf este año! :scream: <https://twitter.com/nodeconfar/status/1136641392598405120>
+11:58:05 - Jorge Cano (@jorgeucano):
+nop, eso dice el tweet
+12:31:23 - Gonzalo González Mora (@gonzalogm):
+:disappointed:
+13:00:00 - Santiago Ruffino (@santi_0898):
+Por si alguno le sirve...
+13:00:00 - Santiago Ruffino (@santi_0898):
+<http://overapi.com>
+13:00:58 - Sergio Daniel Xalambrí (@sergiodxa):
+Cuando empezaba con JS usaba ese sitio todo el tiempo 
+13:01:58 - Santiago Ruffino (@santi_0898):
+No la conocia. La voy a dejar en los favs para ver que onda
+13:25:57 - Leandro Echevarria (@echevarrialeandro):
+Bueno iré a la ekoparty entonces :stuck_out_tongue:
+13:30:08 - Nico (@nicokorn96):
+de que se trata?
+13:30:56 - Nico (@nicokorn96):
+ah es como un index de apis
+13:34:47 - Brian Stanley (@brianstanley):
+Se filmaron las charlas del año pasado?
+14:39:48 - Hernan Rajchert (@sherman):
+NOOOOOOOOOOO :sob:
+16:05:29 - Mariano Ramonda (@ing.inf.mariano):
+Comparto flyer que me paso mi profesora particular de ingles.
+Me animo a recomendarla porque hace casi un año que tomo clases semanales con ella y mi nivel mejoro fuertemente.
+Trabajo para una startup de USA y les aseguro el idioma es un skill extremadamente importante (como ya deben saber), pero ademas es algo que no se aprende como una nueva API o libreria de npm, generalmente lleva mucho tiempo perfeccionarlo.
+Ella da clases remotas via Skype o Zoom, acomodando el horario a necesidad y obviamente armando clases personalizadas.
+16:08:33 - Maxi (@tholem98):
+Gracias
+16:18:50 - Martin Carrera (@mcarrera):
+Precio? aunque sea un aprox?
+17:14:48 - ARIΞL (@afuggini):
+hay alguna ventaja en tener en una app un archivo tipo diccionario con todas las string seteadas como constants? e.g.
+17:14:53 - ARIΞL (@afuggini):
+```
+export const ABSOLUTE = 'absolute'
+export const ADDEVENTLISTENER = 'addEventListener'
+export const ANCHOR = 'a'
+export const APPLY = 'apply'
+export const AUTO = 'auto'
+export const BIND = 'bind'
+```
+17:15:09 - ARIΞL (@afuggini):
+a mi me vuelve loco y me parece bastante al pedo jaja
+17:15:34 - ARIΞL (@afuggini):
+asi, pero 200 mas, e importados por todos lados
+17:15:55 - Gonzalo González Mora (@gonzalogm):
+Ese caso ni idea, pero en otraste evita errores de typos y cambiarlo más fácil si decidís hacerlo
+17:16:49 - ARIΞL (@afuggini):
+esto es buenisimo….
+17:16:51 - Rodrigo Ali (@rodrigojali):
+Claro, es básicamente reutilización. Te ayuda a propagar cambios con menos acarreo de error
+17:16:52 - ARIΞL (@afuggini):
+```
+export const ONE_AMP = '&amp;'
+export const ONE_COLON = ':'
+export const ONE_COMMA = ','
+export const ONE_DOT = '.'
+export const ONE_EQUAL = '='
+export const ONE_SPACE = ' '
+```
+17:16:59 - Rodrigo Ali (@rodrigojali):
+Bueno eso ya...
+17:17:06 - Gonzalo González Mora (@gonzalogm):
+pero en qué caso lo usa por ej a eso?
+17:17:26 - Gonzalo González Mora (@gonzalogm):
+a esas constantes
+17:17:38 - ARIΞL (@afuggini):
+no se, estan dispersas por todo el codigo
+17:17:41 - Rodrigo Ali (@rodrigojali):
+Todo lo que sea texto, te re banco que se usen esos modulos. Después aplicar i18n es una boludez.
+17:17:44 - ARIΞL (@afuggini):
+la mayoria no tiene ni pies ni cabeza
+17:17:51 - ARIΞL (@afuggini):
+CLAROOOO para eso si!
+17:18:01 - ARIΞL (@afuggini):
+pero `export const APPLY = 'apply'` ?? dale
+17:18:02 - ARIΞL (@afuggini):
+jaja
+17:18:15 - ARIΞL (@afuggini):
+`export const ZERO = 0`
+17:18:26 - Rodrigo Ali (@rodrigojali):
+No magic numbers (?
+17:18:35 - ARIΞL (@afuggini):
+??
+17:18:40 - Gonzalo González Mora (@gonzalogm):
+Qué bizarro, muy raro al verdad
+17:18:41 - Rodrigo Ali (@rodrigojali):
+???
+17:18:49 - ARIΞL (@afuggini):
+ajaj
+17:18:52 - ARIΞL (@afuggini):
+si posta
+17:18:58 - Gonzalo González Mora (@gonzalogm):
+Me parece que no es un caso de no magic numbers esto
+17:19:06 - Rodrigo Ali (@rodrigojali):
+Obviamente que no jajaja
+17:19:13 - Gonzalo González Mora (@gonzalogm):
+Tirate un ejemplo de donde está en uso
+17:19:15 - Rodrigo Ali (@rodrigojali):
+Vamos a <#C0PHBKNNA|random>
+17:19:16 - Gonzalo González Mora (@gonzalogm):
+esas constants
+17:19:19 - Gonzalo González Mora (@gonzalogm):
+Se jaj
+17:19:58 - ARIΞL (@afuggini):
+a ver
+17:20:36 - ARIΞL (@afuggini):
+`element[PARENTNODE]`
+17:20:49 - ARIΞL (@afuggini):
+hay peores, a ver
+17:21:07 - ARIΞL (@afuggini):
+`imgOffset[TOP]`
+17:21:15 - ARIΞL (@afuggini):
+o sea TOP siempre es top
+17:21:17 - Gonzalo González Mora (@gonzalogm):
+cualquiera jajaaj
+17:21:18 - Gonzalo González Mora (@gonzalogm):
+Claro
+17:21:35 - Gonzalo González Mora (@gonzalogm):
+Por si cambia la spec (?) :joy:
+17:21:38 - ARIΞL (@afuggini):
+CLARO
+17:21:47 - ARIΞL (@afuggini):
+imaginate todo el codigo embarrado con estas constantes
+17:21:51 - ARIΞL (@afuggini):
+el import LARGUISIMO
+17:22:13 - ARIΞL (@afuggini):
+se vuelve ilegible el codigo porq es todo basado en esta convencion pedorra en vez de en la fucking spec de js
+17:22:29 - Gonzalo González Mora (@gonzalogm):
+Maaaaal
+17:22:30 - ARIΞL (@afuggini):
+en fin. Gracias por leer mi descargo (?
+17:28:47 - Rodrigo Ali (@rodrigojali):
+Ya se
+17:28:56 - Rodrigo Ali (@rodrigojali):
+Debe ser que al tipo le jodía que en el IDE le marcara strings con otro color
+17:29:16 - Rodrigo Ali (@rodrigojali):
+Entonces creó constantes exportadas por ahí para que tengan un color que le gusta.
+17:38:39 - ari (@arieldiaz):
+cuanto monyyy
+18:05:34 - david garcia (@manuonda):
+$$$
+18:06:54 - Mariano Ramonda (@ing.inf.mariano):
+Consulten con un msg por WhatsApp por favor, gracias!
+19:03:53 - Mariano Ramonda (@ing.inf.mariano):
+es un mensaje che, no me parece tanto pedir :developers:
+04:43:31 - Martín Valdés de León (@mvaldesdeleon):
+<https://github.com/numirias/security/blob/master/doc/2019-06-04_ace-vim-neovim.md>
+05:06:04 - Martín Valdés de León (@mvaldesdeleon):
+TL;DR actualicen vim &gt;=  8.1.1365 y neovim a &gt;= 0.3.6
+11:57:45 - Heber (@heber.acostalipera):
+no hay nodeconf este año! :scream: <https://twitter.com/nodeconfar/status/1136641392598405120>
+11:58:05 - Jorge Cano (@jorgeucano):
+nop, eso dice el tweet
+12:31:23 - Gonzalo González Mora (@gonzalogm):
+:disappointed:
+13:00:00 - Santiago Ruffino (@santi_0898):
+Por si alguno le sirve...
+13:00:00 - Santiago Ruffino (@santi_0898):
+<http://overapi.com>
+13:00:58 - Sergio Daniel Xalambrí (@sergiodxa):
+Cuando empezaba con JS usaba ese sitio todo el tiempo 
+13:01:58 - Santiago Ruffino (@santi_0898):
+No la conocia. La voy a dejar en los favs para ver que onda
+13:25:57 - Leandro Echevarria (@echevarrialeandro):
+Bueno iré a la ekoparty entonces :stuck_out_tongue:
+13:30:08 - Nico (@nicokorn96):
+de que se trata?
+13:30:56 - Nico (@nicokorn96):
+ah es como un index de apis
+13:34:47 - Brian Stanley (@brianstanley):
+Se filmaron las charlas del año pasado?
+14:39:48 - Hernan Rajchert (@sherman):
+NOOOOOOOOOOO :sob:
+16:05:29 - Mariano Ramonda (@ing.inf.mariano):
+Comparto flyer que me paso mi profesora particular de ingles.
+Me animo a recomendarla porque hace casi un año que tomo clases semanales con ella y mi nivel mejoro fuertemente.
+Trabajo para una startup de USA y les aseguro el idioma es un skill extremadamente importante (como ya deben saber), pero ademas es algo que no se aprende como una nueva API o libreria de npm, generalmente lleva mucho tiempo perfeccionarlo.
+Ella da clases remotas via Skype o Zoom, acomodando el horario a necesidad y obviamente armando clases personalizadas.
+16:08:33 - Maxi (@tholem98):
+Gracias
+16:18:50 - Martin Carrera (@mcarrera):
+Precio? aunque sea un aprox?
+17:14:48 - ARIΞL (@afuggini):
+hay alguna ventaja en tener en una app un archivo tipo diccionario con todas las string seteadas como constants? e.g.
+17:14:53 - ARIΞL (@afuggini):
+```
+export const ABSOLUTE = 'absolute'
+export const ADDEVENTLISTENER = 'addEventListener'
+export const ANCHOR = 'a'
+export const APPLY = 'apply'
+export const AUTO = 'auto'
+export const BIND = 'bind'
+```
+17:15:09 - ARIΞL (@afuggini):
+a mi me vuelve loco y me parece bastante al pedo jaja
+17:15:34 - ARIΞL (@afuggini):
+asi, pero 200 mas, e importados por todos lados
+17:15:55 - Gonzalo González Mora (@gonzalogm):
+Ese caso ni idea, pero en otraste evita errores de typos y cambiarlo más fácil si decidís hacerlo
+17:16:49 - ARIΞL (@afuggini):
+esto es buenisimo….
+17:16:51 - Rodrigo Ali (@rodrigojali):
+Claro, es básicamente reutilización. Te ayuda a propagar cambios con menos acarreo de error
+17:16:52 - ARIΞL (@afuggini):
+```
+export const ONE_AMP = '&amp;'
+export const ONE_COLON = ':'
+export const ONE_COMMA = ','
+export const ONE_DOT = '.'
+export const ONE_EQUAL = '='
+export const ONE_SPACE = ' '
+```
+17:16:59 - Rodrigo Ali (@rodrigojali):
+Bueno eso ya...
+17:17:06 - Gonzalo González Mora (@gonzalogm):
+pero en qué caso lo usa por ej a eso?
+17:17:26 - Gonzalo González Mora (@gonzalogm):
+a esas constantes
+17:17:38 - ARIΞL (@afuggini):
+no se, estan dispersas por todo el codigo
+17:17:41 - Rodrigo Ali (@rodrigojali):
+Todo lo que sea texto, te re banco que se usen esos modulos. Después aplicar i18n es una boludez.
+17:17:44 - ARIΞL (@afuggini):
+la mayoria no tiene ni pies ni cabeza
+17:17:51 - ARIΞL (@afuggini):
+CLAROOOO para eso si!
+17:18:01 - ARIΞL (@afuggini):
+pero `export const APPLY = 'apply'` ?? dale
+17:18:02 - ARIΞL (@afuggini):
+jaja
+17:18:15 - ARIΞL (@afuggini):
+`export const ZERO = 0`
+17:18:26 - Rodrigo Ali (@rodrigojali):
+No magic numbers (?
+17:18:35 - ARIΞL (@afuggini):
+??
+17:18:40 - Gonzalo González Mora (@gonzalogm):
+Qué bizarro, muy raro al verdad
+17:18:41 - Rodrigo Ali (@rodrigojali):
+???
+17:18:49 - ARIΞL (@afuggini):
+ajaj
+17:18:52 - ARIΞL (@afuggini):
+si posta
+17:18:58 - Gonzalo González Mora (@gonzalogm):
+Me parece que no es un caso de no magic numbers esto
+17:19:06 - Rodrigo Ali (@rodrigojali):
+Obviamente que no jajaja
+17:19:13 - Gonzalo González Mora (@gonzalogm):
+Tirate un ejemplo de donde está en uso
+17:19:15 - Rodrigo Ali (@rodrigojali):
+Vamos a <#C0PHBKNNA|random>
+17:19:16 - Gonzalo González Mora (@gonzalogm):
+esas constants
+17:19:19 - Gonzalo González Mora (@gonzalogm):
+Se jaj
+17:19:58 - ARIΞL (@afuggini):
+a ver
+17:20:36 - ARIΞL (@afuggini):
+`element[PARENTNODE]`
+17:20:49 - ARIΞL (@afuggini):
+hay peores, a ver
+17:21:07 - ARIΞL (@afuggini):
+`imgOffset[TOP]`
+17:21:15 - ARIΞL (@afuggini):
+o sea TOP siempre es top
+17:21:17 - Gonzalo González Mora (@gonzalogm):
+cualquiera jajaaj
+17:21:18 - Gonzalo González Mora (@gonzalogm):
+Claro
+17:21:35 - Gonzalo González Mora (@gonzalogm):
+Por si cambia la spec (?) :joy:
+17:21:38 - ARIΞL (@afuggini):
+CLARO
+17:21:47 - ARIΞL (@afuggini):
+imaginate todo el codigo embarrado con estas constantes
+17:21:51 - ARIΞL (@afuggini):
+el import LARGUISIMO
+17:22:13 - ARIΞL (@afuggini):
+se vuelve ilegible el codigo porq es todo basado en esta convencion pedorra en vez de en la fucking spec de js
+17:22:29 - Gonzalo González Mora (@gonzalogm):
+Maaaaal
+17:22:30 - ARIΞL (@afuggini):
+en fin. Gracias por leer mi descargo (?
+17:28:47 - Rodrigo Ali (@rodrigojali):
+Ya se
+17:28:56 - Rodrigo Ali (@rodrigojali):
+Debe ser que al tipo le jodía que en el IDE le marcara strings con otro color
+17:29:16 - Rodrigo Ali (@rodrigojali):
+Entonces creó constantes exportadas por ahí para que tengan un color que le gusta.
+17:38:39 - ari (@arieldiaz):
+cuanto monyyy
+18:05:34 - david garcia (@manuonda):
+$$$
+18:06:54 - Mariano Ramonda (@ing.inf.mariano):
+Consulten con un msg por WhatsApp por favor, gracias!
+19:03:53 - Mariano Ramonda (@ing.inf.mariano):
+es un mensaje che, no me parece tanto pedir :developers:
