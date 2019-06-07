@@ -1,0 +1,350 @@
+09:20:57 - Santiago Ruffino (@santi_0898):
+Hola pipol! Alguien instalo hace poco node-sass? Me esta tirando problemas con Node 10
+09:21:14 - Jorge Cano (@jorgeucano):
+que te dice?
+09:23:16 - Santiago Ruffino (@santi_0898):
+El primer mensaje de error es `gyp ERR! stack Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/node-sass/build'`
+09:23:30 - Santiago Ruffino (@santi_0898):
+El comando lo estoy corriendo con sudo, asi que no deberia tener problemas de permisos
+09:23:37 - Jorge Cano (@jorgeucano):
+en realidad alrevez
+09:23:43 - Jorge Cano (@jorgeucano):
+si node lo instalaste normal
+09:23:45 - Jorge Cano (@jorgeucano):
+sin sudo
+09:23:55 - Jorge Cano (@jorgeucano):
+NO necesitas sudo para isntalar lo demas
+09:24:12 - Santiago Ruffino (@santi_0898):
+Pero sin sudo tambien tiene problemas de permisos
+09:24:26 - Jorge Cano (@jorgeucano):
+dale permisos a esta carpeta /usr/local/lib/
+09:24:34 - Santiago Ruffino (@santi_0898):
+Oka
+09:24:53 - Jorge Cano (@jorgeucano):
+`sudo chmod 777`
+09:26:36 - Damian Diaz (@damianmdst):
+Node-sass hace varios años viene teniendo problemas. Creo que lo último que supe es que tenia problemas con ciertas versiones de node (no se bien porque) y tuve que downgradear a 8 para instalar el package. Tenia entendido que ahora usan el equivalente que es algo asi como node-sass-chokidar o parecido
+09:27:35 - Jorge Cano (@jorgeucano):
+puede ser
+09:27:38 - Jorge Cano (@jorgeucano):
+en mi caso tengo node 10
+09:27:42 - Jorge Cano (@jorgeucano):
+y uso node-sass
+09:27:43 - Jorge Cano (@jorgeucano):
+todos los dias
+09:28:33 - Santiago Ruffino (@santi_0898):
+Que flag me falta en el `sudo chmod 777`?
+09:28:58 - Jorge Cano (@jorgeucano):
+recursivo
+09:29:02 - Jorge Cano (@jorgeucano):
+-R
+09:29:06 - Jorge Cano (@jorgeucano):
+para que lo haga en todas las carpetsa
+09:29:31 - Jorge Cano (@jorgeucano):
+`chmod -R 777 /usr/local/lib/node_modules``
+09:30:32 - Santiago Ruffino (@santi_0898):
+Chinga su madre. No quiere
+09:30:46 - Jorge Cano (@jorgeucano):
+con sudo ?
+09:30:51 - Jorge Cano (@jorgeucano):
+estas usando nvm ?
+09:31:15 - Santiago Ruffino (@santi_0898):
+Lo probe con sudo y sin sudo
+09:31:23 - Jorge Cano (@jorgeucano):
+si instalaste node con sudo
+09:31:26 - Santiago Ruffino (@santi_0898):
+npm
+09:31:28 - Jorge Cano (@jorgeucano):
+te diria que lo borres y vuelvas a instalar sin sudo
+09:31:33 - Santiago Ruffino (@santi_0898):
+Oka
+09:31:36 - Jorge Cano (@jorgeucano):
+muchas veces hay quilombo con eso
+09:31:39 - Jorge Cano (@jorgeucano):
+estas en linux?
+09:31:53 - Santiago Ruffino (@santi_0898):
+Ubuntu 18
+09:20:57 - Santiago Ruffino (@santi_0898):
+Hola pipol! Alguien instalo hace poco node-sass? Me esta tirando problemas con Node 10
+09:21:14 - Jorge Cano (@jorgeucano):
+que te dice?
+09:23:16 - Santiago Ruffino (@santi_0898):
+El primer mensaje de error es `gyp ERR! stack Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/node-sass/build'`
+09:23:30 - Santiago Ruffino (@santi_0898):
+El comando lo estoy corriendo con sudo, asi que no deberia tener problemas de permisos
+09:23:37 - Jorge Cano (@jorgeucano):
+en realidad alrevez
+09:23:43 - Jorge Cano (@jorgeucano):
+si node lo instalaste normal
+09:23:45 - Jorge Cano (@jorgeucano):
+sin sudo
+09:23:55 - Jorge Cano (@jorgeucano):
+NO necesitas sudo para isntalar lo demas
+09:24:12 - Santiago Ruffino (@santi_0898):
+Pero sin sudo tambien tiene problemas de permisos
+09:24:26 - Jorge Cano (@jorgeucano):
+dale permisos a esta carpeta /usr/local/lib/
+09:24:34 - Santiago Ruffino (@santi_0898):
+Oka
+09:24:53 - Jorge Cano (@jorgeucano):
+`sudo chmod 777`
+09:26:36 - Damian Diaz (@damianmdst):
+Node-sass hace varios años viene teniendo problemas. Creo que lo último que supe es que tenia problemas con ciertas versiones de node (no se bien porque) y tuve que downgradear a 8 para instalar el package. Tenia entendido que ahora usan el equivalente que es algo asi como node-sass-chokidar o parecido
+09:27:35 - Jorge Cano (@jorgeucano):
+puede ser
+09:27:38 - Jorge Cano (@jorgeucano):
+en mi caso tengo node 10
+09:27:42 - Jorge Cano (@jorgeucano):
+y uso node-sass
+09:27:43 - Jorge Cano (@jorgeucano):
+todos los dias
+09:28:33 - Santiago Ruffino (@santi_0898):
+Que flag me falta en el `sudo chmod 777`?
+09:28:58 - Jorge Cano (@jorgeucano):
+recursivo
+09:29:02 - Jorge Cano (@jorgeucano):
+-R
+09:29:06 - Jorge Cano (@jorgeucano):
+para que lo haga en todas las carpetsa
+09:29:31 - Jorge Cano (@jorgeucano):
+`chmod -R 777 /usr/local/lib/node_modules``
+09:30:32 - Santiago Ruffino (@santi_0898):
+Chinga su madre. No quiere
+09:30:46 - Jorge Cano (@jorgeucano):
+con sudo ?
+09:30:51 - Jorge Cano (@jorgeucano):
+estas usando nvm ?
+09:31:15 - Santiago Ruffino (@santi_0898):
+Lo probe con sudo y sin sudo
+09:31:23 - Jorge Cano (@jorgeucano):
+si instalaste node con sudo
+09:31:26 - Santiago Ruffino (@santi_0898):
+npm
+09:31:28 - Jorge Cano (@jorgeucano):
+te diria que lo borres y vuelvas a instalar sin sudo
+09:31:33 - Santiago Ruffino (@santi_0898):
+Oka
+09:31:36 - Jorge Cano (@jorgeucano):
+muchas veces hay quilombo con eso
+09:31:39 - Jorge Cano (@jorgeucano):
+estas en linux?
+09:31:53 - Santiago Ruffino (@santi_0898):
+Ubuntu 18
+09:32:56 - Jorge Cano (@jorgeucano):
+<https://nodesource.com/blog/installing-node-js-tutorial-debian-linux/>
+09:33:06 - Jorge Cano (@jorgeucano):
+parece que si
+09:33:08 - Jorge Cano (@jorgeucano):
+tenes que usar sudo
+09:33:45 - Jorge Cano (@jorgeucano):
+trata con esto
+09:33:52 - Jorge Cano (@jorgeucano):
+`sudo node-gyp rebuild -g --unsafe-perm`
+09:36:23 - Santiago Ruffino (@santi_0898):
+Se pudre todo con ese
+09:39:13 - Germán Burgardt (@germanandresburgardt):
+Yo en un proyecto que estoy siempre tengo que tirar un `npm rebuild node-sass –force` y dsps un `npm install`
+09:39:26 - Germán Burgardt (@germanandresburgardt):
+anda para el tuje nodesass
+09:44:45 - Santiago Ruffino (@santi_0898):
+Probe de hacer eso pero sigue tirando error cuando hago el `npm install`
+09:45:44 - Germán Burgardt (@germanandresburgardt):
+y no podes cambiar de versión de node? Pasate a la 8 y pico
+09:45:48 - Germán Burgardt (@germanandresburgardt):
+podes usar esto: <https://github.com/tj/n>
+09:48:00 - Santiago Ruffino (@santi_0898):
+Es un problema con el postinstall script
+09:48:20 - Santiago Ruffino (@santi_0898):
+Porque estoy haciendo `sudo npm i -g node-sass --ignore-scripts`
+09:48:40 - Santiago Ruffino (@santi_0898):
+Y se instala sin problema. El tema es que cuando hago el `npm install`del proyecto, crashea de nuevo
+09:49:40 - Santiago Ruffino (@santi_0898):
+Si elimino node y nodejs y lo vuelvo a instalar sin sudo, deberia dejar de tener el problema. Cierto?
+10:19:02 - Damian Diaz (@damianmdst):
+Yo probaria con downgradear a 8 a mi me sirivio y en mas de una ocasion.
+10:19:57 - Santiago Ruffino (@santi_0898):
+Fuck. Por lo que veo, no me queda otra. Estoy renegando una banda y no puedo avanzar con la capacitacion
+10:20:27 - Santiago Ruffino (@santi_0898):
+Encima tenia Node 8, pero en el curso dice "Instala la ultima version" PARA QUE MIERDA SI VOY A RENEGAR COMO UN CULIADO?
+10:24:52 - Damian Diaz (@damianmdst):
+Es que generalmente se esta usando el paquete chokidar que es un "reemplazo" de node-sass, yo tuve varios issues y la unica solucion que encontre fue downgradeando o rompiendo la maquina en mil pedazos
+10:25:39 - Martín Valdés de León (@mvaldesdeleon):
+FWIW, pinta a que todo este bardo es por instalar node globalmente en el sistema
+10:25:46 - Martín Valdés de León (@mvaldesdeleon):
+en general eso no es recomendable
+10:26:03 - Santiago Ruffino (@santi_0898):
+Seguramente, deberia instalarlo en el directorio de mi proyecto. Cierto?
+10:26:11 - Martín Valdés de León (@mvaldesdeleon):
+Usa `nvm` o algo similar.
+10:26:21 - Martín Valdés de León (@mvaldesdeleon):
+<https://linuxize.com/post/how-to-install-node-js-on-ubuntu-18.04/#1-downloading-nvm-node-version-manager-script> (random google search result)
+10:27:05 - Santiago Ruffino (@santi_0898):
+Genial, ahroa lo leo. Igual, estoy luchando para hacer uninstall de Node
+10:27:27 - Santiago Ruffino (@santi_0898):
+Porque cuando hago `node -v` me dice que es la V10. Pero no puedo hacer `apt remove node` porque no lo encuentra
+10:27:56 - Martín Valdés de León (@mvaldesdeleon):
+para usar `nvm` no necesitas desinstalar el node global, pq le das prioridad a `nvm` via el orden en `PATH`
+10:35:06 - Daniel Broder (@dabroder):
+<@U9KMYNJMV> tenés instalado el package `build-essential` en ubuntu???
+10:35:38 - Daniel Broder (@dabroder):
+`sudo apt-get install -y build-essential` sin eso no vas a poder compilar extensiones nativas de `node.js`
+10:48:45 - Santiago Ruffino (@santi_0898):
+Si, esta instalado
+11:00:39 - Santiago Ruffino (@santi_0898):
+Esta bien que tenga `node` pero no tenga `nodejs`?
+11:01:28 - Sergio Daniel Xalambrí (@sergiodxa):
+se usa siempre `node`
+11:01:51 - Sergio Daniel Xalambrí (@sergiodxa):
+si se instala como `nodejs` solo normalmente vas a terminar con problemas en algunos scripts
+11:04:14 - Santiago Ruffino (@santi_0898):
+Esta bien entonces. Solo tengo node y nodejs me tira que no lo tengo isntalad
+11:04:30 - Santiago Ruffino (@santi_0898):
+Peeero, sigo teniendo problemas para instalar node-sass
+11:08:45 - Manuel Urbano (@manurbano.dev):
+usa `nvm` como te recomendo Martin, podes tener multiples versiones y te vas moviendo segun requieran tus proyectos
+11:12:28 - Santiago Ruffino (@santi_0898):
+Si, ya instale con `nvm` pero sigue tirando el mismo error cuando quiero instalar node-sass
+11:21:15 - Santiago Ruffino (@santi_0898):
+Pude! Esta vivoooo
+12:59:03 - Julian (@jantonielli01):
+Yo uso nix para eso 
+12:59:18 - Julian (@jantonielli01):
+Es una mierda instalar node, te rompe todo 
+15:13:03 - Nico (@nicokorn96):
+hola gente,  una pregunta, tengo un repo en proyecto en github que esta como el or*... y lo quiero reemplazar por otro nuevo, cual es la mejor manera de borrrar todo, dejarlo limpio y pisar con el nuevo?
+15:13:16 - Nico (@nicokorn96):
+porque elnuevo tiene una estructura totalmente diferente
+15:13:35 - Martín Valdés de León (@mvaldesdeleon):
+literalmente lo que acabas de decir, creo
+15:13:45 - Martín Valdés de León (@mvaldesdeleon):
+borralo y crealo denuevo con el mismo nombre
+15:13:47 - Santiago Ruffino (@santi_0898):
+Delete repository
+15:14:00 - Santiago Ruffino (@santi_0898):
+O de ultima lo archivas, si lo queres tener por las dudas
+15:14:01 - Nico (@nicokorn96):
+digo tantas cosas
+15:14:03 - Martín Valdés de León (@mvaldesdeleon):
+si no me falla la memoria te deja hacer permadelete
+15:14:07 - Nico (@nicokorn96):
+pero quiero mantener la url
+15:14:11 - Martín Valdés de León (@mvaldesdeleon):
+no es que no te deja reusar el nombre
+15:14:14 - Martín Valdés de León (@mvaldesdeleon):
+googlea un toque eso y ya
+15:14:29 - Martín Valdés de León (@mvaldesdeleon):
+o hace el experimento con un repo random creado con ese proposito
+15:14:33 - Santiago Ruffino (@santi_0898):
+Si lo creas con el mismo nombre, no deberia cambiar la URL
+15:14:37 - Martín Valdés de León (@mvaldesdeleon):
+<http://github.com/nico/sepuedeborraresto|github.com/nico/sepuedeborraresto>
+15:14:56 - Nico (@nicokorn96):
+ahh ok
+15:22:54 - Luis Alvarez (@luistensai):
+alguno la tiene clara con text search en mongodb?
+tenemos una instancia que tiene 90k objects que son vehiculos, queremos buscar por partial matching / case insensitive por un field (patente), pero parece que mongodb no soporta esto en un text index, y la búsqueda se hace super lenta, al rededor de 7s, se les ocurre alguna solución rápida? (la verdad me parece que 90k no son muchos registros e implementar algo como elasticsearch de momento es medio inviable)
+la versión de mongodb es 3.0.15
+15:35:03 - Julian (@jantonielli01):
+Me paso algo parecido pero no investigamos mucho 
+15:35:17 - Julian (@jantonielli01):
+Metimos elasticsearch porque lo íbamos a necesitar después de todas formas 
+15:45:52 - Martín Valdés de León (@mvaldesdeleon):
+por un lado 90k es poco y aun si tiene que fijarse uno por uno no deberia tardar 7 segundos. son muy grandes los documentos? (lease: tiene suficiente memoria el servidor como para levantar el dataset entero en ram?)
+
+por otro lado, para TU caso especifico asumiendo que una patente son tipo 6-8 caracteres alfanumericos, podrias generar todos los n-grams desde 2 hasta el largo de la patente, y tener eso en un array.
+
+x ej, si la patente es `ABC123` tendrias un array tipo `['AB', 'BC', 'C1', 'ABC', ...]` etc, basicamente todos los substrings, uppercaseados (o lowercaseados).
+
+y la busqueda que harias seria ver si matchea uno de los valores del array.
+15:47:27 - Luis Alvarez (@luistensai):
+y agregar un index por ese array? creo que podría ser y es lo que más o menos pensábamos, el tema es modificar todos los saves para que se guarde esta data...
+15:47:52 - Luis Alvarez (@luistensai):
+además de hacer un script que agregue el field
+15:48:20 - Luis Alvarez (@luistensai):
+pensaba igual, 90k es poco, en realidad la collection es mucho más grande, el subset es de 90k
+15:48:54 - Luis Alvarez (@luistensai):
+en total tenemos 3.2M de vehicles
+15:49:08 - Luis Alvarez (@luistensai):
+creo que lo que la caga es que estamos haciendo una regex
+15:49:34 - Luis Alvarez (@luistensai):
+pero para buscar case insensitive y partial no sé si nos queda otra, o usar lo que decís del array
+15:50:17 - Luis Alvarez (@luistensai):
+en cuanto a la implementación de elastic, cómo se haría la sincronización con mongo?
+15:51:11 - Nico (@nicokorn96):
+yo me tiro a una implementacion con elastic
+15:52:51 - Nico (@nicokorn96):
+yo lo usaba con mysql
+15:52:56 - Nico (@nicokorn96):
+encontre esto <https://coderwall.com/p/sy1qcw/setting-up-elasticsearch-with-mongodb>
+15:53:03 - Luis Alvarez (@luistensai):
+el problema es que tenemos nula exp con elastic, por eso mi pregunta de qué tan jodido sería implementarlo, sincronizar más que nada con mongodb
+15:54:08 - Luis Alvarez (@luistensai):
+gracias! ahí le pego una leída
+15:54:11 - Nico (@nicokorn96):
+<http://bitcom.systems/blog/moving-mongo-to-elasticsearch/>
+16:04:37 - Luis Alvarez (@luistensai):
+lo malo es que la db la tenemos en un proveedor externo, así que no estoy seguro de cuánto fierro nos esten dando tampoco
+17:51:29 - Jonas Millan (@millan.jonas.1994):
+hola buenas tengo una duda
+17:51:47 - Jonas Millan (@millan.jonas.1994):
+quiero retornar un error de un fetch a axios
+17:51:56 - Jonas Millan (@millan.jonas.1994):
+como puedo hacer esto?
+17:52:30 - Jonas Millan (@millan.jonas.1994):
+algo asi mas o menos
+17:52:38 - Jonas Millan (@millan.jonas.1994):
+no se como tomar el error
+17:52:41 - Jonas Millan (@millan.jonas.1994):
+no se si me explico
+17:53:33 - Gustavo Machado (@machadogj):
+si el get tira un error, te va a rejectar la promise, y te va a interrumpir la ejecucion antes del “return”
+17:54:37 - Jonas Millan (@millan.jonas.1994):
+pero existe un mundo en donde retorno ambos objetos?
+17:55:08 - Gustavo Machado (@machadogj):
+mira: <https://github.com/axios/axios#handling-errors>
+17:55:37 - Gustavo Machado (@machadogj):
+axios resuelve la promise si el request fue exitoso, y la rejecta si hubo algun problema
+17:55:54 - Gustavo Machado (@machadogj):
+si queres controlar los status codes en los que rejecta, podes pasarle un parametro extra
+17:56:19 - Julian (@jantonielli01):
+La respuesta corta es
+17:57:01 - Julian (@jantonielli01):
+```async url =&gt; {
+try { await axios.get(url); return "todo bien";}
+catch (e) { return "todo mal"  } 
+}
+```
+17:58:11 - Jonas Millan (@millan.jonas.1994):
+claro
+17:58:26 - Gustavo Machado (@machadogj):
+&gt; pero existe un mundo en donde retorno ambos objetos?
+no suele ser lo mas “ortodoxo”, pero si queres podes… forzas a que todos los que usen tu api, tengan que hacer el `if (response.error) {`
+17:59:23 - Gustavo Machado (@machadogj):
+fijate como queres que usen tu api, y arma tu api en base a eso… asumi que tu funcion api ya existe y fijate como la consumirian:
+```
+const result = await api('https://.....');
+if (result.error) {
+  // ....
+}
+
+console.log(result.response);
+```
+18:00:26 - Gustavo Machado (@machadogj):
+si, se puede
+18:00:34 - Jonas Millan (@millan.jonas.1994):
+pasa que afuera quiero lanzar a redux el error pero de esta forma
+18:01:11 - Jonas Millan (@millan.jonas.1994):
+quiero hacer esto basicamente  const {response, error} = yield call(api, API_URL+'products');
+18:01:24 - Gustavo Machado (@machadogj):
+si no asi:
+`url =&gt; axios.get(url).then(response =&gt; ({ respuesta: response.data }), error =&gt; ({error}));`
+18:01:56 - Jonas Millan (@millan.jonas.1994):
+eso se puede?
+18:02:05 - Jonas Millan (@millan.jonas.1994):
+el error esta dentro de ese then?
+18:02:06 - Jonas Millan (@millan.jonas.1994):
+copado
+18:02:10 - Julian (@jantonielli01):
+Te faltan parentesis en ambas funciones
+18:02:22 - Julian (@jantonielli01):
+<@U84C620N5> a then le podes pasar 2 parametros
