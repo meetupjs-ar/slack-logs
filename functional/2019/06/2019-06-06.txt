@@ -1,0 +1,263 @@
+12:59:42 - Julian (@jantonielli01):
+<@U0TFEHWEA> ya arrancaste en aws?
+13:04:26 - Martín Valdés de León (@mvaldesdeleon):
+Primero de Julio.
+13:04:52 - gillchristian (@gillchristian):
+Yo te dije, tenes tiempo para venir a la <http://monadic.party|monadic.party>
+13:04:53 - gillchristian (@gillchristian):
+<https://github.com/sras/elminator>
+13:05:04 - gillchristian (@gillchristian):
+En el :haskell: newsletter de esta semana
+14:30:31 - Hernan Rajchert (@sherman):
+ah tenes vacaciones para tirar al techo
+14:30:42 - Julian (@jantonielli01):
+posta
+14:30:45 - Hernan Rajchert (@sherman):
+como vienen los proyectos personales?
+14:30:46 - Julian (@jantonielli01):
+estas re al pedo chabon
+14:30:55 - Hernan Rajchert (@sherman):
+queremos blogs martin!
+12:59:42 - Julian (@jantonielli01):
+<@U0TFEHWEA> ya arrancaste en aws?
+13:04:26 - Martín Valdés de León (@mvaldesdeleon):
+Primero de Julio.
+13:04:52 - gillchristian (@gillchristian):
+Yo te dije, tenes tiempo para venir a la <http://monadic.party|monadic.party>
+13:04:53 - gillchristian (@gillchristian):
+<https://github.com/sras/elminator>
+13:05:04 - gillchristian (@gillchristian):
+En el :haskell: newsletter de esta semana
+14:30:31 - Hernan Rajchert (@sherman):
+ah tenes vacaciones para tirar al techo
+14:30:42 - Julian (@jantonielli01):
+posta
+14:30:45 - Hernan Rajchert (@sherman):
+como vienen los proyectos personales?
+14:30:46 - Julian (@jantonielli01):
+estas re al pedo chabon
+14:30:55 - Hernan Rajchert (@sherman):
+queremos blogs martin!
+14:32:27 - Julian (@jantonielli01):
+este me parece q es mas usado
+14:32:28 - Julian (@jantonielli01):
+<https://github.com/krisajenkins/elm-export>
+14:32:32 - Julian (@jantonielli01):
+pero no se las diferencias
+14:33:54 - gillchristian (@gillchristian):
+Yo colgué lo de TS, estoy (lentamente) con la charla de la conf
+14:34:05 - gillchristian (@gillchristian):
+Cuando de eso seguiré con lo de TS
+14:34:36 - Julian (@jantonielli01):
+Es lo de búsqueda por tipo? 
+14:52:02 - Martín Valdés de León (@mvaldesdeleon):
+por ahora mi proyecto personal fue armarme la home office
+14:52:44 - Martín Valdés de León (@mvaldesdeleon):
+me falta pegar un whiteboard magnetico y un pegboard para colgar algunas herramientitas
+14:53:22 - Gonzalo González Mora (@gonzalogm):
+Sos DJ tmb? :scream:
+14:53:39 - Martín Valdés de León (@mvaldesdeleon):
+eso por culpa de la empresa anterior, que no expiraba las vacaciones y fui acumulando
+14:53:46 - Martín Valdés de León (@mvaldesdeleon):
+9 semanas
+14:54:07 - Martín Valdés de León (@mvaldesdeleon):
+super hobbie
+14:54:25 - Martín Aimar (@maimar):
+fuente y osciloscopio :open_mouth:
+14:57:59 - Gonzalo González Mora (@gonzalogm):
+:clap:
+15:05:19 - gillchristian (@gillchristian):
+piola
+15:05:30 - gillchristian (@gillchristian):
+"lo de TS" si
+15:05:42 - gillchristian (@gillchristian):
+la charla al final no
+15:06:15 - gillchristian (@gillchristian):
+es un refactor de una que había dado sobre FP en JS
+15:47:56 - Julian (@jantonielli01):
+<https://www.reddit.com/r/haskell/comments/10ynff/regarding_top_and_bottom_in_haskells_type_system/c6hrbke/>
+15:48:01 - Julian (@jantonielli01):
+esta copado ese thread de comments
+15:52:17 - Julian (@jantonielli01):
+estoy notando que la gente parece usar más clases en TS
+15:52:20 - Julian (@jantonielli01):
+Alguna razon?
+15:55:56 - Martín Valdés de León (@mvaldesdeleon):
+era una de las features antes de que ES la incorporase
+15:56:08 - Martín Valdés de León (@mvaldesdeleon):
+mucha gente compro por ese lado
+15:57:49 - gillchristian (@gillchristian):
+usan clases asi por que si ?
+15:58:22 - gillchristian (@gillchristian):
+nosotros usamos solo clases como React components y creo que hay dos o tres clases mas perdidas por ahi
+16:55:09 - Julian (@jantonielli01):
+ugh
+16:55:31 - Julian (@jantonielli01):
+tengo un `val : string` y me crashea en runtime por un `val.toLowerCase()` siendo undefined
+16:55:47 - Julian (@jantonielli01):
+pense que eso me garantizaba que no sea undefined
+16:56:33 - Gonza Gluzman (@gonza):
+En teoría sí, te lo debería garantizar
+16:56:49 - Gonza Gluzman (@gonza):
+Está configurado con `strict: true`?
+16:57:10 - Julian (@jantonielli01):
+a ver
+16:57:39 - Julian (@jantonielli01):
+Si
+16:57:52 - Julian (@jantonielli01):
+Lo otro que puede ser es un cast me imagino
+17:09:21 - Julian (@jantonielli01):
+ugh encontre de donde sale el problema mepa pero no puedo hacer que no typecheckee
+17:09:45 - Julian (@jantonielli01):
+es esto parece:
+```
+const value = rawCLAs[index];
+parsedArguments[paramName] = definition.type.parse(paramName, value);
+```
+17:10:02 - Julian (@jantonielli01):
+`rawCLAs : string[], parse: (string, string) -&gt; void`
+17:10:21 - Julian (@jantonielli01):
+el value me lo debería tipar como `string | undefined` entiendo, pero me lo tipea como `string`
+17:16:03 - Martín Valdés de León (@mvaldesdeleon):
+<https://github.com/microsoft/TypeScript/issues/13778>
+17:16:05 - Martín Valdés de León (@mvaldesdeleon):
+tough luck
+17:18:50 - Julian (@jantonielli01):
+pero es una mierda que
+17:18:54 - Julian (@jantonielli01):
+si hago incluso
+17:19:07 - Julian (@jantonielli01):
+`const v2 : string | undefined = value`, me lo refina a string
+17:22:42 - Julian (@jantonielli01):
+(╯°□°)╯︵ ┻━┻
+17:30:40 - Martín Valdés de León (@mvaldesdeleon):
+podes...
+
+1. tipar el array con undefined explicitamente..
+```
+const arr: (number | undefined)[] = [1,2,3];
+const elem = arr[5]; // number | undefined
+```
+
+esto mismo podes hacerlo con un type alias
+```
+type HonestArray&lt;A&gt; = (A | undefined)[];
+
+const arr: HonestArray&lt;number&gt; = [1,2,3];
+const elem = arr[5]; // number | undefined
+```
+
+2. usar una funcion en lugar de los brackets
+```
+const atIndex = &lt;A&gt;(index: number, arr: A[]): A | undefined =&gt; arr[index];
+
+const elem = atIndex(5, [1,2,3]); // number | undefined
+```
+17:38:30 - Julian (@jantonielli01):
+se, hice lo de la func
+17:38:43 - Julian (@jantonielli01):
+estoy viendo igual bien porque
+17:38:51 - Julian (@jantonielli01):
+si tenes un array pelado ni te acordas de usarla
+17:39:20 - Julian (@jantonielli01):
+y wrappearlo en algo (clase/lo que sea) es medio paja
+17:39:33 - Julian (@jantonielli01):
+capaz lo dejo así nomas y checkeo a mano en el caso que se rompe
+17:39:43 - Julian (@jantonielli01):
+total esta todo el parseo hecho medio así nomas
+17:40:26 - Julian (@jantonielli01):
+me había olvidado que usan `any`/excepciones para "puede fallar" en vez de `Either/Result/lo que sea`
+17:40:52 - Gonza Gluzman (@gonza):
+Lo del acceso a un índice de un array es una v***a
+17:41:16 - Gonza Gluzman (@gonza):
+Esto es porque seguro que el `value` es un string, y como es un `const`, no puede cambiar
+17:41:21 - Julian (@jantonielli01):
+lo mejor que puedo hacer es convencer lentamente de usar PS jajaja
+17:41:28 - Gonza Gluzman (@gonza):
+jajajajaj
+17:44:32 - Hernan Rajchert (@sherman):
+Y en TS usar task
+18:06:13 - Julian (@jantonielli01):
+otra cosa que extraño
+18:06:28 - Julian (@jantonielli01):
+es tener `traverse, sequence, etc` trabajando con promises y listas
+18:06:54 - Gonza Gluzman (@gonza):
+:goat:
+18:06:56 - Gonza Gluzman (@gonza):
+Y parmenides
+18:07:05 - Gonza Gluzman (@gonza):
+:goat: :goat:
+18:18:39 - Martín Valdés de León (@mvaldesdeleon):
+Tenes `Promise.all` q es el gist de esas cosas
+18:19:05 - Martín Valdés de León (@mvaldesdeleon):
+tenes que mapear a mano vos nomas
+18:20:21 - Julian (@jantonielli01):
+Sep, me había olvidado
+18:21:27 - Martín Valdés de León (@mvaldesdeleon):
+lo q me da paja es q no haya version "objetos" y version "deep" de todas las cosas de array
+18:21:30 - Martín Valdés de León (@mvaldesdeleon):
+y promises
+18:21:38 - Martín Valdés de León (@mvaldesdeleon):
+en la stdlib
+18:21:44 - Julian (@jantonielli01):
+decis tipo
+18:21:47 - Julian (@jantonielli01):
+`mapArray . mapPromise`?
+18:22:31 - Martín Valdés de León (@mvaldesdeleon):
+digo que me falta
+
+`Object.prototype.map` x ej
+18:22:59 - Julian (@jantonielli01):
+ah
+18:23:03 - Martín Valdés de León (@mvaldesdeleon):
+un `Promise.all` que funcione con `{a: Promise, b: Promise}`
+18:23:04 - Martín Valdés de León (@mvaldesdeleon):
+etc
+19:20:37 - Hernan Rajchert (@sherman):
+Task tiene un allProperties :grimacing:
+19:20:50 - Hernan Rajchert (@sherman):
+Ya se, yase, me callo jaja
+19:44:49 - Julian (@jantonielli01):
+lmao
+19:44:50 - Julian (@jantonielli01):
+<https://twitter.com/stdlib/status/1136629930060636162>
+19:45:03 - Julian (@jantonielli01):
+<https://github.com/NixOS/nixpkgs/commit/ed8f3b5fa3cebfc3662ad5fff098567616220cf8>
+19:46:39 - Julian (@jantonielli01):
+explicacion: <https://twitter.com/__vlqc/status/1136644118266949633>
+19:51:15 - gillchristian (@gillchristian):
+Welcome back to JS
+19:51:50 - gillchristian (@gillchristian):
+Y fp-ts
+19:52:33 - gillchristian (@gillchristian):
+:negative_squared_cross_mark: :goat: 
+19:52:49 - Julian (@jantonielli01):
+Miré un poco de fp-ts, pero no me convence mucho hasta ahora, se me hace que esta todo medio atado con alambre, pero no se
+19:52:54 - Julian (@jantonielli01):
+Tendré que probar la verdad
+19:54:04 - gillchristian (@gillchristian):
+ ¯\_(ツ)_/¯
+19:54:10 - gillchristian (@gillchristian):
+Yo lo usé poco
+19:54:23 - gillchristian (@gillchristian):
+Por qué atado con alambre?
+19:54:35 - Julian (@jantonielli01):
+vos que haces, react con ts?
+19:54:50 - gillchristian (@gillchristian):
+Usan muchos "hacks" si
+19:54:54 - Julian (@jantonielli01):
+porque leí un toque de las magias negras que hacen para que funcionen los tipos y eso
+19:55:04 - gillchristian (@gillchristian):
+Claro, eso
+19:55:22 - gillchristian (@gillchristian):
+Pero al usuarlo, anda :tm: 
+19:55:35 - gillchristian (@gillchristian):
+Sí, en el laburo React/Redux
+19:56:16 - gillchristian (@gillchristian):
+Pero fuera de eso hice algunas cosas genéricas
+20:06:57 - gillchristian (@gillchristian):
+En el laburo igual el FP es mínimo
+20:07:37 - gillchristian (@gillchristian):
+O sea, la clásica que en la entrevista te dicen que usan Ramda y después resulta que es R.map, R.prop y listo
+20:08:26 - gillchristian (@gillchristian):
+Asi que lo que trato con TS es que por lo menos lo usen, y no que sea un _afterthought_
