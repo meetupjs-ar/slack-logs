@@ -1,0 +1,367 @@
+21:05:10 - Joni (@jonidelv):
+no necesitas titulo para laburar en Google /Facebook/etc
+21:33:38 - Adrián Velasco (@adrivelasco1506):
+Es verdad, no se necesita pero _supuestamente_ (según lo que leí) un `Bachelor's Degree 4 Years = 8 Years of Work experience`
+21:42:26 - Adrián Velasco (@adrivelasco1506):
+<@UGMF9HCBV> jaja, recién leo. No tengo la menor idea, pero según un amigo que trabajó dentro de la industria y justamente en el sur, en un año laboral se compró una casa.
+21:44:34 - Adrián Velasco (@adrivelasco1506):
+Igualmente hoy mira hacía atrás y se arrepiente, me contó cada cosa, el ambiente es una mierda
+21:46:43 - Adrián Velasco (@adrivelasco1506):
+Pero nada, me causó gracia porque seguramente esas 10k por mes se justificaban jaja
+21:53:06 - Ale Miralles (@amiralles):
+Igual, hasta hace poco, si era necesario. Para Google al menos si. Creo que a principio de anio sacaron esa restriccion.
+05:09:52 - gillchristian (@gillchristian):
+No se, Dan Abramov no tiene título y labura en FB :troll::dan:
+06:41:41 - Rodrigo Juarez (@rjuarez):
+si estas estudiando para conseguir laburo en alguna FAANG me parece que no es un muy buen trade-off de tiempo
+07:14:06 - Martín Valdés de León (@mvaldesdeleon):
+En mi opinion/experiencia, la falta de titulo no te va a cerrar practicamente ninguna puerta. Pero tener titulo ayuda o simplifica algunos procesos de contratacion/visas de trabajo para ciertos paises, y es un argumento solido para exigir una base salarial cerca de la cota superior. Si no tenes titulo vas a tener que compensar con experiencia y skills.
+
+Al margen, juzgando mi experiencia particular, me parece que mas alla de el contenido (que no me sirve para nada porque no estudie una carrera afin) haber cursado una carrera me preparo para ser autodidacta y autosuficiente, saber organizar mis tiempos, saber cuales son mis capacidades de aprendizaje, coordinar proyectos, escribir reportes formales/tecnicos, dar/preparar presentaciones, exponer en el pizarron, etc. De nuevo, no es que si no cursas una carrera no podes aprender estas cosas. Pero definitivamente son cosas que me ayudan en el dia a dia de mi carrera actual/vida.
+
+Disclaimer: Soy Lic. en Cs. Quimicas
+08:44:38 - Ric (@ric):
+por eso dije “o igual experiencia”
+08:44:56 - Ric (@ric):
+me referia a que si no tenes titulo tenes que tener X cantidad de años de experiencia
+08:50:35 - Ric (@ric):
+si, eso seguro, pero hay temas que te dan (hablo de exactas uba) que tenes metodos numericos  desde siempre donde ves las cosas que se usan en Machine Learning (marketineramente hablando) o por ej cosas de programacion funcional antes de que pase el hype que hubo hace 1/2 años atras  :man-shrugging: , seguramente no sea necesario para el 100% de tus futuros trabajos pero probablemente tengas un mayor panorama de todos los temas (o de futuras modas :troll: )
+09:11:35 - Leandro Doldán (@leandromdoldan):
+Siempre podes cursar esas materias como oyente
+09:13:06 - Ric (@ric):
+si, siendo una universidad publica digamos que podes hacerlo.
+09:13:56 - Ric (@ric):
+de hecho podes ir alas clases que se enfocan en el tema que te gusta y ya
+09:15:05 - Ric (@ric):
+no vas a tener la parte de los examenes que es la devolucion de un profesor sobre si entendiste el tema
+09:44:58 - Luis Alvarez (@luistensai):
+sumado a lo que dice Martin, mi experiencia como alumno de la UTN FRBA, aún cursando, les puedo afirmar que el título tampoco te asegura nada. Tuve compañeros que no sabían codear en absoluto y se recibieron igual, e incluso ahora mismo estoy haciendo un tp donde mis compañeros de grupo no saben lo que es un branch o pull request, y hasta diseñando una db relacional son medio desastre...
+También he tenido compañeros de trabjo que estaban por recibirse que tampoco pegaban una, y compañeros que sin título la rompen...
+por ese motivo no creo que el título sea algo que defina las capacidades de un trabajador/desarrollador, pero sí que te abre algunas puertas e incluso te permite hacer networking...
+No creo que un título sea equivalente a la experiencia laboral, lo veo más como un nice to have...
+09:51:18 - Aldo Gabriel Rojas (@aldogrojas5):
+Tengo un amigo q me está dando una mano enorme con aprender y el flaco no terminó ni siquiera la secundaria.. y la rompe mal programando desde q estabamos en 3er año de la secundaria... (año 95 aprox)
+10:17:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Es muy empírico el dato, pero creo q es un poco de lo q están hablando.
+Desde mi punto de vista, mi carrera es una reverenda pelotudez. Te piden medio millón de certificados y conozco muuuuuchos médicos q después de tener la matrícula no tocaron más ni un folleto para leer y son unos inútiles.
+Y así y todo, medicina es una carrera larga, que si estuviese bien diagramada, no debería durar más de 3 años... con prácticas desde el día 1
+10:19:42 - Martin Carrera (@mcarrera):
+<https://i.ytimg.com/vi/5Q_f04JkoJA/hqdefault.jpg>
+10:27:14 - Joni (@jonidelv):
+:+1:
+11:54:23 - Mariano Montero (@etmaro):
+Podes ser ingeniero en sistemas y codear como el orto y esta bien. La ingenieria de software es mas que programar.
+12:04:34 - Luis Alvarez (@luistensai):
+pero diseñar como el orto no te la dejo pasar :joy:
+además, para saber diseñar, algo de código tenés que saber, sino no tenés idea de cómo va a funcionar tu solución...
+12:05:03 - Gonza Gluzman (@gonza):
+No estoy tan de acuerdo
+12:05:35 - Gonza Gluzman (@gonza):
+:agite:
+12:06:50 - Gonza Gluzman (@gonza):
+Hay 2 cosas:
+1. Para mí es medio un sinsentido hablar de ingeniería (transformación del mundo físico) para algo como el software
+2. Si laburás haciendo software, tenés que saber programar mínimamente bien, aunque tu laburo no consista en eso.
+12:09:36 - Mariano Montero (@etmaro):
+No se que definicion de ingenieria usas
+12:10:18 - Mariano Montero (@etmaro):
+Obviamente que la programacion es el _core_ del software. Si no programas no hay software.
+12:11:23 - Mariano Montero (@etmaro):
+Pero hay decenas de puestos que no demandan que programes bien y son igual de importantes para un desarrollo de software.
+12:18:35 - Brian Stanley (@brianstanley):
+Ingeniería transformación del mundo físico?
+Según wiki
+`Arte y técnica de aplicar los conocimientos científicos a la invención, diseño, perfeccionamiento y manejo de nuevos procedimientos en la industria y otros campos de aplicación científicos.`
+No es necesariamente ser algo físico, de hecho la ingeniería es bastante abstracta.
+12:19:39 - Brian Stanley (@brianstanley):
+Cuando diseñas una solución, utilizas un patrón, desarrollas software o dirigís un proyecto estas usando conocimientos aprendidos/estudiados muy relacionados a la ingeniería de software
+12:21:21 - Mati Dastugue (@matiasdastugue):
+Coincido con mariano. Ingenieria en informatica/Sistemas involucra muchisimas disciplinas, no solo programar. Si solo te gusta programar, no sigas ingenieria, porque te estas equivocando de carrera.
+12:22:12 - Gonza Gluzman (@gonza):
+Touché
+12:22:40 - Mariano Montero (@etmaro):
+Para, tampoco nos pasemos. Te puede gustar solo programar y estudiar ingenieria para tener un conocimiento integrador.
+21:05:10 - Joni (@jonidelv):
+no necesitas titulo para laburar en Google /Facebook/etc
+21:33:38 - Adrián Velasco (@adrivelasco1506):
+Es verdad, no se necesita pero _supuestamente_ (según lo que leí) un `Bachelor's Degree 4 Years = 8 Years of Work experience`
+21:42:26 - Adrián Velasco (@adrivelasco1506):
+<@UGMF9HCBV> jaja, recién leo. No tengo la menor idea, pero según un amigo que trabajó dentro de la industria y justamente en el sur, en un año laboral se compró una casa.
+21:44:34 - Adrián Velasco (@adrivelasco1506):
+Igualmente hoy mira hacía atrás y se arrepiente, me contó cada cosa, el ambiente es una mierda
+21:46:43 - Adrián Velasco (@adrivelasco1506):
+Pero nada, me causó gracia porque seguramente esas 10k por mes se justificaban jaja
+21:53:06 - Ale Miralles (@amiralles):
+Igual, hasta hace poco, si era necesario. Para Google al menos si. Creo que a principio de anio sacaron esa restriccion.
+05:09:52 - gillchristian (@gillchristian):
+No se, Dan Abramov no tiene título y labura en FB :troll::dan:
+06:41:41 - Rodrigo Juarez (@rjuarez):
+si estas estudiando para conseguir laburo en alguna FAANG me parece que no es un muy buen trade-off de tiempo
+07:14:06 - Martín Valdés de León (@mvaldesdeleon):
+En mi opinion/experiencia, la falta de titulo no te va a cerrar practicamente ninguna puerta. Pero tener titulo ayuda o simplifica algunos procesos de contratacion/visas de trabajo para ciertos paises, y es un argumento solido para exigir una base salarial cerca de la cota superior. Si no tenes titulo vas a tener que compensar con experiencia y skills.
+
+Al margen, juzgando mi experiencia particular, me parece que mas alla de el contenido (que no me sirve para nada porque no estudie una carrera afin) haber cursado una carrera me preparo para ser autodidacta y autosuficiente, saber organizar mis tiempos, saber cuales son mis capacidades de aprendizaje, coordinar proyectos, escribir reportes formales/tecnicos, dar/preparar presentaciones, exponer en el pizarron, etc. De nuevo, no es que si no cursas una carrera no podes aprender estas cosas. Pero definitivamente son cosas que me ayudan en el dia a dia de mi carrera actual/vida.
+
+Disclaimer: Soy Lic. en Cs. Quimicas
+08:44:38 - Ric (@ric):
+por eso dije “o igual experiencia”
+08:44:56 - Ric (@ric):
+me referia a que si no tenes titulo tenes que tener X cantidad de años de experiencia
+08:50:35 - Ric (@ric):
+si, eso seguro, pero hay temas que te dan (hablo de exactas uba) que tenes metodos numericos  desde siempre donde ves las cosas que se usan en Machine Learning (marketineramente hablando) o por ej cosas de programacion funcional antes de que pase el hype que hubo hace 1/2 años atras  :man-shrugging: , seguramente no sea necesario para el 100% de tus futuros trabajos pero probablemente tengas un mayor panorama de todos los temas (o de futuras modas :troll: )
+09:11:35 - Leandro Doldán (@leandromdoldan):
+Siempre podes cursar esas materias como oyente
+09:13:06 - Ric (@ric):
+si, siendo una universidad publica digamos que podes hacerlo.
+09:13:56 - Ric (@ric):
+de hecho podes ir alas clases que se enfocan en el tema que te gusta y ya
+09:15:05 - Ric (@ric):
+no vas a tener la parte de los examenes que es la devolucion de un profesor sobre si entendiste el tema
+09:44:58 - Luis Alvarez (@luistensai):
+sumado a lo que dice Martin, mi experiencia como alumno de la UTN FRBA, aún cursando, les puedo afirmar que el título tampoco te asegura nada. Tuve compañeros que no sabían codear en absoluto y se recibieron igual, e incluso ahora mismo estoy haciendo un tp donde mis compañeros de grupo no saben lo que es un branch o pull request, y hasta diseñando una db relacional son medio desastre...
+También he tenido compañeros de trabjo que estaban por recibirse que tampoco pegaban una, y compañeros que sin título la rompen...
+por ese motivo no creo que el título sea algo que defina las capacidades de un trabajador/desarrollador, pero sí que te abre algunas puertas e incluso te permite hacer networking...
+No creo que un título sea equivalente a la experiencia laboral, lo veo más como un nice to have...
+09:51:18 - Aldo Gabriel Rojas (@aldogrojas5):
+Tengo un amigo q me está dando una mano enorme con aprender y el flaco no terminó ni siquiera la secundaria.. y la rompe mal programando desde q estabamos en 3er año de la secundaria... (año 95 aprox)
+10:17:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Es muy empírico el dato, pero creo q es un poco de lo q están hablando.
+Desde mi punto de vista, mi carrera es una reverenda pelotudez. Te piden medio millón de certificados y conozco muuuuuchos médicos q después de tener la matrícula no tocaron más ni un folleto para leer y son unos inútiles.
+Y así y todo, medicina es una carrera larga, que si estuviese bien diagramada, no debería durar más de 3 años... con prácticas desde el día 1
+10:19:42 - Martin Carrera (@mcarrera):
+<https://i.ytimg.com/vi/5Q_f04JkoJA/hqdefault.jpg>
+10:27:14 - Joni (@jonidelv):
+:+1:
+11:54:23 - Mariano Montero (@etmaro):
+Podes ser ingeniero en sistemas y codear como el orto y esta bien. La ingenieria de software es mas que programar.
+12:04:34 - Luis Alvarez (@luistensai):
+pero diseñar como el orto no te la dejo pasar :joy:
+además, para saber diseñar, algo de código tenés que saber, sino no tenés idea de cómo va a funcionar tu solución...
+12:05:03 - Gonza Gluzman (@gonza):
+No estoy tan de acuerdo
+12:05:35 - Gonza Gluzman (@gonza):
+:agite:
+12:06:50 - Gonza Gluzman (@gonza):
+Hay 2 cosas:
+1. Para mí es medio un sinsentido hablar de ingeniería (transformación del mundo físico) para algo como el software
+2. Si laburás haciendo software, tenés que saber programar mínimamente bien, aunque tu laburo no consista en eso.
+12:09:36 - Mariano Montero (@etmaro):
+No se que definicion de ingenieria usas
+12:10:18 - Mariano Montero (@etmaro):
+Obviamente que la programacion es el _core_ del software. Si no programas no hay software.
+12:11:23 - Mariano Montero (@etmaro):
+Pero hay decenas de puestos que no demandan que programes bien y son igual de importantes para un desarrollo de software.
+12:18:35 - Brian Stanley (@brianstanley):
+Ingeniería transformación del mundo físico?
+Según wiki
+`Arte y técnica de aplicar los conocimientos científicos a la invención, diseño, perfeccionamiento y manejo de nuevos procedimientos en la industria y otros campos de aplicación científicos.`
+No es necesariamente ser algo físico, de hecho la ingeniería es bastante abstracta.
+12:19:39 - Brian Stanley (@brianstanley):
+Cuando diseñas una solución, utilizas un patrón, desarrollas software o dirigís un proyecto estas usando conocimientos aprendidos/estudiados muy relacionados a la ingeniería de software
+12:21:21 - Mati Dastugue (@matiasdastugue):
+Coincido con mariano. Ingenieria en informatica/Sistemas involucra muchisimas disciplinas, no solo programar. Si solo te gusta programar, no sigas ingenieria, porque te estas equivocando de carrera.
+12:22:12 - Gonza Gluzman (@gonza):
+Touché
+12:22:40 - Mariano Montero (@etmaro):
+Para, tampoco nos pasemos. Te puede gustar solo programar y estudiar ingenieria para tener un conocimiento integrador.
+12:22:59 - Mariano Montero (@etmaro):
+A veces lei la biblia y el coran y soy ateo.
+12:22:59 - Juan Scolari (@juanscolari):
+Un ingeniero en sistemas que no sepa programar no te lo contrato ni para hacer los pedidos de compus
+12:23:27 - Mariano Montero (@etmaro):
+Kent Beck dice que es un programador mediocre.
+12:23:49 - Luis Alvarez (@luistensai):
+no sé, yo algo que siento es que con lo que voy viendo en ingeniería veo el bosque, con la experiencia que tengo en desarrollo veo los árboles...
+12:24:12 - Gonza Gluzman (@gonza):
+Igual, la definición esta de “ingeniería” la inventé en base a las materias “homogéneas” de la UTN
+12:24:31 - Gonza Gluzman (@gonza):
+Me encontré estudiando un montón de materias que eran inútiles para hacer software
+12:24:43 - Gonza Gluzman (@gonza):
+Y no así para todo el resto de las ingenierías de la UTN
+12:25:09 - Gonza Gluzman (@gonza):
+Como los análisis matemáticos, física, química, dibujo técnico, etc
+12:25:16 - Gonza Gluzman (@gonza):
+Que son la mitad de la carrera
+12:25:28 - Mariano Montero (@etmaro):
+Bueno, ahi dejame decirte que estas equivocado vos.
+12:25:43 - Mariano Montero (@etmaro):
+Si solo te interesa aprender a programar tenes que ir a una tecnicatura
+12:25:50 - Mariano Montero (@etmaro):
+o a un curso
+12:26:13 - Juan Scolari (@juanscolari):
+cuando arrancas una carrera y sos chico no sabes muy bien que es lo que queres
+12:26:51 - Juan Scolari (@juanscolari):
+menos sabes las competencias de un ingeniero vs un licenciado vs una tecnicatura
+12:27:04 - Juan Scolari (@juanscolari):
+o los laburos que podes aplicar para cada uno
+12:28:25 - Mariano Montero (@etmaro):
+Las carreras de grado pretenden eso, no darte el conocimiento especifico para una tarea en particular (programar por ejemplo). Esas materias no estan por que si. Puede que podamos debatir una materia en particular, pero no las materias "duras" en si.
+12:28:55 - Mariano Montero (@etmaro):
+Esto lo dice alguien que no termino la facultad pero no por eso no ve el valor en ella.
+12:29:53 - Luis Alvarez (@luistensai):
+yo creo lo mismo, para mi es más contenido universal, para que luego puedas adentrate más en lo que te gusta
+12:30:14 - Gonza Gluzman (@gonza):
+Mmmmm… :thinking_face:
+12:30:21 - Juan Scolari (@juanscolari):
+Aca no le quitamos ningun valor a la facultad, creo que en eso coincidimos todos
+12:31:33 - Juan Scolari (@juanscolari):
+Pero haberme fumado quimica del cbc, quimica de la facu, fisica del cbc, fisica I, fisica II, fisica III, en ningun momento de mi carrera le encontre un posible uso ni un puesto al que pudiera aplicar y servirme. Y son muchas horas de estudio ya con esas solas
+12:31:44 - Mariano Montero (@etmaro):
+Gonza no esta mal decir una carrera de grado no es para mi, me chupa un huevo matematica, fisica, etc. Tan solo enseñame OOP, base de datos, diseño de sistemas, etc. Existen lugares donde estudiar eso y son las tecnicaturas.
+12:32:10 - Gonza Gluzman (@gonza):
+Estoy de acuerdo con decir eso: no es para mí
+12:32:14 - Gonza Gluzman (@gonza):
+Pero a lo que voy es a otra cosa
+12:32:15 - Mariano Montero (@etmaro):
+Al menos en este pais que sigue el modelo europeo de educacion universitaria
+12:32:28 - Gonza Gluzman (@gonza):
+*Que no tiene sentido ver esas materias para hacer software*
+12:33:26 - Luis Alvarez (@luistensai):
+ahí por ahí es donde parte de la industria está mal :stuck_out_tongue:
+12:33:26 - Gonza Gluzman (@gonza):
+Me parece más importante para hacer software saber la diferencia entre esencia y accidente que saber calcular integrales
+12:33:27 - Mariano Montero (@etmaro):
+A ver, necesitas fisica para hacer software? Bah preguntale a los de satellogic si no la necesitan.
+12:33:41 - Gonza Gluzman (@gonza):
+No, no necesitás
+12:33:48 - Gonza Gluzman (@gonza):
+Eso ya forma parte del dominio del problema
+12:34:11 - Mariano Montero (@etmaro):
+Y se complica entender el dominio del problema sin conocimientos basicos
+12:34:34 - Juan Scolari (@juanscolari):
+Lo mismo podria decir entonces que necesito saber de medicina para hacer una app medica
+12:34:35 - Mariano Montero (@etmaro):
+Por cursar Fisica I no sos fisico.
+12:34:59 - Juan Scolari (@juanscolari):
+Somos parte de equipos, en satellogic imagino que tendran su equipo de fisicos
+12:35:22 - Mariano Montero (@etmaro):
+Las carreras de grado pretenden darte mas conocimiento que tan solo codear. Pretenden generar un profesional integrador.
+12:35:29 - Gonza Gluzman (@gonza):
+Meh
+12:35:32 - Juan Scolari (@juanscolari):
+No se si le dejaria a un ingeniero en software la labor de hacer los calculos del satelite
+12:35:47 - Mariano Montero (@etmaro):
+No, pero estaria bueno que entienda un poco
+12:36:04 - Mati Dastugue (@matiasdastugue):
+Ingenieria != Programar
+12:36:09 - Gonza Gluzman (@gonza):
+Hace unos años hice un sistema de procesamiento de lenguaje natural y me jodió no saber más de gramática del español
+12:36:14 - Gonza Gluzman (@gonza):
+¯\_(ツ)_/¯
+12:36:22 - Gonza Gluzman (@gonza):
+Y no lo daban en ninguna materia de la UTN
+12:36:28 - Gonza Gluzman (@gonza):
+Eso forma parte del dominio
+12:38:00 - Mariano Montero (@etmaro):
+A ver, dejame ver si entiendo
+12:38:18 - Mariano Montero (@etmaro):
+La tecnicatura en programacion no te da los conocimientos que vos queres?
+12:39:11 - Julian (@jantonielli01):
+A mi lo que más me pareció útil de la carrera fueron las cosas relacionadas a codear que no iba a aprender de otras formas (protocolos, memory management, lógica y axiomatizacion, modelos de cómputo) lo demás fue meh 
+12:39:34 - Julian (@jantonielli01):
+Creo que idealizas mucho una carrera
+12:39:57 - Gonza Gluzman (@gonza):
+Ni idea, no conozco las tecnicaturas
+12:39:58 - Mariano Montero (@etmaro):
+No, para nada. Si tanto la idealizara la hubiera terminado
+12:40:59 - Mariano Montero (@etmaro):
+La tecnictura te dan exactamente eso que vos te quejas de la ingenieria, tan solo el conocimiento de hacer software sin todas las cosas "al pedo".
+12:41:28 - Gonza Gluzman (@gonza):
+Entonces supongo que sí ¯\_(ツ)_/¯
+12:42:12 - Julian (@jantonielli01):
+Nah, la tecnicatura en CS del DC UBA tiene banda de matemática y cosas formales que nunca en la vida vas a usar para codear
+12:42:40 - Julian (@jantonielli01):
+No creo que haya carreras para “ser codeador piola” en argentina
+12:42:52 - Julian (@jantonielli01):
+(Sin material “inútil”)
+12:44:28 - Johanna Santos (@johannasabsantos):
+justo venia a preguntar que onda la tecnicatura de la ORT pero mejor despues jajaja #forobardo (?)
+12:44:55 - Mariano Montero (@etmaro):
+Bueno, el deber llama. Tengo una reunion.
+12:46:12 - Juan Scolari (@juanscolari):
+Pregunta tranqui Johanna, ya lo terminamos el forobardo :smile:
+12:48:18 - Johanna Santos (@johannasabsantos):
+jajaja bueno :blush: solo queria saber que onda, no creo que me anote porque $$$ pero parece interesante, opiniones? Quiza no va en este canal pero siguiendo el topico
+12:48:21 - Mariano Montero (@etmaro):
+Bueno tampoco que me fui yo y se fue el forobardo ehhh jajaja
+12:49:01 - Juan Scolari (@juanscolari):
+Jajajaja, yo ya tuve suficiente por hoy :stuck_out_tongue:
+12:49:08 - Johanna Santos (@johannasabsantos):
+igual estoy en el cbc de cs de la computacion y aprendiendo por mi cuenta pero queria agregar mas “estructura” porque al ser autodidacta se me hace un choclo a veces y quiza ir a un instituto me sirva
+12:49:33 - Juan Scolari (@juanscolari):
+Y de paso si quiere preguntar algo que le sirve no la floodeamos en este foro jaj
+12:50:22 - Johanna Santos (@johannasabsantos):
+jajaja igual el forobardo me sirvio porque comparto las opiniones con lo de que no es solo codear todo esto
+12:54:49 - Gonzalo Gras Cantou (@guusygonzalo):
+La tecnicatura en programacion en la UNSAM esta muy buena
+12:55:45 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahi diste en la tecla
+12:57:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Si algo me dio la carrera universitaria fue estructura y me sacó el boludeo extra de la cabeza...
+Siempre fui autodidacta (medio q si no lo sos, en la universidad pública te cagas de embole), pero la facultad me enseñó a sentarme y dedicarle un buen ratio horas/culo-en-la-silla para aprender (q es bastante diferente a estudiar)
+13:02:23 - guido rearte (@guidoarearte):
+Hola ¿Conocen a algún o alguna recruiter para que me pueda ayudar con mi cv? :blush:
+13:04:40 - Julian (@jantonielli01):
+Tíralo por acá 
+13:04:53 - Julian (@jantonielli01):
+Te lo bardeamos un toque y seguro salís con un buen CV.
+13:06:56 - guido rearte (@guidoarearte):
+Mientras valga la pena :+1:
+13:06:57 - Gonza Gluzman (@gonza):
+Escuché buenas referencias también de la de la UNQui
+13:07:45 - Mariano Ramonda (@ing.inf.mariano):
+yo que vos no me animo (?
+13:08:07 - Santiago Ruffino (@santi_0898):
+Tiralo por aca. Yo lo hice y me largue a llorar un rato. Pero despues consegui trabajo :smile:
+13:09:55 - Santiago Ruffino (@santi_0898):
+Definitivamente la mejor forma de aprender ingles, es relacionarte con gente que habla ingles. En el trabajo tengo las dailys en ingles, y es abuso el cambio que te da
+13:10:38 - ari (@arieldiaz):
+pero para eso ya tenes que poder hablar
+13:11:43 - guido rearte (@guidoarearte):
+Ahí va
+13:38:12 - Heber (@heber.acostalipera):
+concuerdo, ingenieria tiene muchisimas areas de aplicacion, codear es una pero no es la unica ni es tan importante para poder cumplir en forma y orden con las otras
+13:56:19 - Mariano Montero (@etmaro):
+Que laburo estas buscando?
+13:58:40 - Mariano Montero (@etmaro):
+Por lo que veo sos bastante junior. Se complica un poco armar un CV con poca experiencia, nos paso a todos.
+Mas alla de opiniones esteticas, onda usa un template u otro, esta bastante bien.
+Me gusto que pusiste los proyectos en los que participaste, suma si no laburaste para una empresa. Mas adelante esos proyectos los agrupas bajo Freelance y listo pero ahora no te queda otra.
+13:59:37 - Mariano Montero (@etmaro):
+Lo que no me queda claro es que en experiencia pones "_[...] he realizado de manera *freelance* 5 proyectos *propios* [...]_"
+14:00:06 - Mariano Montero (@etmaro):
+Son proyectos que cobraste o tan solo cosas que codeaste para probar?
+14:09:41 - guido rearte (@guidoarearte):
+Estoy buscando mi primer trabajo como front end, y los proyectos no son freelance, sino apps para demostrar de lo que soy capaz
+14:10:54 - guido rearte (@guidoarearte):
+En la ultima entrevista que tuve, el que me entrevisto me dijo que no pongas esos proyectos porque decia que estoy mintiendo, pero que poner en experiencia entonces?
+14:38:15 - Pablo Miceli (@pablomiceli24):
+quizas es una boludes lo que voy a decir, pero dedicale mas tiempo a que se vea mas lindo. Eso puede que comunique "estoy realmente interesado en empezar a laburar, por eso me le dedique tiempo a dejar lindo el CV"
+14:38:26 - Pablo Miceli (@pablomiceli24):
+hay varios templates dando vueltas que podes googlear y usar
+14:38:32 - Pablo Miceli (@pablomiceli24):
+que te ordenan bien la info
+14:39:00 - Pablo Miceli (@pablomiceli24):
+hay algunos que los importas directamente a google drive y los editas ahi
+14:42:52 - Martín Valdés de León (@mvaldesdeleon):
+Yo renombraria la seccion a `Portfolio / Proyectos Personales`
+14:43:35 - Martín Valdés de León (@mvaldesdeleon):
+Si tenes experiencia laboral real, entonces pone eso en la seccion de laburos anteriores. No importa si son de otra cosa.
+14:44:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Yo lo hice y me ayudaron un monton!!!
+14:44:52 - Gonza Gluzman (@gonza):
+A nivel estético: le agregaría el logo de github en donde ponés tu usuario de github :github:, arreglaría los espaciados (entre líneas y entre secciones), que quedó raro y cambiaría la foto por una en que uses corbata o bien que la camisa no esté abotonada hasta el último botón (para mí, si te abotonás hasta arriba de todo y no usás corbata o moño, queda raro)
+14:59:18 - Pablo Miceli (@pablomiceli24):
+Ademas, si apuntas a trabajar de frontend, no podes ignorar las cuestiones de alineado y espaciado :stuck_out_tongue:
+15:12:20 - Pedro (@pedro461):
+a mi me parece también un buen consejo hacer incapié en qué tecnologías queres usar
+15:50:14 - Mariano Montero (@etmaro):
+Si no fueron laburos no pongas freelance por que se supone que cobraste por ellos. Estoy de acuerdo con Martin, convertilo a portfolio y si tenes experiencia en otra cosa, lo que sea, ponelo en otra seccion de Experienia laboral. Suma.
+17:04:02 - Juan Scolari (@juanscolari):
+Yo sacaria el telefono, sino despues te llaman a cualquier hora y ni estas preparado. Mejor arreglar un horario para hablar despues si hay interes
+17:20:06 - Lupe (@lportias):
+el tema es cuando ya estan en tantas bases de datos que te llega un WA de un recruiter que no conoces... pero bue..
+17:41:21 - guido rearte (@guidoarearte):
+Gracias por los comentarios
+18:06:03 - Johanna Santos (@johannasabsantos):
+Claro! Si, eso es a lo que apunto, a dejar de boludear basicamente jaja necesito la estructura de sentarme a estudiar
