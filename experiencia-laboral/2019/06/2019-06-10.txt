@@ -1,0 +1,230 @@
+10:12:17 - Santiago Ruffino (@santi_0898):
+Alguno tiene una web o algo que explique bien facilito como funciona Scrum a grandes rasgos?
+10:15:55 - Federico A. Sawady O'Connor (@sawady.faso):
+medio que depende de cada empresa cómo lo aplica
+10:16:01 - Federico A. Sawady O'Connor (@sawady.faso):
+no estuve en 2 empresas que lo apliquen igual
+10:16:09 - Federico A. Sawady O'Connor (@sawady.faso):
+pero vos querés saber la teoría no?
+10:16:37 - Federico A. Sawady O'Connor (@sawady.faso):
+<https://www.youtube.com/watch?v=9TycLR0TqFA>
+10:18:54 - Santiago Ruffino (@santi_0898):
+Si, me interesa saberlo por arriba
+10:19:07 - Santiago Ruffino (@santi_0898):
+Porque ya tuve varias instancias en el laburo, y no entiendo mucho
+10:19:17 - Martin Carrera (@mcarrera):
+_nadie entiende mucho_
+10:19:22 - Santiago Ruffino (@santi_0898):
+Tengo las Dailys, tuve Demo el viernes, y hoy tengo como 2 o 3 reuniones mas
+10:19:33 - Santiago Ruffino (@santi_0898):
+Y no entendo nada
+10:19:50 - Martin Carrera (@mcarrera):
+hacete un mini anotador con que se hace en cada reunion
+10:20:07 - Santiago Ruffino (@santi_0898):
+Eso estoy haciendo por ahora. Jajaja
+10:20:13 - Martin Carrera (@mcarrera):
+a fines practicos, no deberias tener mas de 3 o 4 tipos distintos de reunion
+10:20:20 - Santiago Ruffino (@santi_0898):
+O pregunto "Que vamos a hacer ahora?" y listo
+10:23:00 - Juan Stiza (@juanstiza):
+En su momento leí esto: <https://www.scruminc.com/new-scrum-the-book/>
+10:23:07 - Juan Stiza (@juanstiza):
+interesante, pero no es “por arriba”
+10:25:36 - Martín Valdés de León (@mvaldesdeleon):
+Reality:
+&gt; Scrum: The art of doing half the work in twice the time
+*Now with extra meetings!*
+10:26:02 - Santiago Ruffino (@santi_0898):
+El video que me pasaron esta bueno para arracnar, porque me esta dando por lo menos los conceptos basicos. Despues veo el libro ese porque esta bueno para aprenderlo
+10:26:03 - Santiago Ruffino (@santi_0898):
+Jajajaja
+10:26:44 - Santiago Ruffino (@santi_0898):
+Ahora entiendo porque todos los tickets en Jira dicen algo como
+- *Given*...
+- *When* ...
+- *Then* ...
+10:28:25 - Rodrigo Ali (@rodrigojali):
+Claro
+10:29:01 - Rodrigo Ali (@rodrigojali):
+Igual ojo, ese Given-When-Then es de test cases, es de BDD
+10:29:54 - Rodrigo Ali (@rodrigojali):
+Así que si te interesa el tema, podés leer BDD y Gherkin Lang
+10:30:17 - Rodrigo Ali (@rodrigojali):
+Y de ahí te vas a Automation y listo, estás cobrando USD 8k en menos de 3 meses
+10:33:19 - Juan Stiza (@juanstiza):
+Lo unico que faltaría, un _Meeting DLC_, solo por 19.99
+10:33:46 - Martín Valdés de León (@mvaldesdeleon):
+:joy:
+11:09:22 - Federico A. Sawady O'Connor (@sawady.faso):
+tal cual, estoy en estos momentos en una daily falopa en lugar de programar un buggazo
+11:09:33 - Federico A. Sawady O'Connor (@sawady.faso):
+y mis compañeros ya saben con lo que estaba jaja
+11:17:31 - Martín Valdés de León (@mvaldesdeleon):
+La unica cosa que me gusta a mi son justo las dailies, pero solo porque las teniamos muy tuneadas. Soliamos ser entre 15 y 20 personas dependiendo del dia y nunca nos pasabamos de los 10 minutos.
+11:19:17 - Federico A. Sawady O'Connor (@sawady.faso):
+claro
+11:19:25 - Federico A. Sawady O'Connor (@sawady.faso):
+acá dura una hora a veces! y somos 3 devs
+11:19:45 - Federico A. Sawady O'Connor (@sawady.faso):
+porque encima dibujan un toque el alcance del sprint a veces, y hasta hacemos una pre-planning también en algunos casos
+11:30:13 - Juan Stiza (@juanstiza):
+Que suerte
+11:30:21 - Juan Stiza (@juanstiza):
+somos 3 y pueden llegar a durar 2 horas
+11:30:30 - Juan Stiza (@juanstiza):
+:facepalm:
+11:33:46 - Martín Valdés de León (@mvaldesdeleon):
+Costo un poco pero la clave fue que todos entiendan el objetivo de la daily como un punto de encuentro antes de empezar el dia.
+
+Cada uno cuenta lo que hizo ayer y lo que planea hacer hoy, si tiene blockers o menos de un par de dias de backlog, y listo.
+
+Si surgen temas que ameritan mas de un par de minutos, se dejan para despues de la daily, solo con las personas que tengan que participar.
+11:34:09 - Martín Valdés de León (@mvaldesdeleon):
+En general cada uno tarda 30-60 segundos en comentar.
+11:34:14 - Juan Stiza (@juanstiza):
+Eso sería lo ideal.. Igual acá laburamos todo remote, entonces creo que por eso se extiende
+11:34:41 - Martín Valdés de León (@mvaldesdeleon):
+Nosotros estabamos distribuidos en 3 lugares, que se yo.
+11:35:07 - Martín Valdés de León (@mvaldesdeleon):
+Alguien tiene que "tomar las riendas" y marcar el ritmo de la meeting para que no se estire.
+11:51:38 - Marcelo Sebastián Fernández Sábato (@msfs_junin):
+Hola chicos, por ahi llego medio tarde, pero un buen lugar para empezar es la guia de scrum: <https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Spanish-SouthAmerican.pdf>
+13:53:11 - gillchristian (@gillchristian):
+Jajajajaja
+13:53:17 - gillchristian (@gillchristian):
+Ese meme ya ganó
+14:36:35 - Dayan Ruiz (@dayanr):
+R.I.P Grumpy Cat :sob:
+16:54:30 - Dayan Ruiz (@dayanr):
+hola chicos, que plataforma freelance recomiendan mas? alguien que haya tenido buenas experiencias con alguna?
+16:57:17 - Marcos Casagrande (@marcoscvp90):
+Sacando Codementor, la mejor que usé es Upwork.
+16:57:54 - Marcos Casagrande (@marcoscvp90):
+Workana me parece medio una cagada honestamente, al menos comparado con Upwork y otras.
+17:01:11 - Dayan Ruiz (@dayanr):
+sacando codementor?
+17:01:12 - Dayan Ruiz (@dayanr):
+por qué?
+17:01:40 - Marcos Casagrande (@marcoscvp90):
+Porque ya tenemos un canal de <#CGY85V6BU|codementor> que hablamos bastante :joy:
+17:02:27 - Dayan Ruiz (@dayanr):
+jajajaja
+17:02:29 - Dayan Ruiz (@dayanr):
+no sabia
+17:02:40 - Dayan Ruiz (@dayanr):
+bueno voy a leer
+10:12:17 - Santiago Ruffino (@santi_0898):
+Alguno tiene una web o algo que explique bien facilito como funciona Scrum a grandes rasgos?
+10:15:55 - Federico A. Sawady O'Connor (@sawady.faso):
+medio que depende de cada empresa cómo lo aplica
+10:16:01 - Federico A. Sawady O'Connor (@sawady.faso):
+no estuve en 2 empresas que lo apliquen igual
+10:16:09 - Federico A. Sawady O'Connor (@sawady.faso):
+pero vos querés saber la teoría no?
+10:16:37 - Federico A. Sawady O'Connor (@sawady.faso):
+<https://www.youtube.com/watch?v=9TycLR0TqFA>
+10:18:54 - Santiago Ruffino (@santi_0898):
+Si, me interesa saberlo por arriba
+10:19:07 - Santiago Ruffino (@santi_0898):
+Porque ya tuve varias instancias en el laburo, y no entiendo mucho
+10:19:17 - Martin Carrera (@mcarrera):
+_nadie entiende mucho_
+10:19:22 - Santiago Ruffino (@santi_0898):
+Tengo las Dailys, tuve Demo el viernes, y hoy tengo como 2 o 3 reuniones mas
+10:19:33 - Santiago Ruffino (@santi_0898):
+Y no entendo nada
+10:19:50 - Martin Carrera (@mcarrera):
+hacete un mini anotador con que se hace en cada reunion
+10:20:07 - Santiago Ruffino (@santi_0898):
+Eso estoy haciendo por ahora. Jajaja
+10:20:13 - Martin Carrera (@mcarrera):
+a fines practicos, no deberias tener mas de 3 o 4 tipos distintos de reunion
+10:20:20 - Santiago Ruffino (@santi_0898):
+O pregunto "Que vamos a hacer ahora?" y listo
+10:23:00 - Juan Stiza (@juanstiza):
+En su momento leí esto: <https://www.scruminc.com/new-scrum-the-book/>
+10:23:07 - Juan Stiza (@juanstiza):
+interesante, pero no es “por arriba”
+10:25:36 - Martín Valdés de León (@mvaldesdeleon):
+Reality:
+&gt; Scrum: The art of doing half the work in twice the time
+*Now with extra meetings!*
+10:26:02 - Santiago Ruffino (@santi_0898):
+El video que me pasaron esta bueno para arracnar, porque me esta dando por lo menos los conceptos basicos. Despues veo el libro ese porque esta bueno para aprenderlo
+10:26:03 - Santiago Ruffino (@santi_0898):
+Jajajaja
+10:26:44 - Santiago Ruffino (@santi_0898):
+Ahora entiendo porque todos los tickets en Jira dicen algo como
+- *Given*...
+- *When* ...
+- *Then* ...
+10:28:25 - Rodrigo Ali (@rodrigojali):
+Claro
+10:29:01 - Rodrigo Ali (@rodrigojali):
+Igual ojo, ese Given-When-Then es de test cases, es de BDD
+10:29:54 - Rodrigo Ali (@rodrigojali):
+Así que si te interesa el tema, podés leer BDD y Gherkin Lang
+10:30:17 - Rodrigo Ali (@rodrigojali):
+Y de ahí te vas a Automation y listo, estás cobrando USD 8k en menos de 3 meses
+10:33:19 - Juan Stiza (@juanstiza):
+Lo unico que faltaría, un _Meeting DLC_, solo por 19.99
+10:33:46 - Martín Valdés de León (@mvaldesdeleon):
+:joy:
+11:09:22 - Federico A. Sawady O'Connor (@sawady.faso):
+tal cual, estoy en estos momentos en una daily falopa en lugar de programar un buggazo
+11:09:33 - Federico A. Sawady O'Connor (@sawady.faso):
+y mis compañeros ya saben con lo que estaba jaja
+11:17:31 - Martín Valdés de León (@mvaldesdeleon):
+La unica cosa que me gusta a mi son justo las dailies, pero solo porque las teniamos muy tuneadas. Soliamos ser entre 15 y 20 personas dependiendo del dia y nunca nos pasabamos de los 10 minutos.
+11:19:17 - Federico A. Sawady O'Connor (@sawady.faso):
+claro
+11:19:25 - Federico A. Sawady O'Connor (@sawady.faso):
+acá dura una hora a veces! y somos 3 devs
+11:19:45 - Federico A. Sawady O'Connor (@sawady.faso):
+porque encima dibujan un toque el alcance del sprint a veces, y hasta hacemos una pre-planning también en algunos casos
+11:30:13 - Juan Stiza (@juanstiza):
+Que suerte
+11:30:21 - Juan Stiza (@juanstiza):
+somos 3 y pueden llegar a durar 2 horas
+11:30:30 - Juan Stiza (@juanstiza):
+:facepalm:
+11:33:46 - Martín Valdés de León (@mvaldesdeleon):
+Costo un poco pero la clave fue que todos entiendan el objetivo de la daily como un punto de encuentro antes de empezar el dia.
+
+Cada uno cuenta lo que hizo ayer y lo que planea hacer hoy, si tiene blockers o menos de un par de dias de backlog, y listo.
+
+Si surgen temas que ameritan mas de un par de minutos, se dejan para despues de la daily, solo con las personas que tengan que participar.
+11:34:09 - Martín Valdés de León (@mvaldesdeleon):
+En general cada uno tarda 30-60 segundos en comentar.
+11:34:14 - Juan Stiza (@juanstiza):
+Eso sería lo ideal.. Igual acá laburamos todo remote, entonces creo que por eso se extiende
+11:34:41 - Martín Valdés de León (@mvaldesdeleon):
+Nosotros estabamos distribuidos en 3 lugares, que se yo.
+11:35:07 - Martín Valdés de León (@mvaldesdeleon):
+Alguien tiene que "tomar las riendas" y marcar el ritmo de la meeting para que no se estire.
+11:51:38 - Marcelo Sebastián Fernández Sábato (@msfs_junin):
+Hola chicos, por ahi llego medio tarde, pero un buen lugar para empezar es la guia de scrum: <https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Spanish-SouthAmerican.pdf>
+13:53:11 - gillchristian (@gillchristian):
+Jajajajaja
+13:53:17 - gillchristian (@gillchristian):
+Ese meme ya ganó
+14:36:35 - Dayan Ruiz (@dayanr):
+R.I.P Grumpy Cat :sob:
+16:54:30 - Dayan Ruiz (@dayanr):
+hola chicos, que plataforma freelance recomiendan mas? alguien que haya tenido buenas experiencias con alguna?
+16:57:17 - Marcos Casagrande (@marcoscvp90):
+Sacando Codementor, la mejor que usé es Upwork.
+16:57:54 - Marcos Casagrande (@marcoscvp90):
+Workana me parece medio una cagada honestamente, al menos comparado con Upwork y otras.
+17:01:11 - Dayan Ruiz (@dayanr):
+sacando codementor?
+17:01:12 - Dayan Ruiz (@dayanr):
+por qué?
+17:01:40 - Marcos Casagrande (@marcoscvp90):
+Porque ya tenemos un canal de <#CGY85V6BU|codementor> que hablamos bastante :joy:
+17:02:27 - Dayan Ruiz (@dayanr):
+jajajaja
+17:02:29 - Dayan Ruiz (@dayanr):
+no sabia
+17:02:40 - Dayan Ruiz (@dayanr):
+bueno voy a leer
