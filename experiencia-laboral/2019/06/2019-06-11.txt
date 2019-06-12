@@ -1,0 +1,1375 @@
+09:39:20 - Dayan Ruiz (@dayanr):
+chicos que creen de tener un stackoverflow activo, github y ese tipo de cosas, suma a la hora de conseguir trabajo freelance o algo parecido?
+09:40:54 - Marcos Casagrande (@marcoscvp90):
+Ayuda, porque muchas veces te contactan por ver tu perfil en esos medios.
+09:42:56 - Pedro (@pedro461):
+sin duda ayuda
+10:00:56 - Dayan Ruiz (@dayanr):
+linkedin tambien suma?
+10:01:00 - Dayan Ruiz (@dayanr):
+tener blog personal?
+10:01:56 - Luis Alvarez (@luistensai):
+todo suma, buen CV también jaja
+10:02:28 - Pedro (@pedro461):
+linkedIn totalmente
+10:03:14 - Pedro (@pedro461):
+“la aprobación social importa y mucho”…. no me acuerdo donde leí o escuché eso
+10:03:44 - Jorge Cano (@jorgeucano):
+yo supongo que a veces depende de donde
+10:03:48 - Jorge Cano (@jorgeucano):
+hay gente que no le importa
+10:03:55 - Jorge Cano (@jorgeucano):
+y hay gente que cree que es la biblia del freelancer
+10:04:05 - Jorge Cano (@jorgeucano):
+en estos casos YO CREO que mas es mejor
+10:04:09 - Pedro (@pedro461):
+pero la presencia, el mostrarse activo, tener twitter incluso, linkedIn, github (con repos propios y forkeados, con actividad), el open source si es posible, todo eso ayuda a conseguir laburo y buenos laburos
+10:04:11 - Jorge Cano (@jorgeucano):
+tenes mas formas de demostrar tu conocimiento
+10:05:17 - Pedro (@pedro461):
+claro, podes demostrar tu conocimiento haciendoles una aplicación en la cara si querés, pero para eso te tienen que abrir la puerta para que les muestres… en cambio si te encuentran sin que los busques, si estás presente es otra cosa…
+10:05:32 - Dayan Ruiz (@dayanr):
+makes sense
+10:05:43 - Jorge Cano (@jorgeucano):
+a mi en lo personal
+10:05:51 - Jorge Cano (@jorgeucano):
+tener cosas publicas me abrieron muchas puertas
+10:05:52 - Pedro (@pedro461):
+hasta escribir un libro puede ayudar y mucho, organizar una conferencia, dar una charla… todo eso sirve.. y repito, sirve mucho.. no a encontrar laburo, sino a encontrar uno mejor
+10:06:19 - Pedro (@pedro461):
+claro, yo lo digo por experiencia propia
+10:06:29 - Jorge Cano (@jorgeucano):
+si, obvio que el que gana siempre sos vos
+10:07:05 - Pedro (@pedro461):
+?
+10:07:47 - Jorge Cano (@jorgeucano):
+Osea, cuando escribis un blog, das una charla, organizar algo
+10:07:50 - Jorge Cano (@jorgeucano):
+siempre aprendes
+10:07:53 - Jorge Cano (@jorgeucano):
+entonces, siempre ganas
+10:07:54 - Pedro (@pedro461):
+ah totalmente
+10:08:01 - Jorge Cano (@jorgeucano):
+y si te sirve despues para mostrar tu conocimiento es un lujo
+10:08:06 - Pedro (@pedro461):
+concuerdo 100%
+10:08:15 - Jorge Cano (@jorgeucano):
+yo no entraria nunca a una empresa que me pidan hacer un “test/desarrollo online”
+10:08:24 - Dayan Ruiz (@dayanr):
+por que?
+10:08:37 - Jorge Cano (@jorgeucano):
+me parece una estupides
+10:08:42 - Jorge Cano (@jorgeucano):
+siempre estuve encontra
+10:08:50 - Jorge Cano (@jorgeucano):
+y despues de mas de 10 años programando
+10:08:52 - Pedro (@pedro461):
+lo del blog es muy buena también, eescribir artículos.. incluso dar clases de untema (onda, che yo enseño a otros a hacer esto…)
+10:08:54 - Jorge Cano (@jorgeucano):
+mas de 100 post
+10:09:00 - Jorge Cano (@jorgeucano):
+y mas de 8 OSS
+10:09:11 - Jorge Cano (@jorgeucano):
+si “me venis a buscar” es porque sabes quien soy
+10:09:40 - Dayan Ruiz (@dayanr):
+ahi no se que decirte, porque empresas como amazon te mandan esos test
+10:09:47 - Dayan Ruiz (@dayanr):
+y google y facebook
+10:09:57 - Jorge Cano (@jorgeucano):
+si te vienen a buscar ellos
+10:10:04 - Jorge Cano (@jorgeucano):
+el unico que te toma el test de verdad es Google
+10:10:10 - Pedro (@pedro461):
+concuerdo, aunq debo decir que uno de los mejores labures que me toc´ø hacer fueron gracias a hacer un test de esos… en realidad me preguntaron si sabía Vue, yo les dije un poco agrandado que no solo lo sabía, que hasta daba charlas de eso.. entonces me tomaron el test… y para mi suerte era un test divertido y para nad complicado
+10:10:11 - Jorge Cano (@jorgeucano):
+lo digo por experiencia
+10:10:21 - Dayan Ruiz (@dayanr):
+cuenta un poco mas si podes
+10:10:29 - Dayan Ruiz (@dayanr):
+de esa experiencia que decis con google y otras empresas
+10:10:44 - Jorge Cano (@jorgeucano):
+VmWare, Atalasian, Microsoft y algunos mas que bajo NDA no puedo decir
+10:10:56 - Jorge Cano (@jorgeucano):
+me ofrecieron trabajo con propuesta formal
+10:11:00 - Jorge Cano (@jorgeucano):
+sin hacer ni un solo test de nada
+10:11:10 - Jorge Cano (@jorgeucano):
+siemplemente hablando con algun Lead de tecnologia por hangout
+10:11:17 - Dayan Ruiz (@dayanr):
+entiendo si
+10:11:28 - Jorge Cano (@jorgeucano):
+entonces, si vos aplicas, puede que te pidan un test
+10:11:38 - Jorge Cano (@jorgeucano):
+pero , si te vienen a buscar, seria raro que te pidan un test
+10:11:54 - Jorge Cano (@jorgeucano):
+aca los de despegar me llamaron para una posicion de “experto de tecnologia” o algo asi
+10:12:03 - Jorge Cano (@jorgeucano):
+y me dijieron “queremos que hagas un test de desarrollo”
+10:12:09 - Jorge Cano (@jorgeucano):
+los saque cagando, literalmente
+10:12:22 - Dayan Ruiz (@dayanr):
+ta, pero eso es quemar un puente
+10:12:35 - Dayan Ruiz (@dayanr):
+capaz te iban a ofrecer bastante plata
+10:13:14 - Pedro (@pedro461):
+creo que los dos tienen razón… y soy un poco como Jorge que si em quieren tomar un test los mando a cagar, pero la verdad que siempre va a depender más de si me interesa el trabajo o no.. si la empresa es google, hago el test y a freír churros
+10:13:37 - Jorge Cano (@jorgeucano):
+en google si no haces los 8 tests no podes firmar el contrato
+10:13:41 - Pedro (@pedro461):
+la plata es un incentivo.. pero no tiene que ser el único o el más importante… si sumar
+10:13:44 - Jorge Cano (@jorgeucano):
+es parte del contrato tener todos los test terminados y aprobados
+10:14:00 - Julian (@jantonielli01):
+Yo entiendo el approach de Jorge, pero yo prefiero no ser tan agresivo : p
+10:14:01 - Pedro (@pedro461):
+donde laburas ahora?
+10:14:04 - Pedro (@pedro461):
+Google? jaja
+10:14:14 - Jorge Cano (@jorgeucano):
+El problema es que si vos buscar ser “sueldero” te vas a terminar cambiando por 500 pesos mas cada 4 meses
+10:14:32 - Jorge Cano (@jorgeucano):
+yo creo que llega un punto donde tenes que entender cuanto dinero te “SIRVE” a vos
+10:14:34 - Jorge Cano (@jorgeucano):
+y que te gusta hacer
+10:14:42 - Jorge Cano (@jorgeucano):
+yo no programaria en cobol todo el dia ni por el doble de mi sueldo
+10:14:51 - Pedro (@pedro461):
+yo creo que llega un putno donde tenes qu entender cuanto dinero “VALES”
+10:14:54 - Pedro (@pedro461):
+te cambio la frase
+10:14:56 - Pedro (@pedro461):
+jaja
+10:15:17 - Jorge Cano (@jorgeucano):
+si, igual conozco gente que queria ganar 10k verdes por mes
+10:15:19 - Pedro (@pedro461):
+yo no haría C# ni aunq me regalen una casa
+10:15:20 - Pedro (@pedro461):
+jaja
+10:15:26 - Jorge Cano (@jorgeucano):
+y cuando arrancan a trabajar por menos de la mitad
+10:15:31 - Jorge Cano (@jorgeucano):
+no terminan ni 5 tickets por sprint
+10:15:37 - Pedro (@pedro461):
+10k verdes por mes no es una locura
+10:15:47 - Pedro (@pedro461):
+es una meta ambiciosa pero no imposible
+10:15:57 - Jorge Cano (@jorgeucano):
+hay gente que cobra muchisimo mas
+10:16:02 - Julian (@jantonielli01):
+Mi meta son los 200k 
+10:16:03 - Pedro (@pedro461):
+yes
+10:16:04 - Jorge Cano (@jorgeucano):
+pero depende de tu posicion tambien
+10:16:17 - Martin Carrera (@mcarrera):
+por mes, no?
+10:16:28 - Pedro (@pedro461):
+año
+10:16:41 - Federico A. Sawady O'Connor (@sawady.faso):
+si no es mes no sirve
+10:16:49 - Julian (@jantonielli01):
+Si, por mes
+10:16:55 - Martin Carrera (@mcarrera):
+asi me gusta <@U7MP5R4MC>
+10:16:58 - Pedro (@pedro461):
+verdes? estas loco
+10:16:58 - Pedro (@pedro461):
+jaja
+10:17:08 - Pedro (@pedro461):
+o pesos?
+10:17:17 - Jorge Cano (@jorgeucano):
+Mi consejo al Jorge de hace 10 años seria: trata de entender bien un lenguaje que te guste… y luego aprende muchisimo ingles… comparti tus conocimientos … lo demas llega solo
+10:17:25 - Federico A. Sawady O'Connor (@sawady.faso):
+papá no están pensando bien, la idea es que el dinero se genere sólo y programar por placer :+1:
+10:17:44 - Julian (@jantonielli01):
+Verdes 
+10:17:49 - Pedro (@pedro461):
+totalmente de acuerdo con los dos
+10:17:52 - Julian (@jantonielli01):
+Yo le apuesto llegar en 20 años 
+09:39:20 - Dayan Ruiz (@dayanr):
+chicos que creen de tener un stackoverflow activo, github y ese tipo de cosas, suma a la hora de conseguir trabajo freelance o algo parecido?
+09:40:54 - Marcos Casagrande (@marcoscvp90):
+Ayuda, porque muchas veces te contactan por ver tu perfil en esos medios.
+09:42:56 - Pedro (@pedro461):
+sin duda ayuda
+10:00:56 - Dayan Ruiz (@dayanr):
+linkedin tambien suma?
+10:01:00 - Dayan Ruiz (@dayanr):
+tener blog personal?
+10:01:56 - Luis Alvarez (@luistensai):
+todo suma, buen CV también jaja
+10:02:28 - Pedro (@pedro461):
+linkedIn totalmente
+10:03:14 - Pedro (@pedro461):
+“la aprobación social importa y mucho”…. no me acuerdo donde leí o escuché eso
+10:03:44 - Jorge Cano (@jorgeucano):
+yo supongo que a veces depende de donde
+10:03:48 - Jorge Cano (@jorgeucano):
+hay gente que no le importa
+10:03:55 - Jorge Cano (@jorgeucano):
+y hay gente que cree que es la biblia del freelancer
+10:04:05 - Jorge Cano (@jorgeucano):
+en estos casos YO CREO que mas es mejor
+10:04:09 - Pedro (@pedro461):
+pero la presencia, el mostrarse activo, tener twitter incluso, linkedIn, github (con repos propios y forkeados, con actividad), el open source si es posible, todo eso ayuda a conseguir laburo y buenos laburos
+10:04:11 - Jorge Cano (@jorgeucano):
+tenes mas formas de demostrar tu conocimiento
+10:05:17 - Pedro (@pedro461):
+claro, podes demostrar tu conocimiento haciendoles una aplicación en la cara si querés, pero para eso te tienen que abrir la puerta para que les muestres… en cambio si te encuentran sin que los busques, si estás presente es otra cosa…
+10:05:32 - Dayan Ruiz (@dayanr):
+makes sense
+10:05:43 - Jorge Cano (@jorgeucano):
+a mi en lo personal
+10:05:51 - Jorge Cano (@jorgeucano):
+tener cosas publicas me abrieron muchas puertas
+10:05:52 - Pedro (@pedro461):
+hasta escribir un libro puede ayudar y mucho, organizar una conferencia, dar una charla… todo eso sirve.. y repito, sirve mucho.. no a encontrar laburo, sino a encontrar uno mejor
+10:06:19 - Pedro (@pedro461):
+claro, yo lo digo por experiencia propia
+10:06:29 - Jorge Cano (@jorgeucano):
+si, obvio que el que gana siempre sos vos
+10:07:05 - Pedro (@pedro461):
+?
+10:07:47 - Jorge Cano (@jorgeucano):
+Osea, cuando escribis un blog, das una charla, organizar algo
+10:07:50 - Jorge Cano (@jorgeucano):
+siempre aprendes
+10:07:53 - Jorge Cano (@jorgeucano):
+entonces, siempre ganas
+10:07:54 - Pedro (@pedro461):
+ah totalmente
+10:08:01 - Jorge Cano (@jorgeucano):
+y si te sirve despues para mostrar tu conocimiento es un lujo
+10:08:06 - Pedro (@pedro461):
+concuerdo 100%
+10:08:15 - Jorge Cano (@jorgeucano):
+yo no entraria nunca a una empresa que me pidan hacer un “test/desarrollo online”
+10:08:24 - Dayan Ruiz (@dayanr):
+por que?
+10:08:37 - Jorge Cano (@jorgeucano):
+me parece una estupides
+10:08:42 - Jorge Cano (@jorgeucano):
+siempre estuve encontra
+10:08:50 - Jorge Cano (@jorgeucano):
+y despues de mas de 10 años programando
+10:08:52 - Pedro (@pedro461):
+lo del blog es muy buena también, eescribir artículos.. incluso dar clases de untema (onda, che yo enseño a otros a hacer esto…)
+10:08:54 - Jorge Cano (@jorgeucano):
+mas de 100 post
+10:09:00 - Jorge Cano (@jorgeucano):
+y mas de 8 OSS
+10:09:11 - Jorge Cano (@jorgeucano):
+si “me venis a buscar” es porque sabes quien soy
+10:09:40 - Dayan Ruiz (@dayanr):
+ahi no se que decirte, porque empresas como amazon te mandan esos test
+10:09:47 - Dayan Ruiz (@dayanr):
+y google y facebook
+10:09:57 - Jorge Cano (@jorgeucano):
+si te vienen a buscar ellos
+10:10:04 - Jorge Cano (@jorgeucano):
+el unico que te toma el test de verdad es Google
+10:10:10 - Pedro (@pedro461):
+concuerdo, aunq debo decir que uno de los mejores labures que me toc´ø hacer fueron gracias a hacer un test de esos… en realidad me preguntaron si sabía Vue, yo les dije un poco agrandado que no solo lo sabía, que hasta daba charlas de eso.. entonces me tomaron el test… y para mi suerte era un test divertido y para nad complicado
+10:10:11 - Jorge Cano (@jorgeucano):
+lo digo por experiencia
+10:10:21 - Dayan Ruiz (@dayanr):
+cuenta un poco mas si podes
+10:10:29 - Dayan Ruiz (@dayanr):
+de esa experiencia que decis con google y otras empresas
+10:10:44 - Jorge Cano (@jorgeucano):
+VmWare, Atalasian, Microsoft y algunos mas que bajo NDA no puedo decir
+10:10:56 - Jorge Cano (@jorgeucano):
+me ofrecieron trabajo con propuesta formal
+10:11:00 - Jorge Cano (@jorgeucano):
+sin hacer ni un solo test de nada
+10:11:10 - Jorge Cano (@jorgeucano):
+siemplemente hablando con algun Lead de tecnologia por hangout
+10:11:17 - Dayan Ruiz (@dayanr):
+entiendo si
+10:11:28 - Jorge Cano (@jorgeucano):
+entonces, si vos aplicas, puede que te pidan un test
+10:11:38 - Jorge Cano (@jorgeucano):
+pero , si te vienen a buscar, seria raro que te pidan un test
+10:11:54 - Jorge Cano (@jorgeucano):
+aca los de despegar me llamaron para una posicion de “experto de tecnologia” o algo asi
+10:12:03 - Jorge Cano (@jorgeucano):
+y me dijieron “queremos que hagas un test de desarrollo”
+10:12:09 - Jorge Cano (@jorgeucano):
+los saque cagando, literalmente
+10:12:22 - Dayan Ruiz (@dayanr):
+ta, pero eso es quemar un puente
+10:12:35 - Dayan Ruiz (@dayanr):
+capaz te iban a ofrecer bastante plata
+10:13:14 - Pedro (@pedro461):
+creo que los dos tienen razón… y soy un poco como Jorge que si em quieren tomar un test los mando a cagar, pero la verdad que siempre va a depender más de si me interesa el trabajo o no.. si la empresa es google, hago el test y a freír churros
+10:13:37 - Jorge Cano (@jorgeucano):
+en google si no haces los 8 tests no podes firmar el contrato
+10:13:41 - Pedro (@pedro461):
+la plata es un incentivo.. pero no tiene que ser el único o el más importante… si sumar
+10:13:44 - Jorge Cano (@jorgeucano):
+es parte del contrato tener todos los test terminados y aprobados
+10:14:00 - Julian (@jantonielli01):
+Yo entiendo el approach de Jorge, pero yo prefiero no ser tan agresivo : p
+10:14:01 - Pedro (@pedro461):
+donde laburas ahora?
+10:14:04 - Pedro (@pedro461):
+Google? jaja
+10:14:14 - Jorge Cano (@jorgeucano):
+El problema es que si vos buscar ser “sueldero” te vas a terminar cambiando por 500 pesos mas cada 4 meses
+10:14:32 - Jorge Cano (@jorgeucano):
+yo creo que llega un punto donde tenes que entender cuanto dinero te “SIRVE” a vos
+10:14:34 - Jorge Cano (@jorgeucano):
+y que te gusta hacer
+10:14:42 - Jorge Cano (@jorgeucano):
+yo no programaria en cobol todo el dia ni por el doble de mi sueldo
+10:14:51 - Pedro (@pedro461):
+yo creo que llega un putno donde tenes qu entender cuanto dinero “VALES”
+10:14:54 - Pedro (@pedro461):
+te cambio la frase
+10:14:56 - Pedro (@pedro461):
+jaja
+10:15:17 - Jorge Cano (@jorgeucano):
+si, igual conozco gente que queria ganar 10k verdes por mes
+10:15:19 - Pedro (@pedro461):
+yo no haría C# ni aunq me regalen una casa
+10:15:20 - Pedro (@pedro461):
+jaja
+10:15:26 - Jorge Cano (@jorgeucano):
+y cuando arrancan a trabajar por menos de la mitad
+10:15:31 - Jorge Cano (@jorgeucano):
+no terminan ni 5 tickets por sprint
+10:15:37 - Pedro (@pedro461):
+10k verdes por mes no es una locura
+10:15:47 - Pedro (@pedro461):
+es una meta ambiciosa pero no imposible
+10:15:57 - Jorge Cano (@jorgeucano):
+hay gente que cobra muchisimo mas
+10:16:02 - Julian (@jantonielli01):
+Mi meta son los 200k 
+10:16:03 - Pedro (@pedro461):
+yes
+10:16:04 - Jorge Cano (@jorgeucano):
+pero depende de tu posicion tambien
+10:16:17 - Martin Carrera (@mcarrera):
+por mes, no?
+10:16:28 - Pedro (@pedro461):
+año
+10:16:41 - Federico A. Sawady O'Connor (@sawady.faso):
+si no es mes no sirve
+10:16:49 - Julian (@jantonielli01):
+Si, por mes
+10:16:55 - Martin Carrera (@mcarrera):
+asi me gusta <@U7MP5R4MC>
+10:16:58 - Pedro (@pedro461):
+verdes? estas loco
+10:16:58 - Pedro (@pedro461):
+jaja
+10:17:08 - Pedro (@pedro461):
+o pesos?
+10:17:17 - Jorge Cano (@jorgeucano):
+Mi consejo al Jorge de hace 10 años seria: trata de entender bien un lenguaje que te guste… y luego aprende muchisimo ingles… comparti tus conocimientos … lo demas llega solo
+10:17:25 - Federico A. Sawady O'Connor (@sawady.faso):
+papá no están pensando bien, la idea es que el dinero se genere sólo y programar por placer :+1:
+10:17:44 - Julian (@jantonielli01):
+Verdes 
+10:17:49 - Pedro (@pedro461):
+totalmente de acuerdo con los dos
+10:17:52 - Julian (@jantonielli01):
+Yo le apuesto llegar en 20 años 
+10:18:30 - Julian (@jantonielli01):
+Meh, yo programo bastante en parte porque da buena guita
+10:18:34 - Aldo Gabriel Rojas (@aldogrojas5):
+Le puedo dar ese consejo a mi yo de hoy? :joy:
+10:18:35 - Julian (@jantonielli01):
+:man-shrugging: 
+10:18:42 - Jorge Cano (@jorgeucano):
+Obvio
+10:18:51 - Jorge Cano (@jorgeucano):
+Esta perfecto
+10:19:02 - Jorge Cano (@jorgeucano):
+no tenes que tener pasión por todo lo que haces
+10:19:08 - Jorge Cano (@jorgeucano):
+el trabajo es trabajo
+10:19:18 - Julian (@jantonielli01):
+Sep
+10:19:26 - Federico A. Sawady O'Connor (@sawady.faso):
+ni hablar, yo lavaría copas por buena guita
+10:19:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Yo me estoy cambiando de carrera basicamente por la guita... pero si no me gustara, no podría estar todo el día adelante de la compu
+10:19:30 - Jorge Cano (@jorgeucano):
+si tenes la “suerte” de hacer lo que te gusta
+10:19:36 - Jorge Cano (@jorgeucano):
+es mucho mejor
+10:19:43 - Julian (@jantonielli01):
+Pero siempre veo salames shameando a los que se quieren meter a codear por la guita 
+10:20:02 - Jorge Cano (@jorgeucano):
+Si das cursos/workshops/comoquierasllamarlo de programacion
+10:20:04 - Jorge Cano (@jorgeucano):
+es un buen enganche
+10:20:06 - Aldo Gabriel Rojas (@aldogrojas5):
+No podria por mas guita q me den ponerme a ser community manager de rrss
+10:20:09 - Jorge Cano (@jorgeucano):
+“veni a donde se gana guita”
+10:20:30 - Federico A. Sawady O'Connor (@sawady.faso):
+para mi es envidia sentirse mal por que otro gana lo mismo que vos no gustandole tanto como a vos lo que hace
+10:20:49 - Jorge Cano (@jorgeucano):
+Yo que se, depende de cada uno al final y de un monton de situaciones
+10:21:09 - Jorge Cano (@jorgeucano):
+como creo que no todos estamos hechos para lo mismo… yo estoy seguro que seria MALISIMO en un monton de trabajos
+10:21:21 - Jorge Cano (@jorgeucano):
+y tengo suerte de que “encontre” algo que me gusta y “me va bien”
+10:21:36 - Federico A. Sawady O'Connor (@sawady.faso):
+igual también te deja satisfecho hacer bien tu laburo no?
+10:21:40 - Jorge Cano (@jorgeucano):
+pero atras de todo esto, hay un monton de esfuerzo que posiblemente muchos no lo vean
+10:22:08 - Jorge Cano (@jorgeucano):
+en mi caso si… pero no para todos es asi
+10:22:48 - Jorge Cano (@jorgeucano):
+Y si programas por la guita, y cumplis horarios y tareas… TAMBIEN ESTA BIEN xD
+10:23:36 - Federico A. Sawady O'Connor (@sawady.faso):
+pero viste que hay una pirámide, en un punto necesitás autorealizarte, tal vez no sea en tu laburo, pero en algo lo vas a quererlo, y mucha gente se la pasa laburando la mayor parte del día
+10:24:13 - Federico A. Sawady O'Connor (@sawady.faso):
+cuando llegues me invitás una birra (ah por qué)
+10:24:32 - Jorge Cano (@jorgeucano):
+desde mi punto de vista… nosotros estamos en la “posicion de privilegio”
+10:24:37 - Jorge Cano (@jorgeucano):
+entonces es mas facil para nosotros
+10:25:05 - Federico A. Sawady O'Connor (@sawady.faso):
+sep
+10:25:57 - Rodrigo Ali (@rodrigojali):
+Yo me cambié de rubro por guita a éste, y no pretendo estar codeando con 50 años. Mi plan es jubilarme lo antes posible teniendo guita que se genera pasivamente.
+10:26:12 - Federico A. Sawady O'Connor (@sawady.faso):
+aparte para mi no llegas vivo codeando a los 50
+10:26:23 - Rodrigo Ali (@rodrigojali):
+Me gusta, lo disfruto, pero no me vuelve loco...
+10:26:25 - Federico A. Sawady O'Connor (@sawady.faso):
+no se a uds pero a mi me fríe el cerebro con el pasar del tiempo
+10:26:57 - Federico A. Sawady O'Connor (@sawady.faso):
+ya no se poner botones a la velocidad con que lo hacía a los 22, y tengo 28
+10:27:01 - Rodrigo Ali (@rodrigojali):
+Nah obvio, también cada cual es un mundo, pero ponele, yo creo que a ese tipo de edades apuntás más a asesoría y tal. Onda, vale más tu experiencia y conocimiento que tu "capacidad de codear"
+10:27:24 - Martin Carrera (@mcarrera):
+a todos
+10:27:25 - Martin Carrera (@mcarrera):
+porque puede
+10:28:14 - Julian (@jantonielli01):
+De una pibes
+10:38:10 - Carlos Manotas (@carlosmanotas):
+ja desde cuando?? :trollface:
+10:48:35 - Pedro (@pedro461):
+no bueno, se desvirtuó todo… no se como decir esto sin que parezca un curso de autoayuda o cursi jajaja.. pero cuando haces lo que te gusta, lo haces bien, y cuando lo haces bien, da guita… No me refiero a me gusta estar todo el día tirado (eso no da guita), tenés que encontrarle la vía económica a lo qu ete gusta.. si te gustan los caballos, podés dedicarte a criar caballos y ganar mucha guita haciendo lo que te gusta… pero si te gustan los caballos y lo unic oque queres es tener caballos entonces claramente no vas a ganar guita… mi consejo (aca va lo cursi) es que encuentres eso que te gustaría hacer sin que importe la plata, y una vez que lo encuentres le busques la vuelta para hacerlo redituable
+10:49:18 - Marcos Casagrande (@marcoscvp90):
+A mi me gusta hacer plata :moneybag:
+10:49:23 - Rodrigo Ali (@rodrigojali):
+A mi también :heart:
+10:49:30 - Ale Miralles (@amiralles):
+MSFT Corp? Raro....
+10:49:41 - Pedro (@pedro461):
+busca la forma redituable de hacerla jaja
+10:49:50 - Marcos Casagrande (@marcoscvp90):
+cría de dólares
+10:49:57 - Rodrigo Ali (@rodrigojali):
+Yo intenté una vuelta hacer plata de lo que me gustaba (cocinar) y terminó dejando de gustarme por un tiempo.
+10:50:16 - Pedro (@pedro461):
+la más redituable para hacer plata es ser perseverante.. para perseverar es clave que te guste lo que haces
+10:50:25 - Pedro (@pedro461):
+entonces no te gustaba tanto
+10:50:41 - Rodrigo Ali (@rodrigojali):
+Es mi caso particular, claro. Pero lo que me pasó es que entre otras cosas, me gusta algo porque no tengo "obligación" de hacerlo. Lo hago cuando quiero y de la forma que quiera.
+10:51:09 - Pedro (@pedro461):
+eso es un hobbie entonces… no es una pasión o algo que te gusta “hacer” a diario
+10:51:15 - Pedro (@pedro461):
+no perdon, me retracto
+10:51:16 - Pedro (@pedro461):
+no es un hobbie
+10:51:25 - Rodrigo Ali (@rodrigojali):
+Me gusta hacerlo a diario, lo hago todos los días :stuck_out_tongue:, y lo hago con gusto.
+10:51:32 - Pedro (@pedro461):
+es una condici´øn que hace que algunas cosas te gusten, pero que normalmente si fuesen obligación no te gustarían
+10:51:36 - Pedro (@pedro461):
+por ende… no te gustan en realidad
+10:51:55 - Pedro (@pedro461):
+o sea, si te gustan, pero por la condición d eno ser obligación
+10:52:05 - Pedro (@pedro461):
+no se si se entiende
+10:52:33 - Rodrigo Ali (@rodrigojali):
+Entiendo el punto pero no lo comparto. A mi no me gusta que me obliguen a hacer cosas en general. Pero hago cosas obligado bajo algún trade-off, como laburar.
+10:53:08 - Pedro (@pedro461):
+a ver… cuanod estudias una carrera vas a tener materias que te van a gustar y otras que no y que por obligaci´øn vas a tenr que estudiar igual… pero eso es porq te gusta la carrera, no la materia
+10:54:04 - Pedro (@pedro461):
+si te gusta cocinar porq no es obligación, porq lo disfrutas y te divierte pero en el momento que te metes a un restaurant como chef y te obligan a cocinar platos que no querés te deja de gustar entonces claramente nucna va a ser una vía económica para vos.. una forma de hacerlo redituab\le
+10:54:04 - Martin Carrera (@mcarrera):
+el tema es que te puede gustar cocinar pero no te gusta cocinar para otros
+10:54:06 - Martin Carrera (@mcarrera):
+:joy:
+10:54:09 - Martin Carrera (@mcarrera):
+y eso no genera plata :stuck_out_tongue_winking_eye:
+10:54:23 - Martin Carrera (@mcarrera):
+igual entiendo lo que dice pedro y tiene un buen punto
+10:54:27 - Martin Carrera (@mcarrera):
+pero creo q no aplica al 100% de las cosas
+10:54:29 - Pedro (@pedro461):
+en mi humilde opinión, eso no es más que un pasatiempo que te gusta hacer… como a mi tomarme un wisky jaja… no me voy a hacer rico nunca tomando wisky
+10:55:04 - Rodrigo Ali (@rodrigojali):
+Claro, pienso como Martin.
+10:55:11 - Pedro (@pedro461):
+jamás dije que aplicaba al 100% de las cosas. solo digo que estan a tiempo de encontrar algo que disfruten realmente y que les permita ganar plata, y que si lo disfrutan y es redituable va a ser con buena ganancia “siempre”
+10:55:27 - Pedro (@pedro461):
+y no hablo en cantidad sino en ganancia
+10:55:28 - Rodrigo Ali (@rodrigojali):
+Yo hoy intento mezclar
+10:55:49 - Martin Carrera (@mcarrera):
+por otro lado, siempre podes darle una vuelta de tuerca como decis y tratar de hacerlo redituable
+10:55:55 - Pedro (@pedro461):
+yo amo programar, pero no me gusta hacer react, pero mi pasión es programar, entonces si me toca hago react… lo bueno es que siempre lo disfruto
+10:55:56 - Martin Carrera (@mcarrera):
+pero ya implica mas creatividad y perseverancia jaja
+10:56:03 - Rodrigo Ali (@rodrigojali):
+Maximizar lo más que pueda mi ARS/hr para poder disfrutar más de mi tiempo y de las cosas que quiero hacer que no puedo/quiero hacer redituables.
+10:56:04 - Pedro (@pedro461):
+y creo que se ha convertido en algo muy redituable para mi estilo de vida
+10:56:52 - Pedro (@pedro461):
+si quiero algun día ser rico debería buscar la forma de hacerlo constante y en escala… para tener las ganas y los huevos de ahcer eso tiene que gustarme, que realmente gustarme… al menos yo no soy constante en nada que no me guste
+10:56:59 - Pedro (@pedro461):
+y la constancia es clave…
+10:57:09 - Pedro (@pedro461):
+nada (o muy poco) se da de un día para el otro
+10:59:25 - Ale Miralles (@amiralles):
+A mi me gusta programar, pero tambien me gusta la guita. Trabajar en tecnologia me permite tener un estilo de vida que no podria tener si me dedicara a, no se, tocar la guitarra :joy:.
+10:59:42 - Ale Miralles (@amiralles):
+Igual coincido en que la plata no es todo, pero al menos en mi caso, es muy importante.
+11:00:25 - Jorge Cano (@jorgeucano):
+depende donde toques la guitarra :stuck_out_tongue:
+11:00:45 - Pedro (@pedro461):
+si cobras 200k verdes por mes algún día.. laburo para vos gratis
+11:01:00 - Pedro (@pedro461):
+jaja ya me estoy viendo ad honoren en 20 años
+11:01:00 - Pedro (@pedro461):
+jajaja
+11:01:04 - Ale Miralles (@amiralles):
+Falto aclara, con mis skills!
+11:01:15 - Ale Miralles (@amiralles):
+claramente, me cagaria de hambre!!!
+11:01:16 - Ale Miralles (@amiralles):
+jajaja
+11:01:22 - Rodrigo Ali (@rodrigojali):
+Jajaja
+11:01:48 - Rodrigo Ali (@rodrigojali):
+Hay tantas canciones que hablan de cagarse de hambre tocando la viola :stuck_out_tongue:
+11:01:57 - Rodrigo Ali (@rodrigojali):
+La irania
+11:02:23 - Martin Carrera (@mcarrera):
+el tema es que no tenes que ser un ROCKSTAR DEVELOPER para tener un buen pasar
+11:02:34 - Martin Carrera (@mcarrera):
+como si tendrias que ser un rockstar en casi todas las demas carreras :stuck_out_tongue_winking_eye:
+11:03:02 - Pedro (@pedro461):
+dejo esto por acá…
+11:03:04 - Pedro (@pedro461):
+:slightly_smiling_face:
+11:04:49 - Pedro (@pedro461):
+en ese video esta de una manera cursi explicado lo que quiero decir.. que no se trata de “me gusta hacer esto y listo soy millonario” sino de encontrar eso que te gusta y darle una forma ya sea de trabajo, negocio, etc
+11:05:46 - Pedro (@pedro461):
+aca está mejor <https://www.youtube.com/watch?v=UtMreUURG3A>
+11:06:35 - Ale Miralles (@amiralles):
+<@U1H94SP4J> es verdad....
+11:26:36 - Damian Diaz (@damianmdst):
+O … podes buscar la forma de hacer mucha plata, para despues no tener que preocuparte y disfrutar de lo que queres hacer.
+11:26:50 - Damian Diaz (@damianmdst):
+La plata no hace la felicidad, pero te la manda a traer por Amazon muchas veces.
+11:28:06 - Rodrigo Ali (@rodrigojali):
+Yo soy de esa escuela, al menos por ahora.
+11:31:08 - Pedro (@pedro461):
+Y te moris de viejito con ganas de saltar de un avión.. claaaa.. eso ya lo hacían lso baby boomers
+11:33:06 - Damian Diaz (@damianmdst):
+En parte era un chiste el comentario, pero si lo tomas de esa forma, hay maneras hacer suficiente plata para retirarte a los 40/50 al menos en este rubro si la tenes clara y armas un buen plan.
+11:34:18 - Marcos Casagrande (@marcoscvp90):
+Y a los 35 también.
+11:46:29 - Dayan Ruiz (@dayanr):
+nunca voy a entender a los que dice que no es tan importante el dinero, respeto total para esas opiniones, pero no comparto en lo absoluto, 10/10 hobbies que me gustan a mi pasan por tener plata
+11:47:03 - Dayan Ruiz (@dayanr):
+- ver futbol (necesito plata para una tele decente y cable)
+ - viajar (no te dan pasajes ni comida free)
+ - whatever (necesita plata)
+11:47:34 - Dayan Ruiz (@dayanr):
+ademas que ganando medianamente decente tu lvl de estres baja, porque las facturas no se pagan solas
+11:47:42 - Martín Aimar (@maimar):
+- podés ir a la vidriera de musimundo a ver los partidos
+- colate en el tren
+11:47:50 - Dayan Ruiz (@dayanr):
+jajajajajajaja
+11:48:00 - Dayan Ruiz (@dayanr):
+no hay tren en mvideo
+11:48:06 - Dayan Ruiz (@dayanr):
+(sad face)
+11:48:19 - Martín Aimar (@maimar):
+bueno una preocupación menos :thinking_guy:
+11:48:34 - fleita (@fleita):
+la guita es indispensable, dps según las ambiciones de cada uno cambia la importancia de cuánto necesitás
+11:49:09 - Dayan Ruiz (@dayanr):
+se trabaja por guita, si de paso es algo que te gusta hacer, pues un super mega plus
+11:49:25 - Dayan Ruiz (@dayanr):
+a mi me encanta programar, aun asi, hay veces que vengo a laburar unica y exclusivamente porque soy pobre
+11:56:52 - Martín Valdés de León (@mvaldesdeleon):
+Yo lo q diria es q programo por placer, y por dinero. Podria hacer otras cosas por dinero (x ej ejercer de Quimico) pero las condiciones laborales como dev le pasan el trapo a todo.
+11:57:24 - Martín Valdés de León (@mvaldesdeleon):
+Pero si fuese distinto y hiciese X cosa por dinero, igual programaria por placer.
+11:57:39 - Martín Valdés de León (@mvaldesdeleon):
+Del mismo modo que hoy hago X por placer y no por dinero.
+11:57:53 - Dayan Ruiz (@dayanr):
+claro, yo elegi quedarme con la prog, porque me gusta, pero si hubiera otra cosa, que me gustara un poquito menos, y me pagara mucho mas, me cambiara
+11:58:43 - Gonza Gluzman (@gonza):
+“_No lo haaaaaces por dineeero, sólo lo haaaaces por placeeer_” :musical_note:
+11:58:52 - Pablo Miceli (@pablomiceli24):
+cuando no tenia un sope, me preocupaba en como cuidar la guita y eso era estresante, ahora que tengo un sope, me preocupo por cual va a ser el siguiente jueguito que voy a viciar, lo cual no es estresante. Osea el factor plata hizo que cambien mis preocupaciones a cosas mucho mas tranquis.
+12:01:43 - Santiago Ruffino (@santi_0898):
+Yo programo por dinero. Pero me da placer laburar de esto
+12:01:44 - Pablo Miceli (@pablomiceli24):
+llegue a cocinar mis propias galletitas para no tener que comprar xd, ahora me chupa un huevo si gasto 40p en un paquete de galletitas
+12:01:54 - Santiago Ruffino (@santi_0898):
+Por eso me cuesta tanto encarar un proyecto propio
+12:01:59 - Santiago Ruffino (@santi_0898):
+Se llama PRIORIDADES
+12:02:30 - Santiago Ruffino (@santi_0898):
+Hace dos años tuve la posibilidad de ir a USA a competir representando Argentina y no pude por plata. En este momento, podria hacerlo porque dipongo de los medios
+12:02:47 - Gonza Gluzman (@gonza):
+Competir en qué, <@U9KMYNJMV>?
+12:03:02 - Santiago Ruffino (@santi_0898):
+Cheerleading. No te creas que soy un super deportista. Jajaja
+12:04:07 - Martín Valdés de León (@mvaldesdeleon):
+_Dame una P... dame una R... pull request! Pull request!_
+12:04:13 - Rodrigo Ali (@rodrigojali):
+Lo veo pasando.
+12:04:28 - Rodrigo Ali (@rodrigojali):
+Pero si, entiendo 100% la situación que describe Pablo.
+12:05:08 - Rodrigo Ali (@rodrigojali):
+La única diferencia es que ahora mis preocupaciones (aparte de los jueguitos nuevos) también están puestas en dejar de laburar cuanto antes y ganar plata de forma pasiva. Somehow. WIP
+12:05:27 - Rodrigo Ali (@rodrigojali):
+Preferentemente antes de los 50, idealmente entre los 40 y los 45
+12:05:42 - Lupe (@lportias):
+la mejor forma de hacer eso es comprar departamentos y ponerlos en alquiler...
+12:05:58 - Lupe (@lportias):
+deptos o locales en lugares "copados"
+12:06:00 - Rodrigo Ali (@rodrigojali):
+No sé si la mejor, pero es una forma, vivir de renta.
+12:06:16 - Rodrigo Ali (@rodrigojali):
+Lo tengo en mente, haciendo cálculos para vivir de Airbnb
+12:06:20 - Rodrigo Ali (@rodrigojali):
+Pero eso aplica HOY
+12:06:41 - Rodrigo Ali (@rodrigojali):
+Y HOY no tengo los deptos, ya veré cuando tenga platita para invertir en serio.
+12:07:00 - Marcos Casagrande (@marcoscvp90):
+el problema, los deptos están bien para el resultado final, una vez llegaste ponele al millón de dólares.
+12:07:19 - Rodrigo Ali (@rodrigojali):
+Claro. Necesitás varios deptos.
+12:07:19 - Marcos Casagrande (@marcoscvp90):
+Porque si tenés 100k, y te comprás un depto, llegar al millón será dificil, porque no da tanta rentabilidad.
+12:07:29 - Santiago Ruffino (@santi_0898):
+El retorno que tenes en un alquiler es a mucho tiempo
+12:07:29 - Rodrigo Ali (@rodrigojali):
+Exacto.
+12:07:46 - Marcos Casagrande (@marcoscvp90):
+En cambio si tenés 100k, y no te comprás el depto lo invertís en algo más a corto plazo, podés llegar a 300k y tenér 3 deptos.
+12:08:20 - Marcos Casagrande (@marcoscvp90):
+Obviamente uno es más riesgoso que el otro, pero yo si tuviese 100k a los 28-30, no me compraría un depto, si me quiero jubilar a los 40.
+12:08:29 - Martín Valdés de León (@mvaldesdeleon):
+Si tenes 100k y queres llegar al millon va a ser jodido no matter what. Si hubiesen "fijas" para tener un retorno del 900% todos serian ricos.
+12:08:40 - Martín Aimar (@maimar):
+en <https://www.indiehackers.com/> hay muchas historias sobre gente que genera ingresos pasivos
+12:08:43 - Rodrigo Ali (@rodrigojali):
+Obvio, nadie dice que sea fácil.
+12:08:46 - Martín Aimar (@maimar):
+spoiler: no alquilan deptos
+12:09:00 - Rodrigo Ali (@rodrigojali):
+Gracias por la data Martin, ahora la veo.
+12:09:18 - Marcos Casagrande (@marcoscvp90):
+Martín, con 100k invertidos, sumandole los ingresos año a año, ponele 20-30k, llegás al millón para los 40.
+12:09:42 - Marcos Casagrande (@marcoscvp90):
+siempre reinvirtiendo las ganancias, pero si tenés 100k, y te comprás un depto, lo vas a tener más dificil.
+12:10:08 - Marcos Casagrande (@marcoscvp90):
+obviamente no digo que sea fácil sacar un 15-20% anual, pero no es descabellado.
+12:10:18 - Martín Valdés de León (@mvaldesdeleon):
+No se que edad me calculas.
+12:10:18 - Martín Valdés de León (@mvaldesdeleon):
+Decime la tasa anual que estas asumiendo.
+12:10:51 - Martín Valdés de León (@mvaldesdeleon):
+Me parece que muchos flashean que invertir es trivial con el diario de mañana en la mano.
+12:10:53 - Rodrigo Ali (@rodrigojali):
+Con una tasa anual del ~17% llegás pero te tenés que meter en un mercado muy volatil
+12:11:11 - Rodrigo Ali (@rodrigojali):
+O tener info paga de alguien
+12:11:15 - Martín Valdés de León (@mvaldesdeleon):
+"Bitcoin subio xxx" "nasdaq subio xxx"
+12:11:25 - Martín Valdés de León (@mvaldesdeleon):
+Pero si fuese tan obvio todos hubiesen hecho eso!
+12:11:31 - Rodrigo Ali (@rodrigojali):
+Nah, al diario llegan las cosas ya cerrando los mercados
+12:11:33 - Marcos Casagrande (@marcoscvp90):
+No te creas tan volatil, tenés que comprar en momentos oportunos.
+12:11:35 - Rodrigo Ali (@rodrigojali):
+La info te sirve si la tenés antes.
+12:11:45 - Martin Carrera (@mcarrera):
+tenes que tener plata en el momento oportuno :stuck_out_tongue_winking_eye:
+12:11:47 - Marcos Casagrande (@marcoscvp90):
+Apple llegó a 240 cada acción, y se desplomó a 150-160
+12:11:55 - Marcos Casagrande (@marcoscvp90):
+volvio a subir a los 210
+12:11:58 - Rodrigo Ali (@rodrigojali):
+Es que Martin, nadie dice que sea facil
+12:12:02 - Rodrigo Ali (@rodrigojali):
+Nadie diec que sea soplar y hacer botellas
+12:12:11 - Rodrigo Ali (@rodrigojali):
+Lo que se dice es que es factible.
+12:12:14 - Martín Valdés de León (@mvaldesdeleon):
+Es que hoy va bien. Mañana va mal.
+12:12:15 - Marcos Casagrande (@marcoscvp90):
+Yo nunca dije que sea fácil, solo dije que comprando un depto no llegás si te querés jubilar a los 40.
+12:12:23 - Martin Carrera (@mcarrera):
+tambien podes invertir 100k yperder 80k
+12:12:33 - Rodrigo Ali (@rodrigojali):
+Entonces no invertiste 100k, los apostaste.
+12:12:38 - Martín Valdés de León (@mvaldesdeleon):
+Es tan factible como ir al casino poner 100k al 36
+12:12:38 - Martín Valdés de León (@mvaldesdeleon):
+Y llevarte 3 palos y .edio
+12:12:40 - Rodrigo Ali (@rodrigojali):
+Pero todo esto debería ir en finanzas y legales mepa
+12:12:56 - Santiago Ruffino (@santi_0898):
+Inviertan 100k en <http://Santiruffino.com|Santiruffino.com>. Retorno garantizado en 35 años
+12:13:04 - Martín Valdés de León (@mvaldesdeleon):
+1/37
+12:13:08 - Santiago Ruffino (@santi_0898):
+No fake. 100% un link por mega
+12:13:36 - Marcos Casagrande (@marcoscvp90):
+Pero más o menos con un ahorro anual de 40k dólares (nada imposible si laburás para afuera), con una base de 100k, y un interés de 10% anual (nada alocado), en 10 años estás casi en el millón.
+12:14:09 - Martín Valdés de León (@mvaldesdeleon):
+10% anual implica riesgo
+12:14:11 - Martín Valdés de León (@mvaldesdeleon):
+No es una fija
+12:14:29 - Rodrigo Ali (@rodrigojali):
+Es que con cosas fijas no vas a hacer plata nunca.
+12:14:32 - Marcos Casagrande (@marcoscvp90):
+todo implica riesgo, el alquiler es riesgo.
+12:14:35 - Rodrigo Ali (@rodrigojali):
+Claro
+12:14:41 - Martín Valdés de León (@mvaldesdeleon):
+Si pudieses prometer un retorno del 10% anual no serias dev
+12:14:43 - Rodrigo Ali (@rodrigojali):
+Meter un plazo fijo implica riesgo
+12:14:46 - Marcos Casagrande (@marcoscvp90):
+el que quiere ser rico, necesita arriesgar.
+12:15:03 - Rodrigo Ali (@rodrigojali):
+Pero de algún lado tenés que sacar la plata para invertir xD
+12:15:04 - Marcos Casagrande (@marcoscvp90):
+Yo tengo más de 10% anual en los últimos 3 años que vengo invirtiendo.
+12:15:06 - Marcos Casagrande (@marcoscvp90):
+y soy dev.
+12:15:33 - Rodrigo Ali (@rodrigojali):
+Yo no tengo plata de la nada, la saco laburando, separo un X% y busco invertirlo.
+12:15:48 - Rodrigo Ali (@rodrigojali):
+Tampoco estamos diciendo de convertirte en el :wolf:  de Wallstreet
+12:16:01 - Martín Valdés de León (@mvaldesdeleon):
+Y realmente pensas que "entendes el mercado" y podes repetirlo por siempre,?
+12:16:03 - Dayan Ruiz (@dayanr):
+en que invierten ustedes chicos, directamente en la bolsa de usa, o meten ahi en arg
+12:16:04 - Rodrigo Ali (@rodrigojali):
+Estamos diciendo de intentar jubilarte lo antes posible.
+12:16:05 - Marcos Casagrande (@marcoscvp90):
+El tema es tener fondo para poder hacer DCA, entonces reducís el riesgo.
+12:16:20 - Martín Valdés de León (@mvaldesdeleon):
+O sos conciente de que tuviste suerte y podrias no haberla tenido?
+12:16:52 - Marcos Casagrande (@marcoscvp90):
+hay un factor suerte, y otro factor que no es suerte.
+12:17:01 - Gonza Gluzman (@gonza):
+Yo me quiero jubilar a los 30
+12:17:02 - Marcos Casagrande (@marcoscvp90):
+yo compro con el mercado en rojo.
+12:17:03 - Gonza Gluzman (@gonza):
+Tengo 29
+12:17:25 - Martín Valdés de León (@mvaldesdeleon):
+Obvio. Igual que si jugas al Black Jack o al Poker
+12:17:35 - Rodrigo Ali (@rodrigojali):
+O ponés un plazo fijo.
+12:17:45 - Marcos Casagrande (@marcoscvp90):
+por eso, es suerte, pero también es saber jugar, y sobretodo mantener la calma.
+12:17:46 - Martín Valdés de León (@mvaldesdeleon):
+Hay habilidad pero por sobre todo hay suerte
+12:18:00 - Rodrigo Ali (@rodrigojali):
+Disiento.
+12:18:06 - Rodrigo Ali (@rodrigojali):
+Hay información o no la hay.
+12:18:18 - Martín Valdés de León (@mvaldesdeleon):
+Pero ninguno recomendaria como factible y sostenible en el tiempo dedicarse a jugar al casino
+12:18:23 - Rodrigo Ali (@rodrigojali):
+Si tenés información (la cual no tengo y dudo poder acceder, y entenderla pra poder usarla bien) no hay suerte.
+12:18:35 - Martín Valdés de León (@mvaldesdeleon):
+Pero si lo hacen con la bolsa/forex/crypto
+12:19:00 - Martín Valdés de León (@mvaldesdeleon):
+Esa seria mi unica observacion
+12:19:01 - Rodrigo Ali (@rodrigojali):
+Y bueno, ahi entra la estrategia de cada uno
+12:19:09 - Gonza Gluzman (@gonza):
+Por otro lado, ser dueño de un casino…
+12:19:56 - Marcos Casagrande (@marcoscvp90):
+si vos invertís en lo que sabés, y hacés dollar cost averaging, y sos paciente, el riesgo se reduce mucho, y no es dificil sacar más de 10% anual.
+12:20:30 - Martín Valdés de León (@mvaldesdeleon):
+Es que "lo que sabes" es como jugar al prode siendo groso de futbol.
+12:20:34 - Marcos Casagrande (@marcoscvp90):
+Pero la gran mayoría de personas, cuando algo baja en lo que invirtió, entra en pánico.
+12:20:54 - Martín Valdés de León (@mvaldesdeleon):
+Salvo que hagas insider trading, LA VERDAD no sabes mucho
+12:21:14 - Martín Valdés de León (@mvaldesdeleon):
+Insider trading si es rentable
+12:21:15 - Marcos Casagrande (@marcoscvp90):
+conocés el comportamiento humano, para vos apple vale 50 millones de dólares?
+12:21:25 - Martín Valdés de León (@mvaldesdeleon):
+X eso es ilegal
+12:21:47 - Marcos Casagrande (@marcoscvp90):
+(vale mucho más), pero a lo que voy, cuando apple baja mucho, la verdad, hay muchas más chances de que suba, a que baje.
+12:22:01 - Marcos Casagrande (@marcoscvp90):
+y digo apple, como digo, amazon, google, microsoft.
+12:22:03 - Martín Valdés de León (@mvaldesdeleon):
+Yo no tengo ni la mas minima herramienta para calcular el valor de una empresa.
+12:22:20 - Martín Valdés de León (@mvaldesdeleon):
+Si supiese valuar empresas no seria dev
+12:22:51 - Martín Valdés de León (@mvaldesdeleon):
+Hay gente que le dedica toda su vida a eso y aun asi la caga
+12:23:09 - Marcos Casagrande (@marcoscvp90):
+que te dediques a algo 100% no significa que seas bueno en eso.
+12:23:19 - Marcos Casagrande (@marcoscvp90):
+conozco devs que llevan 20 años, y son juniors.
+12:23:21 - Martín Valdés de León (@mvaldesdeleon):
+Fijate Ube4
+12:23:28 - Martín Valdés de León (@mvaldesdeleon):
+Fueron al IPO y les cabio
+12:23:38 - Martín Valdés de León (@mvaldesdeleon):
+Pensas que no tenian buen asesoramiento?
+12:23:53 - Martín Valdés de León (@mvaldesdeleon):
+Y aun asi les cabio
+12:23:57 - Rodrigo Ali (@rodrigojali):
+Es que si vamos al caso no hay una silver bullet para nada
+12:24:08 - Rodrigo Ali (@rodrigojali):
+Y pensar que la hay es una fantasía.
+12:24:17 - Marcos Casagrande (@marcoscvp90):
+Invertir en una IPO es riesgoso, yo suelo shortear a todas las que apenas salen en bolsa.
+12:24:25 - Marcos Casagrande (@marcoscvp90):
+mirá Lyft, por ejemplo.
+12:24:25 - Rodrigo Ali (@rodrigojali):
+No hay una forma 100% segura de hacer plata, tampoco hay una forma 100% segura de nada.
+12:25:40 - Martín Valdés de León (@mvaldesdeleon):
+Algunas salen bien otras salen mal. Si pudiera predecirlo no seria dev.
+12:25:47 - Martín Valdés de León (@mvaldesdeleon):
+(IPO)
+12:26:57 - Martín Valdés de León (@mvaldesdeleon):
+Lo unico que estoy repitiendo es que no se confundan con lo tremendo del factor azar, y de toda la info que no tienen.
+12:27:16 - Martín Valdés de León (@mvaldesdeleon):
+Por mas que les haya ido bien en los ultimos años.
+12:27:26 - Rodrigo Ali (@rodrigojali):
+Claro, ese es el % de riesgo
+12:27:48 - Marcos Casagrande (@marcoscvp90):
+sin riesgo, no hay ganancia. No se llega a ser millonario sin arriesgar un poco.
+12:27:56 - Martín Valdés de León (@mvaldesdeleon):
+Hay un universo paralelo donde la moneda cayo para el otro lado y se fundieron.
+12:28:10 - Aldo Gabriel Rojas (@aldogrojas5):
+Si pueden, peguenle una mirada al método de inversión de Stan Weinstein. Muy recomendable. Se basa en análisis tecnico del precio de cualquier cosa
+12:28:29 - Aldo Gabriel Rojas (@aldogrojas5):
+Excepto el dolar en argentina
+12:28:38 - Marcos Casagrande (@marcoscvp90):
+eso tampoco es así, una cosa es que se desplome, pero si vos vas promediando las compras, se puede hacer plata.
+12:28:54 - Rodrigo Juarez (@rjuarez):
+low index fund (para tener algo pasivo). si tenes ganas de arriesgar más crypto, no creo que sea azar, te podes sentar y seguir un par de traders en crypto y en promedio salen ganando
+12:28:58 - Marcos Casagrande (@marcoscvp90):
+Repito, si vas a invertir 500 usd en bolsa, y solo tenes 500, tenés bastante riesgo.
+12:29:13 - Martín Valdés de León (@mvaldesdeleon):
+Si existiese una fija todos harian eso.
+12:29:14 - Marcos Casagrande (@marcoscvp90):
+Si vos tenés fondo para ir promediando, el riesgo se reduce bastante.
+12:29:18 - Martín Valdés de León (@mvaldesdeleon):
+No es cuestion de tecnica.
+12:29:25 - Rodrigo Juarez (@rjuarez):
+no hay que poner todos los huevos en la misma canasta además
+12:29:27 - Marcos Casagrande (@marcoscvp90):
+la gran mayoría de traders que ganan plata, hacen DCA.
+12:30:32 - Rodrigo Ali (@rodrigojali):
+Es que nadie dice que sea fija.
+12:30:41 - Rodrigo Ali (@rodrigojali):
+Nadie dice que no haya riesgo.
+12:30:44 - Rodrigo Ali (@rodrigojali):
+Nadie dice que sea fácil.
+12:30:54 - Marcos Casagrande (@marcoscvp90):
+Mañana el dólar puede valer nada, 0, y toda tu plata que no teńias en crypto, valer 0.
+12:31:16 - Marcos Casagrande (@marcoscvp90):
+Es una posibilidad, pero dudo que pase.
+12:31:21 - Rodrigo Ali (@rodrigojali):
+El día de mañana revientan un avión contra un trading center.
+12:31:24 - Pablo Miceli (@pablomiceli24):
+igual... invertir = mucho laburo, y la idea es no laburar
+12:31:30 - Rodrigo Juarez (@rjuarez):
+me parece interesante though aprender a hacer trading o algo que sea más risky. teniendo ingreso como dev siempre tenes un sobrante de guita a fin de mes (además de laburo estable). obviamente la situación es distinta en cada caso
+12:31:36 - Rodrigo Juarez (@rjuarez):
+por qué mucho laburo?
+12:31:54 - Julian (@jantonielli01):
+Metan todo en cripto 
+12:31:56 - Julian (@jantonielli01):
+Ya fue 
+12:31:59 - Martín Valdés de León (@mvaldesdeleon):
+Mañana puede implotar el mundo y que lo unico que importe sea tener una granja y AKs
+12:32:04 - Rodrigo Ali (@rodrigojali):
+Exacto.
+12:32:07 - Martín Valdés de León (@mvaldesdeleon):
+¯\_(ツ)_/¯
+12:32:19 - Rodrigo Ali (@rodrigojali):
+O podés salir a la calle y te pasa X y a la mierda todas tus proyecciones y seguridad.
+12:32:20 - Marcos Casagrande (@marcoscvp90):
+been there, done that.
+12:32:25 - Pablo Miceli (@pablomiceli24):
+bah no se, tire una re fruta quizas pero me suena a mucho laburo
+12:33:09 - Rodrigo Juarez (@rjuarez):
+recomiendo seguir a algún trader de crypto o cualquier tipo de trader que postee charts y de explicaciones (sin mover nada de guita propia)
+12:33:16 - Rodrigo Juarez (@rjuarez):
+y por lo menos hacer ese seguimiento
+12:33:20 - Rodrigo Ali (@rodrigojali):
+En resumen, se podría reducir al riesgo que uno está dispuesto a tomar, y cuánto está dispuesto uno a intentar reducir ese riesgo.
+12:33:58 - Rodrigo Ali (@rodrigojali):
+Si uno está dispuesto a tomar poco riesgo, va por un path, si está dispuesto a ir aumentando los riesgos a tomar, va por otros paths
+12:34:00 - Marcos Casagrande (@marcoscvp90):
+Pero si te querés jubilar a los 40, necesitás asumir ciertos riesgos.
+12:34:01 - Santiago Ruffino (@santi_0898):
+Soja. Listo
+12:34:04 - Martín Valdés de León (@mvaldesdeleon):
+Day trading es laburo
+12:34:13 - Martín Valdés de León (@mvaldesdeleon):
+Si invertis a largo plazo es mas tranqui
+12:35:01 - Martín Valdés de León (@mvaldesdeleon):
+FWIW yo no me quiero jubilar a los 40. Me gusta trabajar. Preferiria hacerlo para mi mismo pero no dejar de hacerlo.
+12:35:35 - Rodrigo Ali (@rodrigojali):
+A mi no me gusta laburar, pero estoy acostumbrado. Preferiría no hacerlo y dedicar mi tiempo y energía a otras cosas.
+12:35:48 - Marcos Casagrande (@marcoscvp90):
+yo me quiero jubilar a los 35.
+12:35:52 - Lucas Accastello (@accastellolucas):
+Nadie tiene pensado tener su propia startup? laburar mucho mucho y pelearla para poder vivir de eso algún día? demasiado esfuerzo?
+12:35:58 - Marcos Casagrande (@marcoscvp90):
+y si quiero laburar un día laburo, pero no necesitar hacerlo.
+12:36:04 - Martín Valdés de León (@mvaldesdeleon):
+_lo que se_ es usar tecnologia para producir business value. Y me siento mucho mas confiado para generar millones de esa manera que invirtiendo
+12:36:17 - Marcos Casagrande (@marcoscvp90):
+estás invirtiendo en tu conocimiento.
+12:36:34 - Martín Valdés de León (@mvaldesdeleon):
+*invirtiendo en el mercado
+12:36:51 - Rodrigo Ali (@rodrigojali):
+Inviertiendo en el mercado con tu conocimiento.
+12:36:57 - Rodrigo Ali (@rodrigojali):
+El día que tu conocimiento no valga para el mercado, fue
+12:36:59 - Marcos Casagrande (@marcoscvp90):
+Eso.
+12:37:18 - Rodrigo Ali (@rodrigojali):
+Pero conceptualmente es similar.
+12:37:33 - Rodrigo Ali (@rodrigojali):
+Entre más diversifiques tu conocimiento, menos riesgos corrés invirtiendo en el mercado
+12:37:54 - Martín Valdés de León (@mvaldesdeleon):
+En ese sentido me siento con muchisima confianza para saber que techs van a estar in
+12:38:00 - Rodrigo Ali (@rodrigojali):
+De una
+12:38:06 - Martín Valdés de León (@mvaldesdeleon):
+Y cuales out
+12:38:42 - Rodrigo Ali (@rodrigojali):
+Yo estoy intentando invertir con plata y con conocimiento, pero soy nuevo en ambas :stuck_out_tongue:
+12:38:56 - Rodrigo Ali (@rodrigojali):
+Así que me lo tomo tranqui y lo voy haciendo de a poco
+12:38:57 - Rodrigo Ali (@rodrigojali):
+A ambas.
+12:39:25 - Rodrigo Ali (@rodrigojali):
+Igual el día de mañana, con experiencia y habiendo hecho ambas digo "rinde más hacer esto que esto otro" y pivoteo.
+12:39:51 - Martín Valdés de León (@mvaldesdeleon):
+Para mi no es tan lo mismo pq el valor de un producto como tech es objetivo e independiente de la especulacion.
+12:40:18 - Martín Valdés de León (@mvaldesdeleon):
+Si una tech esta hypeada pero apesta,  vas a perder.
+12:40:32 - Martín Valdés de León (@mvaldesdeleon):
+Y no importa que "el mercado" la crea valiosa
+12:41:21 - Martín Valdés de León (@mvaldesdeleon):
+X ej todas las empresas que andan "poniendole blockchain a todo" y fracasando sus proyectos
+12:46:26 - Rodrigo Juarez (@rjuarez):
+mientras haga plata no importa que sea shitcoin o que el producto sea una mierda
+12:46:35 - Lucas Accastello (@accastellolucas):
+Alguien quiere pensar en las startups?
+12:47:04 - Gonzalo González Mora (@gonzalogm):
+mucho laburo
+12:47:07 - Rodrigo Juarez (@rjuarez):
+no se si jubilarme a los 30/35, pero por lo menos llegar a trabajar 4 horas por semana sería bastante lindo
+12:47:14 - Gonzalo González Mora (@gonzalogm):
+Si no te encanta debe ser la mismisima muerte
+12:48:42 - Santiago Ruffino (@santi_0898):
+Startup de que?
+12:49:05 - Santiago Ruffino (@santi_0898):
+Yo me buscaria 2 programadores Jr, y los hago laburar para los laburos que no puedo/quiero agarrar
+12:49:19 - Santiago Ruffino (@santi_0898):
+Los cobro 10, mi costo es 5
+12:49:27 - Nico (@nhsz):
+eso se llama software factory
+12:49:31 - Gonza Gluzman (@gonza):
+Creo que la idea no era “_laburarla mucho_” sino “_laburarla poco_”
+12:50:56 - Lucas Accastello (@accastellolucas):
+No se, yo tengo una idea y con 2 socios estamos tratando de llevarla a cabo. Hasta ahora obviamente no tenemos un peso y estamos tratando de validar la idea, luego buscar alguna inversión y poder desarrollar un MVP. Pero soy consciente de que si tu idea agrega valor y la gente compra implica mucho mucho laburo por un par de años
+12:51:15 - Rodrigo Juarez (@rjuarez):
+ya que viene al tema. el flaco este es bastante sacado pero hay un par de cosas del libro que están bastante lindas (sobre todo lo de pareto principle / eliminar cosas innecesarias):
+<https://www.amazon.de/4-Hour-Work-Week-Escape-Anywhere/dp/0091929113/ref=sr_1_1?crid=3734WTY4D7N86&amp;keywords=4+hour+workweek&amp;qid=1560268259&amp;s=gateway&amp;sprefix=cortazar%2Caps%2C153&amp;sr=8-1>
+12:52:12 - Alejandro Nagy (@nagy.alejandro):
+Tener tu propia empresa y laburar poco, al menos al principio, son mutex
+12:52:32 - Nico (@nhsz):
+<https://www.youtube.com/watch?v=6reLWfFNer0>
+12:52:51 - Nico (@nhsz):
+La pregunta es si necesitás meterte con VCs…
+12:53:15 - Santiago Ruffino (@santi_0898):
+Se puede saber de que es la empresa? O todavia es secret?
+12:53:17 - Lucas Accastello (@accastellolucas):
+Si, pero todos acá o la mayoría que discute esto cobran fortunas en dólares y les alcanza para invertir en todas esas cosas. Tal vez porque son muy grosos programando. Yo siento que me faltan un par de años para lograr eso. Capaz si de antemano busco generar ganancias a través de un producto me puedo hacer rico antes. Pero se que no es para nada fácil. Seguramente es más fácil intentar se muy groso programando
+12:54:20 - Lucas Accastello (@accastellolucas):
+Algo similar a telemedicina
+12:55:23 - Gonza Gluzman (@gonza):
+Mmmm… es que vos podés ser el inversor capitalista, podés ser el que labura o podés ser ambas. Depende el caso. El que se queda con la guita sin laburarla es el inversor.
+12:58:48 - Lucas Accastello (@accastellolucas):
+Obviamente. El sacrificio tal vez permita algún día ser un inversor también y vivir sin laburar. Pero hay que hacer la guita de alguna forma. O con muchos conocimientos o laburando hasta el borde de la muerte xD
+13:01:30 - Gonza Gluzman (@gonza):
+Mmmm… el sacrificio, la suerte, algo… Estoy un poco en contra de asociar la fortuna económica al mérito
+13:03:12 - Lucas Accastello (@accastellolucas):
+ya lo veo
+13:07:23 - Aldo Gabriel Rojas (@aldogrojas5):
+No es cuestión de nada más q de estadistica
+13:09:32 - Aldo Gabriel Rojas (@aldogrojas5):
+Si a alguno le copa saber de inversiones les comparto una carpeta con bibliografía que junté en los ultimos años
+13:09:53 - Aldo Gabriel Rojas (@aldogrojas5):
+<https://drive.google.com/folderview?id=1NpA2avtRJb3gwhUvd6PubQC_jqzbIgLI>
+13:11:31 - Martín Valdés de León (@mvaldesdeleon):
+Es que eso es el diario de mañana del que tanto hablo.
+13:12:04 - Martín Valdés de León (@mvaldesdeleon):
+Podes hacer uno igual para BTC y te da que todos seriamos billonarios.
+13:12:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Es q de 1945 a esta parte las acciones en promedio le hicieron el toto a cualquier cosa
+13:12:20 - Martín Valdés de León (@mvaldesdeleon):
+_con el diario de mañanaen la mano_
+13:12:29 - Aldo Gabriel Rojas (@aldogrojas5):
+Es una muestra estadistica infernal
+13:13:04 - Aldo Gabriel Rojas (@aldogrojas5):
+O sea... tenés q invertir muuuuy mal para comerte el garron
+13:13:18 - Aldo Gabriel Rojas (@aldogrojas5):
+De vuelta... es sólo estadistica basica
+13:13:48 - Martín Valdés de León (@mvaldesdeleon):
+Es que el corolario de lo que decis es que jugar a la bolsa es una fija.
+13:13:53 - Martín Valdés de León (@mvaldesdeleon):
+Y eso es falso.
+13:14:08 - Gonza Gluzman (@gonza):
+Salvo que inviertas en TODAS las acciones
+13:14:15 - Gonza Gluzman (@gonza):
+Pero necesitás muuucha guita para eso
+13:14:19 - Martín Valdés de León (@mvaldesdeleon):
+Sino todoa estariamos poniendo todos los ahorros en el S&amp;P500
+13:14:29 - Martín Valdés de León (@mvaldesdeleon):
+Y los que no hacen eso son nabos
+13:14:42 - Aldo Gabriel Rojas (@aldogrojas5):
+No, no digo eso. Simplemente digo q no es un juego de azar
+13:14:43 - Gonza Gluzman (@gonza):
+E incluso así, dependiendo del momento en que comprés y vendas, podés perder
+13:15:27 - Aldo Gabriel Rojas (@aldogrojas5):
+Obvio. El riesgo siempre está. Cuando armas un portfolio de inversión,  lo primero q tenés q saber es qué riesgo querés correr
+13:15:28 - Jorge Cano (@jorgeucano):
+podes empezar a generar “vacas lecheras” como se le dice
+13:15:36 - Jorge Cano (@jorgeucano):
+y que a largo plazo puedas tener una sustentabilidad para dejar de trabajar
+13:15:41 - Jorge Cano (@jorgeucano):
+pero nadie te asegura nada
+13:15:48 - Jorge Cano (@jorgeucano):
+muchos millonarios terminaron en la calle
+13:15:59 - Martín Valdés de León (@mvaldesdeleon):
+A ver
+13:16:42 - Martín Valdés de León (@mvaldesdeleon):
+No podes al mismo tiempo mostrar un grafico que dice que la bolsa siempre gana, decir que no es suerte, Y hablar de que hay riesgo.
+13:17:00 - Martín Valdés de León (@mvaldesdeleon):
+Si hay riesgo entonces bien podrias haber perdido toda la guita.
+13:17:15 - Aldo Gabriel Rojas (@aldogrojas5):
+Obvio... si compras caro y vendes bararo si
+13:17:23 - Martín Valdés de León (@mvaldesdeleon):
+Y ese grafico bien podria haber dado alrevez
+13:17:30 - Aldo Gabriel Rojas (@aldogrojas5):
+No podés ver ese grafico y hablar de suerte!
+13:17:38 - Martín Valdés de León (@mvaldesdeleon):
+Y volvemos al diario de mañana
+13:17:58 - Gonza Gluzman (@gonza):
+“_Qué suerte que vi ese gráfico!_” :troll:
+13:18:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Es q estadisticamente no da al revés... es bastante contundente la data
+13:18:11 - Martín Valdés de León (@mvaldesdeleon):
+Si ayer jugabas al numero ganador del quini eras millonario!
+13:18:14 - Martín Valdés de León (@mvaldesdeleon):
+Por que no lo hiciste?
+13:18:46 - Aldo Gabriel Rojas (@aldogrojas5):
+Es diferente ahí... pq no tenés una estadistica que te diga cuál tiene mas chances de salir
+13:19:16 - Martín Valdés de León (@mvaldesdeleon):
+Y en la bolsa tampoco tenes estadistica sobre el futuro
+13:19:24 - Aldo Gabriel Rojas (@aldogrojas5):
+Entiendo lo que decís,  pero una cosa es q no haya riesgo y otra es que sea "suerte"
+13:20:00 - Martín Valdés de León (@mvaldesdeleon):
+Nunca sabes cuando un Boeing se estrola y la accion se hunde
+13:20:03 - Aldo Gabriel Rojas (@aldogrojas5):
+Más vale! Por eso además del analisis tecnico cada empresa presenta paneles de desempeño (analisis fundamental)
+13:20:07 - Martín Valdés de León (@mvaldesdeleon):
+Creer que si solo te va a traer problemas
+13:20:27 - Aldo Gabriel Rojas (@aldogrojas5):
+Obvio q si!
+13:20:43 - Martín Valdés de León (@mvaldesdeleon):
+El mundo esta lleno de gente que se cree que entiende el mercado hasta que se funde
+13:20:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Por eso si te fijas, las empresas q más crecen son las mas riesgosas
+13:20:58 - Jorge Cano (@jorgeucano):
+claro podes ver un monton de distintos factores… despues aparece Trump con un tweet y se va todo al carajo
+13:21:06 - Marcos Casagrande (@marcoscvp90):
+Y el mundo tiene mas gente que no tiene ahorros al jubilarse porque nunca invirtió.
+13:21:10 - Gonza Gluzman (@gonza):
+El mundo está lleno de gente que cree que entiende el mundo hasta que la caga
+13:21:25 - Aldo Gabriel Rojas (@aldogrojas5):
+Y las mas estables son de crecimiento más lento
+13:21:43 - Gonza Gluzman (@gonza):
+En realidad, la jubilación debería ser un derecho y una responsabilidad de la sociedad en su conjunto
+13:21:45 - Martín Valdés de León (@mvaldesdeleon):
+Moriese con plata y sin herederos es super pelotudo, agree
+13:22:32 - Aldo Gabriel Rojas (@aldogrojas5):
+No se... la cosa no es tan pelada ni tan peluda... no hay q ser un genio para entender el mercado de capitales
+13:22:52 - Aldo Gabriel Rojas (@aldogrojas5):
+Tampoco hay q ser cándido y comprar acciones como si fuesen caramelos
+13:23:16 - Marcos Casagrande (@marcoscvp90):
+Una cosa no quita la otra. Puede ser un derecho, pero no derecho a que mantengas tu estilo de vida. Si vos querés mantener tu estilo se vida. Tenés que invertir.
+13:23:26 - Aldo Gabriel Rojas (@aldogrojas5):
+Se hacen estrategias y demás basadas en la estadistica y creeme q si a los bancos les va bien por algo es
+13:23:55 - Martín Valdés de León (@mvaldesdeleon):
+A mi me preocupa como muchos hablan de invertir en la bolsa como si todos los q no lo hicieran son boludos y mostrando todo lo que _podrian haber ganado_
+13:24:13 - Martín Valdés de León (@mvaldesdeleon):
+Ignorando a todos los que en el camino perdieron bocha de guita haciendo exactamente lo mismo
+13:24:21 - Gonza Gluzman (@gonza):
+No digo tener lujos. Con tener las necesidades básicas cubiertas, está perfecto.
+13:24:30 - Martín Valdés de León (@mvaldesdeleon):
+Y pensando que si les fue mal es porque no sabian lo que vos si.
+13:24:38 - Aldo Gabriel Rojas (@aldogrojas5):
+Yo hace un par de años mirando de afuera pendaba q era timba y arranque de a poco... no te hacés millonario de un dia a l otro, pero tenes un plan a futuro
+13:24:40 - Marcos Casagrande (@marcoscvp90):
+Nadie dice eso, solo que invertir en bolsa no es azar, a no ser que cierres los ojos y tires tu plata en cualquier acción.
+13:24:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Noooo para nada!
+13:25:10 - Martín Valdés de León (@mvaldesdeleon):
+No sera azar pero ni ahi es ciencia exacta
+13:25:10 - Gonza Gluzman (@gonza):
+También hubo “burbujas”
+13:25:14 - Gonza Gluzman (@gonza):
+Como la de las .com
+13:25:41 - Marcos Casagrande (@marcoscvp90):
+nada para el futuro es ciencia exacta, no sabés lo que pasará mañana, mañana los devs podemos ser inutiles, si vos confiabas en tu carrera, RIP.
+13:25:58 - Aldo Gabriel Rojas (@aldogrojas5):
+<@U0TFEHWEA> perdón si se malentiende mi intención al mostrar eso no es esa que pusiste arriba. La idea es q si a alguno le interesa, que estudie, pq se aprende como todo
+13:26:18 - Martín Valdés de León (@mvaldesdeleon):
+Realmente no se dan cuenta que hablan con el diario de mañana en la mano?
+13:27:29 - Aldo Gabriel Rojas (@aldogrojas5):
+En cuanto a cuestiones estadisticas y de vivir con el diario del lunes lo hago en todos los aspectoz de mi vida... trabajo hoy para que me paguen el mes que viene
+13:27:33 - Martín Valdés de León (@mvaldesdeleon):
+El tema es que la profesion de dev no va a desaparecer en un dia. El valor de una accion si se puede derrumbar de toque.
+13:27:48 - Aldo Gabriel Rojas (@aldogrojas5):
+Confío en que las decisiones de hoy traigan resultados mañana... si
+13:27:56 - Marcos Casagrande (@marcoscvp90):
+hay más chances que a vos te echen, a que la acción de google colapse.
+13:28:00 - Martín Valdés de León (@mvaldesdeleon):
+Por cosas que no controlas ni predecis, como un tw de Trump
+13:28:06 - Martín Valdés de León (@mvaldesdeleon):
+Ja
+13:28:08 - Aldo Gabriel Rojas (@aldogrojas5):
+O visa... o mastercard
+13:28:19 - Marcos Casagrande (@marcoscvp90):
+Vos pensás que tu carrera es más estable que Google?
+13:28:33 - Julian (@jantonielli01):
+yo lo banco a mart
+13:28:34 - Martín Valdés de León (@mvaldesdeleon):
+Sabes cuanta gente ponia las manos en el fuego por el papel de Boeing, antes del escandalo?
+13:28:36 - Aldo Gabriel Rojas (@aldogrojas5):
+Es q el riesgo siempre está... nadie lo niega a eso...
+13:28:52 - Martín Valdés de León (@mvaldesdeleon):
+Si mañana Xi se ortiva y bannea a G de china
+13:29:00 - Martín Valdés de León (@mvaldesdeleon):
+Te la regalo!
+13:29:07 - Aldo Gabriel Rojas (@aldogrojas5):
+Es más... pongo parte de mi plata en mercadopago pq me da unos morlacos extra :rolling_on_the_floor_laughing:
+13:29:33 - Aldo Gabriel Rojas (@aldogrojas5):
+Todo puede pasar... todo
+13:29:34 - Marcos Casagrande (@marcoscvp90):
+pero yo digo mantener tu estilo de vida, a eso me refiero con mi comentario.
+13:29:45 - Marcos Casagrande (@marcoscvp90):
+Si vos no invertiste, no vas a poder mantener tu estilo de vida cuando te jubiles.
+13:30:12 - Gonza Gluzman (@gonza):
+Salvo que desde antes tuvieras un estilo de vida frugal :thinking_guy:
+13:30:13 - Aldo Gabriel Rojas (@aldogrojas5):
+También puede haber una tormenta solar que genere un EMP y que no quede nada funcionando... y volvemos a la epoca de las cavernas
+13:30:47 - Aldo Gabriel Rojas (@aldogrojas5):
+No por eso voy a dejar de aprender cosas relacionadas con la tecnología...
+13:30:57 - Aldo Gabriel Rojas (@aldogrojas5):
+Pq es estadisticamente improbable que eso pase
+13:31:10 - Tomás Sevillano (@tsevillano):
+accidente y todo no tiene un mal valor
+13:31:20 - Aldo Gabriel Rojas (@aldogrojas5):
+O puedo tener un accidente y quedar ciego
+13:31:25 - Martín Valdés de León (@mvaldesdeleon):
+Trump baneo a Huawei. Lo que propuse es un poco mas realista.
+13:31:45 - Marcos Casagrande (@marcoscvp90):
+cayeron las acciones, y ya están volviendo a subir, y gracias a eso conseguimos más ganancias.
+13:31:56 - Marcos Casagrande (@marcoscvp90):
+porque bajaron y como dije, haciendo DCA, reducís el riesgo.
+13:32:03 - Marcos Casagrande (@marcoscvp90):
+y eso no es diario del lunes.
+13:32:26 - Marcos Casagrande (@marcoscvp90):
+Son estrategias de inversión que reducen el riesgo.
+13:33:13 - Martín Valdés de León (@mvaldesdeleon):
+Suben pq ciertos fondos salieron a rescatar a boeing
+13:33:50 - Marcos Casagrande (@marcoscvp90):
+eso está contemplado cuando invertís, en que el estado intervenga, que fondos intervengan
+13:33:57 - Martín Valdés de León (@mvaldesdeleon):
+Si eso no pasaba no subian
+13:34:03 - Martín Valdés de León (@mvaldesdeleon):
+Si no estas RE metido esas cosas no las vas a predecir
+13:34:12 - Martín Valdés de León (@mvaldesdeleon):
+No todas las empreaas corren esa suerte. Algunas se salvan otras se funden.
+13:34:33 - Aldo Gabriel Rojas (@aldogrojas5):
+Es q posta... no hay q estudiar demasiado para comprar y vender con el flujo de los peces gordos
+13:34:35 - Martín Valdés de León (@mvaldesdeleon):
+Si salis a "comprar bararo" y se funden, fuiste
+13:34:38 - Aldo Gabriel Rojas (@aldogrojas5):
+Menos hoy en dia
+13:34:48 - Marcos Casagrande (@marcoscvp90):
+fuiste si metiste *todo* en esa empresa
+13:34:54 - Martín Valdés de León (@mvaldesdeleon):
+Y eso es una re timba
+13:34:55 - Martín Valdés de León (@mvaldesdeleon):
+Que X vaya a salvar o no la empresa
+13:35:11 - Martín Valdés de León (@mvaldesdeleon):
+Fuiste con esa inversion
+13:35:14 - Aldo Gabriel Rojas (@aldogrojas5):
+Y por otro lado, no se recomienda meter mas del 10% de tu capital en acciones
+13:35:28 - Aldo Gabriel Rojas (@aldogrojas5):
+Por cuestiones estadisticas y de riesgo
+13:40:32 - Gonzalo González Mora (@gonzalogm):
+Por ahí va en otro channel la discusión de todos modos? :stuck_out_tongue: (igual me interesa pq no cazo 1 goma de eso jaja)
+13:55:41 - Santiago Ruffino (@santi_0898):
+<https://omicrono.elespanol.com/2018/11/ganar-la-loteria-con-matematicas/>
+13:57:21 - Marcos Casagrande (@marcoscvp90):
+Lo vi ese, el flaco se compraba casi todos los tickets de una ciudad ponele.
+14:01:04 - Gonza Gluzman (@gonza):
+También es suerte
+14:01:19 - Gonza Gluzman (@gonza):
+Además de que necesitás bocha de guita
+14:01:41 - Gonza Gluzman (@gonza):
+La gracia no sólo es ganar, sino también ser el único ganador
+14:01:42 - Julian (@jantonielli01):
+Como estos 
+14:01:46 - Julian (@jantonielli01):
+<http://newsfeed.time.com/2012/08/07/how-mit-students-scammed-the-massachusetts-lottery-for-8-million/>
+14:01:49 - Gonza Gluzman (@gonza):
+Porque si se reparte el premio, saliste perdiendo
+14:01:56 - Julian (@jantonielli01):
+Hay varios grupos que hacían lo mismo 
+14:02:04 - Julian (@jantonielli01):
+Aunque era todo perfectamente legítimo 
+14:08:09 - Nico (@nhsz):
+La charla es un resumen del libro <https://makebook.io>
+15:03:55 - Santiago Ruffino (@santi_0898):
+La bocha es ganar plata. Si ganan 25 personas o gana una, es lo mismo
+15:05:51 - Gonza Gluzman (@gonza):
+Nope, porque el truco del tipo que compró todas las combinaciones posibles era que ganaba seguro, pero a costa de comprar todas las combinaciones. Si se repartía el premio, quizás salía perdiendo plata
+15:06:34 - Santiago Ruffino (@santi_0898):
+Por "Ganar plata" me refiero a que le entra mas plata de su costo
+15:10:24 - Gonza Gluzman (@gonza):
+Claro pero para “ganar”, en ese caso, dependés de la suerte
+16:22:32 - Pablo Miceli (@pablomiceli24):
+alguno sabe cuales son los skills / tecnologías más requeridos en upwork?
+La cosa es que necesito un perfil aprobado si o si, y quiero mentir descaradamente para que me lo aprueben.
+16:24:10 - Julian (@jantonielli01):
+Yo labure por ahí unos meses
+16:24:17 - Julian (@jantonielli01):
+Que necesitas saber 
+16:24:34 - Pablo Miceli (@pablomiceli24):
+ahi edite la pregunta asi era mas directa
+16:25:11 - Julian (@jantonielli01):
+yo puse que codeaba react, rails, node y un par de cosas mas de JS
+16:25:17 - Julian (@jantonielli01):
+y con eso entré
+16:25:30 - Julian (@jantonielli01):
+creo que cuando me hice la cuenta yo era una pelotudes el proceso igual
+16:25:40 - Julian (@jantonielli01):
+tengo entendido que ahora es más paja
+16:26:06 - Pablo Miceli (@pablomiceli24):
+se, creo que ahora se puso mas exquisito el proceso
+16:27:10 - Julian (@jantonielli01):
+Esta muy lleno de indios que toman laburos por medio rollo de papel higiénico por hora igual 
+16:31:21 - Dayan Ruiz (@dayanr):
+pero no pasa eso con todos los sitios esos de freelance?
+16:33:21 - Julian (@jantonielli01):
+No se
+16:33:32 - Julian (@jantonielli01):
+En upwork/freelancer al menos si
+16:33:39 - Julian (@jantonielli01):
+Capaz ahora esta mejor upw
+16:34:14 - Dayan Ruiz (@dayanr):
+igual conozco mas de un empleador que escucha `indios` y le baja el demonio al cuerpo
+16:34:39 - Dayan Ruiz (@dayanr):
+me han comentado (no se si es cierto), que esos que cobran en papel higienico cagan todo
+16:35:30 - Julian (@jantonielli01):
+y pero muchas veces no te interesa
+16:35:50 - Julian (@jantonielli01):
+si queres una paginita chota o que se yo, buscas lo más barato que haya
+17:21:00 - Ale Miralles (@amiralles):
+<@UB2T44UTT> he visto varios anuncios de upw donde decia, literalmente, "NO INDIANS"
+17:22:15 - Ale Miralles (@amiralles):
+Al menos en mi experiencia, si el nato no vive en America, al margen del acento choto que puedan tener, la forma de expresarse no esta alineada con la nuestra. (O la de los americanos que es bastante similar a la nuestra)
+17:23:03 - Ale Miralles (@amiralles):
+Me ha pasado laburar con gente de india que vive en US y se entiende todo mas o menos bien, y con gente de india que vive en india y no se entiende una goma.
+17:23:33 - Ale Miralles (@amiralles):
+Onda que te quedas esperando.... y pensas, que carajo me quizo decir?...
+17:27:46 - Julian (@jantonielli01):
+No estoy tan de acuerdo con eso 
+17:29:09 - Dayan Ruiz (@dayanr):
+bueno chicos, peleen noma
+17:38:58 - Germán Burgardt (@germanandresburgardt):
+Gente tengo una propuesta laboral y en estos dias se me define otra, por lo que quiero esperar esa otra para ver con cual me quedo. Queda mal si les digo a la propuesta actual que me esperen unos dias mientras lo pienso o algo así? (con quedar mal mi miedo es que me descarten)
+17:39:42 - Rodrigo Ali (@rodrigojali):
+Para nada.
+17:40:18 - Martin Carrera (@mcarrera):
+ellos te dirian si estan evaluando otros candidatos y “despues te avisan q onda”
+17:40:42 - Martin Carrera (@mcarrera):
+capaz no explicitamente pero te lo harian entender jaja
+17:40:43 - Juan Scolari (@juanscolari):
+Y si llegaste hasta ahi es porque tienen interes en vos
+17:46:32 - Germán Burgardt (@germanandresburgardt):
+Pero les digo 'dejenme pensarlo unos dias porque estoy considerando otras propuestas'? O me hago el dolobu sin responder unos dias?
+17:46:40 - Germán Burgardt (@germanandresburgardt):
+sospecho q la respuesta correcta es la 1, pero pregunto por las dudas
+17:49:46 - Lucas Accastello (@accastellolucas):
+Yo sería sincero. Te haría quedar bien y tal vez pongan más interés aún en vos.
+17:50:02 - Damian Diaz (@damianmdst):
+Si haces eso, probablemente ellos te presionen mas diciendo que necesitan gente ya o tienen otro candidato en puerta. IMO no lo haria.
+17:50:23 - Martin Gonzalez (@martin2786):
+deciles que te den unos dias, seguramente te digan que para tal fecha necesitan saber asi avanzan con otro o no.
+17:53:48 - Julian (@jantonielli01):
+Decile que lo vas a pensar nomas 
+17:53:52 - Julian (@jantonielli01):
+Y listo 
+17:54:21 - Julian (@jantonielli01):
+No te preocupes tanto 
+18:08:44 - Germán Burgardt (@germanandresburgardt):
+Posta, soy un persecuta. gracias gente!
+18:10:51 - Ale Miralles (@amiralles):
+<@UCBK6KBMM> Otras companias, otras geografias, pero por ahi te sirve... <https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656>
+18:11:12 - Ale Miralles (@amiralles):
+Los numeros obviamente no aplican aca, pero las tecnicas si.
+18:15:16 - Ale Miralles (@amiralles):
+Si estas dispuesto a negociar, no tiene nada de malo decirles que estas evaluando varias opciones en paralelo, y que por un tema de "respeto" a las otras partes, vas a esperar a que todos te hagan llegar su propuesta antes de decidir. (O alguna sanata de ese estilo)
+18:23:46 - Aldo Gabriel Rojas (@aldogrojas5):
+Jejeje quiero el cv de esa persona q escribe!
+18:23:57 - Germán Burgardt (@germanandresburgardt):
+Gracias Ale, ahí estuve viendo el artículo, está buenisimo
+19:01:11 - Ale Miralles (@amiralles):
+Y lo loco es que el tipo no es un super senior. En otro post el mismo nato cuenta su background, como se preparo, etc... etc... y no tiene mucha experiencia comercial.
+20:27:51 - ari (@arieldiaz):
+aprendiste ingles de grande Jorge?
