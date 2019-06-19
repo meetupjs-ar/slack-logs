@@ -1,0 +1,154 @@
+15:16:06 - Santiago Ruffino (@santi_0898):
+Me pidieron presupuestar una integracion de un formulario PHP con un CRM. La cuestion "tecnica" es algo como: Recibe un POST+JSON con un token en el header, un JSON que tiene que nombres especificos de las keys, y listo
+15:16:26 - Santiago Ruffino (@santi_0898):
+La parte del form en PHP nisiquera la tengo que hacer yo. Es de una empresa que hizo el desarrollo. Cuanto lo puedo cobrar? Jajaja
+15:22:39 - Gonza Gluzman (@gonza):
+$2
+15:23:04 - Santiago Ruffino (@santi_0898):
+Si les puedo robar un poco, mejor. Es del trabajo viejo ?)
+15:25:08 - Gonza Gluzman (@gonza):
+Aaaaaah, si son del trabajo viejo, matalos
+15:25:32 - Gonza Gluzman (@gonza):
+U$D 9E99999999999999
+15:26:03 - Leandro Echevarria (@echevarrialeandro):
+Eso
+15:26:05 - Leandro Echevarria (@echevarrialeandro):
+:stuck_out_tongue:
+15:26:19 - Luis Alvarez (@luistensai):
+fijate un precio por hora, estimate cuántas horas te puede llegar a tomar * 3, y listo jaja
+15:26:44 - Luis Alvarez (@luistensai):
+asegurate de dejar bien definido el alcance del freelo
+15:26:52 - Luis Alvarez (@luistensai):
+no sea cosa que te empiecen a pedir cambios y cambios
+15:27:48 - Santiago Ruffino (@santi_0898):
+Es que lo unico que deberia hacer es decirle a la empresa que hizo la web "Che, enviame un JSON con estos datos, este token en el header y listo". Podria hacerlo con Postman y les paso el codigo que me tira Postman para que tengan una idea
+15:28:05 - Santiago Ruffino (@santi_0898):
+El postman lo hago en 15 minutos. Pero no voy a facturar 0.15 * 3. Jajaja
+15:28:30 - Santiago Ruffino (@santi_0898):
+No soy propietario ni del CRM ni de la web. Solo soy la persona que conoce el CRM
+15:28:38 - Leandro Echevarria (@echevarrialeandro):
+Nunca menosprecies nada en IT :rolling_on_the_floor_laughing:
+15:32:19 - Rodrigo Ali (@rodrigojali):
+15 min = 1 hora.
+15:32:40 - Rodrigo Ali (@rodrigojali):
+15min~74min = 1 hora (?
+15:33:15 - Santiago Ruffino (@santi_0898):
+1 hora = $?
+15:34:23 - Santiago Ruffino (@santi_0898):
+Por cuanto deberia multiplicar lo que gano por hora actualmente?
+15:34:46 - Leandro Echevarria (@echevarrialeandro):
+Ponételo asi: Cuánto $$$ le querés sacar a tu ex empleador por ese trabajo?
+15:35:41 - Enzo Retamozo (@egr_96):
+25 u$s hora
+15:35:44 - Enzo Retamozo (@egr_96):
+corta
+15:36:13 - Rodrigo Ali (@rodrigojali):
+Es un RE buen rate para uqe te digan "no" jajaja. Muy polite.
+15:36:16 - Rodrigo Ali (@rodrigojali):
+Yo estoy a favor.
+15:36:44 - Santiago Ruffino (@santi_0898):
+No me molesta hacer el laburo. Al contrario, serian mis inicios como laburos de freelance
+15:36:49 - Santiago Ruffino (@santi_0898):
+"freelance"
+15:38:07 - Rodrigo Ali (@rodrigojali):
+Y fijate, eso realmente lo manejás vos. No todos los laburos es recomendable cobrarlos por hora y no todos es recomendarlos por completion. Si es algo que te va a tomar menos de 1 hora, no cobrés por hora, cobrá por "valor que agregaste a la compañia con tu fix"
+15:38:30 - Rodrigo Ali (@rodrigojali):
+Entonces en vez de decirles "esto te va a salir USD 25 por hora" le decís "resolver este quilombo te va a salir USD 25"
+15:38:39 - Rodrigo Ali (@rodrigojali):
+Vos contás con el upperhand.
+15:40:30 - Santiago Ruffino (@santi_0898):
+Claro, es lo que pense. Te cobro X porque sale X hacerlo
+15:40:47 - Santiago Ruffino (@santi_0898):
+Ni tengo que aclarar como saco ese numero
+15:41:01 - Rodrigo Ali (@rodrigojali):
+Exacto
+15:43:01 - Wilfredo Alcala (@alcalawilfre):
+Cuando le envíés el presupuesto le adjuntas algo como:
+
+&gt; Hacer un POST request 1$
+&gt; Saber qué poner en el body y en los headers 999$
+15:44:04 - Santiago Ruffino (@santi_0898):
+```Hacer un POST request 1$
+Saber qué poner en el body y en los headers 999$
+Recuperar lo perdido: No tiene precio```
+18:51:37 - Ale Miralles (@amiralles):
+USD 30 x hora no esta nada mal (mas teniendo en cuenta que sos el tipo de confianza de ellos)
+18:52:27 - Ale Miralles (@amiralles):
+(y para calcular el precio 15 mins, tenes que multiplicar por .25 :P)
+15:16:06 - Santiago Ruffino (@santi_0898):
+Me pidieron presupuestar una integracion de un formulario PHP con un CRM. La cuestion "tecnica" es algo como: Recibe un POST+JSON con un token en el header, un JSON que tiene que nombres especificos de las keys, y listo
+15:16:26 - Santiago Ruffino (@santi_0898):
+La parte del form en PHP nisiquera la tengo que hacer yo. Es de una empresa que hizo el desarrollo. Cuanto lo puedo cobrar? Jajaja
+15:22:39 - Gonza Gluzman (@gonza):
+$2
+15:23:04 - Santiago Ruffino (@santi_0898):
+Si les puedo robar un poco, mejor. Es del trabajo viejo ?)
+15:25:08 - Gonza Gluzman (@gonza):
+Aaaaaah, si son del trabajo viejo, matalos
+15:25:32 - Gonza Gluzman (@gonza):
+U$D 9E99999999999999
+15:26:03 - Leandro Echevarria (@echevarrialeandro):
+Eso
+15:26:05 - Leandro Echevarria (@echevarrialeandro):
+:stuck_out_tongue:
+15:26:19 - Luis Alvarez (@luistensai):
+fijate un precio por hora, estimate cuántas horas te puede llegar a tomar * 3, y listo jaja
+15:26:44 - Luis Alvarez (@luistensai):
+asegurate de dejar bien definido el alcance del freelo
+15:26:52 - Luis Alvarez (@luistensai):
+no sea cosa que te empiecen a pedir cambios y cambios
+15:27:48 - Santiago Ruffino (@santi_0898):
+Es que lo unico que deberia hacer es decirle a la empresa que hizo la web "Che, enviame un JSON con estos datos, este token en el header y listo". Podria hacerlo con Postman y les paso el codigo que me tira Postman para que tengan una idea
+15:28:05 - Santiago Ruffino (@santi_0898):
+El postman lo hago en 15 minutos. Pero no voy a facturar 0.15 * 3. Jajaja
+15:28:30 - Santiago Ruffino (@santi_0898):
+No soy propietario ni del CRM ni de la web. Solo soy la persona que conoce el CRM
+15:28:38 - Leandro Echevarria (@echevarrialeandro):
+Nunca menosprecies nada en IT :rolling_on_the_floor_laughing:
+15:32:19 - Rodrigo Ali (@rodrigojali):
+15 min = 1 hora.
+15:32:40 - Rodrigo Ali (@rodrigojali):
+15min~74min = 1 hora (?
+15:33:15 - Santiago Ruffino (@santi_0898):
+1 hora = $?
+15:34:23 - Santiago Ruffino (@santi_0898):
+Por cuanto deberia multiplicar lo que gano por hora actualmente?
+15:34:46 - Leandro Echevarria (@echevarrialeandro):
+Ponételo asi: Cuánto $$$ le querés sacar a tu ex empleador por ese trabajo?
+15:35:41 - Enzo Retamozo (@egr_96):
+25 u$s hora
+15:35:44 - Enzo Retamozo (@egr_96):
+corta
+15:36:13 - Rodrigo Ali (@rodrigojali):
+Es un RE buen rate para uqe te digan "no" jajaja. Muy polite.
+15:36:16 - Rodrigo Ali (@rodrigojali):
+Yo estoy a favor.
+15:36:44 - Santiago Ruffino (@santi_0898):
+No me molesta hacer el laburo. Al contrario, serian mis inicios como laburos de freelance
+15:36:49 - Santiago Ruffino (@santi_0898):
+"freelance"
+15:38:07 - Rodrigo Ali (@rodrigojali):
+Y fijate, eso realmente lo manejás vos. No todos los laburos es recomendable cobrarlos por hora y no todos es recomendarlos por completion. Si es algo que te va a tomar menos de 1 hora, no cobrés por hora, cobrá por "valor que agregaste a la compañia con tu fix"
+15:38:30 - Rodrigo Ali (@rodrigojali):
+Entonces en vez de decirles "esto te va a salir USD 25 por hora" le decís "resolver este quilombo te va a salir USD 25"
+15:38:39 - Rodrigo Ali (@rodrigojali):
+Vos contás con el upperhand.
+15:40:30 - Santiago Ruffino (@santi_0898):
+Claro, es lo que pense. Te cobro X porque sale X hacerlo
+15:40:47 - Santiago Ruffino (@santi_0898):
+Ni tengo que aclarar como saco ese numero
+15:41:01 - Rodrigo Ali (@rodrigojali):
+Exacto
+15:43:01 - Wilfredo Alcala (@alcalawilfre):
+Cuando le envíés el presupuesto le adjuntas algo como:
+
+&gt; Hacer un POST request 1$
+&gt; Saber qué poner en el body y en los headers 999$
+15:44:04 - Santiago Ruffino (@santi_0898):
+```Hacer un POST request 1$
+Saber qué poner en el body y en los headers 999$
+Recuperar lo perdido: No tiene precio```
+18:51:37 - Ale Miralles (@amiralles):
+USD 30 x hora no esta nada mal (mas teniendo en cuenta que sos el tipo de confianza de ellos)
+18:52:27 - Ale Miralles (@amiralles):
+(y para calcular el precio 15 mins, tenes que multiplicar por .25 :P)
