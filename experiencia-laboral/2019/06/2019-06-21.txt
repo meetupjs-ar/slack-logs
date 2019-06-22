@@ -1,0 +1,78 @@
+12:27:30 - Gonzalo Gras Cantou (@guusygonzalo):
+Alguna referencia de appDirect?
+13:01:04 - Santiago Ruffino (@santi_0898):
+Hoy les mande el precio y agarraron sin pensarlo. La proxima los hago mas bosta
+13:12:38 - Julian (@jantonielli01):
+Cuanto les cobraste 
+13:13:02 - Santiago Ruffino (@santi_0898):
+30U$D
+13:13:30 - Julian (@jantonielli01):
+Y cuánto te tomó?
+13:15:45 - Santiago Ruffino (@santi_0898):
+Todavía no arranque
+13:16:02 - Santiago Ruffino (@santi_0898):
+Pero me va a llevar poco. Porque la mayoría del trabajo lo tienen que hacer los dueños de la página, no yo
+13:16:22 - Santiago Ruffino (@santi_0898):
+Ya estuve trabajando en eso cuando laboraba para la empresa. Pero lo deje a la mitad por falta de interés. Jajaja
+13:25:45 - Aldo Gabriel Rojas (@aldogrojas5):
+Gente... alguien hace bots con nodejs???
+El tema es así: un amigo labura en una empresa que hace eso, y le hablo al dueño (q es su amigo) y le dijo q no tengo ni puta idea de node, pero que le meto garra y aprendo rápido y tengo alguna q otra chance de entrar a laburar ahí, obvio, apadrinado por mi amigo q me banca en todas
+13:26:03 - Aldo Gabriel Rojas (@aldogrojas5):
+La pregunta es: cursos o algo a lo q le pueda entrar como rengo a la muleta?
+13:26:31 - Gonzalo González Mora (@gonzalogm):
+Esoo, grande Aldo! :clap::skin-tone-3:  por ahí <@UGQTUDQSG> tenga algún tip
+13:27:25 - Marcos Casagrande (@marcoscvp90):
+Yo hago bots, que tipo de bot, un chat bot?
+13:29:42 - Santiago Ruffino (@santi_0898):
+Si o si con Node? No podes hacer con alguna plataforma?
+13:32:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Es lo q laburan ellos
+13:32:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Sisi
+13:34:23 - Marcos Casagrande (@marcoscvp90):
+Todo depende que usen ellos, yo suelo armarlos con Dialogflow todo lo que es NLP (_Natural Language Processing_) y después armar el chat en si y las integraciones en Node.
+13:35:32 - Marcos Casagrande (@marcoscvp90):
+Tenés idea si usan alguna plataforma, o armaron algo solo ellos? (poco probable, teniendo en cuenta que hay plataformas que te resuelven lo más complejo).
+13:47:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Sinceramente no tengo idea de qué forma lo hacen sólo sé q usan node. Si fuera el caso que decís vos, le meto primero a algún curso introductorio a node y después se usan librerías o algo por el estilo
+13:48:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahora pregunto y te tiro más data
+12:27:30 - Gonzalo Gras Cantou (@guusygonzalo):
+Alguna referencia de appDirect?
+13:01:04 - Santiago Ruffino (@santi_0898):
+Hoy les mande el precio y agarraron sin pensarlo. La proxima los hago mas bosta
+13:12:38 - Julian (@jantonielli01):
+Cuanto les cobraste 
+13:13:02 - Santiago Ruffino (@santi_0898):
+30U$D
+13:13:30 - Julian (@jantonielli01):
+Y cuánto te tomó?
+13:15:45 - Santiago Ruffino (@santi_0898):
+Todavía no arranque
+13:16:02 - Santiago Ruffino (@santi_0898):
+Pero me va a llevar poco. Porque la mayoría del trabajo lo tienen que hacer los dueños de la página, no yo
+13:16:22 - Santiago Ruffino (@santi_0898):
+Ya estuve trabajando en eso cuando laboraba para la empresa. Pero lo deje a la mitad por falta de interés. Jajaja
+13:25:45 - Aldo Gabriel Rojas (@aldogrojas5):
+Gente... alguien hace bots con nodejs???
+El tema es así: un amigo labura en una empresa que hace eso, y le hablo al dueño (q es su amigo) y le dijo q no tengo ni puta idea de node, pero que le meto garra y aprendo rápido y tengo alguna q otra chance de entrar a laburar ahí, obvio, apadrinado por mi amigo q me banca en todas
+13:26:03 - Aldo Gabriel Rojas (@aldogrojas5):
+La pregunta es: cursos o algo a lo q le pueda entrar como rengo a la muleta?
+13:26:31 - Gonzalo González Mora (@gonzalogm):
+Esoo, grande Aldo! :clap::skin-tone-3:  por ahí <@UGQTUDQSG> tenga algún tip
+13:27:25 - Marcos Casagrande (@marcoscvp90):
+Yo hago bots, que tipo de bot, un chat bot?
+13:29:42 - Santiago Ruffino (@santi_0898):
+Si o si con Node? No podes hacer con alguna plataforma?
+13:32:40 - Aldo Gabriel Rojas (@aldogrojas5):
+Es lo q laburan ellos
+13:32:56 - Aldo Gabriel Rojas (@aldogrojas5):
+Sisi
+13:34:23 - Marcos Casagrande (@marcoscvp90):
+Todo depende que usen ellos, yo suelo armarlos con Dialogflow todo lo que es NLP (_Natural Language Processing_) y después armar el chat en si y las integraciones en Node.
+13:35:32 - Marcos Casagrande (@marcoscvp90):
+Tenés idea si usan alguna plataforma, o armaron algo solo ellos? (poco probable, teniendo en cuenta que hay plataformas que te resuelven lo más complejo).
+13:47:55 - Aldo Gabriel Rojas (@aldogrojas5):
+Sinceramente no tengo idea de qué forma lo hacen sólo sé q usan node. Si fuera el caso que decís vos, le meto primero a algún curso introductorio a node y después se usan librerías o algo por el estilo
+13:48:22 - Aldo Gabriel Rojas (@aldogrojas5):
+Ahora pregunto y te tiro más data
