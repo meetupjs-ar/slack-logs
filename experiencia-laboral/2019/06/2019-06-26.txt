@@ -1,0 +1,300 @@
+13:58:10 - Germán Burgardt (@germanandresburgardt):
+Gente algun consejo relativo a laburar remoto? La semana que viene arranco, y como q estoy muy acostumbrado a laburar in-office
+14:03:13 - Estefania Aranguren (@estefaniaearangurenu):
+<@UCBK6KBMM> Algunos son consejos bastante particulares, porque depende de cada quien, pero, en mi caso me funciona tener un trello con todas las actividades a realizar por dia, y chequear antes de terminar la jornada, que me quedo pendiente. Si es posible, ubica un sitio neutro en tu casa, que no sea la habitacion o la cocina, porque son las zonas donde mas se pierde tiempo.  Espero te sirvan. :sweat_smile:
+14:05:08 - Sergio Daniel Xalambrí (@sergiodxa):
+comunicá mucho, todo el tiempo, terminas algo? decilo en slack, vas empezar algo? decilo en slack, tenés un problema? decilo en slack, se te ocurrió algo? decilo en slack, vas a ir a comer? decilo en slack
+14:05:37 - Sergio Daniel Xalambrí (@sergiodxa):
+mientras más sepan de vos mejor, si vas a salir al super a comprar algo avisa que vas a estar afk unos minutos
+14:05:52 - Sergio Daniel Xalambrí (@sergiodxa):
+si vas a participar en reuniones usa siempre calendar
+14:06:13 - Martín Valdés de León (@mvaldesdeleon):
+buena internet, buen headset, muteate siempre que no hables
+14:06:27 - Martín Valdés de León (@mvaldesdeleon):
+espacio y hardware dedicado para laburar, vs uso personal
+14:06:45 - Martín Valdés de León (@mvaldesdeleon):
+y no labures de mas
+14:09:14 - Germán Burgardt (@germanandresburgardt):
+genial! El consejo de comunicar absolutamente todo es buenisimo, voy a intentar llevarlo lo mas q pueda a la practica. Porque en la office es mucho mas fácil tener esa visibilidad, y remoto me deja dudando como ser lo mas visible posible
+14:09:47 - Germán Burgardt (@germanandresburgardt):
+usar el mic de la notebook es muy croto?
+14:10:33 - Sergio Daniel Xalambrí (@sergiodxa):
+depende de que tan malo sea el mic
+14:11:21 - Martín Valdés de León (@mvaldesdeleon):
+podes zafarla, pero si hay algo de ruido en la habitacion o similar (x ej, familia), empieza a garpar el headset
+14:11:36 - Germán Burgardt (@germanandresburgardt):
+Claro ellos me dan una notebook. Esa es otra, es 100x100 obligatorio usar la note que te dan ellos? (igualmente esto les voy a preguntar a ellos supongo)
+14:12:10 - Germán Burgardt (@germanandresburgardt):
+si mepa que voy a invertar en un buen headset
+14:14:34 - Martín Valdés de León (@mvaldesdeleon):
+Lee tu contrato, pero en general te haces la vida mucho mas facil si mantenes todo prolijamente separado.
+14:16:25 - Germán Burgardt (@germanandresburgardt):
+Mientras me dejen instalar manjaro o alguna distro de linux todo ok
+14:16:30 - Germán Burgardt (@germanandresburgardt):
+gracias gente, este canal vale oro
+14:17:10 - Santiago Ruffino (@santi_0898):
+Ponete ropa de gente normal. No trabajes de pijama. Porque estar vestido asi te incentiva a descansar y ese tipo de cosas
+14:17:54 - Germán Burgardt (@germanandresburgardt):
+Lo peor es que vivo en un monoambiente. La cama está demasiado cerca
+14:18:36 - Nico (@nicokorn96):
+ponele un cartel "sali de aca carajo "
+14:19:12 - Germán Burgardt (@germanandresburgardt):
+ya organicé con un amigo que labura remoto de caerle a laburar a su casa
+14:19:48 - Germán Burgardt (@germanandresburgardt):
+y estoy averiguando de coworking en rosario. No confío en mi para nada jaj
+14:23:50 - Luis Alvarez (@luistensai):
+el headset te sirve bastante, tratá de invertir en alguno bueno, cosa que si algún día te quedás sin internet y tenés que ir a laburar a un café, se escuche lo menos posible el ruido ambiente
+14:24:25 - Luis Alvarez (@luistensai):
+el mic de la note en gral, capta todo el ruido del ambiente y es bastante molesto
+14:25:40 - Martín Aimar (@maimar):
+los airpods me resultaron mucho mejor para hablar que un headset carísimo con ANC
+14:26:21 - Luis Alvarez (@luistensai):
+leí muy buenas críticas, por lo visto tienen procesador de sonido ambiente, muy loco
+14:26:35 - Luis Alvarez (@luistensai):
+quiero ver si no hay algo parecido para android, además que siento que te debe re-doler si perdés uno
+14:27:20 - Martín Aimar (@maimar):
+son bluetooth, los podés usar con lo que tengas
+14:28:11 - Germán Burgardt (@germanandresburgardt):
+esos estaba pensando comprarme. Pero la versión pobre I9s Tws
+14:29:05 - Martín Aimar (@maimar):
+no seas rata
+14:29:56 - Luis Alvarez (@luistensai):
+además de estar caros, no me gusta mucho la estética y apple en gral, estaba viendo que hay un montón de modelos ahora, pero si veo que no consigo algo decente, iré por los airpods jaja
+14:30:55 - Luis Alvarez (@luistensai):
+posta, si vas a usarlo para laburar, mejor invertir en algo bueno de una, si querés gastar un poco menos, comprate algo con cable
+14:31:40 - Santiago Ruffino (@santi_0898):
+Yo probe un par de airpods trucos, y no son muy buenos
+14:31:48 - Santiago Ruffino (@santi_0898):
+Ki si io, depende del oido entrenado que tengas
+14:32:01 - Luis Alvarez (@luistensai):
+no digo las copias baratas, hay otras marcas y alternativas
+14:32:09 - Luis Alvarez (@luistensai):
+jbl sacó unos que tienen buenas reviews
+14:32:12 - Luis Alvarez (@luistensai):
+xiaomi tiene otros
+14:32:14 - Luis Alvarez (@luistensai):
+etc
+14:32:17 - Germán Burgardt (@germanandresburgardt):
+ehh tiene re buenas criticas los I9s jaj
+14:33:02 - Germán Burgardt (@germanandresburgardt):
+15k los airpods
+14:33:14 - Ale Miralles (@amiralles):
+Para todo lo que es audio, Bose es buenismo, pero extremadamente caro.
+14:33:38 - Luis Alvarez (@luistensai):
+volviendo a los consejos, tener oficina aparte o un lugar destinado al laburo también es un gran :heavy_plus_sign:
+14:34:18 - Luis Alvarez (@luistensai):
+compralos por grabr o alguno que te lo traiga de afuera :stuck_out_tongue:
+14:34:18 - Ale Miralles (@amiralles):
+Totalmente.
+14:34:38 - Luis Alvarez (@luistensai):
+pero sí, están salados jaja
+14:34:42 - Ale Miralles (@amiralles):
+Yo cuando estoy solo (como hoy) laburo en el living de casa. Cuando hay gente, me encierro en mi oficina.
+14:34:50 - Martín Aimar (@maimar):
+<@U1XSDSM4H> había hecho un video con un montón de data sobre trabajar remoto
+14:35:10 - Jorge Cano (@jorgeucano):
+holis
+14:35:20 - Jorge Cano (@jorgeucano):
+ahora lo busco
+14:35:22 - Jorge Cano (@jorgeucano):
+pero si
+14:35:57 - Jorge Cano (@jorgeucano):
+basicamente lo mas importante es “mantener horarios”, “tener tu lugar para trabajar”, “hacer entender a la familia que laburar en casa no es estar de vacaciones”, “entender vos que laburar de tu casa no es un viva la pepa”
+14:36:15 - Jorge Cano (@jorgeucano):
+<https://www.youtube.com/watch?v=QIK8cEmr2gg>
+14:40:49 - Germán Burgardt (@germanandresburgardt):
+perfecto, ahora mi miro el video
+14:41:42 - Santiago Ruffino (@santi_0898):
+Por las dudas, solo se escucha el auricular izquierdo. Jajaja
+14:41:49 - Jorge Cano (@jorgeucano):
+si habia comprado el mic
+14:41:53 - Jorge Cano (@jorgeucano):
+y no estbaa configurada la mac
+14:41:58 - Jorge Cano (@jorgeucano):
+para doble entrada xD
+14:44:21 - Pedro (@pedro461):
+el consejo de hablar mucho es clave.. pero el mejor consejo que te puedo dar es que aún siendo hiper flexible te pongas horarios fijos, por ejemplo yo laburo de 8 a 19, después de las 19 a llorar al campito, no me encontrás online ni queriendo
+14:44:22 - Pedro (@pedro461):
+jaja
+14:49:54 - Jorge Cano (@jorgeucano):
+acabo de ver el video
+14:49:58 - Jorge Cano (@jorgeucano):
+y sigo pensando lo mismo que dije
+14:50:25 - Martín Aimar (@maimar):
+a mí no me calienta que me hablen fuera de horario
+14:50:38 - Jorge Cano (@jorgeucano):
+basicamente yo cobro las horas que trabajo
+14:50:47 - Jorge Cano (@jorgeucano):
+asi que si pasa algo y necesitan que trabaje horas extra (Y PUEDO)
+14:50:50 - Jorge Cano (@jorgeucano):
+no me molesta en lo mas minimo
+14:56:23 - Germán Burgardt (@germanandresburgardt):
+Si muy buen consejo ese, voy a intentar imponerme horarios rígidos xq personalmente me cuesta ser responsable sino
+15:08:51 - Pedro (@pedro461):
+a mi si y bastante.. hay un horario para el trabajo y otro para mi familia, el cual no negocio
+15:18:30 - Luis Alvarez (@luistensai):
+claro, el problema es evitar el abuso, si todos los días o fines de semana te escriben a las 8pm, no, no va, una vez de vez en cuando puede llegar a ser
+15:34:05 - Jorge Cano (@jorgeucano):
+para mi hay que entender el “ahora no puedo, disulpen”
+15:34:15 - Jorge Cano (@jorgeucano):
+no poder… uno tiene vida fuera del home office
+15:34:19 - Jorge Cano (@jorgeucano):
+y a veces tiene que hacer entender eso
+15:36:51 - Dario Fernando (@someunderscore_):
+no mirar memes  :feelsbad:
+16:21:18 - Alejandro Nagy (@nagy.alejandro):
+Si tenes chicos busca un espacio alejado y lo más aislado posible de ellos
+16:21:42 - Alejandro Nagy (@nagy.alejandro):
+suena feo pero codear y hacerle upa a la nena mientras mira YT Kids no se llevan bien :stuck_out_tongue:
+20:27:45 - Nico (@nhsz):
+8 a 19?!
+13:58:10 - Germán Burgardt (@germanandresburgardt):
+Gente algun consejo relativo a laburar remoto? La semana que viene arranco, y como q estoy muy acostumbrado a laburar in-office
+14:03:13 - Estefania Aranguren (@estefaniaearangurenu):
+<@UCBK6KBMM> Algunos son consejos bastante particulares, porque depende de cada quien, pero, en mi caso me funciona tener un trello con todas las actividades a realizar por dia, y chequear antes de terminar la jornada, que me quedo pendiente. Si es posible, ubica un sitio neutro en tu casa, que no sea la habitacion o la cocina, porque son las zonas donde mas se pierde tiempo.  Espero te sirvan. :sweat_smile:
+14:05:08 - Sergio Daniel Xalambrí (@sergiodxa):
+comunicá mucho, todo el tiempo, terminas algo? decilo en slack, vas empezar algo? decilo en slack, tenés un problema? decilo en slack, se te ocurrió algo? decilo en slack, vas a ir a comer? decilo en slack
+14:05:37 - Sergio Daniel Xalambrí (@sergiodxa):
+mientras más sepan de vos mejor, si vas a salir al super a comprar algo avisa que vas a estar afk unos minutos
+14:05:52 - Sergio Daniel Xalambrí (@sergiodxa):
+si vas a participar en reuniones usa siempre calendar
+14:06:13 - Martín Valdés de León (@mvaldesdeleon):
+buena internet, buen headset, muteate siempre que no hables
+14:06:27 - Martín Valdés de León (@mvaldesdeleon):
+espacio y hardware dedicado para laburar, vs uso personal
+14:06:45 - Martín Valdés de León (@mvaldesdeleon):
+y no labures de mas
+14:09:14 - Germán Burgardt (@germanandresburgardt):
+genial! El consejo de comunicar absolutamente todo es buenisimo, voy a intentar llevarlo lo mas q pueda a la practica. Porque en la office es mucho mas fácil tener esa visibilidad, y remoto me deja dudando como ser lo mas visible posible
+14:09:47 - Germán Burgardt (@germanandresburgardt):
+usar el mic de la notebook es muy croto?
+14:10:33 - Sergio Daniel Xalambrí (@sergiodxa):
+depende de que tan malo sea el mic
+14:11:21 - Martín Valdés de León (@mvaldesdeleon):
+podes zafarla, pero si hay algo de ruido en la habitacion o similar (x ej, familia), empieza a garpar el headset
+14:11:36 - Germán Burgardt (@germanandresburgardt):
+Claro ellos me dan una notebook. Esa es otra, es 100x100 obligatorio usar la note que te dan ellos? (igualmente esto les voy a preguntar a ellos supongo)
+14:12:10 - Germán Burgardt (@germanandresburgardt):
+si mepa que voy a invertar en un buen headset
+14:14:34 - Martín Valdés de León (@mvaldesdeleon):
+Lee tu contrato, pero en general te haces la vida mucho mas facil si mantenes todo prolijamente separado.
+14:16:25 - Germán Burgardt (@germanandresburgardt):
+Mientras me dejen instalar manjaro o alguna distro de linux todo ok
+14:16:30 - Germán Burgardt (@germanandresburgardt):
+gracias gente, este canal vale oro
+14:17:10 - Santiago Ruffino (@santi_0898):
+Ponete ropa de gente normal. No trabajes de pijama. Porque estar vestido asi te incentiva a descansar y ese tipo de cosas
+14:17:54 - Germán Burgardt (@germanandresburgardt):
+Lo peor es que vivo en un monoambiente. La cama está demasiado cerca
+14:18:36 - Nico (@nicokorn96):
+ponele un cartel "sali de aca carajo "
+14:19:12 - Germán Burgardt (@germanandresburgardt):
+ya organicé con un amigo que labura remoto de caerle a laburar a su casa
+14:19:48 - Germán Burgardt (@germanandresburgardt):
+y estoy averiguando de coworking en rosario. No confío en mi para nada jaj
+14:23:50 - Luis Alvarez (@luistensai):
+el headset te sirve bastante, tratá de invertir en alguno bueno, cosa que si algún día te quedás sin internet y tenés que ir a laburar a un café, se escuche lo menos posible el ruido ambiente
+14:24:25 - Luis Alvarez (@luistensai):
+el mic de la note en gral, capta todo el ruido del ambiente y es bastante molesto
+14:25:40 - Martín Aimar (@maimar):
+los airpods me resultaron mucho mejor para hablar que un headset carísimo con ANC
+14:26:21 - Luis Alvarez (@luistensai):
+leí muy buenas críticas, por lo visto tienen procesador de sonido ambiente, muy loco
+14:26:35 - Luis Alvarez (@luistensai):
+quiero ver si no hay algo parecido para android, además que siento que te debe re-doler si perdés uno
+14:27:20 - Martín Aimar (@maimar):
+son bluetooth, los podés usar con lo que tengas
+14:28:11 - Germán Burgardt (@germanandresburgardt):
+esos estaba pensando comprarme. Pero la versión pobre I9s Tws
+14:29:05 - Martín Aimar (@maimar):
+no seas rata
+14:29:56 - Luis Alvarez (@luistensai):
+además de estar caros, no me gusta mucho la estética y apple en gral, estaba viendo que hay un montón de modelos ahora, pero si veo que no consigo algo decente, iré por los airpods jaja
+14:30:55 - Luis Alvarez (@luistensai):
+posta, si vas a usarlo para laburar, mejor invertir en algo bueno de una, si querés gastar un poco menos, comprate algo con cable
+14:31:40 - Santiago Ruffino (@santi_0898):
+Yo probe un par de airpods trucos, y no son muy buenos
+14:31:48 - Santiago Ruffino (@santi_0898):
+Ki si io, depende del oido entrenado que tengas
+14:32:01 - Luis Alvarez (@luistensai):
+no digo las copias baratas, hay otras marcas y alternativas
+14:32:09 - Luis Alvarez (@luistensai):
+jbl sacó unos que tienen buenas reviews
+14:32:12 - Luis Alvarez (@luistensai):
+xiaomi tiene otros
+14:32:14 - Luis Alvarez (@luistensai):
+etc
+14:32:17 - Germán Burgardt (@germanandresburgardt):
+ehh tiene re buenas criticas los I9s jaj
+14:33:02 - Germán Burgardt (@germanandresburgardt):
+15k los airpods
+14:33:14 - Ale Miralles (@amiralles):
+Para todo lo que es audio, Bose es buenismo, pero extremadamente caro.
+14:33:38 - Luis Alvarez (@luistensai):
+volviendo a los consejos, tener oficina aparte o un lugar destinado al laburo también es un gran :heavy_plus_sign:
+14:34:18 - Luis Alvarez (@luistensai):
+compralos por grabr o alguno que te lo traiga de afuera :stuck_out_tongue:
+14:34:18 - Ale Miralles (@amiralles):
+Totalmente.
+14:34:38 - Luis Alvarez (@luistensai):
+pero sí, están salados jaja
+14:34:42 - Ale Miralles (@amiralles):
+Yo cuando estoy solo (como hoy) laburo en el living de casa. Cuando hay gente, me encierro en mi oficina.
+14:34:50 - Martín Aimar (@maimar):
+<@U1XSDSM4H> había hecho un video con un montón de data sobre trabajar remoto
+14:35:10 - Jorge Cano (@jorgeucano):
+holis
+14:35:20 - Jorge Cano (@jorgeucano):
+ahora lo busco
+14:35:22 - Jorge Cano (@jorgeucano):
+pero si
+14:35:57 - Jorge Cano (@jorgeucano):
+basicamente lo mas importante es “mantener horarios”, “tener tu lugar para trabajar”, “hacer entender a la familia que laburar en casa no es estar de vacaciones”, “entender vos que laburar de tu casa no es un viva la pepa”
+14:36:15 - Jorge Cano (@jorgeucano):
+<https://www.youtube.com/watch?v=QIK8cEmr2gg>
+14:40:49 - Germán Burgardt (@germanandresburgardt):
+perfecto, ahora mi miro el video
+14:41:42 - Santiago Ruffino (@santi_0898):
+Por las dudas, solo se escucha el auricular izquierdo. Jajaja
+14:41:49 - Jorge Cano (@jorgeucano):
+si habia comprado el mic
+14:41:53 - Jorge Cano (@jorgeucano):
+y no estbaa configurada la mac
+14:41:58 - Jorge Cano (@jorgeucano):
+para doble entrada xD
+14:44:21 - Pedro (@pedro461):
+el consejo de hablar mucho es clave.. pero el mejor consejo que te puedo dar es que aún siendo hiper flexible te pongas horarios fijos, por ejemplo yo laburo de 8 a 19, después de las 19 a llorar al campito, no me encontrás online ni queriendo
+14:44:22 - Pedro (@pedro461):
+jaja
+14:49:54 - Jorge Cano (@jorgeucano):
+acabo de ver el video
+14:49:58 - Jorge Cano (@jorgeucano):
+y sigo pensando lo mismo que dije
+14:50:25 - Martín Aimar (@maimar):
+a mí no me calienta que me hablen fuera de horario
+14:50:38 - Jorge Cano (@jorgeucano):
+basicamente yo cobro las horas que trabajo
+14:50:47 - Jorge Cano (@jorgeucano):
+asi que si pasa algo y necesitan que trabaje horas extra (Y PUEDO)
+14:50:50 - Jorge Cano (@jorgeucano):
+no me molesta en lo mas minimo
+14:56:23 - Germán Burgardt (@germanandresburgardt):
+Si muy buen consejo ese, voy a intentar imponerme horarios rígidos xq personalmente me cuesta ser responsable sino
+15:08:51 - Pedro (@pedro461):
+a mi si y bastante.. hay un horario para el trabajo y otro para mi familia, el cual no negocio
+15:18:30 - Luis Alvarez (@luistensai):
+claro, el problema es evitar el abuso, si todos los días o fines de semana te escriben a las 8pm, no, no va, una vez de vez en cuando puede llegar a ser
+15:34:05 - Jorge Cano (@jorgeucano):
+para mi hay que entender el “ahora no puedo, disulpen”
+15:34:15 - Jorge Cano (@jorgeucano):
+no poder… uno tiene vida fuera del home office
+15:34:19 - Jorge Cano (@jorgeucano):
+y a veces tiene que hacer entender eso
+15:36:51 - Dario Fernando (@someunderscore_):
+no mirar memes  :feelsbad:
+16:21:18 - Alejandro Nagy (@nagy.alejandro):
+Si tenes chicos busca un espacio alejado y lo más aislado posible de ellos
+16:21:42 - Alejandro Nagy (@nagy.alejandro):
+suena feo pero codear y hacerle upa a la nena mientras mira YT Kids no se llevan bien :stuck_out_tongue:
+20:27:45 - Nico (@nhsz):
+8 a 19?!
