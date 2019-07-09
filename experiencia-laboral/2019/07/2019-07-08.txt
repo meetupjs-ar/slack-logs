@@ -1,0 +1,120 @@
+10:14:06 - Santiago Ruffino (@santi_0898):
+Cuanto consideran un tiempo prudencial para enviar un prespuesto de un desarrollo?
+10:14:12 - Santiago Ruffino (@santi_0898):
+No es un proyecto WOW
+10:14:15 - Santiago Ruffino (@santi_0898):
+Digamos, algo medio
+10:15:14 - Martin Bavio (@mbavio):
+para mi enviar presupuesto asap significa interes y responsabilidad, por ende es un aspecto positivo a la hora de analizar las posibilidades del lado del cliente
+10:15:38 - Martin Bavio (@mbavio):
+a menos que hayas acordado un timeframe preciso para enviarlo
+10:17:18 - Santiago Ruffino (@santi_0898):
+Claro
+10:17:25 - Santiago Ruffino (@santi_0898):
+No hay un tiempo especifico
+10:17:47 - Martin Bavio (@mbavio):
+entonces ni bien lo tengas listo
+10:17:54 - Santiago Ruffino (@santi_0898):
+Pero me lo pidieron el viernes al mediodia. Y quieren que se lo mande hoy a las 14. Yo dije que el finde no podia trabajar en eso porque me iba
+10:18:16 - Martin Bavio (@mbavio):
+entonces si hay un tiempo especifico lol
+10:18:27 - Martin Bavio (@mbavio):
+hoy a las 14 es el tiempo especifico
+10:18:34 - Martin Bavio (@mbavio):
+fue acordado?
+10:18:46 - Santiago Ruffino (@santi_0898):
+No, no fue acordado
+10:19:07 - Martin Bavio (@mbavio):
+uh entonces se abren mas variantes, es como elige tu propia aventura esto
+10:19:29 - Martin Bavio (@mbavio):
+yo le diria que se lo mando cuando lo tenga listo lo antes posible, que no acordamos que sea hoy a las 14
+10:19:44 - Martin Bavio (@mbavio):
+todo eso con amabilidad, por supuesto
+10:19:57 - Santiago Ruffino (@santi_0898):
+Claro
+10:20:02 - Santiago Ruffino (@santi_0898):
+Perfecto
+10:20:06 - Santiago Ruffino (@santi_0898):
+Gracias :+1::skin-tone-2:
+10:34:27 - Luis Alvarez (@luistensai):
+ufff... si ya te apuran para un presupuesto... fajalos :joy:
+10:46:58 - Martín Aimar (@maimar):
+Banca hoy no es feriado?
+11:45:15 - Santiago Ruffino (@santi_0898):
+Nop. Dia no laborable
+12:06:00 - Martín Aimar (@maimar):
+Tomeito tomato
+15:46:53 - Santiago Ruffino (@santi_0898):
+Si tienen que hacer un desarrollo para un cliente. El codigo de lo pasan al cliente? Solo le venden la solucion final?
+16:00:38 - Nicolás Orchow (@nicoorchow):
+yo los freelos que hice sí, les dejaba el código a ellos y si querían seguirlo con otro, su problema.
+16:02:13 - Luis Alvarez (@luistensai):
+nunca laburé algo donde tuve que dejar un binario y nada más jaja
+16:02:43 - Luis Alvarez (@luistensai):
+ahora, podés arreglar la licencia del código, pero para eso ya tendrías que elaborar un contrato y dejarlo en claro
+16:23:21 - Dayan Ruiz (@dayanr):
+me paso de laburar en un equipo donde a 2 meses de laburo el loco pidio codigo y se buscó otro equipo que cobraba mas barato
+16:25:32 - Martin Bavio (@mbavio):
+shit happens
+19:51:11 - Martín Valdés de León (@mvaldesdeleon):
+Para esas cosas es que firmas contratos. En general el codigo es parte de los deliverables.
+10:14:06 - Santiago Ruffino (@santi_0898):
+Cuanto consideran un tiempo prudencial para enviar un prespuesto de un desarrollo?
+10:14:12 - Santiago Ruffino (@santi_0898):
+No es un proyecto WOW
+10:14:15 - Santiago Ruffino (@santi_0898):
+Digamos, algo medio
+10:15:14 - Martin Bavio (@mbavio):
+para mi enviar presupuesto asap significa interes y responsabilidad, por ende es un aspecto positivo a la hora de analizar las posibilidades del lado del cliente
+10:15:38 - Martin Bavio (@mbavio):
+a menos que hayas acordado un timeframe preciso para enviarlo
+10:17:18 - Santiago Ruffino (@santi_0898):
+Claro
+10:17:25 - Santiago Ruffino (@santi_0898):
+No hay un tiempo especifico
+10:17:47 - Martin Bavio (@mbavio):
+entonces ni bien lo tengas listo
+10:17:54 - Santiago Ruffino (@santi_0898):
+Pero me lo pidieron el viernes al mediodia. Y quieren que se lo mande hoy a las 14. Yo dije que el finde no podia trabajar en eso porque me iba
+10:18:16 - Martin Bavio (@mbavio):
+entonces si hay un tiempo especifico lol
+10:18:27 - Martin Bavio (@mbavio):
+hoy a las 14 es el tiempo especifico
+10:18:34 - Martin Bavio (@mbavio):
+fue acordado?
+10:18:46 - Santiago Ruffino (@santi_0898):
+No, no fue acordado
+10:19:07 - Martin Bavio (@mbavio):
+uh entonces se abren mas variantes, es como elige tu propia aventura esto
+10:19:29 - Martin Bavio (@mbavio):
+yo le diria que se lo mando cuando lo tenga listo lo antes posible, que no acordamos que sea hoy a las 14
+10:19:44 - Martin Bavio (@mbavio):
+todo eso con amabilidad, por supuesto
+10:19:57 - Santiago Ruffino (@santi_0898):
+Claro
+10:20:02 - Santiago Ruffino (@santi_0898):
+Perfecto
+10:20:06 - Santiago Ruffino (@santi_0898):
+Gracias :+1::skin-tone-2:
+10:34:27 - Luis Alvarez (@luistensai):
+ufff... si ya te apuran para un presupuesto... fajalos :joy:
+10:46:58 - Martín Aimar (@maimar):
+Banca hoy no es feriado?
+11:45:15 - Santiago Ruffino (@santi_0898):
+Nop. Dia no laborable
+12:06:00 - Martín Aimar (@maimar):
+Tomeito tomato
+15:46:53 - Santiago Ruffino (@santi_0898):
+Si tienen que hacer un desarrollo para un cliente. El codigo de lo pasan al cliente? Solo le venden la solucion final?
+16:00:38 - Nicolás Orchow (@nicoorchow):
+yo los freelos que hice sí, les dejaba el código a ellos y si querían seguirlo con otro, su problema.
+16:02:13 - Luis Alvarez (@luistensai):
+nunca laburé algo donde tuve que dejar un binario y nada más jaja
+16:02:43 - Luis Alvarez (@luistensai):
+ahora, podés arreglar la licencia del código, pero para eso ya tendrías que elaborar un contrato y dejarlo en claro
+16:23:21 - Dayan Ruiz (@dayanr):
+me paso de laburar en un equipo donde a 2 meses de laburo el loco pidio codigo y se buscó otro equipo que cobraba mas barato
+16:25:32 - Martin Bavio (@mbavio):
+shit happens
+19:51:11 - Martín Valdés de León (@mvaldesdeleon):
+Para esas cosas es que firmas contratos. En general el codigo es parte de los deliverables.
