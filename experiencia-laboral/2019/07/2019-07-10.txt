@@ -1,0 +1,134 @@
+08:47:04 - German Gonzalez (@gercho):
+Buen día gente. Alguien trabajo o tiene referencias de Medallia? Sueldos, calida de codigo, bla bla
+09:09:48 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola!!!! El miércoles pasado tuve una entrevista por skype y quedaron q el viernes me decían por si o por no si me hacían la entrevista técnica y cuándo... pero no me escribieron ni llamaron:zany_face: 
+Quedo muy pesado si le escribo a la recruiter si tiene novedades?
+09:10:15 - Santiago Ruffino (@santi_0898):
+Yo esperaria, por lo menos hasta mañana
+09:35:12 - Martín Valdés de León (@mvaldesdeleon):
+<@U0L9D0UT0>
+09:36:24 - Martín Valdés de León (@mvaldesdeleon):
+Preguntar dps de una semana no me parece de pesado
+09:37:54 - Diego Harari (@diehara):
+Yo mande un test hace dos semanas que lo necesitaban en dos dias
+09:38:03 - Diego Harari (@diehara):
+lo hice, me queme las pestañas y ayer hablo con la recruiter
+09:38:16 - Diego Harari (@diehara):
+el equipo tecnico no lo pudo ver aun me dijo
+09:38:35 - Diego Harari (@diehara):
+a veces pasa, y mas en empresas argentas prendidas fuego 24/7
+09:39:31 - Santiago Ruffino (@santi_0898):
+Yo esperaria hasta mañana porque hubo un dia no laborable y un feriado
+09:49:24 - Martin Bavio (@mbavio):
+yo preguntaria, si es con las palabras correctas indica interes y no pesadez.
+10:52:01 - Luciana Portias (@lportias):
+:joy:
+11:01:43 - Pablo Miceli (@pablomiceli24):
+eso me hace reflexionar...
+11:02:01 - Pablo Miceli (@pablomiceli24):
+cual seria masomenos el numero normal de tecnologías/lenguajes que un dev debería tener?
+11:02:42 - Luis Alvarez (@luistensai):
+las justas y necesarias :stuck_out_tongue:
+11:02:56 - Gonzalo González Mora (@gonzalogm):
+42
+11:03:57 - Luis Alvarez (@luistensai):
+es una buena pregunta igual, yo creo que depende mucho del rol
+11:04:28 - Luis Alvarez (@luistensai):
+me parece más importante igual, no las tecnologías, sino los conceptos
+11:04:40 - Pablo Miceli (@pablomiceli24):
+claro, y del tiempo que le dediques a aprender o mantenerte actualizados supongo... por que cuantas mas sabes, supongo que menos profundizas
+11:05:17 - Luis Alvarez (@luistensai):
+claro, por ejemplo como fullstack, yo me siento más un Jack of all trades más que un backend + front-end
+11:07:46 - Pablo Miceli (@pablomiceli24):
+osea un frontend senior por ejemplo, deberia manejarse con varios frameworks, no?
+11:08:11 - Luis Alvarez (@luistensai):
+no necesariamente
+11:08:42 - Luis Alvarez (@luistensai):
+podés ser senior en react solamente, probablemente le pases el trapo a alguien que haga angular + react y también sea senior
+11:08:56 - Luis Alvarez (@luistensai):
+pero el angular + react por ahí sea más flexible para mantener distintos proyectos
+11:09:10 - Aldo Gabriel Rojas (@aldogrojas5):
+El q lo entendió lo entendió... el proximo 25 de mayo salimos con la toalla colgada
+11:09:43 - Pablo Miceli (@pablomiceli24):
+claro, quizas en frontend es otro caso por que medio que elegir el framework es cuestion de gustos supongo, no creo que haya casos en el que uno es mejor que otro o cosas asi
+11:10:03 - Pablo Miceli (@pablomiceli24):
+distinto un backend que quizas tiene que saber varios motores de DB
+11:10:09 - Pablo Miceli (@pablomiceli24):
+para saber cual aplicar en cada caso
+11:12:30 - Luis Alvarez (@luistensai):
+sí, pero también tenés por ahí un backend que haga express y otro que haga loopback, o ambos, y así jaja
+12:36:53 - Juan Scolari (@juanscolari):
+cada empresa tiene distintas necesidades de devs
+12:37:50 - Juan Scolari (@juanscolari):
+no se puede saber todo ni siendo solo backend tampoco
+13:26:17 - Martín Valdés de León (@mvaldesdeleon):
+Una de las cosas que mas me gustan del rubro es esa absoluta libertad de armar tu perfil profesional y tu carrera como mas te guste.
+14:11:35 - Martín Aimar (@maimar):
+alguna refe de cloudx?
+08:47:04 - German Gonzalez (@gercho):
+Buen día gente. Alguien trabajo o tiene referencias de Medallia? Sueldos, calida de codigo, bla bla
+09:09:48 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola!!!! El miércoles pasado tuve una entrevista por skype y quedaron q el viernes me decían por si o por no si me hacían la entrevista técnica y cuándo... pero no me escribieron ni llamaron:zany_face: 
+Quedo muy pesado si le escribo a la recruiter si tiene novedades?
+09:10:15 - Santiago Ruffino (@santi_0898):
+Yo esperaria, por lo menos hasta mañana
+09:35:12 - Martín Valdés de León (@mvaldesdeleon):
+<@U0L9D0UT0>
+09:36:24 - Martín Valdés de León (@mvaldesdeleon):
+Preguntar dps de una semana no me parece de pesado
+09:37:54 - Diego Harari (@diehara):
+Yo mande un test hace dos semanas que lo necesitaban en dos dias
+09:38:03 - Diego Harari (@diehara):
+lo hice, me queme las pestañas y ayer hablo con la recruiter
+09:38:16 - Diego Harari (@diehara):
+el equipo tecnico no lo pudo ver aun me dijo
+09:38:35 - Diego Harari (@diehara):
+a veces pasa, y mas en empresas argentas prendidas fuego 24/7
+09:39:31 - Santiago Ruffino (@santi_0898):
+Yo esperaria hasta mañana porque hubo un dia no laborable y un feriado
+09:49:24 - Martin Bavio (@mbavio):
+yo preguntaria, si es con las palabras correctas indica interes y no pesadez.
+10:52:01 - Luciana Portias (@lportias):
+:joy:
+11:01:43 - Pablo Miceli (@pablomiceli24):
+eso me hace reflexionar...
+11:02:01 - Pablo Miceli (@pablomiceli24):
+cual seria masomenos el numero normal de tecnologías/lenguajes que un dev debería tener?
+11:02:42 - Luis Alvarez (@luistensai):
+las justas y necesarias :stuck_out_tongue:
+11:02:56 - Gonzalo González Mora (@gonzalogm):
+42
+11:03:57 - Luis Alvarez (@luistensai):
+es una buena pregunta igual, yo creo que depende mucho del rol
+11:04:28 - Luis Alvarez (@luistensai):
+me parece más importante igual, no las tecnologías, sino los conceptos
+11:04:40 - Pablo Miceli (@pablomiceli24):
+claro, y del tiempo que le dediques a aprender o mantenerte actualizados supongo... por que cuantas mas sabes, supongo que menos profundizas
+11:05:17 - Luis Alvarez (@luistensai):
+claro, por ejemplo como fullstack, yo me siento más un Jack of all trades más que un backend + front-end
+11:07:46 - Pablo Miceli (@pablomiceli24):
+osea un frontend senior por ejemplo, deberia manejarse con varios frameworks, no?
+11:08:11 - Luis Alvarez (@luistensai):
+no necesariamente
+11:08:42 - Luis Alvarez (@luistensai):
+podés ser senior en react solamente, probablemente le pases el trapo a alguien que haga angular + react y también sea senior
+11:08:56 - Luis Alvarez (@luistensai):
+pero el angular + react por ahí sea más flexible para mantener distintos proyectos
+11:09:10 - Aldo Gabriel Rojas (@aldogrojas5):
+El q lo entendió lo entendió... el proximo 25 de mayo salimos con la toalla colgada
+11:09:43 - Pablo Miceli (@pablomiceli24):
+claro, quizas en frontend es otro caso por que medio que elegir el framework es cuestion de gustos supongo, no creo que haya casos en el que uno es mejor que otro o cosas asi
+11:10:03 - Pablo Miceli (@pablomiceli24):
+distinto un backend que quizas tiene que saber varios motores de DB
+11:10:09 - Pablo Miceli (@pablomiceli24):
+para saber cual aplicar en cada caso
+11:12:30 - Luis Alvarez (@luistensai):
+sí, pero también tenés por ahí un backend que haga express y otro que haga loopback, o ambos, y así jaja
+12:36:53 - Juan Scolari (@juanscolari):
+cada empresa tiene distintas necesidades de devs
+12:37:50 - Juan Scolari (@juanscolari):
+no se puede saber todo ni siendo solo backend tampoco
+13:26:17 - Martín Valdés de León (@mvaldesdeleon):
+Una de las cosas que mas me gustan del rubro es esa absoluta libertad de armar tu perfil profesional y tu carrera como mas te guste.
+14:11:35 - Martín Aimar (@maimar):
+alguna refe de cloudx?
