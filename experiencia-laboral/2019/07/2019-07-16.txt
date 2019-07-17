@@ -1,0 +1,313 @@
+21:11:53 - Bren (@brenda.bajoestecielo):
+Hola! Alguien trabaja en Aeroterra?O tienen data sobre qué toman en una entrevista técnica?
+10:09:38 - Fernando Pelliccioni (@fpelliccioni):
+Casi me pasa en un laburo que tomé hace unos meses
+10:10:22 - Fernando Pelliccioni (@fpelliccioni):
+Les ofrecí pagos bi-semanales y se negaron porque no sé que chamuyo administrativo, como un boludo seguí adelante. Pero había varias señales que eran altos garcas.
+10:11:18 - Fernando Pelliccioni (@fpelliccioni):
+Al cabo de 1 mes y monedas les aviso que no trabajo más con ellos, emito factura el 31 de mayo, me pagaron mes y medio después y no me pude hacer mucho el loco por miedo que no me paguen
+10:11:32 - Fernando Pelliccioni (@fpelliccioni):
+unos verdaderos hijos de puta
+10:11:41 - Fernando Pelliccioni (@fpelliccioni):
+ahora a pensar cómo hacerlos mierda
+12:08:17 - Santiago Ruffino (@santi_0898):
+Cuantos puntos deberia tener una persona en un sprint de dos semanas? Alguien que tiene un mes en la empresa. Y es un Jr+
+12:08:45 - Leandro Echevarria (@echevarrialeandro):
+Totalmente subjetivo a los equipos, exp del equipo laburando juntos, etc
+12:08:53 - Julian (@jantonielli01):
+contar puntos es como comer una naranja
+12:09:12 - ari (@arieldiaz):
+como es eso de lo puntos?
+12:09:30 - Martín Valdés de León (@mvaldesdeleon):
+Su edad dividido dos mas cinco.
+12:09:45 - Santiago Ruffino (@santi_0898):
+Sabes algo de Scrum?
+12:09:51 - Gonza Gluzman (@gonza):
+Hablamos de cirujanos o de programadores?
+12:10:04 - Julian (@jantonielli01):
+no era `edad / 2 - 7`?
+12:10:08 - Santiago Ruffino (@santi_0898):
+Pense que habia algo asi como una regla general. No me bullying
+12:10:09 - Julian (@jantonielli01):
+brb yendo preso
+12:10:12 - Martín Aimar (@maimar):
+cómo es lo de la naranja?
+12:10:27 - Gonza Gluzman (@gonza):
+Ojo con la precedencia, faltan paréntesis ahí
+12:11:11 - Leandro Echevarria (@echevarrialeandro):
+En un proyecto para SF done laburé un año, nosotros éramos un equipo de 8 acá en arg, después un equipo de Ucrania y luego estaban los yanquis. Los yanquis "jefes" para medir eso, nos daban un changui digamos de 3 meses aprox de sprints, donde nosotros como equipo teniamos definido del 1 al 8 los puntos de cada ticket. 1 sencillo, 8 complejo y que se podría subdividir en mas tickets. Y nada, luego de esos 3 meses, se veia mas o menos el promedio de puntos que metia cada equipo en base a su criterio interno de clasificación. Luego a lo largo del tiempo cada equipo trataba de mantener eso
+12:11:26 - Martín Aimar (@maimar):
+eso equivale a `(edad / 2) - 7`
+12:11:38 - Julian (@jantonielli01):
+Que es lo que quise decir : p
+12:11:40 - Gonza Gluzman (@gonza):
+JAJAJAJA
+12:11:47 - Gonza Gluzman (@gonza):
+Es verdad, soy un pelotudo :sweat_smile:
+12:11:54 - Gonza Gluzman (@gonza):
+Estoy quemado
+12:12:00 - Martín Aimar (@maimar):
+de otro modo dividiría por un negativo :thinking_guy:
+12:12:06 - Julian (@jantonielli01):
+ya fue glonza, deja el laburo
+12:12:19 - Gonza Gluzman (@gonza):
+Sí, tenés razón
+21:11:53 - Bren (@brenda.bajoestecielo):
+Hola! Alguien trabaja en Aeroterra?O tienen data sobre qué toman en una entrevista técnica?
+10:09:38 - Fernando Pelliccioni (@fpelliccioni):
+Casi me pasa en un laburo que tomé hace unos meses
+10:10:22 - Fernando Pelliccioni (@fpelliccioni):
+Les ofrecí pagos bi-semanales y se negaron porque no sé que chamuyo administrativo, como un boludo seguí adelante. Pero había varias señales que eran altos garcas.
+10:11:18 - Fernando Pelliccioni (@fpelliccioni):
+Al cabo de 1 mes y monedas les aviso que no trabajo más con ellos, emito factura el 31 de mayo, me pagaron mes y medio después y no me pude hacer mucho el loco por miedo que no me paguen
+10:11:32 - Fernando Pelliccioni (@fpelliccioni):
+unos verdaderos hijos de puta
+10:11:41 - Fernando Pelliccioni (@fpelliccioni):
+ahora a pensar cómo hacerlos mierda
+12:08:17 - Santiago Ruffino (@santi_0898):
+Cuantos puntos deberia tener una persona en un sprint de dos semanas? Alguien que tiene un mes en la empresa. Y es un Jr+
+12:08:45 - Leandro Echevarria (@echevarrialeandro):
+Totalmente subjetivo a los equipos, exp del equipo laburando juntos, etc
+12:08:53 - Julian (@jantonielli01):
+contar puntos es como comer una naranja
+12:09:12 - ari (@arieldiaz):
+como es eso de lo puntos?
+12:09:30 - Martín Valdés de León (@mvaldesdeleon):
+Su edad dividido dos mas cinco.
+12:09:45 - Santiago Ruffino (@santi_0898):
+Sabes algo de Scrum?
+12:09:51 - Gonza Gluzman (@gonza):
+Hablamos de cirujanos o de programadores?
+12:10:04 - Julian (@jantonielli01):
+no era `edad / 2 - 7`?
+12:10:08 - Santiago Ruffino (@santi_0898):
+Pense que habia algo asi como una regla general. No me bullying
+12:10:09 - Julian (@jantonielli01):
+brb yendo preso
+12:10:12 - Martín Aimar (@maimar):
+cómo es lo de la naranja?
+12:10:27 - Gonza Gluzman (@gonza):
+Ojo con la precedencia, faltan paréntesis ahí
+12:11:11 - Leandro Echevarria (@echevarrialeandro):
+En un proyecto para SF done laburé un año, nosotros éramos un equipo de 8 acá en arg, después un equipo de Ucrania y luego estaban los yanquis. Los yanquis "jefes" para medir eso, nos daban un changui digamos de 3 meses aprox de sprints, donde nosotros como equipo teniamos definido del 1 al 8 los puntos de cada ticket. 1 sencillo, 8 complejo y que se podría subdividir en mas tickets. Y nada, luego de esos 3 meses, se veia mas o menos el promedio de puntos que metia cada equipo en base a su criterio interno de clasificación. Luego a lo largo del tiempo cada equipo trataba de mantener eso
+12:11:26 - Martín Aimar (@maimar):
+eso equivale a `(edad / 2) - 7`
+12:11:38 - Julian (@jantonielli01):
+Que es lo que quise decir : p
+12:11:40 - Gonza Gluzman (@gonza):
+JAJAJAJA
+12:11:47 - Gonza Gluzman (@gonza):
+Es verdad, soy un pelotudo :sweat_smile:
+12:11:54 - Gonza Gluzman (@gonza):
+Estoy quemado
+12:12:00 - Martín Aimar (@maimar):
+de otro modo dividiría por un negativo :thinking_guy:
+12:12:06 - Julian (@jantonielli01):
+ya fue glonza, deja el laburo
+12:12:19 - Gonza Gluzman (@gonza):
+Sí, tenés razón
+12:12:24 - Gonza Gluzman (@gonza):
+Suficiente por hoy
+12:12:33 - Leandro Echevarria (@echevarrialeandro):
+No hay regla, no hay mano dura, no hay silver bullet. Es medición y promedios en el tiempo IMO. Hay muchos factores a considerar
+12:12:54 - Leandro Echevarria (@echevarrialeandro):
+No es lo mismo un equipo de 4 devs que recien se conocen, a ese mismo equipo un año despues de laburar juntos todos los días
+12:13:05 - Gonza Gluzman (@gonza):
+Hablando en serio: casi siempre creo que se pierde un poco de foco por qué estimar
+12:13:13 - Leandro Echevarria (@echevarrialeandro):
+Spoiler: Es una verga
+12:13:47 - Leonardo Paglialunga (@paglialungalf):
+una de las formas es calcular la _velocity_ del team (el changui de x meses que comenta leandro a ver cuantos puntos hace el equipo en promedio), y apuntar a aumentar o mantener esa velocidad segun lo que necesite el proyecto
+12:14:51 - Julian (@jantonielli01):
+suficiente por el año chabon
+12:14:59 - Gonza Gluzman (@gonza):
+:joy:
+12:15:04 - Mariano Montero (@etmaro):
+Las velocidades de equipo son por equipo. Cada equipo es diferente. Y bueno los story points son un invento medio choto que el mismo creador pidio perdon por haberlo creado.
+
+Los story points fueron un hack para reemplazar los dias ideales. Te preguntaban cuantos dias ideales estimas esta tarea y vos decias 3. Despues te terminaba tardando 4 o 5, o 2, pero te escuchaba un manager y decia, si podes hacerlo en 3 dias ideales, tenes que hacerlo en esos dias. Asi que se lo cambio a story points, y despues la cosa se desvirtuo y a veces la gente hace cualquiera.
+12:15:41 - Sergio Daniel Xalambrí (@sergiodxa):
+IMO uno debería hacer 5 puntos por semana, que es una tarea medianamente compleja, una de 8 sería lo máximo, si en una semana metes más puntos, ponele 2 de 5 puntos, entonces esas tareas en primero lugar no eran de 5 puntos me parece, porque si pudiste hacer dos en una semana no eran tan complejas y estimaste mal
+12:16:19 - Mariano Montero (@etmaro):
+En mi equipo no estimamos. Usamos los story points como una medida de complejidad. Al menos que seas un capo estimando no le daria mucha bola.
+12:16:59 - Julian (@jantonielli01):
+Muchas veces estimar es la mejor forma de boostear tu productividad percibida para evaluaciones de desempeño
+12:17:19 - Mariano Montero (@etmaro):
+Bueno, en ese caso es un lugar chotisimo de laburo, el problema es otro
+12:17:40 - Sergio Daniel Xalambrí (@sergiodxa):
+ajá, las story points son de complejidad, pero si me decís que A, B y C son cada una de 8 puntos y las terminas en 3 días tan complejas no eran al final
+12:18:17 - Sergio Daniel Xalambrí (@sergiodxa):
+probablemente debieron ser 3 tareas de 3 puntos
+12:18:21 - Rodrigo Ali (@rodrigojali):
+Depende de cómo tome "complejidad" el equipo de trabajo
+12:18:25 - Sergio Daniel Xalambrí (@sergiodxa):
+ahora la complejidad también es dificil de medir
+12:18:32 - Rodrigo Ali (@rodrigojali):
+Si es "complejidad" para quien estima, o para el team. Generalmente estima el team, entonces es complejidad para el equipo
+12:18:38 - Rodrigo Ali (@rodrigojali):
+Y no todo el equipo tiene la misma expertise
+12:18:39 - Sergio Daniel Xalambrí (@sergiodxa):
+porque una tarea que para un senior son 3 puntos para un junior pueden ser 8
+12:18:47 - Mariano Montero (@etmaro):
+no nacieron como de complejidad, nacieron como tiempo, pero se supone que algo mas complejo te puede llevar mas tiempo que algo menos complejo y ahi puff, tiempo = complejidad
+12:18:47 - Rodrigo Ali (@rodrigojali):
+En el mismo team para mi puede ser un 3 y para vos un 8
+12:19:12 - Rodrigo Ali (@rodrigojali):
+Entonces se puede dar que se estime un 5, y yo lo haga en 3 y vos en 8
+12:19:13 - Mariano Montero (@etmaro):
+Bueno, eso se soluciona con herramientas como poker planning
+12:19:24 - Sergio Daniel Xalambrí (@sergiodxa):
+<@UFFG5EPGU> entonces deberían ponerse de acuerdo en un puntaje, un promedio o usar el más alto o lo que sea
+12:19:25 - Mariano Montero (@etmaro):
+que involucra al equipo en la estimacion
+12:19:42 - Rodrigo Ali (@rodrigojali):
+De nuevo, podés poner un promedio de team
+12:19:51 - Rodrigo Ali (@rodrigojali):
+Pero no quiere decir que si lo hiciste en más o en menos es porque se falló la estimación
+12:20:03 - Mariano Montero (@etmaro):
+<https://www.goodreads.com/book/show/25713011-scrum-and-xp-from-the-trenches>
+12:20:13 - Mariano Montero (@etmaro):
+leanse ese libro
+12:20:17 - Julian (@jantonielli01):
+Estan discutiendo semantics mepa
+12:20:22 - Sergio Daniel Xalambrí (@sergiodxa):
+el tema es que entonces la estimación no sirve de nada
+12:20:45 - Nico (@nicokorn96):
+me parece que scrum es muuy subjetivo a la organizacion que esten
+12:20:53 - Sergio Daniel Xalambrí (@sergiodxa):
+porque si me voy a otro equipo con gente todos seniors van a estimar menos puntos
+12:20:56 - Mariano Montero (@etmaro):
+es de un manager agile de spotify. Habla de que tan importante son las estimaciones. (Spoiler alert: no lo son tanto)
+12:21:06 - Sergio Daniel Xalambrí (@sergiodxa):
+osea la estimación por puntos es super a ojo y no vale de verdad para medir nada
+12:21:20 - Rodrigo Ali (@rodrigojali):
++1
+12:22:08 - Leandro Echevarria (@echevarrialeandro):
+La única estimación medible es si se cumplió lo que se dijo que se iba a hacer en el tiempo que se dijo que se iba a hacer
+12:22:12 - Leandro Echevarria (@echevarrialeandro):
+El resto son flores
+12:22:25 - Mariano Montero (@etmaro):
+si quieren ser los mas porongas con la estimacion:
+<https://www.goodreads.com/book/show/9267.Agile_Estimating_and_Planning>
+12:23:14 - Nico (@nicokorn96):
+no tanto porque a la persona le pasan cosas en el medio. pero si, hay que saber medir lo que uno hace
+12:24:40 - Leandro Echevarria (@echevarrialeandro):
+Ahh si por supuesto, no nos olvidemos el factor humano. No rendimos 100% todo el tiempo, nos enfermamos, etc
+12:25:17 - cryser (@carlosryser):
+hay un libro genial que se llama Software Estimation: Demystifying the Black Art
+12:25:40 - Nico (@nicokorn96):
+todo es posible
+12:25:53 - Nico (@nicokorn96):
+alguno que otro habra laburado 25hs seguidas
+12:26:35 - Gonza Gluzman (@gonza):
+Igual, la pregunta de <@U9KMYNJMV> (“_Cuantos puntos deberia tener una persona en un sprint de dos semanas? Alguien que tiene un mes en la empresa. Y es un Jr+_“) me suena a que están usando los puntos para medir performance individual. Eso sería un error.
+12:26:59 - Gonza Gluzman (@gonza):
+La estimación debería ser para tomar decisiones de qué priorizar. Nada más.
+12:29:14 - Leandro Echevarria (@echevarrialeandro):
+Que tire la primera piedra el que no alguna vez, lamentablemente :stuck_out_tongue:
+12:33:03 - kblok (@kblok):
+una laranja?
+12:41:34 - Santiago Ruffino (@santi_0898):
+Nosotros lo que hacemos es agarrar las tareas del Backlog, y decimos cuales pasan al sprint. De ahi, las punteamos y despues las asignamos
+12:44:25 - Leonardo Paglialunga (@paglialungalf):
+deberia ser al reves, primero las puntuas, despues segun la velocidad del equipo priorizas cuales entran y cuales no
+12:45:13 - Gonza Gluzman (@gonza):
+Yo no soy muy partidario de la asignación de tareas, salvo quizás de unas pocas del sprint
+12:45:15 - Damian Diaz (@damianmdst):
+Claro, si vos no tenes una puntuacion no deberias pasar historias del backlog al sprint porque estaria re contra mal estimado
+12:45:24 - Damian Diaz (@damianmdst):
+y las metricas en un team agile en serio no te cierran por ningun lado
+12:45:30 - Gonza Gluzman (@gonza):
+El sprint es del equipo en conjunto
+12:46:56 - Sergio Daniel Xalambrí (@sergiodxa):
+no soy fan de los sprints, mejor tener un backlog de tareas y simplemente cuando terminas una agarras otra y así seguís, cuando a un PR se le da merge a master se hace deploy a prod y listo (staging es por PR)
+12:47:50 - Martín Aimar (@maimar):
+-1 a los sprints
+12:48:29 - Damian Diaz (@damianmdst):
+ese modelo es tipo kanban el problema es que tenes ciertas devesntajas ahi
+12:49:48 - Sergio Daniel Xalambrí (@sergiodxa):
+en mi laburo se decidieron por un proceso super complejo y largo para mandar algo a master donde tenés un sprint de una semana, al terminar creas un branch release-*, ese es staging y de ahí podés dar merge a master si esta todo bien, en vez de ir del feature branch a master de una y hacer un proceso más continuo de ir agregando features
+12:49:56 - Sergio Daniel Xalambrí (@sergiodxa):
+git flow creo que era
+12:50:13 - Sergio Daniel Xalambrí (@sergiodxa):
+un montón de procesos para algo tan simple como terminé -&gt; se prueba -&gt; va a master -&gt; deploy a prod
+12:52:22 - Leonardo Paglialunga (@paglialungalf):
+igual mira que esa idea esta muy adoptada en la industria, no es que lo sacaron de la galera
+12:52:44 - Sergio Daniel Xalambrí (@sergiodxa):
+lo se
+12:53:27 - Sergio Daniel Xalambrí (@sergiodxa):
+pero me parece un desperdicio de tiempo, bah estoy muy acostumbrado a laburar sin tanta ceremonia, en Platzi y ZEIT simplemente se hacía merge y listo a master
+12:54:03 - Santiago Ruffino (@santi_0898):
+Nosotros aca tenemos: un branch por user story, PR a development alpha, despues se hace el deploy en beta, y despues a produccion
+12:54:14 - Sergio Daniel Xalambrí (@sergiodxa):
+en ZEIT era mucho más simple incluso porque usábamos Now para el frontend entonces siempre tenías tu URL staging y al hacer merge era menos 1 segundo y esa URL se volvía producción
+12:55:25 - Martín Valdés de León (@mvaldesdeleon):
+El tema para mi esta en que todos estos distintos procesos para llevar el ciclo de vida del desarrollo obedecen a distintos analisis y circunstancias y demas. En general apuntan a resolver X o Y problema con el sistema o proceso anterior, y ninguno en si pretende ser la solucion a todo.
+
+Pero los managers no leen _buenos_ libros.
+12:56:18 - Martín Valdés de León (@mvaldesdeleon):
+Por ejemplo, una idea fundamental de laburar con sprints es que al final de cada sprint sale un release que va al cliente para obtener feedback.
+12:56:39 - Martín Valdés de León (@mvaldesdeleon):
+En 9 de cada 10 proyectos que me toco laburar, eso no existia.
+12:58:30 - Martín Valdés de León (@mvaldesdeleon):
+Desde el otro lado del mostrador, laburar "como venga" agarrando tickets sin coordinacion puede que sea lo mas eficiente para un equipo chico, pero va a hacer dificil setearle expectativas al cliente sobre cuando va a estar terminado, o ofrecer transparencia sobre el progreso.
+12:58:53 - Martín Valdés de León (@mvaldesdeleon):
+Imaginense si compran un terreno y le encargan a alguien hacer una casa y les dice que no pueden ver nada hasta que no este terminado.
+13:01:33 - Sergio Daniel Xalambrí (@sergiodxa):
+no digo que no haya nada que mostrar, más bien en vez de esperar una semana todo el tiempo va a estar viendo avances, si una tarea la terminé el martes no tiene sentido esperar a terminar el sprint para darle merge cuando podés probar y mandar a master de una ese mismo día y listo feature nuevo casi a diario
+13:16:33 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+depende mucho del producto, no creo que quieras pushes a produccion diarios en una aplicacion movil, por eso scrum/kanban, frecuencia de releases, feedback de qa o usuarios reales, esta atado a cada producto
+13:19:40 - Luis Alvarez (@luistensai):
+me preguntaba el otro día, cómo hacen las apps que están en stores para pushear cambios (nunca laburé apps android/ios), sí o sí tienen que hacer publish en las stores?
+13:20:07 - Luis Alvarez (@luistensai):
+si querés fixear bugs o mejorar la app es medio bajón que el usuario tenga que bajarse la app completa de nuevo e instalar el update
+13:20:20 - Luis Alvarez (@luistensai):
+además de tener que tener retrocompatibilidad con APIs
+13:20:23 - Sergio Daniel Xalambrí (@sergiodxa):
+sí te toca hacer publish al store
+13:20:32 - Sergio Daniel Xalambrí (@sergiodxa):
+y esperar a que apple te apruebe
+13:20:37 - Sergio Daniel Xalambrí (@sergiodxa):
+Android es más rápido
+13:20:58 - Sergio Daniel Xalambrí (@sergiodxa):
+aunque existen herramientas para hacer updates sin pasar por la tienda
+13:21:06 - Sergio Daniel Xalambrí (@sergiodxa):
+react native te permite eso
+13:21:34 - Martín Aimar (@maimar):
+y otra, cómo avisás que hay que actualizar en una spa?
+13:22:00 - Luis Alvarez (@luistensai):
+invalidas la caché y te descarga todo de nuevo creo
+13:22:19 - Sergio Daniel Xalambrí (@sergiodxa):
+en Next lo que hace es que cuando el usuario navega a otra página si el BUILD_ID es diferente se recarga la página
+13:22:40 - Sergio Daniel Xalambrí (@sergiodxa):
+en FB Messenger ví que te muestran un mensaje para que actualices
+13:22:59 - Sergio Daniel Xalambrí (@sergiodxa):
+en CodeSandbox hacen algo similar cuando el service worker se actualizó
+13:25:49 - Gonzalo González Mora (@gonzalogm):
+Para apps mobiles, depende. A veces cambian cosas en el backend que no necesitan cambios en las apps, otras que necesitás sacar cosas para que un feature funque en las apps, y otras son sólo cambios en apps
+13:41:44 - Mariano Montero (@etmaro):
+hay una diferencia a pushear a produccion y que el usuario o la funcionalidad este activa. No tiene que estar atado al producto. Buscate feature toggle o feature flags. Uno a esta acostumbrado a pushear codigo a produccion que sea el mismo evento que habilitar una funcionalidad, pero no necesariamente tiene que ser asi.
+14:50:49 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+claro, existen muchas estrategias, como mencionan en el canal, algunos frameworks facilitan actualizar modulos por fuera de la store. Solo quise mencionar una situacion tipica donde no es lo mas comun o quizas lo mejor, enviar a produccion todo el tiempo y por eso para cada producto existe una metodologia que se adapta mejor
+15:31:02 - Mariano Montero (@etmaro):
+:+1:
+16:55:30 - guido rearte (@guidoarearte):
+Hola, queria preguntarles su opinion acerca de las entrevistas tecnicas como maquetar o realizar una app para conseguir trabajo. ¿Lo ven bueno o malo?
+16:56:07 - Pablo Miceli (@pablomiceli24):
+mal necesario IMO
+16:58:31 - Rodrigo Ali (@rodrigojali):
+Como entrevista me parece medio complicado, como proyecto no me parece mal. Me parece complicado como entrevista porque el maquetado suele ser muy subjetivo lo que espera el entrevistador versus cómo hace las cosas uno. Entonces salvo que esté RE bien especificado qué se espera es altamente probable que haya diferencias grandes entre lo esperado por el entrevistador y lo entregado por el entrevistado
+17:00:52 - Luciana Portias (@lportias):
+sorry, pense que estabamos hablando de otra cosa... las entrevistas tecnicas suelen ser re pedorras...
+17:01:35 - Luciana Portias (@lportias):
+yo muchas veces no me acuerdo las cosas de memoria, pero se como googlearlas, asi que termino resolviendo el problema sin mucho lio... pero en persona y sin una compu para buscar referencias se complica
+17:01:41 - Martín Aimar (@maimar):
+a mí me gustaría ir al mecánico y pedirle que me muestre cómo arregla un auto antes de dejarle el mío
+17:02:13 - Fernando Pelliccioni (@fpelliccioni):
+pero el mecánico es un proveedor
+17:02:19 - Fernando Pelliccioni (@fpelliccioni):
+o lo querés contratar :stuck_out_tongue_winking_eye:
+17:02:51 - Martín Aimar (@maimar):
+perdón me confundí de canal (?)
+17:03:52 - Luciana Portias (@lportias):
+ahora... cuando te hacen una prueba tecnica, es mas aceptable, por que te da el tiempo de hacer las cosas como a vos te gusta, pero siempre tenes la empresa que se abusa y ide una prueba tecnica sumple complicada y completa (muchas veces hasta me he dado cuenta de que piden algo que despues van a usar sin permiso ni paga) y ahi es cuando yo digo "no gracias, podes exigir una prueba, pero no voy a laburar gratis para vos"
