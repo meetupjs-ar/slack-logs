@@ -1,0 +1,204 @@
+08:53:25 - Martín Aimar (@maimar):
+<http://mergify.io|mergify.io>
+09:56:15 - Gonzalo Gras Cantou (@guusygonzalo):
+19 usd x hs es un buen rate para un ssr ?
+09:57:15 - Gonzalo González Mora (@gonzalogm):
+Me parece que es medio bajo
+09:58:22 - Gonzalo González Mora (@gonzalogm):
+Pensá que si pagás impuestos vas a perder bastante ahí. Salvo que metas monotributo y no declares todo (pq creo que con 3KUSD ya te pasás de la máxima categoría).
+09:59:10 - Gonzalo Gras Cantou (@guusygonzalo):
+:disappointed:
+09:59:25 - Gonzalo Gras Cantou (@guusygonzalo):
+25 x hs seria algo mas realista no ?
+09:59:33 - Gonzalo González Mora (@gonzalogm):
+Me parece que sí
+10:00:09 - Gonzalo González Mora (@gonzalogm):
+Veremos que dicen otros pero 19 se queda medio corto mepa, no sé
+10:00:28 - Martín Aimar (@maimar):
+depende de cosas, pero no es mal rate 19 si te pagan 160 horas por mes
+10:00:31 - Gonzalo González Mora (@gonzalogm):
+o sea, sí, es un buen sueldo comparado con otros acá, pero para un laburo de afuera es medio poco
+10:02:27 - Gonzalo González Mora (@gonzalogm):
+La categoría más alta son $1151066,58, que te da $95900 por mes, 2230USD por mes a $43
+10:02:42 - Gonzalo González Mora (@gonzalogm):
+Ya te quedás corto casi 800USD, ni hablar si sube el dólar
+10:03:21 - Gonzalo González Mora (@gonzalogm):
+Obvio que podés no declarar todo, depende para qué vayas a usar esa plata dsp, y cómo puedas gastarla (onda usar directo la tarjeta de Payoneer, etc.)
+10:05:40 - Gonzalo Gras Cantou (@guusygonzalo):
+vos decis que si declaro todo me quedo con muy poca plata no ? :disappointed:
+10:06:24 - Gonzalo Gras Cantou (@guusygonzalo):
+maldito sistema jajaajaj
+10:07:01 - Gonzalo González Mora (@gonzalogm):
+Eso si declarás todo, claro. Dsp siempre hay alternativas
+10:08:45 - Gonzalo González Mora (@gonzalogm):
+Qué se yo, por ahí con esos valores no joda, el tema es si llegás a ahorrar mucho en negro y dsp llega la hora que lo querés usar y por ahí se te complica, pero sino tal vez ni te joda
+10:09:08 - Gonzalo González Mora (@gonzalogm):
+Por ahí te podés asesorar con un contador para que te oriente mejor
+10:19:52 - FernandoDV (@javascriptargentina):
+No me parece que esté  mal, son 3K por mes! Ponele que sean re guasos los impuestos y te quiten una luca, son 2000 dolares, esto es, 90.000 pesos por mes. Igual ni ahi que llegas a mil dolares en impuestos. Además podes ir actualizando las escalas cada 6 meses arrancando por la mas baja y hasta que llegas a la mas alta pasan como 3 años (o esto cambio?). En principio, con toda la furia, llegas a los 200 dolares (9000 pe) en impuestos incluyendo la prepaga!
+10:20:35 - FernandoDV (@javascriptargentina):
+<https://www.afip.gob.ar/monotributo/categorias.asp> escalas del monotributo actualizado al 1/2019
+10:22:43 - Gonzalo González Mora (@gonzalogm):
+Claro, por eso, depende mucho de tu sueldo actual tmb
+10:23:01 - Gonzalo González Mora (@gonzalogm):
+Si tenés un buen sueldo a veces hay tanta poca dif dsp de los impuestos uqe no te conviene, pero bueno, depende de la situación de cada uno
+10:25:13 - Gonzalo González Mora (@gonzalogm):
+Pero es verdad lo que dice Fer de las escalas, no es tan duro al principio
+10:27:15 - FernandoDV (@javascriptargentina):
+Si, ayer veia una posición de 6 horas a 100K brutos, ponele que te quedan entre 70 y 75 en mano,... y no te conviene! Aca te pagan prepaga, aguinaldo, vacasiones.. Pero digo, en general, un sueldo de 100 "netos" laburando desde tu casa no es malo, y asi sea que despues de uno, dos o tres años tengas que pasar a ser responsable inscripto (por no entrar en monotributo) tampoco es la muerte. PARA MI un SSR a 19 dolares esta bien cotizado.
+10:31:19 - Rodrigo Ali (@rodrigojali):
+Es una discusión que se dio muchas veces. Pero lo que yo entendí es que se resumiría a:
+# USD 19/hr un Ssr comparado contra sueldos locales está bien.
+# USD 19/hr un Ssr comparado contra sueldos remotos en general, está por abajo de la media. Hasta donde yo he leído acá, un Ssr suele andar entre USD 20 ~ 45 la hora.
+10:31:43 - Rodrigo Ali (@rodrigojali):
+En resumen, lo que deberías ver es si te rinde o no la propuesta.
+10:37:30 - Martín Aimar (@maimar):
+la calculadora bruto-neto dice que 130000 bruto equivale a ~85000 neto
+10:42:29 - Gonzalo Gras Cantou (@guusygonzalo):
+buen punto rodri :smile:
+10:42:32 - Gonzalo Gras Cantou (@guusygonzalo):
+graciasss :smile:
+11:36:29 - Dayan Ruiz (@dayanr):
+que piensan de cobrar 15usd x hora pero como proyecto extra, tipo te piden un par de horas x dia, y si te atrasas tampoco esta mal
+11:38:21 - Martín Aimar (@maimar):
+here we go again
+11:53:29 - Julian (@jantonielli01):
+Esta re bien 19$ 
+11:53:37 - Julian (@jantonielli01):
+Son unos exagerados 
+11:53:49 - Dario Fernando (@someunderscore_):
+si vas a ser RI menos de 25 no
+11:54:34 - Martín Aimar (@maimar):
+yo no sé pero cobrar 100 lucas en argentina es estar en el 5% seguro
+11:54:53 - Julian (@jantonielli01):
+Que es RI 
+11:55:02 - Martín Valdés de León (@mvaldesdeleon):
+responsable inscripto
+11:55:03 - Dario Fernando (@someunderscore_):
+Responsable Inscripto
+11:55:08 - Julian (@jantonielli01):
+yo calculo que 100 Lucas ya es tipo 2% 
+11:55:17 - Julian (@jantonielli01):
+La mayoría del país es pobre 
+11:55:37 - Dario Fernando (@someunderscore_):
+es una barbaridad lo que te sacan como autonomo
+11:56:00 - Julian (@jantonielli01):
+Ni idea como funciona eso 
+11:56:17 - Lucas Accastello (@accastellolucas):
+A mi me parece muy bien usd $19. Si bien es cierto que pagan más para arrancar está más q bien. A un Ssr acá es imposible que paguen más de 60k, el doble de sueldo es mucho mejor. La clave está en no declarar las 3k usd porque sino te pasás del monotributo. Preguntá a tu empleador si de alguna otra forma te puede dar una parte esquivando el sistema digamos xD. Después que nos iluminen los que saben y nos digan que tanto controlan tus gastos para saber si estás cobrando de más o no
+11:56:20 - Julian (@jantonielli01):
+El mes pasado recién me anote al monotributo lmao
+11:57:08 - Lucas Accastello (@accastellolucas):
+Venías cintureando el sistema jaja
+11:58:17 - Martín Valdés de León (@mvaldesdeleon):
+Yo rescato las dos posturas... por un lado esta bueno saber cuales son las escalas salariales internacionales para distintos seniorities y demas, y por otro lado no hay nada de malo en admitir las circunstancias particulares de cada uno.
+11:58:42 - Martín Valdés de León (@mvaldesdeleon):
+Cosa que decidas lo que decidas, al menos tenes toda la informacion disponible a la hora de tomar la decision, y sabes por que elegiste X o Y.
+11:59:56 - Martín Valdés de León (@mvaldesdeleon):
+Si X guita te representa el doble de lo que cobras ahora, y resulta que tambien es por debajo de la media internacional, esta genial que lo agarres si es lo que necesitas en el momento, y a la vez que tengas en cuenta que para la proxima discusion salarial tenes que ir juntando argumentos para pedirte un jugoso ajuste.
+12:01:19 - Gonzalo González Mora (@gonzalogm):
+Exacto, todo depende de la circunstancia de cada uno. No sé, para mi si uno está con un sueldo más o menos copado se puede dar el lujo de negociar rates mejores, pq los pagan
+12:01:51 - Gonzalo González Mora (@gonzalogm):
+Con todas las ofertas que llegan por LinkedIn es cuestión de tirar para arriba y fue, pican más de los que uno piensa
+08:53:25 - Martín Aimar (@maimar):
+<http://mergify.io|mergify.io>
+09:56:15 - Gonzalo Gras Cantou (@guusygonzalo):
+19 usd x hs es un buen rate para un ssr ?
+09:57:15 - Gonzalo González Mora (@gonzalogm):
+Me parece que es medio bajo
+09:58:22 - Gonzalo González Mora (@gonzalogm):
+Pensá que si pagás impuestos vas a perder bastante ahí. Salvo que metas monotributo y no declares todo (pq creo que con 3KUSD ya te pasás de la máxima categoría).
+09:59:10 - Gonzalo Gras Cantou (@guusygonzalo):
+:disappointed:
+09:59:25 - Gonzalo Gras Cantou (@guusygonzalo):
+25 x hs seria algo mas realista no ?
+09:59:33 - Gonzalo González Mora (@gonzalogm):
+Me parece que sí
+10:00:09 - Gonzalo González Mora (@gonzalogm):
+Veremos que dicen otros pero 19 se queda medio corto mepa, no sé
+10:00:28 - Martín Aimar (@maimar):
+depende de cosas, pero no es mal rate 19 si te pagan 160 horas por mes
+10:00:31 - Gonzalo González Mora (@gonzalogm):
+o sea, sí, es un buen sueldo comparado con otros acá, pero para un laburo de afuera es medio poco
+10:02:27 - Gonzalo González Mora (@gonzalogm):
+La categoría más alta son $1151066,58, que te da $95900 por mes, 2230USD por mes a $43
+10:02:42 - Gonzalo González Mora (@gonzalogm):
+Ya te quedás corto casi 800USD, ni hablar si sube el dólar
+10:03:21 - Gonzalo González Mora (@gonzalogm):
+Obvio que podés no declarar todo, depende para qué vayas a usar esa plata dsp, y cómo puedas gastarla (onda usar directo la tarjeta de Payoneer, etc.)
+10:05:40 - Gonzalo Gras Cantou (@guusygonzalo):
+vos decis que si declaro todo me quedo con muy poca plata no ? :disappointed:
+10:06:24 - Gonzalo Gras Cantou (@guusygonzalo):
+maldito sistema jajaajaj
+10:07:01 - Gonzalo González Mora (@gonzalogm):
+Eso si declarás todo, claro. Dsp siempre hay alternativas
+10:08:45 - Gonzalo González Mora (@gonzalogm):
+Qué se yo, por ahí con esos valores no joda, el tema es si llegás a ahorrar mucho en negro y dsp llega la hora que lo querés usar y por ahí se te complica, pero sino tal vez ni te joda
+10:09:08 - Gonzalo González Mora (@gonzalogm):
+Por ahí te podés asesorar con un contador para que te oriente mejor
+10:19:52 - FernandoDV (@javascriptargentina):
+No me parece que esté  mal, son 3K por mes! Ponele que sean re guasos los impuestos y te quiten una luca, son 2000 dolares, esto es, 90.000 pesos por mes. Igual ni ahi que llegas a mil dolares en impuestos. Además podes ir actualizando las escalas cada 6 meses arrancando por la mas baja y hasta que llegas a la mas alta pasan como 3 años (o esto cambio?). En principio, con toda la furia, llegas a los 200 dolares (9000 pe) en impuestos incluyendo la prepaga!
+10:20:35 - FernandoDV (@javascriptargentina):
+<https://www.afip.gob.ar/monotributo/categorias.asp> escalas del monotributo actualizado al 1/2019
+10:22:43 - Gonzalo González Mora (@gonzalogm):
+Claro, por eso, depende mucho de tu sueldo actual tmb
+10:23:01 - Gonzalo González Mora (@gonzalogm):
+Si tenés un buen sueldo a veces hay tanta poca dif dsp de los impuestos uqe no te conviene, pero bueno, depende de la situación de cada uno
+10:25:13 - Gonzalo González Mora (@gonzalogm):
+Pero es verdad lo que dice Fer de las escalas, no es tan duro al principio
+10:27:15 - FernandoDV (@javascriptargentina):
+Si, ayer veia una posición de 6 horas a 100K brutos, ponele que te quedan entre 70 y 75 en mano,... y no te conviene! Aca te pagan prepaga, aguinaldo, vacasiones.. Pero digo, en general, un sueldo de 100 "netos" laburando desde tu casa no es malo, y asi sea que despues de uno, dos o tres años tengas que pasar a ser responsable inscripto (por no entrar en monotributo) tampoco es la muerte. PARA MI un SSR a 19 dolares esta bien cotizado.
+10:31:19 - Rodrigo Ali (@rodrigojali):
+Es una discusión que se dio muchas veces. Pero lo que yo entendí es que se resumiría a:
+# USD 19/hr un Ssr comparado contra sueldos locales está bien.
+# USD 19/hr un Ssr comparado contra sueldos remotos en general, está por abajo de la media. Hasta donde yo he leído acá, un Ssr suele andar entre USD 20 ~ 45 la hora.
+10:31:43 - Rodrigo Ali (@rodrigojali):
+En resumen, lo que deberías ver es si te rinde o no la propuesta.
+10:37:30 - Martín Aimar (@maimar):
+la calculadora bruto-neto dice que 130000 bruto equivale a ~85000 neto
+10:42:29 - Gonzalo Gras Cantou (@guusygonzalo):
+buen punto rodri :smile:
+10:42:32 - Gonzalo Gras Cantou (@guusygonzalo):
+graciasss :smile:
+11:36:29 - Dayan Ruiz (@dayanr):
+que piensan de cobrar 15usd x hora pero como proyecto extra, tipo te piden un par de horas x dia, y si te atrasas tampoco esta mal
+11:38:21 - Martín Aimar (@maimar):
+here we go again
+11:53:29 - Julian (@jantonielli01):
+Esta re bien 19$ 
+11:53:37 - Julian (@jantonielli01):
+Son unos exagerados 
+11:53:49 - Dario Fernando (@someunderscore_):
+si vas a ser RI menos de 25 no
+11:54:34 - Martín Aimar (@maimar):
+yo no sé pero cobrar 100 lucas en argentina es estar en el 5% seguro
+11:54:53 - Julian (@jantonielli01):
+Que es RI 
+11:55:02 - Martín Valdés de León (@mvaldesdeleon):
+responsable inscripto
+11:55:03 - Dario Fernando (@someunderscore_):
+Responsable Inscripto
+11:55:08 - Julian (@jantonielli01):
+yo calculo que 100 Lucas ya es tipo 2% 
+11:55:17 - Julian (@jantonielli01):
+La mayoría del país es pobre 
+11:55:37 - Dario Fernando (@someunderscore_):
+es una barbaridad lo que te sacan como autonomo
+11:56:00 - Julian (@jantonielli01):
+Ni idea como funciona eso 
+11:56:17 - Lucas Accastello (@accastellolucas):
+A mi me parece muy bien usd $19. Si bien es cierto que pagan más para arrancar está más q bien. A un Ssr acá es imposible que paguen más de 60k, el doble de sueldo es mucho mejor. La clave está en no declarar las 3k usd porque sino te pasás del monotributo. Preguntá a tu empleador si de alguna otra forma te puede dar una parte esquivando el sistema digamos xD. Después que nos iluminen los que saben y nos digan que tanto controlan tus gastos para saber si estás cobrando de más o no
+11:56:20 - Julian (@jantonielli01):
+El mes pasado recién me anote al monotributo lmao
+11:57:08 - Lucas Accastello (@accastellolucas):
+Venías cintureando el sistema jaja
+11:58:17 - Martín Valdés de León (@mvaldesdeleon):
+Yo rescato las dos posturas... por un lado esta bueno saber cuales son las escalas salariales internacionales para distintos seniorities y demas, y por otro lado no hay nada de malo en admitir las circunstancias particulares de cada uno.
+11:58:42 - Martín Valdés de León (@mvaldesdeleon):
+Cosa que decidas lo que decidas, al menos tenes toda la informacion disponible a la hora de tomar la decision, y sabes por que elegiste X o Y.
+11:59:56 - Martín Valdés de León (@mvaldesdeleon):
+Si X guita te representa el doble de lo que cobras ahora, y resulta que tambien es por debajo de la media internacional, esta genial que lo agarres si es lo que necesitas en el momento, y a la vez que tengas en cuenta que para la proxima discusion salarial tenes que ir juntando argumentos para pedirte un jugoso ajuste.
+12:01:19 - Gonzalo González Mora (@gonzalogm):
+Exacto, todo depende de la circunstancia de cada uno. No sé, para mi si uno está con un sueldo más o menos copado se puede dar el lujo de negociar rates mejores, pq los pagan
+12:01:51 - Gonzalo González Mora (@gonzalogm):
+Con todas las ofertas que llegan por LinkedIn es cuestión de tirar para arriba y fue, pican más de los que uno piensa
