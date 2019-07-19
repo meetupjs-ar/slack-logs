@@ -1,0 +1,260 @@
+12:47:47 - Matias Garat Ortiz (@matiasgaratortiz):
+Ojo... en rel de dependencia de 3000u$s bruto me estan quedando unos 2000u$s netos, despues de aportes, dcto prepaga, ganancias... Si esto lo hago por mi cuenta, en mi caso RI, y quiero el mismo plan de prepaga familiar que tengo hoy, solo de prepaga son 400u$s... los impuestos/aportes puede ser muy variado... no seria raro que casi 1k u$s se te vaya
+12:54:04 - Dario Fernando (@someunderscore_):
+tal cual en RI se te va mas de un 1k solo en ganancias a un rate de 25 hora
+13:18:57 - Santiago Ruffino (@santi_0898):
+Como cotizan un proyecto que necesita una etapa de investigacion previa al desarrollo?
+13:19:09 - Santiago Ruffino (@santi_0898):
+Investigacion de 15 minutos. Pero investigacion al fin y al cabo
+13:19:32 - Santiago Ruffino (@santi_0898):
+Porque yo dije "Vos fijate si se puede hacer,  y yo lo desarrollo". Y la respuesta fue "No, busca vos si se puede y cotiza cuanto sale hacerlo"
+13:20:19 - Santiago Ruffino (@santi_0898):
+Tengo tres opciones.
+1) Cotizo la investigacion y despues el desarrollo
+2) Cotizo solo el desarrollo pero contando la investigacion. Pero corro el riesgo de que NO agarren el trabajo. Por lo tanto, investigue al pedo
+3) No les trabajo ese proyecto y a la chota
+13:24:58 - Ale Miralles (@amiralles):
+Si es un cliente potable, no veo mal el hecho de hacer la investigacion gratis si no me va a llevar mucho tiempo. De alguna manera es parte de hacer el presupuesto. Si es un cliente que no me cierra, opt 3. De una!
+13:25:58 - Gonzalo González Mora (@gonzalogm):
+El tema es cuanto te lleva esa investigación mepa. Si son realmente 15mins yo la haría y fue jaja y se la incluyo en el precio final pero si es más, ya pensaría si realmente hay muchas chances de que salga el laburo o no. Si hay dudas, la 1
+13:27:40 - Santiago Ruffino (@santi_0898):
+El cliente es mi vieja empresa. Pero los chabones se "aprovechan" de cualquier gris que dejas. Por eso no quiero ser tan "buena onda"
+13:28:35 - Santiago Ruffino (@santi_0898):
+Me paso con un proyecto que lo piden en una semana (lunes a lunes), de los cuales 4 dias no anda la API que tengo que consumir, y siguen con el mismo deadline. Lo quieren para el viernes porque quieren tenerlo corriendo el fin de semana
+13:28:47 - Santiago Ruffino (@santi_0898):
+Quiero ser lo mas "profesional" posible y evitar esas situaciones "dudosas"
+13:29:01 - Ale Miralles (@amiralles):
+Si. Se entiende....
+13:29:40 - Santiago Ruffino (@santi_0898):
+La investigacon es una gilada. Es una pelotudes de Wix. Pero si lo mal acostumbro, despues voy a terminar leyendo toda la documentacion de un proyecto porque no saben que la investigacion se paga
+13:29:53 - Santiago Ruffino (@santi_0898):
+Capaz que me estoy poniendo muy "exquisito". Lo comparto aca para que me reten y me den opniones
+13:30:06 - Gonzalo González Mora (@gonzalogm):
+Claro de una
+13:30:28 - Gonzalo González Mora (@gonzalogm):
+No sé, yo siendo tan poco tiempo la haría. Dsp para otra cosa que lleve más tiempo aclararía que les puedo averiguar encantado cuánto tomaría y demás, pero que eso me va a llevar tiempo y saldría X
+13:30:56 - Gonzalo González Mora (@gonzalogm):
+pero siendo tan poco tiempo no sé si tiene sentido, van a ser dos mangos y por ahí sea un poco chocante
+13:43:32 - Santiago Ruffino (@santi_0898):
+Claro
+13:43:51 - Santiago Ruffino (@santi_0898):
+Capaz que digo "Mira, esta vez no pasa nada porque es algo chico. Pero para otros proyectos, la investigacion se presupuesta aparte"
+13:46:30 - Gonzalo González Mora (@gonzalogm):
+Claro, yo iría tanteando. Si veo que es algo corto como ahora que me lleva realmente muy poco, y veo que los laburos salen, lo agrego al costo final y chau. Si veo que me va a llevar más, o que muchas veces no salen los laburos vería de cobrar aparte los presupuestos.
+13:51:20 - Juan Scolari (@juanscolari):
+Yo evitaria seguir laburando por fuera para mi empresa anterior, como que se mezcla todo
+13:52:02 - Gonzalo González Mora (@gonzalogm):
+Creo que le convenía porque los estaba fajando bastante ahora :moneybag:
+13:52:29 - Juan Scolari (@juanscolari):
+Una opinion nomas igual
+13:52:56 - Gonzalo González Mora (@gonzalogm):
+Se, de una, igual estoy de acuerdo en general, es medio raro jaja
+13:54:34 - Juan Scolari (@juanscolari):
+Despues el tema de la investigacion, me parece que va mas por un estimativo del ROI y depende cada cliente
+13:55:14 - Juan Scolari (@juanscolari):
+Si viene Airbnb y me pide que le cotice algo y tengo que hacer una investigacion de quince minutos, le hago una de dos horas y no se la cobro :smile:
+13:55:54 - Juan Scolari (@juanscolari):
+Deberia cobrarse todo en realidad, pero es tema de negocio
+13:56:12 - Juan Scolari (@juanscolari):
+Por mi experiencia aca nadie quiere pagar un peso hasta que este todo terminado
+14:13:07 - Andrés (@aglobokar):
+Existía una técnica llamada puntos de función que se usaba hace unos 15-20 años... Nada que ver con el planning poker.
+14:21:28 - Martín Valdés de León (@mvaldesdeleon):
+No labures gratis.
+14:24:51 - Martín Valdés de León (@mvaldesdeleon):
+"Hola XYZ, gracias por contactarme y acercarme esta propuesta. Te comento, dadas las circunstancias A, B y C, antes de poder evaluar y pasarles un prespupuesto necesitaria familiarizarme con las teconologias, requerimientos y limitaciones particulares [insertar chamuyo adicional aqui]. Estimo que para esta propuesta, esto demandaria N horas. Al igual que en contratos anteriores, mi precio fijo por hora es de M. Si les interesa seguir adelante, les pediria de coordinar una primer reunion para alinearnos y aclarar dudas, y luego ya una segunda reunion para entregar el presupuesto y discutir los proximos pasos"
+14:24:59 - Martín Valdés de León (@mvaldesdeleon):
+O alguna cagada asi.
+14:25:11 - Andrés (@aglobokar):
+La idea de los puntos en "agile", en cambio, es explicarle al cliente cual es la dificultad que se aprecia en cada tarea. Y que luego el cliente priorice.
+El conflicto luego está en que los que gerencian quieren sprints cortos (para maximizar el control del presupuesto) y las tareas no siempre pueden ser tan cortas. Cuando alguien tiene un sprint con una tarea sola, IMHO, o hay que alargar los sprints o dividir las tareas.
+14:26:06 - Martín Valdés de León (@mvaldesdeleon):
+Si queres levelearlo mas, podes aludir a que no te gustaria darles un analisis/presupuesto de calidad inferior a la que un cliente tan importante esta acostumbrado (como justificativo para el research)
+14:26:44 - Martín Valdés de León (@mvaldesdeleon):
+Y que podes entender si esto escapa a sus expectativas presupuestarias, en cuyo caso quiza podes recomendar a otra persona que ya este familiarizada con esas teconologias, o que por alguna circunstancia quiza pueda ofrecerles otra solucion.
+14:27:30 - Martín Valdés de León (@mvaldesdeleon):
+Pero la linea de fondo es que todo esto es para poder darles un mejor servicio a ellos.
+14:27:46 - Santiago Ruffino (@santi_0898):
+Claro, vender el chamuyo para que ellos sientan que pienso en ellos ?)
+14:28:04 - Juan Scolari (@juanscolari):
+El chamuyo que en el fondo es la realidad
+14:28:07 - Martín Valdés de León (@mvaldesdeleon):
+Es que tampoco es tanto _vender el chamuyo_, porque es verdad
+14:28:10 - Martín Valdés de León (@mvaldesdeleon):
+Eso mismo.
+14:28:11 - Juan Scolari (@juanscolari):
+o sea qu no es chamuyo
+14:28:48 - Juan Scolari (@juanscolari):
+ahi juega tu habilidad comercial para que no lo vean como chamuyo :smile:
+14:28:58 - Martín Valdés de León (@mvaldesdeleon):
+Decirle al cliente que algo se puede hacer cuando resulta que no, no le aporta ningun valor.
+14:29:16 - Martín Valdés de León (@mvaldesdeleon):
+Lo que tu cliente necesita son datos fehacibles que le den predictibilidad a su negocio.
+14:29:25 - Martín Valdés de León (@mvaldesdeleon):
+No le estas pidiendo plata porque si.
+14:29:57 - Santiago Ruffino (@santi_0898):
+Claro
+14:29:59 - Santiago Ruffino (@santi_0898):
+Perfecto
+14:30:01 - Santiago Ruffino (@santi_0898):
+Gracias! :smile:
+14:36:34 - Andrés (@aglobokar):
+Depende lo que consideres Ssr, claro. Conozco alguno arriba de 60k brutos. La inflación hace todo posible.
+17:16:17 - Wilfredo Alcala (@alcalawilfre):
+Consulta: Si envié un telegrama de renuncia para final de mes, puedo retractarme e irme antes? No sé si se puedo enviar otro telegrama o algo así (Sin tener problemas legales).
+17:18:29 - Santiago Ruffino (@santi_0898):
+Te irias ANTES de la fecha que te correspoderia irte?
+17:21:17 - Gonzalo González Mora (@gonzalogm):
+Qué sería lo peor que puede pasar? Que no te paguen los días que no fuiste? :thinking_face:
+17:22:40 - Wilfredo Alcala (@alcalawilfre):
+No sé.. No conozco nada de leyes argentinas y no sé si puedan demandarme o algo así
+17:24:18 - FernandoDV (@javascriptargentina):
+Legalmente lo pueden hacer (Te pueden demandar por hasta un sueldo, si mal no recuerdo). Generalmente no lo hacen pero .... quien te asegura que no?
+17:25:02 - Santiago Ruffino (@santi_0898):
+Exacto. Si te vas ANTES de lo que corresponde, te pueden iniciar una demanda
+17:25:09 - Santiago Ruffino (@santi_0898):
+Pero no sacarte plata de tu liquidacion
+17:25:14 - Santiago Ruffino (@santi_0898):
+Eso es algo que muy pocos saben
+17:28:49 - FernandoDV (@javascriptargentina):
+<http://www.estudiovilaplana.com.ar/el-preaviso/>   aac hablan del tema pero no tocan a ese "detalle". Son las generalidades
+18:01:41 - a0viedo (@a0viedo):
+creo que el abogadev ya contó varias veces que no suelen iniciar demandas por estos casos de renuncia y días de más, días de menos
+18:02:25 - a0viedo (@a0viedo):
+en todo caso mandas otro telegrama con la fecha actualizada
+18:02:54 - Gonzalo González Mora (@gonzalogm):
+Sep, yo tengo ese mismo recuerdo
+18:03:06 - Gonzalo González Mora (@gonzalogm):
+Para mi los números no les dan, les sale más cara la demanda que lo que sacarían
+18:03:15 - Gonzalo González Mora (@gonzalogm):
+entonces ni se gastan
+12:47:47 - Matias Garat Ortiz (@matiasgaratortiz):
+Ojo... en rel de dependencia de 3000u$s bruto me estan quedando unos 2000u$s netos, despues de aportes, dcto prepaga, ganancias... Si esto lo hago por mi cuenta, en mi caso RI, y quiero el mismo plan de prepaga familiar que tengo hoy, solo de prepaga son 400u$s... los impuestos/aportes puede ser muy variado... no seria raro que casi 1k u$s se te vaya
+12:54:04 - Dario Fernando (@someunderscore_):
+tal cual en RI se te va mas de un 1k solo en ganancias a un rate de 25 hora
+13:18:57 - Santiago Ruffino (@santi_0898):
+Como cotizan un proyecto que necesita una etapa de investigacion previa al desarrollo?
+13:19:09 - Santiago Ruffino (@santi_0898):
+Investigacion de 15 minutos. Pero investigacion al fin y al cabo
+13:19:32 - Santiago Ruffino (@santi_0898):
+Porque yo dije "Vos fijate si se puede hacer,  y yo lo desarrollo". Y la respuesta fue "No, busca vos si se puede y cotiza cuanto sale hacerlo"
+13:20:19 - Santiago Ruffino (@santi_0898):
+Tengo tres opciones.
+1) Cotizo la investigacion y despues el desarrollo
+2) Cotizo solo el desarrollo pero contando la investigacion. Pero corro el riesgo de que NO agarren el trabajo. Por lo tanto, investigue al pedo
+3) No les trabajo ese proyecto y a la chota
+13:24:58 - Ale Miralles (@amiralles):
+Si es un cliente potable, no veo mal el hecho de hacer la investigacion gratis si no me va a llevar mucho tiempo. De alguna manera es parte de hacer el presupuesto. Si es un cliente que no me cierra, opt 3. De una!
+13:25:58 - Gonzalo González Mora (@gonzalogm):
+El tema es cuanto te lleva esa investigación mepa. Si son realmente 15mins yo la haría y fue jaja y se la incluyo en el precio final pero si es más, ya pensaría si realmente hay muchas chances de que salga el laburo o no. Si hay dudas, la 1
+13:27:40 - Santiago Ruffino (@santi_0898):
+El cliente es mi vieja empresa. Pero los chabones se "aprovechan" de cualquier gris que dejas. Por eso no quiero ser tan "buena onda"
+13:28:35 - Santiago Ruffino (@santi_0898):
+Me paso con un proyecto que lo piden en una semana (lunes a lunes), de los cuales 4 dias no anda la API que tengo que consumir, y siguen con el mismo deadline. Lo quieren para el viernes porque quieren tenerlo corriendo el fin de semana
+13:28:47 - Santiago Ruffino (@santi_0898):
+Quiero ser lo mas "profesional" posible y evitar esas situaciones "dudosas"
+13:29:01 - Ale Miralles (@amiralles):
+Si. Se entiende....
+13:29:40 - Santiago Ruffino (@santi_0898):
+La investigacon es una gilada. Es una pelotudes de Wix. Pero si lo mal acostumbro, despues voy a terminar leyendo toda la documentacion de un proyecto porque no saben que la investigacion se paga
+13:29:53 - Santiago Ruffino (@santi_0898):
+Capaz que me estoy poniendo muy "exquisito". Lo comparto aca para que me reten y me den opniones
+13:30:06 - Gonzalo González Mora (@gonzalogm):
+Claro de una
+13:30:28 - Gonzalo González Mora (@gonzalogm):
+No sé, yo siendo tan poco tiempo la haría. Dsp para otra cosa que lleve más tiempo aclararía que les puedo averiguar encantado cuánto tomaría y demás, pero que eso me va a llevar tiempo y saldría X
+13:30:56 - Gonzalo González Mora (@gonzalogm):
+pero siendo tan poco tiempo no sé si tiene sentido, van a ser dos mangos y por ahí sea un poco chocante
+13:43:32 - Santiago Ruffino (@santi_0898):
+Claro
+13:43:51 - Santiago Ruffino (@santi_0898):
+Capaz que digo "Mira, esta vez no pasa nada porque es algo chico. Pero para otros proyectos, la investigacion se presupuesta aparte"
+13:46:30 - Gonzalo González Mora (@gonzalogm):
+Claro, yo iría tanteando. Si veo que es algo corto como ahora que me lleva realmente muy poco, y veo que los laburos salen, lo agrego al costo final y chau. Si veo que me va a llevar más, o que muchas veces no salen los laburos vería de cobrar aparte los presupuestos.
+13:51:20 - Juan Scolari (@juanscolari):
+Yo evitaria seguir laburando por fuera para mi empresa anterior, como que se mezcla todo
+13:52:02 - Gonzalo González Mora (@gonzalogm):
+Creo que le convenía porque los estaba fajando bastante ahora :moneybag:
+13:52:29 - Juan Scolari (@juanscolari):
+Una opinion nomas igual
+13:52:56 - Gonzalo González Mora (@gonzalogm):
+Se, de una, igual estoy de acuerdo en general, es medio raro jaja
+13:54:34 - Juan Scolari (@juanscolari):
+Despues el tema de la investigacion, me parece que va mas por un estimativo del ROI y depende cada cliente
+13:55:14 - Juan Scolari (@juanscolari):
+Si viene Airbnb y me pide que le cotice algo y tengo que hacer una investigacion de quince minutos, le hago una de dos horas y no se la cobro :smile:
+13:55:54 - Juan Scolari (@juanscolari):
+Deberia cobrarse todo en realidad, pero es tema de negocio
+13:56:12 - Juan Scolari (@juanscolari):
+Por mi experiencia aca nadie quiere pagar un peso hasta que este todo terminado
+14:13:07 - Andrés (@aglobokar):
+Existía una técnica llamada puntos de función que se usaba hace unos 15-20 años... Nada que ver con el planning poker.
+14:21:28 - Martín Valdés de León (@mvaldesdeleon):
+No labures gratis.
+14:24:51 - Martín Valdés de León (@mvaldesdeleon):
+"Hola XYZ, gracias por contactarme y acercarme esta propuesta. Te comento, dadas las circunstancias A, B y C, antes de poder evaluar y pasarles un prespupuesto necesitaria familiarizarme con las teconologias, requerimientos y limitaciones particulares [insertar chamuyo adicional aqui]. Estimo que para esta propuesta, esto demandaria N horas. Al igual que en contratos anteriores, mi precio fijo por hora es de M. Si les interesa seguir adelante, les pediria de coordinar una primer reunion para alinearnos y aclarar dudas, y luego ya una segunda reunion para entregar el presupuesto y discutir los proximos pasos"
+14:24:59 - Martín Valdés de León (@mvaldesdeleon):
+O alguna cagada asi.
+14:25:11 - Andrés (@aglobokar):
+La idea de los puntos en "agile", en cambio, es explicarle al cliente cual es la dificultad que se aprecia en cada tarea. Y que luego el cliente priorice.
+El conflicto luego está en que los que gerencian quieren sprints cortos (para maximizar el control del presupuesto) y las tareas no siempre pueden ser tan cortas. Cuando alguien tiene un sprint con una tarea sola, IMHO, o hay que alargar los sprints o dividir las tareas.
+14:26:06 - Martín Valdés de León (@mvaldesdeleon):
+Si queres levelearlo mas, podes aludir a que no te gustaria darles un analisis/presupuesto de calidad inferior a la que un cliente tan importante esta acostumbrado (como justificativo para el research)
+14:26:44 - Martín Valdés de León (@mvaldesdeleon):
+Y que podes entender si esto escapa a sus expectativas presupuestarias, en cuyo caso quiza podes recomendar a otra persona que ya este familiarizada con esas teconologias, o que por alguna circunstancia quiza pueda ofrecerles otra solucion.
+14:27:30 - Martín Valdés de León (@mvaldesdeleon):
+Pero la linea de fondo es que todo esto es para poder darles un mejor servicio a ellos.
+14:27:46 - Santiago Ruffino (@santi_0898):
+Claro, vender el chamuyo para que ellos sientan que pienso en ellos ?)
+14:28:04 - Juan Scolari (@juanscolari):
+El chamuyo que en el fondo es la realidad
+14:28:07 - Martín Valdés de León (@mvaldesdeleon):
+Es que tampoco es tanto _vender el chamuyo_, porque es verdad
+14:28:10 - Martín Valdés de León (@mvaldesdeleon):
+Eso mismo.
+14:28:11 - Juan Scolari (@juanscolari):
+o sea qu no es chamuyo
+14:28:48 - Juan Scolari (@juanscolari):
+ahi juega tu habilidad comercial para que no lo vean como chamuyo :smile:
+14:28:58 - Martín Valdés de León (@mvaldesdeleon):
+Decirle al cliente que algo se puede hacer cuando resulta que no, no le aporta ningun valor.
+14:29:16 - Martín Valdés de León (@mvaldesdeleon):
+Lo que tu cliente necesita son datos fehacibles que le den predictibilidad a su negocio.
+14:29:25 - Martín Valdés de León (@mvaldesdeleon):
+No le estas pidiendo plata porque si.
+14:29:57 - Santiago Ruffino (@santi_0898):
+Claro
+14:29:59 - Santiago Ruffino (@santi_0898):
+Perfecto
+14:30:01 - Santiago Ruffino (@santi_0898):
+Gracias! :smile:
+14:36:34 - Andrés (@aglobokar):
+Depende lo que consideres Ssr, claro. Conozco alguno arriba de 60k brutos. La inflación hace todo posible.
+17:16:17 - Wilfredo Alcala (@alcalawilfre):
+Consulta: Si envié un telegrama de renuncia para final de mes, puedo retractarme e irme antes? No sé si se puedo enviar otro telegrama o algo así (Sin tener problemas legales).
+17:18:29 - Santiago Ruffino (@santi_0898):
+Te irias ANTES de la fecha que te correspoderia irte?
+17:21:17 - Gonzalo González Mora (@gonzalogm):
+Qué sería lo peor que puede pasar? Que no te paguen los días que no fuiste? :thinking_face:
+17:22:40 - Wilfredo Alcala (@alcalawilfre):
+No sé.. No conozco nada de leyes argentinas y no sé si puedan demandarme o algo así
+17:24:18 - FernandoDV (@javascriptargentina):
+Legalmente lo pueden hacer (Te pueden demandar por hasta un sueldo, si mal no recuerdo). Generalmente no lo hacen pero .... quien te asegura que no?
+17:25:02 - Santiago Ruffino (@santi_0898):
+Exacto. Si te vas ANTES de lo que corresponde, te pueden iniciar una demanda
+17:25:09 - Santiago Ruffino (@santi_0898):
+Pero no sacarte plata de tu liquidacion
+17:25:14 - Santiago Ruffino (@santi_0898):
+Eso es algo que muy pocos saben
+17:28:49 - FernandoDV (@javascriptargentina):
+<http://www.estudiovilaplana.com.ar/el-preaviso/>   aac hablan del tema pero no tocan a ese "detalle". Son las generalidades
+18:01:41 - a0viedo (@a0viedo):
+creo que el abogadev ya contó varias veces que no suelen iniciar demandas por estos casos de renuncia y días de más, días de menos
+18:02:25 - a0viedo (@a0viedo):
+en todo caso mandas otro telegrama con la fecha actualizada
+18:02:54 - Gonzalo González Mora (@gonzalogm):
+Sep, yo tengo ese mismo recuerdo
+18:03:06 - Gonzalo González Mora (@gonzalogm):
+Para mi los números no les dan, les sale más cara la demanda que lo que sacarían
+18:03:15 - Gonzalo González Mora (@gonzalogm):
+entonces ni se gastan
