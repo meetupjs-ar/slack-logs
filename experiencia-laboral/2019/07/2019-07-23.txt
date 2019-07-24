@@ -1,0 +1,236 @@
+10:08:22 - Santiago Ruffino (@santi_0898):
+Cuando trabajan para un cliente1 que tiene clientes2, alguna vez hablaron directamente con el cliente2?
+10:14:59 - Luis Alvarez (@luistensai):
+sí
+10:15:24 - Luis Alvarez (@luistensai):
+de hecho en un laburo era de cliente1, pero laburaba directo con cliente2 :stuck_out_tongue:
+10:20:58 - Santiago Ruffino (@santi_0898):
+Y esta bueno? O se empieza a generar "ruido"?
+10:21:31 - Santiago Ruffino (@santi_0898):
+Yo lo que no quiero es tener a cliente2 llamandome junto con cliente1, y que llamen a cualquier horario. Porque cliente1 sabe en que horarios puedo atender y cuales no. Pero cliente2 no tiene idea
+10:21:36 - Rodrigo Ali (@rodrigojali):
+A mi experiencia está bueno porque terminás sacándote rápido de encima muchos blockers
+10:22:48 - Martín Valdés de León (@mvaldesdeleon):
+Como todo, depende de cuan "Adultos" sean los involucrados.
+10:23:41 - Martín Valdés de León (@mvaldesdeleon):
+Hablar directo con el cliente real en general es lo mejor, te deja tener un feedback mas rapido y no tenes que ir por canales hasta llegar a quien queres llegar.
+10:23:58 - Martín Valdés de León (@mvaldesdeleon):
+Pero como vos decis, el cliente2 tiene que entender que vos laburas para cliente1, no para el. No te puede pedir nuevas features.
+10:24:08 - Martín Valdés de León (@mvaldesdeleon):
+No te puede hablar de timelines/prioridades/presupuestos/etc.
+10:24:22 - Martín Valdés de León (@mvaldesdeleon):
+Ni llamar porque algo se rompio o whatever.
+10:25:14 - Martín Valdés de León (@mvaldesdeleon):
+Podes establecer procesos donde VOS podes contactar directo al cliente2, pero cliente2 NUNCA puede llamarte a vos directo, siempre tiene que ir via cliente1.
+10:27:01 - Santiago Ruffino (@santi_0898):
+Adultos de 3 años. Jajaja
+10:27:19 - Santiago Ruffino (@santi_0898):
+Me gusta lo de "YO puedo llamar". Vos me podes preguntar si me podes llamar, pero no de una
+10:29:06 - Santiago Ruffino (@santi_0898):
+El "llamar porque algo se rompio" va a pasar seguro. Y eso es lo quiero evitar justamente
+10:31:14 - Martín Valdés de León (@mvaldesdeleon):
+Aclaralo desde el vamos.
+10:31:35 - Martín Valdés de León (@mvaldesdeleon):
+"El contacto directo es un privilegio, no un derecho"
+10:31:59 - Martín Valdés de León (@mvaldesdeleon):
+Sos vos ofreciendote para eliminar procesos y agilizar comunicaciones.
+10:32:30 - Martín Valdés de León (@mvaldesdeleon):
+Si el cliente abusa se acaba el privilegio y volvemos a meetings y calls y emails CC everybody
+10:51:12 - Diego Harari (@diehara):
+Hola Amigos, esta semana tengo una entrevista tecnica en endava para jr, algun tip o consejo para darme???
+10:53:26 - Luis Alvarez (@luistensai):
+rock it :rock:
+10:54:31 - Diego Harari (@diehara):
+jaja si ojala
+11:01:21 - Germán Burgardt (@germanandresburgardt):
+habla mucho, contales en detalle todo lo que has hecho (una api rest completa, una app, un servicio que sube un archivo, etc), cosa que puedan ver con hechos que tenes experiencia
+11:04:49 - Martín Valdés de León (@mvaldesdeleon):
+No tengas miedo a decir que no sabes algo. En lugar de inventar la respuesta, comenta como procederias en una situacion laboral cuando te encontras frente a algo que no sabes.
+11:13:57 - Luis Alvarez (@luistensai):
+hace preguntas vos también, eso muestra interés, ej: en caso de que te contraten qué esperan de vos, del rol que están buscando, cómo sería el día a día, valores de la empresa, etc. También te da una idea de cómo es el ambiente
+12:00:51 - Diego Harari (@diehara):
+gracias! y en cuanto a lo tecnico?
+12:01:03 - Diego Harari (@diehara):
+xp de entrevistas tengo bastante
+12:01:06 - Diego Harari (@diehara):
+pero no de it
+12:09:50 - Luis Alvarez (@luistensai):
+vos decís qué te pueden llegar a preguntar o qué podrías preguntar?
+12:24:08 - Nico Accetta (@nicolas.accetta):
+yo fui a unas pocas y lo que recomiendo es que seas 100% sincero
+12:25:40 - Pablo Miceli (@pablomiceli24):
+podrias preguntar "por qué están buscando a alguien nuevo?"
+12:26:15 - Pablo Miceli (@pablomiceli24):
+como para saber si la empresa esta creciendo (bueno) o los dev estan escapando (malo)
+12:29:46 - Alejandro Gomez (@jagomez967):
+En general el discurso que ponen es el de "estar creciendo".... y así fue como me contrataron para reemplazar al único Dev que había :rolling_on_the_floor_laughing:
+12:36:30 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+<@UCRSAU92S> yo trabajo en Endava, todas las preguntas técnicas que te pueden hacer en la entrevista están acá <https://github.com/h5bp/Front-end-Developer-Interview-Questions> + algun par de ejercicios en donde no importa tanto el código sino como razonas o buscas la solución.
+
+todo lo que mencionaron antes también es 100% válido (ser sincero con lo que no sabes, hablar de como procedes, interes, etc.)
+
+Cualquier otra duda, shoot
+12:37:29 - Diego Harari (@diehara):
+muchas gracias!
+14:26:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola <@UCRSAU92S> me hicieron una entrevista en Endava para Rosario por skype. Super piola y relajada para ver el nivel de Inglés y para preguntarme cosas personales. Según me dijeron el tema Inglés es muy importante porq los clientes se comunican en su mayoría en Inglés.
+
+La entrevista técnica no tengo idea aún pero me pasaron la misma lista de preguntas y respuestas q publicó <@U3BFF2QH4>.
+
+Éxitos!! Y avisá cómo te fue!!!
+14:30:25 - Julian (@jantonielli01):
+cuando ""tenes"" que saber algo, no está mal inventar though
+14:30:44 - Martín Valdés de León (@mvaldesdeleon):
+Ejemplo?
+14:31:49 - Julian (@jantonielli01):
+Te mandas a un laburo fullstack, piden React y Node, sabes react y codeaste back en otra cosa (rails, etc). No sabes node pero sabés que lo podes aprender relativamente rapido. Decís que tenes experiencia y alguna que otra pregunta seguro zafas
+14:32:50 - Martín Valdés de León (@mvaldesdeleon):
+Yo seria honesto en que no se Node pero se suficientes lenguajes similares como para poder ser productivo rapido, no diria que SE node.
+14:33:29 - Martín Valdés de León (@mvaldesdeleon):
+Puedo pasarme un buen rato hablando de cuestiones compartidas entre Node y Rails, como ser HTTP y esas cosas.
+14:36:17 - Julian (@jantonielli01):
+Sep, va bien también, solo digo que no me parece (tan?) mal mentir en algunas cosas en entrevistas
+14:36:25 - Julian (@jantonielli01):
+Calculo que es polemico
+14:47:39 - Joaquín Tumas (@gahen):
+Te banco, pero es polémico. También porque después tenés que laburar de más para que no se note *tanto* que mentiste :stuck_out_tongue:
+14:53:04 - Martín Valdés de León (@mvaldesdeleon):
+Mi "as bajo la manga" en general es decirle al entrevistador que lo mas probable es que en un par de anios las tecnologias que usan van a haber cambiado, y que uno de mis assets es tener suficiente experiencia en distintos entornos para poder ser productivo rapido en lo que venga. Seguro, podes buscarte un experto en tu stack actual, pero vas a estar invirtiendo en alguien cuyo conocimiento seguramente no puedas usar en unos anios anyway.
+14:54:49 - Martín Valdés de León (@mvaldesdeleon):
+Incluso podes transformar tu ignorancia en un asset, porque vas a caer con una vision fresca y ayudar a identificar situaciones que seguramente no se dieron cuenta como consecuencia de group-think.
+14:55:19 - Martín Valdés de León (@mvaldesdeleon):
+Todo en la vida es vender.
+14:58:09 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.youtube.com/watch?v=elrnAl6ygeM>
+16:27:05 - Adrián Velasco (@adrivelasco1506):
+jajaja, la posta es stalkear la empresa en linkedin y ver quienes son empleados actualmente y cuantos lo dejaron de ser
+16:39:53 - Wilfredo Alcala (@alcalawilfre):
+Generalmente, esas cosas saltan en openqube, los devs que se van siempre dejan lindos comentarios
+16:53:32 - Adrián Velasco (@adrivelasco1506):
+hace poco en opeqube dejé un comentario muy picante respecto a mi anterior trabajo, pero a la semana mandé un mail pidiendo que lo borren porque me arrepentí y así fue, lo borraron
+16:59:29 - Wilfredo Alcala (@alcalawilfre):
+jajaja... Yo siempre espero un par de meses para comentar con la cabeza fría, porque si no, comentas solo las malas experiencias por las que te fuiste
+20:47:37 - Julian (@jantonielli01):
+veo que varios laburos aca ofrecen cosas como
+20:47:49 - Julian (@jantonielli01):
+1 día de vacaciones _extra_ por año trabajado
+20:48:19 - Julian (@jantonielli01):
+me parece bastante ridiculo, es totalmente insignificante
+10:08:22 - Santiago Ruffino (@santi_0898):
+Cuando trabajan para un cliente1 que tiene clientes2, alguna vez hablaron directamente con el cliente2?
+10:14:59 - Luis Alvarez (@luistensai):
+sí
+10:15:24 - Luis Alvarez (@luistensai):
+de hecho en un laburo era de cliente1, pero laburaba directo con cliente2 :stuck_out_tongue:
+10:20:58 - Santiago Ruffino (@santi_0898):
+Y esta bueno? O se empieza a generar "ruido"?
+10:21:31 - Santiago Ruffino (@santi_0898):
+Yo lo que no quiero es tener a cliente2 llamandome junto con cliente1, y que llamen a cualquier horario. Porque cliente1 sabe en que horarios puedo atender y cuales no. Pero cliente2 no tiene idea
+10:21:36 - Rodrigo Ali (@rodrigojali):
+A mi experiencia está bueno porque terminás sacándote rápido de encima muchos blockers
+10:22:48 - Martín Valdés de León (@mvaldesdeleon):
+Como todo, depende de cuan "Adultos" sean los involucrados.
+10:23:41 - Martín Valdés de León (@mvaldesdeleon):
+Hablar directo con el cliente real en general es lo mejor, te deja tener un feedback mas rapido y no tenes que ir por canales hasta llegar a quien queres llegar.
+10:23:58 - Martín Valdés de León (@mvaldesdeleon):
+Pero como vos decis, el cliente2 tiene que entender que vos laburas para cliente1, no para el. No te puede pedir nuevas features.
+10:24:08 - Martín Valdés de León (@mvaldesdeleon):
+No te puede hablar de timelines/prioridades/presupuestos/etc.
+10:24:22 - Martín Valdés de León (@mvaldesdeleon):
+Ni llamar porque algo se rompio o whatever.
+10:25:14 - Martín Valdés de León (@mvaldesdeleon):
+Podes establecer procesos donde VOS podes contactar directo al cliente2, pero cliente2 NUNCA puede llamarte a vos directo, siempre tiene que ir via cliente1.
+10:27:01 - Santiago Ruffino (@santi_0898):
+Adultos de 3 años. Jajaja
+10:27:19 - Santiago Ruffino (@santi_0898):
+Me gusta lo de "YO puedo llamar". Vos me podes preguntar si me podes llamar, pero no de una
+10:29:06 - Santiago Ruffino (@santi_0898):
+El "llamar porque algo se rompio" va a pasar seguro. Y eso es lo quiero evitar justamente
+10:31:14 - Martín Valdés de León (@mvaldesdeleon):
+Aclaralo desde el vamos.
+10:31:35 - Martín Valdés de León (@mvaldesdeleon):
+"El contacto directo es un privilegio, no un derecho"
+10:31:59 - Martín Valdés de León (@mvaldesdeleon):
+Sos vos ofreciendote para eliminar procesos y agilizar comunicaciones.
+10:32:30 - Martín Valdés de León (@mvaldesdeleon):
+Si el cliente abusa se acaba el privilegio y volvemos a meetings y calls y emails CC everybody
+10:51:12 - Diego Harari (@diehara):
+Hola Amigos, esta semana tengo una entrevista tecnica en endava para jr, algun tip o consejo para darme???
+10:53:26 - Luis Alvarez (@luistensai):
+rock it :rock:
+10:54:31 - Diego Harari (@diehara):
+jaja si ojala
+11:01:21 - Germán Burgardt (@germanandresburgardt):
+habla mucho, contales en detalle todo lo que has hecho (una api rest completa, una app, un servicio que sube un archivo, etc), cosa que puedan ver con hechos que tenes experiencia
+11:04:49 - Martín Valdés de León (@mvaldesdeleon):
+No tengas miedo a decir que no sabes algo. En lugar de inventar la respuesta, comenta como procederias en una situacion laboral cuando te encontras frente a algo que no sabes.
+11:13:57 - Luis Alvarez (@luistensai):
+hace preguntas vos también, eso muestra interés, ej: en caso de que te contraten qué esperan de vos, del rol que están buscando, cómo sería el día a día, valores de la empresa, etc. También te da una idea de cómo es el ambiente
+12:00:51 - Diego Harari (@diehara):
+gracias! y en cuanto a lo tecnico?
+12:01:03 - Diego Harari (@diehara):
+xp de entrevistas tengo bastante
+12:01:06 - Diego Harari (@diehara):
+pero no de it
+12:09:50 - Luis Alvarez (@luistensai):
+vos decís qué te pueden llegar a preguntar o qué podrías preguntar?
+12:24:08 - Nico Accetta (@nicolas.accetta):
+yo fui a unas pocas y lo que recomiendo es que seas 100% sincero
+12:25:40 - Pablo Miceli (@pablomiceli24):
+podrias preguntar "por qué están buscando a alguien nuevo?"
+12:26:15 - Pablo Miceli (@pablomiceli24):
+como para saber si la empresa esta creciendo (bueno) o los dev estan escapando (malo)
+12:29:46 - Alejandro Gomez (@jagomez967):
+En general el discurso que ponen es el de "estar creciendo".... y así fue como me contrataron para reemplazar al único Dev que había :rolling_on_the_floor_laughing:
+12:36:30 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+<@UCRSAU92S> yo trabajo en Endava, todas las preguntas técnicas que te pueden hacer en la entrevista están acá <https://github.com/h5bp/Front-end-Developer-Interview-Questions> + algun par de ejercicios en donde no importa tanto el código sino como razonas o buscas la solución.
+
+todo lo que mencionaron antes también es 100% válido (ser sincero con lo que no sabes, hablar de como procedes, interes, etc.)
+
+Cualquier otra duda, shoot
+12:37:29 - Diego Harari (@diehara):
+muchas gracias!
+14:26:39 - Aldo Gabriel Rojas (@aldogrojas5):
+Hola <@UCRSAU92S> me hicieron una entrevista en Endava para Rosario por skype. Super piola y relajada para ver el nivel de Inglés y para preguntarme cosas personales. Según me dijeron el tema Inglés es muy importante porq los clientes se comunican en su mayoría en Inglés.
+
+La entrevista técnica no tengo idea aún pero me pasaron la misma lista de preguntas y respuestas q publicó <@U3BFF2QH4>.
+
+Éxitos!! Y avisá cómo te fue!!!
+14:30:25 - Julian (@jantonielli01):
+cuando ""tenes"" que saber algo, no está mal inventar though
+14:30:44 - Martín Valdés de León (@mvaldesdeleon):
+Ejemplo?
+14:31:49 - Julian (@jantonielli01):
+Te mandas a un laburo fullstack, piden React y Node, sabes react y codeaste back en otra cosa (rails, etc). No sabes node pero sabés que lo podes aprender relativamente rapido. Decís que tenes experiencia y alguna que otra pregunta seguro zafas
+14:32:50 - Martín Valdés de León (@mvaldesdeleon):
+Yo seria honesto en que no se Node pero se suficientes lenguajes similares como para poder ser productivo rapido, no diria que SE node.
+14:33:29 - Martín Valdés de León (@mvaldesdeleon):
+Puedo pasarme un buen rato hablando de cuestiones compartidas entre Node y Rails, como ser HTTP y esas cosas.
+14:36:17 - Julian (@jantonielli01):
+Sep, va bien también, solo digo que no me parece (tan?) mal mentir en algunas cosas en entrevistas
+14:36:25 - Julian (@jantonielli01):
+Calculo que es polemico
+14:47:39 - Joaquín Tumas (@gahen):
+Te banco, pero es polémico. También porque después tenés que laburar de más para que no se note *tanto* que mentiste :stuck_out_tongue:
+14:53:04 - Martín Valdés de León (@mvaldesdeleon):
+Mi "as bajo la manga" en general es decirle al entrevistador que lo mas probable es que en un par de anios las tecnologias que usan van a haber cambiado, y que uno de mis assets es tener suficiente experiencia en distintos entornos para poder ser productivo rapido en lo que venga. Seguro, podes buscarte un experto en tu stack actual, pero vas a estar invirtiendo en alguien cuyo conocimiento seguramente no puedas usar en unos anios anyway.
+14:54:49 - Martín Valdés de León (@mvaldesdeleon):
+Incluso podes transformar tu ignorancia en un asset, porque vas a caer con una vision fresca y ayudar a identificar situaciones que seguramente no se dieron cuenta como consecuencia de group-think.
+14:55:19 - Martín Valdés de León (@mvaldesdeleon):
+Todo en la vida es vender.
+14:58:09 - Martín Valdés de León (@mvaldesdeleon):
+<https://www.youtube.com/watch?v=elrnAl6ygeM>
+16:27:05 - Adrián Velasco (@adrivelasco1506):
+jajaja, la posta es stalkear la empresa en linkedin y ver quienes son empleados actualmente y cuantos lo dejaron de ser
+16:39:53 - Wilfredo Alcala (@alcalawilfre):
+Generalmente, esas cosas saltan en openqube, los devs que se van siempre dejan lindos comentarios
+16:53:32 - Adrián Velasco (@adrivelasco1506):
+hace poco en opeqube dejé un comentario muy picante respecto a mi anterior trabajo, pero a la semana mandé un mail pidiendo que lo borren porque me arrepentí y así fue, lo borraron
+16:59:29 - Wilfredo Alcala (@alcalawilfre):
+jajaja... Yo siempre espero un par de meses para comentar con la cabeza fría, porque si no, comentas solo las malas experiencias por las que te fuiste
+20:47:37 - Julian (@jantonielli01):
+veo que varios laburos aca ofrecen cosas como
+20:47:49 - Julian (@jantonielli01):
+1 día de vacaciones _extra_ por año trabajado
+20:48:19 - Julian (@jantonielli01):
+me parece bastante ridiculo, es totalmente insignificante
