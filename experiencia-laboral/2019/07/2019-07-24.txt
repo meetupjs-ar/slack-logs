@@ -1,0 +1,206 @@
+21:04:25 - Aldo Gabriel Rojas (@aldogrojas5):
+Vi uno q decía "cereales en la oficina" no hace mucho
+21:04:38 - Aldo Gabriel Rojas (@aldogrojas5):
+O algo por el estilo
+21:04:58 - Aldo Gabriel Rojas (@aldogrojas5):
+Y bue... hay q vender :joy:
+21:10:58 - Diego Harari (@diehara):
+beneficios: sueldo , no laburar sabado y domingo jajaj
+21:19:08 - Sergio Daniel Xalambrí (@sergiodxa):
+&gt; Cumplimos con las leyes laborales
+21:25:08 - Luciana Portias (@lportias):
+el que para mi se llevo el premio fue el que decia “estamos cerca de la plaza, podes ir a hacer picnics al medio dia”
+21:25:16 - Luciana Portias (@lportias):
+:developers:
+21:29:45 - Leandro Echevarria (@echevarrialeandro):
+Beneficios: Obra Social
+21:29:49 - Leandro Echevarria (@echevarrialeandro):
+Ese fue excelente también
+21:31:20 - Gonza Gluzman (@gonza):
+Menos mal que ya no veo anuncios que pidan programadores ninja
+23:31:40 - Diego Harari (@diehara):
+javascript ninja
+09:10:45 - Aldo Gabriel Rojas (@aldogrojas5):
+:rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing: :rolling_on_the_floor_laughing:
+09:20:36 - Nico (@nicokorn96):
+en uno de mis anteriores laburos tenian ese beneficio
+09:20:43 - Nico (@nicokorn96):
+#truestory
+09:59:45 - Gonza Espeche (@espeche.g):
+ajajj cerca de la plaza, que hdps… “tenemos arboles para ver por la ventana”
+11:26:32 - Rodrigo Ali (@rodrigojali):
+Holi, ¿alguien conoce/laburó en Whiteprompt y tiene algun feedback para dar?
+11:26:43 - Rodrigo Ali (@rodrigojali):
+(los busqué en Glassdoor/Lovemondays pero hay poca info)
+11:27:09 - Rodrigo Ali (@rodrigojali):
+Tengo una entrevista en 3'
+11:27:31 - Pablo Miceli (@pablomiceli24):
+conozco gente que labura ahi y les gusta
+11:28:35 - Jorge Cano (@jorgeucano):
+suerte :stuck_out_tongue:
+11:38:47 - Gonza Gluzman (@gonza):
+:poop:
+14:46:58 - Norman Perrin (@norman):
+Buenas. Pregunta hipotética. Supongan que su jefe les debe plata, pero no hicieron contrato, y ahora su jefe los ignora. Les parecería correcto (y legal) mandarle mail a los clientes de ese jefe con los que trabajaste advertiéndoles que no le paga a sus desarrolladores, o el desarrollador se debería cagar por boludo?
+14:49:55 - Martín Valdés de León (@mvaldesdeleon):
+Mandarle mail a los clientes me parece muy agresivo. Mas que eso, quiza pensaria si quemar al jefe ante posibles futuros devs via twitter.
+14:50:04 - Martín Valdés de León (@mvaldesdeleon):
+“No laburen para pepito porque se borra sin pagar”
+14:50:27 - Martín Valdés de León (@mvaldesdeleon):
+Igualmente chequea con un boga, tema calumnias y eso.
+14:51:05 - Martín Valdés de León (@mvaldesdeleon):
+<@U86A4QH8U> SILVIOSEÑAL
+14:52:07 - Leandro Echevarria (@echevarrialeandro):
+Jefe o cliente? Los veo de manera distinta
+14:52:20 - Norman Perrin (@norman):
+Gracias, casi que le mando privado a silvio directamente jaja, tendría que opinar un abogado. Igual no me parecería agresivo que el desarrollador haga eso comparado a lo que haría el jefe
+14:52:28 - Norman Perrin (@norman):
+Jefe
+14:52:53 - Gonzalo González Mora (@gonzalogm):
+Él labura para un jefe. Al jefe lo contrató cliente X y él quiere contarle a cliente X que jefe no paga, o eso entendí
+14:53:07 - Norman Perrin (@norman):
+Claro
+14:53:20 - Martín Valdés de León (@mvaldesdeleon):
+Ahora, para la proxima: No labures sin firmar contrato.
+14:53:35 - Martín Valdés de León (@mvaldesdeleon):
+Ahi la cagaste vos y medio que te enterraste solo.
+14:53:57 - Norman Perrin (@norman):
+Sí.. :confused:
+14:54:08 - Leandro Echevarria (@echevarrialeandro):
+Tirale prod y desaparecé (?
+14:54:24 - Gonzalo González Mora (@gonzalogm):
+Cuánto tiempo laburaste para ese jefe?
+14:54:59 - Gonzalo González Mora (@gonzalogm):
+freelo o semi relacion de dependencia? si es lo último clavale juicio por tenerte en negro jaj
+14:55:20 - Martín Valdés de León (@mvaldesdeleon):
+Me pregunto si podras cojerlo via IP/Copyright.
+14:55:26 - Martín Valdés de León (@mvaldesdeleon):
+Digo, no le des derecho a usar tu codigo.
+14:55:35 - Martín Valdés de León (@mvaldesdeleon):
+Pq si no hay contrato, la propiedad intelectual es tuya.
+14:55:53 - Martín Valdés de León (@mvaldesdeleon):
+No firmaste nada autorizandolo a usar tu codigo.
+14:56:07 - Martín Valdés de León (@mvaldesdeleon):
+Anyway, lawyer up.
+14:56:43 - Norman Perrin (@norman):
+Sí, lo consulto con boga. Gracias
+14:58:33 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+pero tirale prod con un cronjob
+14:59:18 - Silvio Messina (@smessina):
+Sería legal amparandote en el *Derecho de Huelga*… algo así como una huelga digital en donde podes “denunciar” las irregularidades de tu empleador
+14:59:45 - Norman Perrin (@norman):
+(empleador de afuera)
+15:00:24 - Silvio Messina (@smessina):
+Ahh, remoto… :thinking_face:
+15:03:16 - Silvio Messina (@smessina):
+Creo que podría encuadrarse tambien, quizas no limitarte a mandarle un e-mail, sino incluso en armar tipo una pagina online con tu denuncia, descargo y formas de probar que efectivamente no te pagaron (por ej: una captura de los movimientos de tu cuenta o de la plataforme que uses de cobro, donde se pueda ver claramente que no tuviste acreditaciones).
+15:03:43 - Silvio Messina (@smessina):
+Esto ultimo tachando los datos mas sensibles, pero que se vea claramente y sin dudas que sos vos
+15:14:45 - a0viedo (@a0viedo):
+igual alto garrón también iniciar acciones legales si hubiese contrato y también no ves un sope por un tiempo
+15:15:19 - a0viedo (@a0viedo):
+si es mucha plata tiene sentido
+15:16:58 - Gonza Espeche (@espeche.g):
+y que onda?
+15:21:00 - Gonza Espeche (@espeche.g):
+tiene twitter la empresa? escracharlos por alguna red donde no puedan borrar tu comentarios les va a caber
+15:29:18 - Luciano (@lucho):
+Si, y nunca te comprometas en algo que involucre dinero sin papeles firmados de por medio, con quien sea. Lastimosamente, hay gente que se aprovecha de la nobleza de los demás y pasan éstas cosas.
+16:17:33 - Silvio Messina (@smessina):
+No voy a negar que es mejor tener contrato firmado a no tener nada… pero la eficacia es discutible.
+
+Suponiendo que tuvieras los papeles, todo firmado, pipí-cucú… y pum, hay un incumplimiento.
+
+¿Qui hacemo?… por ahí te metes en un intercambio de mails barderos argumentando lo q dice el contrato y bla bla bla… pero son solo palabras y se las lleva el viento, hasta que realmente tenes la convicción de reclamar por vías legales.
+
+Y si no lo tenes, tmb vas a caer en los reclamos por via legal, porque las cosas no se circunscriben solamente a un acuerdo escrito… todo lo que se haya hecho sirve… los mails, los mensajes, los commits/pusheos, los accesos a las cuentas y plataformasm etc.
+
+A lo que voy es que… más alla de lo escrito, el contractee y el contractor crean un *contrato vivo* con cada una de sus acciones… por lo que todo eso es prueba.
+
+Despues de todo, si negará que habia una relación… ¿por que entonces te pago aquella vez? ¿por que existe X pedido del empleador y X commit del empleado/contratado que resuelve ese pedido, justamente x tiempo despues de haberse pedido?
+16:48:55 - Luciano (@lucho):
+Ahh buena data, gracias Silvio!
+16:58:42 - Rodrigo Ali (@rodrigojali):
+Allegedly le gustó mi perfil para la persona que ne entrevistó, tengo que decir una pretención salarial y cuando la diga, seguimos con la otra etapa de entrevista que es la técnica. No sabía cuánto pedir así que dije algo en plan "la verdad que nunca laburé con este estilo de contratación asi que no sé bien cuánto pedir todavía, tendría que hacer numeros..." para ver si el loco me daba un estimativo o rango, y funcionó, me dijo que pagan entre USD 2k~4k por mes, monotributo. Te pagan vacaciones y te respetan feriados argentinos (pagos), prepaga y aportes van por tu lado. 100% remoto, es una software factory con base en microcentro de Baires, y algunos proyectos pueden pedirte que viajes una vez cada mes/bimestral a Baires a conocer el cliente y tener meetings (depende el proyecto, podés decir que no te cuadra eso y no te asignarian a proyectos con esa mecánica).
+17:05:21 - Pedro (@pedro461):
+linda oferta
+17:08:22 - Rodrigo Ali (@rodrigojali):
+Sep. Vos hacés entrevistas y según los resultados se fijan en qué banda salarial caés y en base a eso te hacen la oferta final. Se te asigna un proyecto y cuando un proyecto cierra, el cliente da un preaviso de 15 días a la empresa esta. Esos 15 días son para cerrar todo (dar acceso a repos, documentar, blah), y después entrás en bench 1 mes (pago), pasado ese mes si no se consiguió asignación a otro proyecto el management habla sobre el caso particular y toman una decisión sobre si dejarte ir o ver qué pingo hacen.
+17:09:03 - Rodrigo Ali (@rodrigojali):
+Por otro lado, pregunté (al ser full remote) cómo manejaban el tema del hardware. Básicamente si estás cómodo con hardware propio lo podés usar, o si querés algún hardware en particular lo podés pedir. Si no, te pueden mandar la misma pc que mandan por default a todos los devs.
+17:14:50 - Mariano Montero (@etmaro):
+Whiteprompt es del mismo de TeraCode
+17:15:32 - Mariano Montero (@etmaro):
+A TeraCode la manejaron muy como el orto. Fue una pena.
+17:31:31 - Julian (@jantonielli01):
+Que empresa es?
+17:33:35 - Raul Palacio (@rpalacio86):
+Hola gente perdón por interrumpir el hilo, pero igual creo que está relacionado. Necesito consejo/guía. Tengo una oferta por 3k u$d mensuales. La propuesta original decía contrato legal por 1000 y el resto offshore. Me tomaron pero me ofrecen los 3k offshore. Es mejor, es peor? Que complicaciones puedo llegar a tener?
+17:35:54 - Martin Bavio (@mbavio):
+depende de muchas cosas, sobretodo de tu estado ante el fisco
+17:36:19 - Martin Bavio (@mbavio):
+pero basicamente vas a estar cobrando 3 mil dolares ilegalmente, por lo cual para el estado vas a figurar como alguien que cobra 0
+17:36:51 - Martin Bavio (@mbavio):
+lo cual dependiendo de tu situacion y tus propias necesidades, puede ser bueno o malo
+17:37:40 - Martin Bavio (@mbavio):
+como ejemplo, puedo darte mi experiencia personal: cuanto empece en esto, aun era soltero y vivia con mis viejos, por ende me importaba un corno la legalidad. Cobraba el 100% de mi sueldo por paypal/payoneer-cuevas/etc.
+17:38:09 - Martin Bavio (@mbavio):
+Luego a medida que mi vida fue avanzando, empece a cobrar mas y tambien mi estado personal fue cambiando, ya que forme pareja y tuve familia
+17:38:41 - Raul Palacio (@rpalacio86):
+Claro para mí sería como un empezar también, por ahí para hacer un año
+17:38:48 - Martin Bavio (@mbavio):
+en un momento la ilegalidad empezo a molestarme un poco, porque ya no me bancaba tener que andar con una mochila con dolares por el centro o no poder tener ni una tarjeta de credito a mi nombre por merito propio
+17:39:20 - Raul Palacio (@rpalacio86):
+Ah claro no está bueno eso
+17:39:24 - Martin Bavio (@mbavio):
+cuando los beneficios de la ilegalidad se volvieron menos _pesados_ que los inconvenientes, decidi legalizarme
+17:39:42 - Martin Bavio (@mbavio):
+pero bueno, fue una decision personal, la cual hoy sostengo pero que tambien trae sus pros y sus contras
+17:39:43 - Pablo Miceli (@pablomiceli24):
+pregunta de ignorante... no se podría hacer monotributo y facturarselo a una empresa inventada de afuera?
+17:39:50 - Pablo Miceli (@pablomiceli24):
+como para tenerla en blanco
+17:40:51 - Raul Palacio (@rpalacio86):
+Gracias por tu respuesta Martín, me voy a tratar de asesorarme con un contador pero seguro acepto, es un gran salto para mí
+17:40:53 - Martin Bavio (@mbavio):
+Por ende, depende de la situacion de cada uno. En tu caso no parecen estar dandote opcion. Si tu caso es que estas empezando y esa plata te parece _too good to be true_, entonces podes darle para adelante y despues ver como va evolucionando tu forma de pensar.
+17:41:25 - Martin Bavio (@mbavio):
+de una, igual el contador mucho no va a poder hacer por vos si es 100% ilegal, mas que ofrecerte formas de que sea menos ilegal :slightly_smiling_face:
+17:41:36 - Raul Palacio (@rpalacio86):
+Claro
+17:42:07 - Martin Bavio (@mbavio):
+4k verdes por monotributo? no se pasa?
+17:42:21 - Martin Bavio (@mbavio):
+Suerte, y felicitaciones por cierto!
+17:42:29 - Raul Palacio (@rpalacio86):
+Es que debe ser algo así porque ellos mencionaron la palabra offshore
+17:44:22 - Raul Palacio (@rpalacio86):
+Lo que tengo miedo es que al blanquear toda esa plata deduciendo impuestos y otros gastos la oferta se parezca a otras que tengo pero para relación de dependencia
+17:44:48 - Raul Palacio (@rpalacio86):
+La empresa es de afuera aclaro
+17:45:01 - Raul Palacio (@rpalacio86):
+Pero tiene oficina aca
+17:47:43 - Silvio Messina (@smessina):
+No, porque en la factura tenes que poner el TaxID (vendría a ser el CUIT de la empresa extranjera).
+
+Si lo falseas estas creando facturación apocrifa… algo bastante penado y con multas heavy
+17:51:05 - Martín Valdés de León (@mvaldesdeleon):
+Silvio mala onda, no dejas a la gente lavar guita en paz
+17:51:12 - Damian C (@damian.crespi):
+Yo cuando hice la cuenta el anio pasado, tenes que considerar, aguinaldo, vacaciones pagas, prepaga, bonos, me acuerdo que hasta x% bruto me rendia relacion de dependencia, despues te empezaba a rendir el monotributo
+17:53:42 - Joaquín Tumas (@gahen):
+podés esperar a uno de los blanqueos que salen cada tanto
+17:57:38 - Silvio Messina (@smessina):
+Bueno ché, eso puede tener repercusiones en eventos futuros
+17:57:49 - Silvio Messina (@smessina):
+viteh!
+18:06:55 - Rodrigo Ali (@rodrigojali):
+Con USD ~2k ya te pasás de Monotributo H, me refería a que vas a ser un "independiente" facturándole a X. Igual te pagan por payoneer, así que medio que podés manejarla como quieras. No me cuadró mucho lo de cobrar por Payoneer tho.
+18:08:16 - Martin Bavio (@mbavio):
+hola viajes a uruguay (?)
+18:17:09 - Raul Palacio (@rpalacio86):
+Jajajajajaj me estás haciendo cambiar el voto
+20:32:20 - Andres Cabana (@andrescabana86):
+por si alguien necesita lavar algo tengo una funcionando
+20:32:36 - Andres Cabana (@andrescabana86):
+es ecologica no uso solventes
