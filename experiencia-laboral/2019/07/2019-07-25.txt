@@ -1,0 +1,733 @@
+21:53:46 - Leandro Echevarria (@echevarrialeandro):
+[Toptal]
+Buenas, que tal? Una amiga tuvo la entrevista por videollamada con la gente de Toptal, todo bien. Eligio el camino de UI Frontend. En estos dias tiene que hacer la prueba tecnica que creo que se hace en otra plataforma, la que es por tiempo y tal (<https://www.codility.com/>) y bueno, como a muchos nos pasaria esta medio cagada en las patas.
+Alguno hizo esta tecnica ya? Como para saber insights de que pueden pedir, tomar, preguntas que siempre hagan. Hasta donde sabe, es HTML/CSS/JS
+22:07:40 - Raul Palacio (@rpalacio86):
+Deme 10
+22:34:12 - Diego Harari (@diehara):
+mejor llamen a saul
+02:56:24 - Julian (@jantonielli01):
+Yo la hice 
+02:56:33 - Julian (@jantonielli01):
+La entrevista técnica esa es una verga
+02:56:40 - Julian (@jantonielli01):
+Al menos la que me tomaron a mi 
+02:56:57 - Julian (@jantonielli01):
+3 ejs algorítmicos, con complejidad creciente 
+02:57:28 - Julian (@jantonielli01):
+Hice los 2 primeros bien, el último no me salía, lo googleé y al toque apareció en stackoverflow
+02:58:02 - Julian (@jantonielli01):
+Después la que te mandan el takehome project es una paja 
+02:58:09 - Julian (@jantonielli01):
+A mi me mandaron uno bastante largo 
+02:58:32 - Julian (@jantonielli01):
+Creo que era hacer una aplicación completa para blogging, estilo Medium (front spa + api) 
+02:58:47 - Julian (@jantonielli01):
+Ahí lo mande a la pija porque era demasiado tiempo 
+08:18:57 - Leandro Echevarria (@echevarrialeandro):
+Hiciste el path de UI frontend y te clavaron con hacer la api también? o.o
+08:38:47 - Pedro (@pedro461):
+Cuando me dicen qeu tengo que hacer un coding challenge (por lo gral siempre son dos) yo les digo “Ok, no tengo problema de hacer el coding challenge, pero solo si una vez que los pase y me contrates me vas a pagar X cantidad de plata, sino está en tus planes no perdamos el tiempo”
+08:38:55 - Pedro (@pedro461):
+me dio buenos resultados aunq parezca agresivo
+08:41:53 - Martín Valdés de León (@mvaldesdeleon):
+Totalmente. No podes comprometer tu tiempo sin siquiera saber si te van a hacer una oferta interesante luego o no.
+08:43:21 - Jorge Cano (@jorgeucano):
+soy mas "fan" de las charlas tecnicas
+08:43:44 - Jorge Cano (@jorgeucano):
+mas cuando el trabajo en 100% remoto
+08:43:58 - Jorge Cano (@jorgeucano):
+eso de perder tiempo escribiendo codigo de ejercicios random mucho no me gusta
+08:51:08 - Leandro Echevarria (@echevarrialeandro):
+Adhiero
+08:54:41 - Martín Valdés de León (@mvaldesdeleon):
+Tambien algo a tener en cuenta: Si el take-home assignment es “perder el tiempo”… realmente te intersa laburar en esa empresa?
+08:55:31 - Martín Valdés de León (@mvaldesdeleon):
+Tal vez no es tanto el criticar las evaluaciones que nos hacen, sino afinar la punteria y empezar a aplicar a laburos/empresas que nos guste lo suficiente conseguir como para estar motivados a la hora de hacer los ejercicios/evaluaciones.
+08:58:21 - Diego Harari (@diehara):
+Buenas! alguno aca labura en globant?
+09:10:51 - Pedro (@pedro461):
+yo Laburé en globant, hace mucho.. si es por una consulta actual no peudo ayudarte, si querés averiguar de la empresa te puedo dar mi opinión
+09:26:53 - Jorge Cano (@jorgeucano):
+yo dure dos semanas en globant :stuck_out_tongue:
+09:32:22 - Diego Harari (@diehara):
+jaja 
+09:32:23 - Diego Harari (@diehara):
+dos semanas?
+09:33:34 - Pedro (@pedro461):
+no les diste tiempo a que te hagan la evaluación anual :stuck_out_tongue:
+09:58:11 - Jorge Cano (@jorgeucano):
+eh pero me pagaron como 2 meses xD
+09:58:13 - Jorge Cano (@jorgeucano):
+y vacaciones
+21:53:46 - Leandro Echevarria (@echevarrialeandro):
+[Toptal]
+Buenas, que tal? Una amiga tuvo la entrevista por videollamada con la gente de Toptal, todo bien. Eligio el camino de UI Frontend. En estos dias tiene que hacer la prueba tecnica que creo que se hace en otra plataforma, la que es por tiempo y tal (<https://www.codility.com/>) y bueno, como a muchos nos pasaria esta medio cagada en las patas.
+Alguno hizo esta tecnica ya? Como para saber insights de que pueden pedir, tomar, preguntas que siempre hagan. Hasta donde sabe, es HTML/CSS/JS
+22:07:40 - Raul Palacio (@rpalacio86):
+Deme 10
+22:34:12 - Diego Harari (@diehara):
+mejor llamen a saul
+02:56:24 - Julian (@jantonielli01):
+Yo la hice 
+02:56:33 - Julian (@jantonielli01):
+La entrevista técnica esa es una verga
+02:56:40 - Julian (@jantonielli01):
+Al menos la que me tomaron a mi 
+02:56:57 - Julian (@jantonielli01):
+3 ejs algorítmicos, con complejidad creciente 
+02:57:28 - Julian (@jantonielli01):
+Hice los 2 primeros bien, el último no me salía, lo googleé y al toque apareció en stackoverflow
+02:58:02 - Julian (@jantonielli01):
+Después la que te mandan el takehome project es una paja 
+02:58:09 - Julian (@jantonielli01):
+A mi me mandaron uno bastante largo 
+02:58:32 - Julian (@jantonielli01):
+Creo que era hacer una aplicación completa para blogging, estilo Medium (front spa + api) 
+02:58:47 - Julian (@jantonielli01):
+Ahí lo mande a la pija porque era demasiado tiempo 
+08:18:57 - Leandro Echevarria (@echevarrialeandro):
+Hiciste el path de UI frontend y te clavaron con hacer la api también? o.o
+08:38:47 - Pedro (@pedro461):
+Cuando me dicen qeu tengo que hacer un coding challenge (por lo gral siempre son dos) yo les digo “Ok, no tengo problema de hacer el coding challenge, pero solo si una vez que los pase y me contrates me vas a pagar X cantidad de plata, sino está en tus planes no perdamos el tiempo”
+08:38:55 - Pedro (@pedro461):
+me dio buenos resultados aunq parezca agresivo
+08:41:53 - Martín Valdés de León (@mvaldesdeleon):
+Totalmente. No podes comprometer tu tiempo sin siquiera saber si te van a hacer una oferta interesante luego o no.
+08:43:21 - Jorge Cano (@jorgeucano):
+soy mas "fan" de las charlas tecnicas
+08:43:44 - Jorge Cano (@jorgeucano):
+mas cuando el trabajo en 100% remoto
+08:43:58 - Jorge Cano (@jorgeucano):
+eso de perder tiempo escribiendo codigo de ejercicios random mucho no me gusta
+08:51:08 - Leandro Echevarria (@echevarrialeandro):
+Adhiero
+08:54:41 - Martín Valdés de León (@mvaldesdeleon):
+Tambien algo a tener en cuenta: Si el take-home assignment es “perder el tiempo”… realmente te intersa laburar en esa empresa?
+08:55:31 - Martín Valdés de León (@mvaldesdeleon):
+Tal vez no es tanto el criticar las evaluaciones que nos hacen, sino afinar la punteria y empezar a aplicar a laburos/empresas que nos guste lo suficiente conseguir como para estar motivados a la hora de hacer los ejercicios/evaluaciones.
+08:58:21 - Diego Harari (@diehara):
+Buenas! alguno aca labura en globant?
+09:10:51 - Pedro (@pedro461):
+yo Laburé en globant, hace mucho.. si es por una consulta actual no peudo ayudarte, si querés averiguar de la empresa te puedo dar mi opinión
+09:26:53 - Jorge Cano (@jorgeucano):
+yo dure dos semanas en globant :stuck_out_tongue:
+09:32:22 - Diego Harari (@diehara):
+jaja 
+09:32:23 - Diego Harari (@diehara):
+dos semanas?
+09:33:34 - Pedro (@pedro461):
+no les diste tiempo a que te hagan la evaluación anual :stuck_out_tongue:
+09:58:11 - Jorge Cano (@jorgeucano):
+eh pero me pagaron como 2 meses xD
+09:58:13 - Jorge Cano (@jorgeucano):
+y vacaciones
+09:58:15 - Jorge Cano (@jorgeucano):
+cuando me fui xD
+10:12:23 - Tomas (@tcastilloboireau):
+Yo estuve trabajando ahi hasta hace poco
+10:39:42 - Rodrigo Ali (@rodrigojali):
+Yo laburé en Globant el año pasado <@UCRSAU92S>
+10:56:58 - Julian (@jantonielli01):
+Ahora que me decís no recuerdo si era full stack 
+11:00:43 - Joaquín Tumas (@gahen):
+Globant = :skull: salvo que seas muuuuy senior o muy junior y te sirva cobrar chirolas e irte apenas tengas experiencia para conseguir un laburo decente (&lt;1 año)
+11:01:45 - Joaquín Tumas (@gahen):
+más concretamente si no te dicen cuanto vas a cobrar de toque ni vayas, yo cometí ese error (pregunté en cada etapa y nunca me respondieron hasta haberme hecho perder muuucho tiempo)
+11:11:42 - Martín Valdés de León (@mvaldesdeleon):
+Globant tiene proyectos con EA, o tenia o algo, no?
+11:13:47 - Santiago Ruffino (@santi_0898):
+Tiene me parece
+11:16:26 - Rodrigo Ali (@rodrigojali):
+Tiene.
+11:20:26 - Martín Valdés de León (@mvaldesdeleon):
+Un conocido metio un tiempo ahi y dps se paso a Google.
+11:20:28 - Martín Valdés de León (@mvaldesdeleon):
+¯\_(ツ)_/¯
+11:22:55 - Nico (@nicokorn96):
+que trucazo no?
+11:23:38 - Nico (@nicokorn96):
+nose a mi me llaman cada 2 x3 de globant, tuve 3 o 4 entrevistas pero no confio
+11:23:54 - Nico (@nicokorn96):
+(para diferentes proyectos)
+11:24:14 - Wilfredo Alcala (@alcalawilfre):
+3 o 4 entrevistas con la misma empresa ya es una amistad
+11:24:33 - Gonzalo González Mora (@gonzalogm):
+Tenía enteniddo que no pagan muy bien igual no?
+11:24:41 - Gonzalo González Mora (@gonzalogm):
+onda, vs empresa que pague en USD
+11:24:59 - Juan Scolari (@juanscolari):
+vs empresas que paguen en $$ aca
+11:25:03 - Joaquín Tumas (@gahen):
+en su momento circulaba una encuestas de sueldos y eran una verguenza salvo para los senior senior
+11:25:14 - Gonzalo González Mora (@gonzalogm):
+Claro
+11:25:40 - Nico (@nicokorn96):
+me llamaron para EA.. para trabajos en php... en node... cuando recien arranque para los bootcamps me llamaron
+11:25:46 - Joaquín Tumas (@gahen):
+y hay un video del dueño diciendo que la gente no labura en globant por la guita (?)
+11:26:08 - Nico (@nicokorn96):
+el problema es que los recruiters no hablan entre si y dicen "che a este ya lo llamamos no?"
+11:26:15 - Martín Valdés de León (@mvaldesdeleon):
+te pagamos en la anecdota de poder decir que laburaste con clientes importantes (?)
+11:26:51 - Nico (@nicokorn96):
+labura por el amor al arte?
+11:29:27 - Juan Scolari (@juanscolari):
+ya tienen delirios de grandeza
+11:30:08 - Juan Scolari (@juanscolari):
+el prestigio te lo tenes que ganar en la comunidad, no en la bolsa
+11:30:32 - Juan Scolari (@juanscolari):
+hablando de los developers, claro
+11:30:59 - Pablo Miceli (@pablomiceli24):
+yo siempre le re escape a esas empresas por la fama que tienen xd
+11:31:46 - Santiago Ruffino (@santi_0898):
+Yo tengo prestigio? Jajajaja
+11:32:26 - Santiago Ruffino (@santi_0898):
+Yo tengo compañeros que trabajando en Globant, los llamaban de RRHH de otros proyectos y cuando les decia "Ya estoy en Globant" le decian "Ahh, bueno. No queres venir a nuestro proyecto?"
+11:33:39 - Martín Valdés de León (@mvaldesdeleon):
+Aca en la intranet te recomiendan otras posiciones dentro de la empresa para que te cambies
+11:35:31 - Leandro Echevarria (@echevarrialeandro):
+Yo postularía a <@U0TFEHWEA> como gurú de Meetupjs
+11:37:51 - Gonza Espeche (@espeche.g):
+a un Jr en Globant le garpan entre 25 a 40 en mano aprox, dependiendo el nivel (tenes Jr. trainee, Jr basico y Jr advance)
+11:37:54 - Rodrigo Ali (@rodrigojali):
+Digan lo que quieran de Globant, pero es altísima empresa para AL MENOS pasar. El unico punto malo que le veo es la política salarial al día de hoy.
+11:37:57 - Luciana Portias (@lportias):
+a mi me paso algo parecido con Global logic... despues de 4 entrevistas y sabiendo lo que yo pretendia, me ofrecen menos por una posicion que yo estaba sobrecalificada para ocupar.. :face_with_rolling_eyes:
+11:38:09 - Rodrigo Ali (@rodrigojali):
+Te da chapa, le pese a quien le pese.
+11:38:23 - Rodrigo Ali (@rodrigojali):
+Y tenés la posibilidad de aprender y crecer muchísimo.
+11:39:09 - Luciana Portias (@lportias):
+eso no era uno de los capos de Mercado libre?
+11:39:49 - Martín Valdés de León (@mvaldesdeleon):
+Ahi entran las circunstancias de cada uno. Tambien estimo que en empresas grandes es jodido hacer generalizaciones que abarquen a toda la empresa.
+11:39:54 - Gonza Espeche (@espeche.g):
+Seh... si sos Jr es un buen lugar para empezar. Si ya tenes vuelo y sos pillo con el inglés, podes ir a otras ligas.
+11:40:15 - Martín Valdés de León (@mvaldesdeleon):
+En general vos vas a estar expuesto a ciertos proyectos/equipos y that’s it.
+11:45:39 - Joaquín Tumas (@gahen):
+no me sorprendería que también xD pero no, el que digo es josé globant, o como se llame
+11:54:14 - Jorge Cano (@jorgeucano):
+a mi me re mintieron
+11:54:23 - Jorge Cano (@jorgeucano):
+iba a entrar a un proyecto angular en disney
+11:54:25 - Jorge Cano (@jorgeucano):
+y el dia que firme
+11:54:31 - Jorge Cano (@jorgeucano):
+me llamaron para cambiarme de lugar de trabajo
+11:54:41 - Jorge Cano (@jorgeucano):
+y me metieron en otro lugar sin hacer nada
+11:54:48 - Jorge Cano (@jorgeucano):
+cuando me dijieron del proyecto era jp morgan
+11:54:50 - Jorge Cano (@jorgeucano):
+y hacian casi todo con react
+11:54:59 - Jorge Cano (@jorgeucano):
+y me fui esa tarde y no volvi mas
+11:55:06 - Joaquín Tumas (@gahen):
+solo espero que tu frase de despedida haya sido "nos vemos en disney"
+11:55:11 - Martín Valdés de León (@mvaldesdeleon):
+Igual ese tipo de cosas pasa en todos lados.
+11:55:19 - Martín Valdés de León (@mvaldesdeleon):
+Escuche las mismas historias en amazon, google, etc.
+11:55:24 - Julian (@jantonielli01):
+&gt; Disney? Quise decir `This, nay`
+11:55:47 - Gonzalo González Mora (@gonzalogm):
+jaajaj
+11:55:52 - Martín Valdés de León (@mvaldesdeleon):
+Tienen gente en el pipeline y puestos a llenar, y medio que first come first serve a la salida del pipeline
+11:56:04 - Gonzalo González Mora (@gonzalogm):
+Se un conocido tmb estuvo MESES sin proyecto, se fue a la mierda
+11:56:05 - Martín Valdés de León (@mvaldesdeleon):
+Entonces pasa que para cuando firmaste el puesto que te habian ofrecido de entrada se lleno pero hay otros.
+11:56:20 - Martín Valdés de León (@mvaldesdeleon):
+A lo sumo es una entrevista mas con el nuevo hiring manager y ya.
+11:56:29 - Jorge Cano (@jorgeucano):
+tardaron 3 dias en hacer todo para que firme
+11:56:39 - Jorge Cano (@jorgeucano):
+fue bastante fea la situacion
+11:56:41 - Jorge Cano (@jorgeucano):
+va todavia no me gusto
+11:56:47 - Julian (@jantonielli01):
+El problema es laburar 
+11:56:50 - Julian (@jantonielli01):
+Es un bajón
+11:57:04 - Jorge Cano (@jorgeucano):
+cuando entras firmas todo en una mesa grande con otros
+11:57:16 - Jorge Cano (@jorgeucano):
+y ponen en "empresas" distintas a los que tienen mas alto "rango"
+11:57:22 - Jorge Cano (@jorgeucano):
+y se lo hacen saber a todos
+11:58:00 - Martín Valdés de León (@mvaldesdeleon):
+Aca todos tenemos “rango”, y podes revisar el rango de cualquiera.
+11:58:00 - Martín Aimar (@maimar):
+podés estar meses sin proyecto y te pagan igual?
+11:58:14 - Jorge Cano (@jorgeucano):
+sisi, pero a lo que voy es lo siguiente
+11:58:19 - Jorge Cano (@jorgeucano):
+cuando entras, entran de a 20 personas
+11:58:19 - Julian (@jantonielli01):
+En algunos si, en otros no 
+11:58:43 - Jorge Cano (@jorgeucano):
+y te dice, "quien es X, porque X entro como Z y firma para otra empresa de globant"
+11:59:12 - Jorge Cano (@jorgeucano):
+Si te  paggan.... pero si eentras deespues deel 15tardann mas en  pagarte
+11:59:22 - Jorge Cano (@jorgeucano):
+te pueden deecir hasta que van a tratar de no pagarte hasta el otro mes
+11:59:27 - Jorge Cano (@jorgeucano):
+osea te pagan un mes y medio
+11:59:31 - Jorge Cano (@jorgeucano):
+algo cero legal
+12:00:46 - Germán Burgardt (@germanandresburgardt):
+yo estuve como 4 meses en el limbo sin proyecto
+12:00:52 - Germán Burgardt (@germanandresburgardt):
+había dias que directamente ni iba
+12:01:49 - Joaquín Tumas (@gahen):
+yo re estaría sin laburar, mientras esté blanqueado y pueda dedicarme a hacer otras cosas :stuck_out_tongue:
+12:01:54 - Jorge Cano (@jorgeucano):
+ahhhh
+12:01:59 - Jorge Cano (@jorgeucano):
+no te dejaban usar tu computadora
+12:02:08 - Julian (@jantonielli01):
+Es la posta 
+12:02:10 - Jorge Cano (@jorgeucano):
+porque jpmorgan no dejaba que nadie use nada
+12:02:17 - Jorge Cano (@jorgeucano):
+entonces, era super aburrido estar ahi
+12:02:25 - Julian (@jantonielli01):
+Jajajaj malísimo
+12:02:32 - Julian (@jantonielli01):
+Que bajón laburar en esas empresas 
+12:02:44 - Gonza Espeche (@espeche.g):
+JPM es un bunker sovietico
+12:02:53 - Julian (@jantonielli01):
+Yo conozco gente que trabaja en equipos de “tecnología” de cosas como Galicia 
+12:03:01 - Julian (@jantonielli01):
+No entiendo como no se pegan un tiro cada día 
+12:03:15 - Julian (@jantonielli01):
+Es extremadamente verga el laburo que tienen que hacer 
+12:03:22 - Joaquín Tumas (@gahen):
+hay que hacer una célula de rescate de devs de esas condiciones
+12:03:33 - Julian (@jantonielli01):
+Yo creo que muchos lo prefieren
+12:03:41 - Martín Valdés de León (@mvaldesdeleon):
+Mandenlos al slack
+12:03:43 - Julian (@jantonielli01):
+Los comfortzoneros 
+12:03:58 - Julian (@jantonielli01):
+Una mierda el laburo, pero no hay que hacer tanto y seguro nunca te echan 
+12:04:03 - Martín Valdés de León (@mvaldesdeleon):
+Pero si. Hay gente q esta en la misma empresa mismas responsabilidades por decadas
+12:04:19 - Martín Valdés de León (@mvaldesdeleon):
+Q se lo toman como un laburo de oficina mas y ya
+12:04:25 - Martín Valdés de León (@mvaldesdeleon):
+Cada cual con lo suyo
+12:04:48 - Martín Valdés de León (@mvaldesdeleon):
+Mi estadistica inventada es q el bulk del codigo tipeado worldwide lo tipea esa gente
+12:04:59 - Pedro (@pedro461):
+cuando estan en “bench” (el limbo para algunos)..estan lavando guita.. es obvio jajaja
+12:06:24 - Martín Valdés de León (@mvaldesdeleon):
+Igual yo tuve una observacion similar mientras estudiaba en la facu… pense que por estudiar exactas iba a encontrarme gente motivada, pero resulto que el grueso estaba estudiando exactas porque “el viejo es de exactas” o “el hermano es de exactas”, tal cual la gente que hace medicina o abogacia sin tener idea de nada
+12:06:25 - Joaquín Tumas (@gahen):
+tomandolo en serio, como sería? porque tienen que darte un recibo de sueldo y no se pueden quedar con esa guita... salvo que no te den el recibo de sueldo
+12:06:27 - Luciana Portias (@lportias):
+me da miedo que sea una vision de varios capos de empresas... :developers:
+12:06:48 - Martín Valdés de León (@mvaldesdeleon):
+Y que dps entran en el ritmo confrotzonero de repetir las mismas filminas en cada clase, publicar para subsistir, etc.
+12:07:07 - Joaquín Tumas (@gahen):
+como diría bill gates en los simpsons "no me hice rico firmando cheques"
+12:08:52 - Luciana Portias (@lportias):
+no, pero estafar a tus empleados tampoco es la que va...
+12:09:00 - Gonza Espeche (@espeche.g):
+te pagan a fin de mes, estes en el limbo o en un proyecto
+12:09:21 - Pedro (@pedro461):
+bueno sacando que mi comentario no era nada serio… para lavar guita necesitar gastar guita… el que paga es el cliente.. yo hablo del cliente no de Globant.. :wink:
+12:10:33 - Pedro (@pedro461):
+A Globant le da igual, si cobra -&gt; cobrás… pero mas arriba habían hablado de jpmorgan, en el limbo, sin laburar, cobrando… maths
+12:11:13 - Pedro (@pedro461):
+hay muchísima gente que aprende a programar “porq se gana buena guita”
+12:11:47 - Joaquín Tumas (@gahen):
+el negocio de las consultoras es quedarse directamente con parte de lo que el cliente paga por tu trabajo, en ese contexto es razonable (para mí) que la mayoría de los dueños sean unos soretes. En el caso de Mercado Libre estoy de acuerdo que tener esa perspectiva los debe perjudicar y es más sorprendente, pero bueno, hay que ser un poco garca para ser empresario exitoso
+12:11:47 - Pedro (@pedro461):
+yo me canso de decir que no es algo fácil, ni mucho menos divertido para cualquiera… me gustaría puntualizar que por lo menos yo siento una vocación por esto
+12:12:40 - Martín Valdés de León (@mvaldesdeleon):
+Es lo mismo que paso hace unos años con los MBA
+12:13:03 - Martín Valdés de León (@mvaldesdeleon):
+Bocha de gente pagando su MBA pensando que eso automaticamente les consigue laburo de ejecutivo
+12:13:05 - Jorge Cano (@jorgeucano):
+osea igual me parece bien
+12:13:05 - a0viedo (@a0viedo):
+yo tengo un amigo que tiene doctorado de exactas en cs de la computación y se dedica a asesoramiento financiero, nada que ver
+12:13:11 - Jorge Cano (@jorgeucano):
+que gente quiera programar porque paga bien
+12:13:17 - Jorge Cano (@jorgeucano):
+no todos tienen que ser apasionados en sut rabajo
+12:13:19 - Jorge Cano (@jorgeucano):
+mientras lo hagan bien
+12:13:39 - Diego Harari (@diehara):
+<@U0TFEHWEA> vos como te formaste? como comentaste que estudiaste otra carrera
+12:13:44 - Rodrigo Ali (@rodrigojali):
+Yo en gran parte me metí por eso, porque tiene demasiadas bondades este rubro
+12:13:47 - Rodrigo Ali (@rodrigojali):
+AL menos hoy
+12:13:51 - Carlos Manotas (@carlosmanotas):
+con pasion el trabajo no es trabajo
+12:14:01 - Diego Harari (@diehara):
+es interesante para los q no somos universitarios tipo utn ssber ese camino
+12:14:07 - Diego Harari (@diehara):
+de alguien grosso
+12:14:56 - Martín Valdés de León (@mvaldesdeleon):
+En primer año del secundario un amigo me mostro un programita que habia hecho en visual basic que era una ventana con un boton de cerrar, y cuando ibas a apretar el boton se movia y “se te escapaba”.
+12:15:21 - Martín Valdés de León (@mvaldesdeleon):
+Dps de eso me fui al Parque Rivadavia, me compre una copia de VB5, me fui a Cuspide, me compre “Aprender Visual Basic 5 en 21 dias” o alguna cagada asi
+12:15:24 - Martín Valdés de León (@mvaldesdeleon):
+Y el resto es historia
+12:15:40 - Diego Harari (@diehara):
+jaja
+12:16:10 - Martín Valdés de León (@mvaldesdeleon):
+De ahi en mas por varios años me la pase en Cuspide hojeando libros y comprando alguno cada ciertos meses
+12:16:20 - Martín Valdés de León (@mvaldesdeleon):
+(Cuspide es/era una muy buena libreria tecnica de bs as)
+12:16:28 - Jorge Cano (@jorgeucano):
+era
+12:16:29 - Diego Harari (@diehara):
+si lo es
+12:16:31 - Diego Harari (@diehara):
+era
+12:16:32 - Jorge Cano (@jorgeucano):
+lastimosamete ya no tiene tanto
+12:16:35 - Jorge Cano (@jorgeucano):
+o casi nada
+12:16:39 - Diego Harari (@diehara):
+ahora hay windows 3.11
+12:16:44 - Diego Harari (@diehara):
+a $50000
+12:16:49 - Martín Valdés de León (@mvaldesdeleon):
+WebDeb arranque con un libro de HTML de PcUsers
+12:16:51 - Jorge Cano (@jorgeucano):
+yo compre buenos libros en su momento
+12:16:53 - Diego Harari (@diehara):
+pero bookdep es lo mas
+12:16:59 - Martín Valdés de León (@mvaldesdeleon):
+y dps me consegui un HTML4 Unleashed de como 2000 paginas que era la gloria
+12:17:11 - Martín Valdés de León (@mvaldesdeleon):
+otra joyita fue una biblia de la win32 API
+12:17:14 - Diego Harari (@diehara):
+mucho libro 
+12:17:17 - Diego Harari (@diehara):
+es la posta
+12:17:19 - Martín Valdés de León (@mvaldesdeleon):
+para poder hacer todas esas cosas que visual basic no me dejaba
+12:17:24 - Martín Valdés de León (@mvaldesdeleon):
+como usar iconos en un menu bar
+12:17:26 - Martín Valdés de León (@mvaldesdeleon):
+….
+12:17:26 - Diego Harari (@diehara):
+cleancode y esos tmb?
+12:17:35 - Martín Valdés de León (@mvaldesdeleon):
+Ese tipo de cosas vinieron mucho despues.
+12:19:17 - Martín Valdés de León (@mvaldesdeleon):
+Clean Code nunca lo lei, pero puedo recomendar The Pragmatic Programmer, Peopleware, The Mythical Man Month y Rapid Development.
+12:19:48 - Martín Valdés de León (@mvaldesdeleon):
+Pero todo eso es ya para gente que tiene seniority y esta pensando mas en como profesionalizar su trabajo y volcarse mas a technical leadership y demas
+12:21:02 - Martín Valdés de León (@mvaldesdeleon):
+Igual, como dijo alguien antes: Tenes que tener vocacion.
+12:21:26 - Martín Valdés de León (@mvaldesdeleon):
+Estas cosas las aprendi por placer, no por obligacion o para tener trabajo o whatever.
+12:21:46 - Rodrigo Ali (@rodrigojali):
+Yo creo que ayuda tener vocación pero que no es mandatory
+12:22:03 - Joaquín Tumas (@gahen):
+Como persona muy paja de estudiar haría el contrapunto de que, si te gusta, laburando también podés crecer relativamente rápido
+12:22:18 - Rodrigo Ali (@rodrigojali):
+Porque la vocación también podés "descubrirla" con el paso del tiempo, que puede implicar semanas, meses o años. O que directamente nunca la descubras
+12:23:03 - Joaquín Tumas (@gahen):
+si no te quedás en laburos de mierda cuando ya no te enseñan nada y siempre tratando de aprender lo más posible
+12:23:39 - Martín Valdés de León (@mvaldesdeleon):
+angsty teenager mode on, pero <http://www.phrack.org/archives/issues/7/3.txt> sigue resultandome relevante
+12:24:01 - Martín Valdés de León (@mvaldesdeleon):
+como cuando lo lei de adolescente
+12:24:32 - Gonza Espeche (@espeche.g):
+podes laburar por la guita, pero si te gusta ya vas con un motorcito fuera de borda adicional
+12:24:48 - Rodrigo Ali (@rodrigojali):
+En eso estamos 100% de acuerdo
+12:25:11 - Luis Alvarez (@luistensai):
+perdón por la intromisión, cómo se llama la página que es como <http://glassdoor.com|glassdoor.com> pero de acá?
+12:25:33 - Joaquín Tumas (@gahen):
+<https://www.openqube.io/> ?
+12:25:38 - Martín Valdés de León (@mvaldesdeleon):
+El tema de la vocacion para mi pasa por la motivacion a hacer cosas que exceden a tus responsabilidades asignadas.
+12:26:09 - Martín Valdés de León (@mvaldesdeleon):
+Es jodido decidir hacerse cargo de cosas que no te corresponden solo porque sabes que podrian ser mejor, y tomar esos riesgos, si tu cheque no depende de que lo hagas.
+12:26:12 - Luis Alvarez (@luistensai):
+esa misma! gracias!
+12:26:19 - Martín Valdés de León (@mvaldesdeleon):
+Y ese tipo de cosas son las que mas te hacen avanzar en la carrera.
+12:28:34 - Wilfredo Alcala (@alcalawilfre):
+Yo he descubierto también, que no es sólo programar. A mi me encanta programar, pero a veces me mandan a hacer cosas que jamás las haría si no me estuvieran pagando, en ese momento que sé que estoy programando solo por plata y no por vocación, me empiezo a sentir mal. Me está pasando en esta empresa (por eso trabajo hasta mañana), que como que no me interesa para nada el mercado en el que están, entonces, por más que me guste la tecnología que usan, no siento motivación en mojorar los productos porque no me interesa ni un poquito el mercado en el que están
+12:30:41 - Martín Valdés de León (@mvaldesdeleon):
+En ese tipo de situaciones yo trato de enfocarme mas en algun non-functional-requirement
+12:30:56 - Martín Valdés de León (@mvaldesdeleon):
+por ejemplo, laburar en el build pipeline, mejorar las buenas practicas, etc.
+12:31:43 - Martín Valdés de León (@mvaldesdeleon):
+Trata de identificar _que_ parte del proyecto podes alinear con tus metas personales y concentrate en eso
+12:31:59 - Martín Valdés de León (@mvaldesdeleon):
+En general siempre hay algo que podes alinear. Si realmente no hay NADA, cambia de laburo o pedi que te reasignen de proyecto.
+12:58:44 - Diego Harari (@diehara):
+obvio que la
+vocacion
+12:58:50 - Diego Harari (@diehara):
+y pasion son un motor
+12:59:01 - Diego Harari (@diehara):
+no imagino el que hace esto solo por guita
+12:59:07 - Diego Harari (@diehara):
+lo que debe sufrir
+13:00:13 - Joaquín Tumas (@gahen):
+hay gente haciendo cosas mucho peores y cobrando mucho menos
+13:00:33 - Joaquín Tumas (@gahen):
+diría que la mayoría de las personas :stuck_out_tongue:
+13:02:43 - Pedro (@pedro461):
+la guita te lo peude hacer mas “lindo” por así decirlo… pero en mi opinión sentir vocación y pasión por esto hace que realmente me den ganas todos los días de estar haciendolo y disfrutandolo
+13:03:05 - Pedro (@pedro461):
+se puede cobrar muy bien haciendo cosas menos estresantes jajaja
+13:17:25 - Martín Valdés de León (@mvaldesdeleon):
+Igual convengamos que no todo es guita… pq si es por guita, hay bocha de laburo de IT en zonas inseguras muy bien remunerados.
+13:17:42 - Martín Valdés de León (@mvaldesdeleon):
+(i.e., mantener telcos en Afghanistan como contratista)
+13:18:08 - Martín Valdés de León (@mvaldesdeleon):
+De esos donde vas del hotel a la oficina en camion blindado y esa es tu vida.
+13:21:10 - Rodrigo Ali (@rodrigojali):
+joJOJO quiero ver eso
+14:53:00 - Raul Palacio (@rpalacio86):
+Bueno puede ser atractivo para alguno que esté aburrido de la rutina y le quiere poner un poco de pimienta a su vida:joy:
+14:53:37 - Rodrigo Ali (@rodrigojali):
+Y cuando le iba a poner la pimienta resulta que la tapa estaba floja jaja
+15:01:19 - Adrián Velasco (@adrivelasco1506):
+che, no sabía que la mayoría al igual que globant aplicaba eso del “bench”, tienen algún plazo ahí o podés estar dos meses sin hacer nade y cobrando igual? sé que whiteprompt por ejemplo te daba 1 mes y después de eso te quedabas sin cobrar hasta nuevo aviso
+15:02:10 - Rodrigo Ali (@rodrigojali):
+Cambio de topic, porque me acabo de acordar (sowy). TL;DR = ayer tuve una entrevista y no di una pretención salarial porque quería saber cuánto pagan, y pagan entre USD 2k~4k normalmente. ¿Es una locura pedir USD 3k como pretención remunerativa en mi caso?
+15:02:25 - Martín Valdés de León (@mvaldesdeleon):
+Habia escuchado de la modalidad, pero me parece re cualquiera. La gracia de laburar en relacion de dependencia es que conseguir laburo es problema de tu empleador, no tuyo.
+15:02:40 - Martín Valdés de León (@mvaldesdeleon):
+Ahora resulta que me la tengo que fumar yo si sobrecontratas?
+15:02:44 - Martín Valdés de León (@mvaldesdeleon):
+=/
+15:02:49 - Rodrigo Ali (@rodrigojali):
+Claro, el bench lo usan en software factories donde no hay producto propio hasta donde sé.
+15:03:09 - Rodrigo Ali (@rodrigojali):
+Y pasa eso que decís Adrián, es una política interna de la empresa y cada empresa lo define a su manera.
+15:03:11 - Martín Valdés de León (@mvaldesdeleon):
+Pero yo labure en software factories donde si se quedan cortos de proyectos entonces es latigo a ventas, porque hay que segurle pagando a todos
+15:03:24 - Martín Valdés de León (@mvaldesdeleon):
+No empezar a suspender devs
+15:03:28 - Damian Diaz (@damianmdst):
+En globant podes quedar en el bench 2 meses cobrando y no pasa nada, mas tiempo tambien. El hecho de que te quieran dejar de pagar por sobre contratar me parece una ridiculez y si no forma parte del contrato el que la come es el empleador y no vos.
+15:03:28 - Martín Valdés de León (@mvaldesdeleon):
+y dessuspenderlos dinamicamente
+15:03:47 - Rodrigo Ali (@rodrigojali):
+Claro. El bench es pago. La idea es que se consiga otro proyecto pero si no se consigue y se pasó el window de la bench, te desvinculan
+15:04:04 - Martín Valdés de León (@mvaldesdeleon):
+Suena muy picadora de carne la verdad.
+15:04:06 - Rodrigo Ali (@rodrigojali):
+A mi también me parece cualquiera, pero bueno, es una realidad.
+15:04:27 - Damian Diaz (@damianmdst):
+Creo que deberia formar parte del contrato cuando entras a la empresa, si no me parece que pueden tener serios problemas legales.
+15:04:48 - Damian Diaz (@damianmdst):
+No es tu responsabilidad si ellos no pueden asignarte a un proyecto, porque no pueden justificar que no estas capacitado, si no que no tienen puestos disponibles para vos.
+15:05:37 - Martín Valdés de León (@mvaldesdeleon):
+Seguramente te obligen a tercerizarte y facturarles.
+15:05:54 - Martín Valdés de León (@mvaldesdeleon):
+Y seguramente-seguramente te den una patada en el cucu antes del umbral donde podrias considerarte en planta.
+15:06:15 - Martín Valdés de León (@mvaldesdeleon):
+Y tudo bom tudo legal.
+15:06:27 - Damian Diaz (@damianmdst):
+No se que onda con las otras empresas, a mi globant cuando me contrato se le cayeron una serie de proyectos y tuvieron pibes 4 meses sin hacer literalmente nada.
+15:07:03 - Adrián Velasco (@adrivelasco1506):
+en un trabajo en relacion de dep lo veo factible que no te puedan desvincular, pero mayormente en los trabajos remotos en donde estás como contractor, existe lo del bench pero no creo que se pueda estar meses sin hacer nada y cobrando
+15:07:06 - Damian Diaz (@damianmdst):
+Yo estuve 2 meses sin hacer nada y cobraba el sueldo. Claro que tambien depende del seniority, no vas a tener un sueldo de Sr sin hacer nada dos meses porque le caen con todo a la gente de RRHH
+15:07:24 - Adrián Velasco (@adrivelasco1506):
+y estabas independiente dami?
+15:07:34 - Damian Diaz (@damianmdst):
+No, en relacion de dependencia.
+15:08:00 - Damian Diaz (@damianmdst):
+El resto del grupo que entro conmigo, creo que tambien, no sabria decirte si habia algun contractor, pero seria raro.
+15:08:50 - Fernando Pelliccioni (@fpelliccioni):
+es algo normal en las consultoras grandes/de mierda
+15:10:03 - Fernando Pelliccioni (@fpelliccioni):
+Globant son un chamuyo, te entrevistan para entrar para EA y hacia el final de las entrevistas te avisan que en realidad es para laburar en otro proyecto, Gilbarco, por ejemplo...
+15:10:42 - Fernando Pelliccioni (@fpelliccioni):
+los peores comentarios que escuché de colegas, fueron de Globant...
+15:11:01 - Damian Diaz (@damianmdst):
+A mi por lo menos me fueron sincero, cai en JP y de ante mano me habian avisado que era para ese proyecto ..
+15:11:21 - Damian Diaz (@damianmdst):
+Despues surgio que se cayo una serie de proyectos porque no pudieron firmar (temas legales) pero termine cayendo igual en JP. Quizás suerte, no lo sé.
+15:12:32 - Fernando Pelliccioni (@fpelliccioni):
+Cuando están en tratavias de proyectos, empiezan a tomar la gente, porque son proyectos muy grandes, de 20, 30, 50 personas...
+15:12:42 - Fernando Pelliccioni (@fpelliccioni):
+ya tienen tomada la gente antes de firmar, a veces sale, a veces no
+15:13:02 - Rodrigo Ali (@rodrigojali):
+Yo en Córdoba pedí entrar en un proyecto que usara React y me metieron en Southwest que usaba React, tuve 0 drama
+15:13:22 - Fernando Pelliccioni (@fpelliccioni):
+pero lo hace Globant, Accenture, TATA
+15:14:32 - Adrián Velasco (@adrivelasco1506):
+quiero compartir mi triste experiencia, me dieron el ok desde una soft factory en usa, mi primer laburo para afuera, arrancaba este lunes después de esperar dos semanas pero resulta que el proyecto para que el que entraba se cayó entonces están viendo que fecha puedo ingresar definitivamente
+15:14:58 - Adrián Velasco (@adrivelasco1506):
+entonces tengo que seguir esperando probablemente un par de semanas más, y yo sigo gastando una guita que todavía no cobre
+15:15:17 - Adrián Velasco (@adrivelasco1506):
+me dijeron lo del bench pero imagino que prefieren atrasar mi ingreso a que arranque a cobrar sin hacer nada
+15:20:47 - Rodrigo Ali (@rodrigojali):
+Uy bro qué cagada.
+15:20:56 - Rodrigo Ali (@rodrigojali):
+Suerte con eso :confused:
+15:44:11 - Rodrigo Ali (@rodrigojali):
+¿Algún insight sobre esto?
+15:45:55 - Martín Valdés de León (@mvaldesdeleon):
+Si 3k te cierra, yo tiraria algo como
+
+“XXX
+
+Gracias por comunicarme el rango que estan manejando. En especial por que para una posicion asi yo estoy manejando un rango de entre 3 y 4k, por lo que a priori estariamos alineados en ese sentido”
+15:46:08 - Martín Valdés de León (@mvaldesdeleon):
+Y empeza a juntar argumentos para tirarte a 4.
+15:46:34 - Martín Valdés de León (@mvaldesdeleon):
+Nunca tenes que negociarte para abajo solo.
+15:50:36 - Julian (@jantonielli01):
+Yo tiraría 4.5k 
+15:50:47 - Martín Valdés de León (@mvaldesdeleon):
+:+1:
+15:50:56 - Martín Valdés de León (@mvaldesdeleon):
+Se, iba a decir entre 3 y 5 la verdad :stuck_out_tongue:
+15:51:23 - Adrián Velasco (@adrivelasco1506):
+3.5k - 4.5k :stuck_out_tongue:
+15:51:28 - Julian (@jantonielli01):
+Así dejas que te lo bajen a 4k que es lo que parece que pagan, y les das el ok. Se van a sentir mejor incluso pensando que te negociaron para abajo y ganaron 
+15:52:03 - Wilfredo Alcala (@alcalawilfre):
+Cuántas veces les han dicho que están pidiendo mucha plata para lo que están dispuestos a pagar?
+15:52:25 - Julian (@jantonielli01):
+Muchas 
+15:52:50 - Martín Valdés de León (@mvaldesdeleon):
+A uno le tire mis pretenciones y me dijo tipo “Boah… pero por esa guita tenes que ser alto rockstar…. estas ganando eso ahora?”
+15:53:02 - Julian (@jantonielli01):
+Que empresa es?
+15:53:14 - Adrián Velasco (@adrivelasco1506):
+Para matarlo
+15:53:28 - Martín Valdés de León (@mvaldesdeleon):
+Era un laburo de mierda anyways :stuck_out_tongue:
+15:53:32 - Adrián Velasco (@adrivelasco1506):
+le respondiste o le clavaste el visto?
+15:53:41 - Wilfredo Alcala (@alcalawilfre):
+Gracias por sus comentarios, hacen que tiremos el mercado hacia arriba jaja
+15:53:46 - Julian (@jantonielli01):
+Me ha pasado parecido 
+15:54:25 - Julian (@jantonielli01):
+Me dijeron “Pero en que países estas mirando esos sueldos?”, claramente en peronia nunca mas 
+15:55:25 - Martín Valdés de León (@mvaldesdeleon):
+Mucho HR o Manager acostumbrado a que la gente no tenga idea de lo que realmente vale su laburo.
+15:56:34 - Adrián Velasco (@adrivelasco1506):
+buoy development se llama
+15:59:18 - Adrián Velasco (@adrivelasco1506):
+honestamente, las mejores ofertas que recibí dentro dentro mercado local fueron de $17/h
+15:59:53 - Adrián Velasco (@adrivelasco1506):
+después la vi muy difícil si es que querías ganar un poco más de eso
+16:03:49 - Julian (@jantonielli01):
+A mi la que mejor me hicieron en el pais fue rappi, 3000usd/mes
+16:04:06 - Julian (@jantonielli01):
+Para team lead de front/mobile 
+16:04:24 - Martín Valdés de León (@mvaldesdeleon):
+No equity rappi?
+16:06:02 - Julian (@jantonielli01):
+No, no me ofrecieron 
+16:06:16 - Martín Valdés de León (@mvaldesdeleon):
+Estos unicornios latinoamericanos ratas…
+16:06:33 - Martín Valdés de León (@mvaldesdeleon):
+Tenes una valuacion de 1 billon y no ofreces equity
+16:06:35 - Tomás Sevillano (@tsevillano):
+A mi me ofrecieron 4500 para lead con 150 stock opción 
+16:06:49 - Tomás Sevillano (@tsevillano):
+En rappi 
+16:06:51 - Julian (@jantonielli01):
+Buena guita 
+16:07:08 - Tomás Sevillano (@tsevillano):
+Para una empresa medio negrera si :joy:
+16:07:24 - Adrián Velasco (@adrivelasco1506):
+y no avanzó o la declinaste de una?
+16:07:50 - Adrián Velasco (@adrivelasco1506):
+trabajaba con tu hermano en sirena jaja <@U0KHVJ8C8>
+16:08:05 - Tomás Sevillano (@tsevillano):
+Me sirvió para negociar en mi laburo... y decidí quedarme jajaja 
+16:08:21 - Tomás Sevillano (@tsevillano):
+Que mundo chico, tengo que cambiarme el apellido :joy::joy::joy:
+16:08:29 - Adrián Velasco (@adrivelasco1506):
+faaa que bien
+16:08:37 - Julian (@jantonielli01):
+Ahí encontré el mail, recordaba bien, no equity
+16:08:39 - Adrián Velasco (@adrivelasco1506):
+tremeneda oferta igual
+16:08:49 - Julian (@jantonielli01):
+Me lo ofrecieron a principio del año pasado 
+16:08:51 - Martín Valdés de León (@mvaldesdeleon):
+Ni idea como funciona stock options en una empresa que no hizo IPO
+16:08:55 - Martín Valdés de León (@mvaldesdeleon):
+O ya hay acciones de Rappi?
+16:09:16 - Julian (@jantonielli01):
+Pero no tiene que ver que hayan hecho IPO
+16:09:41 - Tomás Sevillano (@tsevillano):
+No, son opciones, tenes el típico vesting donde las compras, y hasta que no haya ipo no podes hacer nada más que guardarlas 
+16:09:42 - Martín Valdés de León (@mvaldesdeleon):
+Es que stock option es “te autorizo a comprar N acciones en Y fecha a X precio”, donde la idea es que X precio es “el precio de hoy”
+16:09:46 - Martín Valdés de León (@mvaldesdeleon):
+y esperas que suba
+16:09:55 - Martín Valdés de León (@mvaldesdeleon):
+Pero si no hay IPO… que sabes cuanto va a valer?
+16:10:26 - Julian (@jantonielli01):
+Pero pueden fijar el precio 
+16:10:28 - Martín Valdés de León (@mvaldesdeleon):
+Lo unico que sabes es que hoy la empresa vale 1 billon, pero no sabes con cuantas acciones van a salir.
+16:10:31 - Tomás Sevillano (@tsevillano):
+Por la cantidad de dinero que tiene la empresa dividió la cantidad de acciones , se calcula todos los Q y va subiendo
+16:10:33 - Tomás Sevillano (@tsevillano):
+O bajando 
+16:10:44 - Martín Valdés de León (@mvaldesdeleon):
+Ah, la empresa ya fijo el numero de acciones?
+16:11:00 - Martín Valdés de León (@mvaldesdeleon):
+Ahi entra tambien el tema de que eso se diluye en cada subsiguiente ronda de funding.
+16:11:12 - Tomás Sevillano (@tsevillano):
+Si, todas esas cosas pasan 
+16:11:23 - Tomás Sevillano (@tsevillano):
+Pero mientras más early stage más cerca a 0 están 
+16:11:37 - Julian (@jantonielli01):
+La vida nisman
+16:11:43 - Martín Valdés de León (@mvaldesdeleon):
+Si, si entras bien bien temprano y te la bancas, y les va bien, ganga.
+16:11:48 - Martín Valdés de León (@mvaldesdeleon):
+Pero de ahi en mas es una timba.
+16:11:53 - Tomás Sevillano (@tsevillano):
+Tipo 2 dólares , si hace IPO supuestamente va a salir a un valor de 15 
+16:12:22 - Martín Valdés de León (@mvaldesdeleon):
+La parte de que les vaya bien hoy por hoy parece asegurada al menos.
+16:12:39 - Tomás Sevillano (@tsevillano):
+Digamos que en el tiempo que vos estás laburando no conviene comprar ,  recién cuando renuncias o te echan , y si penas que puede tener un IPO
+16:13:32 - Tomás Sevillano (@tsevillano):
+Un conocido, tiene el mismo concepto , le dieron opciones por 90 centavos de dólar, lo promovieron y la segunda tanda fue por dólar y medio tuvo un tercer grant por 0.82 
+16:13:41 - Tomás Sevillano (@tsevillano):
+Es timba hasta que salga a la bolsa 
+16:14:05 - Tomás Sevillano (@tsevillano):
+Medallia a los últimos le daba opciones por 6 dólares, salió a la bolsa por un valor de 30
+16:15:18 - Martín Valdés de León (@mvaldesdeleon):
+El tema es cuanto te den. Con esos numeros estas en 10k por cada 416 acciones.
+16:15:36 - Martín Valdés de León (@mvaldesdeleon):
+y 10k suena “poco” como bonus anual en ese contexto
+16:17:33 - Tomás Sevillano (@tsevillano):
+10k de opciones a bonus anual? No creo que sea algo común 
+16:20:48 - Martín Valdés de León (@mvaldesdeleon):
+en realidad ni siquiera anual…
+
+lo que decia era: ponele que te ofrecen 416 acciones de medalia, con un vesting de 3 años. sale con esos numeros. dps de 3 años podes ejecutar la accion y vender y te llevas 10k. osea que el valor real de la parte en stock options fue de 3333usd/yr.
+
+y ahi tenes que comprar…
+
+una oferta similar en otra empresa que no hubiese dado stock options, pero que a cambio pagaba mas base… me hubiese dado mas de 3333usd/yr extra de base? que tal de bono?
+16:21:11 - Martín Valdés de León (@mvaldesdeleon):
+pq quiza conseguias un laburo sin stock options pero que te pagaba 4k mas/yr, y a la larga es mejor negocio
+17:01:02 - Rodrigo Ali (@rodrigojali):
+Muchas gracias por los consejos :smile:, vamos a intentar entonces que sea lo más cerca de la cota superior, si pasa, pasa. De todas formas no tengo pensado cambiar de laburo todavía, estoy cómodo donde estoy.
