@@ -1,0 +1,208 @@
+10:42:44 - Ezequiel Golub (@ezequiel.golub):
+en qué andas ahora? Necesito front end devs :slightly_smiling_face:
+10:43:11 - Ezequiel Golub (@ezequiel.golub):
+igual en periodó de prueba es media indemnización, no es gratis echar nunca
+10:51:01 - Luciana Portias (@lportias):
+estoy de front en una empresa en palermo
+12:14:30 - German Gonzalez (@gercho):
+Buenas gente. Como va? Alguien tiene ganas/tiempo de explicarme las diferentes modalidades de laburo remoto? Siempre escucho contractor y otras modalidades más y realmente no tengo mucha idea. Pase la entrevista tecnica y el jueves tengo una entrevista con HR y queria estar en tema. Como me conviene que me paguen, como me llegue la plata, como blanqueo y cualquier tip es más que bienvenido. Gracias
+12:19:17 - Jorge Cano (@jorgeucano):
+yo hice este video hace algunos meses =&gt; <https://www.youtube.com/watch?v=QIK8cEmr2gg>
+12:19:18 - Rodrigo Ali (@rodrigojali):
+Lo que yo entiendo:
+Como norma general vos tenés 2 grandes variantes: freelo y remoto.
+• Freelo: vos laburás de forma independiente, y tenés que sentarte a definir las condiciones laborales con tu cliente para la necesidad que tenga
+• Remoto: vos laburás en una suerte de relación de dependencia para alguien pero no vas a sus oficinas físicas, si no que laburás a distancia.
+
+Por otro lado, lo que yo entiendo por "contractor" es que laburás en base a un contrato fijo definido y con "caducidad", que suele ser lo que hacen las software factories:
+1) Software factory = Carlitos
+2) Cliente = Pablito
+
+Carlitos te contrata y laburás en dependencia para ellos, y Carlitos acuerda con Pablito que van a hacer un proyecto de 6 meses. Entonces Carlitos te asigna a vos a ese proyecto y te pone como "contractor", legalmente estás atado a nivel laboral con Carlitos, pero tu manpower se va a un proyecto de Pablito
+12:21:16 - German Gonzalez (@gercho):
+genial, gracias a ambos
+12:21:36 - German Gonzalez (@gercho):
+y en cuanto a la plata? como coviene que me llegue y como blanquearla? tengo planeado juntarme con un contador igual
+12:22:05 - Jorge Cano (@jorgeucano):
+pymes tal vez es la mejor opcion
+12:22:11 - Jorge Cano (@jorgeucano):
+pero contador siempre SIEMPRE es la mejor opcion
+12:23:01 - German Gonzalez (@gercho):
+:+1:
+12:25:49 - German Gonzalez (@gercho):
+y cuanto te sacan entre todos los aportes y toda la bola. ejemplo: 5k per month
+12:25:52 - German Gonzalez (@gercho):
+1k maso no?
+12:25:56 - Dario Fernando (@someunderscore_):
+tenes dos opciones
+Monotributo: Limite de facturacion con 2k verdes ya te pasas asi que controla eso. Si queres mantenerte ahi algunos malabares tenes que hacer.
+
+Responsable inscripto: Sin limite de facturacion pero pagas ganancias seguro el 35% si facturas todo en blanco, iva no porque las exportaciones estan exentas.
+
+en ambos casos tenes que darte de alta como pyme, sino te co**n con el impuesto a las exportaciones.
+12:27:06 - Dario Fernando (@someunderscore_):
+en monotributo pagas depende de la categoria, incluye obra social
+<https://www.afip.gob.ar/monotributo/categorias.asp> 6k la maxima
+12:27:40 - Dario Fernando (@someunderscore_):
+en responsable inscripto  pagas autonomo, no incluye obra social, alrededor de 3k mensual
+12:27:42 - German Gonzalez (@gercho):
+estoy en pelotas con este tema
+12:28:01 - German Gonzalez (@gercho):
+que me convendria? o que harias vos en mi caso?
+12:28:06 - German Gonzalez (@gercho):
+4/5k por mes
+12:29:25 - Dario Fernando (@someunderscore_):
+yo empezaria por monotributo, y luego si te pasas te haces responsable inscripto, pero preparate porque te van a romper el *** con impuestos.
+12:29:38 - Dario Fernando (@someunderscore_):
+igual anda a un contador, uno bueno no hagas como yo jaja
+12:30:14 - German Gonzalez (@gercho):
+jajaja
+12:30:29 - German Gonzalez (@gercho):
+pero como hago para blanquear 2k de los 4/5 que me entran a la cuenta?
+12:30:51 - German Gonzalez (@gercho):
+recomendas algun contador que esté on top de estas cosas?
+12:32:26 - Dario Fernando (@someunderscore_):
+uno que sepa, no se que nivel de topicidad xD
+12:32:33 - Dario Fernando (@someunderscore_):
+<https://medium.com/@j0an/c%C3%B3mo-facturar-al-exterior-y-cobrar-en-tu-banco-siendo-monotributista-78d1951d5215>
+12:35:14 - Rodrigo Ali (@rodrigojali):
+Andá con contador, va a ser la mejor opción. SI sos de Córdoba, avisame y tengo contacto para pasarte (es una cra. que maneja personas que laburan remoto).
+
+Pero es como te dijeron arriba. En resumen tenés 3 opciones:
+1) Blanqueás 100% y te vas a Responsable Inscripto
+2) Negreás 100% y no vas a usar una tarjeta ni crédito en tu vida
+3) Mix 1 y 2 (que es lo que te dicen arriba)
+
+En 1 te vas RI, pero hacés facturas E no más y quedás excento de IVA (por ahora) con un par de boludeces más y juntar facturas para deducir, ponele que si cobrás USD 3k como RI y la hiciste muy bien te sacarán un 13~19% con toda la furia (suponiendo que la hiciste bien deduciendo todo)
+
+En 3 te inscribís como, no sé, Monotributo C, y vas escalando hasta plantarte en H como dicen arriba. Facturás (blanqueás) ~USD 2k por mes, te queda USD 1k en negro. Con la plata blanqueada podés hacer lo que sea porque está blanqueada, con la plata en negro va a depender qué tanto riesgo estés dispuesto a correr.
+
+Servicios para cobrar de afuera (Suponiendo que no te pagan a tu bnaco) suelen elegir (al menos en este slack y por lo que vi) TransferWise/Payoneer. La plata blanqueada la podés pasar desde esa plataforma a tu banco, o podés viajar afuera para retirarla (Payoneer en Uruguay por extracción en ventanilla, por ej) y después depositarla en tu banco
+12:36:53 - Rodrigo Ali (@rodrigojali):
+La ventaja de ser RI es que tenés acceso al 100% de tu plata blanqueada, y de yapa te vas a ir derecho a Black en cualquier banco seguramente (por si te gusta ser carteludo y que te chupen las medias, que se yo), pero vas a pagar un poco más (en montos entre USD 3k~4.5k) contra el monotributo. Entre más ganes, más complicado es y más te van a retener en RI.
+12:37:33 - German Gonzalez (@gercho):
+Excelente data. Me la guardo toda. Voy a ir por varios contadores
+12:37:51 - German Gonzalez (@gercho):
+Sinceramente soy un queso en esto
+12:37:59 - German Gonzalez (@gercho):
+ustedes evitarian 100% RI?
+12:39:48 - Rodrigo Ali (@rodrigojali):
+Eso es muy personal. Conozco gente que evita RI a toda costa y conozco gente que se terminó pasando a RI porque estaba cansada de hacer malabares.
+13:04:16 - German Gonzalez (@gercho):
+es algo "normal" negociar que las comisiones de transfernecias o algunas de esas cosas esten dentro del salario?
+13:07:18 - Gonza Espeche (@espeche.g):
+otra que se puede hacer es facturarle desde dos monotributos, uno tuyo y el otro de otra persona (idealmente que sea tu pareja) así podes facturar más sin irte a la goma en la categoría. Igualmente esto lo escuche de alguien que la tiró por acá, y lo mejor sería llevarle todos estos temas a un contador que _tenga la posta real_
+13:09:20 - Gonza Espeche (@espeche.g):
+y cuando tengas las respuestas traelas tambien jaja
+13:09:38 - German Gonzalez (@gercho):
+si obvio, cuando tenga todo como voy hacer, lo cuento!
+14:08:37 - Silvio Messina (@smessina):
+Es una buena oportunidad para (re) compartir esto :point_down:
+
+<https://twitter.com/tuproyectolegal/status/1132988635412934657>
+19:38:24 - German Gonzalez (@gercho):
+Hago otra consulta. Es normal pedirle al empleador si puedo facturar yo y mi novia? Así no le paso del monotributo? O algo así?
+10:42:44 - Ezequiel Golub (@ezequiel.golub):
+en qué andas ahora? Necesito front end devs :slightly_smiling_face:
+10:43:11 - Ezequiel Golub (@ezequiel.golub):
+igual en periodó de prueba es media indemnización, no es gratis echar nunca
+10:51:01 - Luciana Portias (@lportias):
+estoy de front en una empresa en palermo
+12:14:30 - German Gonzalez (@gercho):
+Buenas gente. Como va? Alguien tiene ganas/tiempo de explicarme las diferentes modalidades de laburo remoto? Siempre escucho contractor y otras modalidades más y realmente no tengo mucha idea. Pase la entrevista tecnica y el jueves tengo una entrevista con HR y queria estar en tema. Como me conviene que me paguen, como me llegue la plata, como blanqueo y cualquier tip es más que bienvenido. Gracias
+12:19:17 - Jorge Cano (@jorgeucano):
+yo hice este video hace algunos meses =&gt; <https://www.youtube.com/watch?v=QIK8cEmr2gg>
+12:19:18 - Rodrigo Ali (@rodrigojali):
+Lo que yo entiendo:
+Como norma general vos tenés 2 grandes variantes: freelo y remoto.
+• Freelo: vos laburás de forma independiente, y tenés que sentarte a definir las condiciones laborales con tu cliente para la necesidad que tenga
+• Remoto: vos laburás en una suerte de relación de dependencia para alguien pero no vas a sus oficinas físicas, si no que laburás a distancia.
+
+Por otro lado, lo que yo entiendo por "contractor" es que laburás en base a un contrato fijo definido y con "caducidad", que suele ser lo que hacen las software factories:
+1) Software factory = Carlitos
+2) Cliente = Pablito
+
+Carlitos te contrata y laburás en dependencia para ellos, y Carlitos acuerda con Pablito que van a hacer un proyecto de 6 meses. Entonces Carlitos te asigna a vos a ese proyecto y te pone como "contractor", legalmente estás atado a nivel laboral con Carlitos, pero tu manpower se va a un proyecto de Pablito
+12:21:16 - German Gonzalez (@gercho):
+genial, gracias a ambos
+12:21:36 - German Gonzalez (@gercho):
+y en cuanto a la plata? como coviene que me llegue y como blanquearla? tengo planeado juntarme con un contador igual
+12:22:05 - Jorge Cano (@jorgeucano):
+pymes tal vez es la mejor opcion
+12:22:11 - Jorge Cano (@jorgeucano):
+pero contador siempre SIEMPRE es la mejor opcion
+12:23:01 - German Gonzalez (@gercho):
+:+1:
+12:25:49 - German Gonzalez (@gercho):
+y cuanto te sacan entre todos los aportes y toda la bola. ejemplo: 5k per month
+12:25:52 - German Gonzalez (@gercho):
+1k maso no?
+12:25:56 - Dario Fernando (@someunderscore_):
+tenes dos opciones
+Monotributo: Limite de facturacion con 2k verdes ya te pasas asi que controla eso. Si queres mantenerte ahi algunos malabares tenes que hacer.
+
+Responsable inscripto: Sin limite de facturacion pero pagas ganancias seguro el 35% si facturas todo en blanco, iva no porque las exportaciones estan exentas.
+
+en ambos casos tenes que darte de alta como pyme, sino te co**n con el impuesto a las exportaciones.
+12:27:06 - Dario Fernando (@someunderscore_):
+en monotributo pagas depende de la categoria, incluye obra social
+<https://www.afip.gob.ar/monotributo/categorias.asp> 6k la maxima
+12:27:40 - Dario Fernando (@someunderscore_):
+en responsable inscripto  pagas autonomo, no incluye obra social, alrededor de 3k mensual
+12:27:42 - German Gonzalez (@gercho):
+estoy en pelotas con este tema
+12:28:01 - German Gonzalez (@gercho):
+que me convendria? o que harias vos en mi caso?
+12:28:06 - German Gonzalez (@gercho):
+4/5k por mes
+12:29:25 - Dario Fernando (@someunderscore_):
+yo empezaria por monotributo, y luego si te pasas te haces responsable inscripto, pero preparate porque te van a romper el *** con impuestos.
+12:29:38 - Dario Fernando (@someunderscore_):
+igual anda a un contador, uno bueno no hagas como yo jaja
+12:30:14 - German Gonzalez (@gercho):
+jajaja
+12:30:29 - German Gonzalez (@gercho):
+pero como hago para blanquear 2k de los 4/5 que me entran a la cuenta?
+12:30:51 - German Gonzalez (@gercho):
+recomendas algun contador que esté on top de estas cosas?
+12:32:26 - Dario Fernando (@someunderscore_):
+uno que sepa, no se que nivel de topicidad xD
+12:32:33 - Dario Fernando (@someunderscore_):
+<https://medium.com/@j0an/c%C3%B3mo-facturar-al-exterior-y-cobrar-en-tu-banco-siendo-monotributista-78d1951d5215>
+12:35:14 - Rodrigo Ali (@rodrigojali):
+Andá con contador, va a ser la mejor opción. SI sos de Córdoba, avisame y tengo contacto para pasarte (es una cra. que maneja personas que laburan remoto).
+
+Pero es como te dijeron arriba. En resumen tenés 3 opciones:
+1) Blanqueás 100% y te vas a Responsable Inscripto
+2) Negreás 100% y no vas a usar una tarjeta ni crédito en tu vida
+3) Mix 1 y 2 (que es lo que te dicen arriba)
+
+En 1 te vas RI, pero hacés facturas E no más y quedás excento de IVA (por ahora) con un par de boludeces más y juntar facturas para deducir, ponele que si cobrás USD 3k como RI y la hiciste muy bien te sacarán un 13~19% con toda la furia (suponiendo que la hiciste bien deduciendo todo)
+
+En 3 te inscribís como, no sé, Monotributo C, y vas escalando hasta plantarte en H como dicen arriba. Facturás (blanqueás) ~USD 2k por mes, te queda USD 1k en negro. Con la plata blanqueada podés hacer lo que sea porque está blanqueada, con la plata en negro va a depender qué tanto riesgo estés dispuesto a correr.
+
+Servicios para cobrar de afuera (Suponiendo que no te pagan a tu bnaco) suelen elegir (al menos en este slack y por lo que vi) TransferWise/Payoneer. La plata blanqueada la podés pasar desde esa plataforma a tu banco, o podés viajar afuera para retirarla (Payoneer en Uruguay por extracción en ventanilla, por ej) y después depositarla en tu banco
+12:36:53 - Rodrigo Ali (@rodrigojali):
+La ventaja de ser RI es que tenés acceso al 100% de tu plata blanqueada, y de yapa te vas a ir derecho a Black en cualquier banco seguramente (por si te gusta ser carteludo y que te chupen las medias, que se yo), pero vas a pagar un poco más (en montos entre USD 3k~4.5k) contra el monotributo. Entre más ganes, más complicado es y más te van a retener en RI.
+12:37:33 - German Gonzalez (@gercho):
+Excelente data. Me la guardo toda. Voy a ir por varios contadores
+12:37:51 - German Gonzalez (@gercho):
+Sinceramente soy un queso en esto
+12:37:59 - German Gonzalez (@gercho):
+ustedes evitarian 100% RI?
+12:39:48 - Rodrigo Ali (@rodrigojali):
+Eso es muy personal. Conozco gente que evita RI a toda costa y conozco gente que se terminó pasando a RI porque estaba cansada de hacer malabares.
+13:04:16 - German Gonzalez (@gercho):
+es algo "normal" negociar que las comisiones de transfernecias o algunas de esas cosas esten dentro del salario?
+13:07:18 - Gonza Espeche (@espeche.g):
+otra que se puede hacer es facturarle desde dos monotributos, uno tuyo y el otro de otra persona (idealmente que sea tu pareja) así podes facturar más sin irte a la goma en la categoría. Igualmente esto lo escuche de alguien que la tiró por acá, y lo mejor sería llevarle todos estos temas a un contador que _tenga la posta real_
+13:09:20 - Gonza Espeche (@espeche.g):
+y cuando tengas las respuestas traelas tambien jaja
+13:09:38 - German Gonzalez (@gercho):
+si obvio, cuando tenga todo como voy hacer, lo cuento!
+14:08:37 - Silvio Messina (@smessina):
+Es una buena oportunidad para (re) compartir esto :point_down:
+
+<https://twitter.com/tuproyectolegal/status/1132988635412934657>
+19:38:24 - German Gonzalez (@gercho):
+Hago otra consulta. Es normal pedirle al empleador si puedo facturar yo y mi novia? Así no le paso del monotributo? O algo así?
