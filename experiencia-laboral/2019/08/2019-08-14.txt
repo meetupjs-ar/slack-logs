@@ -1,0 +1,294 @@
+10:44:10 - Gonza Gluzman (@gonza):
+Estoy en una empresa mediana, con aproximadamente 40 devs. Siento que el director de ingeniería (nombre cheto para el jefe indirecto de todos los devs) no me da bola. Le llevé una propuesta, me pidió que la bajara a un documento. Escribí el documento (en inglés, a pedido de él) y se lo pasé hace como 4 semanas y todavía ni lo vio
+10:44:36 - Gonza Gluzman (@gonza):
+La propuesta era para implementar Typescript
+10:45:03 - Gonza Gluzman (@gonza):
+Que podés estar de acuerdo o no
+10:45:25 - Gonza Gluzman (@gonza):
+Pero para eso leete el documento y lo charlamos
+10:45:50 - Gonza Gluzman (@gonza):
+Cómo puedo hacer para apurar eso sin pelearme?
+10:49:30 - Ale Miralles (@amiralles):
+Y [[jefe con nombre cheto]], cuando largamos con TS?
+10:49:33 - Jorge Cano (@jorgeucano):
+hay alguien mas arriba que el?
+10:53:35 - Julian (@jantonielli01):
+poné abajo del doc q si no contesta en 24hs, lo tomás como un sí automático
+10:55:59 - Gonza Gluzman (@gonza):
+Me gustó la propuesta de <@U7MP5R4MC>
+10:56:42 - Brenq (@brenquispe993):
+En los documentos funcionales hacíamos eso . En caso de no tener feedback en 48hs era una aceptación del documento
+10:57:24 - Julian (@jantonielli01):
+para más efectividad agregan una imagen de yvan eht nioj que diga `otag alapuhc`
+10:58:53 - Gonza Gluzman (@gonza):
+:joy:
+10:59:00 - Ale Miralles (@amiralles):
+Si sos un peso pesado dentro de la empresa, puede funcionar. Sino te van a sacar cagando.
+11:00:21 - Gonza Gluzman (@gonza):
+No, no puedo hacer eso, lamentablemente
+11:00:37 - Leandro Echevarria (@echevarrialeandro):
+Un friendly reminder por email con el equipo en copia?
+11:01:00 - Leandro Echevarria (@echevarrialeandro):
+No se si tendran algun email de tu equipo tipo en lista. elEquipoDeGonza@empresa.algo
+11:01:10 - Santiago Ruffino (@santi_0898):
+Una pregunta importante es si no te da bola a vos, o no le da bola a nadie
+11:02:05 - Gonza Gluzman (@gonza):
+Eso no lo sé
+11:02:20 - Gonza Gluzman (@gonza):
+Voy a volver a hablar con él
+11:02:40 - Gonza Gluzman (@gonza):
+Y le voy a poner un ultimátum para darme feedback
+11:02:46 - Gonza Gluzman (@gonza):
+Y sino lo voy a escalar
+11:02:50 - Gonza Gluzman (@gonza):
+Qué sé yo
+11:04:12 - Ale Miralles (@amiralles):
+Preguntale a tus companeros que experiencia tienen con el tipo. No creo que sea algo personal, por ahi el chabon es asi.. Hay que insistirle para que conteste.
+11:04:38 - Ale Miralles (@amiralles):
+Ir con los "tapones de punta" no garpa nunca. Menos si el jefe es el otro!
+11:04:40 - Ale Miralles (@amiralles):
+jajaja
+11:06:10 - Gonza Gluzman (@gonza):
+Es que no creo que sea personal
+11:06:39 - Gonza Gluzman (@gonza):
+Pero creo que un mes para leer un documento de 5 páginas es más que suficiente
+11:06:49 - Gonza Gluzman (@gonza):
+Y encima es una propuesta técnica
+11:06:54 - Jorge Cano (@jorgeucano):
+jajajjaj
+11:06:56 - Jorge Cano (@jorgeucano):
+te cajoneo
+11:07:00 - Jorge Cano (@jorgeucano):
+porque no le gusta typescript
+11:07:04 - Jorge Cano (@jorgeucano):
+mandalo a sherman de maton
+11:07:07 - Jorge Cano (@jorgeucano):
+a romperle las piernas
+11:07:25 - Gonza Gluzman (@gonza):
+Medio que su laburo es evaluar las decisiones técnicas
+11:07:39 - Jorge Cano (@jorgeucano):
+capaz que se "le paso"
+11:07:43 - Jorge Cano (@jorgeucano):
+mandale un friendly reminder
+11:08:58 - Julian (@jantonielli01):
+o mandale una proposal para purescript
+11:09:02 - Julian (@jantonielli01):
+te la va a rechazar al toque
+11:09:11 - Julian (@jantonielli01):
+y decile "bueno entonces por lo menos dejame meter TS"
+11:16:08 - Martín Valdés de León (@mvaldesdeleon):
+Usa TS sin preguntarle a nadie.
+11:16:56 - Julian (@jantonielli01):
+metelo con la villereada de jsdoc
+11:17:22 - Martín Valdés de León (@mvaldesdeleon):
+Si alguien te cuestiona luego deci que escribiste un documento y despues de esperar 4 semanas decidiste que para lo que querias hacer, un proceso que requiere 4 semanas como minimo de espera atenta contra la agilidad y time-to-value de la empresa.
+11:18:24 - Gonza Gluzman (@gonza):
+Mmmm… puede ser mandarme por la mía
+11:20:13 - Martín Valdés de León (@mvaldesdeleon):
+Si queres algo mas posta, formaliza algunas metricas para evaluar el efecto de adoptar TS (o no adoptarlo), elegi un modulo “chico” que puedas reescribir en menos de una semana, y presenta los resultados al final.
+11:20:24 - Martín Valdés de León (@mvaldesdeleon):
+Idealmente algo no business-critical.
+11:21:08 - Martín Valdés de León (@mvaldesdeleon):
+Pero tenes que poder demostrar objetivamente cual es el business-value de usar TS.
+11:21:31 - Martín Valdés de León (@mvaldesdeleon):
+“Usemos TS porque tengo ganas” no es muy viable.
+11:21:32 - Gonza Gluzman (@gonza):
+Pero siento que eso lo hago y lo cajonean igual
+11:21:36 - Gonza Gluzman (@gonza):
+No, claro
+11:21:41 - Gonza Gluzman (@gonza):
+Por eso escribí un documento
+11:21:50 - Gonza Gluzman (@gonza):
+Contando pros y contras
+11:21:57 - Gonza Gluzman (@gonza):
+Comparando contra otras alternativas
+11:22:20 - Martín Valdés de León (@mvaldesdeleon):
+Si realmente tenes los argumentos para demostrar que TS le aporta valor a la empresa, y lo haces por tu cuenta, estas tomando una iniciativa que le aporta valor a la empresa.
+11:22:29 - Martín Valdés de León (@mvaldesdeleon):
+Que te van a decir para “retarte”?
+11:22:38 - Martín Valdés de León (@mvaldesdeleon):
+“Ay Gonza, ahora somos mas productivos, todo mal con vos”
+11:22:46 - Julian (@jantonielli01):
+lmao
+11:23:22 - Gonza Gluzman (@gonza):
+:joy:
+11:24:27 - Martín Valdés de León (@mvaldesdeleon):
+tambien podes “ir un nivel mas alla”
+11:24:40 - Martín Valdés de León (@mvaldesdeleon):
+y proponer un mecanismo para evaluar tecnologias dentro de la empresa
+11:24:59 - Martín Valdés de León (@mvaldesdeleon):
+como algo mejor al proceso actual donde un documento puede demorar semanas en recibir feedback
+11:25:08 - Martín Valdés de León (@mvaldesdeleon):
+again, siempre argumentanndo que afecta la agilidad y demas
+11:25:42 - Gonza Gluzman (@gonza):
+MMmm… puede ser
+11:31:27 - Martín Valdés de León (@mvaldesdeleon):
+Mas desde lo personal, lo que yo espero de un senior es que sepa usar su tiempo sabiamente. Evaluar tecnologias es hacer buen uso de su tiempo.
+La clave esta en saber elegir la cantidad apropiada de tiempo a invertir en evaluar una tecnologia o no, y a saber reconocer cuando una tecnologia va a aportar valor o no.
+11:32:28 - Martín Valdés de León (@mvaldesdeleon):
+Si sabes que andas con tiempo para evaluar un framework o lenguaje nuevo y tenes un buen caso, go for it. Pero no quemes 2 meses haciendo algo importante en una tecnologia nueva para darte cuenta que no fue una buena decision.
+11:32:40 - Gonza Gluzman (@gonza):
+No, no, claro
+11:32:53 - Gonza Gluzman (@gonza):
+Por eso es que no quiero perder más tiempo
+11:32:59 - Gonza Gluzman (@gonza):
+Antes de que me den una respuesta
+11:33:02 - Gonza Gluzman (@gonza):
+Cualquiera
+11:33:18 - Gonza Gluzman (@gonza):
+Pero para poder entablar un diálogo
+11:33:20 - Martín Valdés de León (@mvaldesdeleon):
+Y ahi compara los tiempos de ambas cosas, digamos.
+11:33:29 - Martín Valdés de León (@mvaldesdeleon):
+Si queres probar algo por un dia, y no te responden por una semana, go for it.
+11:34:11 - Martín Valdés de León (@mvaldesdeleon):
+Asumo que no tenes tickets urgentes y tenes ese tiempo, asi que si n lo usas para evaluar nuevas techs lo usarias para… leer blogposts, o ver conf videos o algo similar.
+11:50:58 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+Hice más o menos esto en el pasado y resultó muy bien. Un pequeño refactor para el dev, un gran salto para el equipo
+10:44:10 - Gonza Gluzman (@gonza):
+Estoy en una empresa mediana, con aproximadamente 40 devs. Siento que el director de ingeniería (nombre cheto para el jefe indirecto de todos los devs) no me da bola. Le llevé una propuesta, me pidió que la bajara a un documento. Escribí el documento (en inglés, a pedido de él) y se lo pasé hace como 4 semanas y todavía ni lo vio
+10:44:36 - Gonza Gluzman (@gonza):
+La propuesta era para implementar Typescript
+10:45:03 - Gonza Gluzman (@gonza):
+Que podés estar de acuerdo o no
+10:45:25 - Gonza Gluzman (@gonza):
+Pero para eso leete el documento y lo charlamos
+10:45:50 - Gonza Gluzman (@gonza):
+Cómo puedo hacer para apurar eso sin pelearme?
+10:49:30 - Ale Miralles (@amiralles):
+Y [[jefe con nombre cheto]], cuando largamos con TS?
+10:49:33 - Jorge Cano (@jorgeucano):
+hay alguien mas arriba que el?
+10:53:35 - Julian (@jantonielli01):
+poné abajo del doc q si no contesta en 24hs, lo tomás como un sí automático
+10:55:59 - Gonza Gluzman (@gonza):
+Me gustó la propuesta de <@U7MP5R4MC>
+10:56:42 - Brenq (@brenquispe993):
+En los documentos funcionales hacíamos eso . En caso de no tener feedback en 48hs era una aceptación del documento
+10:57:24 - Julian (@jantonielli01):
+para más efectividad agregan una imagen de yvan eht nioj que diga `otag alapuhc`
+10:58:53 - Gonza Gluzman (@gonza):
+:joy:
+10:59:00 - Ale Miralles (@amiralles):
+Si sos un peso pesado dentro de la empresa, puede funcionar. Sino te van a sacar cagando.
+11:00:21 - Gonza Gluzman (@gonza):
+No, no puedo hacer eso, lamentablemente
+11:00:37 - Leandro Echevarria (@echevarrialeandro):
+Un friendly reminder por email con el equipo en copia?
+11:01:00 - Leandro Echevarria (@echevarrialeandro):
+No se si tendran algun email de tu equipo tipo en lista. elEquipoDeGonza@empresa.algo
+11:01:10 - Santiago Ruffino (@santi_0898):
+Una pregunta importante es si no te da bola a vos, o no le da bola a nadie
+11:02:05 - Gonza Gluzman (@gonza):
+Eso no lo sé
+11:02:20 - Gonza Gluzman (@gonza):
+Voy a volver a hablar con él
+11:02:40 - Gonza Gluzman (@gonza):
+Y le voy a poner un ultimátum para darme feedback
+11:02:46 - Gonza Gluzman (@gonza):
+Y sino lo voy a escalar
+11:02:50 - Gonza Gluzman (@gonza):
+Qué sé yo
+11:04:12 - Ale Miralles (@amiralles):
+Preguntale a tus companeros que experiencia tienen con el tipo. No creo que sea algo personal, por ahi el chabon es asi.. Hay que insistirle para que conteste.
+11:04:38 - Ale Miralles (@amiralles):
+Ir con los "tapones de punta" no garpa nunca. Menos si el jefe es el otro!
+11:04:40 - Ale Miralles (@amiralles):
+jajaja
+11:06:10 - Gonza Gluzman (@gonza):
+Es que no creo que sea personal
+11:06:39 - Gonza Gluzman (@gonza):
+Pero creo que un mes para leer un documento de 5 páginas es más que suficiente
+11:06:49 - Gonza Gluzman (@gonza):
+Y encima es una propuesta técnica
+11:06:54 - Jorge Cano (@jorgeucano):
+jajajjaj
+11:06:56 - Jorge Cano (@jorgeucano):
+te cajoneo
+11:07:00 - Jorge Cano (@jorgeucano):
+porque no le gusta typescript
+11:07:04 - Jorge Cano (@jorgeucano):
+mandalo a sherman de maton
+11:07:07 - Jorge Cano (@jorgeucano):
+a romperle las piernas
+11:07:25 - Gonza Gluzman (@gonza):
+Medio que su laburo es evaluar las decisiones técnicas
+11:07:39 - Jorge Cano (@jorgeucano):
+capaz que se "le paso"
+11:07:43 - Jorge Cano (@jorgeucano):
+mandale un friendly reminder
+11:08:58 - Julian (@jantonielli01):
+o mandale una proposal para purescript
+11:09:02 - Julian (@jantonielli01):
+te la va a rechazar al toque
+11:09:11 - Julian (@jantonielli01):
+y decile "bueno entonces por lo menos dejame meter TS"
+11:16:08 - Martín Valdés de León (@mvaldesdeleon):
+Usa TS sin preguntarle a nadie.
+11:16:56 - Julian (@jantonielli01):
+metelo con la villereada de jsdoc
+11:17:22 - Martín Valdés de León (@mvaldesdeleon):
+Si alguien te cuestiona luego deci que escribiste un documento y despues de esperar 4 semanas decidiste que para lo que querias hacer, un proceso que requiere 4 semanas como minimo de espera atenta contra la agilidad y time-to-value de la empresa.
+11:18:24 - Gonza Gluzman (@gonza):
+Mmmm… puede ser mandarme por la mía
+11:20:13 - Martín Valdés de León (@mvaldesdeleon):
+Si queres algo mas posta, formaliza algunas metricas para evaluar el efecto de adoptar TS (o no adoptarlo), elegi un modulo “chico” que puedas reescribir en menos de una semana, y presenta los resultados al final.
+11:20:24 - Martín Valdés de León (@mvaldesdeleon):
+Idealmente algo no business-critical.
+11:21:08 - Martín Valdés de León (@mvaldesdeleon):
+Pero tenes que poder demostrar objetivamente cual es el business-value de usar TS.
+11:21:31 - Martín Valdés de León (@mvaldesdeleon):
+“Usemos TS porque tengo ganas” no es muy viable.
+11:21:32 - Gonza Gluzman (@gonza):
+Pero siento que eso lo hago y lo cajonean igual
+11:21:36 - Gonza Gluzman (@gonza):
+No, claro
+11:21:41 - Gonza Gluzman (@gonza):
+Por eso escribí un documento
+11:21:50 - Gonza Gluzman (@gonza):
+Contando pros y contras
+11:21:57 - Gonza Gluzman (@gonza):
+Comparando contra otras alternativas
+11:22:20 - Martín Valdés de León (@mvaldesdeleon):
+Si realmente tenes los argumentos para demostrar que TS le aporta valor a la empresa, y lo haces por tu cuenta, estas tomando una iniciativa que le aporta valor a la empresa.
+11:22:29 - Martín Valdés de León (@mvaldesdeleon):
+Que te van a decir para “retarte”?
+11:22:38 - Martín Valdés de León (@mvaldesdeleon):
+“Ay Gonza, ahora somos mas productivos, todo mal con vos”
+11:22:46 - Julian (@jantonielli01):
+lmao
+11:23:22 - Gonza Gluzman (@gonza):
+:joy:
+11:24:27 - Martín Valdés de León (@mvaldesdeleon):
+tambien podes “ir un nivel mas alla”
+11:24:40 - Martín Valdés de León (@mvaldesdeleon):
+y proponer un mecanismo para evaluar tecnologias dentro de la empresa
+11:24:59 - Martín Valdés de León (@mvaldesdeleon):
+como algo mejor al proceso actual donde un documento puede demorar semanas en recibir feedback
+11:25:08 - Martín Valdés de León (@mvaldesdeleon):
+again, siempre argumentanndo que afecta la agilidad y demas
+11:25:42 - Gonza Gluzman (@gonza):
+MMmm… puede ser
+11:31:27 - Martín Valdés de León (@mvaldesdeleon):
+Mas desde lo personal, lo que yo espero de un senior es que sepa usar su tiempo sabiamente. Evaluar tecnologias es hacer buen uso de su tiempo.
+La clave esta en saber elegir la cantidad apropiada de tiempo a invertir en evaluar una tecnologia o no, y a saber reconocer cuando una tecnologia va a aportar valor o no.
+11:32:28 - Martín Valdés de León (@mvaldesdeleon):
+Si sabes que andas con tiempo para evaluar un framework o lenguaje nuevo y tenes un buen caso, go for it. Pero no quemes 2 meses haciendo algo importante en una tecnologia nueva para darte cuenta que no fue una buena decision.
+11:32:40 - Gonza Gluzman (@gonza):
+No, no, claro
+11:32:53 - Gonza Gluzman (@gonza):
+Por eso es que no quiero perder más tiempo
+11:32:59 - Gonza Gluzman (@gonza):
+Antes de que me den una respuesta
+11:33:02 - Gonza Gluzman (@gonza):
+Cualquiera
+11:33:18 - Gonza Gluzman (@gonza):
+Pero para poder entablar un diálogo
+11:33:20 - Martín Valdés de León (@mvaldesdeleon):
+Y ahi compara los tiempos de ambas cosas, digamos.
+11:33:29 - Martín Valdés de León (@mvaldesdeleon):
+Si queres probar algo por un dia, y no te responden por una semana, go for it.
+11:34:11 - Martín Valdés de León (@mvaldesdeleon):
+Asumo que no tenes tickets urgentes y tenes ese tiempo, asi que si n lo usas para evaluar nuevas techs lo usarias para… leer blogposts, o ver conf videos o algo similar.
+11:50:58 - Adrian Ramiro Gay Cattaneo (@adrianramiro):
+Hice más o menos esto en el pasado y resultó muy bien. Un pequeño refactor para el dev, un gran salto para el equipo
