@@ -1,0 +1,24 @@
+12:45:57 - Damian Cipolat (@damian.cipolat):
+habria que ver que beneficio real aporta TS, yo personalmente prefiero no usarlo y opto que en proyectos de javascript no es necesario, hablo con varios años de experiencia en JS. forzar js a tipado es por que en el fondo no adoptastes el tipado de js o necesitas otra cosa.
+12:47:40 - Gonza Gluzman (@gonza):
+El tipado de TS es el mismo que el de JS. La diferencia es que tenés chequeo estático con TS (pero como es el mismo lenguaje, tienen que usar los mismos tipos).
+12:50:21 - Damian Cipolat (@damian.cipolat):
+claro pero por que no te alcanza usar solo js? en que laburas front o backend? para mi ts existe para darle el gusto a la gente de c# o java a sentirse mas comodo en js, mientras mas te metas en el lenguaje menos necesario vas a ver que es
+12:54:41 - Gonza Gluzman (@gonza):
+No es que no me alcance con JS, sino que con TS puedo desarrollar mucho más rápido (por el soporte de intellisense más potente) y seguro (por el chequeo de tipos)
+12:59:25 - Damian Cipolat (@damian.cipolat):
+y te dieron feedback en tu laburo, un cambio asi tendria que estar respaldado por varios devs y algun lider tecnico / arquitecto, sino como sabes que no le jode a otros?
+15:08:19 - Gonza Gluzman (@gonza):
+Todavía no, no me dieron ningún feedback
+12:45:57 - Damian Cipolat (@damian.cipolat):
+habria que ver que beneficio real aporta TS, yo personalmente prefiero no usarlo y opto que en proyectos de javascript no es necesario, hablo con varios años de experiencia en JS. forzar js a tipado es por que en el fondo no adoptastes el tipado de js o necesitas otra cosa.
+12:47:40 - Gonza Gluzman (@gonza):
+El tipado de TS es el mismo que el de JS. La diferencia es que tenés chequeo estático con TS (pero como es el mismo lenguaje, tienen que usar los mismos tipos).
+12:50:21 - Damian Cipolat (@damian.cipolat):
+claro pero por que no te alcanza usar solo js? en que laburas front o backend? para mi ts existe para darle el gusto a la gente de c# o java a sentirse mas comodo en js, mientras mas te metas en el lenguaje menos necesario vas a ver que es
+12:54:41 - Gonza Gluzman (@gonza):
+No es que no me alcance con JS, sino que con TS puedo desarrollar mucho más rápido (por el soporte de intellisense más potente) y seguro (por el chequeo de tipos)
+12:59:25 - Damian Cipolat (@damian.cipolat):
+y te dieron feedback en tu laburo, un cambio asi tendria que estar respaldado por varios devs y algun lider tecnico / arquitecto, sino como sabes que no le jode a otros?
+15:08:19 - Gonza Gluzman (@gonza):
+Todavía no, no me dieron ningún feedback
