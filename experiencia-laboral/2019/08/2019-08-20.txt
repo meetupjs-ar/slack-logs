@@ -1,0 +1,210 @@
+15:18:54 - Enzo Retamozo (@egr_96):
+Buenaaaas
+15:19:10 - Enzo Retamozo (@egr_96):
+Chicos, consulta profesional: cómo me recomiendan encarar un cambio laboral ?
+15:20:13 - Gonza Gluzman (@gonza):
+En qué etapa estarías?
+15:20:38 - Enzo Retamozo (@egr_96):
+Estoy como front hace un año,
+15:20:57 - Enzo Retamozo (@egr_96):
+Creo que aún sería 'Jr'
+15:21:23 - Enzo Retamozo (@egr_96):
+Y bueno, está compleja la búsqueda para hacer un cambio, tampoco me iria con lo primero que encuentre
+15:21:27 - Santiago Ruffino (@santi_0898):
+Encarar en que sentido?
+15:21:32 - Gonza Gluzman (@gonza):
+Lo que preguntaba es si ya tenías otro laburo en vista
+15:21:33 - Rodrigo Ali (@rodrigojali):
+Claro, misma pregunta que Santi
+15:21:41 - Rodrigo Ali (@rodrigojali):
+¿Qué querés hacer y qué es lo que te causa conflicto?
+15:22:28 - Santiago Ruffino (@santi_0898):
+Encarar en el sentido de como decir en tu actual trabajo? Como buscar? Que buscar?
+15:23:46 - Enzo Retamozo (@egr_96):
+Claro, me expresé mal, yo quiero cambiar de trabajo por ciertas cuestiones, no solo un tema de $,
+Digamos, por ejemplo, arranco a mandar invitaciones en linkedin a lo loco ? (creo que teniendo trabajo, eso no daría una buena impresión al reclutador)
+15:24:05 - Santiago Ruffino (@santi_0898):
+No pasa nada con estar trabajando
+15:24:07 - Santiago Ruffino (@santi_0898):
+Yo lo hice
+15:24:10 - Gonza Espeche (@espeche.g):
+Estas apurado por cambiar?
+15:24:20 - Santiago Ruffino (@santi_0898):
+Armate un buen spech para cuando te pregunten porque queres cambiar de trabajo
+15:24:32 - Santiago Ruffino (@santi_0898):
+Y no empezar 'Ehhhh, por la plata.'
+15:24:59 - Julian (@jantonielli01):
+Es mejor buscar laburo teniendo trabajo 
+15:25:08 - Julian (@jantonielli01):
+Es justamente al revés de lo que pensas 
+15:26:08 - Rodrigo Ali (@rodrigojali):
+Eso va a depender de cómo te quieras manejar, pero a grandes rasgos:
+
+• Podés avisar o no que estás escuchando ofertas laborales de afuera (en general no es recomendable en mi experiencia)
+• Podés abrir tu perfil de linkedin a recibir ofertas, y hacer búsqueda activa y pasiva.
+• Cuando tengas una oferta formal (luego de pasar todas las etapas) y sepas que vas a aceptar, firmás y avisás en tu laburo actual (savlo que quieras dar pie a renegociación en donde estás, que en mi experiencia no es recomendable)
+15:26:29 - Rodrigo Ali (@rodrigojali):
+Pero como dicen arriba, siempre es mejor escuchar ofertas cuando NO estás desesperado por cambiar de laburo.
+15:26:38 - Martín Valdés de León (@mvaldesdeleon):
+IMHO, mejor que mandar invitaciones a recruiters por linkedin, elegi empresas que te interesen, anda a su homepage y busca el link de careers/jobs.
+15:26:42 - Martín Valdés de León (@mvaldesdeleon):
+Y aplica directo.
+15:26:44 - Luciana Portias (@lportias):
+manda cvs a las empresas que te interesen, o a las propuestas que te llamen la atencion y como dice Santi, armate un speach en el que las razones del cambio no sean solo la $$
+15:28:41 - Rodrigo Ali (@rodrigojali):
+También tenés este slack, en la parte Jobs. Más si estás en Baires, hay muchísimo tráfico de demanda
+15:29:47 - Rodrigo Ali (@rodrigojali):
+Ahora que me acuerdo, pongo una búsqueda en el otro channel, mirala y pegate el lance si te interesa.
+15:30:00 - Enzo Retamozo (@egr_96):
+Muchas Gracias chicos, voy a seguir con consejos :muscle:
+15:30:02 - Enzo Retamozo (@egr_96):
+Dale Rodri
+15:31:21 - Gonza Espeche (@espeche.g):
+Si no estás apurado o necesitado por cambiar, aprovechá el año de dev que ya tenes para negociar un buen laburo.
+15:31:41 - Martin Gonzalez (@martin2786):
+<@UE3C42RHR> no se que nivel de ingles tenes pero si sentis que te falta metele a eso porque te abre muchas puertas tambien.
+15:33:45 - Santiago Ruffino (@santi_0898):
+ESO. El ingles abre muchas puertas
+15:40:17 - Julian (@jantonielli01):
+<@UE3C42RHR> te fijaste el canal <#C045DQUMP|jobs>? Suben cosas copadas de vez en cuando 
+15:50:43 - Enzo Retamozo (@egr_96):
+Si! De ahora en más estaré más atento. Ultimamente solo buscan gente muy Senior. Gracias!
+16:39:58 - Franco (@franco.dalessio12):
+Also no te llega ningún mensaje por LinkedIn de recruiters?
+16:40:16 - Franco (@franco.dalessio12):
+Fijate cómo tenés armado tu perfil, porque es raro que no te llegue nada de nada 
+16:40:48 - Franco (@franco.dalessio12):
+Hay tantos puestos por cubrir todo el tiempo que pasa mucho que los recruiters te buscan a vos, y no al revés 
+17:36:16 - Enzo Retamozo (@egr_96):
+No ! Esta tarde al salir del laburo le voy a dar un lavado de cara a mi Ln, se que laburo hay de sobra
+20:05:21 - Diego Harari (@diehara):
+Hola! alguno laburo en españa o labura ahi? tengo un amigo que esta yendo en estos meses y no esta en el slack pero queria saber que onda el laburo alla
+20:05:36 - Diego Harari (@diehara):
+demanda seguro es importante, pero el tema de la paga me dijo que no tenia mucha idea
+20:05:40 - Diego Harari (@diehara):
+el es ssr
+20:05:50 - Diego Harari (@diehara):
+bca o valencia
+20:08:02 - Ezequiel Leites (@leites25):
+Yo estoy en Barcelona, ni bien cambié el Linkedin a España, empezaron a caer propuestas. Los sueldos estan mas o menos "regulados" segun tengo entendido, pero todos los que vi arrancan de 35k en adelante.
+20:08:44 - Diego Harari (@diehara):
+y eso deben ser 28, 29 brutos algo asi
+20:08:51 - Diego Harari (@diehara):
+perdon netos
+20:09:56 - Ezequiel Leites (@leites25):
+Si. 28 aprox
+20:10:08 - Diego Harari (@diehara):
+ok! gracias por la info
+20:10:11 - Diego Harari (@diehara):
+se la paso
+20:10:12 - Diego Harari (@diehara):
+bz
+20:10:13 - Diego Harari (@diehara):
+abz
+20:10:30 - Ezequiel Leites (@leites25):
+:ok_hand::skin-tone-2:
+15:18:54 - Enzo Retamozo (@egr_96):
+Buenaaaas
+15:19:10 - Enzo Retamozo (@egr_96):
+Chicos, consulta profesional: cómo me recomiendan encarar un cambio laboral ?
+15:20:13 - Gonza Gluzman (@gonza):
+En qué etapa estarías?
+15:20:38 - Enzo Retamozo (@egr_96):
+Estoy como front hace un año,
+15:20:57 - Enzo Retamozo (@egr_96):
+Creo que aún sería 'Jr'
+15:21:23 - Enzo Retamozo (@egr_96):
+Y bueno, está compleja la búsqueda para hacer un cambio, tampoco me iria con lo primero que encuentre
+15:21:27 - Santiago Ruffino (@santi_0898):
+Encarar en que sentido?
+15:21:32 - Gonza Gluzman (@gonza):
+Lo que preguntaba es si ya tenías otro laburo en vista
+15:21:33 - Rodrigo Ali (@rodrigojali):
+Claro, misma pregunta que Santi
+15:21:41 - Rodrigo Ali (@rodrigojali):
+¿Qué querés hacer y qué es lo que te causa conflicto?
+15:22:28 - Santiago Ruffino (@santi_0898):
+Encarar en el sentido de como decir en tu actual trabajo? Como buscar? Que buscar?
+15:23:46 - Enzo Retamozo (@egr_96):
+Claro, me expresé mal, yo quiero cambiar de trabajo por ciertas cuestiones, no solo un tema de $,
+Digamos, por ejemplo, arranco a mandar invitaciones en linkedin a lo loco ? (creo que teniendo trabajo, eso no daría una buena impresión al reclutador)
+15:24:05 - Santiago Ruffino (@santi_0898):
+No pasa nada con estar trabajando
+15:24:07 - Santiago Ruffino (@santi_0898):
+Yo lo hice
+15:24:10 - Gonza Espeche (@espeche.g):
+Estas apurado por cambiar?
+15:24:20 - Santiago Ruffino (@santi_0898):
+Armate un buen spech para cuando te pregunten porque queres cambiar de trabajo
+15:24:32 - Santiago Ruffino (@santi_0898):
+Y no empezar 'Ehhhh, por la plata.'
+15:24:59 - Julian (@jantonielli01):
+Es mejor buscar laburo teniendo trabajo 
+15:25:08 - Julian (@jantonielli01):
+Es justamente al revés de lo que pensas 
+15:26:08 - Rodrigo Ali (@rodrigojali):
+Eso va a depender de cómo te quieras manejar, pero a grandes rasgos:
+
+• Podés avisar o no que estás escuchando ofertas laborales de afuera (en general no es recomendable en mi experiencia)
+• Podés abrir tu perfil de linkedin a recibir ofertas, y hacer búsqueda activa y pasiva.
+• Cuando tengas una oferta formal (luego de pasar todas las etapas) y sepas que vas a aceptar, firmás y avisás en tu laburo actual (savlo que quieras dar pie a renegociación en donde estás, que en mi experiencia no es recomendable)
+15:26:29 - Rodrigo Ali (@rodrigojali):
+Pero como dicen arriba, siempre es mejor escuchar ofertas cuando NO estás desesperado por cambiar de laburo.
+15:26:38 - Martín Valdés de León (@mvaldesdeleon):
+IMHO, mejor que mandar invitaciones a recruiters por linkedin, elegi empresas que te interesen, anda a su homepage y busca el link de careers/jobs.
+15:26:42 - Martín Valdés de León (@mvaldesdeleon):
+Y aplica directo.
+15:26:44 - Luciana Portias (@lportias):
+manda cvs a las empresas que te interesen, o a las propuestas que te llamen la atencion y como dice Santi, armate un speach en el que las razones del cambio no sean solo la $$
+15:28:41 - Rodrigo Ali (@rodrigojali):
+También tenés este slack, en la parte Jobs. Más si estás en Baires, hay muchísimo tráfico de demanda
+15:29:47 - Rodrigo Ali (@rodrigojali):
+Ahora que me acuerdo, pongo una búsqueda en el otro channel, mirala y pegate el lance si te interesa.
+15:30:00 - Enzo Retamozo (@egr_96):
+Muchas Gracias chicos, voy a seguir con consejos :muscle:
+15:30:02 - Enzo Retamozo (@egr_96):
+Dale Rodri
+15:31:21 - Gonza Espeche (@espeche.g):
+Si no estás apurado o necesitado por cambiar, aprovechá el año de dev que ya tenes para negociar un buen laburo.
+15:31:41 - Martin Gonzalez (@martin2786):
+<@UE3C42RHR> no se que nivel de ingles tenes pero si sentis que te falta metele a eso porque te abre muchas puertas tambien.
+15:33:45 - Santiago Ruffino (@santi_0898):
+ESO. El ingles abre muchas puertas
+15:40:17 - Julian (@jantonielli01):
+<@UE3C42RHR> te fijaste el canal <#C045DQUMP|jobs>? Suben cosas copadas de vez en cuando 
+15:50:43 - Enzo Retamozo (@egr_96):
+Si! De ahora en más estaré más atento. Ultimamente solo buscan gente muy Senior. Gracias!
+16:39:58 - Franco (@franco.dalessio12):
+Also no te llega ningún mensaje por LinkedIn de recruiters?
+16:40:16 - Franco (@franco.dalessio12):
+Fijate cómo tenés armado tu perfil, porque es raro que no te llegue nada de nada 
+16:40:48 - Franco (@franco.dalessio12):
+Hay tantos puestos por cubrir todo el tiempo que pasa mucho que los recruiters te buscan a vos, y no al revés 
+17:36:16 - Enzo Retamozo (@egr_96):
+No ! Esta tarde al salir del laburo le voy a dar un lavado de cara a mi Ln, se que laburo hay de sobra
+20:05:21 - Diego Harari (@diehara):
+Hola! alguno laburo en españa o labura ahi? tengo un amigo que esta yendo en estos meses y no esta en el slack pero queria saber que onda el laburo alla
+20:05:36 - Diego Harari (@diehara):
+demanda seguro es importante, pero el tema de la paga me dijo que no tenia mucha idea
+20:05:40 - Diego Harari (@diehara):
+el es ssr
+20:05:50 - Diego Harari (@diehara):
+bca o valencia
+20:08:02 - Ezequiel Leites (@leites25):
+Yo estoy en Barcelona, ni bien cambié el Linkedin a España, empezaron a caer propuestas. Los sueldos estan mas o menos "regulados" segun tengo entendido, pero todos los que vi arrancan de 35k en adelante.
+20:08:44 - Diego Harari (@diehara):
+y eso deben ser 28, 29 brutos algo asi
+20:08:51 - Diego Harari (@diehara):
+perdon netos
+20:09:56 - Ezequiel Leites (@leites25):
+Si. 28 aprox
+20:10:08 - Diego Harari (@diehara):
+ok! gracias por la info
+20:10:11 - Diego Harari (@diehara):
+se la paso
+20:10:12 - Diego Harari (@diehara):
+bz
+20:10:13 - Diego Harari (@diehara):
+abz
+20:10:30 - Ezequiel Leites (@leites25):
+:ok_hand::skin-tone-2:
