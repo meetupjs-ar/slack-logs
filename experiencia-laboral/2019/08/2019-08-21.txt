@@ -1,0 +1,82 @@
+21:17:17 - Julian (@jantonielli01):
+decile q no sea gil y se meta al slack
+09:58:13 - Santiago Ruffino (@santi_0898):
+Normalmente no tengo problemas en aprender o ver un nuevo lenguaje de programacion. Pero estoy viendo un proyecto con Ruby on Rails, y me parece muy feo el codigo
+09:58:25 - Santiago Ruffino (@santi_0898):
+Osea, mas alla de la arquitectura, el lenguaje en si no me parece bueni
+09:59:04 - Martin Bavio (@mbavio):
+RoR no es un lenguaje, es un framework on top of Ruby
+10:00:09 - Martin Bavio (@mbavio):
+Ruby tiene una sintaxis que para muchos es bastante atractiva, pero de gustos… :man-shrugging:
+10:01:48 - Martin Bavio (@mbavio):
+RoR en si cumplio un papel fundamental en la historia del software web, ya que hace 12 o 13 años fue pionero en cuanto a frameworks web que traian ya muchas cosas resueltas para el contexto de una web app
+10:02:52 - Martin Bavio (@mbavio):
+por ende muchisimas startup lo adaptaron para acelerar sus procesos de desarrollo
+10:03:37 - Martin Bavio (@mbavio):
+hoy en dia ya medio que ha perdido su lugar como el rey de los frameworks web, pero aun hay un monton de grandes y pequeñas empresas que lo eligen, ademas de que hay devs que realmente llevan 12 o 13 años con el framework, entonces la gastan.
+10:03:44 - Santiago Ruffino (@santi_0898):
+Claro
+10:04:08 - Martin Bavio (@mbavio):
+hoy en dia, si una persona de backend decide usarlo, lo buebo es que simplemente puede escupir API y que el frontend haga lo que quiera
+10:04:25 - Santiago Ruffino (@santi_0898):
+Aca es un proyecto deprecado. Pero hasta terminar la migracion a Angular, estamos incorporando cosas pequenas y por eso lo tengo que usar. Pero como que no entiendo el funcionamiento
+10:04:43 - Martin Bavio (@mbavio):
+antes ese paradigma no existia, entonces como frontend si o si tenias que meterte en el projecto rails y aprender al menos a entender sus controllers, views, helpers…
+10:05:03 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> probaste leyendo la doc? La doc de rails es buenisima.
+10:05:34 - Martin Bavio (@mbavio):
+Pero basicamente, es un framework MVC que propone la idea de convention over configuration, y trae varias cosas ya resueltas para la clasica web app.
+10:06:07 - Santiago Ruffino (@santi_0898):
+Ahora estoy por entrar en standup, y despues le voy a pegar una leida
+10:06:09 - Santiago Ruffino (@santi_0898):
+Gracias!
+10:12:47 - Aldo Gabriel Rojas (@aldogrojas5):
+Pago entrada para ver un standup de <@U9KMYNJMV>!
+10:12:52 - Aldo Gabriel Rojas (@aldogrojas5):
+:smiley: :smiley: :agite2: :agite2:
+10:16:50 - Santiago Ruffino (@santi_0898):
+Jajajaja, no insistas demasiado...
+17:06:41 - Santiago Ruffino (@santi_0898):
+```So if we feel strongly about having this for beta—then y'all are going to need to make this update as I'm not going to mess with the Typescript files.```
+La sinceridad ante todo en las respuestas de los comments en un Pull Request
+21:17:17 - Julian (@jantonielli01):
+decile q no sea gil y se meta al slack
+09:58:13 - Santiago Ruffino (@santi_0898):
+Normalmente no tengo problemas en aprender o ver un nuevo lenguaje de programacion. Pero estoy viendo un proyecto con Ruby on Rails, y me parece muy feo el codigo
+09:58:25 - Santiago Ruffino (@santi_0898):
+Osea, mas alla de la arquitectura, el lenguaje en si no me parece bueni
+09:59:04 - Martin Bavio (@mbavio):
+RoR no es un lenguaje, es un framework on top of Ruby
+10:00:09 - Martin Bavio (@mbavio):
+Ruby tiene una sintaxis que para muchos es bastante atractiva, pero de gustos… :man-shrugging:
+10:01:48 - Martin Bavio (@mbavio):
+RoR en si cumplio un papel fundamental en la historia del software web, ya que hace 12 o 13 años fue pionero en cuanto a frameworks web que traian ya muchas cosas resueltas para el contexto de una web app
+10:02:52 - Martin Bavio (@mbavio):
+por ende muchisimas startup lo adaptaron para acelerar sus procesos de desarrollo
+10:03:37 - Martin Bavio (@mbavio):
+hoy en dia ya medio que ha perdido su lugar como el rey de los frameworks web, pero aun hay un monton de grandes y pequeñas empresas que lo eligen, ademas de que hay devs que realmente llevan 12 o 13 años con el framework, entonces la gastan.
+10:03:44 - Santiago Ruffino (@santi_0898):
+Claro
+10:04:08 - Martin Bavio (@mbavio):
+hoy en dia, si una persona de backend decide usarlo, lo buebo es que simplemente puede escupir API y que el frontend haga lo que quiera
+10:04:25 - Santiago Ruffino (@santi_0898):
+Aca es un proyecto deprecado. Pero hasta terminar la migracion a Angular, estamos incorporando cosas pequenas y por eso lo tengo que usar. Pero como que no entiendo el funcionamiento
+10:04:43 - Martin Bavio (@mbavio):
+antes ese paradigma no existia, entonces como frontend si o si tenias que meterte en el projecto rails y aprender al menos a entender sus controllers, views, helpers…
+10:05:03 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> probaste leyendo la doc? La doc de rails es buenisima.
+10:05:34 - Martin Bavio (@mbavio):
+Pero basicamente, es un framework MVC que propone la idea de convention over configuration, y trae varias cosas ya resueltas para la clasica web app.
+10:06:07 - Santiago Ruffino (@santi_0898):
+Ahora estoy por entrar en standup, y despues le voy a pegar una leida
+10:06:09 - Santiago Ruffino (@santi_0898):
+Gracias!
+10:12:47 - Aldo Gabriel Rojas (@aldogrojas5):
+Pago entrada para ver un standup de <@U9KMYNJMV>!
+10:12:52 - Aldo Gabriel Rojas (@aldogrojas5):
+:smiley: :smiley: :agite2: :agite2:
+10:16:50 - Santiago Ruffino (@santi_0898):
+Jajajaja, no insistas demasiado...
+17:06:41 - Santiago Ruffino (@santi_0898):
+```So if we feel strongly about having this for beta—then y'all are going to need to make this update as I'm not going to mess with the Typescript files.```
+La sinceridad ante todo en las respuestas de los comments en un Pull Request
