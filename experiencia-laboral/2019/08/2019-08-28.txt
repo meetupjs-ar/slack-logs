@@ -1,0 +1,228 @@
+15:30:39 - Santiago Ruffino (@santi_0898):
+Cual es la forma educada/no educada de decir 'Mira flaco, todo lo que me estas corrigiendo hoy, lo deberias haber hecho hace 3 semanas que eran los tiempos estipulados y que estuviste de acuerdo'?
+15:30:50 - Santiago Ruffino (@santi_0898):
+O hago copy paste de ese mensaje? Jajaja
+15:31:27 - Sergio Daniel Xalambrí (@sergiodxa):
+te están jodiendo por algo?
+15:31:33 - Sergio Daniel Xalambrí (@sergiodxa):
+te están apurando?
+15:31:48 - Sergio Daniel Xalambrí (@sergiodxa):
+no tenés retrospectivas?
+15:31:50 - Pablo Miceli (@pablomiceli24):
+le sacaría el "flaco" y dejaría todo lo demás.
+15:32:04 - Santiago Ruffino (@santi_0898):
+Nono, es para un cliente freelance. No el trabajo
+15:32:06 - Gonza Gluzman (@gonza):
+“gordo”
+15:32:07 - Martín Valdés de León (@mvaldesdeleon):
+Los apurastes vos con que no te estaban dando feedback desde hace 3 semanas, o te dejaste estar?
+15:32:09 - Santiago Ruffino (@santi_0898):
+Perdon, me olvide la aclaracion
+15:32:14 - Pablo Miceli (@pablomiceli24):
+"maquina"
+15:32:19 - Gonza Gluzman (@gonza):
+“capo”
+15:32:25 - Gonza Gluzman (@gonza):
+“campeón”
+15:32:25 - Julian (@jantonielli01):
+mostro
+15:32:27 - Martín Valdés de León (@mvaldesdeleon):
+PQ si entregastes hace 3 semanas y te quedaste sentado viendo como no te respondian, esa es una mala tuya.
+15:32:34 - Gonza Gluzman (@gonza):
+“ameo”
+15:32:36 - Julian (@jantonielli01):
+"barrilete"
+15:32:44 - Martín Valdés de León (@mvaldesdeleon):
+Si estuviste insisitendo en que te tienen que dar feedback o no podes hacer fixes, entonces esta todo bien.
+15:32:44 - Gonza Gluzman (@gonza):
+“papu”
+15:32:55 - Martín Valdés de León (@mvaldesdeleon):
+Pods decir que gracis por el feedback pero lamentablemente solo te quedan 1-2-3 dias mas para este proyecto.
+15:33:01 - Martín Valdés de León (@mvaldesdeleon):
+Asi que lo que podes hacer es solo esto y esto.
+15:33:04 - Sergio Daniel Xalambrí (@sergiodxa):
+ya te pagaron? si ya te pagaron hace lo que quieras
+15:34:44 - Santiago Ruffino (@santi_0898):
+Contexto: Yo mande un email el lunes diciendo 'Son 2 dias de desarrollo. El miercoles yo te entrego el bot. Tenes jueves y viernes para probarlo, y enviarme los cambios necesarios. Yo los hago en el fin de semana, y el lunes lo probas de nuevo. Si esta todo ok o no me corrigen nada (esta la aclaracion en el mail que dice `Si no hay correcciones, se interpreta que no hay nada por corregir`), me pagas y chau.
+15:34:55 - Santiago Ruffino (@santi_0898):
+Ese lunes, fue hace 3 semanas
+15:34:59 - Santiago Ruffino (@santi_0898):
+4*
+15:35:13 - Ezequiel Leites (@leites25):
+Ya te pagaron?
+15:35:29 - Santiago Ruffino (@santi_0898):
+Ayer
+15:35:30 - Santiago Ruffino (@santi_0898):
+Sep
+15:35:43 - Sergio Daniel Xalambrí (@sergiodxa):
+mandalo a cagar
+15:35:48 - Ezequiel Leites (@leites25):
+Como dice Sergio, podes hacer lo que quieras
+15:35:54 - Sergio Daniel Xalambrí (@sergiodxa):
+ya pasaron las fechas acordadas
+15:36:00 - Sergio Daniel Xalambrí (@sergiodxa):
+caulquier cambio que quieran se cobra extra en todo caso
+15:36:06 - Ezequiel Leites (@leites25):
+Desde hacerte el boludo, hasta decirle, yo ya lo considero un proyecto nuevo
+15:36:16 - Santiago Ruffino (@santi_0898):
+Queria buscar la forma de decir 'Mira, esto ya es parte del proyecto. Asi que si lo queres corregir, es aparte'
+15:36:39 - Martín Valdés de León (@mvaldesdeleon):
+Para la proxima, tendrias que haber estado insistiendo constantemente.
+15:36:52 - Martín Valdés de León (@mvaldesdeleon):
+Minimo 2 veces por semana.
+15:36:54 - Gonza Gluzman (@gonza):
+Es que eso hace el bot que le mandaron a hacer
+15:37:18 - Sergio Daniel Xalambrí (@sergiodxa):
+decile que los cambios te van a tomar X horas y se las vas a tener que cobrar `X * Y`
+15:38:25 - Santiago Ruffino (@santi_0898):
+Hay un mail por semana, aparte de los mensajes de whatsapp (mala mia por tener una via de comunicacion sin 'respaldo')
+15:38:55 - Sergio Daniel Xalambrí (@sergiodxa):
+nunca hables por whatsapp con un cliente
+15:38:57 - Sergio Daniel Xalambrí (@sergiodxa):
+email
+15:39:12 - Sergio Daniel Xalambrí (@sergiodxa):
+o slack o cualquier cosa que puedas buscar y usar como evidencia
+15:39:18 - Sergio Daniel Xalambrí (@sergiodxa):
+hasta issues de github
+15:39:25 - Martín Aimar (@maimar):
+"mostri"
+15:40:10 - Santiago Ruffino (@santi_0898):
+Sisi, lo del whatsapp se que esta mal. Voy aprendiendo sobre la marcha
+15:40:36 - Santiago Ruffino (@santi_0898):
+Pero bueno, no es que yo mande el bot y me desapareci. Un email por semana me parecia suficiente
+15:41:05 - Santiago Ruffino (@santi_0898):
+Y las excusas por la que no los probaron eran ajenas a mi. Pero no me caliente, yo te doy tiempos, y listo
+15:41:16 - Ezequiel Leites (@leites25):
+3 semanas fueron mucho, 1 semana ponele que se entiende, pero 3 ya está.
+15:41:21 - Ezequiel Leites (@leites25):
+Las excusas te las dieron hoy?
+15:41:31 - Santiago Ruffino (@santi_0898):
+Las exucsas fueron en cada email. Pero distintas excusas
+15:41:54 - Santiago Ruffino (@santi_0898):
+Para mi tambien 3 semanas es mucho. No es excusa para que NADIE lo haya probado
+15:42:46 - Ezequiel Leites (@leites25):
+Yo, lo que haria es: "Mirá, pasaron 3 semanas, ya estoy con otros proyectos, si queres puedo tomarlo X fecha, y te vale tanto. Si lo queres para antes te vale tanto al cuadrado"
+15:42:52 - Ezequiel Leites (@leites25):
+Tu tiempo vale
+16:32:32 - Santiago Ruffino (@santi_0898):
+Perfecto
+16:32:34 - Santiago Ruffino (@santi_0898):
+Gracias :smile:
+16:34:13 - Ezequiel Leites (@leites25):
+A veces es inevitable. Si aún así hablas con un cliente, sea el motivo que sea, trata de cuando terminas la charla, enviarla por mail (capturas o copy de wsp web), como cuando chateas con Atención al Cliente de una página y te mandan una copia del chat al mail.
+18:44:13 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> o le podes decir “esto se arregla facil amiguis, mandame 5k verdes para la semana que viene y arrancamos nomas”
+15:30:39 - Santiago Ruffino (@santi_0898):
+Cual es la forma educada/no educada de decir 'Mira flaco, todo lo que me estas corrigiendo hoy, lo deberias haber hecho hace 3 semanas que eran los tiempos estipulados y que estuviste de acuerdo'?
+15:30:50 - Santiago Ruffino (@santi_0898):
+O hago copy paste de ese mensaje? Jajaja
+15:31:27 - Sergio Daniel Xalambrí (@sergiodxa):
+te están jodiendo por algo?
+15:31:33 - Sergio Daniel Xalambrí (@sergiodxa):
+te están apurando?
+15:31:48 - Sergio Daniel Xalambrí (@sergiodxa):
+no tenés retrospectivas?
+15:31:50 - Pablo Miceli (@pablomiceli24):
+le sacaría el "flaco" y dejaría todo lo demás.
+15:32:04 - Santiago Ruffino (@santi_0898):
+Nono, es para un cliente freelance. No el trabajo
+15:32:06 - Gonza Gluzman (@gonza):
+“gordo”
+15:32:07 - Martín Valdés de León (@mvaldesdeleon):
+Los apurastes vos con que no te estaban dando feedback desde hace 3 semanas, o te dejaste estar?
+15:32:09 - Santiago Ruffino (@santi_0898):
+Perdon, me olvide la aclaracion
+15:32:14 - Pablo Miceli (@pablomiceli24):
+"maquina"
+15:32:19 - Gonza Gluzman (@gonza):
+“capo”
+15:32:25 - Gonza Gluzman (@gonza):
+“campeón”
+15:32:25 - Julian (@jantonielli01):
+mostro
+15:32:27 - Martín Valdés de León (@mvaldesdeleon):
+PQ si entregastes hace 3 semanas y te quedaste sentado viendo como no te respondian, esa es una mala tuya.
+15:32:34 - Gonza Gluzman (@gonza):
+“ameo”
+15:32:36 - Julian (@jantonielli01):
+"barrilete"
+15:32:44 - Martín Valdés de León (@mvaldesdeleon):
+Si estuviste insisitendo en que te tienen que dar feedback o no podes hacer fixes, entonces esta todo bien.
+15:32:44 - Gonza Gluzman (@gonza):
+“papu”
+15:32:55 - Martín Valdés de León (@mvaldesdeleon):
+Pods decir que gracis por el feedback pero lamentablemente solo te quedan 1-2-3 dias mas para este proyecto.
+15:33:01 - Martín Valdés de León (@mvaldesdeleon):
+Asi que lo que podes hacer es solo esto y esto.
+15:33:04 - Sergio Daniel Xalambrí (@sergiodxa):
+ya te pagaron? si ya te pagaron hace lo que quieras
+15:34:44 - Santiago Ruffino (@santi_0898):
+Contexto: Yo mande un email el lunes diciendo 'Son 2 dias de desarrollo. El miercoles yo te entrego el bot. Tenes jueves y viernes para probarlo, y enviarme los cambios necesarios. Yo los hago en el fin de semana, y el lunes lo probas de nuevo. Si esta todo ok o no me corrigen nada (esta la aclaracion en el mail que dice `Si no hay correcciones, se interpreta que no hay nada por corregir`), me pagas y chau.
+15:34:55 - Santiago Ruffino (@santi_0898):
+Ese lunes, fue hace 3 semanas
+15:34:59 - Santiago Ruffino (@santi_0898):
+4*
+15:35:13 - Ezequiel Leites (@leites25):
+Ya te pagaron?
+15:35:29 - Santiago Ruffino (@santi_0898):
+Ayer
+15:35:30 - Santiago Ruffino (@santi_0898):
+Sep
+15:35:43 - Sergio Daniel Xalambrí (@sergiodxa):
+mandalo a cagar
+15:35:48 - Ezequiel Leites (@leites25):
+Como dice Sergio, podes hacer lo que quieras
+15:35:54 - Sergio Daniel Xalambrí (@sergiodxa):
+ya pasaron las fechas acordadas
+15:36:00 - Sergio Daniel Xalambrí (@sergiodxa):
+caulquier cambio que quieran se cobra extra en todo caso
+15:36:06 - Ezequiel Leites (@leites25):
+Desde hacerte el boludo, hasta decirle, yo ya lo considero un proyecto nuevo
+15:36:16 - Santiago Ruffino (@santi_0898):
+Queria buscar la forma de decir 'Mira, esto ya es parte del proyecto. Asi que si lo queres corregir, es aparte'
+15:36:39 - Martín Valdés de León (@mvaldesdeleon):
+Para la proxima, tendrias que haber estado insistiendo constantemente.
+15:36:52 - Martín Valdés de León (@mvaldesdeleon):
+Minimo 2 veces por semana.
+15:36:54 - Gonza Gluzman (@gonza):
+Es que eso hace el bot que le mandaron a hacer
+15:37:18 - Sergio Daniel Xalambrí (@sergiodxa):
+decile que los cambios te van a tomar X horas y se las vas a tener que cobrar `X * Y`
+15:38:25 - Santiago Ruffino (@santi_0898):
+Hay un mail por semana, aparte de los mensajes de whatsapp (mala mia por tener una via de comunicacion sin 'respaldo')
+15:38:55 - Sergio Daniel Xalambrí (@sergiodxa):
+nunca hables por whatsapp con un cliente
+15:38:57 - Sergio Daniel Xalambrí (@sergiodxa):
+email
+15:39:12 - Sergio Daniel Xalambrí (@sergiodxa):
+o slack o cualquier cosa que puedas buscar y usar como evidencia
+15:39:18 - Sergio Daniel Xalambrí (@sergiodxa):
+hasta issues de github
+15:39:25 - Martín Aimar (@maimar):
+"mostri"
+15:40:10 - Santiago Ruffino (@santi_0898):
+Sisi, lo del whatsapp se que esta mal. Voy aprendiendo sobre la marcha
+15:40:36 - Santiago Ruffino (@santi_0898):
+Pero bueno, no es que yo mande el bot y me desapareci. Un email por semana me parecia suficiente
+15:41:05 - Santiago Ruffino (@santi_0898):
+Y las excusas por la que no los probaron eran ajenas a mi. Pero no me caliente, yo te doy tiempos, y listo
+15:41:16 - Ezequiel Leites (@leites25):
+3 semanas fueron mucho, 1 semana ponele que se entiende, pero 3 ya está.
+15:41:21 - Ezequiel Leites (@leites25):
+Las excusas te las dieron hoy?
+15:41:31 - Santiago Ruffino (@santi_0898):
+Las exucsas fueron en cada email. Pero distintas excusas
+15:41:54 - Santiago Ruffino (@santi_0898):
+Para mi tambien 3 semanas es mucho. No es excusa para que NADIE lo haya probado
+15:42:46 - Ezequiel Leites (@leites25):
+Yo, lo que haria es: "Mirá, pasaron 3 semanas, ya estoy con otros proyectos, si queres puedo tomarlo X fecha, y te vale tanto. Si lo queres para antes te vale tanto al cuadrado"
+15:42:52 - Ezequiel Leites (@leites25):
+Tu tiempo vale
+16:32:32 - Santiago Ruffino (@santi_0898):
+Perfecto
+16:32:34 - Santiago Ruffino (@santi_0898):
+Gracias :smile:
+16:34:13 - Ezequiel Leites (@leites25):
+A veces es inevitable. Si aún así hablas con un cliente, sea el motivo que sea, trata de cuando terminas la charla, enviarla por mail (capturas o copy de wsp web), como cuando chateas con Atención al Cliente de una página y te mandan una copia del chat al mail.
+18:44:13 - Martin Bavio (@mbavio):
+<@U9KMYNJMV> o le podes decir “esto se arregla facil amiguis, mandame 5k verdes para la semana que viene y arrancamos nomas”
