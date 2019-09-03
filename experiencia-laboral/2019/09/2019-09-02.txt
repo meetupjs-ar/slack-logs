@@ -1,0 +1,297 @@
+11:40:16 - Aldo Sorbara (@aldo1891):
+<@UE3C42RHR> si, los pibes con los que labure de ahi re copados, y estaban bien, por eso te pregunte que tipo de modalidad
+11:41:38 - Enzo Retamozo (@egr_96):
+Perdón Aldo! No, como monotributista
+12:04:00 - Heber (@heber.acostalipera):
+Buen comienzo de semana gente! Hoy les traigo dos anectodas (una viene con consulta). Los separo en dos mensajes para el que quiera abrir un thread:
+
+La primera:
+
+Me contactan de una consultora de RRHH para trabajar en una empresa, les mandan mi cv, me comentan de la primer reunion, onsite, para hablar de a que se dedica la empresa y comentarme un poco mas del puesto, todo esto la semana pasada. Hasta ahi todo bien.
+
+Hoy, a dos dias de la entrevista, me manda un mensaje la persona que me va a entrevistar y me escribe:
+
+```
+Hola Hebre
+Mi nombre es XXX y el miercoles nos encontramos en la oficina.
+Te estoy adjuntando un documento con un pequeño test de desarrollo que me gustaria que resuelvas, para ganar tiempo. No te ates, aplica lo que te sientas comodo y resolvelo segun lo que entiendas.
+Cualquier duda que tengas, contactame. 
+Nos vemos el miercoles.
+Un saludo.
+```
+
+Es decir, antes de esto no hablamos nunca, no se a que se dedican, no se que perfil buscan, no se que beneficios ofrecen ni como son las oficinas, no me conocen tampoco mas que lo que les haya dicho la gente de la consultora. Y me mandan un challenge para "ganar tiempo", donde tengo que crear una web con varias vistas que consuman de una API y que tenga test unitarios. No dice nada de que sea para el dia de la entrevista, pero igual me parece muy raro que manden un challenge antes de siquiera tener una conversacion conmigo.
+
+A alguno mas le paso algo similar? Es normal?
+12:05:51 - Pablo Miceli (@pablomiceli24):
+me parece bastante desprolijo
+12:07:35 - Marcos Casagrande (@marcoscvp90):
+Es normal la verdad, para mi no está bien igual.
+12:08:12 - Marcos Casagrande (@marcoscvp90):
+Pero en mi anterior laburo, se hacía así, mandaban tests a todos los "preseleccionados" y los que pasaban el test, iban a entrevista presencial.
+12:12:03 - a0viedo (@a0viedo):
+no sé si es normal pero si voy a invertir tiempo en un proceso al menos me fijaría si lo que busca la empresa matchea con lo que busco yo
+11:40:16 - Aldo Sorbara (@aldo1891):
+<@UE3C42RHR> si, los pibes con los que labure de ahi re copados, y estaban bien, por eso te pregunte que tipo de modalidad
+11:41:38 - Enzo Retamozo (@egr_96):
+Perdón Aldo! No, como monotributista
+12:04:00 - Heber (@heber.acostalipera):
+Buen comienzo de semana gente! Hoy les traigo dos anectodas (una viene con consulta). Los separo en dos mensajes para el que quiera abrir un thread:
+
+La primera:
+
+Me contactan de una consultora de RRHH para trabajar en una empresa, les mandan mi cv, me comentan de la primer reunion, onsite, para hablar de a que se dedica la empresa y comentarme un poco mas del puesto, todo esto la semana pasada. Hasta ahi todo bien.
+
+Hoy, a dos dias de la entrevista, me manda un mensaje la persona que me va a entrevistar y me escribe:
+
+```
+Hola Hebre
+Mi nombre es XXX y el miercoles nos encontramos en la oficina.
+Te estoy adjuntando un documento con un pequeño test de desarrollo que me gustaria que resuelvas, para ganar tiempo. No te ates, aplica lo que te sientas comodo y resolvelo segun lo que entiendas.
+Cualquier duda que tengas, contactame. 
+Nos vemos el miercoles.
+Un saludo.
+```
+
+Es decir, antes de esto no hablamos nunca, no se a que se dedican, no se que perfil buscan, no se que beneficios ofrecen ni como son las oficinas, no me conocen tampoco mas que lo que les haya dicho la gente de la consultora. Y me mandan un challenge para "ganar tiempo", donde tengo que crear una web con varias vistas que consuman de una API y que tenga test unitarios. No dice nada de que sea para el dia de la entrevista, pero igual me parece muy raro que manden un challenge antes de siquiera tener una conversacion conmigo.
+
+A alguno mas le paso algo similar? Es normal?
+12:05:51 - Pablo Miceli (@pablomiceli24):
+me parece bastante desprolijo
+12:07:35 - Marcos Casagrande (@marcoscvp90):
+Es normal la verdad, para mi no está bien igual.
+12:08:12 - Marcos Casagrande (@marcoscvp90):
+Pero en mi anterior laburo, se hacía así, mandaban tests a todos los "preseleccionados" y los que pasaban el test, iban a entrevista presencial.
+12:12:03 - a0viedo (@a0viedo):
+no sé si es normal pero si voy a invertir tiempo en un proceso al menos me fijaría si lo que busca la empresa matchea con lo que busco yo
+12:13:21 - Marcos Casagrande (@marcoscvp90):
+Lo que dice <@U06H27CM8> yo no haría nada a no ser que sepa el rango salarial y si me interesa bastante el lugar. Obviamente la situación de cada uno es diferente, pero perder el tiempo en algo que quizás no te interese profesional o salarialmente no vale la pena.
+12:14:43 - Heber (@heber.acostalipera):
+Justamente por eso iba a ir a la primer entrevista, para que me comenten un poco mas que hacen y ver si me interesa.
+12:16:01 - Marcos Casagrande (@marcoscvp90):
+Yo les respondería cordialmente, antes de hacer el test, me interesa conocer lo siguiente... Si no te contestan, no haría el test.
+12:16:11 - a0viedo (@a0viedo):
+si se ve mucho del trato cómo si te estuviesen haciendo "un favor" al darte la posibilidad de trabajar en X empresa...para mi tiene que ser claramente a beneficio de ambas partes y si desde el vamos parece que alguien le hace un favor a otro es empezar con el pie derecho
+12:17:21 - Marcos Casagrande (@marcoscvp90):
+Todo depende de tu situación, pero si estás comodo y no tenés necesidad, yo no respondo a los recruiters si no dicen rango salarial. Sé que muchas consultoras recomiendan no decirlo, no tiene sentido la verdad, es lo más importante.
+12:17:24 - Pablo Miceli (@pablomiceli24):
+anda sin el ejercicio hecho, inventa alguna excusa tipo "no tuve tiempo estos DOS dias para sentarme a resolver el ejercicio, que onda la empresuli?"
+12:18:22 - Heber (@heber.acostalipera):
+no creo que sea para hacer en dos dias, es mas tipo: bueno, entrevistamos al pibe pero vamos a darle el challenge unos dias antes para que no tarde tanto despues.
+12:18:37 - Ezequiel Leites (@leites25):
+Yo buscaria tener una call con la gente de la empresa primero, es mas facil para ambas partes
+12:19:00 - Ezequiel Leites (@leites25):
+Tipo, ir a una empresa X a ver que onda que hacen demanda tiempo y poder organizar a 2 partes por algo que puede quedar en nada
+12:19:11 - Ezequiel Leites (@leites25):
+Ya sea porque no te interesa, porque no sos lo que buscan, porque no te sirve lo que te ofrecen
+12:32:40 - Rodrigo Ali (@rodrigojali):
+Pienso igual que los chicos arriba. On the bright side, podrías tomar eso como que los tipos están desesperados por fillear la posición (o con apuro, al menos), así que tenelo en cuenta si llegás a decidir continuar para cuando tengas que negociar perks/plata/whatever
+12:49:16 - Heber (@heber.acostalipera):
+Comprendo, buena data.
+
+&gt; yo no respondo a los recruiters si no dicen rango salarial
+
+si pero generalmente o no te dice, o te piden un pretendido, y hasta ahora siempre quisieron negociarmelo
+12:53:31 - Marcos Casagrande (@marcoscvp90):
+Pediles bastante, más de lo que pretendés, entonces ellos te van a decir: "Podemos ofrecer hasta X", ahí sabés el rango.
+12:54:03 - Heber (@heber.acostalipera):
+si eso es lo que hago, x eso me lo negocian :eyes:  jaja
+12:55:04 - Marcos Casagrande (@marcoscvp90):
+Ponete firme, total ellos nos buscan a nosotros.
+12:55:42 - Marcos Casagrande (@marcoscvp90):
+Cada vez les va a costar más conseguir programadores, cada vez hay más laburo remoto.
+12:56:14 - Marcos Casagrande (@marcoscvp90):
+En el último año de mis amigos programadores, más de la mitad están laburando para afuera ya.
+12:57:24 - Marcos Casagrande (@marcoscvp90):
+Ellos siempre van a negociar, aunque puedan pagarlo, así funciona.
+12:58:54 - Heber (@heber.acostalipera):
+puedo dar fe que no. un dia me negociaron para arriba, parece que estaba pidiendo poco :eyes:
+12:59:20 - Heber (@heber.acostalipera):
+y estaba pidiendo 50% mas que mi sueldo actual en ese momento
+12:59:37 - Marcos Casagrande (@marcoscvp90):
+bueno, si pedís muy por debajo es otra cosa.
+12:59:54 - Marcos Casagrande (@marcoscvp90):
+Pero ahi fue error tuyo.
+13:00:10 - Marcos Casagrande (@marcoscvp90):
+Es importantísimo conocer lo que se paga en el mercado antes de ir a buscar laburo
+13:00:16 - Marcos Casagrande (@marcoscvp90):
+Sino te estás cagando a vos mismo.
+13:00:24 - Heber (@heber.acostalipera):
+si fue error mio, pero la realidad es que otras empresas no llegaban a ese sueldo ni empedo, fue suerte que pegue una compañia de producto que pagaba bien
+13:01:10 - Heber (@heber.acostalipera):
+y era extranjera, venia de entrevistas con todas de aca y de repente cae esa y se notaba la diferencia de sueldo y beneficios
+13:05:55 - Heber (@heber.acostalipera):
+bueno, voy con la segunda y esta es la que iba con consulta originalmente.
+
+Me pongo en contacto con una recruiter por una oferta de trabajo remoto + pago en usd. Me llama, me pide mi cv, mi experiencia, datos y el pretendido *en pesos* (en ese momento no me avive, pero les tire un numero alto porque me estaban rompiendo un poco las bolas y dijeron no habia problema) y termina comentandome sobre las busquedas que maneja diciendo que eventualmente van a contactarse conmigo.
+
+Cuestion que una de esas empresas me llama, para trabajar onsite, a esta altura ya fue, no me molesta trabajar onsite y no me avive de entrada asi que dije bueno, me la banco por distraido.
+
+Vuelvo a tener una conversacion sobre mis skills, experiencia y pretendido, me cuentan sobre ellos, son un partner de microsoft. Me dicen que me van a mandar un challenge para evaluar mi seniority y remuneracion.
+
+Cuando me mandan el challenge evaluan los siguientes puntos:
+
+```
+- Working with little information &amp; direction
+- Planning
+- Acquiring new knowledge
+- Resolving problems of moderated complexity
+- Presenting information &amp; written communication
+- Conceptualizing
+- Customer orientation
+- Detail orientation
+```
+
+Pero cuando leo el problema:
+
+```
+The site is an MVC 4 web application running on a hosting platform with a maximum allowed quota of 512 MB, and the event list is implemented with the DataTables jQuery plug-in (version 1.9.4) which is configured in server-side mode.
+```
+
+Y no tengo ni la mas remota idea de que es. Resulta que MVC 4 es algo de .NET, que por lejos ni se acerca a mi perfil. Y ahora no entiendo si es parte del challenge poder resolverlo igual por el punto de "Acquiring new knowledge" o no entendieron nada de mi perfil. So, no se que responderle.
+13:10:12 - Mariano Montero (@etmaro):
+cuanto te importa entrar en ese laburo?
+13:10:34 - Mariano Montero (@etmaro):
+Si a mi me mandan algo que se ajusta 0 a mi perfil le digo que no tengo idea
+13:11:06 - Mariano Montero (@etmaro):
+Pero si te interesa mucho entrar podes tratar de hacerl y avisarle que no tenias mucha experiencia en ese stack
+13:11:35 - Hernán B (@hernimen):
+Si ni sabes de cual es la empresa o si te interesa, yo no haria nada.
+13:11:37 - Mariano Montero (@etmaro):
+Lo que si tirale la posta al toque, o si no vas a quedar como el que sabe MVC 4
+13:11:56 - Hernán B (@hernimen):
+Y si te mandan un examen que no tiene nada que ver con lo que haces, tampoco gastaria tiempo.
+14:24:40 - Heber (@heber.acostalipera):
+*UPDATE*
+
+```
+Hola Micaela, como estas?
+
+Queria comentarte que las tecnologias a utilizar durante el ejercicio no coinciden con mi perfil. Eso es parte del ejercicio?
+```
+```
+Hola Heber! Si, la intención es poder evaluar cómo lo resolves! Trata de investigar y poner lo mejor! Éxitos!
+```
+Estos van con todo :scream:
+14:25:34 - Santiago Ruffino (@santi_0898):
+Ah, que culiau
+14:25:36 - Santiago Ruffino (@santi_0898):
+Jajaja
+14:27:29 - Pablo Miceli (@pablomiceli24):
+ahora te clavan .net forever jaja
+14:27:42 - Heber (@heber.acostalipera):
+what is wrong with this people
+14:27:49 - Heber (@heber.acostalipera):
+encima mvc 4 es como del 2012
+14:28:01 - Luis Alvarez (@luistensai):
+por ahí necesitan alguien que migre de eso a nodejs :man-shrugging:
+14:28:14 - Luis Alvarez (@luistensai):
+vaya uno a saber
+14:28:17 - Luis Alvarez (@luistensai):
+por qué tanto misterio
+14:28:35 - Heber (@heber.acostalipera):
+pero ni siquiera, yo hago front
+14:29:43 - Pablo Miceli (@pablomiceli24):
+es re cualquiera entonces, te hubieran puesto otra herramienta de front, tipo si sabes react... hacer algo en angular
+14:31:28 - Santiago Ruffino (@santi_0898):
+Te quisieron decir 'Si, no trabajas con X. Pero nos chupa un huevo. Necesitamos reclutar y disparamos a todos lados'
+14:44:05 - Martín Valdés de León (@mvaldesdeleon):
+Run away.
+14:48:38 - Martín Aimar (@maimar):
+“Estuve pensando y concluí en resolverlo de la siguiente manera: nos vemos en Disney.”
+14:50:04 - Martin Bavio (@mbavio):
+“chu :pala:”
+14:50:41 - Martín Aimar (@maimar):
+<https://youtu.be/A9HtQaAVicE>
+14:56:58 - Martín Valdés de León (@mvaldesdeleon):
+Mi gut feeling es que es una consultora mala leche y te quieren vender como algo que no sos.
+14:57:09 - Martín Valdés de León (@mvaldesdeleon):
+(Y que seguramente ni te interese ser)
+15:24:48 - Martín Aimar (@maimar):
+no hay que instalar un kilombo de cosas para hacer .net encima?
+15:25:57 - Martín Valdés de León (@mvaldesdeleon):
+creo que con windows y visual studio (el de verdad) estas.
+15:26:21 - Martín Valdés de León (@mvaldesdeleon):
+pero la ultima vez que hice eso fue hace 5+ años.
+17:21:16 - Guido Vizoso (@guido.vizoso9):
+51K pesos engineer?
+17:22:17 - Gonzalo González Mora (@gonzalogm):
+Estimo que son USD
+17:22:29 - Gonzalo González Mora (@gonzalogm):
+anuales
+17:23:12 - Marcos Casagrande (@marcoscvp90):
+Es página de afuera, laburo remoto, así que si, 51-79k USD anuales.
+17:23:41 - Guido Vizoso (@guido.vizoso9):
+80k USD :fiestaparrot:
+17:24:18 - Marcos Casagrande (@marcoscvp90):
+pará, ahí leí: "This is a remote, home office based role in Argentina."
+17:24:50 - Marcos Casagrande (@marcoscvp90):
+Muchas empresas argentinas, ponele en StackOverflow a pesar de que el campo es para el sueldo anual, generalmente en USD, lo usan como salario mensual en ARS.
+17:26:31 - Gonzalo González Mora (@gonzalogm):
+Mmm vos decís que van a ser tan ratas de pagar eso?
+17:28:11 - Marcos Casagrande (@marcoscvp90):
+Estoy 50/50 ahora, no es la primera vez que lo veo. Es que empresa Argentina que pague 6.5k USD mensuales me parece raro lamentablemente.
+17:28:17 - Marcos Casagrande (@marcoscvp90):
+Pero habría que postularse y preguntar jaja.
+17:28:27 - Gonzalo González Mora (@gonzalogm):
+Sí, eso es verdad
+17:41:45 - Franco (@franco.dalessio12):
+Southworks, no? A mí me mandaron lo mismo para un puesto de front end con React jaja. Obviamente no lo hice y nunca más me dijeron nada, todo rarisimo
+18:03:20 - Brenq (@brenquispe993):
+Hay alguna escala de cuanto te tienen que pagar si sos Dev full PHP Ssr (on site) aca en Argentina ?
+18:04:20 - Brenq (@brenquispe993):
+Se que diverge bastante según empresa pero a veces no se si es poco o mucho
+18:05:50 - Ezequiel Leites (@leites25):
+Si te sirve, en donde laburaba yo, los 5 que estabamos como Php Ssr, para Marzo estabamos en 55k brutos y cuando nos fuimos de ahi, conseguiamos 70k brutos
+18:30:59 - Marcos Casagrande (@marcoscvp90):
+yo creo que cualquier cosa inferior a los 65k netos (unos 85 brutos), es muy poco para un semi senior.
+18:47:22 - Brenq (@brenquispe993):
+Ahora estoy casi con 50 en mano y con la parte core del sistema .  Ni idea cuánto ganan los demás . Pero a veces me replanteo o pedir más sueldo o buscar otro lado .
+18:48:40 - Brenq (@brenquispe993):
+Quiero cambiar de stack pero pensaba que incluso me iban a bajar más ese monto en otro lugar
+18:50:32 - Brenq (@brenquispe993):
+Toda referencia sirve !  Hace dos meses me ofrecieron 40 k en mano en otro laburo  y eso me hizo dudar bastante !
+18:50:32 - Marcos Casagrande (@marcoscvp90):
+la verdad, por mis amigos que quieren cambiar de laburo y andan buscando, todos reciben ofertas de más de 50 en mano (ganan menos actualmente).
+19:00:58 - Ezequiel Leites (@leites25):
+Yo este año en comparación a anteriores de PHP vi que se reactivo mucho las busquedas y que se pagaba bien dentro de todo, bien te digo de 55k brutos en adelante. Si queres cambiar de Stack, es si, es posible que te tiren un poco abajo si te toman como que tenes menos base, pero pensa que por menos de lo que estas ganando / negociarias en el laburo para quedarte no te conviene agarrar.
+19:20:09 - Brenq (@brenquispe993):
+Si ! Vi bastantes ofertas de PHP pero la verdad no se si me cambiaría por casi lo mismo . Si es de PHP obviamente pediría más aunque no vi grandes ofertas económicamente . Igual la verdad estoy mas tirando a querer cambiar de stack por curiosidad (Capaz un Python+Django , Node+Express o Golang mi favorito por lejos)
+19:22:33 - Ezequiel Leites (@leites25):
+Esta mas que bien lo de querer cambiar de Stack, te encontras con cosas "totalmente" nuevas. Node y Express hay a monton, los demás desconozco, seguro hay pero no le apunte nunca, se que Go usa MELI y que hasta hace un tiempo estaban buscando gente y haciendo workshops justamente para reclutar
+19:23:03 - Brenq (@brenquispe993):
+Si ! Es un buen punto de referencia.  La verdad no soy buena negociando números jajaj
+19:24:58 - Marcos Casagrande (@marcoscvp90):
+La única forma de que no te caguen, es ponerse en modo mercenario 100%. Si vas a cambiar de laburo o pedir aumento, te recomiendo al menos pedir 65k netos, en cualquier lugar conseguís eso hoy en día.
+19:25:01 - Diego Harari (@diehara):
+un jr con igles
+19:25:05 - Diego Harari (@diehara):
+gana 50 bruto
+19:45:19 - Brenq (@brenquispe993):
+Claro ! Más que me aburro enseguida y quiero probar tecnologías nuevas pero en mi laburo es prácticamente imposible actualmente . Eso y que no me quiero estancar. Si ! Se que Meli usa Go pero me cayo la propuesta de ellos en una mala época y no pude hacer bien lo que me pasaron ellos. Estaba viendo Medallia pero no vi ninguna propuesta JR que pidan Golang y en otros lugares si te piden es capaz con un +5 exp en Python y te capacitan en Go
+19:47:10 - Ezequiel Leites (@leites25):
+En mi experiencia, si les caes con la posta, te va a ir bien, a no ser que esten necesitando un Sr para que les apague fuego, si vos les vas y les decis, mira tengo todos estos conocimientos, pero la verdad me aburri y quiero pasarme a esto y la mejor forma de aprenderlo bien es usandolo dia a dia en el trabajo, te van a tomar.
+19:49:40 - Brenq (@brenquispe993):
+Tal cual ! jaja Debería ser mi respuesta automática cuando me mandan propuestas . En su momento pude haberlo pedido cuando quede a cargo del sistema y se fueron todos los señoritys altos y equivalentes a otra empresa , pero no quise obrar de mala fé y bueno ahí fallé yo :thumbsdown:
+19:50:16 - Daniel Broder (@dabroder):
+están hablando de pesos mensuales? o dólares anuales?
+19:50:52 - Brenq (@brenquispe993):
+Pesos neto mensuajes !
+19:51:38 - Daniel Broder (@dabroder):
+gracias <@UG8LEUKFS>
+19:53:17 - Brenq (@brenquispe993):
+Por nada ! Igual hablo de lo que pregunté yo jaja más arriba estaban hablando/mencionando otra propuesta que no si era pesos mensuajes o dolares anuales
+20:01:13 - Brenq (@brenquispe993):
+Voy a empezar a probar a esa ! La pensé pero como no tengo exp en las skills a veces no me mando.  Ni aunque lo intente la puedo versear asi que ese es el menor de los problemas jaja  Gracias por los consejos :+1::skin-tone-2:
+20:21:58 - Martín Aimar (@maimar):
+xx;/.’;fkkkzklkkjkkfkkkaskkogfgg;;puΩszzzzxassa~N,/.
+20:21:58 - Martín Aimar (@maimar):
+\
+20:35:44 - Rodrigo Ali (@rodrigojali):
+No sé martín eh. No sé.
+20:36:01 - Pereiro Antonio (@tonoezep):
+tuvo un USB
+20:38:05 - Martín Aimar (@maimar):
+es Juana
+20:38:15 - Martín Aimar (@maimar):
+eso tiene menos bugs que el código que escribo yo
