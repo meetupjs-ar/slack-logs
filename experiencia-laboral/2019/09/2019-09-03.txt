@@ -1,0 +1,90 @@
+21:12:19 - Heber (@heber.acostalipera):
+ese mismo! tambien vi el ejercicio en reddit, stackoverflow y glassdoor
+21:12:30 - Heber (@heber.acostalipera):
+si lo resolvemos entre todos nos contratan a todos juntos? :eyes:
+09:26:49 - Guido Torres (@contacto904):
+Buenas! Necesito asesoramiento laboral: soy newbie dev buscando laburo ASAP, jr, trainee, lo que sea para ganar experiencia y algo de guita a fin de mes. Tengo conocimientos de frontend (html/css/js) algunos frameworks (bootstrap, algo de bulma) GIT, algo de JSON y AJAX (muy básicos ambos) y me faltaría la parte de backend y frameworks JS que es lo que estoy aprendiendo en éste momento. Tengo una base fuerte de diseño (vengo de ese palo) y una poca experiencia haciendo un par de webs estáticas tipo landing
+
+Alguno me puede recomendar empresas o a que darle bola para conseguir algo, pasar un cv de referencia como para ver qué se busca? Qué muestran en cv a la hora de aplicar, hacen un "portfolio" de laburos o únicamente experiencia + conocimientos y van con eso? Qué me está faltando?
+
+*1 Ya mandé a accenture, globant y otras gigantes que me comentaron que aceptan ese tipo de puestos.
+*2 Ya estoy en linkedin que se que se mueve mucho por ahí (actualicé conocimientos, preferencias laborales, estoy en búsqeuda activa, etc)
+09:36:39 - Damian Cipolat (@damian.cipolat):
+Probá en fktech
+09:36:44 - Damian Cipolat (@damian.cipolat):
+Búscala en LinkedIn
+09:40:42 - Guido Torres (@contacto904):
+Dale, gracias!
+09:42:11 - Gonza Espeche (@espeche.g):
+dale bola al portfolio que es lo que más te va a sumar para conseguir el 1er laburo
+09:43:27 - Guido Torres (@contacto904):
+CV pdf + portfolio enviarías? Por lo que ví se presenta con algunas imágenes bien presentadas por proyecto y un párrafo, si hay algún link de github o live demo donde sea. Algo que me esté faltando?
+09:44:31 - Rodrigo (@rpinco):
+Aporto algo tambien, hay empresas que toman trainees para entrenar, como globant o accenture. No tienen la mejor reputacion en cuanto a seguir una carrera ahi, pero son los...starters :stuck_out_tongue:
+09:45:57 - Guido Torres (@contacto904):
+Si justamente envié a esas en ese plan, como para arrancar por algún lado que son las que el grueso me recomendó
+09:46:58 - Gonza Espeche (@espeche.g):
+Bueno, eso ya es medio subjetivo de cada uno. Lo que puede estar bueno es armar tu CV en pdf y ponerle hipervinculos a tu portfolio, github, live demo y todo lo que quieras mostrar, onda unificar todo en un mismo documento. Esta bueno también que en github tengas código subido.
+09:54:08 - Guido Torres (@contacto904):
+Excelente Gonzalo, gracias por el detalle. Si, actualmente lo tengo hecho así de hecho: tengo un portfolio (bien básico, 3 laburos) de páginas, todas con demo y subidas a github. Voy a ver de subir más cosas a github, otros proyectos y tenerlo más "armadito"
+10:13:40 - Gonza Espeche (@espeche.g):
+A pleno. Con tu background de diseño encima vas a tener una ventaja para roles frontend :+1:
+11:40:13 - Ezequiel Di Rosolini (@edirosolini):
+Buenas a todos 
+11:41:57 - Ezequiel Di Rosolini (@edirosolini):
+Me ofrecieron una posición en Montevideo alguien de allá me cuenta cómo es el estilo y costo de vida
+14:01:25 - Gonza Espeche (@espeche.g):
+<@UB2T44UTT> tiene the post of the post
+14:13:46 - Heber (@heber.acostalipera):
+para los starters es lo mejor que hay, creo que la mayoria empezamos en una de esas y cuando leveleas lo suficiente te vas a otro lado
+14:30:51 - Dayan Ruiz (@dayanr):
+<@UD8EDJYUB> cualquier cosa que necesites decime man, vivo en Montevideo
+15:39:53 - Franco Correa (@fcorrea):
+<@UD8EDJYUB> Lo mismo que Dayan, cualquier cosa avisanos y te damos una mano
+19:05:00 - Guido Vizoso (@guido.vizoso9):
+Alguno esta en X-Team?
+21:12:19 - Heber (@heber.acostalipera):
+ese mismo! tambien vi el ejercicio en reddit, stackoverflow y glassdoor
+21:12:30 - Heber (@heber.acostalipera):
+si lo resolvemos entre todos nos contratan a todos juntos? :eyes:
+09:26:49 - Guido Torres (@contacto904):
+Buenas! Necesito asesoramiento laboral: soy newbie dev buscando laburo ASAP, jr, trainee, lo que sea para ganar experiencia y algo de guita a fin de mes. Tengo conocimientos de frontend (html/css/js) algunos frameworks (bootstrap, algo de bulma) GIT, algo de JSON y AJAX (muy básicos ambos) y me faltaría la parte de backend y frameworks JS que es lo que estoy aprendiendo en éste momento. Tengo una base fuerte de diseño (vengo de ese palo) y una poca experiencia haciendo un par de webs estáticas tipo landing
+
+Alguno me puede recomendar empresas o a que darle bola para conseguir algo, pasar un cv de referencia como para ver qué se busca? Qué muestran en cv a la hora de aplicar, hacen un "portfolio" de laburos o únicamente experiencia + conocimientos y van con eso? Qué me está faltando?
+
+*1 Ya mandé a accenture, globant y otras gigantes que me comentaron que aceptan ese tipo de puestos.
+*2 Ya estoy en linkedin que se que se mueve mucho por ahí (actualicé conocimientos, preferencias laborales, estoy en búsqeuda activa, etc)
+09:36:39 - Damian Cipolat (@damian.cipolat):
+Probá en fktech
+09:36:44 - Damian Cipolat (@damian.cipolat):
+Búscala en LinkedIn
+09:40:42 - Guido Torres (@contacto904):
+Dale, gracias!
+09:42:11 - Gonza Espeche (@espeche.g):
+dale bola al portfolio que es lo que más te va a sumar para conseguir el 1er laburo
+09:43:27 - Guido Torres (@contacto904):
+CV pdf + portfolio enviarías? Por lo que ví se presenta con algunas imágenes bien presentadas por proyecto y un párrafo, si hay algún link de github o live demo donde sea. Algo que me esté faltando?
+09:44:31 - Rodrigo (@rpinco):
+Aporto algo tambien, hay empresas que toman trainees para entrenar, como globant o accenture. No tienen la mejor reputacion en cuanto a seguir una carrera ahi, pero son los...starters :stuck_out_tongue:
+09:45:57 - Guido Torres (@contacto904):
+Si justamente envié a esas en ese plan, como para arrancar por algún lado que son las que el grueso me recomendó
+09:46:58 - Gonza Espeche (@espeche.g):
+Bueno, eso ya es medio subjetivo de cada uno. Lo que puede estar bueno es armar tu CV en pdf y ponerle hipervinculos a tu portfolio, github, live demo y todo lo que quieras mostrar, onda unificar todo en un mismo documento. Esta bueno también que en github tengas código subido.
+09:54:08 - Guido Torres (@contacto904):
+Excelente Gonzalo, gracias por el detalle. Si, actualmente lo tengo hecho así de hecho: tengo un portfolio (bien básico, 3 laburos) de páginas, todas con demo y subidas a github. Voy a ver de subir más cosas a github, otros proyectos y tenerlo más "armadito"
+10:13:40 - Gonza Espeche (@espeche.g):
+A pleno. Con tu background de diseño encima vas a tener una ventaja para roles frontend :+1:
+11:40:13 - Ezequiel Di Rosolini (@edirosolini):
+Buenas a todos 
+11:41:57 - Ezequiel Di Rosolini (@edirosolini):
+Me ofrecieron una posición en Montevideo alguien de allá me cuenta cómo es el estilo y costo de vida
+14:01:25 - Gonza Espeche (@espeche.g):
+<@UB2T44UTT> tiene the post of the post
+14:13:46 - Heber (@heber.acostalipera):
+para los starters es lo mejor que hay, creo que la mayoria empezamos en una de esas y cuando leveleas lo suficiente te vas a otro lado
+14:30:51 - Dayan Ruiz (@dayanr):
+<@UD8EDJYUB> cualquier cosa que necesites decime man, vivo en Montevideo
+15:39:53 - Franco Correa (@fcorrea):
+<@UD8EDJYUB> Lo mismo que Dayan, cualquier cosa avisanos y te damos una mano
+19:05:00 - Guido Vizoso (@guido.vizoso9):
+Alguno esta en X-Team?
